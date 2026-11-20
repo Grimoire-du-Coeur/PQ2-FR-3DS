@@ -107,3 +107,58 @@ def fabriquer_cpk(fichiers: dict[str, bytes], compresses: set[str] = frozenset()
         debut = toc_pos + decalages[c]
         sortie[debut:debut + len(stockes[c])] = stockes[c]
     return bytes(sortie)
+
+
+# ---------------------------------------------------------------- image 3DS
+
+MU = 0x200   # « media unit » : les tailles NCSD/NCCH se comptent en blocs de 0x200
+
+
+def _romfs(nom: str, contenu: bytes) -> bytes:
+    """RomFS minimal : en-tête IVFC, puis niveau 3 avec un seul fichier à la racine."""
+    nom_utf16 = nom.encode("utf-16-le")
+    nom_utf16 += b"\0" * (-len(nom_utf16) % 4)
+    meta_dossier = struct.pack("<6I", 0, 0xFFFFFFFF, 0xFFFFFFFF, 0, 0xFFFFFFFF, 0)
+    meta_fichier = struct.pack("<IIQQII", 0, 0xFFFFFFFF, 0, len(contenu), 0xFFFFFFFF,
+                               len(nom.encode("utf-16-le"))) + nom_utf16
+    hachage = struct.pack("<I", 0)
+    pos = 0x28
+    zones = []
+    for bloc in (hachage, meta_dossier, hachage, meta_fichier):
+        zones.append((pos, len(bloc)))
+        pos += len(bloc)
+    donnees_pos = (pos + 15) // 16 * 16
+    niveau3 = struct.pack("<10I", 0x28, *[v for z in zones for v in z], donnees_pos)
+    niveau3 += hachage + meta_dossier + hachage + meta_fichier
+    niveau3 += bytes(donnees_pos - len(niveau3)) + contenu
+
+    taille_maitre = 0x20
+    bloc_log2 = 12
+    ivfc = b"IVFC" + struct.pack("<II", 0x10000, taille_maitre)
+    for i in range(3):
+        ivfc += struct.pack("<QQII", 0, len(niveau3) if i == 2 else 0, bloc_log2, 0)
+    ivfc += bytes(0x60 - len(ivfc)) + bytes(taille_maitre)
+    debut3 = (len(ivfc) + (1 << bloc_log2) - 1) // (1 << bloc_log2) * (1 << bloc_log2)
+    return ivfc + bytes(debut3 - len(ivfc)) + niveau3
+
+
+def fabriquer_3ds(cpk: bytes, title_id: int = 0x00040000001D7600, chiffre: bool = False) -> bytes:
+    """Image NCSD décryptée (ou marquée chiffrée) dont le RomFS contient ``data.cpk``."""
+    romfs = _romfs("data.cpk", cpk)
+    romfs += bytes(-len(romfs) % MU)
+    ncch = bytearray(0x400)
+    ncch[0x100:0x104] = b"NCCH"
+    struct.pack_into("<Q", ncch, 0x118, title_id)
+    ncch[0x150:0x15A] = b"CTR-P-AQ2P"
+    ncch[0x18F] = 0 if chiffre else 0x04        # bit NoCrypto
+    struct.pack_into("<II", ncch, 0x1B0, len(ncch) // MU, len(romfs) // MU)
+    partition = bytes(ncch) + romfs
+    struct.pack_into("<I", ncch, 0x104, len(partition) // MU)
+    partition = bytes(ncch) + romfs
+
+    debut = 0x4000
+    ncsd = bytearray(debut)
+    ncsd[0x100:0x104] = b"NCSD"
+    struct.pack_into("<IQ", ncsd, 0x104, (debut + len(partition)) // MU, title_id)
+    struct.pack_into("<II", ncsd, 0x120, debut // MU, len(partition) // MU)
+    return bytes(ncsd) + partition
