@@ -37,8 +37,7 @@ from extraire import LOCUTEURS
 from rom3ds import TITLE_ID_EU, ErreurImage, localiser_data_cpk
 
 SORTIE = commun.BUILD / "romfs" / "data.cpk"
-# Les remplacements les plus longs d'abord : « « » suivi d'une espace avant « « » seul.
-_REMPLACEMENTS = sorted(texte.REMPLACEMENTS.items(), key=lambda kv: -len(kv[0]))
+adapter = texte.adapter
 
 
 class ErreurInjection(ValueError):
@@ -48,13 +47,6 @@ class ErreurInjection(ValueError):
 def dossier_azahar() -> Path:
     appdata = Path(os.environ.get("APPDATA", Path.home() / "AppData" / "Roaming"))
     return appdata / "Azahar" / "load" / "mods" / f"{TITLE_ID_EU:016X}" / "romfs"
-
-
-def adapter(s: str) -> str:
-    """Remplace les caractères que la police n'a pas (« », æ, espaces insécables…)."""
-    for avant, apres in _REMPLACEMENTS:
-        s = s.replace(avant, apres)
-    return s
 
 
 def _locuteurs(trad: Path) -> dict[str, str]:

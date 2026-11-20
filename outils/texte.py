@@ -38,6 +38,15 @@ _POLICE = json.loads((Path(__file__).resolve().parent.parent / "police" / "carac
 ACCENTS: dict[str, bytes] = {ch: bytes.fromhex(code) for ch, code in _POLICE["accents"].items()}
 _ACCENT_DE_CODE: dict[bytes, str] = {code: ch for ch, code in ACCENTS.items()}
 REMPLACEMENTS: dict[str, str] = _POLICE["remplacements"]
+# Les plus longs d'abord : « « » suivi d'une espace avant « « » seul.
+_REMPLACEMENTS_TRIES = sorted(REMPLACEMENTS.items(), key=lambda kv: -len(kv[0]))
+
+
+def adapter(s: str) -> str:
+    """Remplace les caractères que la police n'a pas (« », æ, espaces insécables…)."""
+    for avant, apres in _REMPLACEMENTS_TRIES:
+        s = s.replace(avant, apres)
+    return s
 
 SAUT = "{SAUT}"
 PAGE = "{PAGE}"
