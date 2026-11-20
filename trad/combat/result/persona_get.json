@@ -2,21 +2,21 @@
   {
     "id": "P_GET_MSGID_GET",
     "en": "You gained the Persona{SAUT}{f 2 4 0}!",
-    "fr": ""
+    "fr": "Vous avez obtenu la Persona{SAUT}{f 2 4 0} !"
   },
   {
     "id": "P_GET_MSGID_RUNKUP",
     "en": "A Persona with even more skills has{SAUT}emerged!{PAGE}You gained the Persona{SAUT}{f 2 4 0}!",
-    "fr": ""
+    "fr": "Une Persona possedant encore plus{SAUT}de compétences est apparue !{PAGE}Vous avez obtenu la Persona{SAUT}{f 2 4 0} !"
   },
   {
     "id": "P_GET_MSGID_HIGH_RUNKUP",
     "en": "A high-level Persona has emerged!{PAGE}You gained the Persona{SAUT}{f 2 4 0}!",
-    "fr": ""
+    "fr": "Une Persona de haut niveau{SAUT}est apparue !{PAGE}Vous avez obtenu la Persona{SAUT}{f 2 4 0} !"
   },
   {
     "id": "P_GET_MSGID_TUTORIAL",
     "en": "When you win a battle, you may{SAUT}acquire a Persona.{PAGE}The more characters that are in Boost{SAUT}State at the end of battle, the higher{SAUT}your chances of getting a Persona.{SAUT}Make sure to go after enemy weaknesses!",
-    "fr": ""
+    "fr": "Lorsque vous remportez un combat, vous{SAUT}pouvez obtenir une Persona.{PAGE}Plus vous avez de personnages en état{SAUT}de Boost a la fin d'un combat, plus vos{SAUT}chances d'en obtenir une sont élevées.{SAUT}Pensez à cibler les faiblesses ennemies !"
   }
 ]

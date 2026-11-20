@@ -3,24 +3,24 @@
     "id": "MSG_000",
     "locuteur": "Morgana",
     "en": "...That makes it unanimous! We're{SAUT}infiltrating Mementos today!{PAGE}Sound good, Futaba?",
-    "fr": ""
+    "fr": "... C'est décidé ! On s'inflitre{SAUT}dans le Mementos aujourd'hui !{PAGE}N'est-ce pas, Futaba ?"
   },
   {
     "id": "MSG_001",
     "locuteur": "Futaba",
     "en": "Yessir! Navigator at the ready!",
-    "fr": ""
+    "fr": "Reçu 5 sur 5 ! Navigatrice prête{SAUT}à l'action !"
   },
   {
     "id": "MSG_002",
     "en": "Codename: Oracle.{PAGE}Foster daughter of the Boss who is{SAUT}currently providing my lodgings.{PAGE}Hacker extraordinaire and former{SAUT}shut-in. Very shy around strangers.",
-    "fr": ""
+    "fr": "Nom de code : Oracle.{PAGE}Fille adoptive du Patron qui{SAUT}m'héberge actuellement. Hackeuse{PAGE}extraordinaire et ancienne recluse.{SAUT}Très timide avec les inconnus."
   },
   {
     "id": "MSG_003",
     "locuteur": "Haru",
     "en": "Compared to the rest of you, I'm still{SAUT}rather inexperienced... But I'm not{SAUT}going to let you down!",
-    "fr": ""
+    "fr": "Comparé au reste d'entre vous,{SAUT}je manque encore d'expérience...{SAUT}Mais je ne vais pas vous décevoir !"
   },
   {
     "id": "MSG_004",
@@ -31,7 +31,7 @@
     "id": "MSG_005",
     "locuteur": "Ann",
     "en": "You're doing totally fine, Haru. You've{SAUT}been improving so fast!",
-    "fr": ""
+    "fr": "Tu te debrouilles très bien, Haru.{SAUT}Tu as progressé super vite !"
   },
   {
     "id": "MSG_006",
@@ -42,13 +42,13 @@
     "id": "MSG_007",
     "locuteur": "Ann",
     "en": "Hey, Makoto―Mementos action{SAUT}is fine and all, but are we okay{SAUT}on the Palace infiltration front?",
-    "fr": ""
+    "fr": "Dis Makoto, le Mementos,{SAUT}c'est bien beau, mais on est au point{SAUT}pour l'infiltration du palais ?"
   },
   {
     "id": "MSG_008",
     "locuteur": "Makoto",
     "en": "No issues there. It'd be best for us to{SAUT}hone our skills in Mementos so we can{SAUT}be prepared for the Palace.",
-    "fr": ""
+    "fr": "Aucun souci de ce côté-là. Il faudrait{SAUT}qu'on affûte nos compétences dans le{SAUT}Mementos afin d'être prêts pour le palais."
   },
   {
     "id": "MSG_009",
@@ -59,7 +59,7 @@
     "id": "MSG_010",
     "locuteur": "Yusuke",
     "en": "I enjoy exploring Mementos...{SAUT}There's so much inspiration{SAUT}to take away from there.",
-    "fr": ""
+    "fr": "Je me plais à explorer le Mementos...{SAUT}Ce lieu regorge d'une inspiration{SAUT}infinie..."
   },
   {
     "id": "MSG_011",
@@ -70,7 +70,7 @@
     "id": "MSG_012",
     "locuteur": "Morgana",
     "en": "I've gotta say, I'm really curious{SAUT}about that place too. I can just tell{SAUT}something odd is going on there...",
-    "fr": ""
+    "fr": "Je doit dire que cet endroit m'intrigue{SAUT}beaucoup aussi. Je sens que quelque{SAUT}chose d'anormal s'y trame..."
   },
   {
     "id": "MSG_013",
@@ -81,7 +81,7 @@
     "id": "MSG_014",
     "locuteur": "Ryuji",
     "en": "Well, Palace or Mementos, we're just{SAUT}gonna do what we always do!",
-    "fr": ""
+    "fr": "Palais ou Mementos,{SAUT}on fera comme d'habitude !"
   },
   {
     "id": "MSG_015",
@@ -92,31 +92,31 @@
     "id": "MSG_016",
     "locuteur": "Ryuji",
     "en": "Oh, but where's that guy... This is his{SAUT}first time heading into Mementos, right?{PAGE}I guess we could always ditch him...",
-    "fr": ""
+    "fr": "Au fait, où est passé ce type... C'est sa{SAUT}première fois dans le Mementos, pas vrai ?{PAGE}Je pense qu'on devrait l'abandonner..."
   },
   {
     "id": "MSG_017",
     "locuteur": "Akechi",
     "en": "Sorry for the wait.",
-    "fr": ""
+    "fr": "Désolé pour l'attente."
   },
   {
     "id": "MSG_018",
     "locuteur": "Ryuji",
     "en": "Hup...!",
-    "fr": ""
+    "fr": "Oups...!"
   },
   {
     "id": "MSG_019",
     "locuteur": "Futaba",
     "en": "Speak of the devil.",
-    "fr": ""
+    "fr": "En parlant du loup."
   },
   {
     "id": "MSG_020",
     "locuteur": "Akechi",
     "en": "Again, my apologies for being late.{SAUT}Work's been keeping my hands{SAUT}quite full.",
-    "fr": ""
+    "fr": "Encore toute mes excuses pour le retard.{SAUT}Le travail m'occupe énormément{SAUT}ces derniers temps."
   },
   {
     "id": "MSG_021",
@@ -127,29 +127,29 @@
     "id": "MSG_022",
     "locuteur": "Akechi",
     "en": "So, I overheard that we're going to{SAUT}some place called Mementos?",
-    "fr": ""
+    "fr": "Donc, j'ai cru entendre que nous nous{SAUT}rendions dans un endroit appelé Mementos ?"
   },
   {
     "id": "SEL_023",
     "choix": true,
     "en": "That's the gist of it.{OPTION}We sure are.",
-    "fr": ""
+    "fr": "C'est à peu près ça.{OPTION}C'est exact."
   },
   {
     "id": "MSG_024",
     "locuteur": "Akechi",
     "en": "Roger that, {f 6 1 30 0 0 0}.",
-    "fr": ""
+    "fr": "Entendu, {f 6 1 30 0 0 0}."
   },
   {
     "id": "MSG_025",
     "en": "My codename is \"Joker.\" I'm a second-{SAUT}year at Shujin High and the leader of{SAUT}the Phantom Thieves.{PAGE}I'm currently living above Cafe Leblanc.{SAUT}I've been put on probation due to{SAUT}a false accusation leveled against me.",
-    "fr": ""
+    "fr": "Mon nom de code est \"Joker.\" Je suis en{SAUT}seconde année au Lycée Shujin et{SAUT}le chef des Voleurs Fantômes.{PAGE}Je vis actuellement au café Leblanc.{SAUT}Je suis en probation à la suite d'une{SAUT}fausse accusation portée contre moi."
   },
   {
     "id": "MSG_026",
     "locuteur": "Morgana",
     "en": "Well, that's everyone!",
-    "fr": ""
+    "fr": "C'est bon pour tout le monde !"
   }
 ]

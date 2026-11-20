@@ -3,108 +3,108 @@
     "id": "MSG_000",
     "locuteur": "Morgana",
     "en": "Another brilliant victory, Joker!",
-    "fr": ""
+    "fr": "Encore une sacrée victoire, Joker !"
   },
   {
     "id": "MSG_001",
     "locuteur": "Akechi",
     "en": "Mementos...{PAGE}So, this place was formed by society's{SAUT}collective unconscious? That makes it{SAUT}the entire population's Palace...{PAGE}This seems to be another, different{SAUT}form of the cognitive world.",
-    "fr": ""
+    "fr": "Le Mementos...{PAGE}Cet endroit a été formé par l'inconscient{SAUT}collectif de la société ? C'est donc le{SAUT}palais de la population toute entière...{PAGE}On dirait bien qu'il s'agit d'une toute{SAUT}autre forme du monde cognitif."
   },
   {
     "id": "MSG_002",
     "locuteur": "Yusuke",
     "en": "Who knows what lies within its depths?{SAUT}It strikes at the heart of my intellectual{SAUT}curiosity.",
-    "fr": ""
+    "fr": "Que peut-il bien se cacher dans ses{SAUT}profondeurs ? Cela touche au cœur même{SAUT}de ma curiosité intellectuelle."
   },
   {
     "id": "MSG_003",
     "locuteur": "Haru",
     "en": "On the other hand, it's pretty frightening{SAUT}as well...",
-    "fr": ""
+    "fr": "D'un autre côté, c'est quand même{SAUT}assez effrayant..."
   },
   {
     "id": "MSG_004",
     "locuteur": "Ann",
     "en": "I still remember hating this place when{SAUT}we first started coming here.",
-    "fr": ""
+    "fr": "Je me souviens encore à quel point{SAUT}je détestais cet endroit quand on a{SAUT}commencé à venir ici."
   },
   {
     "id": "MSG_005",
     "locuteur": "Futaba",
     "en": "If we keep dallying like this, we're{SAUT}gonna end up meeting some mobs.{SAUT}Mona, you oughta transform.",
-    "fr": ""
+    "fr": "Si on continue a traîner comme ça,{SAUT}on va finir par tomber sur des mobs.{SAUT}Mona, tu devrait te transformer."
   },
   {
     "id": "MSG_007",
     "locuteur": "Futaba",
     "en": "Monaaa?",
-    "fr": ""
+    "fr": "Monaaa ?"
   },
   {
     "id": "MSG_008",
     "locuteur": "Haru",
     "en": "What's the matter, Mona-chan?",
-    "fr": ""
+    "fr": "Quelque chose ne va pas, Mona ?"
   },
   {
     "id": "MSG_009",
     "locuteur": "Morgana",
     "en": "Oh! Sorry. It's just that Mementos feels...{SAUT}different than usual.",
-    "fr": ""
+    "fr": "Oh ! Désolé.{SAUT}C'est juste que le Mementos me paraît...{SAUT}différent de d'habitude."
   },
   {
     "id": "MSG_010",
     "locuteur": "Makoto",
     "en": "Different how?",
-    "fr": ""
+    "fr": "Différent ?"
   },
   {
     "id": "MSG_011",
     "locuteur": "Ryuji",
     "en": "...Ain't this what it's always like? Hey,{SAUT}Joker, what do you think?",
-    "fr": ""
+    "fr": "... C'est pas comme ça depuis toujours ? Hé,{SAUT}Joker, t'en pense quoi ?"
   },
   {
     "id": "SEL_012",
     "choix": true,
     "en": "Same Mementos as always.{OPTION}It does seem different.{OPTION}No clue.",
-    "fr": ""
+    "fr": "Le même Mementos que d'habitude.{OPTION}Ça semble être différent.{OPTION}Aucun indice."
   },
   {
     "id": "MSG_013",
     "locuteur": "Ann",
     "en": "I think so, too.",
-    "fr": ""
+    "fr": "Je pense ça, moi aussi."
   },
   {
     "id": "MSG_014",
     "locuteur": "Yusuke",
     "en": "Oh? It seems I lack the training{SAUT}necessary to sense it.",
-    "fr": ""
+    "fr": "Oh ?{SAUT}Il semble que je n'aie pas l'entraînement{SAUT}nécessaire pour le percevoir."
   },
   {
     "id": "MSG_015",
     "locuteur": "Ann",
     "en": "It feels the same as always to me...",
-    "fr": ""
+    "fr": "Pour moi, ça me fait toujours{SAUT}le même effet..."
   },
   {
     "id": "MSG_016",
     "locuteur": "Yusuke",
     "en": "I, too, have no idea.",
-    "fr": ""
+    "fr": "Moi non plus, je n'en ai aucune idée."
   },
   {
     "id": "MSG_017",
     "locuteur": "Morgana",
     "en": "Hmm... guess it's just my imagination.{PAGE}Anyways, it's transformation time!{SAUT}Back up, everyone!",
-    "fr": ""
+    "fr": "Hmm... je suppose que c'est juste{SAUT}mon imagination.{PAGE}Peu importe, c'est l'heure de la{SAUT}transformation ! Tout le monde, reculez !"
   },
   {
     "id": "MSG_018",
     "locuteur": "Akechi",
     "en": "I can't believe this cat turns into a car...{SAUT}What a fascinating world this is.  ",
-    "fr": ""
+    "fr": "je n'arrive pas à croire que ce chat{SAUT}puisse se changer en véhicule...{SAUT}Quel monde fascinant.  "
   }
 ]

@@ -3,12 +3,12 @@
     "id": "MSG_BTL_600_000",
     "locuteur": "Makoto",
     "en": "Ngh, it's too strong! If this keeps up...!",
-    "fr": ""
+    "fr": "Ngh, c'est bien trop fort !{SAUT}Si ça continue... !"
   },
   {
     "id": "MSG_BTL_600_001",
     "locuteur": "Futaba",
     "en": "That's no ordinary enemy! Everyone,{SAUT}run!",
-    "fr": ""
+    "fr": "Ce truc n'a rien d'ordinaire !{SAUT}Tout le monde, courez !"
   }
 ]

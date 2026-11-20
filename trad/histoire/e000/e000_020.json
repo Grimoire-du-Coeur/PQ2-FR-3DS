@@ -3,126 +3,126 @@
     "id": "MSG_000",
     "locuteur": "Ryuji",
     "en": "Hell yeah, another day of class{SAUT}complete! Man, was that hellish!",
-    "fr": ""
+    "fr": "Putain, enfin un autre jour de cours{SAUT}terminé ! C'était un enfer !"
   },
   {
     "id": "MSG_001",
     "locuteur": "Ryuji",
     "en": "*yawn* So sleepy...",
-    "fr": ""
+    "fr": "*baille* Tellement fatigué..."
   },
   {
     "id": "MSG_002",
     "locuteur": "Morgana",
     "en": "C'mon Ryuji, pull yourself together!{SAUT}Don't get all lazy on us now.",
-    "fr": ""
+    "fr": "Aller Ryuji, reprends toi !{SAUT}Ne nous lâche pas maintenant."
   },
   {
     "id": "MSG_003",
     "locuteur": "Ryuji",
     "en": "Nah, I've just had a hard time fallin'{SAUT}asleep lately―Phantom Thieves stuff{SAUT}on my mind, an' all...{PAGE}It's getting so bad, I slept through most{SAUT}of class today...",
-    "fr": ""
+    "fr": "Nan, j'ai juste eu du mal à m'endormir{SAUT}ces derniers temps, avec ces histoires{SAUT}de Voleurs Fantômes et tout...{PAGE}Et ça s'améliore pas, j'ai dormi{SAUT}durant la plupart des cours..."
   },
   {
     "id": "MSG_004",
     "locuteur": "Morgana",
     "en": "Isn't that what you do every day?",
-    "fr": ""
+    "fr": "Ce n'est pas ce que tu fais{SAUT}tout les jours ?"
   },
   {
     "id": "MSG_005",
     "locuteur": "Ryuji",
     "en": "Shut up! So, what're we doin' now?{PAGE}Our time limit's still a ways off, but{SAUT}who cares? Let's all meet up at{SAUT}the hideout anyway!",
-    "fr": ""
+    "fr": "La ferme ! Bon, qu'est-ce qu'on{SAUT}fait maintenant ?{PAGE}On a encore le temps avant la date limite,{SAUT}mais on s'en fiche ? Retrouvons-nous{SAUT}tous à la planque de toute façon !"
   },
   {
     "id": "SEL_006",
     "choix": true,
     "en": "That's the plan.{OPTION}And do what, exactly?{OPTION}I want to grab some ramen first.",
-    "fr": ""
+    "fr": "C'est le plan.{OPTION}Et faire quoi, exactement ?{OPTION}Je veux manger des ramens d'abord."
   },
   {
     "id": "MSG_007",
     "locuteur": "Ryuji",
     "en": "That's what I'm talkin' about! Always{SAUT}straight to the point.",
-    "fr": ""
+    "fr": "C'est exactement ça ! Toujours{SAUT}droit au but."
   },
   {
     "id": "MSG_008",
     "locuteur": "Ryuji",
     "en": "Eh, we can figure that out once we're{SAUT}all there.",
-    "fr": ""
+    "fr": "Euh, on verra ça une fois qu'on y sera{SAUT}tous."
   },
   {
     "id": "MSG_009",
     "locuteur": "Morgana",
     "en": "Sounds good to me.",
-    "fr": ""
+    "fr": "C'est bon pour moi."
   },
   {
     "id": "MSG_010",
     "locuteur": "Ryuji",
     "en": "Oh, too cool for the gang, huh?{SAUT}...Then again, I could go for{SAUT}a bowl myself.",
-    "fr": ""
+    "fr": "Oh, trop cool pour la bande, hein ?{SAUT}D'un autre côté, je ne dirais pas non{SAUT}à un bon bol moi non plus."
   },
   {
     "id": "MSG_011",
     "locuteur": "Morgana",
     "en": "Hey, it's too early for dinner! We{SAUT}should meet up at the hideout.",
-    "fr": ""
+    "fr": "Hé, c'est trop tôt pour dîner ! On{SAUT}devrait se retrouver à la planque."
   },
   {
     "id": "MSG_012",
     "locuteur": "Haru",
     "en": "Oh, hello everyone.",
-    "fr": ""
+    "fr": "Oh, bonjour tout le monde."
   },
   {
     "id": "MSG_013",
     "locuteur": "Ryuji",
     "en": "Ooh, perfect timing! We were just{SAUT}talkin' about heading to the hideout.",
-    "fr": ""
+    "fr": "Ooh, timing parfait ! On parlait justement{SAUT}d'aller à la planque."
   },
   {
     "id": "MSG_014",
     "locuteur": "Haru",
     "en": "Well, I'm free for the rest of the day.{SAUT}I have more free time now that things{SAUT}have settled down in the company.",
-    "fr": ""
+    "fr": "Je suis libre pour le reste de la journée.{SAUT}J'ai plus de liberté maintenant que{SAUT}les choses se sont calmées à l'entreprise."
   },
   {
     "id": "MSG_015",
     "locuteur": "Morgana",
     "en": "Ryuji, send the word out to everyone.",
-    "fr": ""
+    "fr": "Ryuji, fais passer le mot à tout le monde."
   },
   {
     "id": "MSG_016",
     "locuteur": "Ryuji",
     "en": "Okay!",
-    "fr": ""
+    "fr": "Okay !"
   },
   {
     "id": "MSG_017",
     "locuteur": "Ryuji",
     "en": "\"Let's all meet up at the hideout...\"",
-    "fr": ""
+    "fr": "\"Retrouvons-nous tous à la planque...\""
   },
   {
     "id": "MSG_018",
     "locuteur": "Ryuji",
     "en": "Damn, that was fast!",
-    "fr": ""
+    "fr": "Woah, c'était rapide !"
   },
   {
     "id": "MSG_018_5",
     "locuteur": "Ryuji",
     "en": "Everyone says they're down to meet{SAUT}at Leblanc.",
-    "fr": ""
+    "fr": "Tout le monde est partant pour qu'on{SAUT}se retrouve au Leblanc."
   },
   {
     "id": "MSG_019",
     "locuteur": "Haru",
     "en": "Shall we, then?",
-    "fr": ""
+    "fr": "On y va, du coup ?"
   }
 ]

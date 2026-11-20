@@ -3,30 +3,30 @@
     "id": "MSG_000",
     "locuteur": "Ann",
     "en": "We've never seen that Shadow before,{SAUT}but let's hurry up and kick its butt―",
-    "fr": ""
+    "fr": "On a jamais vu cette Ombre avant,{SAUT}mais dépéchons-nous de lui botter le train-"
   },
   {
     "id": "MSG_001",
     "locuteur": "Ann",
     "en": "Wait... Wh-What the...? My body feels{SAUT}weird...",
-    "fr": ""
+    "fr": "Attends... qu-qu'est-ce que... ?{SAUT}Mon corps... se sent trop bizarre..."
   },
   {
     "id": "MSG_002",
     "locuteur": "Haru",
     "en": "Oh... I can't gather up my strength{SAUT}like usual either...",
-    "fr": ""
+    "fr": "Oh... Moi non plus, je n'arrive pas à{SAUT}rassembler mes forces comme d'habitude..."
   },
   {
     "id": "MSG_003",
     "locuteur": "Makoto",
     "en": "You too!? So it's not just me...",
-    "fr": ""
+    "fr": "Vous aussi !? Donc il n'y a pas{SAUT}que moi..."
   },
   {
     "id": "MSG_004",
     "locuteur": "Morgana",
     "en": "We'll have to figure it out later! Here it{SAUT}comes!",
-    "fr": ""
+    "fr": "On comprendra ça plus tard !{SAUT}Attention, elle arrive !"
   }
 ]

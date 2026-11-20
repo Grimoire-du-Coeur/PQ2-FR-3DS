@@ -3,51 +3,51 @@
     "id": "IP_EXCESS_YESNO",
     "choix": true,
     "en": "Yes{OPTION}No",
-    "fr": ""
+    "fr": "Oui{OPTION}Non"
   },
   {
     "id": "IP_EXCESS_ITEM",
     "en": "Discard the selected item(s)?",
-    "fr": ""
+    "fr": "Jeter les objets selectionnés?"
   },
   {
     "id": "IP_EXCESS_PERSONA",
     "en": "Do you want to erase{SAUT}{f 0 1 1}{f 2 4 0}{f 0 1 0}?",
-    "fr": ""
+    "fr": "Voulez-vous effacer{SAUT}{f 0 1 1}{f 2 4 0}{f 0 1 0}?"
   },
   {
     "id": "IP_EXCESS_PERSONA_BUSY",
     "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} is an{SAUT}equipped Persona. Erase it?",
-    "fr": ""
+    "fr": "{f 0 1 1}{f 2 4 0}{f 0 1 0} est equipé.{SAUT}Voulez-vous l'effacer?"
   },
   {
     "id": "IP_EXCESS_PERSONA_END",
     "en": "The Persona {f 0 1 1}{f 2 4 0}{f 0 1 0} has{SAUT}disappeared from your mind.",
-    "fr": ""
+    "fr": "La Persona {f 0 1 1}{f 2 4 0}{f 0 1 0} s'est{SAUT}dissipé de votre esprit."
   },
   {
     "id": "IP_EXCESS_PERSONA_MULTI",
     "en": "Do you want to erase all the{SAUT}selected Personas?",
-    "fr": ""
+    "fr": "Voulez-vous effacer toutes les{SAUT}Personae selectionnées?"
   },
   {
     "id": "IP_EXCESS_PERSONA_BUSY_M",
     "en": "One of the Personas you have{SAUT}selected is currently equipped.{SAUT}Do you wish to erase them all?",
-    "fr": ""
+    "fr": "Une des Personae selectionnées est{SAUT}actuellement equipée.{SAUT}Voulez-vous toutes les effacer?"
   },
   {
     "id": "IP_EXCESS_PERSONA_END_MU",
     "en": "The selected Personas have{SAUT}disappeared from your mind.",
-    "fr": ""
+    "fr": "Les Personae selectionnées se sont{SAUT}dissipées de votre esprit."
   },
   {
     "id": "IP_EXCESS_HELP",
     "en": "You cannot carry any more Personas.{SAUT}Select a Persona to erase.",
-    "fr": ""
+    "fr": "Limite de Personae atteinte.{SAUT}Sélectionnez une Persona a effacer."
   },
   {
     "id": "IP_EXCESS_CANT_DELETE_DL",
     "en": "DLC items cannot be discarded.",
-    "fr": ""
+    "fr": "Impossible de jeter les objets DLC."
   }
 ]

@@ -3,76 +3,76 @@
     "id": "MSG_001",
     "locuteur": "Morgana",
     "en": "...ey.{PAGE}...eey, get up!",
-    "fr": ""
+    "fr": "... Hey.{PAGE}... Hey, réveille toi !"
   },
   {
     "id": "MSG_002",
     "locuteur": "Morgana",
     "en": "Geez, you're finally awake. Class has{SAUT}been over for a while now...",
-    "fr": ""
+    "fr": "Pfiou, tu es enfin réveillé. Les{SAUT}cours sont finis depuis un moment..."
   },
   {
     "id": "SEL_003",
     "choix": true,
     "en": "I'm not in a theater anymore?{OPTION}That butterfly...",
-    "fr": ""
+    "fr": "Je ne suis plus dans un cinéma ?{OPTION}Ce papillon..."
   },
   {
     "id": "MSG_004",
     "locuteur": "Morgana",
     "en": "Are you still half-asleep or something?",
-    "fr": ""
+    "fr": "T'es encore à moitié endormi ou quoi ?"
   },
   {
     "id": "MSG_005",
     "locuteur": "Morgana",
     "en": "Butterfly? What are you talking about?",
-    "fr": ""
+    "fr": "Un papillon ? De quoi est-ce que{SAUT}tu parles ?"
   },
   {
     "id": "MSG_006",
     "en": "My head feels like it's spinning...",
-    "fr": ""
+    "fr": "J'ai l'impression que ma tête tourne..."
   },
   {
     "id": "MSG_007",
     "locuteur": "Morgana",
     "en": "Hey, are you sure you're feeling okay?{SAUT}Did you have some kind of weird{SAUT}dream?",
-    "fr": ""
+    "fr": "Hey, t'es sûr que ça va ?{SAUT}T'as fait une sorte de rêve bizarre ?"
   },
   {
     "id": "MSG_008",
     "en": "Shujin High, Classroom 2-D...{PAGE}I guess I fell asleep...",
-    "fr": ""
+    "fr": "Lycée Shujin, classe 2-D...{PAGE}J'ai dû m'endormir..."
   },
   {
     "id": "MSG_009",
     "locuteur": "Morgana",
     "en": "Well, now that you're up, let's get back{SAUT}home―we need to figure out our plans{SAUT}for the rest of the day!",
-    "fr": ""
+    "fr": "Bon, maintenant que tu est reveillé, on{SAUT}rentre à la maison ? Nous devons{SAUT}planifier le reste de la journée !"
   },
   {
     "id": "SEL_010",
     "choix": true,
     "en": "Fine, fine.{OPTION}I'm still sleepy...",
-    "fr": ""
+    "fr": "D'accord, d'accord.{OPTION}J'ai encore sommeil..."
   },
   {
     "id": "MSG_011",
     "locuteur": "Morgana",
     "en": "The whole day's gonna blow by if we{SAUT}keep fooling around here. You need{SAUT}to make better use of your time!",
-    "fr": ""
+    "fr": "La journée va passer vite si on continue{SAUT}à traîner ici. Tu devrais mieux{SAUT}utiliser ton temps !"
   },
   {
     "id": "MSG_012",
     "locuteur": "Morgana",
     "en": "Then again, an awful lot's been going{SAUT}on lately―maybe all that hard work's{SAUT}finally catching up to you...{PAGE}I've got your back, so just hang in there,{SAUT}all right?",
-    "fr": ""
+    "fr": "Mais bon, il s'en est passé des choses{SAUT}ces derniers temps, non ? Tout cela{SAUT}finit peut-être par te rattraper...{PAGE}Je suis là pour toi, alors tiens bon,{SAUT}d'accord ?"
   },
   {
     "id": "MSG_013",
     "locuteur": "Morgana",
     "en": "Now, let's get out of here!",
-    "fr": ""
+    "fr": "Maintenant, sortons d'ici !"
   }
 ]

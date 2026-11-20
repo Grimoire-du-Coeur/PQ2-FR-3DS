@@ -2,17 +2,17 @@
   {
     "id": "CMPPOEM_PATHOS",
     "en": "Which pathos should I feel...?",
-    "fr": ""
+    "fr": "Quelle émotion suis-je censé ressentir... ?"
   },
   {
     "id": "CMPPOEM_NOT_PATHOS",
     "en": "I don't sense anything now...",
-    "fr": ""
+    "fr": "Je ne ressens plus rien maintenant..."
   },
   {
     "id": "CMPPOEM_SELECT_1",
     "choix": true,
     "en": "\"To the Heartless\"{OPTION}\"The Mongrels' Lullaby\"{OPTION}\"Bloody Bride\"{OPTION}\"Surprise Birthday\"{OPTION}\"Law\"{OPTION}\"The Seven Deadly Sins\"{OPTION}????{OPTION}????{OPTION}????{OPTION}????{OPTION}????{OPTION}????",
-    "fr": ""
+    "fr": "\"Aux Sans-cœur\"{OPTION}\"La Berceuse du Bâtard\"{OPTION}\"La Mariée Sanglante\"{OPTION}\"Anniversaire Surprise\"{OPTION}\"La Loi\"{OPTION}\"Les Sept Péchés Capitaux\"{OPTION}????{OPTION}????{OPTION}????{OPTION}????{OPTION}????{OPTION}????"
   }
 ]

@@ -3,22 +3,22 @@
     "id": "YESNO_SEL",
     "choix": true,
     "en": "Yes{OPTION}No",
-    "fr": ""
+    "fr": "Oui{OPTION}Non"
   },
   {
     "id": "DEAD_SEL",
     "choix": true,
     "en": "Continue{OPTION}Retreat",
-    "fr": ""
+    "fr": "Continuer{OPTION}Repli"
   },
   {
     "id": "BTL_CONTINUE",
     "en": "You may continue on the difficulty{SAUT}SAFETY. Continue?",
-    "fr": ""
+    "fr": "Vous pouvez continuer en difficulté{SAUT}SECURITÉ. Continuer ?"
   },
   {
     "id": "BTL_TEAM_DEAD",
     "en": "The team has been annihilated.{SAUT}Continue the battle?",
-    "fr": ""
+    "fr": "L'équipe a été anéantie.{SAUT}Continuer le combat ?"
   }
 ]

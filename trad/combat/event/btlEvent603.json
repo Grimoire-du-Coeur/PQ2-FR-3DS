@@ -3,18 +3,18 @@
     "id": "MSG_000",
     "locuteur": "Futaba",
     "en": "Hmmm!? I'm getting a different reading{SAUT}from that Shadow in the back...{PAGE}I feel like something's up with it!",
-    "fr": ""
+    "fr": "Hmmm !? J'ai un signal différent{SAUT}pour l'Ombre tout au fond...{PAGE}Je sens qu'il y a un truc qui cloche !"
   },
   {
     "id": "MSG_001",
     "locuteur": "Akechi",
     "en": "A special Shadow, you say? How{SAUT}interesting.",
-    "fr": ""
+    "fr": "Une Ombre particulière, tu dis ?{SAUT}Voilà qui est intéressant."
   },
   {
     "id": "MSG_002",
     "locuteur": "Yusuke",
     "en": "We can either focus our attacks on it{SAUT}now or deal with the others first... The{SAUT}decision is yours, Joker.",
-    "fr": ""
+    "fr": "Nous pouvons cibler cette Ombre{SAUT}ou d'abord éliminer les autres...{SAUT}La décision te revient, Joker."
   }
 ]

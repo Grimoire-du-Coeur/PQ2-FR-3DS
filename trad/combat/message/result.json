@@ -3,141 +3,141 @@
     "id": "BTLMSGID_RESULT00",
     "choix": true,
     "en": "Yes{OPTION}No",
-    "fr": ""
+    "fr": "Oui{OPTION}Non"
   },
   {
     "id": "BTLMSGID_RESULT01",
     "en": "{f 2 4 0}'s level has increased!",
-    "fr": ""
+    "fr": "Le niveau de {f 2 4 0} a augmenté!"
   },
   {
     "id": "BTLMSGID_RESULT02",
     "en": "{f 2 4 0}'s level has increased by {f 2 4 1}!",
-    "fr": ""
+    "fr": "Le niveau de {f 2 4 0} a augmenté de {f 2 4 1}!"
   },
   {
     "id": "BTLMSGID_RESULT03",
     "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} learned{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}!",
-    "fr": ""
+    "fr": "{f 0 1 1}{f 2 4 0}{f 0 1 0} a appris{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0} !"
   },
   {
     "id": "BTLMSGID_RESULT04",
     "en": "All skill slots are currently full.{SAUT}Please select a skill to erase.",
-    "fr": ""
+    "fr": "La liste de compétences est pleine.{SAUT}Choisissez une compétence a oublier."
   },
   {
     "id": "BTLMSGID_RESULT05",
     "en": "Erase {f 0 1 1}{f 2 4 0}{f 0 1 0}?",
-    "fr": ""
+    "fr": "Oublier {f 0 1 1}{f 2 4 0}{f 0 1 0} ?"
   },
   {
     "id": "BTLMSGID_RESULT06",
     "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} forgot{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}.",
-    "fr": ""
+    "fr": "{f 0 1 1}{f 2 4 0}{f 0 1 0} a oublié{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}."
   },
   {
     "id": "BTLMSGID_RESULT07",
     "en": "{f 0 1 1}{f 2 4 1}{f 0 1 0} has replaced{SAUT}{f 0 1 1}{f 2 4 0}{f 0 1 0}.",
-    "fr": ""
+    "fr": "{f 0 1 1}{f 2 4 1}{f 0 1 0} a remplacé{SAUT}{f 0 1 1}{f 2 4 0}{f 0 1 0}."
   },
   {
     "id": "BTLMSGID_RESULT08",
     "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has been upgraded to{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}!",
-    "fr": ""
+    "fr": "{f 0 1 1}{f 2 4 0}{f 0 1 0} a evolué{SAUT}en {f 0 1 1}{f 2 4 1}{f 0 1 0} !"
   },
   {
     "id": "BTLMSGID_RESULT09",
     "en": "Something is about to happen{SAUT}to {f 2 4 1}...",
-    "fr": ""
+    "fr": "Quelque chose est sur le point{SAUT}d'arriver à {f 2 4 1}..."
   },
   {
     "id": "BTLMSGID_RESULT10",
     "en": "{f 2 4 0} let out a sharp cry.",
-    "fr": ""
+    "fr": "{f 2 4 0} pousse un cri perçant."
   },
   {
     "id": "BTLMSGID_RESULT11",
     "en": "> BTLMSGID_RESULT11",
-    "fr": ""
+    "fr": "ê BTLMSGID_RESULT11"
   },
   {
     "id": "BTLMSGID_RESULT12",
     "en": "> BTLMSGID_RESULT12",
-    "fr": ""
+    "fr": "ê BTLMSGID_RESULT12"
   },
   {
     "id": "BTLMSGID_RESULT13",
     "en": "> BTLMSGID_RESULT13",
-    "fr": ""
+    "fr": "ê BTLMSGID_RESULT13"
   },
   {
     "id": "BTLMSGID_RESULT14",
     "en": "> BTLMSGID_RESULT14",
-    "fr": ""
+    "fr": "ê BTLMSGID_RESULT14"
   },
   {
     "id": "BTLMSGID_RESULT15",
     "en": "> BTLMSGID_RESULT15",
-    "fr": ""
+    "fr": "ê BTLMSGID_RESULT15"
   },
   {
     "id": "BTLMSGID_RESULT16",
     "en": "> BTLMSGID_RESULT16",
-    "fr": ""
+    "fr": "ê BTLMSGID_RESULT16"
   },
   {
     "id": "BTLMSGID_RESULT17",
     "en": "> BTLMSGID_RESULT17",
-    "fr": ""
+    "fr": "ê BTLMSGID_RESULT17"
   },
   {
     "id": "BTLMSGID_RESULT18",
     "en": "> BTLMSGID_RESULT18",
-    "fr": ""
+    "fr": "ê BTLMSGID_RESULT18"
   },
   {
     "id": "BTLMSGID_RESULT19",
     "en": "> BTLMSGID_RESULT19",
-    "fr": ""
+    "fr": "ê BTLMSGID_RESULT19"
   },
   {
     "id": "BTLMSGID_RESULT20",
     "en": "> BTLMSGID_RESULT12",
-    "fr": ""
+    "fr": "ê BTLMSGID_RESULT12"
   },
   {
     "id": "BTLMSGID_RESULT21",
     "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0}'s skill slots{SAUT}increased!",
-    "fr": ""
+    "fr": "Le nombre d'emplacements de competence{SAUT}de {f 0 1 1}{f 2 4 0}{f 0 1 0} a augmente!"
   },
   {
     "id": "BTLMSGID_RESULT22",
     "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} was reborn{SAUT}as {f 0 1 1}{f 2 4 1}{f 0 1 0}!",
-    "fr": ""
+    "fr": "{f 0 1 1}{f 2 4 0}{f 0 1 0} renait{SAUT}en {f 0 1 1}{f 2 4 1}{f 0 1 0}!"
   },
   {
     "id": "BTLMSGID_RESULT23",
     "en": "It seems a hidden potential has{SAUT}awakened in {f 0 1 1}{f 2 4 0}{f 0 1 0}...!",
-    "fr": ""
+    "fr": "Un potentiel cache semble s'etre eveille{SAUT}en {f 0 1 1}{f 2 4 0}{f 0 1 0}...!"
   },
   {
     "id": "BTLMSGID_RESULT24",
     "en": "Learned all skills dummy MSG.",
-    "fr": ""
+    "fr": "Toutes les competences ont ete apprises."
   },
   {
     "id": "BTLMSGID_RESULT25",
     "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} retained its form,{SAUT}but has become more powerful!",
-    "fr": ""
+    "fr": "{f 0 1 1}{f 2 4 0}{f 0 1 0} conserve sa forme,{SAUT}mais gagne en puissance!"
   },
   {
     "id": "BTLMSGID_RESULT26",
     "en": "Being reborn as {f 0 1 1}{f 2 4 0}{f 0 1 0}{SAUT}awakens new powers!",
-    "fr": ""
+    "fr": "Se reincarne en {f 0 1 1}{f 2 4 0}{f 0 1 0}{SAUT}eveille de nouveaux pouvoirs!"
   },
   {
     "id": "BTLMSGID_RESULT27",
     "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has been upgraded!",
-    "fr": ""
+    "fr": "{f 0 1 1}{f 2 4 0}{f 0 1 0} a evolue!"
   }
 ]
