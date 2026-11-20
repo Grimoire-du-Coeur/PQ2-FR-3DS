@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": "Now we have two.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "Good job, everyone! That should be{SAUT}enough to get the fryer fixed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Time for the duel!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "You're having fun with this, huh.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Well, it's not every day I see you{SAUT}get serious about a competition.{SAUT}I'm rooting for you, partner!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Aigis",
+    "en": "We will be cheering with equal{SAUT}support.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Koromaru",
+    "en": "Awoooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Hero",
+    "en": "I'll do my best.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "They're counting on you.{OPTION}You accepted the duel?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Hero",
+    "en": "Not just me. {f 6 1 13 0 0 0}, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Hero",
+    "en": "I mean, they're cheering pretty hard{SAUT}for me. I'm sure {f 6 1 13 0 0 0} doesn't want{SAUT}to let his team down either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Kanji",
+    "en": "-senpai! I'll be your head{SAUT}cheerleader!{PAGE}If it's too much for you, I'll rub your{SAUT}back! If you faint, I'm gonna be the{SAUT}guy carryin' you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "G-Great...{PAGE}That's what they're expecting from{SAUT}me, huh...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Hero",
+    "en": "Eh, you're tough. Everyone believes{SAUT}in you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P4 Hero",
+    "en": "I don't know if they believe in me{SAUT}because I'm tough. I think it's the{SAUT}other way around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Hero",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P4 Hero",
+    "en": "Because I have all of them believing{SAUT}in me, I've become this strong.{PAGE}I got better so I'd never let my{SAUT}friends down.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "I know how that feels.{OPTION}Guess it's universal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Hero",
+    "en": "Heh... I see your point. My friends{SAUT}are what keep me fighting, too.{PAGE}Feels like we rely on them more{SAUT}than they ever rely on us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Junpei",
+    "en": "Hey, pick it up, you two. Or else{SAUT}Akihiko-senpai's gonna...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akihiko",
+    "en": "I've got it! What if we made flags for{SAUT}each team?{PAGE}Two powerful rivals pitted against{SAUT}each other! I'm rooting for both of{SAUT}them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Hero",
+    "en": "That's a little much...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yukiko",
+    "en": "I'll get some condiments ready to{SAUT}help you eat all you can.{PAGE}Maybe some mustard would help them{SAUT}go down? Oh, or some nice, salty{SAUT}soy sauce!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P4 Hero",
+    "en": "On donuts?{PAGE}...I'm good, thanks. It's the thought{SAUT}that counts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Hero",
+    "en": "...Let's just get this over with, before{SAUT}it gets any worse for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P4 Hero",
+    "en": "Right. Let's head back to the theater.",
+    "fr": ""
+  }
+]

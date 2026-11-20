@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosukesaurus",
+    "en": "Ah, here―this is it! See? There's a thing{SAUT}sticking out of the box here...{PAGE}All you've gotta do is pull that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Nice! Well, why don't we give it a shot?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "We just need to pull this switch, right?{SAUT}What's your call, Joker? Should we try it?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Why not?{OPTION}Let's not.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "Huh? Nothin's happening.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Well, duh. We need to go back to{SAUT}that gate―{PAGE}Hm? A number...{PAGE}Wha―It's a countdown!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kanji",
+    "en": "Shit!? I-I-Is it gonna explode!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "What!? Nobody told me anything about{SAUT}an explosion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "Please, calm down. Take a look at the{SAUT}display...{PAGE}This most likely shows us the amount of{SAUT}time remaining before the electric{SAUT}current in the gate is reactivated.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "Basically, we need to get past the gate{SAUT}before the countdown hits zero.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Kanji",
+    "en": "Oh, what the―You scared the shit outta{SAUT}me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "This is likely where the humans here{SAUT}would lure the carnivores...{PAGE}If so, they would have designed the{SAUT}device to be used repeatedly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "That's a good point. If the timer runs out{SAUT}on us, we can simply reactivate it with{SAUT}this control box.{PAGE}There's no need to worry. Everything{SAUT}will go smoothly if we keep our wits{SAUT}about us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Ah, you wanna poke around a little{SAUT}more, then?",
+    "fr": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Careful, you guys! I'm picking up a{SAUT}powerful reading just ahead! It looks{SAUT}like the Ravenous Beast!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Yeah, I'm sensing some intense{SAUT}bloodlust. It seems we've been noticed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Grrrrr...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "Heh, a beast that devours everything it{SAUT}sees, huh? Not a bad opponent, if you{SAUT}ask me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "One false move and you're dino food!{SAUT}Don't get eaten out there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akihiko",
+    "en": "I'd like to see it try! Bring it on!",
+    "fr": ""
+  }
+]

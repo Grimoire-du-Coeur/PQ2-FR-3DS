@@ -1,0 +1,3234 @@
+[
+  {
+    "id": "BTLMSGID_DUMMY0",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DUMMY1",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_AP_SINGLE",
+    "en": "{f 2 4 0} has appeared!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_AP_S_MANY",
+    "en": "{f 2 4 0}s have appeared!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_AP_D_MANY",
+    "en": "Shadows have appeared!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_AP_E_SUP",
+    "en": "The party was blindsided!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_AP_E_SUP_STOP",
+    "en": "But {f 2 4 1} anticipated the move.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_AP_S_SUP",
+    "en": "{f 2 4 0} struck first!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_AP_D_SUP",
+    "en": "Preemptive attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADDENEMY_OPEN",
+    "en": "{f 2 4 0} was summoned to battle!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADDENEMY_FOE",
+    "en": "A new monster has joined the fray!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_ADDENEMY_FOEDEA",
+    "en": "A dark figure attacks the Shadows!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_CMD",
+    "en": "What will you do?",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_CMD_NO",
+    "en": "{f 2 4 0} cannot move!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_CMD_NO_ALL",
+    "en": "Your party is powerless to act!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_STONE",
+    "en": "{f 2 4 0} is petrified!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_SLEEP",
+    "en": "{f 2 4 0} is sleeping...",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_CONFUSE",
+    "en": "{f 2 4 0} is confused!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_PARA",
+    "en": "{f 2 4 0} can't move due to paralysis!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_TERROR",
+    "en": "{f 2 4 0} is too terrified to move!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_STUN",
+    "en": "{f 2 4 0} is stunned!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_F_SEAL_HEAD",
+    "en": "{f 2 4 0}'s magic is bound!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_F_SEAL_ARM",
+    "en": "{f 2 4 0}'s strength is bound!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_F_SEAL_LEG",
+    "en": "{f 2 4 0}'s agility is bound!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_CRITICALHIT_P",
+    "en": "{f 2 4 1} has died!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_CRITICALHIT_E",
+    "en": "Killed the {f 2 4 1}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ATTACK",
+    "en": "{f 2 4 0} attacks!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DAMAGE_P_E",
+    "en": "Dealt {f 2 4 2} damage to {f 2 4 1}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DAMAGE_P_E_C",
+    "en": "Dealt {f 2 4 2} damage!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DAMAGE_E_P_HP",
+    "en": "{f 2 4 1} lost {f 2 4 2} HP!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DAMAGE_E_P_TP",
+    "en": "{f 2 4 1} lost {f 2 4 2} SP!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_USE",
+    "en": "{f 2 4 0} used {f 2 4 3}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HPHEAL",
+    "en": "{f 2 4 1} recovered some health!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HPHEAL_ALL",
+    "en": "{f 2 4 1} was fully healed!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TPHEAL",
+    "en": "{f 2 4 1} recovered some SP!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TPHEAL_ALL",
+    "en": "{f 2 4 1}'s SP was fully restored!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DISCHARGE",
+    "en": "{f 2 4 0}'s weapon glows powerfully!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TARGET_MANY",
+    "en": "Shadow Swarm",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ITEMUSE",
+    "en": "{f 2 4 0} used {f 2 4 3}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DEFENCE",
+    "en": "{f 2 4 0} is defending.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_SUMMON",
+    "en": "{f 2 4 0} summoned allies!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_DEAD",
+    "en": "{f 2 4 1} was killed instantly!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_STONE",
+    "en": "{f 2 4 1} has been petrified!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_SLEEP",
+    "en": "{f 2 4 1} has fallen asleep...",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_CONFUSE",
+    "en": "{f 2 4 1} is confused!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_POINSON_EX",
+    "en": "{f 2 4 1} has been poisoned!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_POISON",
+    "en": "{f 2 4 1} has been poisoned!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_BLIND",
+    "en": "{f 2 4 1} has been blinded!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_CURSE",
+    "en": "{f 2 4 1} has been hexed!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_PARA",
+    "en": "{f 2 4 1} has been paralyzed!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_STUN",
+    "en": "{f 2 4 1} has been stunned!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_SEAL_MA",
+    "en": "{f 2 4 1}'s magic is bound!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_SEAL_RIKI",
+    "en": "{f 2 4 1}'s strength is bound!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_BST_SEAL_SOKU",
+    "en": "{f 2 4 1}'s agility is bound!",
+    "fr": ""
+  },
+  {
+    "id": "BLTMSGID_RIVIVE",
+    "en": "{f 2 4 1} has regained consciousness!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BSTH_STONE",
+    "en": "{f 2 4 1} is no longer petrified!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BSTH_SLEEP",
+    "en": "{f 2 4 1} woke up!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BSTH_CONFUSION",
+    "en": "{f 2 4 1}'s head has cleared!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BSTH_STINK",
+    "en": "{f 2 4 1} has recovered!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BSTH_POISON",
+    "en": "{f 2 4 1} is cured of poison!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BSTH_BLIND",
+    "en": "{f 2 4 1}'s sight was restored!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BSTH_CURSE",
+    "en": "{f 2 4 1}'s hex was lifted!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BSTH_PARALYSIS",
+    "en": "{f 2 4 1}'s paralysis was removed!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BSTH_HEAD",
+    "en": "{f 2 4 1}'s magic was unbound!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BSTH_ARM",
+    "en": "{f 2 4 1}'s strength was unbound!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BSTH_LEG",
+    "en": "{f 2 4 1}'s speed was unbound!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ESCAPE",
+    "en": "{f 2 4 0} escapes!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_NOT_ESCAPE",
+    "en": "{f 2 4 0} failed to escape!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_NO_ESCAPE",
+    "en": "You cannot escape this battle!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_NOTSELECTESCAPE",
+    "en": "Escape is impossible!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_NOT_ESCAPE_LEG",
+    "en": "{f 2 4 0} failed to escape!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_UNITDEAD_E",
+    "en": "Defeated {f 2 4 1}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_UNITDEAD_P",
+    "en": "{f 2 4 1} is knocked unconscious!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PARTYDEAD_E_S",
+    "en": "Defeated {f 2 4 1}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PARTYDEAD_E_D",
+    "en": "Defeated the group of Shadows!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PARTYDEAD_P",
+    "en": "The party was defeated...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KUISHIBARI",
+    "en": "{f 2 4 1} endured the attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_LIMITSUMMON",
+    "en": "{f 2 4 0} cooperated to summon allies!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MEGAN",
+    "en": "{f 2 4 1} is knocked unconscious!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TARGET_ALL",
+    "en": "All",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_SUMMON_SACRIFIC",
+    "en": "{f 2 4 1} has died...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_SUMMON_MISS",
+    "en": "But no allies appeared!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_POISONDAMAGE",
+    "en": "{f 2 4 1} took poison damage!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_SACRIFICE",
+    "en": "{f 2 4 0} has appeared!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_CHANGE",
+    "en": "{f 2 4 0} and {f 2 4 1} switched places!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MOVE",
+    "en": "{f 2 4 0} changed positions!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RANGEOUT",
+    "en": "But the attack didn't reach!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MISS",
+    "en": "But it had no effect on {f 2 4 1}.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_AVOID",
+    "en": "{f 2 4 1} dodged the attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_STOPACTION",
+    "en": "{f 2 4 1} blocked {f 2 4 0}'s move!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REFUP_CRITICAL",
+    "en": "{f 2 4 1}'s critical rate increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REFUP_HEALEFF",
+    "en": "{f 2 4 1} now has regenerating heath!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BS3_UROKOCHASE",
+    "en": "The {f 2 4 0} reacts with a plume of fire!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_URI_MESSAGE",
+    "en": "Damage will now be nulled!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DSUMMON",
+    "en": "{f 2 4 0} grew furious at its ally falling!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REFDOWN_CRITICA",
+    "en": "{f 2 4 1}'s critical rate decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ANDROSTOP",
+    "en": "{f 2 4 0} stopped moving!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KUITIGIRI",
+    "en": "{f 2 4 0} bit through {f 2 4 1}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_LIMITON",
+    "en": "{f 2 4 0} stands ready!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ARIMISS",
+    "en": "But the effort with {f 2 4 1} failed!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MIRROR_1",
+    "en": "{f 2 4 0}'s shadow appeared!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MIRROR_2",
+    "en": "{f 2 4 0}'s doppelganger appeared!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_6BOSS_BURSTMISS",
+    "en": "But {f 2 4 3} failed to activate!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_CHANGE_ACTOR",
+    "en": "Who will switch positions?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_CHANGE_TARGET",
+    "en": "Where will they move to?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BOOT",
+    "en": "{f 2 4 3} activated!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BLOCK",
+    "en": "{f 2 4 1} nullified the damage!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DEAD_P",
+    "en": "{f 2 4 1} was blasted away!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ONESTOP",
+    "en": "{f 2 4 0} is incapable of acting!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ANALYZE",
+    "en": "{f 2 4 1}'s abilities were analyzed!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MAXHP_DAMAGE",
+    "en": "{f 2 4 1}'s max HP decreased by {f 2 4 2}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MITIBIKI",
+    "en": "{f 2 4 0} started praying silently!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PORATA",
+    "en": "{f 2 4 1} and {f 2 4 2} combined to form {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BEASTMISS",
+    "en": "The beast did not appear!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MISS_H",
+    "en": "But there was no effect!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MISSCOUNTER",
+    "en": "{f 2 4 1}'s lure worked to ambush the enemy!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_NOTCHANGE",
+    "en": "{f 2 4 0} couldn't switch positions!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_SEPARATE_MISS",
+    "en": "{f 2 4 0} failed to separate!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PORATA_MISS",
+    "en": "{f 2 4 0} failed to combine!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TARGET_5BOSS_AR",
+    "en": "Heavenbringer's arms",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ACT_GUARD",
+    "en": "The shield has been raised!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ACT_CHARGE",
+    "en": "Storing power for the next attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ACT_CHASE",
+    "en": "Getting ready for a follow-up attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ACT_DOLL",
+    "en": "Getting ready for a follow-up attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ACT_ACTCUT",
+    "en": "Began an analysis of {f 2 4 1}'s actions!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BEASTOFF",
+    "en": "The {f 2 4 0} withdrew...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BEAST_ON",
+    "en": "{f 2 4 1} appeared from {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ROCKETJUMP",
+    "en": "{f 2 4 1} soared into the sky!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PROTECT_FRONT",
+    "en": "{f 2 4 3} protected the front row!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PROTECT_REAR",
+    "en": "{f 2 4 3} protected the back row!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COVER_UP",
+    "en": "{f 2 4 1} defended the whole party!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MIGAWARI",
+    "en": "{f 2 4 3} defended {f 2 4 1}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REPEAT",
+    "en": "The effect is already active on {f 2 4 1}...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_OVERWRITE",
+    "en": "{f 2 4 2}'s effect is extended!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REFUPCLEAR",
+    "en": "Nullified {f 2 4 1}'s buff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REFDOWNCLEAR",
+    "en": "Nullified {f 2 4 1}'s debuff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_UPOFF",
+    "en": "Nullified {f 2 4 1}'s buff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DOWNOFF",
+    "en": "Nullified {f 2 4 1}'s debuff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTACK_UPC",
+    "en": "Nullified {f 2 4 1}'s attack buff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DEFENCE_UPC",
+    "en": "Nullified {f 2 4 1}'s defense buff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_SPEED_UPC",
+    "en": "Nullified {f 2 4 1}'s speed buff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_HITRATIO_UP",
+    "en": "Nullified {f 2 4 1}'s accuracy buff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_AVOID_UPC",
+    "en": "Nullified {f 2 4 1}'s evasion buff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTACK_DOWN",
+    "en": "Nullified {f 2 4 1}'s attack debuff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DEFENCE_DOW",
+    "en": "Nullified {f 2 4 1}'s defense debuff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_SPEED_DOWNC",
+    "en": "Nullified {f 2 4 1}'s speed debuff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_HITRATIO_DO",
+    "en": "Nullified {f 2 4 1}'s accuracy debuff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_AVOID_DOWNC",
+    "en": "Nullified {f 2 4 1}'s evasion debuff!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTACK_UP",
+    "en": "{f 2 4 1}'s attack power increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DEFENCE_UP",
+    "en": "{f 2 4 1}'s defense increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_SPEED_UP",
+    "en": "{f 2 4 1} can now act first!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_HITRATIO_UP#2",
+    "en": "{f 2 4 1}'s accuracy increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_AVOID_UP",
+    "en": "{f 2 4 1}'s evasion increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTACK_DOWN#2",
+    "en": "{f 2 4 1}'s attack power decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DEFENCE_DOW#2",
+    "en": "{f 2 4 1}'s defense decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_SPEED_DOWN",
+    "en": "{f 2 4 1} delayed their action on purpose!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_HITRATIO_DO#2",
+    "en": "{f 2 4 1}'s accuracy and evasion decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_AVOID_DOWN",
+    "en": "{f 2 4 1}'s evasion decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTR_WEPUP_",
+    "en": "{f 2 4 1}'s attacks are now fire-based!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTR_WEPUP_#2",
+    "en": "{f 2 4 1}'s attacks are now ice-based!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTR_WEPUP_#3",
+    "en": "{f 2 4 1}'s attacks are now elec-based!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_H_UP",
+    "en": "{f 2 4 1} is now a more inviting target for enemies!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_H_DOWN",
+    "en": "{f 2 4 1} is now a less appealing target for enemies!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_STNONE",
+    "en": "{f 2 4 1} is not affected by status ailments now!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_HP_UP",
+    "en": "{f 2 4 1}'s maximum HP has increased temporarily!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DEV_GUARD",
+    "en": "Divine Guard message",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_OVERGUARD",
+    "en": "Over guard message",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TRNS_WAIT",
+    "en": "Please wait...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TRNS_CMNDSELECT",
+    "en": "{f 2 4 0} dodged gracefully!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TRNS_CMNDWAIT",
+    "en": "Please wait while another player{SAUT}inputs commands.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ES_ACT_COUNTER",
+    "en": "{f 2 4 1} stands ready!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ES_THROW",
+    "en": "{f 2 4 0} throws {f 2 4 1}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ES_PATIENCE",
+    "en": "{f 2 4 1} is enduring it!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ES_PATIENCE_ACT",
+    "en": "{f 2 4 1}'s endurance explodes!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DEADACTION",
+    "en": "With the last of its strength, {f 2 4 0} uses {f 2 4 3}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DEADACTION_18E",
+    "en": "With the last of its strength, {f 2 4 0} raises {f 2 4 3}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RARE_DASH",
+    "en": "{f 2 4 0}'s glow intensifies!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ATTRUP_1",
+    "en": "{f 2 4 0}'s resistance increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ATTRUP_3",
+    "en": "{f 2 4 0}'s, {f 2 4 1}'s, ＆ {f 2 4 2}'s resistance up!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ATTRUP_ALL",
+    "en": "All resistances increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ES_CHANGE",
+    "en": "{f 2 4 0}'s tentacle catches {f 2 4 1} ＆ {f 2 4 2}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ABSORB_HP",
+    "en": "{f 2 4 1} absorbs {f 2 4 2} damage!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DEADACTION_18B",
+    "en": "{f 2 4 0} has exploded!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_FANNEL_1",
+    "en": "{f 2 4 1} releases a fire module!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_FANNEL_2",
+    "en": "{f 2 4 1} releases an ice module!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_FANNEL_3",
+    "en": "{f 2 4 1} releases a volt module!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_UNITDEAD_FNL",
+    "en": "{f 2 4 1} has stopped moving!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_K_FANNEL",
+    "en": "{f 2 4 1} reacts!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BOOT_F",
+    "en": "{f 2 4 3} activates!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_SNIPER",
+    "en": "{f 2 4 0} aims carefully!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_SNIPER_MISS",
+    "en": "{f 2 4 0} lowers the weapon!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BEASTCOUNTER_0",
+    "en": "{f 2 4 1} stands ready!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BEAST_A4_0",
+    "en": "{f 2 4 0} growls... and attacks!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BEAST_A5_0",
+    "en": "{f 2 4 0} is sleeping!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_KAISH_BOOT",
+    "en": "{f 2 4 0} swings its scythe and attacks!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BEAST_A1_0",
+    "en": "{f 2 4 0}'s arm regenerates!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BEAST_A1_1",
+    "en": "{f 2 4 0} is staring off into space!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BEAST_A1_2",
+    "en": "{f 2 4 0} is cleaning itself!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TARGET_6BOSS_AR",
+    "en": "Savior's Tentacle",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TRANS_ERROR_END",
+    "en": "A communication error has occurred.{SAUT}Please wait...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DEADSTONE",
+    "en": "{f 2 4 1} has been petrified!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_STOPBST",
+    "en": "The ailment by {f 2 4 1} was nullified!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_STOPSEAL",
+    "en": "The Bind by {f 2 4 1} was nullified!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_WEAKDAMAGE",
+    "en": "{f 2 4 1}'s weakness triggers Runic Guidance!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MURAMASA",
+    "en": "{f 2 4 0}'s eyes are turning bloodshot!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ROCKETJUMPMISS",
+    "en": "But it doesn't reach {f 2 4 1}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_SARUTOBI",
+    "en": "{f 2 4 1} dodged gracefully!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BOSS_1",
+    "en": "{f 2 4 0} seems to be closing its eyes...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BS1_SPWATSTAN",
+    "en": "{f 2 4 1} flinches!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BS1_STANMSG",
+    "en": "{f 2 4 0} cannot move!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_AP_5LASTBOSS",
+    "en": "You stand before the Heavenbringer!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TARGET_5LASTBOS",
+    "en": "Heavenbringer",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TARGET_6LASTBOS",
+    "en": "Warped Savior",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_H_KUISHIBARI",
+    "en": "{f 2 4 1} has become resilient against mortal blows!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_OOMIE",
+    "en": "{f 2 4 1} strikes a pose!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_NONBST",
+    "en": "{f 2 4 1} is now protected from ailments and Binds!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_NONSEAL",
+    "en": "Binds will not affect {f 2 4 1} now!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DENGUN",
+    "en": "{f 2 4 1} has been appointed the defensive captain!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DEADACTION_F18B",
+    "en": "{f 2 4 0} blew itself up!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTR_UP",
+    "en": "{f 2 4 1}'s {f 2 4 2} resistance has increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_MEGAZA_HEAL",
+    "en": "{f 2 4 3} scatters from {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_KAISHAKU",
+    "en": "{f 2 4 0} preys on {f 2 4 1}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_DEADSUMMON",
+    "en": "{f 2 4 0} grew gigantic!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_SUMMON_MSG_00",
+    "en": "{f 2 4 0} begins wriggling around...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_SUMMON_MSG_01",
+    "en": "{f 2 4 0} lowers its hand...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_SUMMON_MSG_02",
+    "en": "{f 2 4 0}'s strength is bound!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BS_LASTBOSS_ARM",
+    "en": "Tentacles come out of {f 2 4 0}'s wound!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BS_LASTBOSS_ARM#2",
+    "en": "{f 2 4 1}'s tentacle has resurrected!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_TAMAGO_MSG_00",
+    "en": "{f 2 4 0} is charging up!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTR_UP_ALL",
+    "en": "Everyone's {f 2 4 2} resistance has increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KAITAISHINSHO",
+    "en": "The drop rate has increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_SHOMO",
+    "en": "The SP cost of your next action will be doubled!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_KYOMU",
+    "en": "The Burst Gauge has been drained!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTR_DOWN",
+    "en": "{f 2 4 1}'s {f 2 4 2} resistance decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BS_CHANGE_ATK",
+    "en": "{f 2 4 0}'s eye opens!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BS_CHANGE_DEF",
+    "en": "{f 2 4 0}'s eye closes!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_LBS_MES_00",
+    "en": "The ultimate life form bursts forth from its larval body...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_NONCOST",
+    "en": "{f 2 4 1} doesn't have enough SP to use the skill!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_FRONT_DEAD",
+    "en": "The front and back lines switched positions!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ES_KEKKAI",
+    "en": "The SP cost of your next actions will be doubled!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ES_KITOU",
+    "en": "{f 2 4 1} is gathering power!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ES_ACT_CCOUNTER",
+    "en": "{f 2 4 1} is preparing for a follow-up attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_SUMMON_CHICK",
+    "en": "{f 2 4 1} hatched from the {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_LIMITMISS",
+    "en": "{f 2 4 0} couldn't cooperate!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ACT_180_END",
+    "en": "The power stored in the {f 2 4 0} is unleashed!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ACT_LBS_CHANGE",
+    "en": "The indescribable god has awakened!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_UROBORO_SHIELD",
+    "en": "Party enveloped in a light that blocks enemy attacks!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DISCHARGE_BH",
+    "en": "{f 2 4 0}'s fist releases a blinding light!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PARTYDEAD_E_BR",
+    "en": "You defeated the Abyssal King and Olympia!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PARTYDEAD_E_GK",
+    "en": "You defeated the Gatekeeper!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ES_CHANGE_MISS",
+    "en": "{f 2 4 0} disentangles its twisted tentacles!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_MOVE_S",
+    "en": "{f 2 4 0} moves to a different line!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_MOVE_D",
+    "en": "The {f 2 4 0} group moved to a different line!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_E_MOVE_A",
+    "en": "The Shadows alter their formation!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BOOT_V",
+    "en": "Pierce effect!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BOOT_WIDE",
+    "en": "Splash effect!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RARE_ENCOUNT_D",
+    "en": "There are rare breeds in the herd!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RARE_ENCOUNT_S",
+    "en": "A rare breed of {f 2 4 0} has appeared!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ACT_CHARGE_BOSS",
+    "en": "{f 2 4 0} is building up strength!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ST_BODYCHANGE",
+    "en": "The enemy changed!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ST_BODYCHANGE_E",
+    "en": "{f 2 4 1} changes its attack affinity!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KIJIN",
+    "en": "{f 2 4 0} is undergoing a Blood Surge!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KIJIN_OFF",
+    "en": "{f 2 4 0} returns to normal.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KUISHIBARI2",
+    "en": "{f 2 4 0} endured the attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TPCUT",
+    "en": "SP Focus activated!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HOUJIN",
+    "en": "{f 2 4 0} laid down a {f 2 4 1}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HOUJIN_EFT",
+    "en": "The {f 2 4 0} takes effect!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TRANSPARENT_ON",
+    "en": "{f 2 4 0} vanishes into the scenery!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TRANSPARENT_OFF",
+    "en": "{f 2 4 0} returns to normal!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ICEACTSTOP",
+    "en": "The {f 2 4 0} has frozen!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ACTSTOPTURN",
+    "en": "The {f 2 4 0} is frozen!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_LMT_103",
+    "en": "The black mist around {f 2 4 0} engulfs the enemy!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_3BS_URK_TAKEOFF",
+    "en": "A scale flies off the {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_3BS_URK_ON",
+    "en": "A {f 2 4 0} lodges itself in the ground!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_3BS_URK_DEATH",
+    "en": "{f 2 4 1} shatters!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_FROG_JUMP",
+    "en": "The Burst Gauge drained!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_OVERHEATON",
+    "en": "{f 2 4 0}'s drive blade overheats!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_OVERHEATOFF",
+    "en": "{f 2 4 0}'s drive blade cooled down!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MSGWAIT1",
+    "en": "{f 2 4 0} has entered self-destruct mode!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MSGWAIT2",
+    "en": "2 turns until {f 2 4 0} self-destructs!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MSGWAIT3",
+    "en": "1 turn until {f 2 4 0} self-destructs!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MSGWAIT4",
+    "en": "{f 2 4 0} is watching.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MSGWAIT5",
+    "en": "{f 2 4 0} is searching for a target.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BALLOON",
+    "en": "{f 2 4 0} greatly expands!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ACT_CHARGE_BOSS#2",
+    "en": "{f 2 4 0} stops moving!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ACT_LION_SLEEP",
+    "en": "{f 2 4 0} is sleeping...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTACK_UP2",
+    "en": "{f 2 4 1}'s magic attack increases!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DEFENCE_UP2",
+    "en": "{f 2 4 1}'s magic defense increases!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTACK_UP3",
+    "en": "{f 2 4 1}'s attack power increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DEFENCE_UP3",
+    "en": "{f 2 4 1}'s defense increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTACK_DOWN#3",
+    "en": "{f 2 4 1}'s magic attack decreases!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DEFENCE_DOW#3",
+    "en": "{f 2 4 1}'s magic defense decreases!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTACK_DOWN#4",
+    "en": "{f 2 4 1}'s attack power decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DEFENCE_DOW#4",
+    "en": "{f 2 4 1}'s defense decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_COUNTER",
+    "en": "{f 2 4 1} stands ready!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_COUNTER_BOO",
+    "en": "{f 2 4 0} is engulfed in a wall of flame!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRUP_FIRE",
+    "en": "{f 2 4 1}'s fire resistance has increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRUP_ICE",
+    "en": "{f 2 4 1}'s ice resistance has increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRUP_THUN",
+    "en": "{f 2 4 1}'s electric resistance has increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRUP_BUTS",
+    "en": "{f 2 4 1}'s resistance to physical attacks has increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRUP_SHOC",
+    "en": "{f 2 4 1}'s resistance to Bash attacks has increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRUP_THRU",
+    "en": "{f 2 4 1}'s resistance to Stab attacks has increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRDOWN_FI",
+    "en": "{f 2 4 1}'s fire resistance has decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRDOWN_IC",
+    "en": "{f 2 4 1}'s ice resistance has decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRDOWN_TH",
+    "en": "{f 2 4 1}'s electric resistance has decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRDOWN_BU",
+    "en": "{f 2 4 1}'s resistance to physical attacks has decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRDOWN_SH",
+    "en": "{f 2 4 1}'s resistance to Bash attacks has decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRDOWN_TH#2",
+    "en": "{f 2 4 1}'s resistance to Stab attacks has decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DANCE_COUNT",
+    "en": "{f 2 4 1} readies a counterattack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DANCE_CHASE",
+    "en": "{f 2 4 1} is preparing for a follow-up attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DANCE_LINEC",
+    "en": "{f 2 4 1}'s line readies a follow-up attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DANCE_HEAL",
+    "en": "The recovery of {f 2 4 1}'s line is bolstered!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DANCE_ATK",
+    "en": "Attack boosted for everyone in {f 2 4 1}'s line!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DANCE_DEF",
+    "en": "Defense boosted for everyone in {f 2 4 1}'s line!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_DANCE_EN",
+    "en": "Everyone in {f 2 4 1}'s line has their SP costs decrease!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_LINK",
+    "en": "Link skills have an increased number of attacks!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_GUARD",
+    "en": "{f 2 4 1} readies for the enemy's attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_CONC",
+    "en": "The effect of {f 2 4 1}'s healing increases!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_AREA",
+    "en": "The area of {f 2 4 1}'s healing increases!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_WEAKENED",
+    "en": "{f 2 4 0} is weakened and cannot move!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MASCOT",
+    "en": "{f 2 4 0} is floating...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BUNNY",
+    "en": "{f 2 4 0} is confused!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REFOFF_P_UP",
+    "en": "The effect of {f 2 4 1} wore off!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REFOFF_P_DOWN",
+    "en": "The effect of {f 2 4 1} wore off!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REFOFF_UP",
+    "en": "The effect of {f 2 4 1} wore off on the enemy!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REFOFF_DOWN",
+    "en": "The effect of {f 2 4 1} wore off on the enemy!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KAIMA",
+    "en": "Resistance to ailments and Binds reverted!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HOUJIN_CANCEL_M",
+    "en": "However, there was no Circle set!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_OATH_END",
+    "en": "The effect of {f 2 4 1} wore off on the enemy!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COUNTER",
+    "en": "Death Counter activated!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_CHASE",
+    "en": "Death Chaser activated!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTR_WEPUP_#4",
+    "en": "{f 2 4 1}'s attacks are now wind-based!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTR_WEPUP_#5",
+    "en": "{f 2 4 1}'s attacks are now bless-based!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTR_WEPUP_#6",
+    "en": "{f 2 4 1}'s attacks are now curse-based!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRUP_WIND",
+    "en": "{f 2 4 1}'s wind resistance increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRUP_HIKA",
+    "en": "{f 2 4 1}'s bless resistance has increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRUP_YAMI",
+    "en": "{f 2 4 1}'s curse resistance has increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRDOWN_WI",
+    "en": "{f 2 4 1}'s wind resistance decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRDOWN_HI",
+    "en": "{f 2 4 1}'s bless resistance decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRDOWN_YA",
+    "en": "{f 2 4 1}'s curse resistance decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HPNONCOST",
+    "en": "{f 2 4 1} doesn't have enough HP to use the skill!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KEIKAI",
+    "en": "{f 2 4 0} is cautious.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RARE_1",
+    "en": "{f 2 4 0} is staring off into space.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RARE_2",
+    "en": "{f 2 4 0} is bewildered.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RARE_3",
+    "en": "{f 2 4 0} is flustered.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HAMA_OMEN",
+    "en": "The power of light gathers around {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MUDO_OMEN",
+    "en": "The power of darkness gathers around {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_NIYANIYA",
+    "en": "{f 2 4 0} smirks.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_JIBAKU_MISS",
+    "en": "{f 2 4 0}'s self-destruct failed...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_CHICKEN",
+    "en": "{f 2 4 0} looks confident.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ROBOT",
+    "en": "WARNING: DESIST IMMEDIATELY.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TOWER",
+    "en": "{f 2 4 0} summoned a thundercloud!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TOWER3",
+    "en": "{f 2 4 0} muttered a holy oath!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TOWER5",
+    "en": "{f 2 4 0} muttered a curse!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KING",
+    "en": "{f 2 4 0} is playing with their hair.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KING_ESCAPE",
+    "en": "{f 2 4 0} is trying to flee...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BIBIRI",
+    "en": "{f 2 4 0} is frightened!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TORIMAKI",
+    "en": "An herbivore dashes out!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PUNISH",
+    "en": "{f 2 4 0} has shorted out!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DO_1",
+    "en": "{f 2 4 0} is writhing!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DO_2",
+    "en": "{f 2 4 0}'s body is pulsating!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DO_3",
+    "en": "{f 2 4 0}'s movement has slowed!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DO_EYE_HEAD",
+    "en": "Eldritch Eye",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DO_EYE_RIGHT",
+    "en": "Barrage Eye",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DO_EYE_LEFT",
+    "en": "Blight Eye",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ENLIL_RETAKE",
+    "en": "Enlil is charging up...!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ENLIL_HIKARI",
+    "en": "Nothing happened...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MUTEKI_KAMO_WAR",
+    "en": "Kamoshidaman is laughing loudly.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MOTHER_COM",
+    "en": "ERROR! ERROR!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MOTHER_COM_CURE",
+    "en": "Auto Recovery ON.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MCOM_ERROR",
+    "en": "ERROR! PROCESS HALTED!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BUF_OMEN",
+    "en": "The power of ice gathers around {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_JIO_OMEN",
+    "en": "The power of electricity gathers around {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KHRONOS_ANNOUNC",
+    "en": "{f 2 4 0} is concentrating!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PASTOR_OATH_ATT",
+    "locuteur": "Merciful Clergyman",
+    "en": "Vow to me that you won't strike!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PASTOR_OATH_SKI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Vow to me that you won't use skills!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PASTOR_OATH_LEA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Vow to me that you won't be bossy!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PASTOR_OATH_ITE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Vow to me that you won't use items!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PASTOR_OATH_TWO",
+    "locuteur": "Merciful Clergyman",
+    "en": "Just vow to me all manner of things!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PASTOR_JUDGEMEN",
+    "locuteur": "Merciful Clergyman",
+    "en": "I will lead you, little sheep!{SAUT}Your divine punishment is death!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HOQ_CAST_SKILL",
+    "locuteur": "Merciful Clergyman",
+    "en": "The {f 2 4 0} is attempting to cast a spell!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HOQ_INTERRUPT_S",
+    "locuteur": "Merciful Clergyman",
+    "en": "The {f 2 4 0}'s spell seems to have failed...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_P4HERO",
+    "locuteur": "Merciful Clergyman",
+    "en": "Let's finish it off!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_P3HERO",
+    "locuteur": "Merciful Clergyman",
+    "en": "Let me handle this!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_YOUSUKE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Leave this to me!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_CHIE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Okay, this'll finish it!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_YUKIKO",
+    "locuteur": "Merciful Clergyman",
+    "en": "I can finish it off!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_KANJI",
+    "locuteur": "Merciful Clergyman",
+    "en": "I ain't done yet!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_NAOTO",
+    "locuteur": "Merciful Clergyman",
+    "en": "One attack should end this!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_KUMA",
+    "locuteur": "Merciful Clergyman",
+    "en": "It's do or die time!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_YUKARI",
+    "locuteur": "Merciful Clergyman",
+    "en": "I'll finish this!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_JUNPEI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Time to bring it home!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_SANADA",
+    "locuteur": "Merciful Clergyman",
+    "en": "I'll finish it off!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_MITURU",
+    "locuteur": "Merciful Clergyman",
+    "en": "I'm not finished with them!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_AEGIS",
+    "locuteur": "Merciful Clergyman",
+    "en": "Permission to pursue?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_AMADA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Here I go!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_KOROMAR",
+    "locuteur": "Merciful Clergyman",
+    "en": "Arf! Awoooo!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_ARAGAKI",
+    "locuteur": "Merciful Clergyman",
+    "en": "What, you think I'm done?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_P3_HERO",
+    "locuteur": "Merciful Clergyman",
+    "en": "Lemme at 'em!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_P5HERO",
+    "locuteur": "Merciful Clergyman",
+    "en": "I'll do this!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_RYUJI",
+    "locuteur": "Merciful Clergyman",
+    "en": "I got this, man!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_ANN",
+    "locuteur": "Merciful Clergyman",
+    "en": "I'll take them out!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_MONA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Mind if I take this one?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_YUSUKE",
+    "locuteur": "Merciful Clergyman",
+    "en": "The Fox descends!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_MAKOTO",
+    "locuteur": "Merciful Clergyman",
+    "en": "I'll pummel it!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_HARU",
+    "locuteur": "Merciful Clergyman",
+    "en": "Noir, reporting in!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ADD_ATK_AKECI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Ready anytime.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_P4HERO",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now's our chance!{SAUT}Let's do an all-out attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_P3HERO",
+    "locuteur": "Merciful Clergyman",
+    "en": "Think this calls for{SAUT}an all-out attack?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_YOUSUKE",
+    "locuteur": "Merciful Clergyman",
+    "en": "All right! Let's rock and roll!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_CHIE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now's our chance, right!?{SAUT}Let's get 'em!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_YUKIKO",
+    "locuteur": "Merciful Clergyman",
+    "en": "I think we can do an{SAUT}all-out attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_RISE",
+    "locuteur": "Merciful Clergyman",
+    "en": "This might be our chance!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_KANJI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Whaddaya waitin' for?{SAUT}It's go time!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_NAOTO",
+    "locuteur": "Merciful Clergyman",
+    "en": "This is our chance!{SAUT}Let's unleash all we've got!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_KUMA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Let's clobber 'em!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_YUKARI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Here it comes!{SAUT}We gotta do this!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_JUNPEI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Oh yeah, baby!{SAUT}Time for an all-out attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_SANADA",
+    "locuteur": "Merciful Clergyman",
+    "en": "I've been waiting for this...{SAUT}Let's do it!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_MITURU",
+    "locuteur": "Merciful Clergyman",
+    "en": "Our chance has come!{SAUT}Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_FUKA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Everyone, this is your chance!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_AEGIS",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now commencing an{SAUT}all-out attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_AMADA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Here's our chance!{SAUT}Let's attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_KOROMAR",
+    "locuteur": "Merciful Clergyman",
+    "en": "Bark, bark!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_ARAGAKI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Hey, they're wide open!{SAUT}Let's take 'em down!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_P3_HERO",
+    "locuteur": "Merciful Clergyman",
+    "en": "Wanna go for an{SAUT}all-out attack?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_RYUJI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Hey, that's our cue!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_ANN",
+    "locuteur": "Merciful Clergyman",
+    "en": "This is our chance!{SAUT}Wanna go for it?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_MONA",
+    "locuteur": "Merciful Clergyman",
+    "en": "All right! Time for an{SAUT}all-out attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_YUSUKE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Here's our chance!{SAUT}Any objections?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_MAKOTO",
+    "locuteur": "Merciful Clergyman",
+    "en": "This is going well!{SAUT}Let's keep up the pace!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_FUTABA",
+    "locuteur": "Merciful Clergyman",
+    "en": "This is your chance!{SAUT}Give 'em hell! ",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_HARU",
+    "locuteur": "Merciful Clergyman",
+    "en": "We can break them now!{SAUT}...I think!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL_ATK_AKECI",
+    "locuteur": "Merciful Clergyman",
+    "en": "They're all knocked down!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_P4HERO",
+    "locuteur": "Merciful Clergyman",
+    "en": "We can do this!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_P3HERO",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now's our only chance!{SAUT}Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_YOUSUK",
+    "locuteur": "Merciful Clergyman",
+    "en": "It's go time! Let's give 'em{SAUT}an all-out attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_CHIE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now! Everyone, chaaaaarge!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_YUKIKO",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now's our chance!{SAUT}Let's do this as a team!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_RISE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Ooh, looks like our{SAUT}big chance!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_KANJI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Let's smack 'em down!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_NAOTO",
+    "locuteur": "Merciful Clergyman",
+    "en": "There's an opening!{SAUT}Permission to all-out attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_KUMA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Time for a bear-knuckle{SAUT}beatdown!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_YUKARI",
+    "locuteur": "Merciful Clergyman",
+    "en": "You're ready, right?{SAUT}Let's take the shot!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_JUNPEI",
+    "locuteur": "Merciful Clergyman",
+    "en": "One good beatdown and{SAUT}we can end this now!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_SANADA",
+    "locuteur": "Merciful Clergyman",
+    "en": "The time's come!{SAUT}Let's crush them!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_MITURU",
+    "locuteur": "Merciful Clergyman",
+    "en": "We have the upper hand!{SAUT}Let's take the offensive!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_FUKA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now's your chance!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_AEGIS",
+    "locuteur": "Merciful Clergyman",
+    "en": "Preparing to engage!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_AMADA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Here's our chance!{SAUT}Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_KOROMA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_ARAGAK",
+    "locuteur": "Merciful Clergyman",
+    "en": "About time. Let's take 'em!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_P3_HER",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now's our only chance!{SAUT}Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_RYUJI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Okay, let's get this{SAUT}party started!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_ANN",
+    "locuteur": "Merciful Clergyman",
+    "en": "Wanna do our usual?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_MONA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Obviously we're not wasting{SAUT}this chance!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_YUSUKE",
+    "locuteur": "Merciful Clergyman",
+    "en": "And now, let the games begin.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_MAKOTO",
+    "locuteur": "Merciful Clergyman",
+    "en": "How about we finish this{SAUT}here and now?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_FUTABA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Here's our chance!{SAUT}Sic 'em! ",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_HARU",
+    "locuteur": "Merciful Clergyman",
+    "en": "We can do an all-out attack!{SAUT}Shall we?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALL2_ATK_AKECI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Finally, our moment comes!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_P4HER",
+    "locuteur": "Merciful Clergyman",
+    "en": "Leave this to us.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_P3HER",
+    "locuteur": "Merciful Clergyman",
+    "en": "Seems like our shot, right?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_YOUSU",
+    "locuteur": "Merciful Clergyman",
+    "en": "Looks like we're up.{SAUT}Just gotta beat 'em!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_CHIE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Okay, we've got this!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_YUKIK",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now! Let's unite our strength!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_RISE",
+    "locuteur": "Merciful Clergyman",
+    "en": "I think now's our chance!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_KANJI",
+    "locuteur": "Merciful Clergyman",
+    "en": "We gotta do this, now!{SAUT}Let's go, dammit!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_NAOTO",
+    "locuteur": "Merciful Clergyman",
+    "en": "This is it! Let's eliminate them!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_KUMA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Time for a bear-knuckle{SAUT}beatdown!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_YUKAR",
+    "locuteur": "Merciful Clergyman",
+    "en": "Let's go, guys!{SAUT}It's now or never!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_JUNPE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Go time, guys!{SAUT}Follow my lead!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_SANAD",
+    "locuteur": "Merciful Clergyman",
+    "en": "Guess it's our time to shine...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_MITUR",
+    "locuteur": "Merciful Clergyman",
+    "en": "We'd be fools not to strike now...{SAUT}Come!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_FUKA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Everyone, now's our chance!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_AEGIS",
+    "locuteur": "Merciful Clergyman",
+    "en": "Advantage secured!{SAUT}We must take the offensive!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_AMADA",
+    "locuteur": "Merciful Clergyman",
+    "en": "We can defeat them if we{SAUT}do this together!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_KOROM",
+    "locuteur": "Merciful Clergyman",
+    "en": "Bark, bark!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_ARAGA",
+    "locuteur": "Merciful Clergyman",
+    "en": "You figure we should{SAUT}wrap this up?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_P3_HE",
+    "locuteur": "Merciful Clergyman",
+    "en": "I'm here to help!{SAUT}Let's take them down!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_P5HER",
+    "locuteur": "Merciful Clergyman",
+    "en": "Here we come!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_RYUJI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Here's our chance! We got this!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_ANN",
+    "locuteur": "Merciful Clergyman",
+    "en": "I think we can do this!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_MONA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Let's show them who{SAUT}they're dealing with!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_YUSUK",
+    "locuteur": "Merciful Clergyman",
+    "en": "Time to display our power!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_MAKOT",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now's our chance...{SAUT}Just say the word.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_FUTAB",
+    "locuteur": "Merciful Clergyman",
+    "en": "Just lemme know if you{SAUT}need a hand out there!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_HARU",
+    "locuteur": "Merciful Clergyman",
+    "en": "Well then... Shall we{SAUT}get them together?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI_ATK_AKECI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Our time to shine, I suppose?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_P4HE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Come on, let's hit them hard!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_P3HE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Leave this to us!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_YOUS",
+    "locuteur": "Merciful Clergyman",
+    "en": "I think we've got this!{SAUT}Just say the word!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_CHIE",
+    "locuteur": "Merciful Clergyman",
+    "en": "We're ready to go!{SAUT}Leave the rest to us!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_YUKI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Just say the word!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_RISE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Ooh, c'mon!{SAUT}Here's our big chance!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_KANJ",
+    "locuteur": "Merciful Clergyman",
+    "en": "Let's bring the pain!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_NAOT",
+    "locuteur": "Merciful Clergyman",
+    "en": "We can corner them right now!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_KUMA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Wanna see me bust a move?{SAUT}Huh? Do ya?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_YUKA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Okay, are we doing this?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_JUNP",
+    "locuteur": "Merciful Clergyman",
+    "en": "Time to bring out the big guns!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_SANA",
+    "locuteur": "Merciful Clergyman",
+    "en": "I'm done waiting around.{SAUT}Let's take 'em out!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_MITU",
+    "locuteur": "Merciful Clergyman",
+    "en": "The time has come!{SAUT}We'll strike them down!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_FUKA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now's your chance!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_AEGI",
+    "locuteur": "Merciful Clergyman",
+    "en": "This is our chance!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_AMAD",
+    "locuteur": "Merciful Clergyman",
+    "en": "Ready whenever you are!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_KORO",
+    "locuteur": "Merciful Clergyman",
+    "en": "Bark! Bark!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_ARAG",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now's our chance... Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_P3_H",
+    "locuteur": "Merciful Clergyman",
+    "en": "Time to fight! You ready?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_P5HE",
+    "locuteur": "Merciful Clergyman",
+    "en": "This is our chance!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_RYUJ",
+    "locuteur": "Merciful Clergyman",
+    "en": "Let's wreck 'em!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_ANN",
+    "locuteur": "Merciful Clergyman",
+    "en": "This should mess them up!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_MONA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now! Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_YUSU",
+    "locuteur": "Merciful Clergyman",
+    "en": "Ready at your command!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_MAKO",
+    "locuteur": "Merciful Clergyman",
+    "en": "Now's our time to strike!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_FUTA",
+    "locuteur": "Merciful Clergyman",
+    "en": "If you want some help,{SAUT}just say the word!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_HARU",
+    "locuteur": "Merciful Clergyman",
+    "en": "I suppose that's our cue?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COMBI2_ATK_AKEC",
+    "locuteur": "Merciful Clergyman",
+    "en": "Why don't we get this started?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_VELVET_THEODORE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Theodore concentrates!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_VELVET_ELIZABET",
+    "locuteur": "Merciful Clergyman",
+    "en": "Elizabeth concentrates!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_VELVET_MARGARET",
+    "locuteur": "Merciful Clergyman",
+    "en": "Margaret concentrates!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_USAGI_OOGOE",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0} takes a deep breath.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_VELVET_SRICAM",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0} has regained consciousness!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_GK_COUNT3",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0}'s eyes are shining!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_GK_COUNT2",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0}'s eyes have stopped shining!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_GK_COUNT1",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0}'s eyes gleam briefly.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ESCAPE_ALL",
+    "locuteur": "Merciful Clergyman",
+    "en": "The party escaped!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_OVERWRITE_ALL",
+    "locuteur": "Merciful Clergyman",
+    "en": "Party's buffs have been extended!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HPHEAL_ALL_MEMB",
+    "locuteur": "Merciful Clergyman",
+    "en": "Everyone regains HP!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_EXP_GIFT",
+    "locuteur": "Merciful Clergyman",
+    "en": "EXP rewards from this battle increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BOUHEKI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Everyone's defense increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_GOURIKI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Everyone's attack power increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KAISOKU",
+    "locuteur": "Merciful Clergyman",
+    "en": "Everyone's accuracy and evasion increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COVERAL",
+    "locuteur": "Merciful Clergyman",
+    "en": "Enemy attacks have been nullified!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DENKOH",
+    "locuteur": "Merciful Clergyman",
+    "en": "The entire party can act first!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ORACLE",
+    "locuteur": "Merciful Clergyman",
+    "en": "Ally fully recovered HP!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MESSIAH",
+    "locuteur": "Merciful Clergyman",
+    "en": "Everyone's HP and status has been healed!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ESHOWER",
+    "locuteur": "Merciful Clergyman",
+    "en": "The party's ailments and Binds have been healed!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_FULLGET",
+    "locuteur": "Merciful Clergyman",
+    "en": "All enemies defeated this turn will drop materials!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COST_CUT",
+    "locuteur": "Merciful Clergyman",
+    "en": "All skills cost nothing!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TIYUDAI",
+    "locuteur": "Merciful Clergyman",
+    "en": "All party members will recover HP for three turns!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TIYUSOK",
+    "locuteur": "Merciful Clergyman",
+    "en": "All party members will recover HP for three turns!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HOMUNCU",
+    "locuteur": "Merciful Clergyman",
+    "en": "The Homunculus took your place!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_OWNDOLL",
+    "locuteur": "Merciful Clergyman",
+    "en": "The Scapegoat activates for {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KIAIBRACE",
+    "locuteur": "Merciful Clergyman",
+    "en": "The Bracer of Might activates for {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KAMINONIE",
+    "locuteur": "Merciful Clergyman",
+    "en": "The Sacrificial Idol activates for {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DLCATK",
+    "locuteur": "Merciful Clergyman",
+    "en": "Attacking at end of turn!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_UZUUZU",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0} is restless!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MANZOK",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0} is satisfied.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_THINK",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0} is thinking.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KETSUDAN",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0} has made up its mind!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MAHASUKU",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1}'s accuracy and evasion have increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RANDAMA",
+    "locuteur": "Merciful Clergyman",
+    "en": "All of {f 2 4 1}'s stats decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HEATRA",
+    "locuteur": "Merciful Clergyman",
+    "en": "All of {f 2 4 1}'s stats increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_SASTAIN",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1}'s stat buffs have been extended!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_HIDE",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1} is now immune to physical attacks!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RISKY_GAMEOVER",
+    "locuteur": "Merciful Clergyman",
+    "en": "The party leader has died...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_JIBAKU",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0} has initiated its self-destruct sequence!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_EIKOHNO",
+    "locuteur": "Merciful Clergyman",
+    "en": "Everyone's attack and defense have greatly increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ALLBSTHEAL",
+    "locuteur": "Merciful Clergyman",
+    "en": "Allies have been cured of any ailments!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KOUKA_NASHI",
+    "locuteur": "Merciful Clergyman",
+    "en": "But there was no effect!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_AMRITA",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1} completely healed and fully recovered HP!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_LPATRA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Allies have been cured of all ailments!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_COUNT_UP",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1}'s count increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ONEBSTHEAL",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1} has been cured of any ailments!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_ONESEALHEAL",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1}'s Binds disappeared!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_CHARGE",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1} is building up strength!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_CONCENTRATE",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1} concentrates!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_KAKUSEI",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1} is now awakened!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_SUMMON_TRUMP",
+    "locuteur": "Merciful Clergyman",
+    "en": "Card Soldiers have appeared!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DOLL_SMILE",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0} smiles innocently.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_MOTIVATION",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0} is fired up!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BOAST",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0} shows off its body.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RELAX",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0} lounges elegantly.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_CREEP",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 0} squirms.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TURNENDHEAL",
+    "locuteur": "Merciful Clergyman",
+    "en": "A mass healing effect has been added!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DARKMIST",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1}'s ailment and Bind time extended.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_TARGET_DEAD_ALR",
+    "locuteur": "Merciful Clergyman",
+    "en": "There is no target for {f 2 4 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DROP_MONEY",
+    "locuteur": "Merciful Clergyman",
+    "en": "The Shadow scattered {f 2 4 2} yen!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_COUNTER_ATT",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1}'s Taunt Counter activates!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_SKILL_LOCK",
+    "locuteur": "Merciful Clergyman",
+    "en": "Your individuality was robbed!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BEAR_TENSION_L2",
+    "locuteur": "Merciful Clergyman",
+    "en": "The battle is heating up!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BEAR_TENSION_L3",
+    "locuteur": "Merciful Clergyman",
+    "en": "The battle is heated!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BEAR_TENSION_L3#2",
+    "locuteur": "Merciful Clergyman",
+    "en": "The battle is scorching hot!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRUP_NEND",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1}'s Psy resistance increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRUP_KAKU",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1}'s Nuke resistance increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRDOWN_NE",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1}'s Psy resistance decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_REF_ATTRDOWN_KA",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1}'s Nuke resistance decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_DOUBLE_ATTACK",
+    "locuteur": "Merciful Clergyman",
+    "en": "Double attack activates!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_BOOT2",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 3} activated!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_FULL_ANALYZE_SU",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1}'s abilities were analyzed!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_FULL_SNALYZE_FA",
+    "locuteur": "Merciful Clergyman",
+    "en": "{f 2 4 1} is blocking the analysis...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PQ2_SONIC_RUSH",
+    "locuteur": "Merciful Clergyman",
+    "en": "Taking a stance to repeatedly use skills!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PQ2_RUSH_STEP",
+    "locuteur": "Merciful Clergyman",
+    "en": "Taking a stance to repeatedly use skills!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PQ2_GOWAN",
+    "locuteur": "Merciful Clergyman",
+    "en": "Taking a stance to make skills splash!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PQ2_GAISHU",
+    "locuteur": "Merciful Clergyman",
+    "en": "Taking a stance to make skills splash!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PQ2_UTIOTOSI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Taking a stance to null physical attacks!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PQ2_GEIGEKI",
+    "locuteur": "Merciful Clergyman",
+    "en": "Taking a stance to null physical attacks!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PQ2_ORGIA",
+    "locuteur": "Merciful Clergyman",
+    "en": "Limiters released!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PQ2_COSTC",
+    "locuteur": "Merciful Clergyman",
+    "en": "Skill costs decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PQ2_COSTR",
+    "locuteur": "Merciful Clergyman",
+    "en": "Skill costs decreased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_PQ2_ZEROS",
+    "locuteur": "Merciful Clergyman",
+    "en": "Skill costs negated for {f 2 4 1}!",
+    "fr": ""
+  }
+]

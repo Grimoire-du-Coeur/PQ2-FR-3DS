@@ -1,0 +1,121 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "We hurried over to the theater lobby...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "What's this...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "Theodore's new popcorn has been{SAUT}scattered all over the floor...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "We were all eating some of{SAUT}Theodore's popcorn when Teddie{SAUT}suddenly showed up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukiko",
+    "en": "He rammed into the table and sent{SAUT}popcorn flying everywhere...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "And where did he go after that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "I think he stumbled over to the{SAUT}test screening room...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "Stumbled?{PAGE}Just to confirm... Was Teddie wearing{SAUT}his bear suit at the time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Yeah, he was.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "I see... This is turning into quite the case.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "This is a job for the detective duo.{OPTION}Who's the real culprit?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "I'm honored that you would turn to me{SAUT}for this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "I can't very well embarrass myself in{SAUT}front of the first generation Detective Prince.{SAUT}I'll do all I can to solve this case.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "We'll need to uncover the full story{SAUT}beforehand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akechi",
+    "en": "Indeed. We still haven't{SAUT}confirmed whether Teddie was the{SAUT}perpetrator or just another victim.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "Whoa, those two really know their{SAUT}stuff... We'd better just let them handle{SAUT}this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Naoto",
+    "en": "Teddie's sudden attack and the{SAUT}discarded bear suit... The only thing{SAUT}connecting these events is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "Yes... Theodore's popcorn.{PAGE}The popcorn in Teddie's costume was{SAUT}the same as what we found here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "Correct. It seems we'll have to pay a{SAUT}visit to Theodore's shop next.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "Agreed. Let's take a look.",
+    "fr": ""
+  }
+]

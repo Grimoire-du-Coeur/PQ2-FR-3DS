@@ -1,0 +1,278 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Welcome back. I take it you found the{SAUT}ammonite...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "...Yeah, we did, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "They're a little busy right now... Would{SAUT}you mind giving them a moment?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "Busy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "I feel as though I am now one with the{SAUT}ancient world...{PAGE}I am the ammonite! The ammonite{SAUT}is me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Absolutely... I know exactly what you{SAUT}mean Yusuke-kun! Viva ammonite!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Elizabeth",
+    "en": "......{PAGE}Please let me know when you are{SAUT}finished.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "Sorry about this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Teddie",
+    "en": "I'm starting to worry that we've lost{SAUT}the old Yuki-chan for good...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Haru",
+    "en": "But aren't you excited to see{SAUT}Yukiko-chan's artwork? She'll finally{SAUT}be able to let her emotions flow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "Phew... I'd say it's not too bad. What{SAUT}about you, Amagi-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yukiko",
+    "en": "I drew one too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Th-This is...!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "An explosion.{OPTION}An ammonite?{OPTION}I'm not sure...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "Yes, an explosion of imagination!{SAUT}A big bang of art!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "The ammonite has left―no―burst{SAUT}through its shell... How wonderful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "Indeed. Such creativity has left me{SAUT}speechless as well... It's truly amazing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yukiko",
+    "en": "No... I just followed your advice,{SAUT}Yusuke-kun.{PAGE}You taught me to let myself go... I'd{SAUT}never done anything like that before,{SAUT}but...{PAGE}I never thought it'd feel this good...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yusuke",
+    "en": "No... This was entirely your doing.{PAGE}...I must thank you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yusuke",
+    "en": "Drawing isn't simply about skill or{SAUT}knowledge...{PAGE}It is an art born from one's soul―from{SAUT}one's past experiences. It is these things{SAUT}that give rise to creativity...{PAGE}I had believed I was to teach you, but it{SAUT}appears you ended up teaching me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yukiko",
+    "en": "Not at all. My art is nothing compared{SAUT}to yours.{PAGE}If it's okay with you, do you think I{SAUT}could have your picture?{PAGE}If I'm going to decorate the inn, I want{SAUT}something as expressive as this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yusuke",
+    "en": "I'm honored to hear that.{PAGE}And may I ask you to give me your{SAUT}picture, Amagi-san?{PAGE}I want to remember the feeling of{SAUT}inspiration I had today.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yukiko",
+    "en": "Of course!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Chie",
+    "en": "Did you two get to draw your pics?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yukiko",
+    "en": "Yeah! Look!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Chie",
+    "en": "Whoa... That's really something...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Makoto",
+    "en": "Well, it's... definitely unique, but I think{SAUT}it's also kind of beautiful for that reason.{PAGE}You two seem to have really connected.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Teddie",
+    "en": "By working together, you got a double{SAUT}burst of creativity!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yukiko",
+    "en": "Yusuke-kun...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yusuke",
+    "en": "Yes...! We may be able to use this in{SAUT}combat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Chie",
+    "en": "Ohh, there they go again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Futaba",
+    "en": "To be on the same wavelength as Inari...{SAUT}She's got some real talent.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yusuke",
+    "en": "I would like to thank everyone.{PAGE}With this, the Phantom Thieves will now{SAUT}be even more powerful.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_035",
+    "choix": true,
+    "en": "We're counting on you.{OPTION}Sounds good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Yusuke",
+    "en": "Leave it to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yukiko",
+    "en": "Oh, that's right. I promised I'd give you{SAUT}something in return.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Teddie",
+    "en": "Something in return?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Yukiko",
+    "en": "Mhm. I was planning to cook something{SAUT}for Yusuke-kun as a way of saying{SAUT}thank you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Chie",
+    "en": "Why didn't you say so!? I'll help!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Teddie",
+    "en": "Th-That's probably...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Kanji",
+    "en": "A bad idea. Someone's gonna croak...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "P4 Hero",
+    "en": "...If you're going to cook something,{SAUT}we'd like to pitch in as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Kanji",
+    "en": "Y-Yeah! If Yukiko-senpai wants to say{SAUT}thanks, then we'll help too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Yusuke",
+    "en": "Your friends are truly wonderful,{SAUT}Amagi-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Yukiko",
+    "en": "Yeah! I'll have to work even harder for{SAUT}everyone from here on!",
+    "fr": ""
+  }
+]

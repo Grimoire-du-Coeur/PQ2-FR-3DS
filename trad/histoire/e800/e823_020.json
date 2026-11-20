@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Uhm, so we just have to defeat the{SAUT}targets at the locations Elizabeth{SAUT}specified, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "That's all we need to do? That'll{SAUT}be easy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mitsuru",
+    "en": "Just remember, these Shadows aren't{SAUT}weak. Don't hesitate to run if things get{SAUT}out of hand.{PAGE}Especially you, Akihiko. You get heated{SAUT}far too easily. Set a good example for{SAUT}the underclassmen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "I know. Give me some credit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Shinjiro",
+    "en": "Hah, do you now...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akihiko",
+    "en": "What, you don't believe me, Shinji?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Shinjiro",
+    "en": "Try being the one who has to rein you in{SAUT}every time you run off on your own.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akihiko",
+    "en": "Wha―Well, what about you, Shinji!?{SAUT}You've been talking down to us for who{SAUT}knows how long...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "*sigh* This again... They'll be a moment.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Please say something, Mitsuru.{OPTION}Help, {f 6 1 27 0 0 0}.{OPTION}Let's leave them be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Mitsuru",
+    "en": "Even if I were to intervene, they'd just{SAUT}keep going.{PAGE}Perhaps it's because they've known{SAUT}each other since they were kids. I swear,{SAUT}they're so immature...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Mitsuru",
+    "en": "I don't think {f 6 1 26 0 0 0} could{SAUT}help if she tried.{PAGE}It's these two we're talking about. It'll{SAUT}just start up again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Mitsuru",
+    "en": "It'll never end. You don't intend to wait{SAUT}it out, do you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "It's okay, I have an idea! Just leave{SAUT}it to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Mitsuru",
+    "en": "What do you plan to do,{SAUT}{f 6 1 26 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "Shinjiro-senpai! Akihiko-senpai!{SAUT}Listen up!{PAGE}This is a hunting mission, so why don't{SAUT}we have a competition to see which one{SAUT}of you is the better fighter?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akihiko",
+    "en": "A competition, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Fem Protag",
+    "en": "That's right. But you can't just defeat{SAUT}the enemies.{PAGE}We're in this together, so flying solo's{SAUT}off limits.{PAGE}This will be about observing your{SAUT}teammates and doing your best to{SAUT}support them.{PAGE}We'll decide the winner based on their{SAUT}overall performance. Deal?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Akihiko",
+    "en": "Heh... Interesting. I accept.{PAGE}If I win, then you have to train with me,{SAUT}Shinji.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Shinjiro",
+    "en": "Wha―!? Why the hell would I have to{SAUT}do that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akihiko",
+    "en": "What, you're not afraid of losing,{SAUT}are you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Shinjiro",
+    "en": "You little... There's no way I'd lose to{SAUT}you, Aki.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akihiko",
+    "en": "All right, it's a duel, Shinji!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Shinjiro",
+    "en": "Hah, don't come crying to me later.{PAGE}So where're these enemies? I'm ready{SAUT}for 'em.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akihiko",
+    "en": "Trying to go at it alone...? That's against{SAUT}the rules. Minus one point!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Shinjiro",
+    "en": "What!? That doesn't count. We haven't{SAUT}even started yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P3 Fem Protag",
+    "en": "Working together is key, okay? Good{SAUT}luck, you guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Mitsuru",
+    "en": "To think you'd be able to tame those{SAUT}two... Not bad, {f 6 1 26 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha, I'm used to it. The ones I know{SAUT}are just like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Mitsuru",
+    "en": "*sigh* They're like that over there too?{SAUT}It's already giving me a headache...{PAGE}Either way, thanks to {f 6 1 26 0 0 0}{SAUT}we can finally move forward.{SAUT}Let's get going.",
+    "fr": ""
+  }
+]

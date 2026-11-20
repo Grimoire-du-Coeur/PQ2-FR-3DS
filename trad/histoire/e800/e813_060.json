@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "Now then, let's get to gathering those{SAUT}ingredients, shall we?{PAGE}All we need are Tingly Kernels,{SAUT}isn't that right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Yes, but it wouldn't be wise to search{SAUT}blindly.{PAGE}Theodore gave us a tip on where to{SAUT}find some...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Bright places.{OPTION}Windy places.{OPTION}Damp places.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Oh? He said that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "No, he said we should look somewhere{SAUT}damp.{PAGE}In which case, we should probably{SAUT}concentrate our search near bodies of{SAUT}water.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "Yes, he mentioned searching in damp{SAUT}locations.{PAGE}In which case, we'll want to{SAUT}concentrate our search near bodies of{SAUT}water.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "By the way, why do we need the{SAUT}popcorn?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "We currently only have circumstantial{SAUT}evidence, so we have no choice but{SAUT}to catch the culprit in the act.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "Therefore, we'll ask Theodore to make{SAUT}his new popcorn again...{PAGE}And we'll use that as bait to lure in the{SAUT}culprit, correct?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "Yes. Plus, no one will suspect anything;{SAUT}they'll think we're just trying to help{SAUT}Theodore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Teddie",
+    "en": "Hrrm... How bear-y clever.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "*chuckle* You're too kind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "We'll find Tingly Kernels near the{SAUT}water. Let's begin our search.",
+    "fr": ""
+  }
+]

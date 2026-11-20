@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukiko",
+    "en": "Oh, look!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Young herbivore",
+    "en": "*whimper*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "There he is. This must be our missing{SAUT}dinosaur.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "That wound looks like it really hurts...{SAUT}I don't think he can move.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Let's hurry up and treat it.{OPTION}Let's find some herbs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Now that we've found him, the next step is{SAUT}to find some medicinal herbs.{PAGE}Noir was saying something about a door{SAUT}with vines?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "Mhm. If we can find one, I should be{SAUT}able to locate some herbs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "A door with vines... It's prolly a shortcut.{PAGE}There should be a few around here.{SAUT}Let's check it out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "All right! Then, let's go grab some!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Young herbivore",
+    "en": "*whimper*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "It's too dangerous to leave him here...{SAUT}What should we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Rise",
+    "en": "Don't worry about it. I've got him on{SAUT}my end, so I'll be sure to keep watch!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Haru",
+    "en": "Thank you, Rise-chan.{PAGE}Wait here, okay? We'll be back to help{SAUT}you in just a moment, and then you'll{SAUT}get to see your mommy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Young herbivore",
+    "en": "*whimper*",
+    "fr": ""
+  }
+]

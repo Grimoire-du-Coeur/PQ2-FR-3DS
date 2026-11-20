@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Whew... That was close. They almost{SAUT}turned us into fertilizer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Mitsuru",
+    "en": "Honestly... So the scent and flowers{SAUT}were all natural traps.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Sorry. Obvious ambush was obvious.{SAUT}I usually see this stuff coming in{SAUT}games...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Fuuka",
+    "en": "There might be more at any moment.{SAUT}You should get out of there, now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "So much for our picnic, I guess.{PAGE}But we got the butterfly we needed.{SAUT}Let's head back to base.",
+    "fr": ""
+  }
+]

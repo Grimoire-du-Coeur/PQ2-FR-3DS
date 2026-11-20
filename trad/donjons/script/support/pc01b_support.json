@@ -1,0 +1,377 @@
+[
+  {
+    "id": "HARU_FOE_FOLLOW_START_1",
+    "en": "Oh dear! We've been spotted!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_FOE_FOLLOW_START_2",
+    "en": "We're being followed, guys!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_FOE_FOLLOW_START_3",
+    "en": "FOE headed our way!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_FOE_NEAR_1",
+    "en": "Shhh! It's right there...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_FOE_NEAR_2",
+    "en": "Take precautions, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_FOE_NEAR_3",
+    "en": "Please don't let it see us...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_FOE_FOLLOW_END_1",
+    "en": "*sigh* That was so close...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_FOE_FOLLOW_END_2",
+    "en": "We got away, we got away!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_FOE_FOLLOW_END_3",
+    "en": "*giggle* Looks like we won in the end!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_KANSI_REACTION_1",
+    "en": "Let's keep a lookout, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_KANSI_REACTION_2",
+    "en": "Let's be on our tippy toes...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_KANSI_REACTION_3",
+    "en": "I'm getting a tad nervous.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_DENKISAKU_REACTION_",
+    "en": "This... may be a bit excessive for{SAUT}keeping crows away.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_DENKISAKU_REACTION_#2",
+    "en": "I wonder what the voltage is...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_DENKISAKU_REACTION_#3",
+    "en": "We have to turn the electricity off{SAUT}first...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_KYOUHU_REACTION_1",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_KYOUHU_REACTION_2",
+    "en": "Eek!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_KYOUHU_REACTION_3",
+    "en": "Ahh!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_STAIR_FIND_1",
+    "en": "Oh! It's the way to the next area!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_STAIR_FIND_2",
+    "en": "Yay! We can go to the next floor!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_STAIR_FIND_3",
+    "en": "Just imagine what the next area is like!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_TREASURE_FIND_1",
+    "en": "A treasure box!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_TREASURE_FIND_2",
+    "en": "It's a treasure box, let's check it out!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_TREASURE_FIND_3",
+    "en": "Is that treasure over there?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_CHECK_WALL_1",
+    "en": "Hmm... Something's fishy...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_CHECK_WALL_2",
+    "en": "Let's check out that area.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_CHECK_WALL_3",
+    "en": "Hey, what do you think that is...?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_SWITCH_FIND_1",
+    "en": "Oh look, a switch.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_SWITCH_FIND_2",
+    "en": "You thinking we ought to use{SAUT}the switch?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_SWITCH_FIND_3",
+    "en": "Oh hi, switch.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_SHORTCUT_FIND_1",
+    "en": "We've got ourselves a shortcut!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_SHORTCUT_FIND_2",
+    "en": "A hidden passage, perhaps?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_SHORTCUT_FIND_3",
+    "en": "Did we find a shortcut?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_FOE_WARNING_NEAR_1",
+    "en": "It still hasn't given up!?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_FOE_WARNING_NEAR_2",
+    "en": "Guys, it's still following us!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_FOE_WARNING_NEAR_3",
+    "en": "It doesn't give up easily, that's for sure.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_1PERSON_HPTP10_1",
+    "en": "Um, can I have someone heal me?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_1PERSON_HPTP10_2",
+    "en": "Excuse me, but can we rest...?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_1PERSON_HPTP10_3",
+    "en": "I'm sorry, I don't think I can keep up...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_1PERSON_HP10_1",
+    "en": "I need healing soon...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_1PERSON_HP10_2",
+    "en": "This is pretty hard on me right now...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_1PERSON_HP10_3",
+    "en": "I'm not in the best of shape...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_1PERSON_TP10_1",
+    "en": "I'm trying but... I can hardly stay{SAUT}awake.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_1PERSON_TP10_2",
+    "en": "Just putting one foot in front of the{SAUT}other is hard for me in my state...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_1PERSON_TP10_3",
+    "en": "I might have pushed myself too hard...",
+    "fr": ""
+  },
+  {
+    "id": "HARU_1PERSON_HP80_1",
+    "en": "I'm good if you guys are good!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_1PERSON_HP80_2",
+    "en": "*giggle* I think I'm on a roll today!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_1PERSON_HP80_3",
+    "en": "Everyone's so energetic!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_DUNGEON_START_1",
+    "en": "A fresh new investigation!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_DUNGEON_START_2",
+    "en": "*giggle* This is starting to get fun.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_DUNGEON_START_3",
+    "en": "I'm excited to see what will happen.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_QUEST_START_1",
+    "en": "Everyone all set?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_QUEST_START_2",
+    "en": "I'm going to do my best!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_QUEST_START_3",
+    "en": "Ready, set, go!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_TOUHA_25_1",
+    "en": "I'm so excited to see the final version!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_TOUHA_25_2",
+    "en": "It's starting to look like a map!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_TOUHA_50_1",
+    "en": "Halfway there!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_TOUHA_50_2",
+    "en": "Whew, halfway!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_TOUHA_75_1",
+    "en": "Are we almost done?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_TOUHA_75_2",
+    "en": "Almost done, we've got this!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_TOUHA_100_1",
+    "en": "Hooray! We finished the map!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_TOUHA_100_2",
+    "en": "Look! It turned out a wonderful map!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_MAPPING_ICON_ALL_1",
+    "en": "Wow! That's really good!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_MAPPING_ICON_ALL_2",
+    "en": "You draw it so nicely.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_MAPPING_ICON_KAIDAN",
+    "en": "That's an accurate representation.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_MAPPING_ICON_KAIDAN#2",
+    "en": "Mmhm that's how I remember it.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_MAPPING_CHANGE_COLO",
+    "en": "*giggle* Adding a personal touch, are{SAUT}we?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_MAPPING_CHANGE_COLO#2",
+    "en": "Oh, changing the color?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_MAPPING_ICON_DEL_1",
+    "en": "You're taking it out?",
+    "fr": ""
+  },
+  {
+    "id": "HARU_MAPPING_ICON_DEL_2",
+    "en": "Mmhm, let's get rid of it.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_MAPPING_MEMO_1",
+    "en": "So beautiful!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_MAPPING_MEMO_2",
+    "en": "Excellent, we won't forget if we note it{SAUT}down.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_DOOR_OPEN_1",
+    "en": "This way!",
+    "fr": ""
+  },
+  {
+    "id": "HARU_DOOR_OPEN_2",
+    "en": "Ready? Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "HARU_DOOR_OPEN_3",
+    "en": "*giggle* Come on! Hurry!",
+    "fr": ""
+  }
+]

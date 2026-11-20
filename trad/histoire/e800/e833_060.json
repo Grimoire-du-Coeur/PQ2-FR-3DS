@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Foraging onward on a treasure hunt{SAUT}for the ages, the team finds a cache{SAUT}of untold riches!{PAGE}How did you enjoy this fantastical{SAUT}treasure hunt? Were you swimming{SAUT}in coins, like a rich tycoon?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "Well... It didn't happen like that, but...{SAUT}we definitely found a bunch of treasure.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Indeed, I must commend you for{SAUT}your sense of calm and responsibility.{PAGE}Why, nobody even complained about{SAUT}the relative mundanity of this task...{PAGE}And nobody rushed ahead recklessly,{SAUT}blinded by the prospect of riches.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "What? What're you talking about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Huh... Does that happen in movies?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Haha! Sounds like a rookie mistake.{SAUT}That's definitely not us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Shinjiro",
+    "en": "Heh... Someone put out those fires{SAUT}before they got outta control.{PAGE}Guess that's thanks to those two.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mitsuru",
+    "en": "I've heard you're fond of gardening?{SAUT}Not just horticultural theory―you{SAUT}even care for the flowerbeds.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "Oh, you make it sound so impressive!{SAUT}It's little more than a hobby, really...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mitsuru",
+    "en": "I'm currently trying to devise a plan{SAUT}for my own garden. Do you suppose{SAUT}you could give me some advice?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "*giggle* I'd be more than happy to.{SAUT}I'll consult some gardener friends...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "What's going on?{OPTION}Double empresses?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Shinjiro",
+    "en": "Not much we can do against it.{SAUT}No matter how much power we got,{SAUT}we can't beat that aura.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "Hm... It's difficult to describe with{SAUT}words. They have some natural{SAUT}ability to command others...{PAGE}So that must be what charisma is.{SAUT}I suppose it's a skill, in its own way.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "I still don't get it.{OPTION}I want to be like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Shinjiro",
+    "en": "Hah... I guess it's hard to explain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Shinjiro",
+    "en": "Hah. It's not something you can just{SAUT}learn to be. Don't worry about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Shinjiro",
+    "en": "They both think pretty highly of you,{SAUT}anyway. Have some confidence.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Haru",
+    "en": "Ah, so your passions lie with tea!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Mitsuru",
+    "en": "I'm more of an enthusiast than{SAUT}an authority, but you're welcome{SAUT}to join me for a cup.{PAGE}I keep some fine leaves on me for{SAUT}such occasions. I'd be happy to share{SAUT}with someone who appreciates them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Haru",
+    "en": "Oh, most certainly! I'd be delighted{SAUT}to provide some scones.{PAGE}You see, there's this pastry shop run{SAUT}by a friend of the family since my{SAUT}grandfather's days...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Mitsuru",
+    "en": "Oh? That does sound promising. I'd{SAUT}be more than happy to sit down{SAUT}for a discussion sometime.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Chie",
+    "en": "H-Hey, do they live in a totally{SAUT}different world from us...?{PAGE}Don't lose, Yosuke! Fight for the{SAUT}pride of Junes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "Uh, screw that! We're there for{SAUT}the commoners!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Haru",
+    "en": "Oh, everyone else is welcome too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Mitsuru",
+    "en": "Yes. Perhaps when all this is taken{SAUT}care of, a small party is in order.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Chie",
+    "en": "Really!? All right! Time for a barbecue{SAUT}party! Goblets full of steak sauce!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yosuke",
+    "en": "They said it's a tea party! If you're{SAUT}gonna guzzle steak sauce, do it{SAUT}somewhere else!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Shinjiro",
+    "en": "Mitsuru used to be so detached from{SAUT}the rest of us, nobody would ever{SAUT}talk to her. But now...{PAGE}Looks like she's doing pretty good for{SAUT}herself. I guess things are finally{SAUT}starting to change.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yusuke",
+    "en": "It's a relief to see that gentleness in{SAUT}Haru's expression again...{PAGE}They say meeting new people{SAUT}changes our outlook. I suppose we{SAUT}should cherish these encounters...",
+    "fr": ""
+  }
+]

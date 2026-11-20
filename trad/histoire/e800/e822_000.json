@@ -1,0 +1,103 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ken",
+    "en": "Phantom thieves, huh...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Hm? What's up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ken",
+    "en": "Oh, nothing. It's just... changing into a{SAUT}costume and fighting evil sounds like{SAUT}something you'd see in a comic book.{PAGE}So... why did you guys become{SAUT}phantom thieves?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "We were wronged.{OPTION}It just kinda happened.{OPTION}Because it's cool.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "Wronged?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Buncha shitty adults... We'd all seen{SAUT}firsthand how messed up they can be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Well, yeah, it started out that way...{PAGE}But then we made it our goal to stop all{SAUT}those assholes who thought they could{SAUT}do whatever they wanted.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "Well, I guess that's true.{PAGE}It does sound pretty cool to smite evil{SAUT}in the name of justice, doesn't it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "We were planning on it being a{SAUT}one-time thing...{PAGE}But then we realized we weren't the{SAUT}only ones adults were taking advantage{SAUT}of.{PAGE}So we kept going, hoping we could{SAUT}make a difference.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "And thus the Phantom Thieves were{SAUT}born―protecting the weak and{SAUT}changing the hearts of the wicked!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ken",
+    "en": "Changing the hearts of the wicked...{PAGE}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "You okay, Ken?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ken",
+    "en": "Oh, I'm fine. Thank you for sharing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "...What's up with Ken-kun?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Well, he is that age, you know?{PAGE}Every guy has a time when he wants to{SAUT}be a superhero.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "...Really?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "en": "A new special screening:{SAUT}\"A Lesson in Justice\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

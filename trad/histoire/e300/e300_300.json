@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "Leader! Aigis!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "We finally found you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Boy with earphones",
+    "en": "Everyone...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yukari! Give him this Evoker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "Roger!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_5",
+    "locuteur": "Yukari",
+    "en": "Here, this is for you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Boy with earphones",
+    "en": "Oh, it's my... Thanks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Shinjiro",
+    "en": "Tch... We've got more company!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mass-produced robot",
+    "en": "ERRORS MUST BE ELIMINATED.{SAUT}ERRORS MUST BE ELIMINATED.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Stay back, you two―we'll handle this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Blue-eyed girl",
+    "en": "You're...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Mitsuru",
+    "en": "Let him take care of Aigis. We must{SAUT}destroy those robots!{PAGE}Joker! Everyone! Lend us a hand!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "Of course.{OPTION}Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Right. Let's wipe them out quickly and{SAUT}get those two out of here.",
+    "fr": ""
+  }
+]

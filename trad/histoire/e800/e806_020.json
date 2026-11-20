@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "So we're gonna look for ammonites,{SAUT}but... where the hell do we start?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "The dirt.{OPTION}The forest.{OPTION}The ocean.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "You wanna look around here? That{SAUT}seems like it'd be kinda tough, don't{SAUT}you think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "That's an idea. Ammonites are sea{SAUT}creatures, after all.{PAGE}But there's no ocean anywhere nearby,{SAUT}is there...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "If we're searching for ammonites,{SAUT}I imagine it's best to look near the water.{PAGE}Fossils are often found in rivers, even{SAUT}today.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "I believe the closest body of water is{SAUT}just east of here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Thank you all...{PAGE}Mark my words, I WILL obtain that{SAUT}ammonite for Amagi-san! I WILL see{SAUT}her passion in full bloom!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukiko",
+    "en": "I appreciate it, but... it's a little{SAUT}embarrassing hearing you scream it out{SAUT}like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "Sorry... It's just his way of showing you{SAUT}that he cares.{PAGE}Either way, let's make our way east.",
+    "fr": ""
+  }
+]

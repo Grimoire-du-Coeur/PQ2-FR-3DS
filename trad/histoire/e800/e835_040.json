@@ -1,0 +1,30 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Yo, an arrow! Looks like we gotta{SAUT}go that way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "This is kinda fun. It's almost making me{SAUT}feel like a little kid again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "I know, it's so exciting!{PAGE}Looks like there aren't too many hint{SAUT}arrows. Careful not to miss anything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "The arrow is pointing to the left.{SAUT}Let's try going that way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "The arrow is pointing to the left.{SAUT}Let's try going that way...",
+    "fr": ""
+  }
+]

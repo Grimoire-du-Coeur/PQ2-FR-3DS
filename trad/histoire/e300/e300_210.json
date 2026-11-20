@@ -1,0 +1,689 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Dude―who turned out the lights!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_05",
+    "locuteur": "Junpei",
+    "en": "Are we locked in here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "Tch, is this some kinda trap!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Exam system AI",
+    "en": "UNITS TK-00, 01. UNITS YS-02, 05, 07.{PAGE}UNITS IW-02, 03, 09. UNIT UIY-2249.{PAGE}BEGINNING THE \"POWER\" EXAM.{SAUT}PLEASE CARRY ONE FULL TON TO{SAUT}THE SPECIFIED LOCATION.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Wha―ONE TON!? We've gotta carry{SAUT}1000 effin' kilograms!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Exam system AI",
+    "en": "NOTE: COOPERATION IS REQUIRED{SAUT}IN THIS TEST. IF A TASK IS FAILED, ALL{SAUT}WILL FACE THE CONSEQUENCES.{PAGE}EACH UNIT WILL BE CONSIDERED{SAUT}CRITICALLY ERRONEOUS AND{SAUT}DISPOSED OF IMMEDIATELY.{PAGE}YOUR TIME LIMIT IS 10 MINUTES.{SAUT}THE EXAM BEGINS NOW.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "What kind of place is this!? And what's{SAUT}with that \"disposed of\" part!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Oh man... Are we seriously supposed to{SAUT}carry a whole ton?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akihiko",
+    "en": "It doesn't seem like we have to carry{SAUT}one ton all at once, though―look over{SAUT}there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Shinjiro",
+    "en": "Oh, a scale...{PAGE}So, we just gotta carry those boxes over{SAUT}there and make the weight add up to{SAUT}one ton.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Kanji",
+    "en": "Heh, piece of cake! If we haul multiple{SAUT}boxes in each trip, this'll be over in―{PAGE}Hold up, this shit's heavy! How many{SAUT}kilograms are these things, anyway!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Teddie",
+    "en": "Umm... It says 40 kg.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "That's light.{OPTION}That's heavy...{OPTION}I don't know what that means.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Shinjiro",
+    "en": "Maybe not for us, but―you think you{SAUT}can manage that, Chie? Those boxes{SAUT}are basically 20 2-liter bottles apiece... ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "Guh... I'm not too confident about{SAUT}carrying 40 kg at once...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akihiko",
+    "en": "Don't knock it 'til you try it! We just{SAUT}have to think of it as a workout.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akihiko",
+    "en": "It's like four 10 kg dumbbells apiece.{SAUT}It'll be a breeze if we just think of it{SAUT}like it's training.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "Yeah, easy-peasy... For YOU,{SAUT}Akihiko-senpai!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "Oh yeah! Ribbon, can't you carry a lot{SAUT}at once? I mean, you're a robot, sooo...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ribbon",
+    "en": "I AM SORRY, BUT MY MAXIMUM LIFT{SAUT}CAPACITY IS 20 kg.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Chie",
+    "en": "Then we can carry one together,{SAUT}Ribbon-chan!{PAGE}Let's see, we need a total of one ton, so...{SAUT}how many boxes is that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ribbon",
+    "en": "25. THERE ARE SEVEN OTHERS BESIDES{SAUT}YOURSELF AND MYSELF, SO IT WILL{SAUT}TAKE APPROXIMATELY 3.125 TRIPS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Junpei",
+    "en": "Welp, time to get to work. Hup―!{PAGE}Agh... No good, this is murder for my{SAUT}back! I'm gonna regret choosing this{SAUT}exam by the end of this sentence!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "Hrghh... I'm regretting it even faster!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Shinjiro",
+    "en": "We ain't got time to fool around. Hurry{SAUT}up and grab some boxes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "en": "We managed to make one trip apiece...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Chie",
+    "en": "Oh man, I completely underestimated{SAUT}this... I'm gonna drop dead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "Seriously, this is nuts. They're so much{SAUT}heavier than I expected...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Teddie",
+    "en": "I'm such a fragile pretty boy, I wasn't{SAUT}able to move any at all...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Akihiko",
+    "en": "We've only got 320 kg on there so far.{SAUT}There's 680 kg to go―no time for being{SAUT}worn out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Shinjiro",
+    "en": "So that's like two more trips and change,{SAUT}huh... How much time we got left?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ribbon",
+    "en": "6 MINUTES AND 28 SECONDS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Kanji",
+    "en": "Tch―are we stuck just toughin' this out!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_032",
+    "choix": true,
+    "en": "Let's think of another approach.{OPTION}We have to do this.{OPTION}What should we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Akihiko",
+    "en": "We don't have the time to stand around{SAUT}and think. We'll have to do it while{SAUT}moving boxes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Shinjiro",
+    "en": "But if we just do it normally, we'll run{SAUT}outta time. If only we had another way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Akihiko",
+    "en": "Well, I know we don't have the time to{SAUT}stand around and think about it. We'll{SAUT}have to do it while moving boxes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Kanji",
+    "en": "You're askin' me!? Uh, how about...{SAUT}Well, IS there some kinda other way{SAUT}to do this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Akihiko",
+    "en": "I dunno, but we don't have the time to{SAUT}stand around and think about it. We'll{SAUT}have to do it while moving boxes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Ryuji",
+    "en": "Alright, let's do it! Round two!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Junpei",
+    "en": "*pant* *gasp* My back and arms are{SAUT}shot... I'm past my limit after just two{SAUT}rounds...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Chie",
+    "en": "*pant* *pant* Anyone got any bright{SAUT}ideas on how else we can do this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Kanji",
+    "en": "Why don't we jam the last boxes inside{SAUT}Teddie's costume and just roll him over{SAUT}there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Chie",
+    "en": "Ooh, great idea! He's mostly empty{SAUT}in there, so maybe it'll all fit?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Teddie",
+    "en": "Hey! This suit's not some kind of{SAUT}pocket dimension!{PAGE}Plus, my coat is genuine bear fur.{SAUT}It's heavier than it looks! I get{SAUT}tuckered out extra-fast!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Ryuji",
+    "en": "Then why the hell'd ya join the \"Power\"{SAUT}team!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Ribbon",
+    "en": "2 MINUTES AND 30 SECONDS{SAUT}REMAINING.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Shinjiro",
+    "en": "Shit... We're runnin' outta time. If we{SAUT}don't put up 360 kg at once, we're{SAUT}done for.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Junpei",
+    "en": "Hey, Joker! Can't you come up with{SAUT}some cool scheme with your...{SAUT}Phantom Thieves... expertness?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_048",
+    "choix": true,
+    "en": "Don't be ridiculous.{OPTION}We'll be the extra weight.{OPTION}Let's ask Skull to cook up a plan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Akihiko",
+    "en": "But we have to finish this, no matter{SAUT}how ridiculous our plan is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Akihiko",
+    "en": "...That's it! We've just gotta get{SAUT}ridiculous!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Shinjiro",
+    "en": "What'd you come up with?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Akihiko",
+    "en": "The scale's display has to be one ton,{SAUT}right?{PAGE}Well, who says all the weight has to{SAUT}come from the boxes?{PAGE}If we get on the scale, our own weight{SAUT}would be just as good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Chie",
+    "en": "Oh, I getcha! The total weight on{SAUT}the scale just has to be one ton!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Akihiko",
+    "en": "Yeah, there weren't any rules about{SAUT}what goes on the scale.{PAGE}Heh, that's a pretty impressive plan.{SAUT}Nice work!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Ryuji",
+    "en": "What!? How ridiculous can you be!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Akihiko",
+    "en": "...That's it! We've just gotta get{SAUT}ridiculous!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Shinjiro",
+    "en": "What'd you come up with?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Akihiko",
+    "en": "The scale's display has to be one ton,{SAUT}right?{PAGE}Well, who says all the weight has to{SAUT}come from the boxes?{PAGE}If we get on the scale, our own weight{SAUT}would be just as good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Kanji",
+    "en": "Ohhh! Well, lemme give it a shot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Chie",
+    "en": "Yes! It works!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Ryuji",
+    "en": "Hell yeah! C'mon everybody, line up!{PAGE}If all of us including Ribbon hops on,{SAUT}I bet we'll have a ton on there,{SAUT}no problem!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Chie",
+    "en": "H-Hold on! Can we not get on there{SAUT}one at a time!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Junpei",
+    "en": "Yeah yeah, we know. Alrighty then, let's{SAUT}go on the count of three...{PAGE}One, two, three!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Junpei",
+    "en": "Ooh, 1162 kg!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Exam system AI",
+    "en": "THE TARGET WEIGHT IS EXCEEDED BY{SAUT}162 kg. PLEASE TRY AGAIN.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Akihiko",
+    "en": "Looks like we have to make it exactly{SAUT}one ton.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Ryuji",
+    "en": "Should we all get off, then get back on{SAUT}one at a time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Chie",
+    "en": "Hey! No way! I'm not about to reveal{SAUT}that information... ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Shinjiro",
+    "en": "We can adjust the weight by 40 kg with{SAUT}the boxes, but since it's 162 kg over, it{SAUT}won't be enough. What do we do now?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_070",
+    "choix": true,
+    "en": "Have Chie step off the scale.{OPTION}Have Kanji step off the scale.{OPTION}Have Teddie strip down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Chie",
+    "en": "NO! None of you are finding out how{SAUT}much I weigh! You'll never get me{SAUT}off here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Akihiko",
+    "en": "We're running out of time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Kanji",
+    "en": "Dammit! In that case... Hey, Teddie!{SAUT}Strip down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_074",
+    "locuteur": "Teddie",
+    "en": "Gyaaaah! Kanji's lost it! Stay awaaay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_075",
+    "locuteur": "Kanji",
+    "en": "I'm 65 kg, though. Would that work?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_076",
+    "locuteur": "Akihiko",
+    "en": "No, the math won't add up that way.{SAUT}We're running out of time here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_077",
+    "locuteur": "Kanji",
+    "en": "Dammit! In that case... Hey, Teddie!{SAUT}Strip down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_078",
+    "locuteur": "Teddie",
+    "en": "Gyaaaah! Kanji's lost it! Stay awaaay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_079",
+    "locuteur": "Teddie",
+    "en": "Hrmmm!? I may be a pretty boy, but{SAUT}that's a bit too bold for even me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_080",
+    "locuteur": "Kanji",
+    "en": "Just shuddap and do it! This is{SAUT}the zipper, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_081",
+    "locuteur": "Teddie",
+    "en": "Aaagh! Y-You're catching my skin!{SAUT}Owie owie owie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_082",
+    "locuteur": "Shinjiro",
+    "en": "Hey, we don't have time to play around.{SAUT}We're just a few seconds from―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_083",
+    "locuteur": "Kanji",
+    "en": "Wait―The hell!? There's a ton o' shit{SAUT}inside him!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_084",
+    "locuteur": "Chie",
+    "en": "What the―Popcorn!?{PAGE}There's also some juice boxes, and{SAUT}chocolate, and... Geez, there's like{SAUT}half a pantry in here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_085",
+    "locuteur": "Ryuji",
+    "en": "How long have you been stashing{SAUT}all this food!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_086",
+    "locuteur": "Teddie",
+    "en": "I can't believe you found my most{SAUT}hidden treats... You naughty snack{SAUT}raiders!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_087",
+    "locuteur": "Akihiko",
+    "en": "Looks like there's at least 2 kg worth{SAUT}of stuff in here. Alright, out it goes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_088",
+    "locuteur": "Teddie",
+    "en": "Stop―not my snacks! Noooooooooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_089",
+    "locuteur": "Junpei",
+    "en": "Ooh, we're at 1160 kg now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_090",
+    "locuteur": "Akihiko",
+    "en": "Awesome! All that's left is pushing four{SAUT}boxes off, and...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_091",
+    "locuteur": "Exam system AI",
+    "en": "TARGET RESULT CONFIRMED. THIS{SAUT}CONCLUDES THE \"POWER\" EXAM.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_092",
+    "locuteur": "Ryuji",
+    "en": "Hell yeah! We made it by the skin{SAUT}of our teeth!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_093",
+    "locuteur": "Teddie",
+    "en": "*sniffle* My stockpile... Gone in a poof...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_094",
+    "locuteur": "Chie",
+    "en": "C'mon, don't be so sad. We can get{SAUT}you some popcorn later!{PAGE}...And by that, I mean Yosuke will.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_095",
+    "locuteur": "Junpei",
+    "en": "Man, was that close! I seriously thought{SAUT}we were gonna get disposed of...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_096",
+    "locuteur": "Ribbon",
+    "en": "WE PASSED THE EXAM... BUT OUR{SAUT}METHOD DID NOT FOLLOW THE{SAUT}STANDARD EXAMINATION PROCESS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_097",
+    "locuteur": "Teddie",
+    "en": "Tisk, tisk―that just shows you how{SAUT}Teddies are anything but standard!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_099",
+    "locuteur": "Shinjiro",
+    "en": "Robots only follow orders. They don't{SAUT}know how to deal with loopholes{SAUT}the way that we do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_100",
+    "locuteur": "Junpei",
+    "en": "That's human intelligence for ya!{SAUT}Either way, we got a pass.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_101",
+    "locuteur": "Akihiko",
+    "en": "Regardless of the method, we're done{SAUT}here.{PAGE}Once we hit that release button,{SAUT}let's hurry back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_103",
+    "en": "Meanwhile, in the \"Knowledge\"{SAUT}exam room...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_104",
+    "locuteur": "Yosuke",
+    "en": "Great job, partner! Another right{SAUT}answer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_105",
+    "locuteur": "Makoto",
+    "en": "Cheering us on is fine and all, but you{SAUT}need to contribute too, Hanamura-kun.{SAUT}You haven't answered yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_106",
+    "locuteur": "Yosuke",
+    "en": "Eheheh... I know, I know! It's time{SAUT}for me to get serious!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_107",
+    "locuteur": "P4 Hero",
+    "en": "I'm counting on you, Yosuke. Let's all{SAUT}get through this together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_108",
+    "locuteur": "Mitsuru",
+    "en": "Right―you can do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_109",
+    "en": "Meanwhile, in the \"Adaptation\" exam{SAUT}room...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_110",
+    "locuteur": "P3 Fem Protag",
+    "en": "I'll go first, so―everyone, just follow{SAUT}my lead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_111",
+    "locuteur": "Haru",
+    "en": "Right! I'll do my best!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_112",
+    "locuteur": "Ken",
+    "en": "Yeah, me too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_113",
+    "locuteur": "Ann",
+    "en": "Wow, {f 6 1 27 0 0 0}-chan's really{SAUT}doing a great job.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_114",
+    "locuteur": "Yukari",
+    "en": "Yeah, she's a natural leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_115",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA! Where'd your previous{SAUT}vigor go?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Ngh... I don't want to believe it, but{SAUT}are we really unable to defy him!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Ain't there anything we can do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "Oh no―if this keeps up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "...Hey, Noir. Do you remember what{SAUT}that policeman said earlier?{PAGE}\"As long as we still have 'that' around,{SAUT}Kamoshidaman is invincible.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Haru",
+    "en": "Oh, you're right!{PAGE}So that means there's something making{SAUT}Kamoshidaman untouchable?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "Did you notice how the eyes of the{SAUT}statue shine when everyone becomes{SAUT}immobile?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "So, it's possible that they need{SAUT}to target...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "Yes―the statue!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA! Of course you can't win{SAUT}against me―I am absolutely just!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "I don't think you're just at all!{PAGE}You don't even listen to anyone else―{SAUT}you only judge people by your own{SAUT}standards!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Kamoshidaman",
+    "en": "Ha! So it's true when they say that{SAUT}losers have the biggest mouths!{PAGE}Evildoers threatening society shall{SAUT}perish: this is the law of Kamo City!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Makoto",
+    "en": "Guys! That Kamoshidaman statue{SAUT}is the reason you can't move!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Kamoshidaman",
+    "en": "Wh-Wh-What!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Huh? That butt-ugly statue?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kamoshidaman",
+    "en": "Wh-Wh-Wh-What're you talking{SAUT}about!? Th-Th-The statue is wholly{SAUT}unrelated to my power!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "He's really squirming there...{SAUT}Did they nail it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "So, we're to destroy that statue?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "But, we can't move like we need to...{PAGE}And it's way too far to target from here.{SAUT}What should we do, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "We have to retreat for now.{OPTION}Do something about it.{OPTION}Give it everything you've got!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akechi",
+    "en": "Mm, that's a wise decision. Let's retreat{SAUT}so we can gain an advantage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "And what would that be!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "I think we should retreat so we can{SAUT}gain an advantage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ryuji",
+    "en": "Alright, then! One, two―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023_5",
+    "locuteur": "Ryuji",
+    "en": "―Wait, ain't that what we're already{SAUT}effin' doing!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akechi",
+    "en": "I think we should retreat so we can{SAUT}gain an advantage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ryuji",
+    "en": "Tch! I guess we got no other choice!{SAUT}But...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Haru",
+    "en": "Everyone, go! We'll be fine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ann",
+    "en": "Sorry―sit tight, we'll definitely be{SAUT}back to rescue you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yusuke",
+    "en": "We'll return soon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Kamoshidaman",
+    "en": "You think I'd let you scum merely flee?{SAUT}Guards―seize the evildoers!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P3 Fem Protag",
+    "en": "They're coming! What do we do!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "Ha, we're not gettin' caught by some{SAUT}small fries!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Morgana",
+    "en": "Right! The escape route's this way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "P3 Fem Protag",
+    "en": "An escape route? Wow! That sounds{SAUT}like real phantom thief business!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yusuke",
+    "en": "It's not LIKE it―we ARE the Phantom{SAUT}Thieves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ann",
+    "en": "Oh, save it―we've gotta run!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Kamoshidaman",
+    "en": "So they got away... Well, no matter.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Kamoshidaman",
+    "en": "Loyal citizens! The evil plaguing you has{SAUT}fled, tails between their legs, thanks{SAUT}to my absolute justice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Agitated man",
+    "en": "Woooah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Brazen man",
+    "en": "Now that's our Kamoshidaman!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Weary woman",
+    "en": "Kamoshidaman was right after all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHAHAHA! Justice always wins!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Makoto",
+    "en": "We have faith in you guys!",
+    "fr": ""
+  }
+]

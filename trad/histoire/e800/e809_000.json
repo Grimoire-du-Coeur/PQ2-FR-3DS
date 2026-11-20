@@ -1,0 +1,79 @@
+[
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "What's wrong?{OPTION}Are you hungry or something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Oh... Sorry, I was just looking at this{SAUT}graffiti.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Well, I certainly could eat, but I'm{SAUT}far from starving.{PAGE}I was just looking at this graffiti.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Look here. It's unfinished.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Oh yeah, it ain't like the others. Maybe{SAUT}they got bored halfway through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "No, that's unlikely.{PAGE}I can feel the artist's hesitation here,{SAUT}their suffering...{PAGE}Their hands were forced to stop{SAUT}painting against their will. Right here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Wow, Fox. How did you figure all of{SAUT}that out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "Graffiti is a crime, but there's an artistic{SAUT}quality to it that can't be dismissed.{PAGE}And I don't just mean the technique.{SAUT}I mean the creator's feelings and the{SAUT}message they try to convey to society...!{PAGE}Yes, it's coming to me! This well of{SAUT}inspiration simply won't stop flowing!{PAGE}Ahh, perhaps I'll fill in the blanks and{SAUT}finish it for them...!{PAGE}Urgh! No... Be still, my hand...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Welp, he's at it again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Hmm, I've never really cared much for{SAUT}graffiti.{PAGE}But it's a crime, right? If Queen found{SAUT}out, you'd be tasting the iron fist of{SAUT}justice for sure.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Hey, how long are you guys gonna{SAUT}stand there? Queen and Noir are{SAUT}waiting for us! Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "My apologies, I was distracted... Right.{SAUT}They're our top priority.{PAGE}Now then, let's be off. We must{SAUT}dethrone that false hero!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "en": "There's some unfinished graffiti here{SAUT}on the wall...",
+    "fr": ""
+  }
+]

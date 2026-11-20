@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "So that one's the fake? I wonder if he'll{SAUT}admit it.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Let's bring him down.{OPTION}Let's hear what he has to say.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "Hold on, we should double check.{PAGE}I'll go make sure. Please let me handle{SAUT}this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "Right. Let's make sure.{PAGE}I have an idea. Please wait here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Serious Policeman",
+    "en": "What? You again? We're on duty, stop{SAUT}pestering us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "So you're the fake!{PAGE}Reveal yourself! Your charade ends now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Whoa! There's a drastic turn of events!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Serious Policeman",
+    "en": "Wh-What're you talking about!?{SAUT}Who are you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "Here's what you told me earlier.{PAGE}\"The officer by car number 11-10 seems{SAUT}suspicious to me.\"{PAGE}Say your suspicions were correct. That{SAUT}would mean the officer with the car{SAUT}numbered 11-10 is a liar and a fake...{PAGE}However, officer 11-10 stated officer{SAUT}77-55 is real.{PAGE}If officer 11-10 is lying about officer{SAUT}77-55, then there's more than one liar.{PAGE}Therefore, you are the liar!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Serious Policeman",
+    "en": "Damn it! You're one crazy kid.{SAUT}I'm gonna need some backup...{PAGE}......!?{PAGE}......{PAGE}...OOOOOOHN!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Chie",
+    "en": "Whoa geez! It transformed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Looks like our hypothesis was correct!{SAUT}Here it comes!",
+    "fr": ""
+  }
+]

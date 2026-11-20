@@ -1,0 +1,439 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Enlil",
+    "en": "I am the maelstrom incarnate... The one{SAUT}that you humans call \"Enlil\"...{PAGE}If your resolve, determination, and{SAUT}beliefs are as you say... then prove this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "I-I'm sensing some insane power!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "This is such a powerful opponent...{SAUT}Everyone, please be careful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_3",
+    "locuteur": "Hikari",
+    "en": "You can do this! ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_5",
+    "en": "The theatergoer's wishes transformed{SAUT}into the power to oppose Enlil!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Enlil",
+    "en": "Humans have learned nothing from the{SAUT}endless cycle of destruction and rebirth.{PAGE}They oppose providence, manipulated{SAUT}by delusions they call possibilities...{PAGE}Such a fallacy is due to the simple{SAUT}weakness of human existence.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Enlil",
+    "en": "Humans view even an offer of salvation{SAUT}as evil, turning their weapons against it.{PAGE}Human are truly pathetic. It's no shock{SAUT}that they defy the will of the heavens...{PAGE}However, even still, I offered my{SAUT}protection to each and every one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Enlil",
+    "en": "Humans know not that \"hope\" is but a{SAUT}poison that drives them mad―thus, they{SAUT}cling to that which destroys them.{PAGE}This can only make them regret their{SAUT}decisions and drown in despair...{PAGE}And that is why I must step in―to save{SAUT}them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Enlil",
+    "en": "Such a pity...{PAGE}If you hadn't clung to hope... you{SAUT}wouldn't have become so lost.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Wh-Whoa, hold on! What was that{SAUT}just now!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Enlil",
+    "en": "Do you realize it now? Humans truly are{SAUT}powerless.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "Th-This can't be!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043_5",
+    "locuteur": "Enlil",
+    "en": "Do you realize it now? Humans truly are{SAUT}powerless.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Enlil",
+    "en": "The only salvation for such weak beings{SAUT}is through surrendering to my world.{PAGE}Thieves like yourselves are nothing but{SAUT}dangerous anomalies that disrupt my{SAUT}order...{PAGE}Thus, you shall be extinguished by{SAUT}mine own hand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Fuuka",
+    "en": "Everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "A-Ah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Rise",
+    "en": "No way... Guys! ...Everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Fuuka",
+    "en": "I... I'm not getting any readings from{SAUT}them...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Futaba",
+    "en": "D-Did... we lose?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Hikari",
+    "en": "N-Nnh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Futaba",
+    "en": "H-Hikari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Fuuka",
+    "en": "Hikari-chan...{PAGE}Please, run! At this rate, she'll even{SAUT}take you down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Enlil",
+    "en": "All is nothing but dust before my wind...{SAUT}Your actions are useless.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Hikari",
+    "en": "...No.{PAGE}They're not useless!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Hikari",
+    "en": "I know it's true! I've watched everyone{SAUT}all this time!{PAGE}They never gave up inside those movies,{SAUT}not even once!{PAGE}No matter how hard it was... or how{SAUT}painful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Futaba",
+    "en": "Hikari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Hikari",
+    "en": "We haven't lost yet! I know their{SAUT}power...{PAGE}I believe in them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Fuuka",
+    "en": "Hikari-chan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Enlil",
+    "en": "Why can't you understand?{PAGE}Your beliefs were nothing more than{SAUT}false images projected onto a screen...{PAGE}You knew they were all illusions, yet{SAUT}you still accepted this world, no?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Hikari",
+    "en": "It's because I've finally remembered...{SAUT}Thanks to everyone, I remember!{PAGE}They helped me remember what{SAUT}matters in life!{PAGE}That's why I believe so much in them!{SAUT}They'll never lose―not to you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Enlil",
+    "en": "Hikari...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Hikari",
+    "en": "I won't give up!{PAGE}They've all supported me, so this time...{SAUT}it's my turn!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Hikari",
+    "en": "You've overcome every kind of problem{SAUT}you've faced... You never ran away!{PAGE}I believe... I'm positive that you can{SAUT}do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Hikari",
+    "en": "Please, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Enlil",
+    "en": "How...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "P3 Fem Protag",
+    "en": "I heard your voice, Hikari-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "P3 Hero",
+    "en": "Sorry for the wait.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "P4 Hero",
+    "en": "Leave the rest to us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Enlil",
+    "en": "You still...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "P3 Fem Protag",
+    "en": "Don't underestimate our will!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "P4 Hero",
+    "en": "We've gotten back on our feet countless{SAUT}times before now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "P3 Hero",
+    "en": "We WILL win―because we'll never{SAUT}give up.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_069",
+    "choix": true,
+    "en": "Let's finish this!{OPTION}Are you ready?{OPTION}You did great, Hikari.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Hikari",
+    "en": "Guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Enlil",
+    "en": "Aaaaaaagh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Rise",
+    "en": "Enlil's power is rising... This is so bad!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Rise",
+    "en": "No way... C'mon, guys... You gotta get{SAUT}back up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "Don't tell me... is everyone down!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Hikari",
+    "en": "Everyone, please! Get back up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "N-Nngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "Aagh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yusuke",
+    "en": "Nghh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "Nngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "Hrgh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Haru",
+    "en": "Aah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "Ngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P4 Protag",
+    "en": "Nngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Chie",
+    "en": "Nngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yukiko",
+    "en": "Aah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosuke",
+    "en": "Hrgh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Kanji",
+    "en": "Dammit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Naoto",
+    "en": "Nngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Teddie",
+    "en": "Nnnngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yukari",
+    "en": "Ngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Junpei",
+    "en": "Aah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Akihiko",
+    "en": "Hngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Shinjiro",
+    "en": "Nngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Mitsuru",
+    "en": "Ngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ken",
+    "en": "Aaagh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Koromaru",
+    "en": "*whine*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Aigis",
+    "en": "N-Nngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "P3 Protag",
+    "en": "Nngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "P3 Fem Protag",
+    "en": "Nngh...",
+    "fr": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Whew, that's a relief. It's nice to know{SAUT}we're off the menu now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Excellent. I believe my work here is{SAUT}done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "He's asking if you're all right, Crow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Haha, you were worried about me?{SAUT}You're pretty sharp, you know that?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "What's wrong?{OPTION}You all right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ken",
+    "en": "Oh, uh, it's nothing.{PAGE}I was just thinking what a great job{SAUT}those two did.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "All right then, all that's left is to report{SAUT}our success. Shall we get going?",
+    "fr": ""
+  }
+]

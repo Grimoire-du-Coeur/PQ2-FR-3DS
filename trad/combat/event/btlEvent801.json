@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_5",
+    "locuteur": "Kamoshidaman",
+    "en": "The pinnacle of absolute justice is here!{SAUT}You'd better be prepared, criminals!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Heh! We'll show you the power of{SAUT}the Phantom Thieves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Our attacks aren't doin' shit!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "They seem to be hitting him, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kamoshidaman",
+    "en": "See? It's exactly as I said.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_5",
+    "locuteur": "Kamoshidaman",
+    "en": "This is the power of absolute justice...{SAUT}My power as the unquestionable ruler!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "Are we really powerless to him!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "It's like my body's gotten so tired{SAUT}all of a sudden...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "Ngh, I can't move like I want to...{SAUT}It's like I truly can't defy his will...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "Grrr... We're gonna be in real trouble{SAUT}here!",
+    "fr": ""
+  }
+]

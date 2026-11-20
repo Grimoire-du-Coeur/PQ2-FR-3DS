@@ -1,0 +1,732 @@
+[
+  {
+    "id": "explain_01_quest_01",
+    "en": "Defeat Basalts.",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_01",
+    "en": "This special screening is {f 0 1 2}complete{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_02",
+    "en": "Reach the {f 0 1 8}Destination{f 0 1 5}.",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_02",
+    "en": "This special screening is {f 0 1 2}complete{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_03",
+    "en": "Defeat {f 0 1 8}Daring Gigas{f 0 1 5}.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_03",
+    "en": "{f 0 1 5}You've finished the special screening.{SAUT}{f 0 1 5}Head back now.{SAUT}{f 0 1 8}\"Report completed special screening\"{f 0 1 5}Perform",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_03",
+    "en": "This special screening is {f 0 1 8}complete{f 0 1 5}.",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_04",
+    "en": "Head further into {f 0 1 8}3F {f 0 1 5}while looking out{SAUT}for {f 0 1 8}surveillance cameras{f 0 1 5}.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_04",
+    "en": "{f 0 1 5}You've finished the special screening.{SAUT}{f 0 1 5}Head back now.{SAUT}{f 0 1 8}\"Report completed special screening\"{f 0 1 5}Perform",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_04",
+    "en": "This special screening is {f 0 1 8}complete{f 0 1 5}.",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_05",
+    "en": "Find a store with the letter K on its sign.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_05",
+    "en": "{f 0 1 5}You've finished the special screening.{SAUT}{f 0 1 5}Head back now.{SAUT}{f 0 1 8}\"Report completed special screening\"{f 0 1 5}Perform",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_05",
+    "en": "This special screening is {f 0 1 8}complete{f 0 1 5}.",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_06",
+    "en": "Search the forest and find the ancient{SAUT}creature.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_06",
+    "en": "{f 0 1 5}You've finished the special screening.{SAUT}{f 0 1 5}Head back now.{SAUT}{f 0 1 8}\"Report completed special screening\"{f 0 1 5}Perform",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_06",
+    "en": "{f 0 1 5}This special screening is {f 0 1 8}complete{f 0 1 5}.",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_07",
+    "en": "Defeat the Chicken Kid.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_07",
+    "en": "{f 0 1 5}You've finished the special screening.{SAUT}{f 0 1 5}Head back now.{SAUT}{f 0 1 8}\"Report completed special screening\"{f 0 1 5}Perform",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_07",
+    "en": "This special screening is {f 0 1 8}complete{f 0 1 5}.",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_08",
+    "en": "Find the fake police officer somewhere{SAUT}in the city.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_08",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_08",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_09",
+    "en": "Find graffiti that's different from the rest.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_09",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_09",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_10",
+    "en": "Head to a location where you can fish.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_10",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_10",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_11",
+    "en": "Get the treasure hidden by the dinosaur.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_11",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_11",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_12",
+    "en": "Find a fruit that looks edible.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_12",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_12",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_13",
+    "en": "Gather the ingredients for popcorn.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_13",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_13",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_14",
+    "en": "Rescue the baby dinosaur.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_14",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_14",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_15",
+    "en": "Find out what's damaging the jungle.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_15",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_15",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_16",
+    "en": "Check the containers in the jungle.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_16",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_16",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_17",
+    "en": "Ask around and look for suspicious{SAUT}personnel.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_17",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_17",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_18",
+    "en": "Defeat the target.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_18",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_18",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_19",
+    "en": "Locate the big store.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_19",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_19",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_20",
+    "en": "Capture the T-Rex for scientific research.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_20",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_20",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_21",
+    "en": "Find things that might be edible.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_21",
+    "en": "Find things that might be edible.",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_21",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_22",
+    "en": "Defeat the target.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_22",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_22",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_23",
+    "en": "Defeat a Shadow for training purposes.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_23",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_23",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_24",
+    "en": "Go beyond the transfigured door!",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_24",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_24",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_25",
+    "en": "Defeat the Shadow and demonstrate{SAUT}the power of the Phantom Thieves!",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_25",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_25",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_26",
+    "en": "Head over to the fight and see who{SAUT}the strongest mascot is!",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_26",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_26",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_27",
+    "en": "Find the materials for the fryer.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_27",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_27",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_28",
+    "en": "Fix the broken robot.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_28",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_28",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_29",
+    "en": "Defeat the giant FOE.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_29",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_29",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_30",
+    "en": "Discover what to do with the{SAUT}transfigured door.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_30",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_30",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_31",
+    "en": "Head to the bar.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_31",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_31",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_32",
+    "en": "Let the beautiful ladies proceed.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_32",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_32",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_33",
+    "en": "Locate the Treasure Spots.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_33",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_33",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_34",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_34",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_35",
+    "en": "Locate the Easter Egg.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_35",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_35",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_36",
+    "en": "Gather the communications parts.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_36",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_36",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_37",
+    "en": "Test out your strength on the FOE.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_37",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_37",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_38",
+    "en": "Defeat the FOE.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_38",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_38",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_39",
+    "en": "Find Hikari's lost item.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_39",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_39",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_40",
+    "en": "Obtain cinnamon.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_40",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_40",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_41",
+    "en": "Fulfill Marie's wish.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_41",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_41",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_42",
+    "en": "Follow the butterfly!",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_42",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_42",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_43",
+    "en": "Proceed onward.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_43",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_43",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_44",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_44",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_45",
+    "en": "Defeat the FOE.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_45",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_45",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_46",
+    "en": "Take home what you find in the{SAUT}dungeon.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_46",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_46",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_47",
+    "en": "Eliminate the newly appeared threat.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_47",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_47",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_48",
+    "en": "Eliminate the newly appeared threat.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_48",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_48",
+    "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_49",
+    "en": "Eliminate the newly appeared threat.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_49",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_49",
+    "en": "This special screening is {f 0 1 2}complete.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "explain_01_quest_50",
+    "en": "Eliminate the newly appeared threat.",
+    "fr": ""
+  },
+  {
+    "id": "explain_02_quest_50",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "explain_03_quest_50",
+    "en": "This special screening is {f 0 1 2}complete.{f 0 1 0}",
+    "fr": ""
+  }
+]

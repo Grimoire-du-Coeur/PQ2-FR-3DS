@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": "Even if it's just me, I should be able to{SAUT}at least stall it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "Joker! You came too...{PAGE}I'm sorry, but I need your help here!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Let's time this right.{OPTION}Of course.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "Got it! Let's try attacking it together{SAUT}at the same time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P4 Hero",
+    "en": "We should attack it together at the same{SAUT}time, then! I'm counting on you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "Yes, we knocked it flat!{PAGE}That should be enough to stall it.{SAUT}Time to retreat!",
+    "fr": ""
+  }
+]

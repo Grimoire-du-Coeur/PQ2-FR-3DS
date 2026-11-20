@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Overseer",
+    "en": "...Oh dear, so you've progressed this far.{PAGE}You seem to be wreaking havoc all{SAUT}over my fair society however you please.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "So, you're the Overseer, r-right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Overseer",
+    "en": "Indeed. I am the Overseer that guides{SAUT}the robots of this world to their rightful{SAUT}form.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Gah, that face... I know he's not the real{SAUT}one, but it's still givin' me the heebie-{SAUT}jeebies...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Overseer",
+    "en": "UIY-2249: you have disobeyed your{SAUT}commands and acted upon your{SAUT}personal whim.{PAGE}I do not recall giving you such orders.{SAUT}Why did you defy your commands?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Overseer",
+    "en": "Since you cannot function as you are{SAUT}programmed, you seem to be defective{SAUT}after all.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "Defective, huh?{OPTION}That's not true.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Overseer",
+    "en": "That is correct. Having unnecessary{SAUT}thoughts, not performing as{SAUT}programmed...{PAGE}Such a unit disturbs the world's{SAUT}harmony, and obviously must be{SAUT}eliminated.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Overseer",
+    "en": "What an odd statement. UIY-2249 is{SAUT}a robot.{PAGE}If a robot cannot perform as{SAUT}programmed, clearly they are{SAUT}defective.{PAGE}Such a unit disturbs the world's{SAUT}harmony, and obviously must be{SAUT}eliminated.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Ribbon's already got a will of her own!{SAUT}Don't go forcing your own expectations{SAUT}on her!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Overseer",
+    "en": "My expectations? No, this is simply{SAUT}the set of standards, and proper{SAUT}order, of this world.{PAGE}Here, everyone obeys these standards{SAUT}and basks in the serenity they afford.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Serenity? Don't make me laugh!{SAUT}Ribbon-chan's suffering sure doesn't{SAUT}look like serenity to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Overseer",
+    "en": "That is solely due to the fact that{SAUT}this unit is an error.{PAGE}This unit, that cannot accept our world's{SAUT}standards, and cannot function as{SAUT}programmed...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Overseer",
+    "en": "UIY-2249, you are, without a doubt,{SAUT}an error that must be eliminated.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "Ribbon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "What... How could you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ribbon",
+    "en": "I AM... ALL RIGHT... EVERYONE,{SAUT}PLEASE FLEE...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "Don't be stupid! We can't leave you here{SAUT}like this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Overseer",
+    "en": "You continue to defend such an error?{SAUT}Are you all rebelling against this world's{SAUT}standards as well?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_021",
+    "choix": true,
+    "en": "To hell with your standards.{OPTION}She is not an error.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Yeah! Worryin' about how others might{SAUT}see you ain't always the right thing to do!{PAGE}All we're doing is savin' our companion,{SAUT}of our own free will.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "It's true that some rules are needed{SAUT}for a society...{PAGE}But they're not for chaining others down{SAUT}and making them do everything you say!{PAGE}I'll never agree that everyone has to be{SAUT}the same for life to be at its best!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Overseer",
+    "en": "If you disregard our standards, then{SAUT}you are contaminants to our society...{SAUT}Irregularities must be eliminated.{PAGE}Before disposing of that flawed unit,{SAUT}I shall dispose of you first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Hero",
+    "en": "Here he comes, you guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "Bring it on. We're gonna grind you into{SAUT}computer paste!",
+    "fr": ""
+  }
+]

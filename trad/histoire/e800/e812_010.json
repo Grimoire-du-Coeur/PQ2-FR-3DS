@@ -1,0 +1,163 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Pardon me, {f 6 1 30 0 0 0}.{PAGE}Do you happen to know of this thing{SAUT}that's popular amongst the young and{SAUT}hip called \"chu-rros\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "You mean \"churros,\" like the snack?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "No, I don't.{OPTION}I've heard of them.{OPTION}I love them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "Huh? Really?{PAGE}They're like long, thin donuts covered{SAUT}with cinnamon and sugar!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Rise",
+    "en": "So you've never had one before?{PAGE}They're like long, thin donuts covered{SAUT}with cinnamon and sugar!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "*chuckle* {f 6 1 30 0 0 0}-kun are you a{SAUT}big sweets fan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "It's crunchy on the outside, super soft{SAUT}on the inside, and jam-packed with{SAUT}sweet, sugary goodness.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Rise",
+    "en": "They're so good, and they're really{SAUT}convenient too. It's the perfect snack to{SAUT}take to the movies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Elizabeth",
+    "en": "Ah... So it's just as the rumors say: it{SAUT}enhances the movie-going experience.{PAGE}I would very much like to taste these{SAUT}\"churros\"!{PAGE}Having thought about this, I've ordered{SAUT}Theo to either make me some or draw a{SAUT}knife across his stomach as tribute.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha... That's quite an order... Do we{SAUT}have the ingredients?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elizabeth",
+    "en": "I had him gather the ingredients, but{SAUT}he's been whining about there being{SAUT}\"one thing missing.\"{PAGE}According to him, we need something{SAUT}called \"Si-na-mom,\" which is known for{SAUT}its alluring scent.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Rise",
+    "en": "Oh, right, churros do have that{SAUT}cinnamon smell, don't they? Without it,{SAUT}you would feel like something's missing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Elizabeth",
+    "en": "...That said, if you would please offer{SAUT}this pitiable woman your assistance.{PAGE}I've heard that a plant known as the{SAUT}\"Cinnamon Fern\" can be found{SAUT}somewhere in the dinosaur movie.{PAGE}If you wouldn't mind gathering some{SAUT}for me... Not for free of course.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "Got it.{OPTION}Sounds like a drag...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Yay, it's settled, then! Let's seek out{SAUT}some cinnamon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "*chuckle* You sound so excited. I bet{SAUT}you're going for the churros.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "Hehe, you got me.{PAGE}Hot-n-fresh churros sound so good{SAUT}right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Rise",
+    "en": "Oh, I'm with you guys on this one! I'm{SAUT}gonna be the best navigator I can be!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "Aw, c'mon, Elizabeth needs us. Let's{SAUT}help her out.{PAGE}Plus, we'll probably get to eat some{SAUT}churros once we're all done, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "*chuckle* Is that what you're after, Ann?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ann",
+    "en": "Hehe, you got me.{PAGE}Hot-n-fresh churros sound so good{SAUT}right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Rise",
+    "en": "Oh, please say yes, {f 6 1 30 0 0 0}-san!{SAUT}I promise I'll be the best navigator{SAUT}I can be!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Elizabeth",
+    "en": "I appreciate everyone's kindness.{PAGE}This may be selfish of me, but I've gone{SAUT}ahead and prepared this as a special{SAUT}screening.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Rise",
+    "en": "That was fast!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Elizabeth",
+    "en": "And what's more, the locations of the{SAUT}Cinnamon Ferns have already been{SAUT}determined. How incredibly fortuitous.{PAGE}It may be best if you write them down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "en": "The Cinnamon Ferns' locations have been{SAUT}added to the map.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ann",
+    "en": "This is perfect. Let's get going!",
+    "fr": ""
+  }
+]

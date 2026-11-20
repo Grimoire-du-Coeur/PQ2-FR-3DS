@@ -1,0 +1,236 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "So we go in through the screen, right?{SAUT}I'm getting kinda nervous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "...You're going too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "But, why? You're not even looking for{SAUT}the same people...{PAGE}If you go with them, you might not even{SAUT}find who you're looking for...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha, you've got a point...{PAGE}But, nothing's certain in this world, and{SAUT}this problem isn't going to solve itself.{PAGE}When I thought about what I wanted{SAUT}to do, I realized I wanted to go with{SAUT}them. That's all there was to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "Because... they rescued you? To repay{SAUT}them for what they did?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "Well, of course there's that! But more{SAUT}importantly, I understand their{SAUT}situation too well.{PAGE}...I have missing companions who are{SAUT}important to me, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "Companions...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Would your missing friends happen{SAUT}to be Persona-users as well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, everyone in SEES is! See this{SAUT}armband? That stands for Specialized{SAUT}Extracurricular Execution Squad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Oh, that's cool―it's like proof that{SAUT}you're all part of a team.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "Heheh, right? Although, I'm the only{SAUT}member here now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Don't worry, we've got your back!{SAUT}Let's do our best―together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ooh, I get to be part of the Phantom{SAUT}Thieves until I find everyone!{PAGE}Or, ah... is that fine with you?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "That was our intention.{OPTION}I don't think you should.{OPTION}But, your outfit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "Yeah! I dunno why, but it feels like you{SAUT}already fit in with us perfectly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "Whoa, daaaamn... Her social skills are{SAUT}seriously god-tier...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Yeah, you'll end up getting hurt or{SAUT}worse if you just jump into this{SAUT}line of work without thinking.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "Hey, stop that, you two! No scaring off{SAUT}our new member!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hmm... So these clothes won't work?{SAUT}Is having a mask an absolute must?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yusuke",
+    "en": "Body painting is always an option.{SAUT}I'm quite curious about how it feels{SAUT}to brush directly onto a person's skin.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "Better stop right there, Inari... I feel like{SAUT}you're gonna get arrested at this rate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Hikari",
+    "en": "But, companions? I don't understand...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Hikari",
+    "en": "It's... nothing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Nagi",
+    "en": "Hikari-san...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "H-Hikari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Hikari",
+    "en": "Hm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Futaba",
+    "en": "I used to think it's easier being alone{SAUT}too, but―I met everyone, and, um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028_5",
+    "locuteur": "Futaba",
+    "en": "Nowadays, I know it's, like... not bad{SAUT}having friends! R-Right, {f 6 1 30 0 0 0}!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_029",
+    "choix": true,
+    "en": "It's not bad at all.{OPTION}I'm stronger with my friends.{OPTION}Why are you asking me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Hikari",
+    "en": "I see...{PAGE}But―I still don't really get it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Futaba",
+    "en": "Oh, c'mon―this kinda thing's supposed{SAUT}to be YOUR job, {f 6 1 30 0 0 0}!{PAGE}A-A-Anyway! Companions are great!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Hikari",
+    "en": "I... just don't get it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Nagi",
+    "en": "Come now, isn't there something of{SAUT}more importance at the moment?{PAGE}It appears the movie will not change{SAUT}until you progress further within it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Hikari",
+    "en": "Mmhm... Nothing happened until now...{SAUT}There hadn't been any changes at all...{PAGE}But, when you all came here... the plot{SAUT}suddenly started to progress.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Morgana",
+    "en": "Hmm... That means we've really gotta{SAUT}get back in there―I'm worried about{SAUT}the ladies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Akechi",
+    "en": "Right. If we're going to learn anything{SAUT}about this place, we need to return{SAUT}to the movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Morgana",
+    "en": "All right, Joker, give us the infiltration{SAUT}signal when you're ready!",
+    "fr": ""
+  }
+]

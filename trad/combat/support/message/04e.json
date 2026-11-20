@@ -1,0 +1,1607 @@
+[
+  {
+    "id": "BTL_MES_026_000",
+    "en": "DUMMY",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_001",
+    "en": "Hm... This guy's worth fighting.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_002",
+    "en": "There you have it! Now, take care{SAUT}of them!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_003",
+    "en": "W-Whoa! That guy's way above your{SAUT}league! ",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_004",
+    "en": "Fall back! Retreat! Get going already!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_005",
+    "en": "Hm... Perhaps you truly are strong{SAUT}enough...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_006",
+    "en": "That one's tough. You'll need to take{SAUT}a different approach.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_007",
+    "en": "That one has a strong attack. Don't let{SAUT}it catch you off guard.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_008",
+    "en": "This guy's physical attack is a{SAUT}nuisance. Don't you forget that.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_009",
+    "en": "Watch out for its magic attacks.{SAUT}Stay alert!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_010",
+    "en": "It gets violent when it grows weak.{SAUT}Kill it quickly!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_011",
+    "en": "Wow... The way it shines...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_012",
+    "en": "Hey, don't let it escape!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_013",
+    "en": "Hm... This one has an attack that'll hit{SAUT}all of you at once!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_014",
+    "en": "Keep an eye on your allies! Are they{SAUT}doing all right?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_015",
+    "en": "That one has an attack that hits{SAUT}multiple targets!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_016",
+    "en": "Hey, don't forget to guard!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_017",
+    "en": "This one... It's got an instant kill{SAUT}attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_018",
+    "en": "Hey! Stay alert!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_019",
+    "en": "Hey, don't use any affinity attacks{SAUT}right now!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_020",
+    "en": "Then use your physical attacks!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_021",
+    "en": "Watch out! Huge hit, incoming!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_022",
+    "en": "Prepare for impact!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_023",
+    "en": "This one seems to be quite tough.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_024",
+    "en": "Hey, don't push yourself too hard! We{SAUT}can't have you dying here!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_025",
+    "en": "Hm? We've never seen that one before...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_026",
+    "en": "First things first―try out different{SAUT}skills!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_027",
+    "en": "The Shadow here is perfect for you!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_028",
+    "en": "In other words, it's easy prey! Finish it!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_029",
+    "en": "Eh, just a small fry.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_030",
+    "en": "Hmph! Then it shouldn't take long!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_031",
+    "en": "Hm? The Shadow's affinities changed!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_032",
+    "en": "Now's your chance! Exploit its{SAUT}weakness!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_033",
+    "en": "Tch... No good!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_034",
+    "en": "In other words, we couldn't escape!{SAUT}Keep yourselves alive!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_035",
+    "en": "What? Now!?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_036",
+    "en": "It's an FOE! This is NOT good!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_037",
+    "en": "Careful! You almost have a man down!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_038",
+    "en": "Hey, is that guy's health okay!?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_039",
+    "en": "Hey, is Yosuke okay like that?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_040",
+    "en": "Is Chie going to be fine!?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_041",
+    "en": "H-Hey, we might lose Yukiko at this{SAUT}rate!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_042",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_043",
+    "en": "Are we going to leave Kanji like that?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_044",
+    "en": "Naoto's at her limit.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_045",
+    "en": "Hey! Someone take care of Teddie!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_046",
+    "en": "Whoa! Yukari's in danger!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_047",
+    "en": "Hey! Junpei's not doing so well!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_048",
+    "en": "Are we just leaving Akihiko like that?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_049",
+    "en": "Hey! Someone take care of Mitsuru{SAUT}already!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_050",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_051",
+    "en": "Watch Aigis' health!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_052",
+    "en": "Ken looks like he's about finished.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_053",
+    "en": "Hey! Someone keep an eye on{SAUT}Koromaru!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_054",
+    "en": "Shinjiro's not going to make it!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_055",
+    "en": "Someone's going to die at this rate!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_056",
+    "en": "Hey! Are you gonna survive, Joker!?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_057",
+    "en": "Skull's in danger!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_058",
+    "en": "Hm? Is Panther going to be okay!?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_059",
+    "en": "Hmm... Mona might drop soon.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_060",
+    "en": "Hey! Someone, support Fox!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_061",
+    "en": "Is Queen getting assistance anytime{SAUT}soon?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_062",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_063",
+    "en": "Noir's health has reached its limit...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_064",
+    "en": "Crow might not make it...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_065",
+    "en": "Hurry up and get healed already!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_066",
+    "en": "Tch―petrification!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_067",
+    "en": "Hey―an ally's been hexed!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_068",
+    "en": "Look out for the poison! Wait―you're{SAUT}already poisoned!?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_069",
+    "en": "Wake up that sleepyhead!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_070",
+    "en": "Damn, they're confused...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_071",
+    "en": "An ally's been paralyzed!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_072",
+    "en": "Crap! They've been stunned...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_073",
+    "en": "Their magic attacks are sealed. That's{SAUT}a problem...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_074",
+    "en": "Watch it―your strength is bound.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_075",
+    "en": "Damn, their agility's been bound...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_076",
+    "en": "Deal with it! Then, get even with them!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_077",
+    "en": "You can use physical attacks to hit{SAUT}its weak points!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_078",
+    "en": "That one's weak against Fire!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_079",
+    "en": "Ice is a strong choice for handling{SAUT}this one!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_080",
+    "en": "That Shadow's weak to Wind...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_081",
+    "en": "Electricity is its weakness!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_082",
+    "en": "There's a Shadow that's weak against{SAUT}the Nuclear affinity!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_083",
+    "en": "Psychokinesis is what we need to use{SAUT}against this one...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_084",
+    "en": "The Bless affinity is the one you want{SAUT}to use against this enemy!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_085",
+    "en": "Use the Curse affinity to utilize{SAUT}its weakness!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_086",
+    "en": "Hey! Try hitting them with your{SAUT}physical attack!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_087",
+    "en": "There's a Shadow that's weak against{SAUT}Fire... Time to watch it burn up!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_088",
+    "en": "Freeze the Shadows and knock them{SAUT}down!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_089",
+    "en": "If you want to take advantage of its{SAUT}weakness, use the Wind affinity!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_090",
+    "en": "Weak against Electricity, huh... Time{SAUT}to bring out the electric chair!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_091",
+    "en": "With the Nuclear affinity, you'll be able{SAUT}to abuse its weakness!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_092",
+    "en": "There's a Shadow that's weak against{SAUT}Psychokinesis.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_093",
+    "en": "You can strike its weakness with the{SAUT}Bless affinity! Bless it away!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_094",
+    "en": "They're weak against the Curse affinity.{SAUT}Curse them to an eternal punishment!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_095",
+    "en": "Know what you need to do?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_096",
+    "en": "There's no reason NOT to use it!{SAUT}Do you hear me?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_097",
+    "en": "Yosuke, don't let us down!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_098",
+    "en": "Do it, Chie!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_099",
+    "en": "Yukiko's got this.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_100",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_101",
+    "en": "Kanji! Try being useful for once!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_102",
+    "en": "Naoto―now's your chance to shine!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_103",
+    "en": "Teddie, show 'em that you're not just{SAUT}a teddy bear!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_104",
+    "en": "Yukari, you know what to do?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_105",
+    "en": "Do it, Junpei!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_106",
+    "en": "Akihiko, use every cell in your body!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_107",
+    "en": "Mitsuru―you're up!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_108",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_109",
+    "en": "Aigis, this is right down your alley,{SAUT}isn't it?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_110",
+    "en": "How about it, Ken? This is where you{SAUT}can show off!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_111",
+    "en": "Go, Koromaru!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_112",
+    "en": "Finish it off, Shinjiro!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_113",
+    "en": "Good! Go get 'em!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_114",
+    "en": "Joker! It's up to you!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_115",
+    "en": "Skull, you've got this!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_116",
+    "en": "Panther, do some good for us!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_117",
+    "en": "Go, Mona! Go finish them off!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_118",
+    "en": "Hurry up and finish it, Fox!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_119",
+    "en": "This should be easy for you, Queen!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_120",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_121",
+    "en": "Now go, Noir!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_122",
+    "en": "Crow, do you think you've got this?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_123",
+    "en": "Good, keep going.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_124",
+    "en": "Now... what's next?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_125",
+    "en": "Take your time―but not too much.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_126",
+    "en": "This is making me want to join the fray.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_127",
+    "en": "Hey, how about passing the baton?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_128",
+    "en": "So, do a Baton Pass!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_129",
+    "en": "Hm? There's someone who's boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_130",
+    "en": "Good, good―he's boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_131",
+    "en": "Take a look―Yosuke's boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_132",
+    "en": "Chie has been boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_133",
+    "en": "Hey, Yukiko is boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_134",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_135",
+    "en": "Oh! Kanji is boosted now!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_136",
+    "en": "Naoto's boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_137",
+    "en": "Teddie has a nice boost going on!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_138",
+    "en": "Nice boost, Yukari!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_139",
+    "en": "Oh? Junpei's boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_140",
+    "en": "Looks like Akihiko has been boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_141",
+    "en": "Look at Mitsuru! She's boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_142",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_143",
+    "en": "Good, Aigis is in boost mode!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_144",
+    "en": "Ken has a boost!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_145",
+    "en": "Koromaru's boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_146",
+    "en": "Shinjiro is boosted now.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_147",
+    "en": "Someone in the party has been{SAUT}boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_148",
+    "en": "Whoa! Nice boost, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_149",
+    "en": "Skull's been boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_150",
+    "en": "Good, Panther's been boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_151",
+    "en": "Check it out―Mona's boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_152",
+    "en": "Take a look at Fox! He's been{SAUT}boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_153",
+    "en": "Queen, nice boost!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_154",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_155",
+    "en": "Ah... Noir's boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_156",
+    "en": "Crow's been boosted!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_157",
+    "en": "And you can strike its weakness!{SAUT}...Make sure you kill it! ",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_158",
+    "en": "And you've got an affinity that the{SAUT}Shadow's weak against! It's our chance!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_159",
+    "en": "Support's ready anytime.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_160",
+    "en": "Ready to support. Use it when you can!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_161",
+    "en": "It looks like we are up against{SAUT}a strong enemy.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_162",
+    "en": "Do be careful.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_163",
+    "en": "This... is not good.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_164",
+    "en": "I agree. I recommend escaping at once.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_165",
+    "en": "Perhaps with the ability you have now,{SAUT}you'll be able to defeat it.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_166",
+    "en": "But, it seems like it'll be hard to crack{SAUT}its defense. We must find a way.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_167",
+    "en": "It is preparing for a massive attack.{SAUT}Please use caution.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_168",
+    "en": "Its physical attacks may cause you{SAUT}problems... Do be careful.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_169",
+    "en": "This enemy's strength is in its magic{SAUT}attacks. Do not forget this.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_170",
+    "en": "This enemy gains strength as it gets{SAUT}injured. It'd be best to finish it quickly.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_171",
+    "en": "That must be... a rare Shadow.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_172",
+    "en": "It seems to be a rare Shadow―do not{SAUT}let it escape.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_173",
+    "en": "Be aware of its attacks. It'll hit every{SAUT}one of you.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_174",
+    "en": "Please be aware of your health.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_175",
+    "en": "This Shadow uses an attack that hits{SAUT}multiple targets.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_176",
+    "en": "Don't forget to defend.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_177",
+    "en": "This one uses instant kill abilities...{SAUT}Please be careful.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_178",
+    "en": "Don't let your guard down.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_179",
+    "en": "It's useless to attempt affinity attacks{SAUT}right now.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_180",
+    "en": "It's probably for the best to use{SAUT}physical attacks here.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_181",
+    "en": "An enormous attack is on its way...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_182",
+    "en": "Do not forget to guard.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_183",
+    "en": "This opponent is too strong for you.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_184",
+    "en": "If you're in danger, I recommend that{SAUT}you escape.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_185",
+    "en": "There's an enemy that we don't have{SAUT}any data on...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_186",
+    "en": "We may want to figure out its nature{SAUT}first.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_187",
+    "en": "They're neither strong nor weak...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_188",
+    "en": "Defeat it quickly and expertly.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_189",
+    "en": "This enemy isn't even worth your time.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_190",
+    "en": "Now, hurry up and get rid of them.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_191",
+    "en": "Hm, it looks like the enemy's affinity{SAUT}has changed.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_192",
+    "en": "Now's your chance to hit its weakness.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_193",
+    "en": "I could not find you an escape route...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_194",
+    "en": "I don't see a way out.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_195",
+    "en": "It has caught up...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_196",
+    "en": "It's an FOE―be careful.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_197",
+    "en": "Be aware of your allies' state.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_198",
+    "en": "It looks like they may need some help.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_199",
+    "en": "Are you just going to ignore Yosuke's{SAUT}condition?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_200",
+    "en": "Chie's not in a good situation.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_201",
+    "en": "Yukiko might end up defeated.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_202",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_203",
+    "en": "I wonder if Kanji is going to make it{SAUT}to the end.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_204",
+    "en": "Is Naoto doing all right?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_205",
+    "en": "Teddie doesn't seem to be doing{SAUT}so well.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_206",
+    "en": "Keep an eye on Yukari's health.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_207",
+    "en": "Is Junpei going to be left as is?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_208",
+    "en": "It seems like Akihiko is in danger.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_209",
+    "en": "You might want to keep an eye on{SAUT}Mitsuru's health.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_210",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_211",
+    "en": "Is Aigis going to be okay?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_212",
+    "en": "Ken is at his limit.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_213",
+    "en": "Be aware of Koromaru.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_214",
+    "en": "Are we leaving Shinjiro behind?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_215",
+    "en": "A party member might faint rather{SAUT}soon...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_216",
+    "en": "Joker, do you intend on dying here?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_217",
+    "en": "Skull's health is getting a little low.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_218",
+    "en": "Are you going to let Panther die?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_219",
+    "en": "Watch Mona's health.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_220",
+    "en": "If no one does anything about Fox,{SAUT}he might die.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_221",
+    "en": "Are you just going to leave Queen{SAUT}like that?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_222",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_223",
+    "en": "Noir might faint pretty soon.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_224",
+    "en": "Do you intend on leaving Crow{SAUT}in his current condition?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_225",
+    "en": "I recommend prioritizing healing up{SAUT}first.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_226",
+    "en": "Someone has become petrified.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_227",
+    "en": "Someone appears to be cursed.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_228",
+    "en": "Hm, someone is poisoned.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_229",
+    "en": "There is someone currently snoozing.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_230",
+    "en": "It seems like they've become confused...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_231",
+    "en": "It looks like someone has been{SAUT}paralyzed. ",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_232",
+    "en": "It looks like they're dizzy...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_233",
+    "en": "Their magic is bound.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_234",
+    "en": "It looks like their strength has been{SAUT}bound.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_235",
+    "en": "It seems your agility has been bound...{SAUT}I'm going to order you around anyways.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_236",
+    "en": "Shouldn't you take care of that at{SAUT}once?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_237",
+    "en": "A physical attack will do the trick.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_238",
+    "en": "There's an enemy weak against Fire.{SAUT}Burn them to a crisp.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_239",
+    "en": "If you want to aim for its weakness,{SAUT}use an Ice attack.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_240",
+    "en": "There's a Shadow that's weak against{SAUT}the Wind affinity.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_241",
+    "en": "That one is weak against Electricity.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_242",
+    "en": "The Nuclear affinity would be useful{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_243",
+    "en": "These Shadows are weak against{SAUT}Psychokinesis.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_244",
+    "en": "That enemy must be the one that's weak{SAUT}against the Bless affinity.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_245",
+    "en": "If you want to hit its weakness, try{SAUT}using the Curse affinity.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_246",
+    "en": "Weak against physical attacks...{SAUT}What a spineless Shadow.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_247",
+    "en": "There's a Shadow that is weak to Fire.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_248",
+    "en": "That Shadow there is weak to Ice.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_249",
+    "en": "You will be able to strike its weakness{SAUT}with the Wind affinity.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_250",
+    "en": "Electricity might be what you want{SAUT}to use against this one.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_251",
+    "en": "The Shadow there is weak against{SAUT}the Nuclear affinity.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_252",
+    "en": "With the Psychokinesis affinity, you'll{SAUT}be able to strike its weakness.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_253",
+    "en": "Bless the Shadow and that'll be its end.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_254",
+    "en": "Use the Curse affinity to take{SAUT}advantage of its weakness.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_255",
+    "en": "There is no need to hold back.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_256",
+    "en": "You do understand, don't you?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_257",
+    "en": "Yosuke, you had better live up to our{SAUT}expectations.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_258",
+    "en": "Chie, you're up.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_259",
+    "en": "I'm sure you'll do well, Yukiko.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_260",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_261",
+    "en": "Kanji, show us how a man should be.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_262",
+    "en": "Well, Naoto, it is up to you.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_263",
+    "en": "You've got this, Teddie, yes?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_264",
+    "en": "Yukari, I assume you've got this?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_265",
+    "en": "Junpei, will you be more useful here?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_266",
+    "en": "Hm... Akihiko, I hope you got this.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_267",
+    "en": "Mitsuru, you should be able to land{SAUT}an attack.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_268",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_269",
+    "en": "Go, Aigis.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_270",
+    "en": "Ken, perhaps now you should shine.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_271",
+    "en": "Go get it, Koromaru.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_272",
+    "en": "Perhaps this is where Shinjiro should{SAUT}come in.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_273",
+    "en": "Can't someone here handle this task?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_274",
+    "en": "Joker, this looks like a job for you.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_275",
+    "en": "Now, Skull―go make yourself useful.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_276",
+    "en": "Perhaps this is up to you, Panther.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_277",
+    "en": "Mona, isn't this your territory?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_278",
+    "en": "Fox, would you handle this?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_279",
+    "en": "Queen, this is where you can show off.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_280",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_281",
+    "en": "Go show them how to use an axe, Noir.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_282",
+    "en": "Finish them off, Crow.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_283",
+    "en": "What's our next move?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_284",
+    "en": "Being able to battle like this is rather{SAUT}refreshing.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_285",
+    "en": "Be on your guard.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_286",
+    "en": "Stay calm and choose your actions{SAUT}wisely.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_287",
+    "en": "You'd be able to strike a weakness if{SAUT}you switch amongst yourselves.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_288",
+    "en": "This may be the best solution if you{SAUT}would like to strike a weakness.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_289",
+    "en": "It looks like he's boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_290",
+    "en": "Someone in the party is boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_291",
+    "en": "Yosuke is boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_292",
+    "en": "Take a look―Chie is boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_293",
+    "en": "It looks like Yukiko just boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_294",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_295",
+    "en": "Kanji's currently boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_296",
+    "en": "Naoto has boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_297",
+    "en": "It looks like Teddie's now boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_298",
+    "en": "Yukari has just boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_299",
+    "en": "Junpei is currently boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_300",
+    "en": "Akihiko appears to be boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_301",
+    "en": "Mitsuru is currently boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_302",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_303",
+    "en": "Aigis has entered boost mode.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_304",
+    "en": "Ken has been boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_305",
+    "en": "Koromaru is in boost mode.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_306",
+    "en": "Shinjiro has been boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_307",
+    "en": "Someone in the party is now boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_308",
+    "en": "It looks like you're boosted, Joker.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_309",
+    "en": "Skull is now boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_310",
+    "en": "Panther has boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_311",
+    "en": "It looks like Mona has been boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_312",
+    "en": "Fox is boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_313",
+    "en": "Queen has boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_314",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_315",
+    "en": "It appears Noir is boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_316",
+    "en": "Crow is boosted.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_317",
+    "en": "You can aim for its weakness... This is{SAUT}your chance.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_318",
+    "en": "Abusing its weakness is your best bet.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_319",
+    "en": "It looks like you can now ask for{SAUT}our support.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_026_320",
+    "en": "Perhaps you can include our support{SAUT}in your battle strategy. ",
+    "fr": ""
+  }
+]

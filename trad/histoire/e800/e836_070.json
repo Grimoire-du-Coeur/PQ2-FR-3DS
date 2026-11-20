@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Welcome back, guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Phew, I'm totally beat... I never{SAUT}wanna run anywhere again...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "You guys okay? Everyone still alive?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "Teddie-san was briefly pining for{SAUT}the fjords, but apart from that, no{SAUT}major issues.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Fuuka",
+    "en": "Oh, what a relief... I was so worried{SAUT}for all of you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "It was all thanks to our navigators!{SAUT}Thanks a bunch!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Yeah, that was perfect execution.{SAUT}We made it out safely because you{SAUT}three were in sync.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Rise",
+    "en": "I know, right? We're totally on the{SAUT}same wavelength!{PAGE}Ever since we started working{SAUT}together, we've gotten to understand{SAUT}each other's style and pace.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Fuuka",
+    "en": "Right. How do I describe it...? We{SAUT}sort of settled into roles. Now we{SAUT}don't even have to think about it.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "A squad of elites, huh?{OPTION}You work well together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Mwehehe. We have great chemistry,{SAUT}that's all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Hero",
+    "en": "Oh, we brought back all the parts{SAUT}you guys requested. Is this what{SAUT}you needed?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Fuuka",
+    "en": "Oh, thank you so much! Yes, this{SAUT}should work fine.{PAGE}Now, we just have to build it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "Hm, okay... You think we can do{SAUT}something about all those wires?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Fuuka",
+    "en": "Mmhm. These parts are in surprisingly{SAUT}good condition, so we might not{SAUT}need all conductors connected...{PAGE}Could you open a new port on the{SAUT}wireless network, Futaba-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Junpei",
+    "en": "Whoa, look at these two nerding out.{SAUT}One look at those parts, and they've{SAUT}got that gleam in their eyes...{PAGE}Still, Risette's a navigator, and she{SAUT}doesn't go nuts over that stuff.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Rise",
+    "en": "Hmm. I mean, that's true, but...{PAGE}Now that I've gotten to work with{SAUT}other navigators, I've learned a lot{SAUT}of new stuff.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "I-I mean, same here!{PAGE}I never thought I'd be running support{SAUT}with an idol, but...{PAGE}At this point, who cares if she's{SAUT}famous? She treats me like a friend.{PAGE}And so does Fuuka, so... having them{SAUT}around makes me more confident.{SAUT}Like I gotta take it seriously.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Rise",
+    "en": "Right! I can navigate by myself, but{SAUT}with both of them on my side, I feel{SAUT}so much stronger.{PAGE}Don't you think we can do so much{SAUT}more with all three of us?{PAGE}We're not just getting better on our{SAUT}own... We help each other.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Fuuka",
+    "en": "Rise-chan, Futaba-chan... I feel the{SAUT}same way towards you two.{PAGE}We're not just teammates, after all.{SAUT}We're friends!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "F-Friends...{PAGE}Mwehehe... Offline AND online friends!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Fuuka",
+    "en": "Oh, I have a suggestion...{PAGE}I think there are other ways we can{SAUT}strengthen our navigation besides{SAUT}using that machine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "What, without this comms device?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Fuuka",
+    "en": "Um... Maybe more like in addition{SAUT}to it.{PAGE}If we could aggregate their combat{SAUT}information faster, we could do more{SAUT}to help them in battle, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "With the comms device, we can see{SAUT}more, and get a better idea of the{SAUT}battle situation.{PAGE}And depending on what's happening,{SAUT}maybe we could use our Personas{SAUT}to physically support them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Rise",
+    "en": "Physical support... So, like healing{SAUT}and ailment recovery stuff?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "Yep! That's right! This'll be a big help{SAUT}for everyone!{PAGE}Okay, let's slap this gadget together!{SAUT}I call a navigator meeting!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yosuke",
+    "en": "Aaand there they go with the parts.{SAUT}They're like a hurricane.{PAGE}Well, we got everything they wanted,{SAUT}so I guess this request is done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yusuke",
+    "en": "Hold on. I feel like we're forgetting{SAUT}something important.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yosuke",
+    "en": "Huh? Something we forgot?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_030",
+    "choix": true,
+    "en": "Reporting to Elizabeth.{OPTION}I don't know.{OPTION}Tonight's dinner?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yosuke",
+    "en": "Oh! Right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Yosuke",
+    "en": "Now that you mention it, maybe there{SAUT}was one more thing... but what?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Akechi",
+    "en": "If I had to guess, it'd be reporting{SAUT}to Elizabeth?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yosuke",
+    "en": "Oh, right! Man, I've been so absent-{SAUT}minded lately...{PAGE}Wait, no, dang it! That's not what{SAUT}I'm talking about!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Akechi",
+    "en": "If I had to guess, it'd be reporting{SAUT}to Elizabeth?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Elizabeth",
+    "en": "Hmhmhm... And so you finally{SAUT}remember my existence...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yosuke",
+    "en": "What the―Geez, where'd you come{SAUT}from!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Elizabeth",
+    "en": "I've been here behind you, this{SAUT}whole time...{PAGE}Like an abandoned puppy, waiting{SAUT}helplessly, wondering why the master{SAUT}has not returned...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "P3 Hero",
+    "en": "Uh... Sorry about that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Elizabeth",
+    "en": "No, no... It's fine... Don't worry...{PAGE}It did not even cross my mind to{SAUT}bestow everlasting curses upon you.{SAUT}Not once.{PAGE}Besides, this screening allowed me{SAUT}a glimpse of something wonderful{SAUT}indeed.{PAGE}Now then, here is your reward.{SAUT}Please accept it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Elizabeth",
+    "en": "The navigators' teamwork was simply{SAUT}outstanding. I eagerly await their{SAUT}further exploits.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Morgana",
+    "en": "If the navigators' bonds strengthen,{SAUT}their support will be even better.{PAGE}It was definitely a productive{SAUT}special screening, anyway.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Ryuji",
+    "en": "Yeah! Let's keep this up!",
+    "fr": ""
+  }
+]

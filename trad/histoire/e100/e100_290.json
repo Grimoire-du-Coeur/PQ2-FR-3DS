@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Caroline",
+    "en": "Hey, Inmate!{PAGE}You seem to be rather down in the{SAUT}dumps. How are things faring?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "It's going well so far.{OPTION}It's not going so hot.{OPTION}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Justine",
+    "en": "Hearing that makes all our preparations{SAUT}worth the efforts...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Caroline",
+    "en": "Hmph. We have good news for you:{SAUT}we're now ready to perform Persona{SAUT}fusions.{PAGE}Now, get to the Velvet Room!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Caroline",
+    "en": "What!? Seriously, you are such{SAUT}a handful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Justine",
+    "en": "We have good news for you then: our{SAUT}preparations for Persona fusions are{SAUT}complete.{PAGE}Now, let us depart for the Velvet Room.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Caroline",
+    "en": "You have no right to remain silent!{SAUT}Answer the question!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Justine",
+    "en": "Or, perhaps you're in such dire straits{SAUT}that you feel unable to give us{SAUT}an answer?{PAGE}We have good news for you then: our{SAUT}preparations for Persona fusions are{SAUT}complete.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Caroline",
+    "en": "Now, get to the Velvet Room!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Aaand they're off.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Well, I guess we oughta follow them...",
+    "fr": ""
+  }
+]

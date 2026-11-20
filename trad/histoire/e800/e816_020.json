@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Naoto",
+    "en": "Now, let's head over to the container.{PAGE}I believe it was somewhere northwest of{SAUT}here.{PAGE}I'll leave a mark on the map. Will that{SAUT}suffice?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "So, with where we are now, we'll have{SAUT}to go around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Understood! Let us proceed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  }
+]

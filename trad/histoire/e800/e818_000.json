@@ -1,0 +1,133 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, it looks like it's a dead end. Let's{SAUT}take a break.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "There don't appear to be any enemies{SAUT}nearby. What should we do?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "A break sounds nice.{OPTION}We can keep going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Awesome! I've been wanting to take a{SAUT}break anyway!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Yeah, good choice!{PAGE}You guys really know how to read a{SAUT}crowd.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Hmm, everyone looks pretty tired.{SAUT}Maybe we should take a break?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "C'mon, let's rest a bit. You guys ain't{SAUT}too good at reading a crowd, are ya?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha, you're always the same,{SAUT}no matter where we are, Junpei.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukari",
+    "en": "Always?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, sorry... I mean...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Junpei",
+    "en": "In other words, you're sayin' Junpei's{SAUT}always the life of the party, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Fuuka",
+    "en": "Um... I don't know about that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukari",
+    "en": "Life of the party? More like a loudmouth{SAUT}who's way too into himself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "Sheesh, Yuka-tan, why you gotta be so{SAUT}mean...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Fuuka",
+    "en": "-chan...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "...Oh, I-I'm gonna go talk to the others!{SAUT}You guys enjoy your break!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Junpei",
+    "en": "I feel like there's a wall there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Fuuka",
+    "en": "It's as if she wants to mingle with{SAUT}all of us but can't...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukari",
+    "en": "She knows everybody, but nobody{SAUT}knows her...{PAGE}I'd have a really hard time with that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Fuuka",
+    "en": "So would I... {f 6 1 27 0 0 0}-chan{SAUT}doesn't show it, since she tries to be{SAUT}optimistic, but...{PAGE}If only she could open up a little more...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Junpei",
+    "en": "Well, I can't think of anything to help{SAUT}her right now... Guess we'll just have to{SAUT}wait...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "en": "A new special screening:{SAUT}\"A Bond Beyond Worlds\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

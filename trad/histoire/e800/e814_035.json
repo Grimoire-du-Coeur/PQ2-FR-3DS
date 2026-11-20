@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "There it is! A vine-covered door!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Hmm... One moment. Let me see if I can{SAUT}find what we need.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "Mm... There aren't any herbs here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Check the other side of the door. There{SAUT}should be some growing over there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukiko",
+    "en": "Okay, let's go.",
+    "fr": ""
+  }
+]

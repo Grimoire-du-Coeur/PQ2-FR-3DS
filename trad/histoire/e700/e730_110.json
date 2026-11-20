@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Hold on, guys! I'm getting multiple{SAUT}strong readings from beyond that door!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Huh!? Uhhh, just how strong are they?{SAUT}What should we do!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "...I've sensed this kind of reading before.{PAGE}It's similar to when we ran across{SAUT}{f 6 1 27 0 0 0}, or {f 6 1 12 0 0 0}'s{SAUT}team...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "So, does that mean {f 6 1 27 0 0 0}-san's{SAUT}companions are over there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Rise",
+    "en": "That might not be all―I'm getting other{SAUT}readings, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Well, that's concerning...{PAGE}Joker, what's your call? Regrouping{SAUT}before we head in there is always{SAUT}an option.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "There's no knowing what's up ahead...{SAUT}Are we ready?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "Let's go.{OPTION}Let's regroup.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Well then, time to brace ourselves and{SAUT}get in there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "Ah, that's a wise choice.",
+    "fr": ""
+  }
+]

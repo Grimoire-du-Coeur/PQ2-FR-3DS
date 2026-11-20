@@ -1,0 +1,932 @@
+[
+  {
+    "id": "ELIZABETH_FOE_FOLLOW_STA",
+    "en": "You've been splendidly locked onto.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_FOLLOW_START",
+    "en": "An FOE is pursuing you. With{SAUT}admirable conviction, I have to say...",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_FOE_FOLLOW_STA#2",
+    "en": "I would say this is an emergency.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_FOLLOW_START#2",
+    "en": "Alas, it seems the FOE noticed you.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_FOE_FOLLOW_STA#3",
+    "en": "Oh dear, an FOE is tailing you... Theo, I{SAUT}leave this to you.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_FOLLOW_START#3",
+    "en": "Huh!? Oh, I beg you to be careful!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_FOE_NEAR_1",
+    "en": "There is an FOE in proximity to you.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_NEAR_1",
+    "en": "Everyone, caution is required of you!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_FOE_NEAR_2",
+    "en": "I'm formally announcing the near{SAUT}presence of an FOE.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_NEAR_2",
+    "en": "Everyone, please note there is an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_FOE_NEAR_3",
+    "en": "An FOE reading, loud and clear. I{SAUT}propose you not be loud, nor clear.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_NEAR_3",
+    "en": "*gasp* This could prove disastrous.{SAUT}Please be careful!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_FOE_FOLLOW_END",
+    "en": "That was an impressive display of{SAUT}running away.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_FOLLOW_END_1",
+    "en": "It seems the FOE has lost its will to{SAUT}harry you.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_FOE_FOLLOW_END#2",
+    "en": "The FOE's given up its pursuit. Coward.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_FOLLOW_END_2",
+    "en": "Well done. I'm quite impressed.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_FOE_FOLLOW_END#3",
+    "en": "I'm lifting the emergency alert.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_FOLLOW_END_3",
+    "en": "You've succeeded in putting distance{SAUT}between you and the FOE.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_KANSI_REACTION",
+    "en": "You should proceed without allowing{SAUT}yourselves to be illuminated.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KANSI_REACTION_1",
+    "en": "You should proceed without allowing{SAUT}exposure by the lights.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_KANSI_REACTION#2",
+    "en": "Please tippy-toe through here, as I'd{SAUT}prefer not to worry about you all.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KANSI_REACTION_2",
+    "en": "Keep going as quietly as possible.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_KANSI_REACTION#3",
+    "en": "Avoid the lights, and no one will see{SAUT}you.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KANSI_REACTION_3",
+    "en": "Please avoid those lights.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_DENKISAKU_REAC",
+    "en": "Could this be... a training device!?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_DENKISAKU_REACTI",
+    "en": "You won't be able to proceed unless{SAUT}you stop its current.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_DENKISAKU_REAC#2",
+    "en": "Locate the switch to turn off the{SAUT}power.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_DENKISAKU_REACTI#2",
+    "en": "There must be a switch thereabouts...",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_DENKISAKU_REAC#3",
+    "en": "My, what could the voltage be on that{SAUT}apparatus?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_DENKISAKU_REACTI#3",
+    "en": "An electric gate... This reminds me of{SAUT}my sister's―nevermind, it's nothing.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_KYOUHU_REACTIO",
+    "en": "Whoosh goes my skirt! Well, that's a{SAUT}little something special for you.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KYOUHU_REACTION_",
+    "en": "Beware the gusts of wind!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_KYOUHU_REACTIO#2",
+    "en": "Where you land is dependent on the{SAUT}wind.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KYOUHU_REACTION_#2",
+    "en": "Why, perhaps you could ride the{SAUT}wind?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_KYOUHU_REACTIO#3",
+    "en": "Ohhh noooooo.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KYOUHU_REACTION_#3",
+    "en": "Oh! Such a terrible gale!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_STAIR_FIND_1",
+    "en": "Please look to the right. You will see{SAUT}the stairs.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_STAIR_FIND_1",
+    "en": "Sister, I do believe the stairs are just up{SAUT}ahead...",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_STAIR_FIND_2",
+    "en": "Let us head on up, and perhaps also{SAUT}head on down.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_STAIR_FIND_2",
+    "en": "Yes, those are stairs!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_STAIR_FIND_3",
+    "en": "Most excellent, I see stairs.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_STAIR_FIND_3",
+    "en": "Impressive, Sister. You have such keen{SAUT}powers of observation.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_TREASURE_FIND_",
+    "en": "I've confirmed a treasure box up{SAUT}ahead.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TREASURE_FIND_1",
+    "en": "A reward in the form of a treasure{SAUT}box!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_TREASURE_FIND_#2",
+    "en": "Could that be what is called a{SAUT}Treasure?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TREASURE_FIND_2",
+    "en": "I'm quite curious as to the contents of{SAUT}the treasure box.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_TREASURE_FIND_#3",
+    "en": "My personal wish is for that treasure{SAUT}box to contain chips or takoyaki.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TREASURE_FIND_3",
+    "en": "Ah, a treasure box. I must say I'm{SAUT}excited to see what's inside.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_CHECK_WALL_1",
+    "en": "It feels as if something is nearby...",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_CHECK_WALL_1",
+    "en": "Oh, there's something intriguing over{SAUT}there!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_CHECK_WALL_2",
+    "en": "There's something here that catches{SAUT}my fancy.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_CHECK_WALL_2",
+    "en": "What's that? Would you see about it?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_CHECK_WALL_3",
+    "en": "I've sensed something. Yes, definitely.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_CHECK_WALL_3",
+    "en": "I believe there is something nearby.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_SWITCH_FIND_1",
+    "en": "A switch is confirmed present.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_SWITCH_FIND_1",
+    "en": "There's a switch. What will you do?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_SWITCH_FIND_2",
+    "en": "Yonder is a switch.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_SWITCH_FIND_2",
+    "en": "Will you press that switch?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_SWITCH_FIND_3",
+    "en": "There's only one question in this{SAUT}situation. Will you use the switch?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_SWITCH_FIND_3",
+    "en": "It seems that is a switch over there.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_SHORTCUT_FIND_",
+    "en": "It should be possible for you to slip{SAUT}right through a nearby wall.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_SHORTCUT_FIND_1",
+    "en": "This wall... I feel there's more to it than{SAUT}meets the eye.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_SHORTCUT_FIND_#2",
+    "en": "My, that wall... It smells very{SAUT}suspicious, if that is the right verb.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_SHORTCUT_FIND_2",
+    "en": "Why don't you check that wall there?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_SHORTCUT_FIND_#3",
+    "en": "My senses are saying there is a{SAUT}passable wall nearby.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_SHORTCUT_FIND_3",
+    "en": "There may be unknown properties{SAUT}about the wall up ahead.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_PARTY_DEAD_1",
+    "en": "Oh dear... Perhaps we ought to pray,{SAUT}Theo, not much else we can do.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_DEAD_1",
+    "en": "Everyone!? Are you all right!?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_PARTY_DEAD_2",
+    "en": "I recommend that you regroup at{SAUT}once.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_DEAD_2",
+    "en": "Please consider returning here.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_PARTY_DEAD_3",
+    "en": "As they say, slow and steady wins the{SAUT}race.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_DEAD_3",
+    "en": "You should first heal yourselves.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_FOE_WARNING_NE",
+    "en": "You may wish to be cautious while{SAUT}entering battle, for the time being.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_WARNING_NEAR",
+    "en": "The FOE is still chasing you.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_FOE_WARNING_NE#2",
+    "en": "Well then, an FOE is in pursuit now.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_WARNING_NEAR#2",
+    "en": "It just won't give up, will it...",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_FOE_WARNING_NE#3",
+    "en": "It seems the FOE is continuing its{SAUT}pursuit of you...",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_WARNING_NEAR#3",
+    "en": "Everyone, please use as much caution{SAUT}as you can manage.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_PARTY_HPTP10_1",
+    "en": "Oh dear! Th-This is a state of{SAUT}emergency.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_HPTP10_1",
+    "en": "Sister, please calm down. They just{SAUT}need to regroup and heal themselves.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_PARTY_HPTP10_2",
+    "en": "Theo, you must prepare to welcome{SAUT}them back.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_HPTP10_2",
+    "en": "I'm concerned about your levels of{SAUT}exhaustion. You should return.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_PARTY_HPTP10_3",
+    "en": "It seems everyone's strength has{SAUT}reached its own eccentric limit.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_HPTP10_3",
+    "en": "It seems my sister wishes for you to{SAUT}return.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_PARTY_HP10_1",
+    "en": "My... Perhaps a return is in order?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_HP10_1",
+    "en": "Everyone's health is rather depleted.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_PARTY_HP10_2",
+    "en": "Everyone's health is abysmal!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_HP10_2",
+    "en": "You should consider healing{SAUT}immediately.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_PARTY_HP10_3",
+    "en": "Everyone's health level is as tiny a{SAUT}drop as the tear of a sparrow.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_HP10_3",
+    "en": "Please prioritize healing your wounds.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_1PERSON_HPTP10",
+    "en": "Healing! Someone provide healing!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HPTP10_1",
+    "en": "Aren't your health and stamina{SAUT}running quite low?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_1PERSON_HPTP10#2",
+    "en": "It seems you are at your limits in both{SAUT}health and stamina...",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HPTP10_2",
+    "en": "Why don't you at least heal your{SAUT}health?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_1PERSON_HPTP10#3",
+    "en": "Support will be offered upon your{SAUT}return... Theo will take care of you.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HPTP10_3",
+    "en": "It seems you're barely able to stand...{SAUT}Perhaps you should heal yourself?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_PARTY_TP10_1",
+    "en": "To be honest, it may be best to just{SAUT}hurry on back...",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_TP10_1",
+    "en": "Everyone's energy is running low...{SAUT}Do you want to address that?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_PARTY_TP10_2",
+    "en": "Sure, you could use the final skill and,{SAUT}\"Go for broke!\" But returning is safer.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_TP10_2",
+    "en": "You should change your strategy due{SAUT}to your declining energy.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_PARTY_TP10_3",
+    "en": "You should save the remainder of your{SAUT}energy for returning here.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_TP10_3",
+    "en": "Well said, Sister! That is wonderful{SAUT}advice!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_1PERSON_HP10_1",
+    "en": "Pushing yourself any further is{SAUT}reckless. Please restore your health.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HP10_1",
+    "en": "Please be cautious about your health.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_1PERSON_HP10_2",
+    "en": "Your health is of concern... Please{SAUT}do not push yourself too hard.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HP10_2",
+    "en": "I ask that you first heal yourself.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_1PERSON_HP10_3",
+    "en": "They aren't that weak, Theo. I hope.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HP10_3",
+    "en": "Are you stable in regards to your{SAUT}health?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_1PERSON_TP10_1",
+    "en": "Your energy has hit its limit. It's quite{SAUT}obvious.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_TP10_1",
+    "en": "I suggest that you change your battle{SAUT}tactics.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_1PERSON_TP10_2",
+    "en": "Theo, let's leave the decision to them.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_TP10_2",
+    "en": "Do you have enough energy to pull{SAUT}through this?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_1PERSON_TP10_3",
+    "en": "Get up! Get back up! That is how one{SAUT}encourages someone else, yes?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_TP10_3",
+    "en": "Have you addressed your energy{SAUT}needs?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_ITEM_90_BATTLE",
+    "en": "Items that you cannot hold onto{SAUT}should be tossed away, faaaar away.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_ITEM_90_BATTLE_1",
+    "en": "Sister!? Did you toss out my treasured{SAUT}possessions!?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_ITEM_90_BATTLE#2",
+    "en": "As to your belongings, please leave all{SAUT}that to my unworthy brother, Theo.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_ITEM_90_BATTLE_2",
+    "en": "Isn't your inventory a bit full?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_ITEM_90_BATTLE#3",
+    "en": "My, you're running out of inventory{SAUT}space quickly.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_ITEM_90_BATTLE_3",
+    "en": "Please come by my shop if you need{SAUT}to sort through your belongings.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_1PERSON_HP80_1",
+    "en": "They are truly, how do you say, ON{SAUT}A ROLL.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HP80_1",
+    "en": "Everyone, amazing work, truly!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_1PERSON_HP80_2",
+    "en": "Please continue onward, as in a{SAUT}\"one-two punch.\"",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HP80_2",
+    "en": "S-Sister!? Please refrain from flailing{SAUT}your arms like that!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_1PERSON_HP80_3",
+    "en": "Woohoo! Well done!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HP80_3",
+    "en": "Sister? Perhaps it's best if you{SAUT}keep your dance of joy to yourself...",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_ITEM_90_DUNGEO",
+    "en": "Items that you cannot hold onto{SAUT}should be tossed away, faaaar away.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_ITEM_90_DUNGEON_",
+    "en": "Sister!? Did you toss out my treasured{SAUT}possessions!?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_ITEM_90_DUNGEO#2",
+    "en": "As to your belongings, please leave all{SAUT}that to my unworthy brother, Theo.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_ITEM_90_DUNGEON_#2",
+    "en": "Isn't your inventory a bit full?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_ITEM_90_DUNGEO#3",
+    "en": "My, you're running out of inventory{SAUT}space quickly.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_ITEM_90_DUNGEON_#3",
+    "en": "Please come by my shop if you need{SAUT}to sort through your belongings.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_DUNGEON_START_",
+    "en": "I'm hearing them call for me, so here{SAUT}we go! It's... Elizabeeeeth!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_DUNGEON_START_1",
+    "en": "...And me, Th-Theodore, who will act{SAUT}as your navigators.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_DUNGEON_START_#2",
+    "en": "Today, your guide will be myself,{SAUT}Elizabeth...",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_DUNGEON_START_2",
+    "en": "And her brother, Theodore. Please go{SAUT}easy on us.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_DUNGEON_START_#3",
+    "en": "Here comes Elizabeeeeeth!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_DUNGEON_START_3",
+    "en": "Well then, let's begin our exploration.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_QUEST_START_1",
+    "en": "Let’s resolve this quickly.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_QUEST_START_1",
+    "en": "The special screening has begun.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_QUEST_START_2",
+    "en": "Let's begin the special screening.{SAUT}Roll film!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_QUEST_START_2",
+    "en": "My sister and I will accompany you{SAUT}through to its finale.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_QUEST_START_3",
+    "en": "Bring it on, as they say. I shall be the{SAUT}greatest navigator of all time.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_QUEST_START_3",
+    "en": "Well then, let's get this started.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_TOUHA_25_1",
+    "en": "Your journey ahead is still long and{SAUT}arduous. Hang in there, as they say.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_25_1",
+    "en": "Looks like you've only just begun{SAUT}traversing this floor.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_TOUHA_25_2",
+    "en": "This floor is still new to you.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_25_2",
+    "en": "It seems there is much more to come.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_TOUHA_50_1",
+    "en": "I suppose one could say that you’ve{SAUT}reached the halfway mark.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_50_1",
+    "en": "You finally reached the halfway point. ",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_TOUHA_50_2",
+    "en": "Only half left to go. Remember our{SAUT}original purpose and push forward.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_50_2",
+    "en": "You've made it halfway. Well, I can't{SAUT}ask for more than your best.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_TOUHA_75_1",
+    "en": "You’ve nearly earned the title of{SAUT}Floor Master, if there is such a thing.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_75_1",
+    "en": "Only a bit remains unexplored.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_TOUHA_75_2",
+    "en": "Just a little more, and you’ve fully{SAUT}traversed this floor.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_75_2",
+    "en": "A teensy bit more and this map is{SAUT}complete!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_TOUHA_100_1",
+    "en": "Ta-daaaah! I believe that's what's said{SAUT}when something impressive happens?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_100_1",
+    "en": "Amazing! The map is complete!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_TOUHA_100_2",
+    "en": "Well done, you’ve mastered this floor.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_100_2",
+    "en": "The map is complete. You've done{SAUT}well.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_MAPPING_ICON_A",
+    "en": "You're truly a master cartographer.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_ICON_ALL",
+    "en": "You're drawing the map quite{SAUT}precisely.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_MAPPING_ICON_A#2",
+    "en": "Map-drawing: an expression of utmost{SAUT}romanticism. It evokes true adventure!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_ICON_ALL#2",
+    "en": "Sister... Is that true...?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_MAPPING_ICON_K",
+    "en": "Well done! Now you won’t be lost.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_ICON_KAI",
+    "en": "You have an excellent grasp of where{SAUT}the stairs are.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_MAPPING_ICON_K#2",
+    "en": "Corrrrrect! Theo, bring out the prize{SAUT}for accurate placement!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_ICON_KAI#2",
+    "en": "Huh!? Sister, I haven't prepared{SAUT}anything of the sort!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_MAPPING_CHANGE",
+    "en": "So you’re using that color... That is{SAUT}hip, as they say.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_CHANGE_C",
+    "en": "What amazing artistic taste.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_MAPPING_CHANGE#2",
+    "en": "My pound is hearting in wonder at{SAUT}how this map will turn out.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_CHANGE_C#2",
+    "en": "I look forward to seeing the map in its{SAUT}final, glorious incarnation.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_MAPPING_ICON_D",
+    "en": "Things that get in the way should be{SAUT}tossed away! ...Kind of like Theo.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_ICON_DEL",
+    "en": "Sister!? You intend on discarding me!?",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_MAPPING_ICON_D#2",
+    "en": "Then, can my theft of Theo's snack be{SAUT}righted as well...?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_ICON_DEL#2",
+    "en": "It's always best to go back and right{SAUT}one's mistakes.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_MAPPING_MEMO_1",
+    "en": "Wise men never forget to take notes.{SAUT}Glad I remembered to note that.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_MEMO_1",
+    "en": "That attention to detail is splendid.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_MAPPING_MEMO_2",
+    "en": "Perhaps you should note down,{SAUT}“ELIZABETH”.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_MEMO_2",
+    "en": "Ah, good, you're noting it down.",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_KARITORU_ENCOU",
+    "en": "The Reaper has made its grand{SAUT}entrance!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KARITORU_ENCOUNT",
+    "en": "I wish this wasn't true, but there's a{SAUT}Reaper coming!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_KARITORU_ENCOU#2",
+    "en": "With my incredible ears, I can hear the{SAUT}Reaper calling.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KARITORU_ENCOUNT#2",
+    "en": "Incoming Reaper. Please take care!",
+    "fr": ""
+  },
+  {
+    "id": "ELIZABETH_KARITORU_ENCOU#3",
+    "en": "That sound... It can only be a Reaper.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KARITORU_ENCOUNT#3",
+    "en": "I'm sensing something, and it's most{SAUT}certainly a Reaper!",
+    "fr": ""
+  }
+]

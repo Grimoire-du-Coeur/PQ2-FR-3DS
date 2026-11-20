@@ -1,0 +1,122 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "The special screening this time is{SAUT}an exploration of A.I.G.I.S.{PAGE}This time, the designated floor is{SAUT}absolutely chock-full of treasure!{PAGE}And so, your glorious mission this{SAUT}time is to gather all the filthy lucre{SAUT}you can find.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Hehehe... Treasure, huh? You got{SAUT}my attention!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Don't get too excited, you friggin' cat.{SAUT}We just gotta raid Treasure Spots, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "Unfortunately, it won't be that easy.{PAGE}Along with these new Treasure Spots,{SAUT}there are new warping points, as well.{PAGE}You will find the treasure past these{SAUT}new warp zones.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Ugh... Warp zones are gonna throw{SAUT}us everywhere? That's gonna mess{SAUT}up my Ace Perspective...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "*sigh* Dammit. It'd be a lot simpler{SAUT}if we could just beat up a tough{SAUT}monster and get the goods.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Stop complaining.{OPTION}No kidding.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "*giggle* I must say, I agree.{SAUT}These screenings have their own{SAUT}charm, too.{PAGE}Certainly, flashy action movies are{SAUT}exciting, but not when they're all{SAUT}an audience can watch.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "Oh? Not your type of movie? I myself{SAUT}think these have a certain charm.{PAGE}Certainly, flashy action movies are{SAUT}exciting, but not when they're all{SAUT}an audience can watch.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Huh? Wait, what audience?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Mitsuru",
+    "en": "Hah. A fair point.{PAGE}Any movie can be a magnificent one...{SAUT}All first-class actors know this to be{SAUT}true.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Junpei",
+    "en": "Huh!? Well, I'm a first-class actor{SAUT}myself! I could've told ya that!{PAGE}Then let's give this a shot! Stars don't{SAUT}get to choose their jobs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Man... All right, fine, let's get this{SAUT}show on the road.{PAGE}There's gotta be Shadows out there,{SAUT}so let's kick their asses, get the loot,{SAUT}and make us some new weapons.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Haru",
+    "en": "I knew you'd come around! Let's use{SAUT}this chance to make ourselves more{SAUT}powerful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Mitsuru",
+    "en": "Having protectors like you around{SAUT}does much to ease our minds. Now{SAUT}we can gather treasure in peace.{PAGE}We're counting on the two of you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Junpei",
+    "en": "Heheh, you got it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Haha... Well, she got us good.{SAUT}Guess we can't win, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Shinjiro",
+    "en": "Geez. It's like they got brainwashed.{SAUT}Still, I kind of admire that...{PAGE}Heh. Well if you're gonna be a leader,{SAUT}maybe you can learn a thing or two.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Mitsuru",
+    "en": "The floor layout's probably going to{SAUT}change... We'll have to investigate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Haru",
+    "en": "Then once we're ready, let's set off.{SAUT}Hopefully we'll find something worth{SAUT}the trouble!",
+    "fr": ""
+  }
+]

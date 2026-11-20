@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Teddie",
+    "en": "There we go! One down, one left!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "Whew... We actually did it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "locuteur": "Yosuke",
+    "en": "Man, that bear was crazy! Hard to{SAUT}see it as cute when it's trying to{SAUT}rip our faces off...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "But no matter how aggressive it is,{SAUT}we still beat it. And we'll beat the{SAUT}next one, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Now it's time for the final round!{SAUT}Winner takes all! This is for the title{SAUT}of Bear Supreme!",
+    "fr": ""
+  }
+]

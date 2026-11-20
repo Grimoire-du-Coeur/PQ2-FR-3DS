@@ -1,0 +1,156 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": ", that was truly a showing{SAUT}worthy of a hearty \"bravo.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "locuteur": "Elizabeth",
+    "en": "Even against an enemy beyond all my{SAUT}expectations, you performed magnificently.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Heheh! We're talkin' about our leader{SAUT}here. What did you expect?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Your talent was remarkable to begin{SAUT}with, but you have made great strides{SAUT}indeed...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Elizabeth",
+    "en": "As one who governs power, I will be{SAUT}watching your progress with great,{SAUT}great interest.{PAGE}Staaaaaare...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "Hm...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Elizabeth",
+    "en": "My, {f 6 1 30 0 0 0}... You've found something{SAUT}rare indeed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "It looks like she's talking about that{SAUT}sooty film we found earlier...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "If you wouldn't mind, might I take{SAUT}a look at it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "I hand over the Sooty Film to Elizabeth...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "......{PAGE}Hmmmm.{PAGE}Interesting. Very interesting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Is it something important?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elizabeth",
+    "en": " was specifically called to this{SAUT}special screening to slay a powerful{SAUT}opponent...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_1",
+    "locuteur": "Elizabeth",
+    "en": "Could this be...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "Could it be... what?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011_1",
+    "locuteur": "Elizabeth",
+    "en": "If my theory is correct, an extraordinary{SAUT}power dwells within this item.{PAGE}It holds great potential... powerful enough{SAUT}to define your fate, {f 6 1 30 0 0 0}, and{SAUT}that of your friends.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "No way! That sounds amazing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "But... he seems just like he always does.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013_1",
+    "locuteur": "Akechi",
+    "en": "Does that mean there's an element{SAUT}still missing here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elizabeth",
+    "en": "Naturally, I cannot say for certain.{SAUT}Though... it is a distinct possibility.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014_1",
+    "locuteur": "Elizabeth",
+    "en": "If it's all right with you, I'd like to take{SAUT}some time to think this over myself.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_015",
+    "choix": true,
+    "en": "We'll leave it to you.{OPTION}We'll be waiting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Elizabeth",
+    "en": "Well then! I shall take it upon myself{SAUT}to delve into its secrets.{PAGE}Feel free to check in with me at the{SAUT}counter, and I'll let you know if I've{SAUT}made any progress.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "Well, that sure was a twist.{SAUT}It's all up to you, Zabby!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Elizabeth",
+    "en": "Hmhm... Well, I can't deny that all this{SAUT}has piqued my interest tremendously.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018_1",
+    "locuteur": "Elizabeth",
+    "en": "Now, I apologize for the delay, but here{SAUT}is your due reward for your efforts.",
+    "fr": ""
+  }
+]

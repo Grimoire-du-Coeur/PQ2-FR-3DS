@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukiko",
+    "en": "And that's the third one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Good job, everyone. I'm so glad we{SAUT}were able to succeed together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Whew... That sure was a long walk,{SAUT}but I'm feeling almost refreshed.{PAGE}I think everyone got to see me in{SAUT}action... Yep, this movie's gonna be{SAUT}a timeless classic.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "*chuckle* You did well indeed. If only{SAUT}you had such a work ethic all the{SAUT}time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Well, it was fun. I guess these kinda{SAUT}screenings ain't so bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Hey, I put in work too! If you need a{SAUT}treasure hunter, I'm your guy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "*giggle* I hope we get to do more{SAUT}of these sorts of missions.{PAGE}Now, let's go back and report to{SAUT}Elizabeth.",
+    "fr": ""
+  }
+]

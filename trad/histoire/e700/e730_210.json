@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "Oh! I'm getting an enemy reading just{SAUT}beyond there! Please be careful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "In that case, we could return to the{SAUT}theater and regroup if we need it.{PAGE}What's your call? Are we ready to{SAUT}do this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "I'm getting an enemy reading from{SAUT}beyond there. Are you ready?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "We're ready to go.{OPTION}Let's head back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Aye aye, sir! Time to do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "True, who knows what's waiting ahead.{SAUT}We should be cautious―just in case.",
+    "fr": ""
+  }
+]

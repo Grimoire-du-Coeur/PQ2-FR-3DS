@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "Ah, I see... The {f 0 1 2}cage rotates when you{SAUT}turn the switch{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yes! Now we can keep going!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Even though the humans here are long{SAUT}gone, the facility is still up and running.{SAUT}Quite fortunate for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Hup! I'm getting multiple strong{SAUT}readings up ahead. They seem to be{SAUT}FOEs. Be caref―{PAGE}Hm? Wait―I'm getting other readings,{SAUT}too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Huh? What could those be?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Hmmm... Not Shadows, that I know.{SAUT}Different from FOEs and dinosaurs, too...{PAGE}I don't get it, what is―? I can't get{SAUT}a solid lock on them!{PAGE}I'm sensing a group of strong readings,{SAUT}but nothing more useful than that.{SAUT}Sorry!  ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "What could this mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "A group of strong readings―could{SAUT}that be...? Probably not, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Hmm, looks like we have no idea{SAUT}what'll happen from here on.{PAGE}Be careful as we progress onward, Joker.",
+    "fr": ""
+  }
+]

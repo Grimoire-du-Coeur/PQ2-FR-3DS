@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Well-dressed girl",
+    "en": "Iori, it's heading your way―keep your{SAUT}guard up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Boy with baseball cap",
+    "en": "Heheheh, ain't no way I'm gettin' taken{SAUT}down by something like this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Boy with beanie",
+    "en": "Hey, now ain't the time for foolin'{SAUT}around. These bastards refuse to{SAUT}let up on us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Spirited girl",
+    "en": "Geez, can't they just give up already!?{SAUT}When will this be over with?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Quiet girl",
+    "en": "...It's no use! Another wave of{SAUT}reinforcements incoming!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Mass-produced robot",
+    "en": "ELIMINATE UNKNOWN ENTITIES.{SAUT}ELIMINATE IRREGULARITIES!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Aggressive boy",
+    "en": "Tch... We're not gettin' anywhere{SAUT}like this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mass-produced robot",
+    "en": "ELIMINATE UNKNOWN ENTITIES.{SAUT}ELIMINATE IRREGULARITIES!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Somber child",
+    "en": "*pant* *pant* I... I can't lose here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Quiet girl",
+    "en": "Ken-kun's in danger―his health is low!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Aggressive boy",
+    "en": "Ngh... This isn't looking good. We're{SAUT}totally outnumbered...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Dog",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "You guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Well-dressed girl",
+    "en": "Who's there!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P4 Hero",
+    "en": "Let's save the reunion for later―they{SAUT}need our help, right away!",
+    "fr": ""
+  }
+]

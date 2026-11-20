@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kanji",
+    "en": "Guh... hah... T-Take that...{SAUT}you piece'a crap...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Whoof... urgh... I'm pooped...{SAUT}Can't move.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "They survived such rigorous athletics,{SAUT}and still won the ensuing battle...?{SAUT}Bravo indeed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "Nice work, you two!{PAGE}This was a perfect simulation of{SAUT}being forced to fight even after you{SAUT}hit your limits.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "I still... dunno what... you're talkin'{SAUT}about, but... I'm definitely past my{SAUT}friggin' limits...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "Phew... dangit... Never doing that{SAUT}again...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akihiko",
+    "en": "Training helps you be ready for any{SAUT}enemy, and any situation. That's{SAUT}when you know you're strong.{PAGE}Otherwise, you won't be able to{SAUT}protect what's important when the{SAUT}time comes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Junpei",
+    "en": "Right... I gotta protect...{PAGE}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akihiko",
+    "en": "Okay, pull it together. We're going{SAUT}to train on the way back, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Shinjiro",
+    "en": "Lemme stop you there, dumbass.{SAUT}You're gonna kill these two.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akihiko",
+    "en": "Hm. You think so?{PAGE}Well, you never want to overextend{SAUT}yourself. It's a shame, but we'd{SAUT}better stop here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Kanji",
+    "en": "Nnnraaagh! I can keep going, dammit!{PAGE}If Akihiko-san can do this shit,{SAUT}so can I! I'm in it to win it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akihiko",
+    "en": "That's the spirit, Kanji! Time to break{SAUT}your limits!{PAGE}What about you, Junpei?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "Yeah, uh, hard pass...{SAUT}Man, I can't move...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akihiko",
+    "en": "All good. Don't push yourself.{SAUT}Just focus on cooling down.{PAGE}Alright... Let's do a simple one and{SAUT}run back to the theater! It's a race!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kanji",
+    "en": "You're on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "You serious...? I didn't sign up...{SAUT}to be a Race Detective...{PAGE}...Bluh.",
+    "fr": ""
+  }
+]

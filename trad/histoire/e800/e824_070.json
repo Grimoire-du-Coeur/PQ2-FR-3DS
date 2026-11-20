@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Welcome back, everyone.{PAGE}It was quite a spectacle to watch you{SAUT}overcome that new security system.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "I don't think the security was the hard{SAUT}part; it was sitting through those{SAUT}stories...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Yes, the double feature from Junpei and{SAUT}Yukiko was rather fascinating as well.{PAGE}Perhaps, one day, I'll get the chance to{SAUT}host an \"Elizabeth's Believe it, or{SAUT}Don't\"... Heh heh heh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Oh? If you're that interested, I'd be{SAUT}happy to show you the ropes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukiko",
+    "en": "Me too. I'd like to become a better host{SAUT}for \"Yukiko's Believe It, or Don't.\"{PAGE}My next story will be titled: \"The Giant{SAUT}Sea Cucumber in the Cursed Theater\"...{SAUT}How does that sound?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Sounds like fun.{OPTION}Why a sea cucumber?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "I know, right? And then the sea{SAUT}cucumber fires a laser beam and enters{SAUT}its third evolution.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Junpei",
+    "en": "Hmm, that's Yukiko-chan for you―{SAUT}creative beyond comprehension.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukiko",
+    "en": "Huh? Is there something wrong with sea{SAUT}cucumbers?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "Well, no, but it feels kinda...{SAUT}low-budget? It's interesting for the{SAUT}wrong reasons.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "Honestly... Don't you think that's{SAUT}enough ghost stories?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yukiko",
+    "en": "It's okay, they're funny ghost stories.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Junpei",
+    "en": "Since when was \"Junpei's Believe It, or{SAUT}Don't\" funny!?{PAGE}...Well, whatever.{PAGE}Yukki and I will just have to keep the{SAUT}stories comin' and keep everyone{SAUT}engaged! You can count on us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukiko",
+    "en": "Absolutely!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukari",
+    "en": "Please, no more! Really, we're good!",
+    "fr": ""
+  }
+]

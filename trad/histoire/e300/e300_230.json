@@ -1,0 +1,782 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukiko",
+    "en": "Oh... It's stopped moving.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "Hey, are we gonna be okay? It's so dark,{SAUT}I can't see a thing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Exam system AI",
+    "en": "UNITS TK-00, 02, 04, 07. UNIT YS-03.{PAGE}UNITS IW-01, 07, 08. UNIT UIY-2249.{PAGE}BEGINNING THE \"ADAPTATION\" TEST.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "This doesn't seem to be a trap, but what{SAUT}exactly do they intend for us to do in{SAUT}this darkness?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "Huh? There's a metal beam spanning{SAUT}over some massive blast furnace...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_1",
+    "locuteur": "Haru",
+    "en": "And on the other side... Is that{SAUT}a drawbridge?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Exam system AI",
+    "en": "BEFORE YOU IS A BALANCE BEAM.{PAGE}THE DESIGNATED EXTREME{SAUT}CONDITION FOR TODAY'S{SAUT}ADAPTATION EXAM IS \"HEIGHTS.\"{PAGE}IF YOU CANNOT ADAPT TO THIS{SAUT}DIFFICULT WALKING SURFACE, YOU{SAUT}WILL BE DISPOSED OF IMMEDIATELY.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Wait―\"disposed of \"!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ken",
+    "en": "Well, if we can't adapt, we'll end up{SAUT}in the blast furnace―that sure is one{SAUT}way to dispose of something...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ribbon",
+    "en": "THAT IS HOW DISPOSAL WORKS HERE.{SAUT}ANY ROBOT WITH A FATAL ERROR IS{SAUT}IMMEDIATELY SCRAPPED.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Exam system AI",
+    "en": "NOTE: COOPERATION IS REQUIRED{SAUT}IN THIS TEST. IF A TASK IS FAILED, ALL{SAUT}WILL FACE THE CONSEQUENCES.{PAGE}EACH UNIT WILL BE CONSIDERED{SAUT}CRITICALLY ERRONEOUS AND{SAUT}DISPOSED OF SIMULTANEOUSLY.{PAGE}WE SHALL NOW BEGIN THE EXAM.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "So this is what they mean by adaptation.{SAUT}We don't have any choice but to cross{SAUT}this beam, do we?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "This is scary...{OPTION}This'll be a piece of cake.{OPTION}I love heights.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Hm―even our oft-fearless Joker is{SAUT}frightened by this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "What's so funny, Fox? You have to{SAUT}cross it too, y'know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ken",
+    "en": "Really? No wonder you're a phantom{SAUT}thief!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Uh, this exam has nothing to do with{SAUT}being a phantom thief! Don't raise the{SAUT}bar TOO high there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "Yes, being close to the sky elates me{SAUT}as well. It also affords one great views{SAUT}at times.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Oh, right... All I can see from here is{SAUT}a toasty end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yukari",
+    "en": "You know, they might call this test an{SAUT}\"adaptation exam\" for robots...{PAGE}But isn't this more like a life-or-death{SAUT}test of guts for people like us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "How should we cross this? It'd be{SAUT}easier to imagine if we could watch{SAUT}an example.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ken",
+    "en": "Ah―Koromaru!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yukari",
+    "en": "Wow... He made it across so fast!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Koromaru",
+    "en": "Bark bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ribbon",
+    "en": "HE SAID, \"IT WILL BE ALRIGHT,{SAUT}EVERYONE. JUST FOLLOW MY{SAUT}LEAD.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ken",
+    "en": "Wow, Koromaru! You've really got guts.{PAGE}But... I don't think we can copy his{SAUT}method of getting across too easily.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ann",
+    "en": "Yeah, it'd be easier to imagine if we{SAUT}could watch a HUMAN example.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yusuke",
+    "en": "In that case, we'll leave it to our leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yusuke",
+    "en": "Show us the way, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_029",
+    "choix": true,
+    "en": "I'm going to crush this.{OPTION}Collect my ashes if I fall.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yusuke",
+    "en": "I doubt even ashes would remain if{SAUT}you were to fall... No, I must accept{SAUT}your final request!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "en": "It seems that my time has come...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Ken",
+    "en": "Oh wow, I can't believe he's walking{SAUT}across that so confidently! No wonder{SAUT}he's leader of the Phantom Thieves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yukari",
+    "en": "His balance is so perfect―even at{SAUT}that speed...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "en": "I made my way across the beam...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yukiko",
+    "en": "You did it, Joker! I'm starting to feel like{SAUT}I can do this too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Ribbon",
+    "en": "THAT WAS A VITAL SAMPLE YOU{SAUT}PROVIDED. I HAVE CALCULATED{SAUT}THE SAFEST ROUTE FOR CROSSING.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yukari",
+    "en": "What do you mean the safest route?{SAUT}Isn't there just the one beam!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Haru",
+    "en": "There she goes... I wonder if she'll be{SAUT}okay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Yusuke",
+    "en": "She did say she found the safest route.{SAUT}I doubt she would fall after such{SAUT}calculations.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Ken",
+    "en": "Uh, it looks like she's just going across{SAUT}the center of the beam like normal...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Ann",
+    "en": "Oh, she made it!{PAGE}Sooo... Who's next?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Haru",
+    "en": "May I go? I think I could do a good job{SAUT}copying their approach.{PAGE}I just need to channel my ballet skills{SAUT}here, and... Hup!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Yusuke",
+    "en": "Oh, my―she's downright majestic.{SAUT}Just look at her perfect form...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Yukiko",
+    "en": "Yeah, she made it across without a{SAUT}hitch. Well, I think I'll go next.{PAGE}I bet this'll be easy if I just think of{SAUT}the steel beam as the edge of a tatami{SAUT}mat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Yukari",
+    "en": "What do those even have to do with{SAUT}each othe―Wait! Oh, she's already{SAUT}crossing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Ann",
+    "en": "Yukiko-chan's got some real guts too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Yusuke",
+    "en": "Her appearance from behind as she{SAUT}crosses, life on the line, is a marvel{SAUT}to behold! It's stirred my very soul!{PAGE}Ha... In that case, I should go next.{SAUT}I shall embody beauty itself with{SAUT}my technique!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_048",
+    "choix": true,
+    "en": "Can it, Fox―just get over here.{OPTION}Mesmerize us all, Fox.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Yusuke",
+    "en": "Understood. Burn my image into{SAUT}your retinas.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "en": "Fox began crossing the steel beam...{PAGE}He's swaying wildly now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Ann",
+    "en": "Doesn't his approach seem kinda...{SAUT}extremely dangerous?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Yukari",
+    "en": "Yeah, that wobbling makes it look like{SAUT}he's about to fall... Whether he does or{SAUT}not, it doesn't look good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Yusuke",
+    "en": "Aah―!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Ann",
+    "en": "Fox!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Yusuke",
+    "en": "Haaa!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Yukari",
+    "en": "Uh, what's he doing? Is he... really{SAUT}risking his life on a gag!? Am I{SAUT}supposed to laugh, or...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Yusuke",
+    "en": "THIS is the golden ratio of balance!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Ann",
+    "en": "Sheesh, don't scare us like that, Fox!{SAUT}Anyways... he's across now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Yukari",
+    "en": "We're down to just the three of us.{SAUT}Who's going next?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Ann",
+    "en": "This is the kind of thing that gets more{SAUT}nerve-wracking the longer you hold{SAUT}out... Should we all just go at once?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Yukari",
+    "en": "Hey, great idea! Do you wanna take{SAUT}the lead, Panther?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Ann",
+    "en": "I'd, uh, prefer being in the center...{SAUT}or something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Ken",
+    "en": "Then, I'll take the lead. Please, follow{SAUT}me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Yukari",
+    "en": "You wanna go first, Ken-kun!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Ken",
+    "en": "I-I know I can do it! I'll be fine... as long{SAUT}as I don't look down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Ann",
+    "en": "We can go slowly, right!? And it's scary,{SAUT}so maybe I should close my eyes―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Yukari",
+    "en": "No, don't do that! Just concentrate on{SAUT}the beam and not the floor!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Ann",
+    "en": "Oh crap, my legs are shaking...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Ken",
+    "en": "Only a little more! Don't think about it,{SAUT}just keep moving!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Ann",
+    "en": "Ah, we finally made it... I was sweating{SAUT}bullets.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Haru",
+    "en": "Thank goodness. Well done, you three! ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Yukari",
+    "en": "Whew... I feel like I managed to force{SAUT}myself across that beam thanks to{SAUT}Ken-kun leading the way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Ken",
+    "en": "Actually, I was pretty scared too... But,{SAUT}did I at least prove that I can step up{SAUT}when the going gets tough?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_074",
+    "choix": true,
+    "en": "You did great.{OPTION}You could be a phantom thief.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_075",
+    "locuteur": "Ken",
+    "en": "Heheh... Then again, all I did was follow{SAUT}your lead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_076",
+    "locuteur": "Ann",
+    "en": "Still, you were great out there, Ken-kun.{SAUT}Nice job!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_077",
+    "locuteur": "Koromaru",
+    "en": "Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_078",
+    "locuteur": "Ann",
+    "en": "Mmhm, we'd gladly welcome you on{SAUT}the team, Ken-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_079",
+    "locuteur": "Ken",
+    "en": "Really!? Heheh, a phantom thief, huh...{SAUT}Awesome!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_080",
+    "locuteur": "Koromaru",
+    "en": "Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_081",
+    "locuteur": "Exam system AI",
+    "en": "ONTO THE NEXT SECTION.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_082",
+    "locuteur": "Haru",
+    "en": "Oh―it's not over yet, eh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_083",
+    "locuteur": "Exam system AI",
+    "en": "NEXT, YOU MUST CROSS THE BEAM IN{SAUT}UNDER 3 MINUTES. ALL UNITS MUST{SAUT}CROSS SIMULTANEOUSLY.{PAGE}IF ANY UNIT FALLS, ALL UNITS WILL BE{SAUT}DISPOSED OF DUE TO COLLECTIVE{SAUT}RESPONSIBILITY.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_084",
+    "locuteur": "Yukari",
+    "en": "What!? You can't be serious! We've gotta{SAUT}go all together AND in three minutes!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_085",
+    "locuteur": "Yukiko",
+    "en": "Oh, another beam just appeared!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_086",
+    "locuteur": "Exam system AI",
+    "en": "THE TIMER IS SET. COMMENCING THE{SAUT}SECOND SECTION OF THE EXAM...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_087",
+    "locuteur": "Ann",
+    "en": "Hey, wait a sec―already!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_088",
+    "locuteur": "Yusuke",
+    "en": "We don't have the time to mull over{SAUT}strategies―let's follow Joker's lead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_089",
+    "locuteur": "Haru",
+    "en": "Make sure you don't look down.{SAUT}Everyone, look straight ahead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_090",
+    "locuteur": "Yukari",
+    "en": "It's okay, I can do this... I just did this{SAUT}a second ago, so...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_091",
+    "locuteur": "Exam system AI",
+    "en": "1 MINUTE REMAINING.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_092",
+    "locuteur": "Ken",
+    "en": "What do we do? If we don't hurry up,{SAUT}we're not gonna make it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_093",
+    "locuteur": "Yukiko",
+    "en": "Wha―!? I tripped...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_094",
+    "locuteur": "Haru",
+    "en": "Whoa, I'm slipping!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_095",
+    "locuteur": "Yukari",
+    "en": "Oh crap, I'm gonna fall!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_096",
+    "locuteur": "Ann",
+    "en": "Aah, someone save me! Help!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_097",
+    "choix": true,
+    "en": "Reach out to Yukiko{OPTION}Reach out to Yukari{OPTION}Reach out to Panther{OPTION}Reach out to Noir",
+    "fr": ""
+  },
+  {
+    "id": "MSG_098",
+    "locuteur": "Yukiko",
+    "en": "Huh? Oh... Thank you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_098_5",
+    "locuteur": "Yukiko",
+    "en": "Oh―!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_099",
+    "locuteur": "Yukari",
+    "en": "Ah, thank you! Big help!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_099_5",
+    "locuteur": "Yukari",
+    "en": "Wait, what the―!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_100",
+    "locuteur": "Ann",
+    "en": "Joker! Thanks, that makes me so happy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_100_5",
+    "locuteur": "Ann",
+    "en": "Wait, ah―!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_101",
+    "locuteur": "Haru",
+    "en": "Huh? Joker!? Thank you, I'll hold onto{SAUT}you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_101_5",
+    "locuteur": "Haru",
+    "en": "Wait, what―!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_102",
+    "locuteur": "Yusuke",
+    "en": "Whoops. Sorry, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_103",
+    "en": "Fox is tightly clinging to me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_104",
+    "locuteur": "Yusuke",
+    "en": "Thanks to your reaching out to me,{SAUT}I managed to regain my balance.{SAUT}I'm ever so grateful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_109",
+    "locuteur": "Ken",
+    "en": "Oh, look! We've almost made it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_110",
+    "locuteur": "Yusuke",
+    "en": "Splendid―let's make a dash for{SAUT}the finish line!{PAGE}...Hey, Joker, what's keeping you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_111",
+    "locuteur": "Ann",
+    "en": "He can't run―he's got a Fox stuck{SAUT}on him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_112",
+    "locuteur": "Yusuke",
+    "en": "Ah, yes. Excuse me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_113",
+    "locuteur": "Haru",
+    "en": "The security release switch should be up{SAUT}ahead. Let's get going!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_114",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_115",
+    "en": "Meanwhile, in the \"Power\" exam room...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_116",
+    "locuteur": "P4 Hero",
+    "en": "Now that I think about it, wouldn't this{SAUT}be easier if we just put ourselves on{SAUT}the scale?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_117",
+    "locuteur": "Teddie",
+    "en": "Now that's our Sensei for you! I've been{SAUT}thinking the same thing this entire time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_118",
+    "locuteur": "Ryuji",
+    "en": "Don't gimme that bullshit! You looked{SAUT}like you were wetting your suit until like{SAUT}three seconds ago!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_119",
+    "locuteur": "Akihiko",
+    "en": "Heh... That's pretty good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_120",
+    "locuteur": "Shinjiro",
+    "en": "Hey, quit wastin' time chuckling at{SAUT}frivolous shit and line up for the scale!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_121",
+    "locuteur": "Chie",
+    "en": "Ah―Hang on! Can we, uh... not hop on{SAUT}there one at a time? Please!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_122",
+    "en": "Meanwhile, in the \"Knowledge\" exam{SAUT}room...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_123",
+    "locuteur": "Makoto",
+    "en": "Excellent, Mona, another right answer.{SAUT}You're the last one, Hanamura-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_124",
+    "locuteur": "Yosuke",
+    "en": "R-Right... Time to flex my skills as{SAUT}chief of operations!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_125",
+    "locuteur": "P3 Fem Protag",
+    "en": "Just calm down, Yosuke-kun. You'll be{SAUT}fine if you think it through.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_126",
+    "locuteur": "Naoto",
+    "en": "-san's right―focus on{SAUT}maintaining your cool.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_127",
+    "locuteur": "P3 Fem Protag",
+    "en": "If it comes down to it, we'll be here to{SAUT}help you out, so stay confident!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_128",
+    "locuteur": "Morgana",
+    "en": "Ah... She's quite good at this, isn't she?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_129",
+    "locuteur": "Mitsuru",
+    "en": "Yes, she's holding us together well.{SAUT}I can tell she's a natural leader.",
+    "fr": ""
+  }
+]

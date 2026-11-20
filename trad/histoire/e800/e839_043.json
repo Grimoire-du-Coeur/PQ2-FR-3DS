@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Shrill flower",
+    "en": "Oh me, oh my, look at all of you. You{SAUT}seek the \"black thing,\" yes?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Smiling flower",
+    "en": "Along a dark, blocked path, a house{SAUT}stands a-swirl in wrath. Seen through{SAUT}a door, infused with evil long ignored.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Shrill Flower",
+    "en": "...Oh, but you must take care, great{SAUT}care. For they are waiting in that house.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "Hey, I just thought of something. When{SAUT}they say \"blocked path,\" do they mean{SAUT}a dead end?{PAGE}A house located at a dead end... sweet, I{SAUT}figured it out! And it's on the other side{SAUT}of some door...{PAGE}Hey, there was a door right by where{SAUT}we came down, right? Wasn't it west of{SAUT}here? Man, I'm on a roll!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Dude, you are! Let's make our way over{SAUT}there!",
+    "fr": ""
+  }
+]

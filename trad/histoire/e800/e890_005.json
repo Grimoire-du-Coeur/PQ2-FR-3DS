@@ -1,0 +1,282 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Theodore",
+    "en": "Nothing less than incredible.{SAUT}I accept my loss.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "You gave us a hard fight.{OPTION}That was a breeze.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "Ah, you are too kind. I only hope{SAUT}we can have another bout someday.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Theodore",
+    "en": "I am glad indeed to hear it! You've{SAUT}grown quite strong―moreso than{SAUT}I had anticipated.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Theodore",
+    "en": "So, are you quite finished, Sister?{SAUT}Why did you ask for such a bout...?{PAGE}...Hm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "The film that looked sooty is now{SAUT}glowing faintly...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Hey, the film's going all shiny!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "It's faint, yes... but how oddly{SAUT}beautiful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Elizabeth",
+    "en": "It's just as I thought.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008_1",
+    "locuteur": "Elizabeth",
+    "en": "When you first acquired that film,{SAUT}it was nothing more than a simple{SAUT}piece of junk...{PAGE}But through its bearer displaying{SAUT}sufficient power, I believe it will{SAUT}regain its original shine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Theodore",
+    "en": "I see! So that was your intent...{PAGE} claimed victory against me,{SAUT}and in doing so, displayed great{SAUT}strength.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "Um, you said this film is related to{SAUT}{f 6 1 29 0 0 0}-kun's power of the wild{SAUT}card, correct?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_1",
+    "locuteur": "Haru",
+    "en": "How about it, {f 6 1 29 0 0 0}-kun? Do you{SAUT}feel any different?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "No, not really.{OPTION}Power flows through me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "Hmm... I have to say, I'm not seeing{SAUT}much changed on the outside.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "Really? You look the same as ever...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elizabeth",
+    "en": "Grrrr... I am quite flummoxed.{PAGE}Could my judgment have been wrong?{SAUT}Ah, no, that cannot be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Theodore",
+    "en": "You mustn't lose hope, Sister.{PAGE}I battled them as an arbiter of{SAUT}power, and in doing so, the film{SAUT}clearly underwent some change.{PAGE}So at the very least, your conjecture{SAUT}was close to the truth, yes?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "True. There's various possibilities{SAUT}to this.{PAGE}Perhaps this isn't the only film of{SAUT}its kind out there? If we collect{SAUT}more...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "We found this film after a special{SAUT}screening where we needed{SAUT}{f 6 1 30 0 0 0}-kun to fight, right?{PAGE}I could see there being other{SAUT}screenings like it, maybe also{SAUT}requiring specific people...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Elizabeth",
+    "en": "For a moment, I gave in to despair.{SAUT}Yet now, I see a world of possibility{SAUT}opening up before me.{PAGE}Well then, let us wait until we find{SAUT}these other screenings! Possibilities{SAUT}are limitless, after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Ahaha... She swings back fast.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Elizabeth",
+    "en": "In any case, {f 6 1 30 0 0 0}... You and{SAUT}your allies have put on a marvelous{SAUT}display.{PAGE}Your bout against Theo was separate{SAUT}from the special showings, but I've{SAUT}prepared a humble reward for you.{PAGE}Please accept it later, as a token of{SAUT}gratitude from we who govern{SAUT}power.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Whoa, for real!? Thanks a lot,{SAUT}lady!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* No thanks necessary.{PAGE}Nothing pleases us more than{SAUT}watching over your growth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Theodore",
+    "en": "Indeed. I must thank you as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Elizabeth",
+    "en": "......{PAGE}So, Theo? How shall you reward them?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Theodore",
+    "en": "Um...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Elizabeth",
+    "en": "You govern power, just as I do.{SAUT}Surely you have some kind of gift{SAUT}to offer for their troubles?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Theodore",
+    "en": "Huh!? W-Well, this is all so sudden―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Elizabeth",
+    "en": "You're not going to embarrass your{SAUT}sister, are you? Hop to it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Theodore",
+    "en": "I-I know! How about this?{PAGE}I shall give you one of my greatest{SAUT}creations―something I've made{SAUT}with the utmost care.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Futaba",
+    "en": "Whoa, we're getting a certified{SAUT}Theodore masterwork! So what is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Theodore",
+    "en": "Why, nothing less than a masterpiece.{SAUT}I present the pride of my craft...{PAGE}The Velvet-style Artisanal Hot Dog!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Haru",
+    "en": "...Um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yukiko",
+    "en": "...A hot dog? Your masterpiece is{SAUT}just a sausage in a bun...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Theodore",
+    "en": "Yes. It's wonderfully suited to pair{SAUT}with watching movies! Please,{SAUT}try one today.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "Advertising a new product?{OPTION}I can't wait.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Futaba",
+    "en": "Yeah, this totally feels like an{SAUT}infomercial. Maybe he missed his{SAUT}calling as a salesman.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Theodore",
+    "en": "Thank you. Your eagerness vindicates{SAUT}all my efforts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Theodore",
+    "en": "I was very particular about the ratio{SAUT}of meat, the level of bun toastage,{SAUT}and the optimal ketchup volume.{PAGE}It's been a hit with my sisters as well!{SAUT}I'm certain it shall not disappoint.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Futaba",
+    "en": "You need a career change, Theodore...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Theodore",
+    "en": "Sister, I believe you robbed the{SAUT}entire batch of hot dogs I just{SAUT}finished making earlier...{PAGE}Won't you donate some on my{SAUT}behalf, along with your reward?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Elizabeth",
+    "en": "......{PAGE}Thank goodness, a crisis has been{SAUT}averted. You asked at the perfect{SAUT}moment.{PAGE}Fortunately, I have one remaining{SAUT}on hand. I present it to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Theodore",
+    "en": "J-Just one left!? Don't tell me you've{SAUT}already devoured the rest...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Elizabeth",
+    "en": "Now! As this case has been neatly{SAUT}wrapped up, let us call this gathering{SAUT}to a close for now.{PAGE}I will continue to investigate the{SAUT}true nature of that film.{PAGE}In particular, I shall remain on the{SAUT}lookout for special screenings that{SAUT}demand someone's participation.{PAGE}Well then, until next time.",
+    "fr": ""
+  },
+  {
+    "id": "SYS_MES_000",
+    "en": "The effect of the {f 4 4 3 0 1593}{SAUT}increased your Persona stock by {f 0 1 2}{f 2 4 0}{f 0 1 0}.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "id": "NAOTO_FOE_FOLLOW_START_1",
+    "en": "We've been spotted by an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_FOE_FOLLOW_START_2",
+    "en": "You're being tailed by an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_FOE_FOLLOW_START_3",
+    "en": "The FOE's approaching!",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_FOE_NEAR_1",
+    "en": "The FOE's close by! Stay vigilant!",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_FOE_NEAR_2",
+    "en": "An FOE... Let's proceed carefully.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_FOE_NEAR_3",
+    "en": "FOE discovered!",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_FOE_FOLLOW_END_1",
+    "en": "Looks like they've given up{SAUT}the pursuit.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_FOE_FOLLOW_END_2",
+    "en": "We're beyond the FOE's range...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_KANSI_REACTION_1",
+    "en": "Time our advance carefully.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_KANSI_REACTION_2",
+    "en": "Let's proceed with caution.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_KANSI_REACTION_3",
+    "en": "Slow and steady seems the{SAUT}prudent way...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_DENKISAKU_REACTION",
+    "en": "This is quite a trap...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_DENKISAKU_REACTION#2",
+    "en": "We should deactivate this first.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_DENKISAKU_REACTION#3",
+    "en": "Careful. We don't want to{SAUT}touch that.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_KYOUHU_REACTION_1",
+    "en": "Ugh...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_KYOUHU_REACTION_2",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_KYOUHU_REACTION_3",
+    "en": "Eek!",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_STAIR_FIND_1",
+    "en": "It looks like we can reach the{SAUT}next area now.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_STAIR_FIND_2",
+    "en": "Shall we continue?",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_STAIR_FIND_3",
+    "en": "We made it... Let's keep going.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_TREASURE_FIND_1",
+    "en": "I see a treasure box.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_TREASURE_FIND_2",
+    "en": "A treasure box. What do you{SAUT}suppose is inside?",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_TREASURE_FIND_3",
+    "en": "A treasure box... Shall we open it?",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_CHECK_WALL_1",
+    "en": "I feel like there's something{SAUT}around here...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_CHECK_WALL_2",
+    "en": "Doesn't this bear some closer{SAUT}investigation?",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_CHECK_WALL_3",
+    "en": "It looks like there's something{SAUT}ahead of us.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_SWITCH_FIND_1",
+    "en": "There seems to be a switch...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_SWITCH_FIND_2",
+    "en": "There's a switch.{SAUT}Worth pressing, you think?",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_SWITCH_FIND_3",
+    "en": "We've discovered a switch.{SAUT}What do you want to do?",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_SHORTCUT_FIND_1",
+    "en": "Look, there. I think we can{SAUT}pass through.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_SHORTCUT_FIND_2",
+    "en": "I believe we can use this as{SAUT}a shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_SHORTCUT_FIND_3",
+    "en": "It looks like we can go through.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_FOE_WARNING_NEAR_1",
+    "en": "The FOE is still roaming...{SAUT}Be careful.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_FOE_WARNING_NEAR_2",
+    "en": "We're being followed.{SAUT}Let's proceed with caution.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_FOE_WARNING_NEAR_3",
+    "en": "The enemy is still following us.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_1PERSON_HPTP10_1",
+    "en": "I'm sorry, but I'm wounded...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_1PERSON_HPTP10_2",
+    "en": "I'm not sure I can keep going...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_1PERSON_HPTP10_3",
+    "en": "Ngh... hah... This is getting{SAUT}a little rough...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_1PERSON_HP10_1",
+    "en": "Sorry, but could someone{SAUT}heal me...?",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_1PERSON_HP10_2",
+    "en": "At this rate, I'll collapse...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_1PERSON_HP10_3",
+    "en": "Might not last... much longer...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_1PERSON_TP10_1",
+    "en": "I'm out of... energy...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_1PERSON_TP10_2",
+    "en": "Ugh... I can't go on...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_1PERSON_TP10_3",
+    "en": "I'm sorry, but I've hit my limit...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_1PERSON_HP80_1",
+    "en": "Hm, not too bad.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_1PERSON_HP80_2",
+    "en": "We're doing pretty well.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_1PERSON_HP80_3",
+    "en": "Let's keep going!",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_DUNGEON_START_1",
+    "en": "Let's move quickly and efficiently.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_DUNGEON_START_2",
+    "en": "Well, onward and upward.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_DUNGEON_START_3",
+    "en": "All preparations complete, then?",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_QUEST_START_1",
+    "en": "So, a special screening?{SAUT}Let's do our best.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_QUEST_START_2",
+    "en": "We're all ready.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_QUEST_START_3",
+    "en": "On the Shirogane name,{SAUT}I swear I'll succeed.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_TOUHA_25_1",
+    "en": "About one-fourth complete,{SAUT}I'd say?",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_TOUHA_25_2",
+    "en": "We've only just started.{SAUT}Let's do what we can.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_TOUHA_50_1",
+    "en": "That's about half-done now...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_TOUHA_50_2",
+    "en": "I think we've covered about{SAUT}half of the grounds...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_TOUHA_75_1",
+    "en": "We've been walking for a while.{SAUT}We must be close to the end...",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_TOUHA_75_2",
+    "en": "I think I'm starting to see{SAUT}the whole floor.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_TOUHA_100_1",
+    "en": "I think we've covered the{SAUT}whole floor by now.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_TOUHA_100_2",
+    "en": "Good job. That looks like a{SAUT}comprehensive map.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_MAPPING_ICON_ALL_1",
+    "en": "Accuracy is certainly important{SAUT}for a map.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_MAPPING_ICON_ALL_2",
+    "en": "Excellent work.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_MAPPING_ICON_KAIDA",
+    "en": "Now we won't get lost.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_MAPPING_ICON_KAIDA#2",
+    "en": "A worthy addition.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_MAPPING_CHANGE_COL",
+    "en": "A different color is always{SAUT}a refreshing change.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_MAPPING_CHANGE_COL#2",
+    "en": "It's certainly unique.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_MAPPING_ICON_DEL_1",
+    "en": "It's important to judge what's{SAUT}worth keeping.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_MAPPING_ICON_DEL_2",
+    "en": "Good idea. Some of these are{SAUT}a bit unnecessary now.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_MAPPING_MEMO_1",
+    "en": "Taking notes? Commendable.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_MAPPING_MEMO_2",
+    "en": "It never hurts to take notes.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_DOOR_OPEN_1",
+    "en": "No traps, at least.",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_DOOR_OPEN_2",
+    "en": "Let's move!",
+    "fr": ""
+  },
+  {
+    "id": "NAOTO_DOOR_OPEN_3",
+    "en": "After me!",
+    "fr": ""
+  }
+]

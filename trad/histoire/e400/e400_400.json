@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Man with glasses",
+    "en": "Come now, Hikari... You shouldn't{SAUT}worry everyone like this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Man with glasses",
+    "en": "What they're saying may sound harsh{SAUT}at times...{PAGE}But it's only because they're concerned{SAUT}about you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Man with glasses",
+    "en": "Why won't you speak to me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Man with glasses",
+    "en": "*sigh* ...I can't understand what's wrong{SAUT}if you won't tell me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Man with glasses",
+    "en": "Hikari...{PAGE}Why do you have to be like that?",
+    "fr": ""
+  }
+]

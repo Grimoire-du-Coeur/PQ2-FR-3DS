@@ -1,0 +1,176 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Oh? You've all come at the perfect time.{PAGE}It just so happens that there was a{SAUT}request to view a certain special{SAUT}screening.{PAGE}The ticket has already been registered at{SAUT}the box office. Please take a look.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "A request?{OPTION}From who?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Yes, I was having my ear incessantly{SAUT}talked off by none other than...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Cocky voice",
+    "en": "*snicker* It wasn't that much trouble,{SAUT}was it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Calm voice",
+    "en": "Yes, I believe that was safely within our{SAUT}rights.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "Well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Cocky voice",
+    "en": "*snicker* It was from us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Calm voice",
+    "en": "And you shall fulfill said request as we{SAUT}desire.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Whoa! Where'd the look-alikes come{SAUT}from!?{PAGE}What's up? Were you two lonely all by{SAUT}yourselves?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Justine",
+    "en": "Hardly... We've merely come to pass our{SAUT}orders on to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Caroline",
+    "en": "Yeah. If we let things keep going as they{SAUT}have, all of your movies are gonna turn{SAUT}out soft.{PAGE}We figured we would arrange some{SAUT}trials to help with your rehabilitation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Elizabeth",
+    "en": "Your goal in this special screening of{SAUT}theirs...{PAGE}...Is to defeat the Seidoptera residing in{SAUT}Junessic Land.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "That FOE, huh? This'll be tough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "It should be a good fight, though,{SAUT}considering how strong we are now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "We've gotten pretty comfortable with{SAUT}this place too. Shouldn't be that hard,{SAUT}what with our bigger team and all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Justine",
+    "en": "...Perhaps. However, there are two FOEs.{SAUT}You must defeat them both.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P4 Hero",
+    "en": "Two?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Caroline",
+    "en": "*snicker* Scared yet?{PAGE}It wouldn't be any fun to watch you{SAUT}breeze through it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Justine",
+    "en": "Now, let the special screening begin.{SAUT}Hurry up and entertain us.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "Guess we'll give it a try.{OPTION}We didn't say yes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Caroline",
+    "en": "Well said! Now, get out there and take{SAUT}them down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Justine",
+    "en": "That is a good mindset. Perhaps we can{SAUT}raise our expectations somewhat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Justine",
+    "en": "Do you plan to run away, Inmate? This{SAUT}trial is for your own sake as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Caroline",
+    "en": "Yeah, if you can't even manage this, then{SAUT}you can forget about succeeding in{SAUT}your rehabilitation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Makoto",
+    "en": "They've got a point. Fighting strong{SAUT}opponents might serve as good{SAUT}experience.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ann",
+    "en": "Hmm... They have helped us a lot.{SAUT}Maybe we should hear them out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Elizabeth",
+    "en": "It seems you've reached a decision.{PAGE}Raise the curtains. This brawl's about to{SAUT}begin!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Justine",
+    "en": "As the stars of this showing, it is your duty{SAUT}to perform the utmost of your abilities.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Caroline",
+    "en": "We'll be watching from here. No{SAUT}missteps allowed, Inmate!",
+    "fr": ""
+  }
+]

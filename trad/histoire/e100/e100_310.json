@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "Are you okay, Noir?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Mmhm... And you, Queen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "I'm managing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "Where could we be? Is this Mementos?{SAUT}Or, could it be a Palace?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Not sure... Our intel's extremely limited{SAUT}at the moment, on both Kamoshidaman{SAUT}and this place.{PAGE}The next time he shows up, I need to try{SAUT}and get as much from him as I―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA!{PAGE}What are you gossiping about? Have{SAUT}you finally decided to confess your{SAUT}misdeeds?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "Speak of the devil... I'm going to ask{SAUT}one more time: where are we? Who{SAUT}are you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kamoshidaman",
+    "en": "Are you still groggy from your little nap?{SAUT}Don't make me state the obvious!{PAGE}This is my city, Kamo City, and I am{SAUT}the reigning hero of absolute justice:{SAUT}Kamoshidaman!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "Kamoshidaman? Not Suguru{SAUT}Kamoshida, the former teacher{SAUT}at Shujin High?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Kamoshidaman",
+    "en": "Shujin High? Former teacher? What are{SAUT}you going on about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "You considered the school your own{SAUT}castle and did whatever you wanted...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Kamoshidaman",
+    "en": "A castle? Look at you two, blathering{SAUT}even more nonsense. I've had enough{SAUT}of this balderdash!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Makoto",
+    "en": "Just as I thought―he looks like{SAUT}Kamoshida, but he's a totally{SAUT}different person...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Kamoshidaman",
+    "en": "More importantly, I have news for you―{SAUT}the details of your punishment have{SAUT}been decided.{PAGE}You are to be executed as enemies{SAUT}of the city and wretched opponents{SAUT}of myself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Haru",
+    "en": "E-Executed?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kamoshidaman",
+    "en": "Indeed. Judgment must be laid down{SAUT}upon evil...{PAGE}And it shall be done by my hand―the{SAUT}absolutely just hand of Kamoshidaman!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Makoto",
+    "en": "I refuse to accept this. We've done{SAUT}nothing wrong!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA! Evil or just―I'm the one who{SAUT}makes the decision. That is my duty as{SAUT}the head of Kamo City!{PAGE}If I do not lead the citizens, this city{SAUT}will plunge into chaos.{PAGE}Can't you hear them... the voices of{SAUT}the people yearning for peace?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Curious woman",
+    "en": "Those two... are the evil threatening{SAUT}Kamo City?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Brazen man",
+    "en": "That's what Kamoshidaman said,{SAUT}so it's gotta be true!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Weary woman",
+    "en": "Yeah... All we have to do is listen to{SAUT}whatever Kamoshidaman says.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Agitated man",
+    "en": "Anyone defying Kamoshidaman is evil!{SAUT}That's what everybody says!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA! Now do you understand?{PAGE}All I'm doing is fulfilling my duty as{SAUT}the mighty ruler of these powerless{SAUT}citizens.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Makoto",
+    "en": "The people in this city are just being{SAUT}controlled by you―they don't believe{SAUT}in what you say!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Kamoshidaman",
+    "en": "Whoever has the power decides the{SAUT}rules! Defying such power is nonsense!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024_5",
+    "locuteur": "Kamoshidaman",
+    "en": "You should feel honored to be punished{SAUT}by me, the hero of absolute justice!{SAUT}HAHAHA!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Haru",
+    "en": "So you're the arbiter of what's good{SAUT}and bad, just because you have the{SAUT}most power? That's not right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Makoto",
+    "en": "We won't let you just do as you please{SAUT}with us! I'm certain that Joker and{SAUT}the others will...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Kamoshidaman",
+    "en": "Not even a single word of apology, eh?{SAUT}It seems you aren't very penitent yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Kamoshidaman",
+    "en": "Well then―get on your knees and beg{SAUT}before all the citizens and I just may{SAUT}forgive you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Haru",
+    "en": "I'd never do such a thing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Kamoshidaman",
+    "en": "How foolish it is to defy the strong,{SAUT}and how righteous it is to obey one's{SAUT}ruler...{PAGE}You will make an excellent opportunity{SAUT}to remind the citizens of these facts.{PAGE}Let's hold off the execution a bit longer.{SAUT}Reflect upon your actions until then!{SAUT}HAHAHA!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Kamoshidaman",
+    "en": "Keep a keen eye on these two. They're{SAUT}bent on destroying the peace of my city!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Fat policeman",
+    "en": "Sir!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Makoto",
+    "en": "What a deplorable excuse for justice.{SAUT}I can't believe everyone just obeys him...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Fat policeman",
+    "en": "Watch it! Kamoshidaman is what{SAUT}everyone strives to be.{PAGE}Even your captor was a colleague of{SAUT}ours who models himself after our hero.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Haru",
+    "en": "Wait... Do you mean the thing that{SAUT}attacked us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Makoto",
+    "en": "Now that you mention it, that costume...{SAUT}It was like a cruder version of{SAUT}Kamoshidaman's.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Fat policeman",
+    "en": "Hmph. No matter how much you resist,{SAUT}you'll never win against Kamoshidaman.{PAGE}As long as we still have \"that\" around,{SAUT}Kamoshidaman is invincible!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Haru",
+    "en": "...\"That\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Fat policeman",
+    "en": "Then again, Kamoshidaman has judged{SAUT}you as evil, so there's no escaping your{SAUT}punishment...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039_5",
+    "locuteur": "Fat policeman",
+    "en": "No matter how much you plead, all you{SAUT}can do is sit there and wait for death.{SAUT}Hahaha!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Haru",
+    "en": "If he's invincible as long as he has{SAUT}\"that\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Makoto",
+    "en": "Then the inverse should be true: he can{SAUT}be harmed once \"that\" is gone. But,{SAUT}what could it be?",
+    "fr": ""
+  }
+]

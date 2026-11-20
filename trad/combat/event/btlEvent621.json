@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kamoshidaman",
+    "en": "You petty criminals are upsetting the{SAUT}world's order and sowing anxiety!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_5",
+    "locuteur": "Kamoshidaman",
+    "en": "It's time for you to perish! Face me,{SAUT}for I am your justice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Blind justice is nothing more than{SAUT}egocentric rubbish.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "You're a phony hero who stands for{SAUT}nothing... You need to come to your{SAUT}senses!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kamoshidaman",
+    "en": "YOU are the ones who must come{SAUT}to YOUR senses! HAHAHA!",
+    "fr": ""
+  }
+]

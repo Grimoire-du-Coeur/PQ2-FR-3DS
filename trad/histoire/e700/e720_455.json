@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "This is, ah...{PAGE}I still don't think we can get through{SAUT}this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "There's so many damn leaves,{SAUT}we can't even get any closer{SAUT}than this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Indeed: chopping these down seems{SAUT}too difficult. If only we could get closer...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "It may be faster for us to look for{SAUT}a different path. There has to be some{SAUT}way to bypass this...",
+    "fr": ""
+  }
+]

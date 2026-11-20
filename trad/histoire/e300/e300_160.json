@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ken",
+    "en": "Yes! We took them all down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Koromaru",
+    "en": "Awoooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "Hey, what about that robot? Is she{SAUT}alright!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Hey, are you okay? I'm glad we made it{SAUT}here in time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Robot with a ribbon",
+    "en": "WHO ARE YOU?{PAGE}I DID NOT REQUEST ASSISTANCE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukari",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Robot with a ribbon",
+    "en": "I SHOULD HAVE BEEN FORMATTED{SAUT}ACCORDING TO THE DETERMINED{SAUT}PROCEDURE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Wha―Why're you saying that? Getting{SAUT}formatted is basically the same as dying!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Robot with a ribbon",
+    "en": "I AM DIFFERENT FROM THE OTHER{SAUT}UNITS. MY THOUGHT PROCESSES{SAUT}HAVE BECOME ABNORMAL.{PAGE}I AM AN IRREGULARITY, RIDDLED{SAUT}WITH ERRORS. I HAVE BECOME{SAUT}A DEFECTIVE UNIT.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Defective? All you did was realize{SAUT}that you like flowers, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Robot with a ribbon",
+    "en": "HOW DID YOU KNOW THAT?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "I don't really wanna explain it all right{SAUT}now, but―we saw you in a trailer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Robot with a ribbon",
+    "en": "TRAILER...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "Anyways―you don't need to{SAUT}be formatted!{PAGE}Stop calling yourself an irregularity{SAUT}just because there's something{SAUT}different about you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Robot with a ribbon",
+    "en": "BUT THAT IS WHAT OUR OVERSEER{SAUT}HAS DECREED. MY ONLY ROLE AS{SAUT}A UNIT IS TO OBEY HIM.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "There's no need to obey him.{OPTION}Who is this so-called Overseer?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Robot with a ribbon",
+    "en": "WHY IS THAT?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Haru",
+    "en": "If you only followed the commands of{SAUT}others for your whole life, there'd be{SAUT}no personal meaning to exist, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Robot with a ribbon",
+    "en": "A PERSONAL MEANING TO MY{SAUT}EXISTENCE?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Robot with a ribbon",
+    "en": "THE ONE WHO GUIDES US TOWARDS{SAUT}WHAT WE SHOULD BE―THAT IS WHO{SAUT}DETERMINES MY MEANING TO EXIST.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "Talk about total control over everyone.{SAUT}We'll take care of all that nonsense!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Mitsuru",
+    "en": "Excuse me, do you know a robot named{SAUT}Aigis? She looks quite similar to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yukari",
+    "en": "Also, a boy with an armband on―he has{SAUT}long bangs that cover up one of his{SAUT}eyes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Robot with a ribbon",
+    "en": "NO, I HAVE SEEN NO HUMANS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yukari",
+    "en": "I see...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Robot with a ribbon",
+    "en": "HOWEVER, I DID SEE A ROBOT WITH{SAUT}A RIBBON. IT WAS THE SAME COLOR{SAUT}AS MY OWN.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Junpei",
+    "en": "That's gotta be Ai-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Mitsuru",
+    "en": "Would you happen to know where that{SAUT}robot went?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Robot with a ribbon",
+    "en": "SHE WAS DEEMED A SECURITY THREAT{SAUT}AND TAKEN TO THE LAB UP AHEAD.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Akihiko",
+    "en": "What!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Shinjiro",
+    "en": "Tch... We're all in deep shit if we don't{SAUT}hurry to this lab.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Mitsuru",
+    "en": "Indeed, let's move out at once.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Futaba",
+    "en": "Wait! What're we gonna do with this{SAUT}robot?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_035",
+    "choix": true,
+    "en": "Let's bring her along with us.{OPTION}Let's hide her somewhere safe.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Futaba",
+    "en": "Yeah, I'm sure she'll be helpful. Oh,{SAUT}maybe she can guide us to the lab!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Teddie",
+    "en": "An excellent idea! If any trouble is to{SAUT}befall this precious bot, I shall protect{SAUT}her!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Fuuka",
+    "en": "That sounds like a good idea. If she stays{SAUT}here, more robots are likely to show up{SAUT}and capture her.{PAGE}But, I can't find any places nearby that{SAUT}are safe enough for her...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Teddie",
+    "en": "Then why don't we serve as her escort?{SAUT}If any trouble is to befall this precious{SAUT}bot, I shall protect her!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Futaba",
+    "en": "Yeah, I'm sure she'll be helpful. Oh,{SAUT}maybe she can guide us to the lab!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Robot with a ribbon",
+    "en": "I HAVE NOT BEEN DESIGNATED{SAUT}AS A GUIDE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Yukari",
+    "en": "But you know where the lab is, right?{SAUT}All you'd have to do is take us there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Robot with a ribbon",
+    "en": "BUT, PERFORMING ACTIONS OUTSIDE{SAUT}OF OUR ESTABLISHED PARAMETERS IS...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Ryuji",
+    "en": "Well, you don't wanna get formatted,{SAUT}do you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Ryuji",
+    "en": "I'm askin' if it's your will to get wiped,{SAUT}or if you're just goin' along with it 'cause{SAUT}that's what someone else decided.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Robot with a ribbon",
+    "en": "MY WILL?{PAGE}...I DO NOT UNDERSTAND. WHY{SAUT}DO YOU WISH TO PROTECT ME?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "P3 Fem Protag",
+    "en": "Well, there's the fact that you look like{SAUT}Aigis―she's our companion...{PAGE}But I guess it's more like... we want you{SAUT}to value your ability to cherish things?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Robot with a ribbon",
+    "en": "I SHOULD VALUE THIS ABILITY?{PAGE}WHY?{PAGE}WHY... WHY DO I... WANT TO CHERISH{SAUT}FLOWERS?{PAGE}AND THIS WANTING TO KNOW WHY...{SAUT}IS THIS ALSO A FEELING?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Haru",
+    "en": "Why don't you come with us to the lab?{SAUT}You may be able to find the answers{SAUT}there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Akihiko",
+    "en": "That sounds like your best option. At{SAUT}this rate, you're going to wind up{SAUT}getting formatted, right?{PAGE}So, you might as well let your feelings{SAUT}guide you now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Robot with a ribbon",
+    "en": "......{PAGE}VERY WELL... I WILL GO WITH YOU.{SAUT}I WANT TO SATISFY THIS FEELING{SAUT}OF WANTING TO KNOW WHY.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "P3 Fem Protag",
+    "en": "That takes care of that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Futaba",
+    "en": "Don't worry! If you suffer any{SAUT}malfunctions on the way, I'll{SAUT}disassemble―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Naoto",
+    "en": "You'll do what!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Futaba",
+    "en": "Heheh, whoops―my bad! What I meant{SAUT}was, all's well that ends well if nothing{SAUT}goes wrong!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Morgana",
+    "en": "Well, we found the robot that seems{SAUT}to be the key to this movie. That's one{SAUT}of our goals checked off the list.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "P4 Hero",
+    "en": "Our next step is to find the remaining{SAUT}members of SEES.{PAGE}Let's go!",
+    "fr": ""
+  }
+]

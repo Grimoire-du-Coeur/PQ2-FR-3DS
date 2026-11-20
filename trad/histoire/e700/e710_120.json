@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Ooh!? Hey, isn't that the ladder we saw{SAUT}earlier?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "I see, so this is where it leads...{PAGE}We'll be able to make use of that ladder{SAUT}if we lower it...{PAGE}Why don't we go check it out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "...Is that a ladder? I wonder where{SAUT}it leads.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "I don't know―how does it look on{SAUT}the map?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Hmm, looks like it connects on the{SAUT}other side... to the path we saw earlier.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "For real? Hey, let's go check it out!{SAUT}We might be able to use it like{SAUT}a secret path!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "The theater lobby...{PAGE}Futaba and Morgana are talking{SAUT}to Hikari...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "I can understand wanting your friends{SAUT}back, but... you're up against someone{SAUT}so strong...{PAGE}It'll be hard to win, so... why?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "It'll be hard, huh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_5",
+    "locuteur": "Futaba",
+    "en": "It's true, he's definitely using cheat{SAUT}codes―if we went up against him like{SAUT}usual, it'd be impossible to win...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "But, if we abandon our friends just{SAUT}because it'll be hard to win, it'd tarnish{SAUT}the Phantom Thieves' name.{PAGE}I mean... You get what I'm saying,{SAUT}right, {f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "We can't assume it's impossible.{OPTION}We each have the will of a rebel.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Right, it's too early to write that off.{SAUT}We'll never go down without a fight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Yeah, that's right! The Phantom Thieves{SAUT}won't back down that easily.{PAGE}I'd never want to stay silent or let{SAUT}someone do whatever they want{SAUT}to me just because they're strong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "A... rebel?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "You wouldn't want to stay silent or let{SAUT}someone walk all over you just because{SAUT}they've got power, right?{PAGE}So, we'll rebel, through and through,{SAUT}for the sake of our own justice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Yeah, that's right! The Phantom Thieves{SAUT}won't back down that easily.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "......!{PAGE}B-But... will you really be okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "We're really grateful for your concern...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "But, it's no prob!{PAGE}We're gonna show you the best ending,{SAUT}Hikari―just you wait and see!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Hikari",
+    "en": "Mm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "en": "It seems things are okay here. I should{SAUT}head back for the time being...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "en": "It seems things are okay here. Maybe{SAUT}I should go check on the others...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Akechi and Elizabeth{OPTION} and Yusuke{OPTION}Ann and Ryuji",
+    "fr": ""
+  }
+]

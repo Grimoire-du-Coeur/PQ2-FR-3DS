@@ -1,0 +1,84 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Looks like it's a dead end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Can we take a break? It's so hot here,{SAUT}and I'm so thirsty.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Well, it's no wonder it's hot. This place{SAUT}was specially designed for dinosaurs,{SAUT}after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukiko",
+    "en": "Are you okay, Mona? Maybe you{SAUT}should take that off?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "It's not a costume!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "......?{PAGE}Kanji's staring at Morgana...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Heeey! Joker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Wassup with him?{PAGE}He was starin' at Mona, wasn't he...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "What's up, Skull?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Uhh, it's nothing.{PAGE}That's enough restin' for now. Let's roll.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "He's still eyein' him. What's his deal?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "Hey, Skull! You're gonna fall behind!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "My bad! Be right there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "en": "A new special screening:{SAUT}\"Clash of the Thugs\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

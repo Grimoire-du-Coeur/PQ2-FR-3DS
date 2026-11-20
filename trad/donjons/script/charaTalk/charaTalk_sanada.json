@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Akihiko",
+    "en": "A Treasure Spot...{SAUT}What's the plan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "All right. Let's stay focused.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akihiko",
+    "en": "Leave the Shadows to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "Not this one, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "Looks like that's it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Hah.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Aha...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akihiko",
+    "en": "Hah. Is that it?{SAUT}I'm ready for more.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "That's a rare one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Apparently that's rare.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Nice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akihiko",
+    "en": "A shortcut, huh.{SAUT}Do we need it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akihiko",
+    "en": "Looks like we can't go{SAUT}through this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Akihiko",
+    "en": "Hm. I can feel a strong Shadow{SAUT}nearby... You ready for this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akihiko",
+    "en": "Got it! Leave it to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akihiko",
+    "en": "I see... Well, it's always good{SAUT}to be prepared.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akihiko",
+    "en": "A good battle, and good items.{SAUT}Two birds with one stone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akihiko",
+    "en": "Feels like Shadows nearby...{SAUT}Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akihiko",
+    "en": "Roger that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akihiko",
+    "en": "All right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Akihiko",
+    "en": "Huh? That's it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Akihiko",
+    "en": "We can go back from here.{SAUT}You need a break?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Marie",
+    "en": "Okay, so lemme explain about how to{SAUT}{f 0 1 2}communicate with other worlds{f 0 1 0}.{PAGE}The deal is, there are apparently a ton{SAUT}of worlds besides this one out there.{PAGE}So, like, in those other worlds, there{SAUT}are other \"you\"s...{PAGE}And they're all trying to communicate{SAUT}with your world from theirs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "locuteur": "Marie",
+    "en": "So if you want to contact this other{SAUT}you, you use the {f 0 1 2}P-Book{f 0 1 0}.{PAGE}The P-Book can hold your{SAUT}team's info and one Sub-Persona.{PAGE}When you exchange a Book with another{SAUT}you, you'll both be able to summon the{SAUT}Sub-Personas within the Books.{PAGE}Obviously it'll still cost some money,{SAUT}but you might end up with a really{SAUT}strong Persona.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_2",
+    "locuteur": "Marie",
+    "en": "But first we'll need a name. So the{SAUT}other yous can tell you apart,{SAUT}and stuff.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_3",
+    "locuteur": "Marie",
+    "en": "Hmm... Well, it's a name that goes{SAUT}in the P-Book, so...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_4",
+    "locuteur": "Marie",
+    "en": "Let's call it your {f 0 1 2}P-Book Name{f 0 1 0}!{PAGE}You can change it whenever, so just{SAUT}give me something to write down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "A P-Book Name, huh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_5",
+    "locuteur": "Morgana",
+    "en": "Why don't we use our Phantom Thieves{SAUT}team name?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Marie",
+    "en": "Uh, your what?",
+    "fr": ""
+  }
+]

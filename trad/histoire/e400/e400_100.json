@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Is something on your mind?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "Yes―why did Doe take Hikari-san into{SAUT}the movie now, of all times?{PAGE}I just can't think of a motive...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Well, he's obviously the one who locked{SAUT}us all up here, yeah?{PAGE}Since we keep changin' the movies and{SAUT}tryin' to get out, maybe he freaked out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "That's what I still can't figure out―if we{SAUT}suppose that Doe is the culprit, then{SAUT}what is his goal?{PAGE}He's never attacked us until now, and{SAUT}so much time passed before he{SAUT}kidnapped Hikari-san...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "I can't discern his endgame either.{PAGE}Furthermore, why was he playing{SAUT}the movies for us in the first place?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "He wanted us to watch them.{OPTION}He wanted us to change them.{OPTION}I don't know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "Then, that invitation Hikari-san had...{SAUT}Was that sent by Doe as well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "I can't help but agree with that{SAUT}assessment.{PAGE}And, I suspect that the invitation{SAUT}Hikari-san had wasn't Doe's doing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "That's a good point. It's frustrating, but{SAUT}our conjectures lack any decisive facts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Naoto",
+    "en": "Speaking of what we don't know,{SAUT}there's also that invitation{SAUT}Hikari-san had...{PAGE}Was that Doe's doing as well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "If he's trying to get us to merely watch{SAUT}the movies...{PAGE}We keep altering them, so it wouldn't{SAUT}be surprising if he considers us{SAUT}to be a hindrance.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Mitsuru",
+    "en": "Yet he does nothing besides generating{SAUT}keys and playing different films...{PAGE}It's almost as if he's taunting us to try{SAUT}and change them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "So, that means Doe's not our enemy?{PAGE}But Hikari was so scared of the guy!{SAUT}He's definitely still suspicious as hell.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Teddie",
+    "en": "I'm one baffled bear! If I don't hold my{SAUT}head in place, it might start spinning!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "Hrgh... I-I'm passing on this convo too!{SAUT}This all makes no sense!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akihiko",
+    "en": "If we can't figure this out, then all we've{SAUT}gotta do is go ask him directly...{PAGE}To do that, we just have to keep going,{SAUT}right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Shinjiro",
+    "en": "Sheesh, you're always so―well, actually,{SAUT}you're right for once.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "Well, no matter what we can't just leave{SAUT}Hikari alone with Doe like this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "True. We have to find her as quickly{SAUT}as possible!",
+    "fr": ""
+  }
+]

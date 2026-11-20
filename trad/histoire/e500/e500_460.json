@@ -1,0 +1,410 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Margaret",
+    "en": "Now then, I shall return with{SAUT}{f 6 1 13 0 0 0} and his friends.{PAGE}Come, Marie. You guide the way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Marie",
+    "en": "Fine, fine. Are you all ready? Right{SAUT}this way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "When we meet again, let's go relax{SAUT}at a caf〒 together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "I vote for ramen. I know a great place,{SAUT}so let's go eat there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Ooh, ramen, you say? There's a special{SAUT}joint we know about, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Ramen sounds nice and all, but how{SAUT}about a dessert buffet?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Rise",
+    "en": "Sounds great! I wanna do a girls-only{SAUT}get-together too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukari",
+    "en": "Hrgh, here come the calories...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Aigis",
+    "en": "Yukari-san―the proper response to{SAUT}such a suggestion is, \"I'll start my diet{SAUT}right after that.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosuke",
+    "en": "If we're gonna meet up, our own food{SAUT}court's not a bad contender either.{PAGE}So, please consider patronizing{SAUT}the Yasoinaba branch of Junes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Chie",
+    "en": "You walking ad!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Margaret",
+    "en": "Everyone... it's time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Looks like we've gotta go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "Everyone, thank you for everything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Teddie",
+    "en": "Be sure to keep this bear in mind,{SAUT}everybody!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukiko",
+    "en": "I look forward to when we meet again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Rise",
+    "en": "Bye-bye, for real this time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "Let's meet up again!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Kanji",
+    "en": "Thanks for everythin', guys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yosuke",
+    "en": "That was a blast. See ya around!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P4 Hero",
+    "en": "Well then... See you, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Elizabeth",
+    "en": "Now, my own guest's world will be{SAUT}this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "Um, about me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Theodore",
+    "en": "This way please, {f 6 1 27 0 0 0}.{SAUT}I shall be your guide...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Fem Protag",
+    "en": "Theo! Sure, thanks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Mitsuru",
+    "en": "It's time for us to return as well.{PAGE}I'm grateful for meeting you all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ken",
+    "en": "Thanks for everything―let's meet again{SAUT}somewhere!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Aigis",
+    "en": "Futaba-san taught me the proper way{SAUT}to say farewell earlier...{PAGE}Everyone, I'm going to make like a tree{SAUT}and get out of here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Fuuka",
+    "en": "*giggle* Oh, Aigis...{PAGE}Well then, please take care{SAUT}of yourselves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yukari",
+    "en": "See you later, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Akihiko",
+    "en": "...I've got a feeling we'll meet you again{SAUT}soon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Junpei",
+    "en": "Take it easy, guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Shinjiro",
+    "en": "Thanks for everythin'... See ya.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "P3 Hero",
+    "en": "...Wait, {f 6 1 27 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P3 Hero",
+    "en": "I'm glad I met you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, me too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hey, {f 6 1 16 0 0 0}-kun. Do you think,{SAUT}one day, we might...{PAGE}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "P3 Fem Protag",
+    "en": "...Nah, it's nothing. Take care!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P3 Hero",
+    "en": "You too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "P3 Fem Protag",
+    "en": "Bye, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "P3 Hero",
+    "en": "Well, see you around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Ann",
+    "en": "...They've all gone back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Haru",
+    "en": "We went through such a rough time,{SAUT}but when I think back on it, I feel like{SAUT}it went by in a flash.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Yusuke",
+    "en": "Indeed―but this was a truly beautiful{SAUT}ending.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Makoto",
+    "en": "Agreed. What happened here is one of{SAUT}the most important parts of our lives...{PAGE}But, why were we brought here{SAUT}in the first place?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Caroline",
+    "en": "Who knows? However...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Caroline",
+    "en": "This ending was attainable solely{SAUT}because of yourselves. That's all{SAUT}the reason you need!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Justine",
+    "en": "Inmate... I only hope what transpired{SAUT}here will have a positive effect on your{SAUT}rehabilitation.{PAGE}And perhaps... even on others as well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Justine",
+    "en": "No, pay that no mind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Caroline",
+    "en": "Now, hurry it up and get through that{SAUT}door! Are you ready, Inmate et cetera!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Haru",
+    "en": "Theater 1... This is where it all began.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Futaba",
+    "en": "Aw, yeah! I wanna hurry back and eat{SAUT}some of Sojiro's curry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Ann",
+    "en": "I want some too! Let's all go to Leblanc.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Ryuji",
+    "en": "It's not like we'll remember that, right?{SAUT}Well, at least we go to Leblanc all the{SAUT}time anyways.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Yusuke",
+    "en": "I would like to put in an order for{SAUT}a coffee.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Morgana",
+    "en": "Geez, where are these people's shame...{SAUT}Well, if we're piling it on, put me down{SAUT}for some top-grade sushi!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Makoto",
+    "en": "No problem, if Morgana's paying.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Futaba",
+    "en": "Ooh, you're gonna treat us!?{SAUT}How generous, Mona!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Morgana",
+    "en": "Hell no! Why can't you guys show ME{SAUT}some generosity for a change!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_062",
+    "choix": true,
+    "en": "What's up?{OPTION}Let's go back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Akechi",
+    "en": "Huh? Oh... Yeah. Sorry, I spaced out{SAUT}for a moment there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Akechi",
+    "en": "Go back, huh? Yeah, you're right...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Akechi",
+    "en": "We need to get back to...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Yusuke",
+    "en": "What's the matter, {f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Futaba",
+    "en": "Heeeeey, hustle your buns!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Akechi",
+    "en": "They're calling for us... Let's go,{SAUT}{f 6 1 30 0 0 0}.",
+    "fr": ""
+  }
+]

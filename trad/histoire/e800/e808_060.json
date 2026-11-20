@@ -1,0 +1,37 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "There he is! Get him!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "*chuckle* We're only here to ask him{SAUT}questions.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "I apologize for the delay...{PAGE}\"The officer by car number 11-10 seems{SAUT}suspicious to me.\"{PAGE}...That's it from him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Oookay!{PAGE}And the number for this one is...{PAGE}11-77. So two crit fails and two lucky{SAUT}sevens... Guess it cancels out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "I don't fully understand, but... Let's keep{SAUT}moving.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "He said the officer by car 11-10 seems{SAUT}suspicious...",
+    "fr": ""
+  }
+]

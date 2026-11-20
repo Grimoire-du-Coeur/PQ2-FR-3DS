@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Margaret",
+    "en": "Welcome to the Velvet Room...{PAGE}Intriguing. You've obtained a vessel{SAUT}for even greater power.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_000",
+    "choix": true,
+    "en": "A vessel?{OPTION}What power?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Margaret",
+    "en": "I speak of the \"Wild Card\" that{SAUT}{f 6 1 30 0 0 0} is holding...{PAGE}That card holds an even greater{SAUT}power than Blank Cards.{PAGE}With this, you may impart strength{SAUT}to your main Persona through{SAUT}sacrifice fusion.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "You kinda lost me already.{SAUT}Is it really that big a deal?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Margaret",
+    "en": "Indeed. You could say it's a glimpse{SAUT}of the raw potential of the wild card.{PAGE}I'll make the necessary preparations{SAUT}so you can perform this ritual.{PAGE}If ever you need to do so, I shall be{SAUT}here to assist you.",
+    "fr": ""
+  }
+]

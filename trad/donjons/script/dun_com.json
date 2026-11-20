@@ -1,0 +1,364 @@
+[
+  {
+    "id": "YESNO_SEL",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "GET_ITEM_MES",
+    "en": "I obtained {f 2 5 3 65535 0}.",
+    "fr": ""
+  },
+  {
+    "id": "GET_MONEY_MES",
+    "en": "I obtained {f 2 4 0} yen.",
+    "fr": ""
+  },
+  {
+    "id": "TBOX_ENEMY_APPEAR",
+    "en": "Look out!",
+    "fr": ""
+  },
+  {
+    "id": "NOT_OPEN_SHORTCUT",
+    "en": "We can't go through...",
+    "fr": ""
+  },
+  {
+    "id": "OPENED_BOX",
+    "en": "There's nothing else here...",
+    "fr": ""
+  },
+  {
+    "id": "EXIT_DUNGEON_SEL",
+    "en": "Should I drop out of this movie?",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_ASK",
+    "en": "There's a hidden passage...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_SHORTCUT_ASK",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ONEWAY_ASK",
+    "en": "This shortcut looks like it only goes one{SAUT}way; I can go through, {f 0 1 2}but I won't be{SAUT}able to come back from the other side...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_ONEWAY_ASK",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "BAG_FULL",
+    "en": "It looks like my bag is full...",
+    "fr": ""
+  },
+  {
+    "id": "GATHER_SUSPENSE",
+    "en": "I searched the Treasure Spot...{PAGE}...?",
+    "fr": ""
+  },
+  {
+    "id": "JIJIKU_SEL",
+    "choix": true,
+    "en": "Save{OPTION}Leave the labyrinth{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "JIJIKU_ASK",
+    "en": "What should I do?",
+    "fr": ""
+  },
+  {
+    "id": "FIND_QUEST_TEST",
+    "en": "Perhaps we should return to{SAUT}the theater and check the{SAUT}status of the quest...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_QUEST_ESCAPE_TEST",
+    "choix": true,
+    "en": "Return to the theater{OPTION}Proceed forward",
+    "fr": ""
+  },
+  {
+    "id": "ALERT_MSG",
+    "en": "This leads outside of the special screening.{SAUT}What should I do?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_ALERT_MSG",
+    "choix": true,
+    "en": "Return to the theater{OPTION}Continue exploring",
+    "fr": ""
+  },
+  {
+    "id": "MAPPING_FAILED_MSG",
+    "en": "The treasure chest map is{SAUT}emitting a mysterious glow!{PAGE}It seems to be indicating locations{SAUT}that haven't been visited...",
+    "fr": ""
+  },
+  {
+    "id": "POWER_SPOT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "USE_AUTO_RECOVER_ASK",
+    "en": "Should I use auto-recovery?",
+    "fr": ""
+  },
+  {
+    "id": "AUTO_RECOVER_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Do not use",
+    "fr": ""
+  },
+  {
+    "id": "AUTO_RECOVER_NOT_USE_MSG",
+    "en": "Maybe not.",
+    "fr": ""
+  },
+  {
+    "id": "AUTO_RECOVER_NOT_USE_MSG#2",
+    "en": "Nobody needs healing.",
+    "fr": ""
+  },
+  {
+    "id": "AUTO_RECOVER_NOT_USE_MSG#3",
+    "en": "There's not enough SP to use the{SAUT}recovery skill.",
+    "fr": ""
+  },
+  {
+    "id": "AUTO_RECOVER_NOT_USE_MSG#4",
+    "en": "Nobody in the party can use{SAUT}a recovery skill.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_OTAKARA_GET",
+    "en": "> Treasure Spot event",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT_1",
+    "en": "\"Treasure Spots\" are where you{SAUT}may obtain {f 0 1 2}various items{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT_2",
+    "en": "If you choose to {f 0 1 2}Search thoroughly{f 0 1 0}...{PAGE}Then you may find {f 0 1 2}up to 5{f 0 1 0} items,{SAUT}with a greater chance they'll be rare.{PAGE}However, you also have a greater{SAUT}chance of triggering a battle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT_3",
+    "en": "If you choose to {f 0 1 2}Search cautiously{f 0 1 0}...{PAGE}Then you may find {f 0 1 2}up to 3{f 0 1 0} items,{SAUT}while enjoying a low risk of battle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT_4",
+    "en": "There's a limited number of items in{SAUT}each Treasure Spot, but if you {f 0 1 2}leave{SAUT}the labyrinth{f 0 1 0}, certain spots will be{SAUT}replenished, and you can search{SAUT}them again. Take advantage of this,{SAUT}and you'll end up richer than a king!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_OTAKARA_GET#2",
+    "en": "> Got goods! event{PAGE}> But let's be careful of the{SAUT}enemy event",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_OTAKARA_BAG",
+    "en": "> Inventory full event",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_QUEST_MAP_0",
+    "en": "If you enter a labyrinth during a{SAUT}special screening, {f 0 1 2}some paths will{SAUT}be inaccessible{f 0 1 0}. There might be{SAUT}other changes as well.{PAGE}{f 0 1 2}The map may show some differences{SAUT}in the floor's layout.{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_QUEST_MAP_1",
+    "en": "Inaccessible areas will be {f 0 1 2}colored{SAUT}red{f 0 1 0} and {f 0 1 2}marked with a special icon{f 0 1 0}{SAUT}on the lower screen.{PAGE}Keep an eye on the lower screen and{SAUT}stay alert when exploring labyrinths{SAUT}during special screenings.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_QUEST_MAP_2",
+    "en": "Also, a {f 0 1 2}special screening palette{f 0 1 0}{SAUT}will appear on the lower screen.{PAGE}Icons from this palette {f 0 1 2}can only be{SAUT}placed during a special screening{f 0 1 0}.{PAGE}Use these to mark events that only       {SAUT}occur during special screenings.       {PAGE}Make use of the palette and strive{SAUT}to complete the quest.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_QUEST_TREAS",
+    "en": "Special screenings have their own{SAUT}{f 0 1 2}treasure chests not found elsewhere{f 0 1 0}.{PAGE}These contain items that will come{SAUT}in handy, so don't miss them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_FUTABA_IP_BTL_MSG_1",
+    "en": "It's the Reaper... This one's{SAUT}gonna be tough!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_FUTABA_IP_BTL_MSG_2",
+    "en": "I know this feeling... It's the{SAUT}Reaper!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_FUTABA_IP_BTL_MSG_3",
+    "en": "Tough one on the way!{SAUT}Get ready! ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_FUKA_IP_BTL_MSG_1",
+    "en": "I'm picking up a signal... Look out,{SAUT}it's the Reaper!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_FUKA_IP_BTL_MSG_2",
+    "en": "The Reaper is closing in on you!{SAUT}Please, stay on your guard!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_FUKA_IP_BTL_MSG_3",
+    "en": "Hm, according to my readings...{SAUT}...Oh no! There's a Reaper!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_RISE_IP_BTL_MSG_1",
+    "en": "Uh oh, I'm picking up a Reaper nearby!{SAUT}Watch out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_RISE_IP_BTL_MSG_2",
+    "en": "I sense The Reaper!{SAUT}Stay on your guard!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_RISE_IP_BTL_MSG_3",
+    "en": "Picking up a signal from the Reaper!{SAUT}It's coming this way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_JUSTINE_IP_BTL_MSG_1",
+    "en": "The Reaper approaches. Please be{SAUT}careful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_JUSTINE_IP_BTL_MSG_2",
+    "en": "Please take care, for there's a Reaper{SAUT}afoot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_JUSTINE_IP_BTL_MSG_3",
+    "en": "It's the Reaper... Your only chance is to{SAUT}maintain focus.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_CAROLIN_IP_BTL_MSG_1",
+    "en": "The Reaper is near!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_CAROLIN_IP_BTL_MSG_2",
+    "en": "Incoming Reaper!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_CAROLIN_IP_BTL_MSG_3",
+    "en": "I know this sound, it's the Reaper!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_ELIZABETH_IP_BTL_MSG",
+    "en": "A Reaper makes its grand entrance!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_ELIZABETH_IP_BTL_MSG#2",
+    "en": "With my incredible ears, I can hear the{SAUT}Reaper calling.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_ELIZABETH_IP_BTL_MSG#3",
+    "en": "That sound... It can only be a Reaper.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_THEODOR_IP_BTL_MSG_1",
+    "en": "I wish this wasn't true, but there's a{SAUT}Reaper coming!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_THEODOR_IP_BTL_MSG_2",
+    "en": "Incoming Reaper. Please take care!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_THEODOR_IP_BTL_MSG_3",
+    "en": "I'm sensing something, and it's most{SAUT}certainly a Reaper!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MARGARET_IP_BTL_MSG_",
+    "en": "The Reaper is here! Stay on guard!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MARGARET_IP_BTL_MSG_#2",
+    "en": "Remain alert. A powerful enemy is{SAUT}approaching.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MARGARET_IP_BTL_MSG_#3",
+    "en": "The Reaper is close. Stay vigilant.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NANAKO_IP_BTL_MSG_1",
+    "en": "The Reaper! That's what it is!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NANAKO_IP_BTL_MSG_2",
+    "en": "A Reaper is coming!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NANAKO_IP_BTL_MSG_3",
+    "en": "No! The Reaper is coming fast!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_foe_exist_move_short",
+    "locuteur": "Futaba",
+    "en": "H-Hey! There's an FOE on the{SAUT}other side of that shortcut!{PAGE}Don't go through there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_foe_exist_move_short#2",
+    "locuteur": "Futaba",
+    "en": "H-Hey! There's an FOE on the{SAUT}other side of that shortcut!{PAGE}Don't go through there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_foe_exist_move_short#3",
+    "locuteur": "Rise",
+    "en": "Wait! There's an FOE on the{SAUT}other side!{PAGE}I wouldn't go through there{SAUT}just now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_foe_exist_move_short#4",
+    "locuteur": "Fuuka",
+    "en": "Hold on, please! There's an{SAUT}FOE through there!{PAGE}Let's wait until it leaves before{SAUT}going further.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_GET_TRESURE_MAP",
+    "en": "The {f 0 1 2}location of the treasure{f 0 1 0} hidden in{SAUT}this movie has been marked on the map.",
+    "fr": ""
+  }
+]

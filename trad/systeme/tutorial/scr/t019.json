@@ -1,0 +1,27 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "In addition to their {f 0 1 2}main Persona{f 0 1 2}, each{SAUT}teammate can have an additional one: a{SAUT}freely interchangeable {f 0 1 2}Sub-Persona{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes04",
+    "en": "Open the menu with the {f 0 1 2}X Button{f 0 1 0} and{SAUT}select {f 0 1 2}PERSONA{f 0 1 0} to assign Sub-Personas.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "This lets each teammate have the skills of{SAUT}two Personas: the main and the sub.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes03",
+    "en": "A Sub-Persona's HP and SP are added to{SAUT}that of the party member as {f 0 1 2}a bonus{f 0 1 0}.{PAGE}Bonus HP and SP will be {f 0 1 2}automatically{SAUT}replenished at the start of any battle{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes05",
+    "en": "Assigning a Sub-Persona whose {f 0 1 2}level is{SAUT}very low{f 0 1 0} compared to the main Persona{SAUT}will {f 0 1 2}reduce the power of some attack skills{f 0 1 0}.{SAUT}　{SAUT}Always try to give your teammates a Sub-{SAUT}Persona with a level close to that of their{SAUT}main Persona.{PAGE}You can assign Sub-Personas at {f 0 1 2}any time{SAUT}while you're not in battle{f 0 1 0}. But once you{SAUT}are in battle, you can't use any Sub-{SAUT}Personas that weren't assigned to someone.",
+    "fr": ""
+  }
+]

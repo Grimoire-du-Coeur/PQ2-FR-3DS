@@ -1,0 +1,31 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Hey, shouldn't we use a different symbol{SAUT}for the electric gates instead of just{SAUT}reusing the one for the rotating cages?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "That's a good point.{OPTION}Let's ask Fox to design one for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Hm, in that case... How about something{SAUT}like this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "That's fantastic! It ought to make our{SAUT}map even easier to read!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_ICON_DENKISAKU_OPEN",
+    "en": "An {f 0 1 2}Electric Gate{f 0 1 0} icon has been added{SAUT}to the map on the bottom screen.{PAGE}If you wish to review how to use{SAUT}this icon again...{PAGE}Press {f 0 1 2}HELP{f 0 1 0} at the bottom right of{SAUT}the map and check the {f 0 1 2}Icon Types{f 0 1 0}.",
+    "fr": ""
+  }
+]

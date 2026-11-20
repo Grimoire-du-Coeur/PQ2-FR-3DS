@@ -1,0 +1,54 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yes! We beat it, guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "locuteur": "P3 Fem Protag",
+    "en": "You really carried us through that fight,{SAUT}Joker. I'd say that makes you our{SAUT}leading man!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Oh? What's this...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "en": "There's something on the ground...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "That Shadow must have dropped this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Isn't it a piece of film? It's almost{SAUT}completely covered in soot, though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Whatever else it is, it counts as{SAUT}a trophy of our victory!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Obtained Sooty Film!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "Well, we've accomplished our goal.{SAUT}Let's go report to Elizabeth.",
+    "fr": ""
+  }
+]

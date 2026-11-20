@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Shinjiro",
+    "en": "Hey―ain't that glowing part of the floor{SAUT}one of those switches?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Hmm. That should mean there's a wind{SAUT}generator nearby...{PAGE}But there doesn't seem to be anything{SAUT}we can do about it from here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Actually, I think there might be a way:{SAUT}look just beyond it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "One of those copyca―mimicking FOEs,{SAUT}huh? I see... Get what he means, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "...Nope.{OPTION}We'll get that thing to activate it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "We want to get over there, but we can't,{SAUT}because there's no wind blowing―right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Nice―quick on the take, as always.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "Uh, I kinda don't get it at all, eheheh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "We want to get over there, but we can't,{SAUT}because there's no wind blowing―right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ken",
+    "en": "Yeah. We don't have a way to reach{SAUT}the switch that we need to activate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "And that's why we're going to have{SAUT}the FOE activate it for us. It copies{SAUT}our movement, right?{PAGE}So why not take advantage of its{SAUT}behavior and {f 0 1 2}have the FOE move{SAUT}onto that switch{f 0 1 0}?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "Oh, I get it! Then the wind that we need{SAUT}will start blowing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "If this works as we've planned, we{SAUT}should be able to ride the wind to{SAUT}the other side.{PAGE}There doesn't seem to be any alternative{SAUT}solution, so let's give this a try.",
+    "fr": ""
+  }
+]

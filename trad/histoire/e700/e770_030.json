@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Huh? What's this? A scrap of paper?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "What, that's it? What a letdown.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Wait a minute, you guys.{PAGE}If my veteran phantom thief intuition{SAUT}is correct...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Morgana",
+    "en": "Then this is a map that marks the{SAUT}spot of some fancy hidden treasure!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "What!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Koromaru",
+    "en": "Arf!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukari",
+    "en": "Seriously? Well, I certainly do see{SAUT}marks on there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "An actual treasure map, with actual{SAUT}hidden treasure...? That's so cool!{SAUT}Let's go find it right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "Uh, wow... Ken's way more excited{SAUT}about this than I would've expected...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "It's the sense of adventure.{OPTION}He's still a kid.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "Are you the adventuring type too,{SAUT}Joker? I'm kind of a fan myself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ken",
+    "en": "N-No, I'm not!{PAGE}I just... thought that we might find{SAUT}something useful for our journey...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "*giggle* It does sound kind of{SAUT}exciting to follow a treasure map.{PAGE}Say, how about we put this treasure{SAUT}map on top of our movie map? Then{SAUT}we'd know the location.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Not a bad idea. I'll take care of this!{PAGE}Hrrm... So, according to this, that{SAUT}place is here, and that one is there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012_01",
+    "locuteur": "Futaba",
+    "en": "Not a bad idea. I'll take care of this!{PAGE}Hrrm... So, according to this, that{SAUT}place is here, and that one is there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "So then... this gotta be here, on the{SAUT}map! Hehe, perfect orienting, if I{SAUT}do say so myself.{PAGE}Now, let's go see what kind of{SAUT}treasure is waiting for us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013_01",
+    "locuteur": "Futaba",
+    "en": "So then... this gotta be here, on the{SAUT}map! Hehe, perfect orienting, if I{SAUT}do say so myself.{PAGE}Now, let's go see what kind of{SAUT}treasure is waiting for us...",
+    "fr": ""
+  }
+]

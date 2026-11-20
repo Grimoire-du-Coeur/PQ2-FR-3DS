@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Good job, you guys.{PAGE}We've covered over half of this area.{SAUT}We're getting closer to those stairs{SAUT}we found earlier, too.{PAGE}Keep up the good work!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Mmhm, leave it to us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_5",
+    "locuteur": "Ann",
+    "en": "Queen, Noir... hang in there!",
+    "fr": ""
+  }
+]

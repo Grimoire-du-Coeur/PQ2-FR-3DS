@@ -1,0 +1,146 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kanji",
+    "en": "Well, we're here, but doesn't look like{SAUT}there's anything to eat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukiko",
+    "en": "Maybe we should've kept the dish we{SAUT}made for that carnivore?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Oh, I kept a little bit of that sauce!{SAUT}You want some?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "N-No thanks, I'm good! We're here, so{SAUT}we'd better get out there and find what{SAUT}we're lookin' for, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukiko",
+    "en": "I guess you're right. Maybe we'll{SAUT}be able to make something new.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "...Yo, are they for real? That slime{SAUT}they made last time's gonna haunt me{SAUT}for years.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "Know this, Skull: those two have very{SAUT}little common sense when it comes to{SAUT}cooking.{PAGE}You'd do well to remember that. There's{SAUT}no telling what they'll cook up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukiko",
+    "en": "...Hm? What's wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "Hm!? Nothing! Right, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "Well... it looks like there's only grass{SAUT}here. Should we keep moving?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Let's try somewhere else.{OPTION}Let's look here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "Just a moment, Joker.{PAGE}Look here! We've hit the jackpot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Good thinking, Joker. We've hit the{SAUT}jackpot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "There's parsley, mugwort, wild{SAUT}rocambole, butterbur...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "Oh, and it looks like there are even{SAUT}some carnivorous plants here too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "We don't need any more of those!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Shinjiro",
+    "en": "Hmm, wild edible plants, huh?{SAUT}Those'll work.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Rise",
+    "en": "I know just the place to look too! I'm{SAUT}pretty sure it's south of here.{PAGE}Remember those trees the herbivores{SAUT}knocked down? There was a ton of{SAUT}plants just on the other side of it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "Yeah, there was, but who knows{SAUT}if we'll be able to eat them...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "I'll be able to tell whether they're edible{SAUT}or not; I've had first hand experience.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Ohh... I'm not super familiar with{SAUT}vegetables. I know cabbage and{SAUT}lettuce... That's pretty much it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "It's all about instinct. I'll know very{SAUT}well which ones are safe to eat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akihiko",
+    "en": "All right then, let's go gather some.{PAGE}You said they're over by \"those trees the{SAUT}herbivores knocked down\", right? Then,{SAUT}let's head south!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Shinjiro",
+    "en": "...Man, guess I'll just have to go along{SAUT}here.{PAGE}I'll cook everything up real good once{SAUT}you get what we need.",
+    "fr": ""
+  }
+]

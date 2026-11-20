@@ -1,0 +1,181 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "...It's kinda weird. Walking through{SAUT}here and seeing all these signs is{SAUT}getting me kinda nostalgic.{PAGE}Wonder if those dinosaurs from{SAUT}Junessic Land are doing okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "Ahah... Are you worried about them?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Just a little. They're probably okay,{SAUT}but you can't replace friends,{SAUT}y'know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Ann",
+    "en": "I was just thinking that if they did{SAUT}learn to open up to each other, then{SAUT}they should really treasure that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Even if you don't always agree with{SAUT}them, there's a lot of stuff you'd{SAUT}never be able to do without friends.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "P3 Fem Protag",
+    "en": "Where's this coming from, Panther?{SAUT}You thinking about one of your{SAUT}friends, too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Yeah. Back in school, when I had{SAUT}problems fitting in, I had someone{SAUT}who stuck by me no matter what.{PAGE}She was so kind... Always cared{SAUT}about the people around her.{SAUT}More than she cared about herself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Fuuka",
+    "en": "She sounds like a great friend.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Yeah. I love her, you know? She's{SAUT}always gonna be a part of my life.{PAGE}But... Some bad stuff happened, and{SAUT}she had to go live somewhere{SAUT}far away...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh... Are you feeling lonely?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Yeah... I'd be lying if I said I wasn't.{PAGE}But she's my best friend. Shiho's{SAUT}helped me so much. So I'm fighting{SAUT}hard for her sake, too.{PAGE}I don't want my choices to bring{SAUT}her any more pain. And... I know I'll{SAUT}see her again someday.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Without a doubt.{OPTION}We'll help you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Yeah. So it's fine! No problem!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Yeah... Thanks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Whoops, sorry. You guys don't HAVE{SAUT}to listen to me ramble, okay?{PAGE}I just thought of Shiho, and then all{SAUT}this sappy stuff started coming out...{PAGE}Don't worry about me, okay? I'm fine.{SAUT}Gotta focus on the fight ahead of us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012_1",
+    "locuteur": "Ann",
+    "en": "Okay, break time's over! Let's pull{SAUT}ourselves together and move out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Fuuka",
+    "en": "Panther...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "I saw her smiling, but I dunno if{SAUT}she was really feeling it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Fuuka",
+    "en": "...Yeah. It sounds like part of what{SAUT}she's holding onto was bringing her{SAUT}down...{PAGE}I wish we had some way to get her{SAUT}mind off it, and help her feel better.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah. Hmm... Any big ideas, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "Get her a present?{OPTION}Surprise her.{OPTION}Give her some space.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, that might be a good idea!{SAUT}Something that'll put a smile on{SAUT}her face!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Fuuka",
+    "en": "Hmm. I just hope we can find{SAUT}something like that in this world...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, I see! So like, come up with{SAUT}something we can do for her{SAUT}that'll make her smile?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Fuuka",
+    "en": "Hmm. I just hope we can prepare{SAUT}something like that in this world...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Fuuka",
+    "en": "I'm sure it'd be easier not to get{SAUT}involved, but would it be best...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hmm... Well, if we think of something{SAUT}we can do, I think we should go for it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Fuuka",
+    "en": "Yeah. Hopefully we can come up with{SAUT}something good...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "Once we have some solid ideas on{SAUT}how to cheer Panther up, let's put{SAUT}our heads together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "en": "A new special screening:{SAUT}\"A Present for You\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

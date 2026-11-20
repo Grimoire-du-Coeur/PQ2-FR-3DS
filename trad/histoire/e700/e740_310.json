@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Shinjiro",
+    "en": "Hey, look at that... That's one helluva{SAUT}wicked axe it's luggin' around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukiko",
+    "en": "Mmhm, and what a scary face it has...{SAUT}Could it be upset for some reason?{PAGE}We have Hikari-chan with us, so it{SAUT}would be best to try and avoid enemies{SAUT}who would give us trouble in a fight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Then, what should we do now?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Let's lure it away with some bait.{OPTION}Let's consult Noir.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukiko",
+    "en": "Yeah―it worked once for us already,{SAUT}so I think we should try it again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "N-No! ...We should go with a more solid{SAUT}plan this time.{PAGE}Why don't we ask Noir for advice, as our{SAUT}resident axe expert?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "Right. She wields an axe herself, so she{SAUT}could be of help with this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "Well... axes have a rather short attack{SAUT}range, so it's best not to get too close.{PAGE}Also, an axe that large seems awfully{SAUT}heavy, so I doubt it can swing that{SAUT}continually―only one whack at a time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "I see... \"Don't approach it if possible,\"{SAUT}and, \"Time it well if you must approach{SAUT}it,\" seem to be the best tactics here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukiko",
+    "en": "{f 0 1 2}Its expression{f 0 1 0} may make for a useful{SAUT}clue with its attack timing, too.{PAGE}Doesn't it seem like it would be the most{SAUT}dangerous when it's at its angriest?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "That would make sense. We'll leave our{SAUT}dodge timing up to you, Joker.",
+    "fr": ""
+  }
+]

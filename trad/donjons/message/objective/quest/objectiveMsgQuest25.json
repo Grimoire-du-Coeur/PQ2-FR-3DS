@@ -1,0 +1,57 @@
+[
+  {
+    "id": "DG_OBJECTIVE_MSG_LARGE_0",
+    "en": "Defeat KNS-1000!",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0",
+    "en": "Use your map to locate the target",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#2",
+    "en": "Defeat 9 more",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#3",
+    "en": "Defeat 8 more",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#4",
+    "en": "Defeat 7 more",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#5",
+    "en": "Defeat 6 more",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#6",
+    "en": "Defeat 5 more",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#7",
+    "en": "Defeat 4 more",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#8",
+    "en": "Defeat 3 more",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#9",
+    "en": "Defeat 2 more",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#10",
+    "en": "Defeat 1 more",
+    "fr": ""
+  }
+]

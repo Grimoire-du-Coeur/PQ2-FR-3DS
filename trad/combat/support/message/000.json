@@ -1,0 +1,242 @@
+[
+  {
+    "id": "BTL_MES_000_000",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_001",
+    "en": "Attack it with a {f 0 1 2}Physical skill{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_002",
+    "en": "Attack it with a {f 0 1 2}Fire skill{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_003",
+    "en": "Attack it with an {f 0 1 2}Ice skill{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_004",
+    "en": "Attack it with an {f 0 1 2}Electricity skill{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_005",
+    "en": "Attack it with a {f 0 1 2}Wind skill{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_006",
+    "en": "Attack it with a {f 0 1 2}Psychokinesis skill{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_007",
+    "en": "Attack it with a {f 0 1 2}Nuclear skill{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_008",
+    "en": "Make sure you use a {f 0 1 2}physical attack{f 0 1 0}{SAUT}next!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_009",
+    "en": "Make sure you use a {f 0 1 2}Fire attack{f 0 1 0}{SAUT}next!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_010",
+    "en": "Make sure you use an {f 0 1 2}Ice attack{f 0 1 0}{SAUT}next!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_011",
+    "en": "Make sure you use an {f 0 1 2}Electricity attack{f 0 1 0}{SAUT}next!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_012",
+    "en": "Make sure you use a {f 0 1 2}Wind attack{f 0 1 0}{SAUT}next!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_013",
+    "en": "Make sure you use a {f 0 1 2}Psychokinesis{SAUT}attack{f 0 1 0} next!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_014",
+    "en": "Make sure you use a {f 0 1 2}Nuclear attack{f 0 1 0}{SAUT}next!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_015",
+    "en": "Oh no! It rewrote its security{SAUT}programming!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_016",
+    "en": "Yes! We got past its firewall!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_017",
+    "en": "Nice! Hacking successful!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_018",
+    "en": "Analysis at 10%!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_019",
+    "en": "Analysis at 20%!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_020",
+    "en": "Analysis at 30%!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_021",
+    "en": "Analysis at 40%!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_022",
+    "en": "Analysis at 50%!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_023",
+    "en": "Analysis at 60%!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_024",
+    "en": "Analysis at 70%!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_025",
+    "en": "Analysis at 80%!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_026",
+    "en": "Analysis at 90%!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_027",
+    "en": "Wh-Whoa, hold on! What was that{SAUT}just now!?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_028",
+    "en": "N-No way...!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_029",
+    "en": "Everyone!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_030",
+    "en": "Ah...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_031",
+    "en": "No way... Guys! ...Everyone!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_032",
+    "en": "I... I'm not getting any readings from{SAUT}them...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_033",
+    "en": "D-Did... we lose?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_034",
+    "en": "Ngh... Nnh!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_035",
+    "en": "H-Hikari!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_036",
+    "en": "H-Hikari-chan...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_037",
+    "en": "Please, run! At this rate, she'll even{SAUT}take you down!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_038",
+    "en": "Hikari!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_039",
+    "en": "Hikari-chan!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_040",
+    "en": "I heard your voice, Hikari-chan.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_041",
+    "en": "Sorry for the wait.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_042",
+    "en": "Leave the rest to us.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_043",
+    "en": "Guys!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_044",
+    "en": "Guys... I'll save you...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_045",
+    "en": "If my cheers can help everyone...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_046",
+    "en": "There's something even I can do! ",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_000_047",
+    "en": "If I can aid everyone... ",
+    "fr": ""
+  }
+]

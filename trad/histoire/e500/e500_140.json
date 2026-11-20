@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukiko",
+    "en": "No...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "Why won't the theater people{SAUT}believe us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Enlil",
+    "en": "Do you truly intend to wrench every{SAUT}last person away from this place?{PAGE}Please understand―that is quite{SAUT}presumptuous of you. After all,{SAUT}these people wish to be here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "That's just...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Enlil",
+    "en": "Don't you see? Since there is no end to{SAUT}the salvation here, your actions are{SAUT}wholly meaningless.{PAGE}This world that I provide them with{SAUT}is the only way they can be saved.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "That's not true.{OPTION}We'll keep trying anyway.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Yeah, we decided we're going to save{SAUT}them―you're not talking us out of it!{PAGE}Let's show everyone that we have{SAUT}the strength to succeed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "Right! If we gave up so easily, we'd be{SAUT}disgracing our name as Phantom{SAUT}Thieves!{PAGE}Let's show everyone that we have{SAUT}the strength to succeed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Enlil",
+    "en": "It seems that any advice I share will only{SAUT}fall on deaf ears.{PAGE}In that case, I will teach you as many{SAUT}times as necessary... just how foolish{SAUT}you are.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Haru",
+    "en": "Eek!?",
+    "fr": ""
+  }
+]

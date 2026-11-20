@@ -1,0 +1,377 @@
+[
+  {
+    "id": "MITURU_FOE_FOLLOW_START_",
+    "en": "We've been detected by an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_FOE_FOLLOW_START_#2",
+    "en": "Tsk... An FOE has locked onto us!",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_FOE_FOLLOW_START_#3",
+    "en": "We're being tracked by an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_FOE_NEAR_1",
+    "en": "There's an FOE close by...",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_FOE_NEAR_2",
+    "en": "An FOE. So they're here,{SAUT}as well.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_FOE_NEAR_3",
+    "en": "That's an FOE. Stay alert!",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_FOE_FOLLOW_END_1",
+    "en": "It appears we've eluded that FOE.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_FOE_FOLLOW_END_2",
+    "en": "Good... It seems it's given up.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_FOE_FOLLOW_END_3",
+    "en": "Our escape is secured...",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_KANSI_REACTION_1",
+    "en": "Exercise caution here.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_KANSI_REACTION_2",
+    "en": "What an inconvenient trap.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_KANSI_REACTION_3",
+    "en": "Make sure to prioritize stealth...",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_DENKISAKU_REACTIO",
+    "en": "I advise not touching that.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_DENKISAKU_REACTIO#2",
+    "en": "We can proceed after we{SAUT}shut off the power.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_DENKISAKU_REACTIO#3",
+    "en": "Shutting off the electricity would{SAUT}be the prudent course.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_KYOUHU_REACTION_1",
+    "en": "Ngh...!",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_KYOUHU_REACTION_2",
+    "en": "What!?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_KYOUHU_REACTION_3",
+    "en": "Ugh, the wind!?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_STAIR_FIND_1",
+    "en": "We can proceed onward.{SAUT}Any objections?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_STAIR_FIND_2",
+    "en": "There's a stairway over there.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_STAIR_FIND_3",
+    "en": "Stairs... The next floor lies ahead.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_TREASURE_FIND_1",
+    "en": "A treasure box... Shall we?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_TREASURE_FIND_2",
+    "en": "Hm. There's a treasure box.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_TREASURE_FIND_3",
+    "en": "There's treasure ahead.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_CHECK_WALL_1",
+    "en": "Hm...? What's that?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_CHECK_WALL_2",
+    "en": "...Something's bothering me.{SAUT}Do you mind if we investigate?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_CHECK_WALL_3",
+    "en": "What is that...? Let's take a{SAUT}closer look.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_SWITCH_FIND_1",
+    "en": "Hm? Is this... a switch?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_SWITCH_FIND_2",
+    "en": "Look. There's a switch.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_SWITCH_FIND_3",
+    "en": "A switch...? What's our move?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_SHORTCUT_FIND_1",
+    "en": "Hm? It appears we can pass{SAUT}through there.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_SHORTCUT_FIND_2",
+    "en": "Good. This should make a fine{SAUT}shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_SHORTCUT_FIND_3",
+    "en": "Look. That should serve{SAUT}as a shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_FOE_WARNING_NEAR_",
+    "en": "Don't relax yet! The FOE is nearly{SAUT}upon us!",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_FOE_WARNING_NEAR_#2",
+    "en": "That FOE is still in pursuit...",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_FOE_WARNING_NEAR_#3",
+    "en": "Stay sharp! That FOE is still here!",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_1PERSON_HPTP10_1",
+    "en": "Ngh... I'm fine... I can{SAUT}keep... going...",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_1PERSON_HPTP10_2",
+    "en": "How did this happen...?{SAUT}I was too careless...",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_1PERSON_HPTP10_3",
+    "en": "I don't want to become{SAUT}a liability, but...",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_1PERSON_HP10_1",
+    "en": "Ngh... Sorry, but could I trouble you{SAUT}for some healing...?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_1PERSON_HP10_2",
+    "en": "Ngh... I'm rather low on{SAUT}health...",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_1PERSON_HP10_3",
+    "en": "Apologies, but I'm near my limit...",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_1PERSON_TP10_1",
+    "en": "I'm having difficulty keeping up...{SAUT}Apologies...",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_1PERSON_TP10_2",
+    "en": "The strain is getting to me...",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_1PERSON_TP10_3",
+    "en": "Sorry... Can we rest a moment?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_1PERSON_HP80_1",
+    "en": "We'll preserve this{SAUT}momentum, I hope?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_1PERSON_HP80_2",
+    "en": "Another testament to our growth.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_1PERSON_HP80_3",
+    "en": "C'est magnifique! Well fought.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_DUNGEON_START_1",
+    "en": "We'll leave the decision-making{SAUT}to you.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_DUNGEON_START_2",
+    "en": "Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_DUNGEON_START_3",
+    "en": "Let our exploration commence!",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_QUEST_START_1",
+    "en": "Let's move.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_QUEST_START_2",
+    "en": "Now, to the mission!",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_QUEST_START_3",
+    "en": "Let's get started, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_TOUHA_25_1",
+    "en": "We've only just begun.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_TOUHA_25_2",
+    "en": "Let's proceed slowly, but surely.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_TOUHA_50_1",
+    "en": "I hope the responsibilities aren't{SAUT}a burden. Are you tired?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_TOUHA_50_2",
+    "en": "We've covered a good portion{SAUT}of this floor.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_TOUHA_75_1",
+    "en": "We've walked quite a distance.{SAUT}How is everyone's health?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_TOUHA_75_2",
+    "en": "I'm starting to see the full picture...",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_TOUHA_100_1",
+    "en": "I daresay we won't be getting lost{SAUT}on this floor again.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_TOUHA_100_2",
+    "en": "I see we were right to put you{SAUT}in charge.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_MAPPING_ICON_ALL_",
+    "en": "Yes, that all looks familiar.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_MAPPING_ICON_ALL_#2",
+    "en": "Ah, yes... I do remember that.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_MAPPING_ICON_KAID",
+    "en": "Now we'll always know the way{SAUT}to the stairs.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_MAPPING_ICON_KAID#2",
+    "en": "So this leads to the next floor,{SAUT}does it?",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_MAPPING_CHANGE_CO",
+    "en": "Oh...? You've a good sense for this.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_MAPPING_CHANGE_CO#2",
+    "en": "A novel idea indeed.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_MAPPING_ICON_DEL_",
+    "en": "Almost refreshing.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_MAPPING_ICON_DEL_#2",
+    "en": "An exemplary feat of cartography.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_MAPPING_MEMO_1",
+    "en": "Good. Now you won't forget.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_MAPPING_MEMO_2",
+    "en": "That should prove useful.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_DOOR_OPEN_1",
+    "en": "Let's proceed.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_DOOR_OPEN_2",
+    "en": "Now, forward.",
+    "fr": ""
+  },
+  {
+    "id": "MITURU_DOOR_OPEN_3",
+    "en": "Come.",
+    "fr": ""
+  }
+]

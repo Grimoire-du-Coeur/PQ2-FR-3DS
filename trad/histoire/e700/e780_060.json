@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Theodore",
+    "en": "Ah, welcome.{PAGE}I'd like to introduce a new item{SAUT}I'll be stocking here. May I have{SAUT}your attention?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Hey, sure. Let's see it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "Presenting the {f 4 4 4 0 1333}.{PAGE}In theory, they'll be remarkably useful.{SAUT}Using one will allow you to instantly{SAUT}{f 0 1 2}escape from the labyrinths{f 0 1 0}.{PAGE}It is my sincere hope that these{SAUT}will help your exploration efforts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Theodore",
+    "en": "Here, perhaps you'd like a sample.{SAUT}The first is, as they say, a freebie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "What!? You mean if we use this,{SAUT}we can just... poof back to{SAUT}the theater!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "We might as well buy some extras.{SAUT}A good escape plan is vital to{SAUT}any operation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Theodore",
+    "en": "If you find them useful, please,{SAUT}come purchase some more later.",
+    "fr": ""
+  }
+]

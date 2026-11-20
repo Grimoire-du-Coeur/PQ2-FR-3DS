@@ -1,0 +1,176 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Whew! We managed to slip past that{SAUT}thing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "To think something like that is{SAUT}wandering around here...{SAUT}What is this place, truly?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Kamoshidaman's city... I believe it{SAUT}was called \"Kamo City\" by the{SAUT}police officer earlier.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Kamo City, eh... Seriously, what do you{SAUT}think of that name?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "It sickens me.{OPTION}It's too on the nose.{OPTION}I don't really care.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Right? Seriously, to hell with a city{SAUT}named after Kamoshida!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "It's literally an entire city for Kamoshida,{SAUT}right? Seriously, to hell with that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "What! Are you shittin' me? It's an entire{SAUT}city named after Kamoshida―that name{SAUT}alone is the worst!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "Kamoshida... If I recall correctly, he's{SAUT}a former teacher at Shujin High, no?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "Yeah―he was the coach of the{SAUT}volleyball team. A whole lot of people{SAUT}got abused by him over the years...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "...And it wasn't just physical abuse,{SAUT}either.{PAGE}We almost got expelled by him, and{SAUT}Panther went through an even worse{SAUT}hell...{PAGE}He was the worst piece of shit who saw{SAUT}himself as some kinda king and just did{SAUT}whatever he wanted.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "A criminal with distorted desires―the{SAUT}first target of the Phantom Thieves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "So, that bastard... You're tellin' me{SAUT}he's some sorta superhero here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "There's just... no way! This can't be{SAUT}happening!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akechi",
+    "en": "I can understand how you two feel, but{SAUT}we need to keep our wits about us here.{PAGE}From what I've gathered so far,{SAUT}Kamoshidaman and Kamoshida{SAUT}should be two different people.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "What leads you to believe so?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "Remember what Nagi-san told us...{PAGE}How the hero character's appearance{SAUT}changed after we entered the movie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Oh yeah, she did say something like{SAUT}that.{PAGE}He wasn't Kamoshidaman before{SAUT}we came here, apparently.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yusuke",
+    "en": "So in other words, that \"hero of{SAUT}justice\" is only assuming the{SAUT}appearance of Kamoshida?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "That's my current working theory.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ann",
+    "en": "But... why Kamoshida? That's a totally{SAUT}miscast role.{PAGE}Could it be related to us coming here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akechi",
+    "en": "Well... Joker, what do you think?{PAGE}Are we somehow involved in{SAUT}the movie's hero taking on{SAUT}Kamoshida's appearance?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_022",
+    "choix": true,
+    "en": "It has to be related.{OPTION}It's just a coincidence.{OPTION}I don't know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akechi",
+    "en": "Mm, I agree.{PAGE}However, we have too few clues to be{SAUT}able to make that sort of conclusion{SAUT}yet...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akechi",
+    "en": "I won't deny that possibility―but I{SAUT}believe there's some kind of causality{SAUT}here.{PAGE}However, we have too few clues to make{SAUT}that sort of conclusion yet...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Akechi",
+    "en": "True. We have too few clues to make{SAUT}that sort of conclusion yet...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yusuke",
+    "en": "Then all we can do for now is press on.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ryuji",
+    "en": "Right! We gotta hurry up and find{SAUT}those two!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ann",
+    "en": "Yeah―let's get going!",
+    "fr": ""
+  }
+]

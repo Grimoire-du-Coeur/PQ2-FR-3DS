@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Tch, these guys just keep comin'.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Don't worry, Skull. I got good news.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Huh? Good news?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "I've gotten a pretty good handle on how{SAUT}to provide backup and use Personas{SAUT}while we're here.{PAGE}From here on, I'll be helping out too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Having you for support will be a big{SAUT}help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Yeah! We can't wait to see what you can{SAUT}do, Oracle!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Just leave it to me! I hope you're{SAUT}excited!",
+    "fr": ""
+  }
+]

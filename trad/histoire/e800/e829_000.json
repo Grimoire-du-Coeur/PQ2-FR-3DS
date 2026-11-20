@@ -1,0 +1,181 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kanji",
+    "en": "Yo, it's a dead end.{PAGE}Man this place is nuts. First it's up,{SAUT}then it's down. What's next?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, it's a puzzle for sure... Let's take a{SAUT}break.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Hero",
+    "en": "Navigators, feel free to take a break too.{SAUT}I'm sure you're tired as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "Hey, thanks! Then, if you don't mind...{PAGE}I'm gonna have a little snack. I'm starving.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Me too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Kanji",
+    "en": "Hahah, that was loud. Hey Oracle, I{SAUT}could hear that from all the way over{SAUT}here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Ugh, I want curry!{PAGE}This is your fault, Kanji! Every time I{SAUT}look at you, all I want to do is eat curry! ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "Huh? Curry? The hell you talkin' about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Your hair color, that big body ol' body{SAUT}of yours...{PAGE}You get me, don't you,{SAUT}Joker!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Uh, no.{OPTION}Sort of...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Why not!? Can't you just picture him{SAUT}eating it!?{PAGE}Yellow's the powerful one and he loves{SAUT}curry. It's elementary.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Right!? Can't you just picture him{SAUT}chowing down!?{PAGE}Yellow's the powerful one and he loves{SAUT}curry. It's a given.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Kanji",
+    "en": "Sorry, I have no idea what you guys're{SAUT}talkin' about...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ken",
+    "en": "Ohh, are you talking about{SAUT}Feather Owl?{PAGE}The yellow ranger always likes curry.{SAUT}It's kinda become a character trait{SAUT}over the years.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "Ooh, Owl is from Featherman R! I take it{SAUT}you're a fan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ken",
+    "en": "N-No... I've just heard a lot from my{SAUT}friend. I don't know much about it...{PAGE}You like Featherman, Oracle?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "Heheh... I have all the movies and tons{SAUT}of memorabilia.{PAGE}And the current series is totally...{SAUT}Whoops, I don't wanna spoil it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ken",
+    "en": "Whoa! Featherman is still going in your{SAUT}time!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "Of course! Phoenix Ranger Featherman{SAUT}is classic!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ken",
+    "en": "It is amazing, isn't it?{PAGE}I want to be just like them―brave{SAUT}enough to stand against any opponent...{PAGE}...That's what my friend was saying,{SAUT}anyway.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Come to think of it, there are five of us.{PAGE}Would you be Red, Ken? Or maybe the{SAUT}cool Black?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ken",
+    "en": "I-I'm younger than everyone, so{SAUT}I'd say Red is either Joker or{SAUT}{f 6 1 16 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_022",
+    "choix": true,
+    "en": "Phoenix Ranger!{OPTION}I wanna be Pink!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "Mwehehehe, now we're talkin'! I'll help{SAUT}you cosplay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "So we'd have Pink as the leader? Never{SAUT}seen that before!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Kanji",
+    "en": "Wh-What about me, then? Would I be{SAUT}that... Yellow guy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "Actually, you're probably the giant{SAUT}skeleton monster!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ken",
+    "en": "Well... he is big. He'd definitely be a{SAUT}challenge.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Kanji",
+    "en": "Wait, so I'm a bad guy now!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "en": "A new special screening:{SAUT}\"Learning from the Bad Guy\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

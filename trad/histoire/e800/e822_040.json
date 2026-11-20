@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Another Shadow down! Just one more{SAUT}to go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Heh, this is nothin' compared to{SAUT}stealin' Treasure!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ken",
+    "en": "Oh, so what happens to a person once{SAUT}you steal their Treasure?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "They have a change of heart.{OPTION}They turn themselves in.{OPTION}They burst into tears.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "That only happens because they feel{SAUT}guilty for what they've done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "It's because their warped desires{SAUT}disappear along with their Palace.{PAGE}Their conscience gives way to their{SAUT}guilt, so they end up confessing{SAUT}everything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "So that's a change of heart... It's{SAUT}pretty scary when you think about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "That's why we all agree on our target{SAUT}before making a move. We don't{SAUT}wanna misuse that power.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ken",
+    "en": "Misuse...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "...Ken-kun?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ken",
+    "en": "Oh, sorry. I'm just learning a lot, is all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "We'll continue the lesson later.{SAUT}Let's get going for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ken",
+    "en": "R-Right!",
+    "fr": ""
+  }
+]

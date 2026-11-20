@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "A new special screening has been{SAUT}added. It concerns...{PAGE}Finding a poor, young dinosaur{SAUT}and its mother.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "It got separated from its mom?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "The family was attacked by a predator.{SAUT}They managed to survive, but...{PAGE}The young one was wounded and{SAUT}separated from its mother.{PAGE}Please help the dinosaur and its{SAUT}mother.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "If it's wounded and separated from its{SAUT}family, we'll wanna hurry, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "It's probably really lonely right now...{PAGE}I'm sure it's scared and doesn't know{SAUT}what to do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Haru-san...{PAGE}Yeah, I want to help it too. What do you{SAUT}think, {f 6 1 30 0 0 0}-kun?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Let's go right now.{OPTION}I feel the same way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Okay then, let's get going!",
+    "fr": ""
+  }
+]

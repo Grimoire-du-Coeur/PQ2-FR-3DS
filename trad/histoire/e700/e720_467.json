@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "We made it! Well then, let's begin the{SAUT}hunt!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Whoa, look at this meat! It's... the meat{SAUT}to end all meats!!!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Chie, are you actually drooling?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Eheheh... I can't help it when something{SAUT}this delicious-looking is right in front{SAUT}of me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "Well, if Chie-senpai's a fan of it, I bet{SAUT}it'll attract that carnivore real easy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "Let's try placing it a safe distance away{SAUT}from that dinosaur and see if that lures{SAUT}it from the path.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "But, this meat's still frozen―is that{SAUT}okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "I remember hearing that carnivores have{SAUT}well-developed senses of smell for{SAUT}sniffing out their prey...{PAGE}I believe our probability of success will{SAUT}significantly increase if we heighten{SAUT}the scent, so we shouldn't use it frozen.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "Let's defrost it.{OPTION}Let's cook it.{OPTION}Let's add some Teddie to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Haru",
+    "en": "If we did that, it would indeed be more{SAUT}fragrant... but, considering how big it is,{SAUT}defrosting is going to take a lot of time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "If it reacts to smells, then why don't we{SAUT}cook the meat?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yukiko",
+    "en": "Cook―That's it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Teddie",
+    "en": "Noooo! Is there no mercy for a bear{SAUT}in this world!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "If it reacts to smells, then why don't we{SAUT}cook the meat?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah! I'm sure the dinosaur will come{SAUT}skipping towards the delicious, meaty{SAUT}scent!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Makoto",
+    "en": "There were cooking utensils in the{SAUT}freezer container, so we ought to make{SAUT}use of those.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "By the way―where are we gonna cook?{SAUT}I haven't seen a kitchen in this jungle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Um... Back at the movie theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "No! If we let them cook in an enclosed{SAUT}space, we'll all end up dead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Chie",
+    "en": "Hey! What's that supposed to mean,{SAUT}Yosuke!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yosuke",
+    "en": "*gasp* I mean, well, you know...{SAUT}U-Uhhhh...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_021",
+    "choix": true,
+    "en": "Grilling indoors is dangerous.{OPTION}The theater lacks a kitchen, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "Joker does make a good point...{PAGE}Considering how large this cut of meat{SAUT}is, it'd be difficult to cook with{SAUT}ordinary-sized flames.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "Yeah, that! It's too dangerous for indoor{SAUT}cooking! Grilling outside will be a lot{SAUT}easier, and safer...{PAGE}It'll be easier to run away, too...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akechi",
+    "en": "That's true, Joker makes a good point.{SAUT}There were no gas ranges or anything{SAUT}of that nature in the movie theater...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yosuke",
+    "en": "Yeah, yeah! We can't even do it there{SAUT}anyway, so wouldn't an outdoor setup{SAUT}be better?{PAGE}It'll be easier to run away, too...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yusuke",
+    "en": "Still, cooking outdoors includes the risk{SAUT}of starting a forest fire...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Makoto",
+    "en": "In that case, we may want to do this{SAUT}near a river, so we can douse the fire{SAUT}immediately if it gets out of hand.{PAGE}Let's look for a spot around here near{SAUT}a water source where we can cook.",
+    "fr": ""
+  }
+]

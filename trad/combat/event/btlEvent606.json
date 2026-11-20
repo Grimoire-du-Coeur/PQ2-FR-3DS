@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "Striking the enemy's weakness to gain{SAUT}an advantage... That's a clever way of{SAUT}turning the battle in our favor.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Heh! The Phantom Thieves still got{SAUT}more tricks up their sleeves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "You said it, Skull!{PAGE}Joker, if you get the chance, make sure{SAUT}you aim for an \"all-out attack\" too!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "So, what's the plan for today? We still{SAUT}got time until the next time limit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "One thing we could do is try to beef up{SAUT}in Mementos.{PAGE}But, let's decide after Lady Ann arrives.{SAUT}She texted us that she's almost here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "So sorry I'm late! The photoshoot went{SAUT}on longer than expected.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Ohhh, speak of the devil.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Hm? What's that flier for?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Oh, this? Someone gave it to me while{SAUT}I was on set.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "A high-school student film festival?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "What's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "Well, it's an event where high-schoolers{SAUT}make their own movies, screen them,{SAUT}and have them judged... I think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "I send my paintings to art exhibitions, so{SAUT}it makes sense for there to be a film{SAUT}equivalent of that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "I didn't even know that high-schoolers{SAUT}could make a movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Makoto",
+    "en": "Scriptwriting, stage direction, filming...{SAUT}To think, kids our age are doing all that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "Hey, Ryuji got all quiet for some reason.{SAUT}Did this festival blow your mind or{SAUT}something? Hmm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Nah, I just thought it sounds cool...{SAUT}Hey, why don't we check it out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "Oh? It's rare to hear such language{SAUT}from you, Ryuji.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "Right? I bet it's going to rain tomorrow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "No―it'll be a full-blown typhoon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "Argh! The hell!? I'm into movies too,{SAUT}okay!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018_5",
+    "locuteur": "Ryuji",
+    "en": "Plus, I dunno how to put it, but... I've{SAUT}got this feelin' that we hafta go see this...{PAGE}Agh, dammit! What's wrong with me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ann",
+    "en": "Uh, no point asking us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Ryuji's tantrum aside, I'm actually{SAUT}pretty curious too.{PAGE}Talking about amateur cult movies{SAUT}gets me pretty psyched.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Morgana",
+    "en": "A movie, huh? I've seen a few with{SAUT}{f 6 1 30 0 0 0}―they were pretty{SAUT}interesting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Haru",
+    "en": "Now I'm starting to feel like going to{SAUT}this too. Hey, why don't we all go{SAUT}together?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Makoto",
+    "en": "That reminds me, we've never gone to{SAUT}see one all together. This seems like{SAUT}a good opportunity.{PAGE}We've been progressing at a good pace{SAUT}recently, so why don't we take a break{SAUT}for today?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "I agree. This could provide me with{SAUT}some kind of artistic inspiration.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Futaba",
+    "en": "I wanna watch a sci-fi movie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "Uh, there's no way a high-schooler{SAUT}could make a sci-fi on their own!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ann",
+    "en": "So, {f 6 1 30 0 0 0}―what's the plan{SAUT}for today?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_028",
+    "choix": true,
+    "en": "Let's check out some movies.{OPTION}Let's take a break together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Ryuji",
+    "en": "You heard the man!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Makoto",
+    "en": "Okay, let's all go there together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Morgana",
+    "en": "Let's see―the location's printed here{SAUT}on the flier.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Haru",
+    "en": "*giggle* Let's take a breather and enjoy{SAUT}some free time together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ryuji",
+    "en": "C'mon, let's get ready, {f 6 1 30 0 0 0}!",
+    "fr": ""
+  }
+]

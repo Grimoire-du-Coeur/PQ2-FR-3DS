@@ -1,0 +1,301 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "The doors to the theaters are shining?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Margaret",
+    "en": "A short moment ago, a change seems to{SAUT}have occurred to space and time...{PAGE}Each door is connected to one of your{SAUT}worlds.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "We will serve as your guides on your{SAUT}journeys back. Have no fear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Y'know, now that we can go back an'{SAUT}all, it's kind of a bummer...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Yeah. We wanted to get home so badly,{SAUT}but now I'm just feeling a bit sad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "B-But, hey! If we want to meet again,{SAUT}won't we be able to?{PAGE}I mean, those blue doors we've been{SAUT}using are connected to all our different{SAUT}worlds, right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "O-Oh, I get it! So, we can just get in{SAUT}touch with Hikari and―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "Unfortunately, that will be impossible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Huh? Why!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Margaret",
+    "en": "This world could be likened to a special{SAUT}stage that was built for only a single{SAUT}night's performance.{PAGE}And just like a dream in the night, this{SAUT}fleeting illusion will end the moment{SAUT}you awaken.{PAGE}Everything about this world is transient,{SAUT}and will disappear from within you all{SAUT}as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "So, we won't remember anything from{SAUT}this once we leave?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Elizabeth",
+    "en": "Yes, that appears to be the case.{PAGE}Even time itself was different from{SAUT}the norm in this place...{PAGE}It could be said that the impossible was{SAUT}rendered possible here because of how{SAUT}this world functions.{PAGE}That is why the memories made here{SAUT}cannot be taken back to your own{SAUT}worlds, with their own laws of reality.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosuke",
+    "en": "Seriously...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "No... We're all going to forget each{SAUT}other?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "We'll always be close to you all.{OPTION}We'll meet again someday.{OPTION}I don't want to go back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Hikari",
+    "en": "You'll be close by?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Hikari",
+    "en": "I agree... I think we'll definitely meet{SAUT}again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Caroline",
+    "en": "Cease your whining, Inmate! Once you{SAUT}get back, we're returning to your{SAUT}rehabilitation immediately!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "I'm happy that I met and grew to be{SAUT}friends with all of you...{PAGE}We cried, we laughed, we got angry...{SAUT}All because you watched over me that{SAUT}I was able to change.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019_1",
+    "locuteur": "Hikari",
+    "en": "If this were a movie, this is the best{SAUT}ending that could ever happen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019_2",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* In that case, your performance{SAUT}was worthy of a Best Leading Actress{SAUT}award.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019_3",
+    "locuteur": "Hikari",
+    "en": "Actually, I think all of you were{SAUT}the leading actors here.{PAGE}Think about how no two people served{SAUT}the same role. If any of you weren't here,{SAUT}we couldn't have reached this ending.{PAGE}...Right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019_4",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, I suppose...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019_5",
+    "locuteur": "P3 Fem Protag",
+    "en": "No, I'm positive you're right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P4 Hero",
+    "en": "Even if our memories from here are lost,{SAUT}our bond won't ever fade away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Hero",
+    "en": "Our meeting each other here's led to{SAUT}a whole new part of myself being born...{PAGE}And that part of me isn't going{SAUT}anywhere. I know it won't{SAUT}disappear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Hikari",
+    "en": "Mmhm! I'm sure I'll continue to grow{SAUT}from here on out...{PAGE}But that doesn't scare me anymore.{SAUT}I'm sure I'll be able to move forward{SAUT}with a smile on my face.{PAGE}This is such a huge first step that I'll be{SAUT}able to take, all because you gave me{SAUT}the strength I needed...{PAGE}That's why, even if my memories are{SAUT}lost... I'll be okay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "Ah! Th-That reminds me! I almost{SAUT}forgot!{PAGE}Hey, {f 6 1 30 0 0 0}―Hikari's notebook!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ken",
+    "en": "You mean the one we were drawing{SAUT}the maps in?{PAGE}So, that originally belonged to{SAUT}Hikari-san...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Hikari",
+    "en": "Yeah. I was going to write all my{SAUT}screenplay ideas in that.{PAGE}It's a notebook I asked my dad to buy{SAUT}for me some time ago.{PAGE}When I first got here, I wasn't able to{SAUT}remember that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "This is important for your dream,{SAUT}right? That's why we've gotta give{SAUT}it back!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Hikari",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ryuji",
+    "en": "C'mon, Hikari―remember the promise{SAUT}we made?{PAGE}Y'know, if you shoot a movie one day,{SAUT}you'll invite us to watch it too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yukari",
+    "en": "Then you better be sure to take that{SAUT}notebook back with you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Naoto",
+    "en": "Yes, I believe it'll be vital to your{SAUT}efforts, Hikari-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Hikari",
+    "en": "Everyone...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031_5",
+    "locuteur": "Hikari",
+    "en": "Okay. Thank you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "en": "I returned the notebook to Hikari...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Morgana",
+    "en": "You told us that life is like a movie,{SAUT}right?{PAGE}That means the time we've spent{SAUT}together is all part of your life―your{SAUT}movie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yosuke",
+    "en": "Our bonds are etched into us, just like{SAUT}the maps drawn in that notebook, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Teddie",
+    "en": "Yep yep! I mean, everyone here is..",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Fuuka",
+    "en": "No matter where we may be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yukiko",
+    "en": "No matter when it may be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Aigis",
+    "en": "We will always be precious friends{SAUT}and companions to each other.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Koromaru",
+    "en": "Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Hikari",
+    "en": "I... I'll definitely complete my movie,{SAUT}everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Makoto",
+    "en": "I can't wait to watch it! It's a promise,{SAUT}okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041_5",
+    "locuteur": "Haru",
+    "en": "We swear we'll all go see it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Hikari",
+    "en": "Mmhm!",
+    "fr": ""
+  }
+]

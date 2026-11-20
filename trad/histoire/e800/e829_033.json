@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "There we go! That's one down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "Phew... That wasn't too bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "We barely stood a chance at first...{SAUT}We've grown a lot stronger.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Yeah, I'm even starting my growth{SAUT}spurt! Getting bigger and stronger every{SAUT}day!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Let's keep it up.{OPTION}We still have one more.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "Right. We can't let our guard down. It's{SAUT}the strongest enemy here, after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "You're right Feather-Kenken! Stay sharp!{PAGE}Go, go, Phoenix Rangers! We won't{SAUT}stop until those Tyranniqueens are{SAUT}down for the count!{PAGE}To be continued!",
+    "fr": ""
+  }
+]

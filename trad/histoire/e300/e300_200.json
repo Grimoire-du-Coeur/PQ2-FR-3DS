@@ -1,0 +1,692 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Koromaru",
+    "en": "Bark! Bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ken",
+    "en": "Did you find something, Koromaru?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "Um, what is Koromaru-san saying?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Hmm... He said, \"Arf arf!\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukari",
+    "en": "*sigh* Are you stupid? We all heard that.{PAGE}Man, I wish Aigis was here... She'd know{SAUT}what he's saying.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ribbon",
+    "en": "\"I SMELL OUR COMPANIONS HERE.{SAUT}THEY SHOULD BE UP AHEAD,\" IS WHAT{SAUT}HE SAID.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ribbon-chan, you can understand what{SAUT}Koromaru says?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ribbon",
+    "en": "YES. I HAVE BEEN PROGRAMMED WITH{SAUT}THE ABILITY TO UNDERSTAND{SAUT}MULTIPLE LANGUAGES.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ken",
+    "en": "Wow... That's the same as Aigis-san!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ribbon",
+    "en": "PLEASE COME THIS WAY.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_05",
+    "locuteur": "Ribbon",
+    "en": "BEYOND THIS DOOR IS THE RESEARCH{SAUT}LAB USED BY SPECIALIZED WORKER{SAUT}ROBOTS.{PAGE}UNITS WITH SEVERE ERRORS ARE SENT{SAUT}HERE TO BE DISMANTLED AND{SAUT}ANALYZED.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "Dismantling... You mean they tear them{SAUT}apart?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "That's even worse than dying... It's like{SAUT}they're being executed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "How do we get inside? It seems to be{SAUT}locked.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ribbon",
+    "en": "TO UNLOCK THIS DOOR, PLEASE{SAUT}COME THIS WAY.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "What's goin' on here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ribbon",
+    "en": "THESE ARE THE ENTRANCES TO THE{SAUT}INSPECTION FACILITIES FOR ALL{SAUT}MASS-PRODUCED ROBOTS.{PAGE}BEYOND EACH OF THESE ELEVATORS{SAUT}IS A SWITCH TO RELEASE THE LOCK{SAUT}ON THE LAB ENTRANCE.{PAGE}ONCE ALL THREE SWITCHES HAVE BEEN{SAUT}PRESSED, YOU WILL GAIN ENTRY TO{SAUT}THE LAB.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "What are those words printed on them?{PAGE}\"Power,\" \"Knowledge,\" and{SAUT}\"Adaptation\"... What's all{SAUT}that about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ribbon",
+    "en": "YOU WILL FACE INSPECTION BASED{SAUT}ON THOSE THREE ATTRIBUTES.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Kanji",
+    "en": "Well, I get \"Power\" and \"Knowledge,\"{SAUT}but what's the \"Adaptation\" one?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ribbon",
+    "en": "IT IS AN EXAM DETERMINING ONE'S{SAUT}ABILITY TO PERFORM DUTIES, EVEN{SAUT}UNDER EXTREME CIRCUMSTANCES.{PAGE}UNLESS ALL THREE STANDARDS ARE{SAUT}MET, YOU WILL BE DESIGNATED AS{SAUT}DEFECTIVE AND DENIED ENTRY.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Mitsuru",
+    "en": "Basically, they're similar to vocational{SAUT}ability tests and qualifying exams.{SAUT}It seems this won't be easy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "Do you think you could pass these{SAUT}exams, Ribbon-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ribbon",
+    "en": "I BELIEVE MY PROBABILITY IS LOW,{SAUT}CONSIDERING HOW I WAS DESIGNATED{SAUT}ERRONEOUS DUE TO IRREGULARITIES.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P4 Hero",
+    "en": "But, getting past this is our only way...{SAUT}Is it even safe for humans to go in there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ribbon",
+    "en": "THERE IS NO DATA ON THAT.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yukiko",
+    "en": "I suppose that makes sense―there aren't{SAUT}any humans in this world. So, what{SAUT}should we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P3 Fem Protag",
+    "en": "We'll just have to go in―even if we don't{SAUT}know what'll happen. Don't worry,{SAUT}we're gonna blow those exams away!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Junpei",
+    "en": "Whoa, now that's confidence...{SAUT}But seriously, how gutsy are you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "Ah, a claim befitting a phantom thief!{PAGE}We've gotten through countless scrapes{SAUT}like these with the exact same attitude!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Naoto",
+    "en": "I'd expected infiltration to be your forte.{SAUT}We should definitely turn to the Phantom{SAUT}Thieves for guidance on this mission.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "P3 Fem Protag",
+    "en": "Then we've got our orders! Everyone,{SAUT}time to roll out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Shinjiro",
+    "en": "Ha... Talk about one helluva tomboy{SAUT}we've got here.{PAGE}Well, mullin' over shit ain't my thing,{SAUT}either. Let's get in there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Akihiko",
+    "en": "I hear you―standing around here{SAUT}chatting all day isn't going to do us{SAUT}any good. Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Mitsuru",
+    "en": "Seriously, you two...{PAGE}However, they do have a point: we{SAUT}don't have any time to waste. How{SAUT}should we handle these exams?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_035",
+    "choix": true,
+    "en": "How about one at a time?{OPTION}Let's split up into three groups.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Akechi",
+    "en": "That would be too inefficient...{SAUT}Wouldn't it just waste more of{SAUT}our time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yukiko",
+    "en": "How about we split up into three{SAUT}groups, then?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Mitsuru",
+    "en": "Indeed―let's do that. It'd be much more{SAUT}efficient than the alternative.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Akihiko",
+    "en": "I'll handle the \"Power\" exam. Are you{SAUT}good with that one too, Shinji? Junpei?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Shinjiro",
+    "en": "Quit makin' decisions for me, moron.{PAGE}Tch... Fine. I guess I'll give you a hand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Junpei",
+    "en": "No objections here, either! A man's gotta{SAUT}take challenges like this head-on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Yukiko",
+    "en": "Kanji-kun is a \"Power\" type too, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Kanji",
+    "en": "Right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Teddie",
+    "en": "Ooh, I know! I'll accompany Chie-chan{SAUT}to the \"Power\" exam!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Chie",
+    "en": "You're volunteering me!? But, there{SAUT}aren't any other girls on the team!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Yosuke",
+    "en": "Well, \"Knowledge\" and \"Adaptation\"{SAUT}aren't exactly your strong suits...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Chie",
+    "en": "Wha―Aw, man... I can't argue{SAUT}with that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Ryuji",
+    "en": "Oh, then if that's how we're deciding,{SAUT}I'll go to \"Power\" too. No other choice{SAUT}for me here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Makoto",
+    "en": "I suppose Oracle and I should take on{SAUT}the \"Knowledge\" exam? I'm confident{SAUT}with any simple intelligence problems...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Mitsuru",
+    "en": "I'll choose \"Knowledge\" as well. I've{SAUT}studied the general matters of{SAUT}imperial governance.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Morgana",
+    "en": "Don't forget about me! I'm the brains{SAUT}of the Phantom Thieves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Yosuke",
+    "en": "Then I count for \"Knowledge\" too!{SAUT}I'm the chief of operations for the{SAUT}Investigation Team, y'know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Yukiko",
+    "en": "Huh? Really? Since when?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Yosuke",
+    "en": "Since the first day, dammit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Naoto",
+    "en": "Allow me to go to \"Knowledge\" as well.{SAUT}I may be of some use.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Akechi",
+    "en": "I'll go there as well. It may not be{SAUT}obvious, but I'm a detective in training{SAUT}all the same.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Yukiko",
+    "en": "Then the last one is \"Adaptation\"...{PAGE}I think I can manage that, since I deal{SAUT}with customers every day.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Yusuke",
+    "en": "Ha... I'm quite confident when it comes{SAUT}to adaptability as well.{PAGE}My creativity shines no matter the{SAUT}circumstances I'm in, and I manage to{SAUT}feed myself even when I have no money.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Makoto",
+    "en": "I think you could use a bit more{SAUT}common sense... Anyway, Fox goes{SAUT}to \"Adaptation.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Ann",
+    "en": "Mind if I join in? I've lived both overseas{SAUT}and in Japan, so I think my adaptability{SAUT}is pretty solid.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Haru",
+    "en": "I'll go to \"Adaptation\" as well. I think I'd{SAUT}be a better fit there than with the{SAUT}other options.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Ken",
+    "en": "Koromaru and I will go that way too.{SAUT}That'll balance out the number of{SAUT}people.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Yukari",
+    "en": "I think I'll go to \"Adaptation\" too.{SAUT}I'm in the archery club, so I think my{SAUT}focus will come in handy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Futaba",
+    "en": "Where do you want to go, Ribbon?{SAUT}Are you proficient in any of these?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Ribbon",
+    "en": "I AM AN AVERAGE, GENERAL-PURPOSE{SAUT}UNIT.{PAGE}THUS, I HAVE NO SPECIALIZED SKILLS.{SAUT}WHAT SHOULD I DO?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_067",
+    "choix": true,
+    "en": "Come with me.{OPTION}Choose whichever you prefer.{OPTION}Wait for us here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Futaba",
+    "en": "I'd feel better if you were with her,{SAUT}Joker. You take care of that lil' bot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Ribbon",
+    "en": "JOKER-SAN, I AM IN YOUR CARE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Ribbon",
+    "en": "WHAT I PREFER? I HAVE NO DESIRE{SAUT}IN PARTICULAR REGARDING THIS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Morgana",
+    "en": "Then, wouldn't it be safest for her to{SAUT}stay with Joker? He is our Leader{SAUT}and everything!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Futaba",
+    "en": "Ah, I'd feel better that way too. Take{SAUT}care of that lil' bot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Ribbon",
+    "en": "UNDERSTOOD. I AM IN YOUR CARE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_074",
+    "locuteur": "Ann",
+    "en": "It's too dangerous to leave her here by{SAUT}herself. Those robots are hunting{SAUT}her down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_075",
+    "locuteur": "Morgana",
+    "en": "Then, wouldn't it be safest for her to{SAUT}stay with Joker? He is our Leader{SAUT}and everything!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_076",
+    "locuteur": "Futaba",
+    "en": "Ah, I'd feel better that way too. Take{SAUT}care of that lil' bot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_077",
+    "locuteur": "Ribbon",
+    "en": "UNDERSTOOD. I AM IN YOUR CARE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_078",
+    "locuteur": "Akechi",
+    "en": "Joker, {f 6 1 12 0 0 0}-kun, and{SAUT}{f 6 1 26 0 0 0}-san are the only{SAUT}ones left...{PAGE}This is just an idea, but what if we have{SAUT}them act as the three teams' leaders?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_079",
+    "locuteur": "Ann",
+    "en": "Oh, yeah... Joker has to join one of{SAUT}the teams too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_080",
+    "locuteur": "Teddie",
+    "en": "Sensei is always our leader, so he'd be{SAUT}a perfect actor for the role!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_081",
+    "locuteur": "Yosuke",
+    "en": "Right―I can definitely vouch for his{SAUT}leadership. Isn't that right, partner?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_082",
+    "locuteur": "Akechi",
+    "en": "How about you, {f 6 1 26 0 0 0}-san?{SAUT}Would you be all right with acting as{SAUT}a team leader?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_083",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh―I don't mind, if it's okay with{SAUT}everyone else...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_084",
+    "locuteur": "P4 Hero",
+    "en": "This is just my own opinion, but I think{SAUT}{f 6 1 27 0 0 0}-san is well-suited for{SAUT}being a leader.{PAGE}She seems to understand the SEES{SAUT}members well, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_085",
+    "locuteur": "Haru",
+    "en": "Mmhm, I thought the same. She seems{SAUT}quite deft at dealing with everyone's{SAUT}personalities.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_086",
+    "locuteur": "Yukari",
+    "en": "Um... What should we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_087",
+    "locuteur": "Junpei",
+    "en": "It's more than fine by me. Having a girl{SAUT}leader is like a dream!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_088",
+    "locuteur": "Akihiko",
+    "en": "No issues from me either. If anything{SAUT}were to go down during the exam, all{SAUT}I'd have to do is provide her backup.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_089",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_090",
+    "locuteur": "Ken",
+    "en": "I agree. It almost feels natural to see{SAUT}her as a leader...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_091",
+    "locuteur": "Mitsuru",
+    "en": "That's true... If it's all right by you, would{SAUT}you agree to lead us, {f 6 1 26 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_092",
+    "locuteur": "P3 Fem Protag",
+    "en": "Th-Thank you! Please... leave it to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_093",
+    "locuteur": "Shinjiro",
+    "en": "Don't push yourself too hard. It ain't like{SAUT}we don't believe in you or nothin'―just{SAUT}don't wanna see you get hurt.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_094",
+    "locuteur": "P3 Fem Protag",
+    "en": "Sure!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_095",
+    "locuteur": "Morgana",
+    "en": "All that's left is where you're gonna go,{SAUT}Joker. Which exam do you prefer?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_096",
+    "choix": true,
+    "en": "\"Power.\"{OPTION}\"Knowledge.\"{OPTION}\"Adaptation.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_097",
+    "locuteur": "Akihiko",
+    "en": "Oh? Confident in your physical strength,{SAUT}are ya? Alright, then let's put your skills{SAUT}up against Shinji's and mine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_098",
+    "locuteur": "Shinjiro",
+    "en": "Stop draggin' me into your childish shit!{SAUT}Go put your skills up yourself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_099",
+    "locuteur": "Ribbon",
+    "en": "I UNDERSTAND. I WILL ACCOMPANY{SAUT}YOU TO \"POWER.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_100",
+    "locuteur": "P4 Hero",
+    "en": "Well then, I'll go to \"Knowledge.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_101",
+    "locuteur": "P3 Fem Protag",
+    "en": "And I'll go to \"Adaptation.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_102",
+    "locuteur": "Yosuke",
+    "en": "Ooh? Are you the advisor-type too?{SAUT}An advisory leader sounds so cool!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_103",
+    "locuteur": "Makoto",
+    "en": "Ah, I don't think those two are{SAUT}compatible with each other...{SAUT}Will we really be okay like this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_104",
+    "locuteur": "Ribbon",
+    "en": "I UNDERSTAND. I WILL ACCOMPANY{SAUT}YOU TO \"KNOWLEDGE.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_105",
+    "locuteur": "P4 Hero",
+    "en": "Well then, I'll go to \"Power.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_106",
+    "locuteur": "P3 Fem Protag",
+    "en": "And I'll go to \"Adaptation.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_107",
+    "locuteur": "Ann",
+    "en": "Yeah, you really are quite versatile.{SAUT}I can picture you managing pretty{SAUT}much anywhere.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_108",
+    "locuteur": "Futaba",
+    "en": "Yeah―he got used to living in the attic{SAUT}of Leblanc pretty fast!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_109",
+    "locuteur": "Ribbon",
+    "en": "I UNDERSTAND. I WILL ACCOMPANY{SAUT}YOU TO \"ADAPTATION.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_110",
+    "locuteur": "P4 Hero",
+    "en": "Well then, I'll go to \"Power.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_111",
+    "locuteur": "P3 Fem Protag",
+    "en": "And I'll go to \"Knowledge.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_112",
+    "locuteur": "Morgana",
+    "en": "All right, we have three teams now.{SAUT}Best of luck to everyone...{PAGE}Once we've each successfully pressed{SAUT}the button, let's gather back here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_113",
+    "locuteur": "Fuuka",
+    "en": "It looks like we navigators aren't gonna{SAUT}be able to reach you during the exams{SAUT}due to the extra-tight security.{PAGE}Please be careful, everybody!",
+    "fr": ""
+  }
+]

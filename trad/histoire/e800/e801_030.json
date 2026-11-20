@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "All right, we're halfway there!{SAUT}We should be finished soon if we keep{SAUT}this pace.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Yeah, I'm definitely warmed up now.{SAUT}Let's get this done quick.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Yo, do Queen and Noir look a bit more{SAUT}geared up than usual?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Now that you mention it...{OPTION}They look the same to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Yeah, I was thinking the same thing!{PAGE}They seem really motivated, like they're{SAUT}bursting with energy or something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Hmm. They're usually pretty serious,{SAUT}but they look even more so today...{PAGE}Don't they seem, I dunno... motivated?{SAUT}Like they're bursting with energy or{SAUT}something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Hmm... It is a little strange.{PAGE}I doubt they'd go on a rampage like{SAUT}Skull would, but they do seem more{SAUT}driven than before.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Hey! I'm right here, cat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Anyway, it might be a good idea to{SAUT}keep an eye on them, Joker.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "Um... Any reason you guys are staring{SAUT}at us and whispering to each other?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Huh? O-Oh, uh, it's nothing. We were{SAUT}just noticing how motivated you two{SAUT}are.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "Yeah, it was nothing.{PAGE}He was just worried that you two were{SAUT}so motivated, you might go on a{SAUT}rampage!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "Don't just blurt that out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Makoto",
+    "en": "...Now I get it. Hehe, sorry to worry you.{PAGE}I'm fine, though. I don't plan on going{SAUT}crazy or anything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Haru",
+    "en": "Mhm, I'm okay too. I'm just really in the{SAUT}mood to move around right now.{PAGE}I was feeling pretty cramped after being{SAUT}tied up for so long. This should be just{SAUT}what I need.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kanji",
+    "en": "You two are really goin' for it! I'm with{SAUT}you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Teddie",
+    "en": "Ooh! Me too! I'll show everyone just{SAUT}how extraordin-bear-y I can be!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Good grief... Well, I'm glad everyone's{SAUT}motivated, but try not to overdo it,{SAUT}all right?",
+    "fr": ""
+  }
+]

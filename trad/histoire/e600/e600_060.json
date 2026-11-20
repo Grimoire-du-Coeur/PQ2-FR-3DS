@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "What a great movie, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_01",
+    "en": "And now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_02",
+    "en": "We'd like for the preceding movie's{SAUT}director to take the stage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "en": "Everyone, please welcome her{SAUT}with a warm round of applause.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "Allow me to introduce her...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_01",
+    "en": "She depicted her own struggles in the film{SAUT}\"New Cinema Labyrinth.\" Her name is―",
+    "fr": ""
+  }
+]

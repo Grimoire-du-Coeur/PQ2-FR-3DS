@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Guys! I'm sensing the herd of herbivores{SAUT}just on the other side of this door!{PAGE}But, something seems odd about them...{SAUT}I wonder, could something be wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "Ah, geez... Looks like we'd better be{SAUT}careful.{PAGE}Joker, are we really ready to go?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Things might get dangerous past here.{SAUT}You think we're ready to go?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Let's go.{OPTION}I need a moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Alright―let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "Gotcha. Nothin' to lose from getting{SAUT}as ready as possible.",
+    "fr": ""
+  }
+]

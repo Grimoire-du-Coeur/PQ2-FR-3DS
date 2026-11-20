@@ -1,0 +1,278 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Ah... Quite a different atmosphere from{SAUT}the previous film.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "This one seems to be a sci-fi movie―but,{SAUT}that trailer left a rather bad aftertaste.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Bein' different's evil, huh? What bullshit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "So, individuality is inexcusable...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "What's wrong?{OPTION}What's up, Futaba?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "O-Oh, it's nothing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Nagi",
+    "en": "Say, Hikari-san: what are your feelings{SAUT}on this movie so far?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "That robot's being treated so badly...{SAUT}all for being different... Even being{SAUT}called \"evil\"...{PAGE}If it just tried to be the same as everyone{SAUT}else... couldn't it avoid all that trouble?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Huh!? Do you really think that, Hikari?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "Ohhh nooo... Everybody has to be{SAUT}the same...{PAGE}Then, why do I exist as Teddie instead?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Teddie...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "Sensei and Yosuke and everybody else{SAUT}are all different, and I like each of them{SAUT}for who they are...{PAGE}So it just... makes me so sad that they all{SAUT}should be the same instead! Waaaaah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "He's got the right idea! Teddie is Teddie,{SAUT}and I'm me―just like it should be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Hikari",
+    "en": "I, ah...{PAGE}It'd just be better if I didn't stick out...{SAUT}I need to act normal and blend in{SAUT}with society...{PAGE}That's what I always thought... until now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "...And now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Hikari",
+    "en": "Watching all of you in those movies...{SAUT}I started to feel like I might have been{SAUT}wrong...{PAGE}But, I'm not sure. I can't tell anymore...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "Ah, I see...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Chie",
+    "en": "Aaaaalright! Let's get up in that movie!{PAGE}The sooner we change it, the sooner{SAUT}we're outta here! It's time to revise{SAUT}this crappy plot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "Right! And, if we do that, Hikari may{SAUT}not feel so confused about her feelings{SAUT}either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hang on, everyone! There's something{SAUT}you should hear before we jump into{SAUT}the movie...{PAGE}The main robot in that trailer was{SAUT}familiar to me―the same goes for{SAUT}the title, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "What do you mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "That robot with the ribbon looked like{SAUT}a friend of mine... Her name is Aigis.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "Isn't that also the movie's title?{OPTION}You're friends with a robot?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Haru",
+    "en": "The movie trailer pronounced the title{SAUT}as \"A-I-gis,\" but you pronounced it as{SAUT}\"AI-gis\"?{PAGE}So, the \"AI\" part stands for artificial{SAUT}intelligence, but the \"GIS\" part...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm, and my friend's name is spelled{SAUT}the exact same way. I can't imagine{SAUT}that's mere coincidence.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Teddie",
+    "en": "Never mind that―you're friends with{SAUT}a robot!? I can bearly believe it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "Yeah, this is really taking a turn{SAUT}for the strange.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yosuke",
+    "en": "Did you two actually just say that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Teddie",
+    "en": "You're friends with a robot!? I can{SAUT}bearly believe it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Morgana",
+    "en": "Yeah, this is really taking a turn{SAUT}for the strange.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Yosuke",
+    "en": "Did you two actually just say that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Haru",
+    "en": "The movie trailer pronounced the title{SAUT}as \"A-I-gis,\" but you pronounced it as{SAUT}\"AI-gis\"?{PAGE}So, the \"AI\" part stands for artificial{SAUT}intelligence, but the \"GIS\" part...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm, and my friend's name is spelled{SAUT}the exact same way. I can't imagine{SAUT}that's mere coincidence.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "P3 Fem Protag",
+    "en": "It's true that Aigis is a robot, but we{SAUT}don't think of her any differently{SAUT}than we do the rest of our friends.{PAGE}She has her own identity, and her own{SAUT}opinions, too. We treat her like{SAUT}our companion, not just a robot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Hikari",
+    "en": "A companion... with an identity...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Akechi",
+    "en": "So, what we've determined thus far is,{SAUT}someone we know has been cast into{SAUT}this movie as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Naoto",
+    "en": "Indeed. First, Kamoshidaman's world;{SAUT}then, Yosukesaurus' world.{PAGE}It only makes sense that the same would{SAUT}occur with this third movie, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ann",
+    "en": "Well, maybe third time's the charm and{SAUT}{f 6 1 27 0 0 0}-chan's companions are{SAUT}in this one, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P3 Fem Protag",
+    "en": "You think so too!? Then, let's hurry up{SAUT}and find them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Nagi",
+    "en": "So, you're determined to edit the movie{SAUT}once more...{PAGE}If you sense that you are in any danger,{SAUT}please return here immediately.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "P3 Fem Protag",
+    "en": "Of course! We'll be on our way now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Elizabeth",
+    "en": "...Theo. Your guest wishes to reconvene{SAUT}with her companions most earnestly.{PAGE}During times such as these―*munch{SAUT}munch* What do you believe would be{SAUT}the best course to take?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Theodore",
+    "en": "We'll just have to watch over her.{SAUT}That's all we can do...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Elizabeth",
+    "en": "Then―*munch munch* Let us focus on{SAUT}observing them closely, with popcorn{SAUT}in hand... *munch munch*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Theodore",
+    "en": "Sister... Could you please focus on either{SAUT}eating or talking, and not doing both{SAUT}at the same time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Hikari",
+    "en": "Everyone... Please come back safe...",
+    "fr": ""
+  }
+]

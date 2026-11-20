@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "It seemed we had reached a dead end...{SAUT}We began thinking it may be best to{SAUT}turn back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "locuteur": "P3 Fem Protag",
+    "en": "...I was trying to sound like the narrator{SAUT}you always hear in movies. Could you{SAUT}tell?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Uhh, I think it was a little too subtle...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Aww, I've gotten used to this place, so I{SAUT}wanted to say something fitting...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "*giggle* Now that you mention it,{SAUT}movies are often interjected with some{SAUT}form of narration.{PAGE}Considering we're the ones in the{SAUT}movie, it's only natural we can't hear{SAUT}such things on our end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "I'm interested in seein' how we look{SAUT}from the theater seats.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_1",
+    "locuteur": "Ryuji",
+    "en": "I bet I look like some kinda Shadow{SAUT}bashin' superstar...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "No need to worry. I watched you earlier.{SAUT}You were still the same old thug you{SAUT}usually are.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Wha―!? Hey!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "Listen up, the characters that really{SAUT}shine on the screen are those{SAUT}overflowing with courage. Like me!{PAGE}Everyone's charmed by how I cut down{SAUT}my enemies and give my all to protect{SAUT}the woman I love.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukiko",
+    "en": "However, he had yet to realize...{PAGE}The viewers were actually charmed by{SAUT}his cute tail, pointy ears, and furry{SAUT}paws...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "What!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "I tried adding some narration too. How{SAUT}was it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "Haha, that's a fun game to play. I bet{SAUT}it'd help boost our creativity.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukiko",
+    "en": "The man laughed... but behind his{SAUT}smile, there hid a terrible secret.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "Hm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "That secret was...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014_1",
+    "locuteur": "Yukiko",
+    "en": "......{PAGE}...I wonder what it would be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "You didn't think one up!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yukiko",
+    "en": "Following his retort, the cat thought,{SAUT}\"We should probably get going...\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "I am NOT a cat!",
+    "fr": ""
+  }
+]

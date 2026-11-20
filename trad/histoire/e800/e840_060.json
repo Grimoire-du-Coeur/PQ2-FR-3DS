@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "There are the fruits! Boy, they look{SAUT}delicious!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Looks like they're around these dead{SAUT}ends.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "Elizabeth informed us that there are{SAUT}four locations in total.{PAGE}There are three areas remaining.{SAUT}Let us proceed while watching for{SAUT}Shadows.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "All right, that's the second one. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Sure is hard to find these without any{SAUT}hints. And the next one could be worse.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "Don't get too anxious. It has to be{SAUT}somewhere.{PAGE}There are only two more locations. Let's{SAUT}keep going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "This is the third! Only one more to go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mitsuru",
+    "en": "*chuckle* It's a strange feeling.{PAGE}Instead of running around like crazy,{SAUT}I'm walking and thinking to myself,{SAUT}\"Ah, what a nice little stroll this is.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "Indeed... It's relaxing. We should thank{SAUT}Elizabeth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Hero",
+    "en": "I doubt she put that much thought into{SAUT}this, but let's enjoy it while we can.{PAGE}The next one is going to be the last.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Aaaand that's the last one! Thus ends{SAUT}the dangerous fruit-collecting mission!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ken",
+    "en": "We walked a long way, and I don't even{SAUT}feel tired.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Koromaru",
+    "en": "Bark bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says he's happy that he{SAUT}didn't have to beg to go on a walk.{PAGE}But we must head back now. Elizabeth{SAUT}is waiting for our return.",
+    "fr": ""
+  }
+]

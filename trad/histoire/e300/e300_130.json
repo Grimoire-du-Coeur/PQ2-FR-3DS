@@ -1,0 +1,410 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "There's no sign of Aigis or our leader...{SAUT}Where could they have gone?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "Same goes for the robot that looks like{SAUT}Aigis―and she's supposed to be the key{SAUT}to changing this movie...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "You guys had been searchin' all over{SAUT}here when we ran into you, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "That's correct. However, our findings{SAUT}were extremely limited...{PAGE}There were mechanisms and obstacles{SAUT}everywhere―we had reached our wits'{SAUT}end by the time we met you.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Well, let's just keep moving.{OPTION}Let's be careful going forward.{OPTION}That's a real pain...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "If they were at their wits end, then we{SAUT}ought to think things through here,{SAUT}rather than blindly charge ahead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "Now that's our leader. Caution is crucial{SAUT}to being a detective as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "If only we could get some useful{SAUT}information from somebody...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "But, who? We've only met robots so far{SAUT}in this movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "Lemme just make this crystal-clear:{SAUT}no seeking intel from the large,{SAUT}dog-shaped robots. Got it?{PAGE}It'd be best to find an unarmed intel{SAUT}source, so they won't attack us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "Hmm... Where could we find a robot{SAUT}to speak with?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Koromaru",
+    "en": "Arf! Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Shinjiro",
+    "en": "Hm? What're you barkin' at?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ken",
+    "en": "Oh, look over there! It's a weak-looking{SAUT}robot, all by itself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Makoto",
+    "en": "Oh, you're right. I'll attempt to{SAUT}question it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Queen... Are you sure? Won't it just get{SAUT}all suspicious right away, like with that{SAUT}cop from before―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Makoto",
+    "en": "I-I'll do better this time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "Well then, please be careful. We'll be{SAUT}watching from here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Makoto",
+    "en": "Ah, excuse me... There's something{SAUT}I'd like to ask you―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Patrol Robot",
+    "en": "BREAK IS AT 1500.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Makoto",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Patrol Robot",
+    "en": "TODAY'S PRODUCTION RATE IS{SAUT}CURRENTLY 80%. 2% DECREASE{SAUT}FROM YESTERDAY'S AVERAGE―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Makoto",
+    "en": "Um, that's not what I wanted to{SAUT}ask about―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Patrol Robot",
+    "en": "5 CASES OF ERROR CORRECTION.{SAUT}21 CASES OF SCRAP TREATMENT...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Makoto",
+    "en": "It's no good... I can't communicate{SAUT}with it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Mitsuru",
+    "en": "It certainly seems that way. I believe{SAUT}we'd only be wasting time trying to{SAUT}speak to this robot any longer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Fuuka",
+    "en": "This isn't anything like how it went{SAUT}with Aigis...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Ann",
+    "en": "Hey, guys! What do you think that is{SAUT}on the LCD screen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Naoto",
+    "en": "It seems to be an order demanding an{SAUT}increase in the robots' production rate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Haru",
+    "en": "Who could that be on there? It says,{SAUT}\"Great Overseer\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Junpei",
+    "en": "W-Wait a sec! I feel like I've seen that{SAUT}long hair and pair of glasses before...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yukari",
+    "en": "No matter how you look at it, that's{SAUT}definitely Ikutsuki-san...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yukiko",
+    "en": "Is that someone you know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm. He's the chairman of the board{SAUT}at Gekkoukan High and the club advisor{SAUT}of SEES...{PAGE}But, why's our chairman the overseer{SAUT}of a robot world in this movie?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "Because he's a big robot fan?{OPTION}Did he enter the movie with you?{OPTION}He was likely cast into the role.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Ken",
+    "en": "Um, Fuuka-san, maybe, but him? I've{SAUT}never heard anything of the sort...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Makoto",
+    "en": "Then, it'd make the most sense to{SAUT}consider this another example of{SAUT}the movie's casting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Mitsuru",
+    "en": "No... He wasn't with us before we{SAUT}arrived here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P3 Fem Protag",
+    "en": "I was alone too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Makoto",
+    "en": "Then, it'd make the most sense to{SAUT}consider this another example of{SAUT}the movie's casting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Makoto",
+    "en": "I agree. This seems to be yet another{SAUT}example of the movie's casting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Mitsuru",
+    "en": "Casting, you say?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Makoto",
+    "en": "Individuals somehow tied to all of us{SAUT}people in the theater world have{SAUT}appeared as characters in the movies...{PAGE}Theater 1 was Kamoshidaman,{SAUT}Theater 2 was Yosukesaurus...{PAGE}Take a closer look at his image. Doesn't{SAUT}it look more like something created with{SAUT}CGI, rather than a real person?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Fuuka",
+    "en": "Oh, you're right!{PAGE}And, now that I think about it, the{SAUT}Chairman does wear glasses, but not{SAUT}sunglasses like those.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Akihiko",
+    "en": "So you're saying that robot that looks{SAUT}like Aigis, from the trailer―that's part{SAUT}of this \"casting\" too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "P4 Hero",
+    "en": "Most likely. In the movie we had{SAUT}appeared within, Yosuke had been cast{SAUT}as a dinosaur, but with his own head.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Yosuke",
+    "en": "It looked less like casting and more like{SAUT}a bizarre collage to me―I really lost it{SAUT}the first time I saw him...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Ken",
+    "en": "Well, the Chairman is sort of like{SAUT}a guardian to us...{PAGE}If you take that into consideration, his{SAUT}casting as the overseer here isn't all that{SAUT}strange.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Yukari",
+    "en": "Would this fake Ikutsuki-san know{SAUT}where our leader and Aigis are?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Akechi",
+    "en": "They may look similar, but their actual{SAUT}identities are completely different.{SAUT}Don't bank on him being on our side.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Ryuji",
+    "en": "Oh yeah... If this guy's the big cheese{SAUT}around here...{PAGE}Doesn't that mean he's the one givin'{SAUT}these orders to eliminate individuality{SAUT}and all that shit?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Kanji",
+    "en": "He'd have to be pretty messed up in the{SAUT}head to do somethin' like that. So, what{SAUT}are we gonna do about it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Futaba",
+    "en": "If he's supervising the robots, there has{SAUT}to be some kind of facility like a security{SAUT}complex or a control center.{PAGE}Why don't we try looking for a place{SAUT}like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Ann",
+    "en": "It sounds better to me than just{SAUT}wandering around and getting lost.{SAUT}So, where could that facility be?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Akechi",
+    "en": "If there is a management facility, I'd{SAUT}imagine it's some sort of central hub...{SAUT}Possibly the innermost part of this city?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Morgana",
+    "en": "Hm... Joker, should we try looking for a{SAUT}facility in the central part of the city?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_058",
+    "choix": true,
+    "en": "Sounds like a plan.{OPTION}Fine by me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Teddie",
+    "en": "Alrighty then! It's time to bear-rel ahead{SAUT}to our next destination!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Chie",
+    "en": "Ah―Hey! Teddie! Don't go running off{SAUT}like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Shinjiro",
+    "en": "...What's up, Mitsuru?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Mitsuru",
+    "en": "I was just thinking about {f 6 1 26 0 0 0}...{PAGE}She even knew about the Chairman...{SAUT}Just who could she be?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Shinjiro",
+    "en": ", huh? Well, she doesn't{SAUT}seem to be lyin'...{PAGE}She is tryin' to act brave, though.{SAUT}Probably out of consideration for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Mitsuru",
+    "en": "Yes, and I do feel awful about that.{SAUT}However, we haven't an inkling{SAUT}of who she is...{PAGE}It's only during times like these that{SAUT}I'm envious of Akihiko's impulsiveness.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Shinjiro",
+    "en": "Whoa! Are you shittin' me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Mitsuru",
+    "en": "*chuckle* I don't rightly know{SAUT}anymore...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "P3 Fem Protag",
+    "en": "Um... Is something the matter? If we{SAUT}don't keep moving, we'll get separated{SAUT}from the others.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Shinjiro",
+    "en": "Ah, it's nothin'. We're off now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Mitsuru",
+    "en": "Indeed...",
+    "fr": ""
+  }
+]

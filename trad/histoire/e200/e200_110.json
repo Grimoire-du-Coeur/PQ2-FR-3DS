@@ -1,0 +1,314 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Whew... We made it back safe!{SAUT}Is everyone still with us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Energetic girl",
+    "en": "Whoa, daaaamn! This really, seriously{SAUT}is a movie theater!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Reserved girl",
+    "en": "This is unbelievable... Where'd{SAUT}the forest go? The island?{SAUT}The ammonites!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Energetic girl",
+    "en": "Uh, no one cares about the ammonites.{SAUT}They're creepy. They have too many legs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "W-Whoaaa... More Persona-users...{SAUT}Our lineup's expanding so fast...{SAUT}Like dried seaweed in soup...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Intelligent-looking boy",
+    "en": "Um... May I ask something? When did{SAUT}you change into those clothes!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Person in bear costume",
+    "en": "Whoaaaaa! You're like super-duper-{SAUT}surprising illusionists!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Ohhh, this... It's a long story. We'll get{SAUT}into that later.{PAGE}You got someone with you who's{SAUT}really sick, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Composed boy",
+    "en": "Yeah. Is there a place where she{SAUT}can rest?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "...Is she okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Composed boy",
+    "en": "And you are?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Makoto",
+    "en": "She's Hikari-chan.{PAGE}She seems to have been trapped in this{SAUT}world just like we were.{PAGE}And this over here is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Nagi",
+    "en": "It's nice to make your acquaintance.{SAUT}I am the curator of this movie theater.{SAUT}Please call me Nagi.{PAGE}We've seen the circumstances that led{SAUT}up to now. Your associate requires{SAUT}immediate treatment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Hikari",
+    "en": "Nagi-san, is there any medicine here?{SAUT}Also, a blanket and somewhere for her{SAUT}to lie down...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Person in bear costume",
+    "en": "*sniffle* You're so nice, Hikarin...!{PAGE}But it seems like normal antidotes won't{SAUT}work on Rise-chan... What are we gonna{SAUT}doooo!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_015",
+    "choix": true,
+    "en": "We'll save her―no matter what.{OPTION}Don't lose heart.{OPTION}We'll do what we can.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Menacing-looking boy",
+    "en": "Dude, you guys are nice, even{SAUT}though we just met'n'all...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Intelligent-looking boy",
+    "en": "Thank you. And we shouldn't get{SAUT}shaken up... We need to stay calm.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "I've only known everyone for a short{SAUT}while, but they're all really reliable{SAUT}people.{PAGE}Plus, it's only natural to help each{SAUT}other out―especially at a time{SAUT}like this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Composed boy",
+    "en": "Thanks, everyone. It's a huge relief―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Woman in blue",
+    "en": "However, if she's been afflicted with{SAUT}poison, she'll require a specific{SAUT}antidote.{PAGE}We'll do all we can to help. Won't you{SAUT}carry her over here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Menacing-looking boy",
+    "en": "Ooh, that'd be great.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Menacing-looking boy",
+    "en": "Wait, what the―!? Who're you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Composed boy",
+    "en": "You're here too, Margaret...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Girl in a punk outfit",
+    "en": "...Me too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Energetic girl",
+    "en": "Even you, Marie-chan!? What are you{SAUT}doing here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Girl in a punk outfit",
+    "en": "Dunno... I was with Margaret when{SAUT}I ended up here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ann",
+    "en": "No way! Even more people!?{PAGE}I mean, who's that? Do you know her,{SAUT}{f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_028",
+    "choix": true,
+    "en": "She looks somewhat familiar.{OPTION}I don't have a clue.{OPTION}She's insanely hot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Haru",
+    "en": "Really? You have quite the large circle{SAUT}of acquaintances.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yusuke",
+    "en": "...Although, isn't he just referring to that{SAUT}woman in blue we met earlier?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Makoto",
+    "en": "But, those blue clothes... Could she be{SAUT}related to the others?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Morgana",
+    "en": "Hey, enough with the gawking.{PAGE}Welp, there's being a guy for you...{SAUT}My eyes are solely for Lady Ann,{SAUT}though!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Woman in blue",
+    "en": "Fate of some kind must have summoned{SAUT}us here... After all, nothing unnecessary{SAUT}happens with us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Ryuji",
+    "en": "So, uh... who are you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Woman in blue",
+    "en": "Ah, please excuse my rudeness.{PAGE}It's nice to meet you all. My name{SAUT}is Margaret.{PAGE}I provide aid to this young gentleman{SAUT}here.{PAGE}I'm pleased to make your acquaintance.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Girl in a punk outfit",
+    "en": "...What about me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Margaret",
+    "en": "Introduce yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Marie",
+    "en": "...I'm Marie.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_039",
+    "choix": true,
+    "en": "...That's all you've got?{OPTION}Nice to meet you.{OPTION}Are you a Velvet Room resident?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Marie",
+    "en": "Wha―!? What else am I supposed{SAUT}to say?{PAGE}I mean, I was suddenly brought here{SAUT}too. None of this makes any sense{SAUT}to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Marie",
+    "en": "Oh... Uh, same here...{PAGE}I mean... I was just brought here all of{SAUT}a sudden, and none of this is making{SAUT}any sense to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Marie",
+    "en": "No. I just happen to hang around there.{PAGE}But, I was suddenly brought here and...{SAUT}This just doesn't make any sense!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Margaret",
+    "en": "In any case, neutralizing her poison{SAUT}is more important. I shall prepare{SAUT}the medicine for her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Intelligent-looking boy",
+    "en": "Really? Thank you, that'd be most{SAUT}helpful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Nagi",
+    "en": "Please leave the rest to us. I will provide{SAUT}my aid as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Hikari",
+    "en": "I'll help too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Nagi",
+    "en": "Thank you, Hikari-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047_5",
+    "locuteur": "Nagi",
+    "en": "I'm sure you are all exhausted,{SAUT}so please, rest here for a while.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Margaret",
+    "en": "Indeed, why not ascertain this situation{SAUT}you have all found yourselves in during{SAUT}this time?{PAGE}We will return once the medicine has{SAUT}been prepared.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Marie",
+    "en": "I'm coming too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Composed boy",
+    "en": "All right. We'll wait for your return.",
+    "fr": ""
+  }
+]

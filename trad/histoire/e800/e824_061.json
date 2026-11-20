@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukiko",
+    "en": "Good evening, and welcome to{SAUT}\"Yukiko's Believe It, or Don't.\"{PAGE}Maybe it was just me... but did anyone{SAUT}else feel a strange presence during the{SAUT}investigation?{PAGE}Did anyone hear the faint sound of{SAUT}footsteps from behind as we walked{SAUT}through the research facility...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Wha―!? Yukiko!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukiko",
+    "en": "I wondered what it was. I told myself{SAUT}that I must be overthinking things...{PAGE}However, I couldn't shake the feeling.{SAUT}I wanted to turn around, but felt that, if I{SAUT}did, something terrible would happen...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "Wait, stop...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "I, too, was unable to resist... So I{SAUT}turned around.{PAGE}When I did, I was met with the{SAUT}silhouette of a strange man who{SAUT}seemed to be glaring at me.{PAGE}His face was pale and without any trace{SAUT}of life. His eyes were wide-open and{SAUT}bloodshot.{PAGE}Cold sweat ran down the back of my{SAUT}neck. I thought to myself, \"This is bad...\"{SAUT}Then, suddenly―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "Noooooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "The man inched his way over to us, and{SAUT}from his twisted mouth he cried \"I'm so{SAUT}hungry! Can you spare some food!?\"",
+    "fr": ""
+  }
+]

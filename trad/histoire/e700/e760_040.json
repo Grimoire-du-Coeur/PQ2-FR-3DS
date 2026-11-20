@@ -1,0 +1,67 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Aww, it's a dead end.{PAGE}These things really know how to kill the{SAUT}momentum...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Hey, I get wanting to hurry, but there's{SAUT}no point getting irritated. Right, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Let's enjoy our time here.{OPTION}I want to get this over with...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "Agreed, I think it'd be best to make{SAUT}most of this place and enjoy it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Haru",
+    "en": "I mean, isn't it kind of exciting being{SAUT}able to walk around in a time when{SAUT}dinosaurs existed?{PAGE}Even the attractions at Destinyland{SAUT}aren't as realistic as this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "But isn't it kind of exciting being{SAUT}able to walk around in a time when{SAUT}dinosaurs existed?{PAGE}Even the attractions at Destinyland{SAUT}aren't as realistic as this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "Real-life dinosaurs are definitely scary...{SAUT}but it's true this is a once in a lifetime{SAUT}experience.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "I must agree as well.{PAGE}This world is packed with such inspiring{SAUT}sights... My creative juices are positively{SAUT}overflowing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Y'know, now that I'm thinking of it{SAUT}as a sort of theme park, it actually{SAUT}does seem kinda fun!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "I guess it all depends on how you look{SAUT}at it. All right then, let's stay positive{SAUT}and keep movin' forward!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_CURE_ALL",
+    "en": "Everyone has regained some HP and SP!",
+    "fr": ""
+  }
+]

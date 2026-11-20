@@ -1,0 +1,428 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "Wh-What was that just now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Could that have been Hikari-san's{SAUT}memory? That was far grimmer{SAUT}than the trailer we watched...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "Where'd that teacher and her students{SAUT}go? Did the Hikari-chan from the past{SAUT}disappear too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Koromaru",
+    "en": "Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "Ah... That was...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Hikari! What a relief, you're okay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Are you hurt anywhere, Hikarin?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "No... I'm okay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mitsuru",
+    "en": "Sorry to interrupt, but where did Doe{SAUT}go? He kidnapped you and brought{SAUT}you here, correct?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "Oh... Ah, that's not it...{PAGE}I... I came here on my own.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Wh-What!? Doe didn't do it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "As I watched the movies that{SAUT}everyone changed, I started to{SAUT}remember, little by little...{PAGE}All the things I'd given up on, and the{SAUT}things I'd forgotten...{PAGE}It all began welling up inside, and{SAUT}after remembering those things...{PAGE}...I felt like I needed to change, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "So you decided to enter the movie{SAUT}of your own accord?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "...Doe told me to do it.{PAGE}He said I can't stay part of the audience{SAUT}forever... That I need to overcome this...{PAGE}When he told me that, my urge to come{SAUT}here only got stronger... So...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_015",
+    "choix": true,
+    "en": "Don't be so reckless next time.{OPTION}Are you sure you're not hurt?{OPTION}We're just glad you're okay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Hikari",
+    "en": "I'm sorry... But I felt like I had to come{SAUT}here, no matter what...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yukiko",
+    "en": "Are you hurt anywhere? Did you get{SAUT}attacked at all while you've been here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "No, I've been fine―but I'm not sure{SAUT}why...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Hikari",
+    "en": "Mmhm, I haven't been in any danger{SAUT}since I got here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Hikari",
+    "en": "Ah... Thankfully, I haven't run into{SAUT}any danger since I got here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yukiko",
+    "en": "I see. Well, I'm just relieved that you{SAUT}weren't hurt.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "Oh, I'm just so glad you're all right,{SAUT}Hikari... I feel like that shaved more{SAUT}than a few years off my life!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari",
+    "en": "Futaba-chan, I'm sorry I worried you...{SAUT}And everyone else, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P4 Hero",
+    "en": "So, about that musical we saw―could{SAUT}that have been your...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Hikari",
+    "en": "Mmhm... The story was based on my{SAUT}own memories.{PAGE}It was told as a musical, but what{SAUT}happened... it was almost exactly{SAUT}the same as my past.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yusuke",
+    "en": "So, what we saw was indeed{SAUT}biographical...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ryuji",
+    "en": "What the hell was up with that teach!?{SAUT}That was worse than shitty―she shoulda{SAUT}gotten canned for that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Akechi",
+    "en": "True, that was unforgivable―but at{SAUT}least I feel as if the picture is coming{SAUT}together now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Naoto",
+    "en": "Concepts like \"hero\" and \"teacher\"...{SAUT}\"Absolute authority\" would be another.{SAUT}The last keyword would be...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_030",
+    "choix": true,
+    "en": "\"Majority rule.\"{OPTION}\"Rabbit.\"{OPTION}\"Robot.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Akechi",
+    "en": "That's from a different movie. The final{SAUT}piece to that musical number's puzzle{SAUT}is \"rabbit.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Akechi",
+    "en": "Precisely.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ann",
+    "en": "Wait... are you guys talking about{SAUT}Kamoshidaman? And how he{SAUT}transformed into a rabbit?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Futaba",
+    "en": "Yep, nailed it. Kamoshidaman was{SAUT}made up from Hikari's memories.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yusuke",
+    "en": "That elementary school teacher was{SAUT}the \"absolute authority\" of her{SAUT}classroom.{PAGE}This perfectly describes Kamoshidaman{SAUT}as well. No one must have been able to{SAUT}defy her, even when she was wrong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Makoto",
+    "en": "In the rabbit ordeal, Hikari-chan was{SAUT}unfairly scolded by a teacher―someone{SAUT}with absolute authority.{PAGE}And the rabbit itself―the symbol of{SAUT}Hikari-chan's trauma―appeared{SAUT}in the movie as well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Ann",
+    "en": "Now that I think back, those citizens{SAUT}that followed Kamoshidaman... They{SAUT}must've been the students who didn't―{PAGE}No, who couldn't speak up to the{SAUT}teacher due to her authority.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ryuji",
+    "en": "A shitty-ass movie born from shitty-ass{SAUT}memories, huh? No wonder it was so{SAUT}effin' disgusting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Haru",
+    "en": "This is just a thought, but this logic{SAUT}applies to more films besides{SAUT}Kamoshidaman, doesn't it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Makoto",
+    "en": "You're right... The same could be said{SAUT}about A.I.G.I.S. or Junessic Land...{PAGE}I think they've all been connected to{SAUT}Hikari-chan's memories, in some shape{SAUT}or form.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Shinjiro",
+    "en": "That means this movie with the{SAUT}unreadable title's also related{SAUT}to her memories.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Akihiko",
+    "en": "Hm... I feel like we're slowly starting{SAUT}to see what's driving this movie world.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Naoto",
+    "en": "What I'm more curious about is, why{SAUT}was this world born to begin with?{PAGE}An individual having a painful past{SAUT}doesn't solely explain the reason{SAUT}behind this entire tangible world.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Mitsuru",
+    "en": "Hikari, is there anything that comes{SAUT}to mind on your part?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Hikari",
+    "en": "I'm sorry. I can't think of anything...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Morgana",
+    "en": "Hm, a world that reflects a person's{SAUT}heart... That sounds like something{SAUT}we have some experience with.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_048",
+    "choix": true,
+    "en": "What do you mean?{OPTION}The cognitive world...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Morgana",
+    "en": "Oh, come on! I'm talking about{SAUT}the cognitive world! Did you{SAUT}really forget all about it!?{PAGE}Well, we can't use the Metaverse{SAUT}Navigator here, so this doesn't{SAUT}seem to be the exact same thing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Morgana",
+    "en": "Right. But we can't use the Metaverse{SAUT}Navigator here, so this doesn't seem{SAUT}to be the exact same thing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Yosuke",
+    "en": "I'm not totally sure why, but this place{SAUT}feels pretty similar to the TV world{SAUT}our team deals with.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Kanji",
+    "en": "Oh yeah―now that you mention it,{SAUT}it does kinda feel the same.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Yukiko",
+    "en": "So, in essence, the movies have all been{SAUT}based on Hikari-chan's emotionally{SAUT}traumatizing experiences, right?{PAGE}Then we need to reconsider Doe's goal―{SAUT}although, he's still a complete mystery{SAUT}to us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Yukari",
+    "en": "Doe said to Hikari-chan, \"You need to{SAUT}overcome this,\" right?{PAGE}Considering that, it's starting to{SAUT}feel like he's not really the bad guy{SAUT}after all...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Junpei",
+    "en": "Whoa, are you okay, Hikari-chan?{SAUT}Feelin' under the weather?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Hikari",
+    "en": "I-It's not that. I just... I keep thinking{SAUT}about why I'm always like this...{PAGE}It's my problem, so I should be the one{SAUT}to solve it...{PAGE}But in the end, I just caused so much{SAUT}trouble for everyone... If that's the case,{SAUT}then maybe I should just...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_058",
+    "choix": true,
+    "en": "You're worrying too much.{OPTION}That's not how we see things.{OPTION}Don't be so hard on yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Yosuke",
+    "en": "Yeah, what he said. None of us here care{SAUT}about that kinda thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "P3 Hero",
+    "en": "The thought of you being trouble to us{SAUT}never even crossed our minds. We all{SAUT}came here because we wanted to help.{PAGE}I hope you can really believe us when{SAUT}we say we feel that way about you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Morgana",
+    "en": "Right, the Phantom Thieves are meant to{SAUT}save people in trouble.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "P3 Hero",
+    "en": "We members of SEES came here because{SAUT}we wanted to rescue you―the same goes{SAUT}for the Investigation Team, too.{PAGE}I hope you can really believe us when{SAUT}we say we feel that way about you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Akihiko",
+    "en": "Yeah, there's no need to beat yourself{SAUT}up over this. Nobody here minds{SAUT}pitching in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "P3 Hero",
+    "en": "The thought of you being trouble to us{SAUT}never even crossed our minds. We all{SAUT}came here because we wanted to help.{PAGE}I hope you can really believe us when{SAUT}we say we feel that way about you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Hikari",
+    "en": "Everyone...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "P3 Fem Protag",
+    "en": "Plus, we've only made it this far by{SAUT}working together―don't you think we{SAUT}should see this through as a team too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Haru",
+    "en": "We can all truly tell that you want{SAUT}to change, Hikari-chan...{PAGE}That's why I want to lend my strength{SAUT}to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Hikari",
+    "en": "Thank you so much...{PAGE}If it's not too much of a―No...{SAUT}Would you all please lend me{SAUT}your strength here?{PAGE}In order for me to change, and for all{SAUT}of us to get out of this place―I want to{SAUT}see this movie to the end!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Teddie",
+    "en": "Totally and for sure! Everyone feels{SAUT}the same way―don't you, Yosuke?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Yosuke",
+    "en": "What're you asking me for, moron? I'm{SAUT}not everyone! But, of course I'm in!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Mitsuru",
+    "en": "Hm, you're all such reliable people...{PAGE}Escaping this world is still important,{SAUT}but we've come this far―we'll see this{SAUT}through together, to the very end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Ryuji",
+    "en": "Welp, it's decided! Let's get deep in{SAUT}this movie and change the shit out of it!",
+    "fr": ""
+  }
+]

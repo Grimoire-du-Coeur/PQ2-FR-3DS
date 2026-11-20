@@ -1,0 +1,134 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kanji",
+    "en": "Y'know, I've been wonderin'...{SAUT}Can you fight?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Robot with a ribbon",
+    "en": "NO. I HAVE NO BATTLE FUNCTIONS.{SAUT}PLEASE REMEMBER THIS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Don't worry! All you gotta do is{SAUT}follow us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "Yeah, leave the fighting to us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Robot with a ribbon",
+    "en": "YOU ARE BRINGING ME ALONG, EVEN{SAUT}THOUGH I CANNOT FIGHT? YOU DO{SAUT}NOT BENEFIT FROM THIS. SO, WHY?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "There is a benefit.{OPTION}Just drop it and follow me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Robot with a ribbon",
+    "en": "TRUE, I CAN AT LEAST SERVE AS{SAUT}A SHIELD...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "N-No living shields! Nobody asked you{SAUT}to do that! Just follow us, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Robot with a ribbon",
+    "en": "BUT...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Kanji",
+    "en": "Don't sweat all the details. C'mon,{SAUT}let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yukari",
+    "en": "Wait―going back to the movie theater{SAUT}is fine for us, but what about her?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yukiko",
+    "en": "Now that you mention it―can{SAUT}she leave this movie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Mitsuru",
+    "en": "I have no idea whether or not there{SAUT}would be any ill effects for her...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Futaba",
+    "en": "Precision machinery is very delicate.{SAUT}We shouldn't bring her around any{SAUT}setting that she's not designed for.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Chie",
+    "en": "So should we try to hide her{SAUT}somewhere? Oh, but what if she{SAUT}got caught by those security robots?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Robot with a ribbon",
+    "en": "IF THIS CONCERNS YOU, I BELIEVE{SAUT}THERE IS A SOLUTION.{PAGE}I SHOULD NOT BE IDENTIFIABLE TO{SAUT}THE SECURITY ROBOTS' SENSORS{SAUT}IF I SUSPEND MY OPERATIONS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Naoto",
+    "en": "Suspend your operations? Do you mean{SAUT}power down?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Robot with a ribbon",
+    "en": "NO. I HAVE A SLEEP MODE. I AM ABLE{SAUT}TO TEMPORARILY AND HARMLESSLY{SAUT}SUSPEND OPERATIONS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yusuke",
+    "en": "Oh? That sounds useful. Then, I shall{SAUT}go ahead and activate―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ann",
+    "en": "Hey! Don't go fiddling with her settings{SAUT}without her permission!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Makoto",
+    "en": "Even if you're able to avoid their sensors,{SAUT}I'm concerned about just leaving you{SAUT}here in the open.{PAGE}Why don't you take cover somewhere{SAUT}before engaging sleep mode?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "P4 Hero",
+    "en": "I agree. That definitely sounds like it{SAUT}would be safer.{PAGE}Well, our next goal is to find the{SAUT}remaining members of SEES.{PAGE}Let's go!",
+    "fr": ""
+  }
+]

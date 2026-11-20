@@ -1,0 +1,27 @@
+[
+  {
+    "id": "DG_OBJECTIVE_MSG_LARGE_0",
+    "en": "Repair the broken robot!",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0",
+    "en": "Find the broken robot",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#2",
+    "en": "Find the replacement parts",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#3",
+    "en": "Choose a path",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#4",
+    "en": "Find parts in northeast room",
+    "fr": ""
+  }
+]

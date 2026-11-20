@@ -1,0 +1,103 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Marie",
+    "en": "*sigh* Well, listen up. I'm gonna{SAUT}explain this once...{PAGE}I'll help you connect with \"worlds that{SAUT}aren't here.\" There are people just like{SAUT}you in those.{PAGE}And when I say just like you, they're{SAUT}trapped in their worlds as well.{PAGE}It's called \"StreetPass.\" I'm pretty sure{SAUT}they'll help you out in some way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Marie",
+    "en": "*sigh* Well, listen up. I'm gonna{SAUT}explain this once...{PAGE}I'll help you connect with \"worlds that{SAUT}aren't here.\" There are people just like{SAUT}you in those.{PAGE}And when I say just like you, they're{SAUT}trapped in their worlds as well.{PAGE}I'm pretty sure they'll help you out{SAUT}in some way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "en": "You can now perform \"StreetPass.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Oh, I gotcha. We'll leave all that to you,{SAUT}then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Margaret",
+    "en": "*chuckle* You've grown quite{SAUT}accustomed to providing such{SAUT}explanations...{PAGE}All that's left for you now is to improve{SAUT}your poetry―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Marie",
+    "en": "LALALAAAA! What was that!? What!?{SAUT}I have nooo idea what you're talking{SAUT}about!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_5",
+    "locuteur": "Marie",
+    "en": "M-More importantly, {f 6 1 30 0 0 0}!{SAUT}Do you have any more questions!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "I'm good.{OPTION}What's this about poetry?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Marie",
+    "en": "Huh, you catch on surprisingly quick...{SAUT}unlike someone else.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Margaret",
+    "en": "Oh dear, whomever could you mean?{SAUT}*chuckle*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Marie",
+    "en": "Hrgh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Chie",
+    "en": "It's grown pretty obvious by now, but{SAUT}Margaret's quite the sadist, isn't she?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Marie",
+    "en": "What are you, a moron!? I said I have{SAUT}no idea!{PAGE}There's no poetry to be found, got it!?{SAUT}You better not go snooping around{SAUT}for it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Wow, she's like an open book! She's{SAUT}the easiest to read!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "I wonder whether it's human nature or{SAUT}my phantom thief side that makes me{SAUT}wanna check those out even more now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Margaret",
+    "en": "Please feel free to stop by and see us{SAUT}whenever you need our assistance.{PAGE}I'm certain that we'll be able to live up{SAUT}to your expectations.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P4 Hero",
+    "en": "Right, thanks.{PAGE}, let's be grateful for their{SAUT}help and come back when we need it.",
+    "fr": ""
+  }
+]

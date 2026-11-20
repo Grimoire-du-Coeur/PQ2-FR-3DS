@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Hold up, not that way. It's the other{SAUT}way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukiko",
+    "en": "Right. We need to find the injured{SAUT}dinosaur. It'd be east of here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "So this way. I'm starting to get worried...{SAUT}Let's hurry!",
+    "fr": ""
+  }
+]

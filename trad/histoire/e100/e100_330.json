@@ -1,0 +1,224 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Grrr, I just can't hold back anymore...{SAUT}I'm too curious!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "What's the matter? Feel free to ask me{SAUT}whatever you'd like...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Wha-Whatever!? No, don't―!!!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Do you really mean it―whatever{SAUT}we like!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Geez, what is wrong with you two?{SAUT}Just ignore them―you go right{SAUT}ahead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Then, I'll just come out and say it...{PAGE}How did you guys pick your outfits?{SAUT}They're all so... unique!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Huh? Uhh... Well, it's like... Hm, how{SAUT}DOES it work?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "It's difficult for us to answer when{SAUT}you phrase it that way...{PAGE}Our attire is merely the outcome{SAUT}of certain events, not something{SAUT}we chose ourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Really? So, you guys don't like how{SAUT}they look?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Well, I like mine, at least.{OPTION}I've just learned to live with it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Good, so it's not an issue. I think{SAUT}you all look so cool in them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "I see... But, I think you all look really{SAUT}cool in them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "So, how do you transform? Is it like{SAUT}how magical girls do it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Uh, we don't really know. I guess it's,{SAUT}well... Y'know, it's like...{PAGE}...Pass. You explain it, Fox.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "\"Pass\"? I see... So that's allowed here.{PAGE}In that case, I shall pass as well,{SAUT}leaving it for Panther.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Oh c'mon, why'd you stick me{SAUT}with it!?{PAGE}Um, ummm... I'm passing too! Joker!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "I'm passing three.{OPTION}It's not my job to explain things.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "*sigh* Good grief... I'LL explain it{SAUT}for you.{PAGE}This attire represents our will{SAUT}of rebellion―our desire to defy{SAUT}the distorted world.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017_5",
+    "locuteur": "Morgana",
+    "en": "Basically... depending on the{SAUT}circumstances, the phantom{SAUT}thief attire just designs itself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "Whoa, I see! ...Actually, I don't get it{SAUT}at all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Well, it's not like we actually get it,{SAUT}either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ann",
+    "en": "So, uh... are we really dressed all that{SAUT}strangely?{PAGE}I'm used to it by now. But it was really{SAUT}embarrassing at first, and it gave me{SAUT}a lot of grief...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "No, they're great! They're perfect for the{SAUT}whole phantom thief thing! I wish{SAUT}I could disguise myself too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Morgana",
+    "en": "*chuckle* That's just part of the{SAUT}phantom thief charm! I totally get{SAUT}what you mean.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "Uh-huh, so what about you, Mona?{PAGE}What's it like inside your cat costume?{SAUT}Can I try taking the head off?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "My head doesn't come off! This isn't{SAUT}a costume!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "O-Oh, I see... I mean, obviously I thought{SAUT}you were a―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "I am NOT a cat, either! I'm obviously{SAUT}HUMAN!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ryuji",
+    "en": "This conversation is music to my ears...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ann",
+    "en": "That reminds me―there's something{SAUT}I've been curious about for a while,{SAUT}{f 6 1 27 0 0 0}-chan!{PAGE}Why, um... Why do you put a gun to{SAUT}your head whenever you summon{SAUT}a Persona?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh yeah, you guys don't use these,{SAUT}do you?{PAGE}All the members of SEES have these{SAUT}gun-shaped devices we call Evokers.{PAGE}We summon our Personas by willing{SAUT}ourselves to pull the Evoker's trigger{SAUT}while pointed at our own heads.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ryuji",
+    "en": "Daaamn... You've gotta be, like,{SAUT}REALLY determined to summon a{SAUT}Persona!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "P3 Fem Protag",
+    "en": "Whether it's your outfits or my Evoker,{SAUT}there seem to be a few different ways{SAUT}to summon. That's pretty cool!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Yusuke",
+    "en": "Hm, perhaps I should inject some flair{SAUT}into my own Persona summoning...{SAUT}For example...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yusuke",
+    "en": "I could become a tableaux of complex{SAUT}emotion! Like―sorrowful, yet ferocious!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Ann",
+    "en": "Yeah, yeah, sounds great―can we get{SAUT}going now? We have no idea how long{SAUT}this movie is.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Morgana",
+    "en": "*sigh* That's a good point... Let's go.",
+    "fr": ""
+  }
+]

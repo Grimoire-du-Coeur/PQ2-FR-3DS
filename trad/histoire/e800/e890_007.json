@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "I'm calling it here! This match is over.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Theodore",
+    "en": "Well fought. I suppose that's my win.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "locuteur": "Theodore",
+    "en": "If you'd like another bout once you've{SAUT}grown stronger, I'll happily accept a{SAUT}challenge anytime.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "If you wish for a return match, please{SAUT}speak to me at the box office.{PAGE}Until next time, then.",
+    "fr": ""
+  }
+]

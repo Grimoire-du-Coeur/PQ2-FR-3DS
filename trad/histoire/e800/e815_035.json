@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Teddie",
+    "en": "Hrrm!? I found some dinosaur bones!{PAGE}Such terrible table manners. It was{SAUT}clearly eating with its hands.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "You're the last one who should be{SAUT}judging someone's table manners...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "Can you check the bones, Crow?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Yes, I'm looking at them right now.{PAGE}These bones are starting to wear down.{SAUT}They must be very old.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "That won't do.{OPTION}Let's try somewhere else.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "Haha, Koromaru-kun seems to agree.{PAGE}We're looking for fresh sets of bones.{SAUT}Let's keep our eyes open.",
+    "fr": ""
+  }
+]

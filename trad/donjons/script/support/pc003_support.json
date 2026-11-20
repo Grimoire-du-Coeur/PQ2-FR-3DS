@@ -1,0 +1,377 @@
+[
+  {
+    "id": "YOUSUKE_FOE_FOLLOW_START",
+    "en": "Crap, it's an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_FOE_FOLLOW_START#2",
+    "en": "That FOE's following us!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_FOE_FOLLOW_START#3",
+    "en": "Aw crap! It found us!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_FOE_NEAR_1",
+    "en": "Watch it, an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_FOE_NEAR_2",
+    "en": "Careful... The FOE's right there!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_FOE_NEAR_3",
+    "en": "There's an FOE nearby!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_FOE_FOLLOW_END_1",
+    "en": "Phew... That could've been nasty.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_FOE_FOLLOW_END_2",
+    "en": "Nice! We lost the FOE!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_FOE_FOLLOW_END_3",
+    "en": "Sweet! I think we lost it.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_KANSI_REACTION_1",
+    "en": "Careful, guys.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_KANSI_REACTION_2",
+    "en": "Let's take this slow.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_KANSI_REACTION_3",
+    "en": "Quiet, guys... We don't wanna{SAUT}get spotted.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_DENKISAKU_REACTI",
+    "en": "Yeah, probably not happening.{SAUT}Let's stop the electricity first.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_DENKISAKU_REACTI#2",
+    "en": "If we don't turn that off,{SAUT}we're toast.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_DENKISAKU_REACTI#3",
+    "en": "Where's the switch for the{SAUT}electric gate?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_KYOUHU_REACTION_",
+    "en": "No way!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_KYOUHU_REACTION_#2",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_KYOUHU_REACTION_#3",
+    "en": "Wha―!?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_STAIR_FIND_1",
+    "en": "Hey! Looks like we can{SAUT}keep going!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_STAIR_FIND_2",
+    "en": "On to the next area!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_STAIR_FIND_3",
+    "en": "C'mon, let's get to the{SAUT}next floor!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_TREASURE_FIND_1",
+    "en": "Sweet! A treasure box!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_TREASURE_FIND_2",
+    "en": "Hey, that's a treasure box, right?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_TREASURE_FIND_3",
+    "en": "A treasure box! We're cracking{SAUT}that open, right?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_CHECK_WALL_1",
+    "en": "Looks like something's there...",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_CHECK_WALL_2",
+    "en": "Isn't this place kinda fishy?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_CHECK_WALL_3",
+    "en": "Keep your eyes open, okay?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_SWITCH_FIND_1",
+    "en": "Huh? There's a switch.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_SWITCH_FIND_2",
+    "en": "A switch... We gonna push it?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_SWITCH_FIND_3",
+    "en": "All right, I found a switch!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_SHORTCUT_FIND_1",
+    "en": "Can't we go through that?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_SHORTCUT_FIND_2",
+    "en": "Is that a shortcut?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_SHORTCUT_FIND_3",
+    "en": "Hey, can we take a{SAUT}shortcut here?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_FOE_WARNING_NEAR",
+    "en": "Crap, the FOE's still on us.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_FOE_WARNING_NEAR#2",
+    "en": "An FOE. Better keep our{SAUT}distance, huh...?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_FOE_WARNING_NEAR#3",
+    "en": "Man, it's still after us.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_1PERSON_HPTP10_1",
+    "en": "Ugh... We can't catch a break...",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_1PERSON_HPTP10_2",
+    "en": "...Can't we just go home?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_1PERSON_HPTP10_3",
+    "en": "Crap... Can't take any more...",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_1PERSON_HP10_1",
+    "en": "Don't know if I can go on...",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_1PERSON_HP10_2",
+    "en": "C'mon, please! I need a{SAUT}pick-me-up!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_1PERSON_HP10_3",
+    "en": "Hngh... That hurts...",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_1PERSON_TP10_1",
+    "en": "Crap, I'm gonna run out of...{SAUT}stamina...",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_1PERSON_TP10_2",
+    "en": "I can't keep going! I'm outta{SAUT}juice, man!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_1PERSON_TP10_3",
+    "en": "Dang it... I can't go on...",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_1PERSON_HP80_1",
+    "en": "Hah! Piece of cake!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_1PERSON_HP80_2",
+    "en": "Let's keep up the pace, guys!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_1PERSON_HP80_3",
+    "en": "Man, too easy.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_DUNGEON_START_1",
+    "en": "Let's give it all we got!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_DUNGEON_START_2",
+    "en": "You all ready? Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_DUNGEON_START_3",
+    "en": "All right! Get pumped, guys!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_QUEST_START_1",
+    "en": "We got a mission here!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_QUEST_START_2",
+    "en": "I've got this, guys!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_QUEST_START_3",
+    "en": "C'mon! Let's keep it up!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_TOUHA_25_1",
+    "en": "We're just getting started.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_TOUHA_25_2",
+    "en": "Let's stay focused, guys.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_TOUHA_50_1",
+    "en": "That's about halfway, huh?",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_TOUHA_50_2",
+    "en": "Okay, we've got a pretty{SAUT}good pace.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_TOUHA_75_1",
+    "en": "Man, we've come a long way.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_TOUHA_75_2",
+    "en": "Oh dang! That's pretty much{SAUT}a full map.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_TOUHA_100_1",
+    "en": "Sweet! That map looks finished!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_TOUHA_100_2",
+    "en": "We finished the map!{SAUT}Nice work, man.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_MAPPING_ICON_ALL",
+    "en": "Oh, nice!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_MAPPING_ICON_ALL#2",
+    "en": "That's a pretty good map!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_MAPPING_ICON_KAI",
+    "en": "No more getting lost!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_MAPPING_ICON_KAI#2",
+    "en": "Now we know where we{SAUT}need to go!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_MAPPING_CHANGE_C",
+    "en": "That's got style, man.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_MAPPING_CHANGE_C#2",
+    "en": "It's weird how your personality{SAUT}comes through in this...",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_MAPPING_ICON_DEL",
+    "en": "Yeah, good to keep our{SAUT}notes clean.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_MAPPING_ICON_DEL#2",
+    "en": "There you go. Just dump the{SAUT}stuff we don't need!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_MAPPING_MEMO_1",
+    "en": "Gotta keep track of the{SAUT}important stuff.",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_MAPPING_MEMO_2",
+    "en": "Nice. Looks great!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_DOOR_OPEN_1",
+    "en": "C'mon, this way!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_DOOR_OPEN_2",
+    "en": "Next room!",
+    "fr": ""
+  },
+  {
+    "id": "YOUSUKE_DOOR_OPEN_3",
+    "en": "Open sesame! Or something.",
+    "fr": ""
+  }
+]

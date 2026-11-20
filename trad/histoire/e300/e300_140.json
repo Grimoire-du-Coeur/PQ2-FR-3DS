@@ -1,0 +1,206 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "...What's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Mysterious man's voice",
+    "en": "There is no conflict, no crime, no greed{SAUT}in this world of ours...{PAGE}It is a perfect world, where a perfect life{SAUT}is promised to all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "\"A perfect world\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mysterious man's voice",
+    "en": "The reason such a world can be reality{SAUT}is because everyone is the same.{PAGE}Think about how fruitless it is to contrast{SAUT}or stand out. Being like the others―being{SAUT}normal―is optimal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Based on the content of this speech, the{SAUT}speaker is likely the robots' Overseer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Mysterious man's voice",
+    "en": "Eyes to the right... Eyes to the left...{SAUT}Malfunctioning units that fail to adhere{SAUT}to normality will be eliminated.{PAGE}On that note, may each robot focus on{SAUT}their assigned tasks, with no ifs, ands,{SAUT}or ro-buts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "...Was that a pun combining \"robot\"{SAUT}and \"but\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "Oh, is that what that was? I couldn't{SAUT}tell at all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "That lame-ass pun―no wonder it's got{SAUT}the face of Ikutsuki-san.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "That was extremely bad.{OPTION}He's funnier than you, Junpei...{OPTION}I found it rather punny.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha, that was so bad that I'd smack{SAUT}him if he were in front of me right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "You'd really smack your own school's{SAUT}chairman...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukari",
+    "en": "Oh, let's be fair―I think they're pretty{SAUT}much on the same level.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "Hey! I heard that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukari",
+    "en": "Oh no... Are you saying that's your{SAUT}kind of humor?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Junpei",
+    "en": "Hey, humor's important in a man.{SAUT}We'll ignore whether it's actually{SAUT}funny or not! Right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "Junpei is making fun of you, Joker...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Mass produced robot",
+    "en": "NO IFS, ANDS, OR RO-BUTS...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Mass produced robots",
+    "en": "HAHAHAHAHAHAHAHAHA!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Mitsuru",
+    "en": "What's with these robots? They suddenly{SAUT}started laughing... Are they{SAUT}malfunctioning?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ken",
+    "en": "Um, could it be possible that they were{SAUT}actually amused by the pun?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Mass produced robot",
+    "en": "......{PAGE}...TIME TO RETURN TO OUR DUTIES.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Chie",
+    "en": "Huh? They went back to work...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "It's just my suspicion, but I think they{SAUT}all have the same AI loaded onto them.{PAGE}They're programmed to focus only on{SAUT}work, and to all have the same{SAUT}reactions...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "I see. It's just as the announcement{SAUT}and the trailer said...{PAGE}Spurning individuality and embracing{SAUT}normality―that is what's seen as{SAUT}acceptable here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Shinjiro",
+    "en": "Hmph... A world where everyone's{SAUT}forced to be the same, huh? That's just{SAUT}disgusting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yukiko",
+    "en": "Isn't it suffocating to live every day like{SAUT}that? Do they not care about the issue{SAUT}because they're robots?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yukari",
+    "en": "No, I think our companion Aigis has{SAUT}her own free will.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Akihiko",
+    "en": "It's rare to find a robot with as much{SAUT}personality as she has, but she's still{SAUT}a good example of that.{PAGE}I don't think someone has to always{SAUT}behave a certain way, whether they're{SAUT}a person or a robot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Futaba",
+    "en": "Ooh! Now my curiosity to see what{SAUT}kind of robotics this lady's made of{SAUT}has been maxed out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Junpei",
+    "en": "Just don't try takin' her apart, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Naoto",
+    "en": "U-Um... How do you think she would{SAUT}respond if I were to ask her if... if I{SAUT}could check out her parts as well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Futaba",
+    "en": "What's this? I'm sensing another{SAUT}mecha-nut here too. Mweheheh...{SAUT}I can understand your desires!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Mitsuru",
+    "en": "As long as she's fine with it, I see no{SAUT}issues... However, we need to prioritize{SAUT}reuniting with her and our leader first.{PAGE}Come now, let's hurry on.",
+    "fr": ""
+  }
+]

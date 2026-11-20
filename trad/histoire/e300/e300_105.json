@@ -1,0 +1,192 @@
+[
+  {
+    "id": "MSG_0000",
+    "en": "......{PAGE}Mitsuru appears to be lost in thought...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Mitsuru",
+    "en": "Say, {f 6 1 26 0 0 0}―about your world...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "She headed to the restroom.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mitsuru",
+    "en": "Oh, I see... *sigh*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "You're lookin' down in the dumps.{SAUT}I mean, I can understand why...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "If {f 6 1 27 0 0 0}'s telling the truth,{SAUT}then this is all even more like a sci-fi{SAUT}story.{PAGE}Doesn't it mean there's another me{SAUT}somewhere I don't know anything{SAUT}about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "I've wondered about that kind of thing{SAUT}before, but... is it really possible?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Another me...{PAGE}Oh man, what if THAT me is a totally{SAUT}studly model and a hit with all the ladies{SAUT}around the world!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukari",
+    "en": "There's no chance a you like that exists.{SAUT}The only way that could happen is if you{SAUT}were reincarnated as a different person.{PAGE}Also, considering the way she talked to{SAUT}you, I doubt you're any different in her{SAUT}world.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Fuuka",
+    "en": "Um, there's something I forgot to{SAUT}mention earlier...{PAGE}When the Phantom Thieves and the{SAUT}Investigation Team came to our rescue{SAUT}in the movie...{PAGE}For just a moment, Lucia misrecognized{SAUT}{f 6 1 27 0 0 0}-chan as our leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mitsuru",
+    "en": "What?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Junpei",
+    "en": "Oh, I get it, though. Her personality is{SAUT}different, but she's got, like... a similar{SAUT}vibe, somehow?{PAGE}She just reminds me of our leader.{SAUT}I can't really explain it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yukari",
+    "en": "Yeah. This is supposed to be my first time{SAUT}meeting her, but it feels so natural with{SAUT}her around... I wonder why that is?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ken",
+    "en": "Looks like Koromaru agrees with you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Shinjiro",
+    "en": "Well, we're not figurin' anything out by{SAUT}standin' around like this. Just treat her{SAUT}like everyone else and it'll be fine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Mitsuru",
+    "en": "You're right. At any rate, we need to{SAUT}prioritize rescuing our leader and Aigis.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "en": " is watching the{SAUT}Gekkoukan High students{SAUT}from a distance...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "-san...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "Aah! Oh, you surprised me...{PAGE}Sorry, I spaced out... Eheheh. So,{SAUT}what's up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "Why don'tcha go join 'em―unless it's{SAUT}too awkward, or something...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yosuke",
+    "en": "I mean, I can totally get why they're so{SAUT}confused...{PAGE}But when I think about how this is{SAUT}making {f 6 1 27 0 0 0}-chan feel,{SAUT}it's just heartbreaking.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha! I'm totally fine, though―stuff{SAUT}like parallel universes is so sci-fi!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "Don't push yourself too hard.{OPTION}We're here for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* Thanks... You're trying to cheer{SAUT}me up, aren't you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Hikari",
+    "en": "Well, {f 6 1 26 0 0 0}-san, you had{SAUT}been so worried about your{SAUT}companions...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P3 Fem Protag",
+    "en": "Thanks―you all really are so nice...{PAGE}But, even if they don't know about me,{SAUT}they're still precious companions{SAUT}of mine.{PAGE}That'll never change, and I don't want{SAUT}it to.{PAGE}That's why I'm planning on doing my{SAUT}best to look for their leader and Aigis!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Hikari",
+    "en": "...You're so strong, {f 6 1 26 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* You think so? It's probably{SAUT}because I've got everyone here{SAUT}backing me up.{PAGE}If I were all alone, there's no way{SAUT}I would've made it this far.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Hikari",
+    "en": "......!{PAGE}Yeah, me too... I'm glad I met you all...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P3 Fem Protag",
+    "en": "Alrighty then! I'll keep doing my best{SAUT}in there―just you watch!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Hikari",
+    "en": "Mmhm!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "...The concession stand?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Nagi",
+    "en": "Would the merchandise here be of any{SAUT}use to you?{PAGE}Since the anomaly occurred, the stock{SAUT}here appears to have changed quite{SAUT}a bit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "en": "It seems like equipment and items{SAUT}can be purchased and sold at this{SAUT}concession stand...{PAGE}We'll also be able to store and retrieve{SAUT}items here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Wow! This'll be really helpful, don't you{SAUT}think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Yeah, definitely. We should prep here{SAUT}before heading into the movie...{PAGE}After all, we could get attacked by those{SAUT}weird guys again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "The cops are one thing, but that huge{SAUT}one―what the hell was with that giant{SAUT}birdlike thing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "\"Giant birdlike thing\" is gonna be too{SAUT}much effort to say every time you're{SAUT}near one. Rename it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Okay... how about Chicken Dude?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Too straightforward―and, super-lame.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Then you name it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Huh―me? Umm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_5",
+    "locuteur": "Ann",
+    "en": "...Chicky Peep-Peep?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Why'd you make it sound cute!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Considering how fiercely it pursued us,{SAUT}I'd name it, \"The Raging Avian Sent{SAUT}from Hell\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "And we'll just ignore Inari...{PAGE}Since it's a monster in a movie, why not{SAUT}name it something movie-related?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Movie-related, huh? I don't really know{SAUT}all that much about 'em.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Cinema... *sigh* Movie...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Nagi",
+    "en": "A movie monster...{PAGE}Perhaps something like, \"Film Obscurit〒{SAUT}※tendeu\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "Wait, what? Filmio Scurrytay...? Is that{SAUT}some kinda tongue twister?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Nagi",
+    "en": "Film Obscurit〒 ※tendeu... It means{SAUT}\"wickedness stored in the depths\"{SAUT}in French.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ann",
+    "en": "Why French, though?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Nagi",
+    "en": "Well, movies originated in France.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Morgana",
+    "en": "It's not bad... but it's too long. I feel like{SAUT}my tongue'll get all tied up.{PAGE}Let's see... Why don't we abbreviate that{SAUT}to \"FOE\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "Mm, agreed! I'd be able to say that{SAUT}without biting my tongue too.{PAGE}Hey, are you cool with us calling that{SAUT}strong, weird enemy an FOE?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "Works for me.{OPTION}Chicky Peep-Peep is way better.{OPTION}I prefer Chicken Dude.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "It's decided then!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ann",
+    "en": "Agh... Please forget I ever said that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "Let's just go with \"FOE.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ryuji",
+    "en": "Cut it out, dude!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "Let's just go with \"FOE.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "No matter the name, that FOE is{SAUT}powerful. It'd be best for us to{SAUT}avoid meddling with it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Akechi",
+    "en": "But why were we being pursued in the{SAUT}first place?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "Who cares? We'll figure it out later!{SAUT}Finding Makoto and Haru comes first,{SAUT}yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Akechi",
+    "en": "Sorry, it's just a bad habit of mine,{SAUT}what with being a detective and all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ryuji",
+    "en": "Welp, let's get back to that freaky screen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Morgana",
+    "en": "Hold on―Futaba, can you navigate us{SAUT}from outside the movie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Futaba",
+    "en": "R-Right, um... I think I can manage...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Ann",
+    "en": "Wait, we can't just leave Futaba here{SAUT}by herself...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Morgana",
+    "en": "We won't―I've decided to stay behind{SAUT}too.{PAGE}I want to investigate this theater and see{SAUT}if I can gather some useful intel.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Ann",
+    "en": "What sort of intel? Didn't we already{SAUT}look everywhere we could?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Morgana",
+    "en": "Everyone... can I talk with you for a sec?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Yusuke",
+    "en": "What's going on? Why the whispering?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Morgana",
+    "en": "It's about Nagi and Hikari―they've been{SAUT}nice to us, but we've only just met...{PAGE}The best strategy right now would be{SAUT}to investigate whether or not they're{SAUT}being honest with us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Yusuke",
+    "en": "I see―you have a point.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Morgana",
+    "en": "So, for now, you guys go check inside{SAUT}the movie. Got that, {f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_044",
+    "choix": true,
+    "en": "Leave it to us.{OPTION}We'll be back soon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Morgana",
+    "en": "All right, that's settled.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Akechi",
+    "en": "We'll leave the remainder of the movie{SAUT}theater to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Ryuji",
+    "en": "So, uhh, Nagi-san, Hikari? Morgana{SAUT}and Futaba are gonna stick around here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Nagi",
+    "en": "That's no problem for us, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Hikari",
+    "en": "You're really going in there... Even{SAUT}though it's dangerous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Ryuji",
+    "en": "Well, it's like I said before: our friends{SAUT}are the ones in danger, so we've gotta{SAUT}rescue 'em!{PAGE}It's what friends do, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Ryuji",
+    "en": "...Eh, anyways―let's get going, guys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Morgana",
+    "en": "We're counting on you, but don't go{SAUT}too far in there. Come back if there's{SAUT}an issue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Ann",
+    "en": "Okay. You be safe too, Morgana.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Hikari",
+    "en": "...W-Wait!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Akechi",
+    "en": "Is there something else?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Hikari",
+    "en": "Here, this {f 4 4 4 0 1348}...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "en": "Hikari is offering {f 4 4 4 0 1348} to me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Ann",
+    "en": "Could that be for us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Hikari",
+    "en": "...Take it with you.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_061",
+    "choix": true,
+    "en": "Thank you.{OPTION}What's this for?{OPTION}Oh, I prefer it unsalted.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Hikari",
+    "en": "Well... um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Yusuke",
+    "en": "Let's just thankfully accept her kind{SAUT}offer. After all... it smells delicious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Ann",
+    "en": "Geez, can you even try to be modest!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Hikari",
+    "en": "Huh? Um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Ann",
+    "en": "Geez, can you even try to be modest!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067_5",
+    "locuteur": "Ann",
+    "en": "Um, sorry about that―thank you, we'll{SAUT}take it with us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Yusuke",
+    "en": "Well then, we should begin our mission.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Ann",
+    "en": "Our mission...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Ann",
+    "en": "H-Hey, uh... I've been wondering...{PAGE}If we go back inside the movie, we'll{SAUT}most likely transform again, right?{PAGE}Meaning, they'll watch us turn into{SAUT}the Phantom Thieves!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Nagi",
+    "en": "Huh? The... Phantom Thieves?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Ryuji",
+    "en": "Shit! She figured it out already!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Ann",
+    "en": "W-Well, um... About the Phantom{SAUT}Thieves thing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_074",
+    "locuteur": "Nagi",
+    "en": "Is that from a recent criminal case?{SAUT}Or, perhaps some new picaresque{SAUT}crime biopic I've yet to hear of?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_075",
+    "locuteur": "Hikari",
+    "en": "I don't get it, either...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_076",
+    "locuteur": "Ryuji",
+    "en": "Seriously? You two don't know about{SAUT}the Phantom Thieves!?{PAGE}I'm blown away over here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_077",
+    "locuteur": "Nagi",
+    "en": "I'm sorry, I don't keep up much with{SAUT}current events―this goes for Hikari-san{SAUT}as well, apparently.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_078",
+    "locuteur": "Morgana",
+    "en": "Quit pitching a fit about it! We don't{SAUT}WANT them to know!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_079",
+    "locuteur": "Nagi",
+    "en": "Speaking of these Phantom Thieves,{SAUT}there is one thing I'm rather curious{SAUT}about...{PAGE}Were the costumes and special effects{SAUT}in the movie cosplay-related, or some{SAUT}similar situation?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_080",
+    "locuteur": "Ann",
+    "en": "She totally saw everything...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_081",
+    "locuteur": "Akechi",
+    "en": "About that, Nagi-san: we're not certain{SAUT}ourselves...{PAGE}While we're inside the movie, we can{SAUT}somehow harness this power called{SAUT}a \"Persona.\"{PAGE}It may be a similar situation to how{SAUT}the hero in the movie was altered{SAUT}to become Kamoshidaman.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_082",
+    "locuteur": "Ryuji",
+    "en": "Ooh, he really sold that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_083",
+    "locuteur": "Nagi",
+    "en": "My, is that so?{PAGE}*sigh* So many perplexing{SAUT}developments... It'll take some{SAUT}time for me to process all of this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_084",
+    "locuteur": "Akechi",
+    "en": "It seems that we have a great deal of{SAUT}investigation ahead of us. Let's hurry{SAUT}back to the theater.",
+    "fr": ""
+  }
+]

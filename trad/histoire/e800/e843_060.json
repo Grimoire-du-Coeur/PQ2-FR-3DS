@@ -1,0 +1,142 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Teddie",
+    "en": "Huh? Is this a dead end?{SAUT}Then that means we're done!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "H-Hey, wait a sec. What if this{SAUT}goal is a trap...?{PAGE}Is the floor gonna open up and{SAUT}drop us down a spike pit or{SAUT}something...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Gah! What!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Sonorous voice",
+    "en": "Well done, everyone. You have{SAUT}reached the goal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "*sigh* That scared me... It's just that{SAUT}lady from before...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Sonorous voice",
+    "en": "I observed the choices you made,{SAUT}and I found them quite intriguing.{PAGE}Perhaps you're already aware, but{SAUT}there was no right answer to the{SAUT}questions you read.{PAGE}I simply wanted to know how you{SAUT}would think, and what you would{SAUT}feel in response to them.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "It was interesting.{OPTION}It left a bad taste.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Sonorous voice",
+    "en": "Hmhm... I'm certainly glad you{SAUT}enjoyed.{PAGE}I'm certain the time you spent{SAUT}deliberating was not wasted.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Sonorous voice",
+    "en": "Oh? Was it not to your liking?{PAGE}Perhaps the questions were a bit{SAUT}dire, but that extremity was only{SAUT}meant to provoke serious answers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Sonorous voice",
+    "en": "In any case, as my thanks for such{SAUT}a fascinating show, I've prepared{SAUT}a modest gift.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Sonorous voice",
+    "en": "It seems you're a very logical thinker.{PAGE}Would you maintain that fortitude in{SAUT}a crisis? Would you act with calm,{SAUT}unclouded by tension or emotion?{PAGE}Now, please accept this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "There's something on the ground...{PAGE}Received Logos Mirror!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Sonorous voice",
+    "en": "You seem to be very kindhearted{SAUT}people. But more than that...{PAGE}You have an unwavering resolve to{SAUT}protect what's important to you...{SAUT}Such conviction draws others closer.{PAGE}Now, please accept this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "en": "There's something on the ground...{PAGE}Received Roman Mirror!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Sonorous voice",
+    "en": "You seem to follow your instincts,{SAUT}and you are very honest with your{SAUT}feelings.{PAGE}Such naturally balanced intuition is{SAUT}sure to resonate with many others.{PAGE}Now, please accept this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "en": "There's something on the ground...{PAGE}Received Sense Mirror!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Sonorous voice",
+    "en": "Well, well... You exhibit a unique{SAUT}way of thinking indeed. It's quite{SAUT}unlike most others.{PAGE}It is such individuals who often bring{SAUT}revolution to the world. Remember{SAUT}to sharpen and trust those instincts.{PAGE}Now, please accept this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "en": "There's something on the ground...{PAGE}Received Maverick Mirror!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Sonorous voice",
+    "en": "You may find that your perspective{SAUT}on these choices will change with{SAUT}time...{PAGE}Should the opportunity present itself,{SAUT}I encourage you to think on your{SAUT}decisions again.{PAGE}Though our time was short, it was{SAUT}nonetheless a valuable experience.{PAGE}Now then, I bid you all farewell.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Junpei",
+    "en": "*sigh* What a sexy voice...{SAUT}Whoever she is, I bet she's{SAUT}a total babe.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukari",
+    "en": "Ugh. That's the first thing out of{SAUT}your mouth? We need to find a cart{SAUT}to push YOU under.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Chie",
+    "en": "Sheesh, I've had tests that were{SAUT}easier than those two measly{SAUT}questions!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "They were rather thought-provoking.{PAGE}Plus, we got a glimpse of the way{SAUT}Joker thinks. I quite enjoyed that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Morgana",
+    "en": "Looks like that's the end of it.{SAUT}It's about time we headed back.",
+    "fr": ""
+  }
+]

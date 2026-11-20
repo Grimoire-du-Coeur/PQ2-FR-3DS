@@ -1,0 +1,91 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Naoto",
+    "en": "I must say, this place is impeccably clean;{SAUT}I can't find a single trace of dust.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, it's like the complete opposite of{SAUT}the dinosaur movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "No kiddin'. No grass or giant bones{SAUT}anywhere.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Y'know, I get that those bones are just{SAUT}dead dinosaurs, but isn't it kinda freaky{SAUT}when you look 'em in the eyes?{PAGE}Ugh, I just remembered all of it... I'm so{SAUT}glad there's nothing like that here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Yes. Still, this spotless scenery brings{SAUT}issues of its own.{PAGE}For example, take those dinosaur bones{SAUT}Panther just mentioned...{PAGE}Those were a good indicator of whether{SAUT}or not an area was dangerous.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "What do you mean?{OPTION}How could you tell?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "If you analyze the bones, you can make{SAUT}a good guess as to when the dinosaur{SAUT}died.{PAGE}And if you know that, then you can{SAUT}estimate how far away its killer is.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "I see. Fresh bones would mean danger is{SAUT}close by. Otherwise it's safe...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Unfortunately, there's nothing like that{SAUT}in this movie; we'll need to be more{SAUT}careful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Tsk, you should've just said so.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "Haha, sorry.{PAGE}I'm a newcomer here, so I didn't want{SAUT}to act like I was in charge.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Chie",
+    "en": "Wow, Crow, you're so cool.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "That's right, Koromaru-kun. Your nose{SAUT}won't be as effective against the{SAUT}mechanical enemies here. {PAGE}It seems this sci-fi city will prove quite{SAUT}the challenge.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "en": "A new special screening:{SAUT}\"Beast Hunt\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

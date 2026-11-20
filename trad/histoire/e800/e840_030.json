@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "Whew... We've walked quite a ways.{SAUT}Should we take a break?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "Yes! Let's all lie down! I get the spot{SAUT}next to Yuka-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Well then I get the one next to Lady{SAUT}Ann!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Then I'll take Mona...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "You're all hoping to get some pets,{SAUT}huh? Kanji, at least the animals have an{SAUT}excuse, for crying out loud.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "What's wrong?{OPTION}You're tired, too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "Oh, I'm fine.{PAGE}I just get a strange feeling here.{PAGE}It's oddly bright, strange... And scary.{PAGE}But for some reason, I'm kind of{SAUT}comfortable here.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "Well, it's your movie.{OPTION}It is a nice place.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Mm-hm. Maybe this is like my second{SAUT}home... ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "*chuckle* Thank you for{SAUT}complimenting my movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Hikari",
+    "en": "I wonder if this will always be here... Or{SAUT}if it will change.{PAGE}......{PAGE}*chuckle* Sorry for getting lost in my{SAUT}thoughts.{PAGE}Let's look for that fruit. We don't want{SAUT}to keep Elizabeth waiting.",
+    "fr": ""
+  }
+]

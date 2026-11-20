@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Well now, I'd say we're much closer to{SAUT}the container than before.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Haha, what is it? Those sparkly eyes tell{SAUT}me you want something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "I think he wants you to play with him,{SAUT}Fox.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Ohh, good for you, Fox. I'm sure you{SAUT}two'll get along great.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Fuuka",
+    "en": "It looks like Koro-chan's interested in{SAUT}Fox's tail.{PAGE}It is fluffy, after all. Maybe he thinks{SAUT}you're like him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "Now that I look at you, you are rather{SAUT}cute.{PAGE}It certainly feels different playing with a{SAUT}dog. I've grown somewhat accustomed{SAUT}to cats lately.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "What do you mean \"somewhat\"!? Also,{SAUT}I'm not a cat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "The joke's basically a tradition at this{SAUT}point...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "I like cats...{PAGE}Not only are they cute, but they also{SAUT}have an air of nobility about them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "See, Naoto gets it. You may touch{SAUT}my paw if you like.{PAGE}...I'm not a cat, though!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Fuuka",
+    "en": "Um, I don't mean to spoil the fun, but{SAUT}we should probably get going.{PAGE}The container is just up ahead. Be{SAUT}careful, everyone.",
+    "fr": ""
+  }
+]

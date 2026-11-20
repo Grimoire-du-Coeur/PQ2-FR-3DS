@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Enlil",
+    "en": "...Why won't you surrender yourselves{SAUT}to my salvation?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "Happiness isn't something you leave in{SAUT}someone else's hands. You have to seek{SAUT}it out and attain it yourself.{PAGE}During that search, you support the{SAUT}people you meet, and vice versa,{SAUT}to find happiness together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Enlil",
+    "en": "When humans interact with one{SAUT}another, each person takes a toll{SAUT}upon the other's heart.{PAGE}Even if you drive me away, there will be{SAUT}no end to such strife.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Hero",
+    "en": "That might be true―the answer we've{SAUT}reached may not always be the right{SAUT}one.{PAGE}I'm sure there'll be times where we{SAUT}unintentionally hurt others, or end up{SAUT}getting hurt...{PAGE}But even then, I want my life to be one{SAUT}where I'm content with the conclusion{SAUT}I reach.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Enlil",
+    "en": "No matter when or where, a brutal{SAUT}storm brews within humans' hearts.{PAGE}Yet, you say that you have the resolve to{SAUT}stand your ground, on your own feet?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "We absolutely have that resolve.{OPTION}Don't underestimate us humans.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, that's our final answer―right,{SAUT}Hikari-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "I'm not going to be dependent on you.{SAUT}I'll seize my happiness on my own!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Despondent woman's voice",
+    "en": "You have to seize happiness on{SAUT}your own... Yeah... That's right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Listless man's voice",
+    "en": "Could I... really do that too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Hero",
+    "en": "These voices...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Upset woman's voice",
+    "en": "If I can go back, then... I want to try{SAUT}again without giving up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Languid man's voice",
+    "en": "That's right... It's too early for me{SAUT}to give up so easily.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Listless man's voice",
+    "en": "I'm leaving here too. I won't let what{SAUT}people think ever bother me again!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P4 Hero",
+    "en": "...It looks like we got through to{SAUT}everyone else, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Enlil",
+    "en": "So, you all choose this path despite{SAUT}the pain it brings... What fools.",
+    "fr": ""
+  }
+]

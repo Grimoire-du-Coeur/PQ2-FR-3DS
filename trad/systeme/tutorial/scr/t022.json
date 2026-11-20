@@ -1,0 +1,17 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes00",
+    "en": "{f 0 1 2}Baton Pass{f 0 1 0} has been added to your{SAUT}Support Skills.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "Baton Pass allows you to {f 0 1 2}transfer one{SAUT}party member's Boost to another{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "Baton Pass can be accessed by pressing{SAUT}the {f 0 1 2}X Button{f 0 1 0} and selecting it from the{SAUT}{f 0 1 2}Support Skills{f 0 1 0} menu. Try to transfer a{SAUT}Boost to the ally whose skills will be{SAUT}the deadliest in the current situation!",
+    "fr": ""
+  }
+]

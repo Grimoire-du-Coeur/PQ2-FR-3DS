@@ -1,0 +1,17 @@
+[
+  {
+    "id": "PARTY_EDIT_SCR_MSG",
+    "en": "Welcome.",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_TUTORIAL_TOP",
+    "en": "This is the tutorial message on the TOP screen for \"Change Party Members.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_NAVI_OPEN_S",
+    "en": "Navigators have {f 0 1 2}combat-only{f 0 1 0} skills and{SAUT}{f 0 1 2}exploration-only skills{f 0 1 0}. If you separate{SAUT}the combat and exploration navigators,{SAUT}they can {f 0 1 2}only use the skills that{SAUT}correspond with how you've sorted them{f 0 1 0}.",
+    "fr": ""
+  }
+]

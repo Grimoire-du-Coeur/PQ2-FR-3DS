@@ -1,0 +1,121 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Ugh, I'm beat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "locuteur": "Junpei",
+    "en": "It's a dead end, so we can take a little{SAUT}break before heading back, right?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Sure, let's take a break.{OPTION}If you must.{OPTION}Start running.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Aw yeah, you feel me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Junpei",
+    "en": "I bet someone as kindhearted as you's a{SAUT}real hit with the ladies. Or maybe you're{SAUT}already goin' steady with someone...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "You're a slavedriver, man! That won't{SAUT}get you popular with the ladies!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Junpei",
+    "en": "Speaking of which, how 'bout I give you{SAUT}some pointers...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mitsuru",
+    "en": "Iori!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "Y-Yes!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Mitsuru",
+    "en": "If you've got time to chatter, then{SAUT}you've clearly got energy to spare.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006_1",
+    "locuteur": "Mitsuru",
+    "en": "So less talking, more walking! Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Junpei",
+    "en": "Yes, ma'am...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "Honestly...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "Are you okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Mitsuru",
+    "en": "Oh, my apologies for the outburst; it's{SAUT}just my negligence as a leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_1",
+    "locuteur": "Mitsuru",
+    "en": "He's not a bad person at heart, but he's{SAUT}too carefree. Or maybe he just doesn't{SAUT}know when to get serious...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Makoto",
+    "en": "The troubles never seem to end for us{SAUT}older group members.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Mitsuru",
+    "en": "Ah, right, you're a third-year as well.{SAUT}I'd love to chat with you at some point...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012_1",
+    "locuteur": "Mitsuru",
+    "en": "But I don't want to be a hypocrite. We{SAUT}should get going for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "en": "A new special screening:{SAUT}\"Those Who Stand at the Top\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

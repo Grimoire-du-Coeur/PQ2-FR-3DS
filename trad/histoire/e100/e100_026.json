@@ -1,0 +1,24 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "The sign on the door says, \"Authorized{SAUT}personnel only...\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_5",
+    "en": "The door won't budge...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "\"Authorized personnel only,\" eh? I guess{SAUT}it's only natural that the door's locked,{SAUT}then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "I could flex my lockpicking skills here...{PAGE}But, finding Makoto and Haru is more{SAUT}important right now. Let's get back to{SAUT}the search.",
+    "fr": ""
+  }
+]

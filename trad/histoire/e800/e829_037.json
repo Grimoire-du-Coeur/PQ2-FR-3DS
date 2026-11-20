@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Tyranniqueen, dead ahead! Monster!{SAUT}Your time is up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "Heheh, Oracle's really playing her part.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ken",
+    "en": "Prepare yourself, Tyranniqueen! We{SAUT}won't just sit back while you wreck the{SAUT}place!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "Hahaha, looks like Ken-kun is too. This{SAUT}turned out to be pretty fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "Feather Joker! Give us the word!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Let's do it!{OPTION}It's Show Time!{OPTION}Feather Change!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Heheh, you're feelin' it! Right on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Junpei",
+    "en": "C'mon, you're already in costume. This{SAUT}is where you say, \"Let's go!\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Let's finish this, Joker! Bring 'em on!",
+    "fr": ""
+  }
+]

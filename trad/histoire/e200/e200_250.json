@@ -1,0 +1,247 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosukesaurus",
+    "en": "A-Ah... Whaaaa...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Oh no! That carnivore just snatched{SAUT}her!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Why're you just standing there? If we{SAUT}don't hurry after them, there'll be{SAUT}nothing we can do to help!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Stubborn herbivore",
+    "en": "......{PAGE}So... Isn't this when we do the thing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosukesaurus",
+    "en": "Huh?{PAGE}Oh... Right...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukiko",
+    "en": "What's the \"thing\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosukesaurus",
+    "en": "...We vote on what to do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "What? Voting!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Stubborn herbivore",
+    "en": "Alright, first thing...{PAGE}If you think we should go after{SAUT}the carnivore, raise your hand!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Sulky herbivore",
+    "en": "Won't it be dangerous, though?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Nervous herbivore",
+    "en": "We could get ourselves eaten too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "...Does no one intend to rescue their{SAUT}companion?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosukesaurus",
+    "en": "Nngh... I...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_015",
+    "choix": true,
+    "en": "You want to save her, right?{OPTION}Be honest with how you feel.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosukesaurus",
+    "en": "Y-Yeah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Pouting herbivore dino",
+    "en": "One vote for going after her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Stubborn herbivore",
+    "en": "Now, those who think we should leave{SAUT}well enough alone, raise your hand!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "en": "The remaining herbivores all raised{SAUT}their hands...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Wha―Seriously!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Stubborn herbivore",
+    "en": "The majority vote is to move on without{SAUT}our companion. Does anyone dissent?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yosukesaurus",
+    "en": "N-No...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Kanji",
+    "en": "You asshole! Are you seriously fine{SAUT}with this!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yosukesaurus",
+    "en": "Well, we're weak, so we won't survive{SAUT}if we don't act together...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ann",
+    "en": "But didn't you want to save your{SAUT}companion?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosukesaurus",
+    "en": "Y-Yeah, but... it's already been decided{SAUT}by majority vote...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Makoto",
+    "en": "I admit, such a decision may sometimes{SAUT}be necessary for one's survival in nature.{SAUT}Even still...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yosukesaurus",
+    "en": "...There's nothing I can do about it.{SAUT}I do feel sorry for her, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Teddie",
+    "en": "Grrrrr! You may have the same face as{SAUT}Yosuke, but you're not like him at all{SAUT}on the inside!{PAGE}The real Yosuke would―He'd...{PAGE}He'd care about his companions more{SAUT}than you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P4 Hero",
+    "en": "You're right. Yosukesaurus isn't actually{SAUT}Yosuke...{PAGE}But I still can't agree with his way of{SAUT}thinking.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Morgana",
+    "en": "Hey, Joker―are you fine with{SAUT}abandoning that herbivore like{SAUT}this?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_032",
+    "choix": true,
+    "en": "Let's go save her.{OPTION}We can do it ourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yusuke",
+    "en": "Yes, she needs to be rescued.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yosukesaurus",
+    "en": "You say that now, but... They're already{SAUT}long gone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Haru",
+    "en": "Oracle! Rise-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Futaba",
+    "en": "Yep! We heard all of y'all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Rise",
+    "en": "Yeah, leave it to us―we'll find 'em{SAUT}in a flash!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yosukesaurus",
+    "en": "Wh-What're you guys―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Futaba",
+    "en": "Got 'em! They seem to be one floor{SAUT}down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Rise",
+    "en": "Mmhm, they're definitely downstairs...{SAUT}But, I don't think we can pinpoint{SAUT}exactly where they are.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Kanji",
+    "en": "Heh, knowin' which way to go is more{SAUT}than enough. Let's get to it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "P4 Hero",
+    "en": "Right. We'll definitely save her.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "MSG_TUTORIAL_DUNGEON_BAS",
+    "en": "Unused{SAUT}{f 3 1 1 0 0 0}Press the {f 0 1 2}X Button{f 0 1 0} to open the menu{SAUT}screen. Here, you can use items or skills,{SAUT}and view your party's status.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_DUNGEON_BAS#2",
+    "en": "Learn the basic controls and try moving{SAUT}around.",
+    "fr": ""
+  }
+]

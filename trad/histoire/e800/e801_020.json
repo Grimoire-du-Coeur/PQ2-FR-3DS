@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "So the goal is to defeat eight Basalts,{SAUT}right?{PAGE}There's not much else to go on, so{SAUT}I guess we should just do what we{SAUT}always do?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Let's make this quick.{OPTION}Let's take our time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Hm? Hang on a second, Joker!{PAGE}I'm picking up more FOE signals than{SAUT}usual.{PAGE}Not only that, but the Basalts seem to{SAUT}be hangin' around awfully close to them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "Could that be one of the changes that{SAUT}happens during a special screening...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Looks like it. And I think normal{SAUT}pathways might be blocked off too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "I see... It's like a short film version of{SAUT}the labyrinth that lets us reach our goal{SAUT}quickly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "You said the Basalts are gathered near{SAUT}the FOEs, isn't that right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "That means we'll achieve our goal faster{SAUT}if we head toward them.{PAGE}It's risky, but it's probably the most{SAUT}efficient plan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "FOEs are tough, though.{PAGE}We'll leave it up to Joker to decide,{SAUT}just like always! We're counting on{SAUT}you, Joker!",
+    "fr": ""
+  }
+]

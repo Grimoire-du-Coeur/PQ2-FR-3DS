@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "All right! So much for that dumbass{SAUT}FOE!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "Huh. I guess we can afford to{SAUT}do this at our own pace...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "Wait, what!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Be careful! We got another FOE!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Looks like they called for backup...{SAUT}Should've known it wouldn't be that{SAUT}easy.",
+    "fr": ""
+  }
+]

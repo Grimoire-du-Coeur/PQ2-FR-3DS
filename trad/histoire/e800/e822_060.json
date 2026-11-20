@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Mission accomplished. Come on back,{SAUT}everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "All right! Let's roll, Ken.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ken",
+    "en": "Um, would it be all right if I asked one{SAUT}more thing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Hm? What is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "Can you change anyone's heart, no{SAUT}matter who they are?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "If they're evil...{OPTION}If they're on the navigator.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Yeah. If there's evil in someone's heart,{SAUT}we should be able to find them on the{SAUT}Metaverse Navigator.{PAGE}Why do you ask?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ken",
+    "en": "Navigator? You mean Oracle?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "No, the Metaverse Navigator. It usually{SAUT}only reacts to criminals.{PAGE}Why do you ask?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ken",
+    "en": "Oh, no reason. I was just a little curious.{PAGE}Well, we've finished up here, so let's{SAUT}head back!",
+    "fr": ""
+  }
+]

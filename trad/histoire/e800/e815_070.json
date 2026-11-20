@@ -1,0 +1,146 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "It is good to see you are all well.{PAGE}You hunted down your prey then closed{SAUT}in for the kill! It seems you were the{SAUT}real bloodthirsty beasts in this story.{PAGE}What a splendid show. It was a perfect{SAUT}display of the harsh laws of nature.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "Ahaha... She called us beasts...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akihiko",
+    "en": "I'd never say no to a tough opponent.{SAUT}Lookin' forward to the next one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Shinjiro",
+    "en": "*sigh* The only bloodthirsty one here is{SAUT}you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Well then, I think I'll take a break,{SAUT}{f 6 1 30 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Phew...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "Um, Akechi-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Amada-kun? What is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ken",
+    "en": "Um...{PAGE}You're different from the rest of the{SAUT}Phantom Thieves, aren't you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ken",
+    "en": "I noticed your expression changes when{SAUT}you're with Koromaru...{PAGE}I feel at ease when I'm with him too.{PAGE}It got me thinking that... maybe we're{SAUT}the same, Akechi-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "Hmm... What makes you say that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ken",
+    "en": "Koromaru's a smart dog, so he can pick{SAUT}up on that kind of stuff.{PAGE}He was really worried about you, so{SAUT}that must mean you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ken",
+    "en": "Uh, sorry... You probably have no idea{SAUT}what I'm talking about.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ken",
+    "en": "He's calling for me, so I gotta go. Sorry,{SAUT}just forget I said anything!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "......{PAGE}You really are sharp, Koromaru-kun...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P4 Hero",
+    "en": "That's an unexpected pair.{PAGE}It looked like a pretty serious discussion.{SAUT}What do you think they were talking{SAUT}about?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "Personal problems?{OPTION}Love, maybe?{OPTION}Don't know, don't care.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P4 Hero",
+    "en": "I see. Akechi-san does seem like he'd{SAUT}offer good advice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P4 Hero",
+    "en": "What!? But Ken's still in grade school...{PAGE}Well... he is mature for his age, so it's{SAUT}possible. I imagine Akechi-san would{SAUT}know a lot about those things.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. It's probably best not to pry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P4 Hero",
+    "en": "......{PAGE}This is just a thought, but...{PAGE}It seems like they each have something{SAUT}looming over them that neither feels{SAUT}they can really talk about.{PAGE}And whatever those somethings are,{SAUT}they'll eventually lead to...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "What do you mean?{OPTION}I don't follow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P4 Hero",
+    "en": "Oh, sorry. I guess there's no point in{SAUT}wondering.{PAGE}For now, we'll just have to watch over{SAUT}them...{PAGE}Hopefully, we'll grow closer as a team{SAUT}and have some sort of positive influence{SAUT}on those two.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "DG_OBJECTIVE_MSG_LARGE_0",
+    "en": "Find the fake police officer!",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0",
+    "en": "Find the officer or the terminal",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#2",
+    "en": "Gather info from the police",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#3",
+    "en": "Reveal the fake police officer",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#4",
+    "en": "Speak to the police officer",
+    "fr": ""
+  }
+]

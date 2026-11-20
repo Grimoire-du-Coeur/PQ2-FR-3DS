@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Teddie",
+    "en": "I found a Treasure Spot!{SAUT}Wanna grab some stuff?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "Leave it all to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "I'm gonna find it first!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Oh, not this one?{SAUT}You got it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "We've cleaned the place out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Dig here! Dig here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Niiiice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Got it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Teddie",
+    "en": "Whew... We got through it.{SAUT}And we got some loot, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Nyoink!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Woohoo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Bingo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Teddie",
+    "en": "I've found a shortcut!{SAUT}Wanna take it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Teddie",
+    "en": "Aww, we can't get through...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Teddie",
+    "en": "Something doesn't smell right{SAUT}about this place!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Teddie",
+    "en": "Okay! Time to do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Teddie",
+    "en": "Yep yep! Smart move!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Teddie",
+    "en": "Guh... phew... That Shadow{SAUT}was beary bad news...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "*sniff sniff* Smells like a{SAUT}whole load of Shadows...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Teddie",
+    "en": "Okay! Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Teddie",
+    "en": "Backing out, right?{SAUT}Roger that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "Are we done?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Teddie",
+    "en": "Huh? We going back to{SAUT}the theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

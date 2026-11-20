@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "...Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "Wait, are you saying...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Yes, that was me. I was nearly starving{SAUT}to death at the time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "You told this story for a gag!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Wait, Yukki! You did the reveal too{SAUT}early!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Huh? I did? I was just doing what you{SAUT}told me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "The idea is to draw it out as long as{SAUT}possible and put everyone on the edge{SAUT}of their seats...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukari",
+    "en": "You roped Yukiko-chan into this too...?{SAUT}You've got some nerve, Stupei.{PAGE}This has been a long time coming. Any{SAUT}last words?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "Wait, time out! Let's not do anything{SAUT}crazy, Yuka-tan!{PAGE}I only did it to help Yukiko-chan{SAUT}master the \"Believe It, or Don't\" thing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "...Any more nonsense, and you'll have{SAUT}to answer to the iron fist of justice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Junpei",
+    "en": "Eek...! I'm sorry! I got carried away!{SAUT}Please, anything but the spikes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Hehehe. Queen's fists are scarier than{SAUT}any ghost story. You better watch out.{PAGE}Welp, our investigation is over. I think{SAUT}it's time we head back.",
+    "fr": ""
+  }
+]

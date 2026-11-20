@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Excellent work out there, everyone.{PAGE}I saw everything from the big screen.{SAUT}You found the graffiti in question{SAUT}without any trouble whatsoever.{PAGE}Amidst that work of art was a small{SAUT}glimpse of change... How terribly{SAUT}fascinating.{PAGE}It would seem words are not the only{SAUT}form of expressing oneself. I'm rather{SAUT}impressed by this revelation.{PAGE}Thank you for allowing me to indulge in{SAUT}such a wonderful screening. Allow me{SAUT}to prepare your reward.{PAGE}I'll give it to you in due time. Please{SAUT}make good use of it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "What's up, Inari? Your hand getting{SAUT}out of control again?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "No. It's just that this latest special{SAUT}screening has given much to think{SAUT}about.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "Really? I kinda thought you had it all{SAUT}figured out, Yusuke-kun!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "I believed defeating Kamoshidaman{SAUT}would have some sort of effect on{SAUT}the people's thinking, but...{PAGE}I had also believed that the movie{SAUT}would only continue as long as we were{SAUT}changing it.{PAGE}After we left, I assumed time there{SAUT}would stop.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Actually, I was thinking the{SAUT}same thing.{PAGE}Once it was all over, I didn't{SAUT}think there'd be any more to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "But after seeing that graffiti, I realized{SAUT}that wasn't the case.{PAGE}Even without our influence, the movie{SAUT}will continue to change.{PAGE}Those people have become{SAUT}independent, and now they've started{SAUT}acting of their own will.{PAGE}It's no ordinary film. It's a living entity...{SAUT}Wouldn't you agree?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "I feel you.{OPTION}You're exaggerating.{OPTION}My hand, it trembles...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "A living entity, huh...? That's certainly a{SAUT}different take on it.{PAGE}I never imagined some simple graffiti{SAUT}would broaden my views so greatly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "Yeah, it's a little difficult to imagine{SAUT}that the movie's actually alive.{PAGE}Still, it does seem fitting... I definitely{SAUT}see things differently now.{PAGE}I never imagined some simple graffiti{SAUT}would broaden my views so greatly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "Hah... You too? Having touched the art{SAUT}of another, my hand refuses to settle{SAUT}down.{PAGE}Erk... No! Now that I'm thinking about{SAUT}it, I'm losing control again!{PAGE}I long to give shape to these feelings{SAUT}welling within me...! Ahh, if only I had a{SAUT}brush and a canvas right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Hey, you mind not triggering Inari like{SAUT}that? Now we're gonna have to wait for{SAUT}him to settle down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "You got that right. It'll be pretty{SAUT}interesting to see how this movie{SAUT}changes from here on out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "I won't claim that we're serving justice{SAUT}or anything... but I'm happy if we've{SAUT}given those people a chance to change.{PAGE}Ahh, how exciting! I think my hand is{SAUT}starting to shake too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "All right, enough of that joke, or we're{SAUT}all gonna start acting like Yusuke.{PAGE}Let's just hope that all of the other{SAUT}movies change for the better like this{SAUT}one did!",
+    "fr": ""
+  }
+]

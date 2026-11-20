@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Hikari",
+    "en": "No... This again!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "I thought he had disappeared...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Is that really Doe?{OPTION}That's a phony.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "He's most likely from a different film{SAUT}than the one we edited.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Right. At the very least, he's not the{SAUT}same one that we know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Hero",
+    "en": "I think you're right. Doe was born from{SAUT}Hikari-san's distorted cognition...{PAGE}But her consciousness has changed{SAUT}already.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Koromaru",
+    "en": "Grrrrr...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Shinjiro",
+    "en": "So what we're seein' here's the distorted{SAUT}version of the film, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P4 Hero",
+    "en": "That would mean the consciousness{SAUT}of the people in the theaters is still{SAUT}distorted...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ken",
+    "en": "If we leave this as it is, everyone will be{SAUT}forced to keep watching that distorted{SAUT}movie, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Then we need to change it. We'll change{SAUT}it as many times as we have to!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Doe",
+    "en": "As long as you live, you will face suffering{SAUT}and strife. Oppose others and you will{SAUT}be hurt.{PAGE}If you don't want to be hurt, discard{SAUT}everything and surrender yourself{SAUT}to this movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "You're wrong! Nobody wants to see{SAUT}a movie like that.{PAGE}The protagonists in the movies I want{SAUT}to see always get back on their feet,{SAUT}no matter how hurt they end up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Doe",
+    "en": "Isn't this what you wished for? More{SAUT}than anyone else? Just look away and{SAUT}you'll soon be at ease.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "That's just avoiding reality.{OPTION}Yeah, it's easy, but not fun at all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Hikari",
+    "en": "I'll watch the movies that I want to see!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Doe",
+    "en": "Ngh... Nngh... Gggghhhh...{PAGE}If only... you all weren't here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Get ready! Here he comes!",
+    "fr": ""
+  }
+]

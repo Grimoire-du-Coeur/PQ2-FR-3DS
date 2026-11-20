@@ -1,0 +1,187 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "We have quite the opportunity here to{SAUT}gather some first-class items. What say{SAUT}you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Excellent idea. We're hardly in the{SAUT}position to fight anything powerful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Indeed, let us seek the choicest items.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Well, all right, then. But perhaps we{SAUT}should come back later.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Looks like that's it for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Very nice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Great!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "That was close. I certainly wouldn't{SAUT}mind if we stopped searching now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Now that's a find!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "No way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Very, very nice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "It's a shortcut. Shall we open it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "It's a shortcut. Shall we open it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akechi",
+    "en": "It's a shortcut. Shall we open it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akechi",
+    "en": "We can't go through from this side.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "We can't go through from this side.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "We can't go through from this side.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Akechi",
+    "en": "There's an ominous scent in the air...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "Right. Let's stay focused.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akechi",
+    "en": "Sounds like the right course of action.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akechi",
+    "en": "That was one serious fight!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "I'm sensing a ghastly Shadow. I do{SAUT}hope you have a plan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akechi",
+    "en": "Okay, let's check it out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akechi",
+    "en": "Yeah, we should be careful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Akechi",
+    "en": "Whew... We somehow managed it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Akechi",
+    "en": "Are we heading back to the theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

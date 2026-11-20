@@ -1,0 +1,187 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Outside the screening room...{PAGE}Teddie's bear suit is still here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Based on what we know of his behavior,{SAUT}Teddie was after one thing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "Right. Theodore's popcorn.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "But why wouldn't Teddie just ask?{PAGE}Considering his personality, it's hard to{SAUT}believe he'd act so aggressively.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "I have a theory on that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "Ohh? It's Nao-chan and Goro. What're{SAUT}you doing here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "Teddie! We've been looking for you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Hm? Why's everyone look so serious?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "Well, you see...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Hwah!? I can't believe all of that{SAUT}happened while I was away...!{PAGE}I haven't done anything! I'm an{SAUT}innocent bear!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Naoto",
+    "en": "Yes, we know.{PAGE}The Teddie we saw earlier acted far too{SAUT}differently from how you would{SAUT}normally behave.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "What are you suggesting?{OPTION}The culprit is someone else?{OPTION}Were you possessed?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "In other words, all of the incidents{SAUT}were carried out by someone disguised{SAUT}as Teddie... Am I correct?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "Yes, someone probably disguised{SAUT}themselves as Teddie... Is that right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Teddie",
+    "en": "Nwaah! I'm innocent! You've gotta{SAUT}believe me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akechi",
+    "en": "We know.{PAGE}It's likely all of the incidents were{SAUT}carried out by someone disguised as{SAUT}Teddie... Wouldn't you agree?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Naoto",
+    "en": "Yes, that is my opinion as well.{PAGE}The question that remains is: who was{SAUT}trying to pose as Teddie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "Have you been in the screening room{SAUT}this whole time, Teddie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Teddie",
+    "en": "A-ffirmative! I was hanging out with{SAUT}Yosuke and the others.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Naoto",
+    "en": "So you didn't hear the scream earlier?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Teddie",
+    "en": "I don't think so.{PAGE}We were watching a really loud{SAUT}movie at the time, though, so maybe{SAUT}that's why...{PAGE}But then Marga-chan got mad at us{SAUT}and made us leave.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akechi",
+    "en": "What happened to your bear suit?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "It was stuffy in the screening room, so I{SAUT}took it off and left it outside.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akechi",
+    "en": "I see. So the culprit took advantage of{SAUT}that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Naoto",
+    "en": "Yes, I'm starting to see what happened,{SAUT}and I believe I know who's responsible{SAUT}as well...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_025",
+    "choix": true,
+    "en": "Who?{OPTION}I have an idea too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Naoto",
+    "en": "I would tell you, but we don't have{SAUT}irrefutable evidence yet.{PAGE}If the culprit decides to play dumb,{SAUT}then we'll be out of options.{PAGE}It would be best not to name any{SAUT}names until we're absolutely certain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Naoto",
+    "en": "Then, you must also realize that we still{SAUT}lack irrefutable evidence.{PAGE}If the culprit decides to play dumb,{SAUT}we'll be out of options.{PAGE}Therefore, it would be best not to{SAUT}name any names until we're absolutely{SAUT}certain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Akechi",
+    "en": "In that case, I have an idea.{PAGE}But if we want this to work, we're going{SAUT}to need more of Theodore's popcorn.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Naoto",
+    "en": "Which means we'll need to get him the{SAUT}ingredients.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Akechi",
+    "en": "Right. {f 6 1 30 0 0 0}, whenever{SAUT}you're ready, we should attempt that{SAUT}special screening.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "MSG_BTL_UTIL_000",
+    "en": "\"Analyze\"{SAUT}You can view further information about{SAUT}Shadows by pressing the {f 0 1 2}L Button{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_100",
+    "en": "\"Persona Change\"{SAUT}Anyone who has the power of the wild{SAUT}card can, during battle, switch up{SAUT}Personas by selecting{f 0 1 2}Persona Change{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_101",
+    "en": "It can be very advantageous to use Persona{SAUT}Change to {f 0 1 2}access a different Persona{f 0 1 0} in{SAUT}the midst of battle, but you should also{SAUT}consider that it will alter some things, such{SAUT}as which affinities you are resistant to.{PAGE}Try to acquire as many Personas as you{SAUT}can, and switch to the one that will be the{SAUT}most effective in each situation!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_200",
+    "en": "\"Party Meter\"{SAUT}When an ally deals damage to a Shadow,{SAUT}the {f 0 1 2}Party Meter{f 0 1 0} will fill up a bit. Once it's{SAUT}completely full, you will get a point that{SAUT}you can spend on Support Skills!{PAGE}{f 0 1 2}Support Skills{f 0 1 0} are particular skills{SAUT}belonging to support allies that you{SAUT}yourself can deploy. Support Skills are{SAUT}powerful―make good use of them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_300",
+    "en": "\"Escaping From Battle\"{SAUT}When you wish to leave a battle, hold{SAUT}down the {f 0 1 2}B Button{f 0 1 0} to make everyone in{SAUT}the party attempt to escape on their turn.{SAUT}You'll need to hold the button down for{SAUT}not one, but several seconds.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_301",
+    "en": "Allies will automatically {f 0 1 2}defend{f 0 1 0} as they{SAUT}try to escape. Fleeing is a good idea if you{SAUT}are up against enemies you can't beat, or{SAUT}if your party's health is dire.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_900",
+    "en": "\"Boost\"{SAUT}If an ally strikes a Shadow with an affinity{SAUT}the Shadow is weak against, that ally will{SAUT}get a {f 0 1 2}Boost{f 0 1 0}! Anyone with a Boost will{SAUT}have all {f 0 1 2}skill costs reduced to 0{f 0 1 0}, and also{SAUT}will {f 0 1 2}act first{f 0 1 0}.{PAGE}By the way, if the battle ends right after{SAUT}an All-out Attack, {f 0 1 2}Boosts will carry over{SAUT}into the next battle{f 0 1 0}.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Oh my, it seems this next special{SAUT}screening is a crime thriller...{PAGE}There has been a series of suspicious{SAUT}incidents in Kamo City... Your task is to{SAUT}get to the bottom of the mystery.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "It sounds like we should step in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mitsuru",
+    "en": "What sort of incidents have occurred?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "I only have an outline of the{SAUT}circumstances... Frankly, I've no idea.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Shinjiro",
+    "en": "You can't seriously be that clueless...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "The bulk of your task will be to uncover{SAUT}the details of said incidents. 'Tis not my{SAUT}job.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Dude, if you don't even know what{SAUT}happened, then what the heck're we{SAUT}supposed to do...?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "It's a mystery.{OPTION}You tell her, Ace Detective.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Elizabeth",
+    "en": "But of course. It is a crime thriller,{SAUT}after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "I mean, she's not wrong...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Junpei",
+    "en": "Hey, this guy's got it! Yeah, not even{SAUT}Junpei, Ace Detective could solve this{SAUT}one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Mitsuru",
+    "en": "All right, enough fooling around...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011_1",
+    "locuteur": "Mitsuru",
+    "en": "We barely have anything to go by.{SAUT}What should we do...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Makoto",
+    "en": "Well, one of the first steps in any{SAUT}investigation is to examine the crime{SAUT}scene.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012_1",
+    "locuteur": "Makoto",
+    "en": "I think it'd be best if we just went out{SAUT}and looked for clues.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Mitsuru",
+    "en": "I see...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "Just what I'd expect from the daughter{SAUT}of a cop. Glad we can count on you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elizabeth",
+    "en": "Indeed! Examining the crime scenes will{SAUT}surely prove useful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015_1",
+    "locuteur": "Elizabeth",
+    "en": "As such, I have taken the liberty of{SAUT}marking the locations where these{SAUT}incidents have occurred.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "That's strangely convenient...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Makoto",
+    "en": "I wouldn't worry about it. Let's give{SAUT}it a try.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Elizabeth",
+    "en": "Now then, I am greatly looking forward{SAUT}to seeing this detective story unfold.",
+    "fr": ""
+  }
+]

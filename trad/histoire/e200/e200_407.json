@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Timid herbivore",
+    "en": "I-I've got your back!{PAGE}I won't lie to myself anymore... That's{SAUT}what I've decided!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Loud herbivore",
+    "en": "M-Me too! I want to be honest with{SAUT}how I feel!{PAGE}Take thiiiis!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosukesaurus",
+    "en": "You guys... Thank you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Gaudy carnivore",
+    "en": "GYAAAAAAH!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosukesaurus",
+    "en": "Dammit! Just a bit more...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Wow! Now that everyone's working{SAUT}together, they're beating back{SAUT}the carnivore!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "Yeah, they're doing great!{PAGE}But, since we're here too, it's about time{SAUT}we did our part to help!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosukesaurus",
+    "en": "You guys―B-But...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "But, aren't you wiped out by now?{PAGE}This would REALLY be pointless if you{SAUT}went too far and ended up losing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P4 Hero",
+    "en": "You've all grown so much today―and I'm{SAUT}sure you'll continue getting stronger...{PAGE}But, for your own future, and that of your{SAUT}companions, we ask that you rely on{SAUT}our strength for this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosukesaurus",
+    "en": "...Thanks, everyone. Alright, let's fight{SAUT}back together!",
+    "fr": ""
+  }
+]

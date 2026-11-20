@@ -1,0 +1,122 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "I've heard rumors that a vicious{SAUT}Tyrannosaurus rex is roaming Junessic{SAUT}Land once again.{PAGE}The goal this time is to defeat a{SAUT}Tyranniqueen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "The Tyranniqueen's that FOE in the{SAUT}dinosaur movie, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "That's the one. It's THE carnivore... The{SAUT}strongest there is.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Hm, I feel an intense battle coming up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "We've gotten a lot stronger. It's not like{SAUT}we don't stand a chance or anything.{PAGE}Besides, don't you think it's kind of{SAUT}exciting going up against the strongest{SAUT}dinosaur?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "We'll take it together.{OPTION}We'll show our courage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "Right. If the five of us work together,{SAUT}there's nothing we can't beat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Ooh, good thinking. That totally{SAUT}sounded like something you'd hear in{SAUT}those hero shows!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Whoa! That totally sounded like{SAUT}something a hero would say! Good{SAUT}going, Red.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ken",
+    "en": "Haha, you make a good leader,{SAUT}{f 6 1 30 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukari",
+    "en": "Huh? Ken-kun looks like he's having{SAUT}fun. What're you guys talking about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Phoenix Ranger Featherman! You're{SAUT}Pink, Yukari... No surprise there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Kanji",
+    "en": "A-And I guess that means I'm Yellow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "I thought you were the bad guy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Kanji",
+    "en": "Sh-Shut up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elizabeth",
+    "en": "Head to Junessic Land when you're{SAUT}ready. But before you do that... Could I{SAUT}trouble you for a picture?{PAGE}Oh, also, I forgot to mention: you'll{SAUT}need to defeat two Tyranniqueens.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosuke",
+    "en": "TWO!? That's a pretty important detail{SAUT}to forget...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Elizabeth",
+    "en": "Yes, well, the special screening requires{SAUT}that you defeat two.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "Featherman: Carnivore Carnage!{SAUT}Defeat the two dinosaur FOEs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ken",
+    "en": "Haha, sounds like the title for next{SAUT}week's episode.{PAGE}I'm getting pretty excited myself. Let's{SAUT}go, {f 6 1 30 0 0 0}-san.",
+    "fr": ""
+  }
+]

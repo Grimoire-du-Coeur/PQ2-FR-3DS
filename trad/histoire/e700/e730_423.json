@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Mitsuru",
+    "en": "This is that door from earlier...{PAGE}It seems that we can unlock it from{SAUT}this side.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ken",
+    "en": "Can I go ahead and do that, then? It{SAUT}would make our exploration a lot easier.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Sounds good to me.{OPTION}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "Then, if you'll excuse me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Sweet! We're good to go now. C'mon,{SAUT}let's keep pushin' forward!",
+    "fr": ""
+  }
+]

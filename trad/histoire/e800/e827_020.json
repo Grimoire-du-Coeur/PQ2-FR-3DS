@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Hero",
+    "en": "So we need two parts?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "Yes. We should be able to gather{SAUT}them at Treasure Spots.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Now then, onward! To our bounty{SAUT}of donu―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Hold on, Fox!{PAGE}There are a lot more FOEs around{SAUT}here than usual.{PAGE}If you just charge in, you're gonna get{SAUT}wrecked out there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Hero",
+    "en": "...This is gonna be a long one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "Well, at least it'll be good exercise{SAUT}before we eat. Let's keep our guards{SAUT}up.",
+    "fr": ""
+  }
+]

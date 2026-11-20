@@ -1,0 +1,302 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kamoshidaman",
+    "en": "Nngh... Wh-Why?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Doubtful man",
+    "en": "Kamoshidaman told us he was absolute{SAUT}justice...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Doubtful woman",
+    "en": "Maybe... maybe he isn't actually{SAUT}justice incarnate?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Disillusioned man",
+    "en": "Either way... that was pretty satisfying{SAUT}to watch.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Disillusioned woman",
+    "en": "Are we not getting punished for saying{SAUT}what we think anymore?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "None of them care about{SAUT}Kamoshidaman at all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Pitiful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kamoshidaman",
+    "en": "Nngh... My justice... Ngh...{PAGE}The city... doesn't need it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "He was hellbent on defending his{SAUT}righteousness to the end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "I wonder... Is it possible that he really{SAUT}did think he was doing what was best{SAUT}for the city?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "A leader is needed to guide the masses―{SAUT}but, the way he did it was nothing but{SAUT}a dictatorship.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Yeah. Forcing people to obey you with{SAUT}your power ain't gonna help anyone...{PAGE}And executing innocent people just{SAUT}to set an example is super messed up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "Well, no matter what, this case is solved.{SAUT}You do a bang-up job in this world too,{SAUT}Joker.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "That was a breeze.{OPTION}That was a tough operation.{OPTION}I really worked up an appetite.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "No wonder you're the leader of{SAUT}the Phantom Thieves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "Dependable as always. Let's keep it up{SAUT}so we can figure out how to get outta{SAUT}here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "Still, you did great!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Yeah! Justice always wins in the end!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, me too, me too! I'm starving!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "Is food all you guys think about!?{SAUT}Although, that was a pretty slick{SAUT}reply!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Haru",
+    "en": "But, wow, you guys―your plan to steal{SAUT}the Kamoshidaman statue was{SAUT}incredible!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Makoto",
+    "en": "How did you do that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "Ah yes―about that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Morgana",
+    "en": "First, we had Fox produce a cardboard{SAUT}cutout that looked exactly like the real{SAUT}statue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "I'd prefer to say that I painted{SAUT}a counterfeit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Morgana",
+    "en": "Then, we snuck behind the real one{SAUT}and tied balloons to it, so it would fly{SAUT}away...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "And we screwed with the lights to make{SAUT}sure no one saw us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Haru",
+    "en": "But, how could you tell that it was even{SAUT}light enough to fly off like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ann",
+    "en": "When we first fought Kamoshidaman,{SAUT}we figured out that the statue was{SAUT}a phony.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Ryuji",
+    "en": "That's why he freaked out so bad when{SAUT}it flew away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Makoto",
+    "en": "I see... Well, it was quite the bold idea.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "Everyone was super psyched about it.{SAUT}Especially {f 6 1 27 0 0 0}―right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Haru",
+    "en": "Um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Morgana",
+    "en": "Oh, we forgot to introduce her to you.{SAUT}She's a Persona-user we met here{SAUT}in the movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "P3 Fem Protag",
+    "en": "I'm {f 6 1 28 0 0 0}. Nice to{SAUT}meet you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Makoto",
+    "en": "She's... a Persona-user?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm―you two are too, right? I was{SAUT}floored when I found out about you all.{PAGE}We all think I might have come from{SAUT}somewhere different than where you're{SAUT}from, though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Makoto",
+    "en": "My mind is reeling from all of these{SAUT}bizarre events...{PAGE}I need some time to process this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Ryuji",
+    "en": "I gotcha. We've gotta figure out how to{SAUT}escape the movie theater, anyways.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Haru",
+    "en": "Movie theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Yusuke",
+    "en": "A picture is worth a thousand words.{SAUT}It'd be quicker to simply show you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Ryuji",
+    "en": "What's up, Panther?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Ann",
+    "en": "Well... I was just wondering why{SAUT}Kamoshidaman's true form was{SAUT}a rabbit.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_044",
+    "choix": true,
+    "en": "He's a fan of rabbits.{OPTION}He just wanted to be loved?{OPTION}He was a sex fiend.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Ann",
+    "en": "Really, that's why?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Ann",
+    "en": "Oh, like how they say rabbits can die{SAUT}from loneliness? Because, uh, that's not{SAUT}how I would've described him...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Yusuke",
+    "en": "I see... It is a well-known fact that{SAUT}rabbits have strong sex drives.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Ann",
+    "en": "Ugh. Don't even go there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Akechi",
+    "en": "I don't think we'll reach a conclusion{SAUT}by standing around here. Let's return{SAUT}to the movie theater.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Futaba",
+    "en": "Yeah―everybody, get on back here!",
+    "fr": ""
+  }
+]

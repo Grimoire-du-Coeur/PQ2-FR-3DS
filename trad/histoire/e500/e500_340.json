@@ -1,0 +1,127 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Theater District, Depths...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "I hope you're ready, dammit―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "...What the hell? Nobody's here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Aw man, did we go the wrong way?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Rise",
+    "en": "Everyone! Look up there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Enlil",
+    "en": "My... You simply can't get enough of{SAUT}your interfering here, eh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "Enlil!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Enlil",
+    "en": "It's incomprehensible to me―why are{SAUT}you putting so much effort into fighting{SAUT}for complete strangers?{PAGE}Had you simply heeded my word and{SAUT}returned to your worlds, all of your{SAUT}struggles here would be concluded.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "I can understand the feeling―wanting to{SAUT}run away, and not wanting to get hurt...{PAGE}But, that's why I can't just walk away{SAUT}from what you're doing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "If I ran away from this, I wouldn't be{SAUT}acting on my beliefs―and I'd never{SAUT}do something like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Enlil",
+    "en": "Is that so? And...? What can you{SAUT}actually do, anyway?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "The time has come: thrust our plan{SAUT}into her face, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "This calling card―it's for you!{OPTION}We're taking your film!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Enlil",
+    "en": "\"Madame Enlil, curator of the movie{SAUT}theaters of deceit...\"{PAGE}\"Since you play movies that advocate{SAUT}self-abuse and trick audience members{SAUT}into confusing soullessness for peace...\"{PAGE}\"We will steal those distorted movies{SAUT}from you. Signed, the Phantom Thieves.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Enlil",
+    "en": "Steal distorted movies...? What are you{SAUT}going on about here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Makoto",
+    "en": "Unless we change these theatergoers'{SAUT}beliefs, driving you off for good will{SAUT}be impossible.{PAGE}That's why we had to devise a plan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Haru",
+    "en": "Yes―we came up with a way to{SAUT}radically change the hearts of{SAUT}everyone here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Oracle! All set!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "Yup! Ready to go on this end!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Alright! Let 'em have it, Hikari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Hikari",
+    "en": "Mmhm! Let's do this, everyone!",
+    "fr": ""
+  }
+]

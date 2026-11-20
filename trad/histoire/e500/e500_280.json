@@ -1,0 +1,134 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "Seriously? What's THAT doing here!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "It's from a different film reel.{OPTION}It's a rerun.{OPTION}Maybe it's been upgraded?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "Yes, I agree as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "But we fixed the movie. Even if this were{SAUT}a rerun, it still doesn't make sense.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Oh, come on! After all that trouble{SAUT}we went through!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Aigis",
+    "en": "I believe this one is most likely different{SAUT}than the one in the movie we fixed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Hero",
+    "en": "Since we changed Hikari-san's{SAUT}consciousness, this film should{SAUT}be corrected...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akihiko",
+    "en": "But the film we have here is still{SAUT}distorted, huh...{PAGE}If we leave it as is, everyone here'll be{SAUT}forced to keep watching the shitty{SAUT}version of this movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "Obviously, we gotta do somethin about{SAUT}this―we'll just hafta fix this one too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mother Computer",
+    "en": "I do not understand. This film represents{SAUT}the paradigm of all human society―and{SAUT}I am the paradigm of a world ruler.{PAGE}Your denial of this popular film makes{SAUT}each one of you an error in this world.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ken",
+    "en": "It's not like they're enjoying the movie.{SAUT}I bet it's only because they don't have{SAUT}a choice to watch something better!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Shinjiro",
+    "en": "This bullshit's no different from{SAUT}brainwashin'.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Mother Computer",
+    "en": "This is not brainwashing―it is merely{SAUT}the proper system for a world.{PAGE}If everyone discards their individuality{SAUT}and becomes the same, unnecessary{SAUT}quarrels will cease to exist.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukari",
+    "en": "Don't make it sound like you're doing{SAUT}the right thing. You're just forcing your{SAUT}beliefs on everyone else!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akihiko",
+    "en": "She's right. Sometimes, the only way{SAUT}you can come to understand something{SAUT}is through some form of conflict.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Mitsuru",
+    "en": "What you're demanding is nothing more{SAUT}than abandoning our ability to think{SAUT}for ourselves!  ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Mother Computer",
+    "en": "You continually assert individualism{SAUT}and try to spurn my world order...{SAUT}You are obviously heretics.{PAGE}You are heretics. Irregularities.{SAUT}Errors. Bugs.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "That's our business, not yours.{OPTION}And what's wrong with that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Aigis",
+    "en": "That is correct! No matter what you say,{SAUT}I am myself...{PAGE}And that can never be changed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Mother Computer",
+    "en": "It has been determined that your errors{SAUT}are fatal... Any further communication{SAUT}is unnecessary.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Fuuka",
+    "en": "Everyone! Here it comes!",
+    "fr": ""
+  }
+]

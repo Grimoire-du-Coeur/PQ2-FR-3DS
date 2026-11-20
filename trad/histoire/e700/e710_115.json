@@ -1,0 +1,108 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Oh! Over there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "It's a, uh... was it \"BLT\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "FOE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "That's right. I believe it stands for{SAUT}\"Fried chicken On Egg\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Uh, what? Beef's way better with eggs{SAUT}than chicken.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "No―I stand by chicken. It's both cheap{SAUT}and filling.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "While we ignore those comedians...{PAGE}I wanna remind you: that FOE is still{SAUT}really powerful... At the very least, you{SAUT}can't win against it right now. For sure.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Wait, that's not good! We won't be able{SAUT}to go any further...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Hey, I just noticed―ain't that guy just{SAUT}walking around the same area?{PAGE}Couldn't we, like, slip past him{SAUT}when the coast is clear?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Ah, that's it! Good job, Skull! You're{SAUT}actually useful sometimes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "SOME times!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "From the looks of it, this FOE's{SAUT}patrolling a fixed route.{PAGE}Even after checking more closely, I'm{SAUT}still not getting an immediately hostile{SAUT}reading from it...{PAGE}It's possible that it won't act unless{SAUT}ordered by the police.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "So it won't attack us unless we make{SAUT}the first move?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "Well then, why don't we observe{SAUT}the FOE's movements for a moment?{PAGE}If we work out its pattern, we'll surely{SAUT}be able to evade it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Alright! The Phantom Thieves are{SAUT}gettin' sneaky!{PAGE}Let's do this, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "It'll be quite troublesome if it catches up{SAUT}to us while we're fighting other enemies.{PAGE}Be sure to remain cautious while{SAUT}running away from FOEs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_FOE_1",
+    "en": "An FOE's movements can be seen{SAUT}{f 0 1 2}on the map{f 0 1 0}.{PAGE}FOEs will keep moving even {f 0 1 2}while{SAUT}you are in combat with other enemies{f 0 1 0}.{PAGE}If an FOE makes contact with you{SAUT}while you are fighting other{SAUT}enemies, it will {f 0 1 2}join the battle{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_ENEMY_UI",
+    "en": "The proximity gauge shows the{SAUT}{f 0 1 2}risk of a battle occurring{f 0 1 0}.{PAGE}{f 0 1 2}Gray means you are safe.{f 0 1 0}. But as you{SAUT}move, the color changes from{SAUT}green, to yellow, and finally to red.{PAGE}{f 0 1 2}Red indicates a battle is imminent{f 0 1 0}.{SAUT}Keep an eye on this as you explore!",
+    "fr": ""
+  }
+]

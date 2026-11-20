@@ -1,0 +1,37 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Look, another officer! Let's investigate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Allow me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "Thank you for waiting.{PAGE}\"The officer with the car numbered{SAUT}77-55 is real. We came here together{SAUT}to patrol the area.\"{PAGE}...So he says.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "And the number on his car is...{PAGE}11-10. It's got double 1s.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "We got what we need. Let's keep going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "He said the officer with the car{SAUT}numbered '77-55' is real, and they came{SAUT}here together...",
+    "fr": ""
+  }
+]

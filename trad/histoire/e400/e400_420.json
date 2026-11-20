@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Hikari",
+    "en": "N-No... That's not right,{SAUT}that's not right!{PAGE}He... He didn't say that to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Man with glasses",
+    "en": "What are you talking about? Aren't I{SAUT}the me that you know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari",
+    "en": "No! In reality... it didn't go like that!{PAGE}It was all in my... my...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Man with glasses",
+    "en": "Hikari... Why do...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan, look out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Man with glasses",
+    "en": "Why do you have to be like thaaaaaaat!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "Noooooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Here it comes! Everyone, protect{SAUT}Hikari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "You don't gotta tell us twice!{SAUT}Let's do this!",
+    "fr": ""
+  }
+]

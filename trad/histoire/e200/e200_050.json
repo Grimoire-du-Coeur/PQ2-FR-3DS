@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "Everyone, look over there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Whoa, it's huge! Is... that a bird?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Those wings have quite the interesting{SAUT}profile... I'd love to do a sketch of it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "Isn't that more of a flying reptile than it{SAUT}is a bird? The Pteranodon is a pretty well-{SAUT}known specimen from that family.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Hey, wait a sec―be careful! That's{SAUT}an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "What!? Well, looks like we can't just{SAUT}kick back and gawk at it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "So it's not a bird... Still, it's definitely{SAUT}worth observing. I really should{SAUT}sketch it―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Weren't you listening? IT'S AN ENEMY!{SAUT}And an FOE at that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "I suspect we'd be critically injured{SAUT}if we were to get attacked by such{SAUT}massive wings... We should be careful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "...Y'know, all this talk about birds is{SAUT}startin' to make me hungry.{PAGE}What if there was a chicken that size?{SAUT}Couldn't we make a shit-ton of fried{SAUT}chicken out of it?{PAGE}Oh man, how many servings would that{SAUT}even be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "My stomach just growled.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Haru",
+    "en": "I wonder if fried FOEs would taste{SAUT}good. I feel like they'd give me an{SAUT}upset stomach... but I'm still curious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "Wanna try catching one for a taste test?{PAGE}...On second thought, we could end up{SAUT}being the meal. Make sure you don't{SAUT}get chased down while you pass it by.",
+    "fr": ""
+  }
+]

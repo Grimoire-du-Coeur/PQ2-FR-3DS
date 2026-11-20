@@ -1,0 +1,266 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Now then, the goal of this special{SAUT}screening is to...{PAGE}Steal the Seidoptera's treasure!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "T-Treasure!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "I don't think it's the kind of treasure{SAUT}we're familiar with.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Right. This isn't a Palace, so perhaps{SAUT}it's something like gold or silver?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "According to the ticket, the target is a{SAUT}pair of Golden Crowns.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Aw yeah! Now THAT sounds like{SAUT}treasure!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Elizabeth",
+    "en": "Yes. Please steal the flying dinosaurs'{SAUT}hidden treasures, and bring them here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "Wait, those things are FOEs, right?{PAGE}If we try to take 'em head-on, we'll{SAUT}probably just end up as dinosaur food.{SAUT}How we supposed to get the treasure?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "We don't need to fight.{OPTION}We train until we can beat them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "Huh? How do we get the treasure, then?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Nyahaha... We're the Phantom Thieves.{SAUT}We gotta do things in style.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Chie",
+    "en": "Ohh, training, huh? Okay, I'll do my{SAUT}best!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "Hey, come on, we can do better than{SAUT}that. We're the Phantom Thieves,{SAUT}aren't we?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Makoto",
+    "en": "That's true. The Seidopteras might not{SAUT}be carrying their treasures with them.{PAGE}If we can figure out where they are...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "Then, we move in and take 'em!{SAUT}Business as usual!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "Wow, you really do sound like phantom{SAUT}thieves! This is so exciting!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Elizabeth",
+    "en": "Please use this to carry the treasure.{PAGE}It's a pouch that Theo crafted himself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Whoa, Theodore made this? He's so{SAUT}talented.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Elizabeth",
+    "en": "Yes. He came to me with tears in his{SAUT}eyes and begged me to make use of it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "It's obvious you're lying when you{SAUT}smile like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Elizabeth",
+    "en": "That reminds me...{PAGE}Where there are phantom thieves, there{SAUT}is treasure, and vice versa. These two{SAUT}are deeply and inseparably linked.{PAGE}I look forward to finally seeing the{SAUT}Phantom Thieves showcase their true{SAUT}abilities.{PAGE}Dancing through the air, dashing across{SAUT}the ground! Everywhere and nowhere{SAUT}at the same time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Haru",
+    "en": "Um, I don't know if we can do all that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Elizabeth",
+    "en": "You mustn't give up. \"I think I can!{SAUT}I think I can!\"{PAGE}I believe in all of you! Now, go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Makoto",
+    "en": "You're really putting on the pressure...{SAUT}At this point, it's kind of hard to say we{SAUT}can't do it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ann",
+    "en": "Uh, we should definitely say,{SAUT}\"We think we can't.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Morgana",
+    "en": "Hmm, Miss Elizabeth sort of borrowed{SAUT}those words from somewhere else, but I{SAUT}think it's working! I'm all fired up!{PAGE}It's only natural for a phantom thief to be{SAUT}drawn to treasure, after all!{PAGE}Nya-hoo! Treasuuure!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Teddie",
+    "en": "Oho! Morgana's looking beary{SAUT}motivated!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yosuke",
+    "en": "It's like someone slipped him some{SAUT}catnip...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "I'm. Not. A. CAT! N-O-T! You got that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yukiko",
+    "en": "Yes. You. Are. C-A-T!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Morgana",
+    "en": "Noooooo...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "Haha, you're gettin' way too excited.{PAGE}Well, I ain't at Morgana's level, but I'm{SAUT}kinda hyped myself, y'know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Chie",
+    "en": "Huh? Really, Ryuji-kun? Are you{SAUT}getting all catnippy too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ryuji",
+    "en": "I'm not a cat!{SAUT}...Did I really just say that?{PAGE}Yo, remember how, earlier, I was sayin'{SAUT}we haven't done any real phantom thief{SAUT}work in awhile?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Chie",
+    "en": "Oh yeah, you were! But now we get to{SAUT}do just that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ryuji",
+    "en": "This ain't a typical setting like a bank{SAUT}or a museum, though.{PAGE}Still, I think this movie'll be the perfect{SAUT}place for us to do our thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Chie",
+    "en": "And then you fight the Seidopteras in{SAUT}midair and snag the treasure, right?{PAGE}Yeah! Sounds nice and thief-y!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yusuke",
+    "en": "...I doubt we're capable of that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Futaba",
+    "en": "Wait, you guys are planning on fighting{SAUT}the Seidopteras? You know those are{SAUT}FOEs, don't you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Elizabeth",
+    "en": "Things are really heating up now. I shall{SAUT}be here, watching with bated breath.{PAGE}Go, go, Phantom Thieves! Go get that{SAUT}treasure!{PAGE}...And there you have it.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_040",
+    "choix": true,
+    "en": "Let's begin.{OPTION}That treasure's ours!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Ryuji",
+    "en": "Oh, you're lookin' pretty pumped up{SAUT}too, {f 6 1 30 0 0 0}. Gotta say, it's the first{SAUT}time I've felt this way in awhile.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Teddie",
+    "en": "Me too! I'll show everyone the{SAUT}Teddie-way of phantom thievery!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Morgana",
+    "en": "All right, let's move out. Make sure{SAUT}we're ready.",
+    "fr": ""
+  }
+]

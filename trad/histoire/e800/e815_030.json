@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Koromaru",
+    "en": "Arf! Woof, woof!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ken",
+    "en": "Look, more bones! We're really making{SAUT}progress, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Yes, thanks to Koromaru-kun. All right,{SAUT}it looks like it's my turn.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "These certainly look like leftovers, and{SAUT}they're pretty recent too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "What!? Is it finally time for the{SAUT}face-off!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Haha, sorry, not quite yet.{PAGE}I said recent, but it's still been some time{SAUT}since these bones were left behind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Koromaru",
+    "en": "Bark, bark, bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "I see. So we should make our way east{SAUT}now?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "You can understand him?{OPTION}I think he said west.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "Oh, no, not really. I just sort of pictured{SAUT}him saying that.{PAGE}Was I right, Amada-kun?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ken",
+    "en": "...Yeah. It sounds like Koromaru's{SAUT}saying to head east.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "Hm? Was I wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ken",
+    "en": "...No, you were right, Crow. Koromaru{SAUT}said to head east.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Rise",
+    "en": "Wow, Crow and Koro-chan make a{SAUT}pretty good team.{PAGE}Okay then, we're heading east!",
+    "fr": ""
+  }
+]

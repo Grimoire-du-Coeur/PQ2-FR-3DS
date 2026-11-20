@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "This is the flower.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Singing flower",
+    "en": "No matter what I eat, I'm never satiated.{SAUT}Is it a sin to feel this way?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Marie",
+    "en": "It technically is... after all, one of the{SAUT}seven deadly sins is gluttony. I could{SAUT}work that in. \"The sweet taste of sin...\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "Ooh, is that what you were looking for?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Marie",
+    "en": "Sweet fruit... No. It needs to sound{SAUT}more tempting... and more toxic...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Forbidden fruit.{OPTION}Poisoned apple.{OPTION}Rotten fruit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Marie",
+    "en": "Yes, that's it! You're pretty good at{SAUT}poetry. Maybe you have secret{SAUT}yearnings of your own...?{PAGE}...The sweet forbidden fruit. Yes{SAUT}indeed, I like the sound of that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Marie",
+    "en": "Poisoned apple... Forbidden apple...{SAUT}No, forbidden fruit!{PAGE}...The sweet forbidden fruit. Yes, I like{SAUT}the sound of that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Marie",
+    "en": "I dunno, that's more repellent than{SAUT}alluring, isn't it? I want it to sound bad{SAUT}in a good way. Rotten is just... bad.{PAGE}What about \"forbidden fruit\"? Ooh, I{SAUT}like the sound of that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Haru",
+    "en": "Looks like Marie-chan's having fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Marie",
+    "en": "Yes... It's a love story with the seven{SAUT}deadly sins. It's about wearing an angelic{SAUT}mask while harboring such dark secrets...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P4 Hero",
+    "en": "Oh, are you done?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Marie",
+    "en": "*gasp* NYAAAAAAAH! Was I talking{SAUT}out loud!?{PAGE}This can't be! Please, stop up your ears!{SAUT}Fling such words far away from your{SAUT}memory!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "Okay, okay. Calm down. Why don't you{SAUT}just tell me if your poem is finished?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Marie",
+    "en": "Er, what's a poetic way of saying this?{SAUT}Almost.{PAGE}If I can just get a bit more inspiration,{SAUT}I think I can finish...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Singing flower",
+    "en": "If your soul is unfulfilled... then go{SAUT}NORTH, young lass!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "Oh, that's right. I heard singing up there.{SAUT}It was deep in an area with a bear FOE...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yosuke",
+    "en": "Yeah, that was definitely up north.{SAUT}Okay, then! Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P4 Hero",
+    "en": "Let's just remember to keep our eyes{SAUT}peeled for FOEs.",
+    "fr": ""
+  }
+]

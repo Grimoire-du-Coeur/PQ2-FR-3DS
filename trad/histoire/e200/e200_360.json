@@ -1,0 +1,181 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "We made it! C'mon, let's go set the bait!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_3",
+    "en": "We placed the dish upwind from{SAUT}the carnivore...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_5",
+    "locuteur": "Makoto",
+    "en": "I hope the dinosaur can smell it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "Hraaaaah! Let the scent of meat reach{SAUT}your nostrils, mighty beast!{SAUT}*blow* *blow* *blow*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Uh, just blowing on the bait with your{SAUT}mouth isn't gonna work from this far―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Wha―The dinosaur's sniffing the air!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Whoa, seriously!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Rise",
+    "en": "Look! It's going for it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Yes! It's eating the bait! We did it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "Should we use this opportunity to slip{SAUT}past it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Hold up. It's about to finish off the bait.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosuke",
+    "en": "Already!? All that effort, for nothing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosuke",
+    "en": "Wait, what the―it just wandered off?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "It may well have returned to its nest{SAUT}now that it's had a meal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Well, it seems like it all worked out{SAUT}in the end, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "You know it! That carnivore's long{SAUT}gone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Geez, now it feels like it was a waste to{SAUT}let that dinosaur eat our meat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "I agree. The opportunity to feast upon{SAUT}a cut of meat that size comes only once{SAUT}in a lifetime!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Let's try to get some more.{OPTION}Are there any leftovers?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Haru",
+    "en": "Yeah! It was really fun to gather{SAUT}ingredients and cook with everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "But, gathering those ingredients again{SAUT}could very well put our lives in danger...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "I imagine there's at least some meat{SAUT}juice left. I'll go check―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Makoto",
+    "en": "Oh no you don't. Mind your manners.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Chie",
+    "en": "Oh, we still have tons of that sauce left!{SAUT}It's healthy and tasty―should we bring{SAUT}it back to the theater as a gift?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yukiko",
+    "en": "I wonder if we could serve this at our{SAUT}inn... I might be able to make something{SAUT}similar with conventional ingredients.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "Would you forget the sauce!? What are{SAUT}you trying to do anyway, make a jungle{SAUT}version of Mystery Food X!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Fem Protag",
+    "en": "What's Mystery Food X?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P4 Hero",
+    "en": "It's... You don't want to know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Akechi",
+    "en": "Sorry to interrupt the conversation, but{SAUT}we don't know when that carnivore{SAUT}might return.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Morgana",
+    "en": "Ooh, he's right. C'mon, we'd better get{SAUT}through here as quick as we can!",
+    "fr": ""
+  }
+]

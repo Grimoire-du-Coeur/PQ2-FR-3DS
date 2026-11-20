@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "Hm?{PAGE}This door seems to be locked. I doubt{SAUT}we can pass through here...{PAGE}If we found a key for it, though...{SAUT}Let's search for an alternate route{SAUT}for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "This door seems to be locked. We won't{SAUT}be able to use it unless we have a key...{PAGE}Sorry about that... Let's look for another{SAUT}route.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "This is locked, right? Maybe if we use{SAUT}that key from earlier...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "Right, let's get that key card out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mechanical voice",
+    "en": "AUTHORIZATION COMPLETE.{SAUT}DOOR UNLOCKED.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Fuuka",
+    "en": "Oh, we did it! Now we can keep going.{PAGE}But, please be careful.{PAGE}If this sector is behind this level of{SAUT}security, the inside should be even{SAUT}worse... Don't let your guard down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Fuuka",
+    "en": "Hm?{PAGE}This door seems to be locked. We won't{SAUT}be able to use it unless we have a key...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akihiko",
+    "en": "A key, huh?{PAGE}Oh, should we try that key card that{SAUT}we lifted off the Overseer earlier?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "Yes, let's give it a try.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mechanical voice",
+    "en": "AUTHORIZATION COMPLETE.{SAUT}DOOR UNLOCKED.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Fuuka",
+    "en": "Oh, we did it! Now we can keep going.{PAGE}But, please be careful.{PAGE}If this sector is behind this level of{SAUT}security, the inside should be even{SAUT}worse... Don't let your guard down!",
+    "fr": ""
+  }
+]

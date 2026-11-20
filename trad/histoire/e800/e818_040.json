@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "So this is the second one, huh...? Seems{SAUT}awfully shiny.{PAGE}I know it's part of a Shadow, but if no{SAUT}one told me, I might've ended up using{SAUT}it as some kind of accessory.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "That sounds like the Yukari I know.{SAUT}She's got quite an eye for fashion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "She does...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Fuuka",
+    "en": "That leaves just one more rare material.{SAUT}You guys are going at a great pace!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "It's all thanks to you, Fuuka. You're just{SAUT}as reliable as ever.{PAGE}Oh, of course, the other navigators are{SAUT}great too, but I have to admit, I feel very{SAUT}at home when you're navigating.{PAGE}It's probably because I'm so used to{SAUT}hearing your voice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Fuuka",
+    "en": "You're used to it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, right... I guess I mean the Fuuka in{SAUT}my world.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "Is there a difference?{OPTION}It'd be fun to compare them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Maybe the Fuuka here talks a little bit{SAUT}faster? Hmm, probably not...{PAGE}They're exactly alike in both their{SAUT}personality and the way they talk.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hmm... I don't think there'd be any{SAUT}differences.{PAGE}They're exactly alike in both their{SAUT}personality and the way they talk.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukari",
+    "en": "Really... Is your Fuuka good with tech{SAUT}too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah! She even knows how to use a{SAUT}soldering iron!{PAGE}But she's really bad when it comes to{SAUT}cooking. She's even mistaken sugar for{SAUT}flour...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "Um, this is just the Fuuka I know!{PAGE}I'm sure it's odd being compared to a{SAUT}self you don't even know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Fuuka",
+    "en": "It's not that.{PAGE}It's just, the more I hear, the more I{SAUT}think the person you're talking about is{SAUT}me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Junpei",
+    "en": "At first, it felt kinda weird having{SAUT}someone you've never met know you{SAUT}really well.{PAGE}But if the other me says she's a{SAUT}friend, then it's all good!{PAGE}I mean, it's me. I can trust myself, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "Junpei...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yukari",
+    "en": "Huh, I guess he can say something nice{SAUT}every once in a while.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Junpei",
+    "en": "Oh, is everyone starting to see there's{SAUT}more to Junpei than they thought?{SAUT}Sorry to disappoint you, ladies.{PAGE}But I'm afraid my heart belongs to{SAUT}Chidorita...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "Whatever.{OPTION}Way to ruin it...{OPTION}Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Fem Protag",
+    "en": "Why don't we leave Junpei here and{SAUT}keep going?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "Well, what else would you expect from{SAUT}Junpei? C'mon, let's go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yukari",
+    "en": "Yeah. Where to next, Fuuka?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Fuuka",
+    "en": "The last thing we need is the Teddy Bear{SAUT}from a Phantom Mage in 4-B.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay! Then, let's find it and hurry{SAUT}back to Theo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Fuuka",
+    "en": "The last thing we need is the{SAUT}Kaleidoscope from a Flowing Sand{SAUT}in 3-F.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay! Then, let's find it and hurry{SAUT}back to Theo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Fuuka",
+    "en": "The last thing we need is the Clay{SAUT}Figurine from a Rampage Drive.{PAGE}You should be able to find one{SAUT}anywhere on this floor.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay! Then, let's find it and hurry{SAUT}back to Theo!",
+    "fr": ""
+  }
+]

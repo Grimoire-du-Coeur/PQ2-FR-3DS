@@ -1,0 +1,14 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": "Hm? Where are you going?{PAGE}Margaret wants to see us in the Velvet{SAUT}Room. Let's head there first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Protag",
+    "en": "Margaret's calling. Let's head to the{SAUT}Velvet Room.",
+    "fr": ""
+  }
+]

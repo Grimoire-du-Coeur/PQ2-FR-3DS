@@ -1,0 +1,260 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Huh? A couple of kids!? Are they lost{SAUT}or something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "I'm not so sure about that―something{SAUT}seems off about simply calling them{SAUT}lost kids. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Caroline",
+    "en": "What the―?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Justine",
+    "en": "Where is our master?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Caroline",
+    "en": "Justine! Look!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Justine",
+    "en": "So, you're here as well, Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Caroline",
+    "en": "Hey, Inmate, where are we!? What are{SAUT}you doing here!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "No idea.{OPTION}That's my line.{OPTION}Take a guess.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Caroline",
+    "en": "That look on your face... It seems you{SAUT}truly don't know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Caroline",
+    "en": "How dare you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Justine",
+    "en": "Hold, Caroline.{PAGE}That look on his face... It seems he truly{SAUT}doesn't know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Caroline",
+    "en": "Is this your doing!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Justine",
+    "en": "Hold, Caroline. I doubt such a simple{SAUT}prisoner would be capable of that.{PAGE}Most likely, he himself knows nothing{SAUT}of this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Caroline",
+    "en": "Then... what happened?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Justine",
+    "en": "I do not know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "Ooooh, what little cutiiiies! And{SAUT}they're TWINS!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": ", you know these rugrats?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Caroline",
+    "en": "Rugrats!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Justine",
+    "en": "Such blasphemy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "Yeah, that's right! Quit being so rude{SAUT}and show them some respect!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_020",
+    "choix": true,
+    "en": "You know them too?{OPTION}Talk about a betrayal...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Morgana",
+    "en": "No, that's not it, but... I-It just feels right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Justine",
+    "en": "At any rate, tell us of your circumstances{SAUT}here, Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Caroline",
+    "en": "We'll listen to what you have to say in{SAUT}this room here―Hey, you! Cat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "Y-Yes!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Caroline",
+    "en": "Escort the prisoner into our room.{SAUT}And make it snappy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "Wh-Why me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "I-I'll do it... Of course! With{SAUT}pleasure!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Caroline",
+    "en": "Hmph―don't forget the rest of those{SAUT}people as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Akechi",
+    "en": "I guess we're \"the rest of those{SAUT}people\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "Seriously, who are they?{PAGE}And Morgana, why're you takin' their{SAUT}orders?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_032",
+    "choix": true,
+    "en": "I bet he's fallen in love.{OPTION}He's like their hired cat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ryuji",
+    "en": "Whoa, for real? Which one?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Morgana",
+    "en": "Don't be ridiculous! My love is only{SAUT}for Lady Ann!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Morgana",
+    "en": "I keep telling you, I am NOT a cat!{PAGE}*sigh* Are you happy now? I'm starting{SAUT}to get real tired of this repartee...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Ryuji",
+    "en": "But that's, like, your trademark{SAUT}gag now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Morgana",
+    "en": "...Those two have something{SAUT}\"unwavering\" within them.{PAGE}When they look at me with those eyes,{SAUT}I get this feeling that I just have to listen{SAUT}to them.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_038",
+    "choix": true,
+    "en": "Like a kind of hypnosis?{OPTION}Are you losing it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Morgana",
+    "en": "No, nothing like that. It's more like{SAUT}there's something deep in my core...{PAGE}This feeling that screams, \"I have to do{SAUT}what they say!\" wells up inside me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Ryuji",
+    "en": "Nothing like that wells up in me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Morgana",
+    "en": "Well, it does for me! And, I have no idea{SAUT}why...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Yusuke",
+    "en": "If they're acquaintances of {f 6 1 30 0 0 0},{SAUT}I believe we can trust them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Morgana",
+    "en": "It'll be fine. C'mon―can't make them wait.",
+    "fr": ""
+  }
+]

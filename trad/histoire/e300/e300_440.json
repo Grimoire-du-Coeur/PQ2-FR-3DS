@@ -1,0 +1,254 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "*sigh* There are enemies everywhere{SAUT}here. This is putting a real damper{SAUT}on our progress.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Shinjiro",
+    "en": "Hmph, what a pain in the ass. We don’t{SAUT}even get the time to rest up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "Ooh, ooh―that reminds me! Are you{SAUT}all better now, Ai-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "Yes, I've fully recovered. I apologize for{SAUT}worrying everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Um, about your... Orgia Mode, was it?{SAUT}That was quite the surprise.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "What’s Orgia Mode?{OPTION}It was super-cool.{OPTION}I want to see you do that again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Aigis",
+    "en": "That is a special function loaded in my{SAUT}system especially for offensive combat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Damn, it must feel super-badass to just{SAUT}mow down enemies like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mm, it does have its drawbacks, though.{SAUT}Once she uses it, all of her functions are{SAUT}temporarily disabled until she recovers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Hear hear! Being able to shift gears{SAUT}and transform like that is a mech-lover's{SAUT}dream!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Aigis",
+    "en": "That is a special function loaded in my{SAUT}system especially for offensive combat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Damn, it must feel super-badass to just{SAUT}mow down enemies like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mm, it does have its drawbacks, though.{SAUT}Once she uses it, all of her functions are{SAUT}temporarily disabled until she recovers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha, that might be a bit difficult right{SAUT}now―after using it, her functions are{SAUT}temporarily disabled until she recovers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Aigis",
+    "en": "That is a special function loaded in my{SAUT}system especially for offensive combat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "So, it’s a risky attack―a double-edged{SAUT}sword, if you will.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Not bein' able to move for a while, huh?{SAUT}That sounds like Oracle's battery.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yukiko",
+    "en": "Eh? Oracle's powered by a battery!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "Oh come on, there's no way he's{SAUT}being serious!{PAGE}...Right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "He’s not talking about a real battery.{SAUT}It’s more like I just collapse when I get{SAUT}too tired.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ribbon",
+    "en": "IS THERE A POSSIBILITY THAT I ALSO{SAUT}HAVE AN ORGIA MODE?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Naoto",
+    "en": "I’m not sure... Based on your model's{SAUT}appearance, that doesn’t seem like{SAUT}a standard function...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ribbon",
+    "en": "I SEE... THAT IS SOMEWHAT{SAUT}DISAPPOINTING.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yukari",
+    "en": "Wait, it’s disappointing to you? Do you{SAUT}mean you want to use Orgia Mode too,{SAUT}Ribbon?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ribbon",
+    "en": "IT DOES NOT MAKE ME WANT TO{SAUT}PROACTIVELY ACQUIRE IT, BUT SINCE{SAUT}I HAVE NO BATTLE FUNCTIONS...{PAGE}I WOULD AT LEAST BE OF USE TO YOU{SAUT}AT THAT POINT, IF I COULD USE IT―{SAUT}THAT IS WHAT I HAD THOUGHT.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ribbon-chan... I didn’t realize you were{SAUT}thinking such things.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ken",
+    "en": "But, if Ribbon-san had her own Orgia{SAUT}Mode, what do you think it would be?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_027",
+    "choix": true,
+    "en": "She fires a rocket punch.{OPTION}She shoots lasers from her eyes.{OPTION}Her entire body starts glowing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Kanji",
+    "en": "That sounds pretty clich〒.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Junpei",
+    "en": "Oh no, it’s way more thrilling than it is{SAUT}clich〒! Rocket Punches are what boys{SAUT}dream of!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yukiko",
+    "en": "But don’t you think just a punch would{SAUT}be kind of... lacking?{PAGE}I think it’d be better if she also projected{SAUT}lights, blasted music, and started{SAUT}dancing crazy, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "Oh yeah, that’s standard robot stuff,{SAUT}but... aren’t lasers a bit too \"kiddie\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Akechi",
+    "en": "You think so? I think that equipment{SAUT}would be very practical in combat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yukiko",
+    "en": "Hmm... But doesn’t it feel like it's just{SAUT}not enough?{PAGE}I think it’d be better if she also projected{SAUT}lights, blasted music, and started{SAUT}dancing crazy, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yukiko",
+    "en": "Oh, I think that’s great.{PAGE}But it’d be even better if she also blasted{SAUT}music and started dancing crazy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yosuke",
+    "en": "Why would she need to dance!?{SAUT}What’re you trying to get her to do,{SAUT}lead a parade!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Teddie",
+    "en": "If it’s a parade, then I wanna join too!{SAUT}Obviously, I’d be the official beauty,{SAUT}blowing kisses and waving to my fans!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yusuke",
+    "en": "Hm... Then you can leave the float's{SAUT}design to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yukiko",
+    "en": "Oh, if you need a float, I can help with{SAUT}that. I'll make one with a seafood base{SAUT}and shrimp ice cream on top!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Yosuke",
+    "en": "That’s not the kind of float he’s talkin'{SAUT}about! I mean―We don’t need either{SAUT}of those!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Mitsuru",
+    "en": "Oh dear, it seems this is starting to{SAUT}really get out of hand... We should get{SAUT}going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Ribbon",
+    "en": "YES, I UNDERSTAND. LET US PROCEED{SAUT}ONWARD.",
+    "fr": ""
+  }
+]

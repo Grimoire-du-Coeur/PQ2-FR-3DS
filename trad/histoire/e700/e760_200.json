@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "It seems to be a dead end. Why don't{SAUT}we use this time to take a break?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "Agreed!{PAGE}I've been walking around and looking{SAUT}at all of these movie posters for so long,{SAUT}my neck's starting to hurt.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "Me too. It's hard not to look at them all{SAUT}when there's so many.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "What kind of movies do you all usually{SAUT}watch? Have you seen anything{SAUT}recently?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "My partner and I saw this movie called{SAUT}the \"Loan of the Ring\" that was pretty fun.{PAGE}The plot was insane, though. It was{SAUT}about these guys risking their lives in{SAUT}order to pay for their engagement rings.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "But it was good. It even inspired me to{SAUT}be more courageous.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Mitsuru",
+    "en": "Let's see here... The romance movie I{SAUT}saw recently was fairly interesting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Shinjiro",
+    "en": "...A romance movie? You?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "Wha―!? What's wrong with that?{PAGE}It's not that odd for me to watch{SAUT}something romantic, is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "It's not so much odd as is it hard{SAUT}to imagine. You weren't interested{SAUT}in stuff like that before.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Mitsuru",
+    "en": "Really? They're surprisingly entertaining.{PAGE}People who are slaves to love often let{SAUT}their emotions get the better of them{SAUT}and make irrational decisions.{PAGE}There's much I don't understand...{SAUT}But watching people I'm nothing like is{SAUT}quite fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "That's one way to look at it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "*giggle* I think the fact someone can{SAUT}enjoy them in that way is one of the{SAUT}things that makes them so great.{PAGE}Movies allow you to experience things{SAUT}that you sometimes can't and get a{SAUT}glimpse of someone else's values.{PAGE}Depending on how you watch it, there's{SAUT}lots of different ways to enjoy a movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akihiko",
+    "en": "I see. It's true that it's important to learn{SAUT}about values and worlds different from{SAUT}our own.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Well then, would you like to watch one{SAUT}with me, Akihiko-senpai? I know the{SAUT}perfect romance movie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Shinjiro",
+    "en": "...Nah, that'd be impossible for Aki.{SAUT}I bet he'd fall asleep.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akihiko",
+    "en": "What? That's not...{PAGE}...Well, maybe you're right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Mitsuru",
+    "en": "I thought as much.{PAGE}...Well then, let's wrap up our little chat.{SAUT}We need to keep going.",
+    "fr": ""
+  }
+]

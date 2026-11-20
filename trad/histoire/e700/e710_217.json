@@ -1,0 +1,14 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "Hold on―it seems our inventory is full{SAUT}at the moment.{PAGE}Even if we were to find something, we{SAUT}wouldn't be able to carry it. Ought we{SAUT}sort through what we have first?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Hmm... There's no mistake that{SAUT}something's here, though.{PAGE}Let's head back to the theater and go{SAUT}through our belongings, or check here{SAUT}again when we have space to spare.",
+    "fr": ""
+  }
+]

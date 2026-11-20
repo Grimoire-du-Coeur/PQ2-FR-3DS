@@ -1,0 +1,32 @@
+[
+  {
+    "id": "msg001_MSG",
+    "en": "Only accessories have affinity effects.{SAUT}They increase evasion to affinity attacks.",
+    "fr": ""
+  },
+  {
+    "id": "msg002_MSG",
+    "en": "Weapons with a status ailment bonus{SAUT}will add that to your attack, so that foes{SAUT}might get afflicted with the ailment.",
+    "fr": ""
+  },
+  {
+    "id": "msg003_MSG",
+    "en": "If armor has a status ailment bonus, it{SAUT}increases your resistance to that ailment.",
+    "fr": ""
+  },
+  {
+    "id": "msg004_MSG",
+    "en": "Status-increasing effects raise your stats,{SAUT}whether they be from weapons or armor.",
+    "fr": ""
+  },
+  {
+    "id": "msg005_MSG",
+    "en": "Weapons with piercing or splash effects {SAUT}can hit multiple targets.",
+    "fr": ""
+  },
+  {
+    "id": "msg006_MSG",
+    "en": "There are other effects that do not work{SAUT}during battles.{PAGE}These effects grant bonuses to{SAUT}post-battle results.",
+    "fr": ""
+  }
+]

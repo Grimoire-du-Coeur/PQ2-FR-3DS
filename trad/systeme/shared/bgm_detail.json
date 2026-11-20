@@ -1,0 +1,77 @@
+[
+  {
+    "id": "MSG_BGM_000",
+    "en": "Randomly play unlocked Persona Q2{SAUT}original BGM",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_001",
+    "en": "Persona Q2 original BGM{SAUT}Persona 5 version",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_002",
+    "en": "Persona Q2 original BGM{SAUT}Persona 3 Portable version",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_003",
+    "en": "Persona Q2 original BGM{SAUT}Persona 4 version",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_004",
+    "en": "Persona Q2 original BGM{SAUT}Persona 3 version",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_005",
+    "en": "From Persona 3",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_006",
+    "en": "From Persona 3 Portable",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_007",
+    "en": "From Persona Q: Shadow of the Labyrinth",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_008",
+    "en": "From Persona 4",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_009",
+    "en": "From Persona 4 Golden",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_010",
+    "en": "From Persona Q: Shadow of the Labyrinth",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_011",
+    "en": "From Persona 5",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_012",
+    "en": "From Persona 5",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_013",
+    "en": "From Persona 5",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BGM_014",
+    "en": "Randomly play all BGM in the list{SAUT}(including DLC)",
+    "fr": ""
+  }
+]

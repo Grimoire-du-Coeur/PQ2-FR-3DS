@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "*sigh* That was quite the meandering{SAUT}detour, but looks like we're finally back{SAUT}on our original path.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "I've been wondering... Could we do{SAUT}something about those trees from{SAUT}this side of them?{PAGE}Simplifying our escape route just in case{SAUT}something went awry could make a big{SAUT}difference for us down the line.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Oh, yeah, a huge difference―but how{SAUT}would we even do somethin' like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Well, if my theory is correct...{PAGE}Hey, Joker―what if we were to go there{SAUT}and inspect the area from this side?{SAUT}Of course, I leave the decision to you...",
+    "fr": ""
+  }
+]

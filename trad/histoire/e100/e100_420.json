@@ -1,0 +1,149 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Movie theater, box office...{PAGE}Akechi is talking to Elizabeth...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Ah, you've stopped by.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Hope I'm not intruding.{OPTION}I'm in rarefied air here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "It's nothing so serious.{PAGE}There was just something that made me{SAUT}curious earlier, so I wanted to ask her{SAUT}about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "Aha, so this must be what is called an{SAUT}\"interrogation\"... I'm rather excited{SAUT}to be experiencing this firsthand.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "You're interrogating her?{OPTION}That's exciting to you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "As I said before, it's nothing so serious―{SAUT}merely a simple question.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "Well, that is unfortunate―I was hoping{SAUT}to experience it with a serving of{SAUT}\"Katsu Dune\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Haha, you mean how cop shows offer pork{SAUT}bowls to suspects when they interrogate{SAUT}them? That's purely fictional.{PAGE}This is merely to satisfy my personal{SAUT}curiosity.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "You mentioned earlier that nothing{SAUT}meaningless happens in the Velvet{SAUT}Room...{PAGE}Then, how would you explain{SAUT}{f 6 1 26 0 0 0}-san's presence?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "What do you mean?{OPTION}She's... the one behind all this!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* To think you'd come to such{SAUT}a conclusion... Truly, you are well-suited{SAUT}for detective duties.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "If memory serves me correctly,{SAUT}{f 6 1 26 0 0 0}-san came here{SAUT}through the Velvet Room...{PAGE}What I want to ask is, if that in itself{SAUT}has any meaning to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Elizabeth",
+    "en": "Yes, I do believe that the solo arrival{SAUT}of {f 6 1 27 0 0 0} is no mere{SAUT}coincidence...{PAGE}However, that does not apply to her{SAUT}alone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akechi",
+    "en": "What do you mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elizabeth",
+    "en": "Since you've also encountered{SAUT}attendants of the Velvet Room...{PAGE}Your presence here was also inevitable,{SAUT}and there is some meaning to it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "A meaning, hm... But that meaning{SAUT}doesn't involve you directly, correct?{PAGE}So, all our answers lie beyond the end{SAUT}of the movie...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "I'm curious how it'll end.{OPTION}Let's work on the plan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Elizabeth",
+    "en": "Whether or not you reach that end is{SAUT}dependent on you all...{PAGE}You all seem to be scheming{SAUT}something... It's making my heart{SAUT}race just witnessing you all in action.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "Our plan must succeed if we're to learn{SAUT}everything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Elizabeth",
+    "en": "Yes, I believe that would be a most wise{SAUT}decision.{PAGE}Whether or not you reach the movie's{SAUT}end is wholly dependent on you all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akechi",
+    "en": "Yes―and for that, we need to ensure this{SAUT}plan succeeds.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "en": "It seems things are okay here. I should{SAUT}head back for the time being...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "en": "It seems things are okay here. Maybe{SAUT}I should go check on the others...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": " and Yusuke{OPTION}Ann and Ryuji{OPTION}Morgana and Futaba",
+    "fr": ""
+  }
+]

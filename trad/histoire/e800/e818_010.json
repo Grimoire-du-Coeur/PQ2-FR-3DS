@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "The goal of this next special screening is{SAUT}to collect three types of materials.{PAGE}Now, if our material specialist would{SAUT}please describe the materials in detail...{SAUT}Theo! Theo, where are you!?{PAGE}Theo, get out here, or so help me, I will{SAUT}fill your popcorn machine with soybean{SAUT}powder and―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Theodore",
+    "en": "I-I'm here! How can I help you, Sister?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Describe to them the required{SAUT}materials.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Theodore",
+    "en": "Certainly. The Phantom Mage will drop{SAUT}the Teddy Bear.{PAGE}The Flowing Sand will drop the{SAUT}Kaleidoscope...{PAGE}And the Clay Figurine you can obtain{SAUT}from the Rampage Drive.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "These are all rare parts of a Shadow...{SAUT}We'd like you to extract them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "Rare materials...? What a drag...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Theodore",
+    "en": "Please refrain from saying such things{SAUT}and accept this screening!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "You're awfully enthusiastic.{OPTION}What's wrong?{OPTION}No.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, what's going on?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm, you seem stressed. Everything{SAUT}okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Theodore",
+    "en": "Have a heart!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hang on. I'm sure there's a good reason{SAUT}he's acting like this. Right, Theo?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Theodore",
+    "en": "Yes... If we gather the materials listed,{SAUT}we'll be able to craft new equipment.{PAGE}Each material is quite sturdy. They will{SAUT}allow us to craft bigger, better, and{SAUT}bulkier equipment.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "They're that strong?{OPTION}That's exciting.{OPTION}Bulky, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Theodore",
+    "en": "Yes. On my honor, I'll make you{SAUT}something worthwhile.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Junpei",
+    "en": "Tough equipment'd be a dream!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Theodore",
+    "en": "Yes. On my honor, I'll make you{SAUT}something worthwhile.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yukari",
+    "en": "I don't know how I feel about bulky...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Theodore",
+    "en": "I'm merely referring to the strength of{SAUT}the equipment.{PAGE}Rest assured, I guarantee you will all be{SAUT}happy with both its effectiveness and{SAUT}its design.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Elizabeth",
+    "en": "Goodness, how dare you think you can{SAUT}use the special screening for your own{SAUT}gain...{PAGE}I've half a mind to tell you to impale{SAUT}yourself where you stand...{PAGE}It seems that my worthless brother is{SAUT}determined to have his head cut off.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Theodore",
+    "en": "M-My head!?{PAGE}...Right. If you're willing to risk your{SAUT}lives for the sake of these materials...{PAGE}Then I will do the same. Please lend me{SAUT}your assistance.",
+    "fr": ""
+  }
+]

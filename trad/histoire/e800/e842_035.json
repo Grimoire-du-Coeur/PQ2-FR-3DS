@@ -1,0 +1,14 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Hikari",
+    "en": "Doesn't look like it's here.{SAUT}I'm sure it flew this way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "If it's that big, it'll be hard to miss.{SAUT}Let's keep looking on this floor.",
+    "fr": ""
+  }
+]

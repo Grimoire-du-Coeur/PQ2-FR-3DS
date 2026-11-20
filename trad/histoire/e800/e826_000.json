@@ -1,0 +1,253 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Koromaru",
+    "en": "Bark! Bark, bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "Whoa! What're you doin', Koro!?{SAUT}Don't bark at me like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Grrr...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san appears to be saying:{SAUT}\"Don't stand behind me.\"",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Badass.{OPTION}Are you a hitman!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "He sounds just like that sniper from that{SAUT}one manga series...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "Nothing gets past you does it,{SAUT}{f 6 1 30 0 0 0}...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Here, Koro-chan. It's okay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Koromaru",
+    "en": "*whine*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Kanji",
+    "en": "The hell!? Why does Ann-san get{SAUT}to pet him...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Good boy, Koro-chan. You're like our{SAUT}own little mascot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "What about me!? I make a pretty good{SAUT}mascot myself!{PAGE}So feel free to pet me too, Ann-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "H-Hey, uh...!{PAGE}Actually, you are pretty soft...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "Ahhh... This is the life...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "Hey, you two fuzzballs! What do you{SAUT}think you're doing!?{PAGE}Lady Ann, how could you pet those{SAUT}two when you've got me...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Haha, I'm sorry. I thought you didn't{SAUT}like it when I treated you like an animal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Teddie",
+    "en": "You can pet me aaallllll you want.{SAUT}There you go~",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Koromaru",
+    "en": "Bark, bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "Grrrr... I'm no mascot... But...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "You'll lose at this rate.{OPTION}Gonna swallow your pride?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "I know... But I'm still a phantom thief.{PAGE}I can't stoop to that level...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Morgana",
+    "en": "No... I have to remember I'm a phantom{SAUT}thief.{PAGE}I can't stoop to the level of some{SAUT}mascot...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Rise",
+    "en": "Yeah, I know how you feel.{PAGE}Idols can either go for the cute style or{SAUT}the cool style. It's really hard to choose{SAUT}at first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "I don't think it's the same...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "Never mind! Just get away from Lady{SAUT}Ann, you dirty old bear!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "Oho, do you hear that? It sounds like a{SAUT}sore loser~{PAGE}Only pretty mascots have the right to be{SAUT}pet by pretty ladies.{PAGE}And the prettiest mascot of all is...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_026",
+    "choix": true,
+    "en": "Morgana.{OPTION}Koromaru.{OPTION}Who?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Morgana",
+    "en": "M-Me!?{PAGE}No way, I'm not even a mascot. That{SAUT}said, its definitely not Teddie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Koromaru",
+    "en": "Arf!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "I don't agree either, but I'll let it slide.{PAGE}At the very least, Teddie, it's certainly{SAUT}not you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Teddie",
+    "en": "Obviously, the best possible choice is{SAUT}the one and only Teddie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Morgana",
+    "en": "Heh, said you and no one else. You{SAUT}don't deserve that title one bit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Teddie",
+    "en": "Grrr... So, you refuse to admit it?{PAGE}Very well, I say we decide who the{SAUT}number one mascot is here and now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Mitsuru",
+    "en": "Hey, what's going on over here?{PAGE}Don't slack off just because nobody's{SAUT}around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Ann",
+    "en": "Oh, right. Sorry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034_1",
+    "locuteur": "Ann",
+    "en": "See? We got in trouble. Let's all just try{SAUT}to get along, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Morgana",
+    "en": "W-Well said, Lady Ann! Love and peace{SAUT}are the way to go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Teddie",
+    "en": "Hmph, I'll overlook it just this once, but,{SAUT}next time, you won't be so lucky...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yosuke",
+    "en": "Hey, you talking to yourself, Teddie?{SAUT}Everybody else up and left already.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Teddie",
+    "en": "...Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "en": "A new special screening:{SAUT}\"Mascot Match-up!\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

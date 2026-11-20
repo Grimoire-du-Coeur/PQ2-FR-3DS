@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "Hey, it's a Treasure Spot!{SAUT}Wanna check it out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "Roger! Let's keep an eye out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Just gonna loot the place, huh?{SAUT}No problem!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "Oh. We're leaving it alone?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Ho-kay... that should be everything!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Don't mind if I do!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Sweet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Got it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "Holy crap, that was close!{SAUT}How about we call it here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "All right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "A rare item!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Niiice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosuke",
+    "en": "Whoa, that's a shortcut!{SAUT}We gonna go through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "So much for that way, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "Hey... Something's weird. You feel that?{SAUT}What do we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yosuke",
+    "en": "Y-Yeah... Long as we're careful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yosuke",
+    "en": "Yeah. Who knows what could pop out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yosuke",
+    "en": "What the heck was that!?{SAUT}I'm just glad we survived...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yosuke",
+    "en": "Huh? There're Shadows out here...{SAUT}What's the plan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "Sweet! Let's knock 'em dead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yosuke",
+    "en": "Okay, you're the boss.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yosuke",
+    "en": "Whew... Is that all of 'em?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosuke",
+    "en": "This should lead back to the theater.{SAUT}Want to take a break?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

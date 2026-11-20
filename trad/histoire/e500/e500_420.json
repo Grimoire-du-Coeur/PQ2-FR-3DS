@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Hikari",
+    "en": "Ah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Enlil",
+    "en": "If this truly is the will of mankind, then{SAUT}I ask that you prove it to be so.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Enlil",
+    "en": "Moreover, you must not forget...{PAGE}I appeared in this form solely due to{SAUT}the desires of humans.{PAGE}As long as humans yearn for me, I shall{SAUT}appear as many times as necessary.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "It's really, finally over for sure this{SAUT}time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "Mm-hm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "Ah! That sound...",
+    "fr": ""
+  }
+]

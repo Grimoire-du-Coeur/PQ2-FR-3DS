@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "A dead end, hm? *sigh* I'm getting tired{SAUT}of seeing Kamoshidaman everywhere...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "No kidding, it's bummin' me out...{SAUT}You see those signs on the way here?{PAGE}All of 'em were praisin' him. Creepy as{SAUT}hell...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Sheesh, why'd you have to bring that up?{SAUT}I've been trying not to look at them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "What!? They're all over the friggin'{SAUT}city... Can't help but think of{SAUT}Kamoshida's Palace.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "I know. Why don't we make 'em{SAUT}disappear?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "How do we do that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "We burn every last one of 'em!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006_1",
+    "locuteur": "Ann",
+    "en": "Dance, Carmen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Ooh, great idea! Lemme help!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_1",
+    "locuteur": "Ryuji",
+    "en": "Blast away, Captain―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Hey! What are you doing!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Settle down.{OPTION}Let me help out too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "Joker's right. We don't want to draw any{SAUT}attention to ourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "You too, Joker...? Easy now. We don't{SAUT}want to draw any attention to ourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "I know that a lot happened between{SAUT}you and Kamoshida...{PAGE}And I'm sure it's not easy to forget what{SAUT}he did either, but the one here isn't real.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Mm, I'm sorry... Thinking about it just{SAUT}makes me so irritated. I gotta calm{SAUT}down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Yeah, sorry... Rescuin' Queen and Noir's{SAUT}more important right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "That's right! C'mon, let's keep going!",
+    "fr": ""
+  }
+]

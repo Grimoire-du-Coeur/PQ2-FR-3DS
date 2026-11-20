@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "OKAERI_ERROR",
+    "en": "If this comes up, it's a bug.{SAUT}REPORT IT, por favor!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_HIKARI_mes01",
+    "en": "...Are you... hurt anywhere...?",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_HIKARI_mes02",
+    "en": "Welcome back...",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_HIKARI_mes03",
+    "en": "Everyone...! I'm glad you're back.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_HIKARI_mes04",
+    "en": "Let's make sure we're ready{SAUT}before we head out.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_HIKARI_mes05",
+    "en": "Welcome back, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_NAGI_mes01",
+    "en": "Everyone, make sure you get{SAUT}the rest you need.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_NAGI_mes02",
+    "en": "I'm truly glad you are safe.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_RYUJI_mes",
+    "en": "Phew... Man, I'm beat.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_ANN_mes",
+    "en": "Hah... Good job, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_MONA_mes",
+    "en": "You all did pretty well back{SAUT}there!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_YUSUKE_mes",
+    "en": "That was a rather stimulating{SAUT}experience.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_FUTABA_mes",
+    "en": "My eyes... All this thinking's{SAUT}giving me a headache.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_AKECHI_mes",
+    "en": "Perfect timing. A breather's{SAUT}just what we need.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_P3HERO2_mes",
+    "en": "Let's make sure we're prepped!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_MAKOTO_mes",
+    "en": "We should rest up while we{SAUT}can.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_HARU_mes",
+    "en": "Nothing like some bracing{SAUT}exercise!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_P4HERO_mes",
+    "en": "Good job, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_CHIE_mes",
+    "en": "I can't fight on an empty stomach!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_YUKIKO_mes",
+    "en": "Rest is important, too.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_RISE_mes",
+    "en": "Nice work out there, guys!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_KANJI_mes",
+    "en": "I'm gonna go get prepped{SAUT}for the next run!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_NAOTO_mes",
+    "en": "Let's take the opportunity{SAUT}to rest.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_KUMA_mes",
+    "en": "So? Was I great or what!?",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_YOUSUKE_mes",
+    "en": "Let's take our break, and{SAUT}get right back into it!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_YUKARI_mes",
+    "en": "Whew... My legs are{SAUT}killing me...",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_JUNPEI_mes",
+    "en": "Kick back, fellas, it's{SAUT}breaktime!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_SANADA_mes",
+    "en": "Good... A little muscle cooldown{SAUT}should help.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_MITURU_mes",
+    "en": "Resupplying is crucial to{SAUT}victory.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_FUKA_mes",
+    "en": "Good work out there,{SAUT}everyone!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_AMADA_mes",
+    "en": "Personally, I'm okay to keep{SAUT}fighting...",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_KOROMARU_mes",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_ARAGAKI_mes",
+    "en": "We can catch our breath.{SAUT}Then it's back in.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_P3HERO_mes",
+    "en": "Nothing wrong with taking{SAUT}a break.",
+    "fr": ""
+  },
+  {
+    "id": "town_okaeri_AEGIS_mes",
+    "en": "Requesting maintenance!",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_RYUJI_me",
+    "en": "Ain't we outta Goho-Ms?",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_ANN_mes",
+    "en": "You guys got enough{SAUT}Goho-Ms?",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_MONA_mes",
+    "en": "Make sure you bring a{SAUT}Goho-M with you!",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_YUSUKE_m",
+    "en": "Goho-Ms are important.{SAUT}We cannot forget them.",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_FUTABA_m",
+    "en": "Hey, get some Goho-Ms in{SAUT}that pack!",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_AKECHI_m",
+    "en": "We have Goho-Ms, I assume?",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_P3HERO2_",
+    "en": "Don't forget to bring a Goho-M!",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_MAKOTO_m",
+    "en": "Don't forget―we need Goho-Ms.",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_HARU_mes",
+    "en": "We should buy some Goho-Ms{SAUT}first, right?",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_P4HERO_m",
+    "en": "You should go stock up on{SAUT}Goho-Ms.",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_CHIE_mes",
+    "en": "Don't we need some Goho-Ms!?",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_YUKIKO_m",
+    "en": "Why don't we buy a Goho-M?",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_RISE_mes",
+    "en": "We totally need a Goho-M!",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_KANJI_me",
+    "en": "Hey, you oughta grab one of{SAUT}those Goho-Ms...",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_NAOTO_me",
+    "en": "I advise we take some{SAUT}Goho-Ms.",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_KUMA_mes",
+    "en": "We're all out of Goho-Ms?",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_YOUSUKE_",
+    "en": "Let's go grab some Goho-Ms!",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_YUKARI_m",
+    "en": "Did you get a Goho-M?",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_JUNPEI_m",
+    "en": "Yo, couldn't hurt to have{SAUT}a Goho-M!",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_SANADA_m",
+    "en": "We'd better keep some{SAUT}Goho-Ms on hand.",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_MITURU_m",
+    "en": "I trust we still have some{SAUT}Goho-Ms left...?",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_FUKA_mes",
+    "en": "Are you sure you don't need{SAUT}a Goho-M?",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_AMADA_me",
+    "en": "Shouldn't we have at least{SAUT}one Goho-M?",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_ARAGAKI_",
+    "en": "Goho-Ms. Don't forget.",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_P3HERO_m",
+    "en": "Are you going to be okay without{SAUT}a Goho-M?",
+    "fr": ""
+  },
+  {
+    "id": "town_returnitem_AEGIS_me",
+    "en": "We should procure a Goho-M!",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_RYUJI_mes",
+    "en": "We not gonna check{SAUT}the box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_ANN_mes",
+    "en": "Let's check out the box office.",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_MONA_mes",
+    "en": "We should be checking the{SAUT}box office frequently.",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_YUSUKE_me",
+    "en": "I believe someone is watching{SAUT}us from the box office...",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_FUTABA_me",
+    "en": "Check the box office every{SAUT}once in a while.",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_AKECHI_me",
+    "en": "What, not stopping by the{SAUT}box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_P3HERO2_m",
+    "en": "We should check out the{SAUT}box office, too!",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_MAKOTO_me",
+    "en": "Maybe we should stop by{SAUT}the box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_HARU_mes",
+    "en": "Are we not bound for the{SAUT}box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_P4HERO_me",
+    "en": "Shouldn't we stop by the box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_CHIE_mes",
+    "en": "You gonna check the box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_YUKIKO_me",
+    "en": "Why don't we stop by the{SAUT}box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_RISE_mes",
+    "en": "Let's go check out the box office!",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_KANJI_mes",
+    "en": "Sure we shouldn't stop by{SAUT}the box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_NAOTO_mes",
+    "en": "A visit to the box office wouldn't{SAUT}be a bad idea...",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_KUMA_mes",
+    "en": "The box office is calling my{SAUT}name!",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_YOUSUKE_m",
+    "en": "Wanna stop by the box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_YUKARI_me",
+    "en": "Let's check out the box office.",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_JUNPEI_me",
+    "en": "We oughta check out the{SAUT}box office!",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_SANADA_me",
+    "en": "We're not heading over to{SAUT}the box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_MITURU_me",
+    "en": "Wouldn't it be prudent to{SAUT}check the box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_FUKA_mes",
+    "en": "Shouldn't you check the box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_AMADA_mes",
+    "en": "Should we stop by the box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_ARAGAKI_m",
+    "en": "What, not going to the box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_P3HERO_me",
+    "en": "Are we going to check out the{SAUT}box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_new_quest_AEGIS_mes",
+    "en": "Do you not need to stop by{SAUT}the box office?",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_RYUJI_m",
+    "en": "I think you're out of room for{SAUT}Personas, man.",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_ANN_mes",
+    "en": "You've got way too many{SAUT}Personas!",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_MONA_me",
+    "en": "We need to make room for{SAUT}more Personas!",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_YUSUKE_",
+    "en": "We can't hold any more{SAUT}Personas...",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_FUTABA_",
+    "en": "You can't hold any more{SAUT}Personas!",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_AKECHI_",
+    "en": "It doesn't look like we can{SAUT}hold any more Personas.",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_P3HERO2",
+    "en": "Looks like our Persona stock's{SAUT}all full up.",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_MAKOTO_",
+    "en": "We've got all the Personas{SAUT}we can carry.",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_HARU_me",
+    "en": "It looks like we can't hold{SAUT}any more Personas...",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_P4HERO_",
+    "en": "Looks like your Persona stock's{SAUT}still full...",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_CHIE_me",
+    "en": "Whoa, you've got way{SAUT}too many Personas!",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_YUKIKO_",
+    "en": "I think that's all the Personas{SAUT}we can carry...",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_RISE_me",
+    "en": "You're all full up on Personas.",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_KANJI_m",
+    "en": "We can't hold any more{SAUT}Personas?",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_NAOTO_m",
+    "en": "You can't hold any more Personas...",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_KUMA_me",
+    "en": "You got way too many{SAUT}Bearsonas on your hands!",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_YOUSUKE",
+    "en": "Looks like you have way{SAUT}too many Personas.",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_YUKARI_",
+    "en": "Isn't your Persona stock full?",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_JUNPEI_",
+    "en": "Hey, uh, you realize you got{SAUT}Personas out the wazoo?",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_SANADA_",
+    "en": "Looks like you've carrying{SAUT}too many Personas...",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_MITURU_",
+    "en": "Your Persona stock is utterly full.",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_FUKA_me",
+    "en": "It looks like you're full up{SAUT}on Personas...",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_AMADA_m",
+    "en": "It looks like you can't carry{SAUT}any more Personas.",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_ARAGAKI",
+    "en": "Hey. Persona stock's full.",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_P3HERO_",
+    "en": "I think that's all the Personas{SAUT}we can carry...",
+    "fr": ""
+  },
+  {
+    "id": "town_persona_max_AEGIS_m",
+    "en": "Our Persona stock is{SAUT}at maximum capacity!",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_RYUJI_mes",
+    "en": "Think we can lighten the load?",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_ANN_mes",
+    "en": "You're kinda hoarding a bunch{SAUT}of stuff, huh?",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_MONA_mes",
+    "en": "Let's sell some treasure{SAUT}and lighten our load.",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_YUSUKE_mes",
+    "en": "An overstuffed bag is a bit{SAUT}gauche, don't you think?",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_FUTABA_mes",
+    "en": "Man, you're carrying way{SAUT}too much!",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_AKECHI_mes",
+    "en": "If I might suggest cleaning{SAUT}out our pack...",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_P3HERO2_me",
+    "en": "Ahaha, can you believe we're{SAUT}carrying this much stuff?",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_MAKOTO_mes",
+    "en": "Let's see what we can do to{SAUT}lighten our pack.",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_HARU_mes",
+    "en": "I think we should probably{SAUT}be carrying less.",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_P4HERO_mes",
+    "en": "You should make some space{SAUT}in your item bag.",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_CHIE_mes",
+    "en": "Oh, shoot! We've got way{SAUT}too much stuff.",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_YUKIKO_mes",
+    "en": "Wouldn't it be better if we{SAUT}lightened our load?",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_RISE_mes",
+    "en": "Your item bag is totally{SAUT}stuffed!",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_KANJI_mes",
+    "en": "Yo, bag's full.",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_NAOTO_mes",
+    "en": "We seem somewhat overloaded.",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_KUMA_mes",
+    "en": "Hrngh... Our pack's too heavy!",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_YOUSUKE_me",
+    "en": "You think maybe we could{SAUT}lose some baggage?",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_YUKARI_mes",
+    "en": "Don't you think we need a{SAUT}little more item space?",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_JUNPEI_mes",
+    "en": "Dude, your item bag is{SAUT}way too packed!",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_SANADA_mes",
+    "en": "You have too much stuff!{SAUT}There's no room for protein!",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_MITURU_mes",
+    "en": "Before we depart, I advise we{SAUT}clean out our bag.",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_FUKA_mes",
+    "en": "Um, maybe you should clear{SAUT}some inventory space...?",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_AMADA_mes",
+    "en": "Hold on. I think we're carrying{SAUT}too much.",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_ARAGAKI_me",
+    "en": "Do you really have to carry{SAUT}all that crap around?",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_P3HERO_mes",
+    "en": "Hmm... That item bag looks{SAUT}like it's going to burst.",
+    "fr": ""
+  },
+  {
+    "id": "town_item_max_AEGIS_mes",
+    "en": "Inventory status: full!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_HIKARI_mes01",
+    "en": "Nagi-san...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_HIKARI_mes02",
+    "en": "Yeah...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_NAGI_mes01",
+    "en": "Let's try and help as much{SAUT}as we can.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_NAGI_mes02",
+    "en": "You don't have to be scared,{SAUT}Hikari-san.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_ANN_mes01",
+    "en": "Wonder what's up with{SAUT}this place...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_ANN_mes02",
+    "en": "Wanna go check out the shop?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_ANN_mes03",
+    "en": "Makes you wonder how long{SAUT}those two have been here.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_YUSUKE_mes01",
+    "en": "We must sate our hunger first.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_YUSUKE_mes02",
+    "en": "No other guests here, it seems...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_YUSUKE_mes03",
+    "en": "The tickets aren't free, are they?{SAUT}I don't have much on me...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_FUTABA_mes01",
+    "en": "Inari, your stomach's growling{SAUT}too loud again.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_FUTABA_mes02",
+    "en": "I'm worried about Makoto{SAUT}and Haru...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_FUTABA_mes03",
+    "en": "It's like we rented out a whole{SAUT}dang theater to ourselves!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_AKECHI_mes01",
+    "en": "I'd say this phenomenon bears{SAUT}investigating.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_AKECHI_mes02",
+    "en": "We should hurry. We need to go{SAUT}save those two.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg00_AKECHI_mes03",
+    "en": "Intriguing! This is a mysterious{SAUT}world indeed...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg01_HIKARI_mes02",
+    "en": "Um, well... Everyone...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg01_HIKARI_mes03",
+    "en": "A film festival...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg01_RYUJI_mes01",
+    "en": "Holy crap... I can't stop{SAUT}eatin' this.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg01_RYUJI_mes02",
+    "en": "C'mon, would you guys relax?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg01_RYUJI_mes03",
+    "en": "I feel like {f 6 1 30 0 0 0} and {f 6 1 27 0 0 0}{SAUT}would get along great.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg01_MONA_mes01",
+    "en": "Gah, you almost made me spill it!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg01_MONA_mes02",
+    "en": "This juice is pretty tasty!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg01_FUTABA_mes01",
+    "en": "Heheh, too slow!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg01_FUTABA_mes02",
+    "en": "Heeheehee!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg01_P3HERO2_mes01",
+    "en": "I think the closest is Screen Shot{SAUT}on Tatsumi Port Island.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg01_P3HERO2_mes02",
+    "en": "They have a film festival at{SAUT}Screen Shot for summer vacation!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg01_P3HERO2_mes03",
+    "en": "Whoa, you live on the second{SAUT}floor of a caf〒!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_HIKARI_mes01",
+    "en": "U-Um... Well...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_HIKARI_mes02",
+    "en": "I-I... um...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_HIKARI_mes03",
+    "en": "Huh? R-Right!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_NAGI_mes01",
+    "en": "Oh my... *giggle*",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_NAGI_mes02",
+    "en": "Oh, Hikari-san... Hmhmhm.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_MAKOTO_mes01",
+    "en": "Have you seen \"Like A Dragon,\"{SAUT}Hikari-chan?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_MAKOTO_mes02",
+    "en": "A paradise for dinosaurs...?{SAUT}I wonder if that really exists...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_MAKOTO_mes03",
+    "en": "Is everyone eating well?{SAUT}Dieting can be unhealthy...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_HARU_mes01",
+    "en": "I can't wait until \"Pach-Saw\"{SAUT}is in theaters.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_HARU_mes02",
+    "en": "Make sure you eat your{SAUT}vegetables, too.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_CHIE_mes01",
+    "en": "Hikari-chan, you ever see \"Trial{SAUT}of the Dragon\"? The kung fu flick?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_CHIE_mes02",
+    "en": "I'm sure we'll find out once we{SAUT}get there! Right, Hikari-chan?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_CHIE_mes03",
+    "en": "Meat is the root of all meals!{SAUT}Meat never betrays you!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_YUKIKO_mes01",
+    "en": "\"One Missed Text\" made me{SAUT}laugh so hard my stomach hurt!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_YUKIKO_mes02",
+    "en": "*gasp* This must be the fabled{SAUT}ritual known as \"girl talk\"!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_RISE_mes01",
+    "en": "I can't wait for \"Roman{SAUT}Paid Holiday.\"",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_RISE_mes02",
+    "en": "True, balance is important.{SAUT}Gotta think about nutrition.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg02_RISE_mes03",
+    "en": "Hmm... Shame our sensors can't{SAUT}check further in the labyrinth.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_MONA_mes01",
+    "en": "STOP IIIIIIIIT!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_MONA_mes02",
+    "en": "Sheesh, get your hands off me!{SAUT}You're messing up my fur.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_TEODOA_mes01",
+    "en": "While I may seem to be an object,{SAUT}I'll happily help you at my shop...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_YUSUKE_mes01",
+    "en": "Amazing... What an avant-{SAUT}garde shape!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_YUSUKE_mes02",
+    "en": "Wait, don't move! At least{SAUT}for another three hours!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_AKECHI_mes01",
+    "en": "I'm honored to finally have a{SAUT}chance to chat, Shirogane-san.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_AKECHI_mes02",
+    "en": "First, can I hear your thoughts{SAUT}on this, Shirogane-san?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_KANJI_mes01",
+    "en": "Hey... C'mon, just a little?{SAUT}A tiny bit! Please!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_KANJI_mes02",
+    "en": "I-I musta died and gone{SAUT}to fluffy heaven...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_NAOTO_mes01",
+    "en": "Well... if I can be of assistance,{SAUT}by all means. Ask away.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_NAOTO_mes02",
+    "en": "I think there's quite a bit we can{SAUT}infer from the circumstances...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_KUMA_mes01",
+    "en": "Nooo... M-My feet are falling{SAUT}asleep...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg03_KUMA_mes02",
+    "en": "If you stare so much... it makes{SAUT}me feel all itchy...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg04_ANN_mes01",
+    "en": "You can knit? Wow!{SAUT}You're so talented!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg04_ANN_mes02",
+    "en": "Ooh, that's amazing! And? And?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg04_ANN_mes03",
+    "en": "You want some juice too,{SAUT}Kanji-kun? Or maybe soda?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg04_P3HERO2_mes01",
+    "en": "Yeah! Let's work together and{SAUT}do our best!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg04_P3HERO2_mes02",
+    "en": "Once we're done with our break,{SAUT}let's head back into the movie!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg04_P4HERO_mes01",
+    "en": "It's reassuring to have more{SAUT}friends on our side.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg04_P4HERO_mes02",
+    "en": "You're right. We'd better stay{SAUT}on guard as we move forward.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg04_KANJI_mes01",
+    "en": "S-Stop starin', dammit, or I'll{SAUT}stockinette stitch you!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg04_KANJI_mes02",
+    "en": "There's lots of kinds of knitting,{SAUT}but... you hook like this, and...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg04_KANJI_mes03",
+    "en": "Nah, soda makes me cough.{SAUT}Just juice is cool.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg05_HIKARI_mes01",
+    "en": "Pamphlets... Maybe I should{SAUT}read them later too?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg05_HIKARI_mes02",
+    "en": "Y-Yeah... I'll be looking forward{SAUT}to it.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg05_TEO_mes01",
+    "en": "Y-Yes! Right away!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg05_RYUJI_mes01",
+    "en": "We're doin' a lot of running, so{SAUT}we gotta keep sugar levels high.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg05_RYUJI_mes02",
+    "en": "Three hot dogs, and a large order{SAUT}of fries! Oh, and some cola.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg05_MAKOTO_mes01",
+    "en": "Ryuji, how much soda have{SAUT}you drunk already?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg05_MAKOTO_mes02",
+    "en": "Ah, that's for the Kamoshidaman{SAUT}movie in Theater 1.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg05_MAKOTO_mes03",
+    "en": "Once we've rested, we should{SAUT}get back into the movie.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg05_YOUSUKE_mes01",
+    "en": "Whoa. They've even got{SAUT}pamphlets out here.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg05_YOUSUKE_mes02",
+    "en": "Heeey, Ryuji! Put in a drink order{SAUT}for me too, would ya?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg05_YOUSUKE_mes03",
+    "en": "Hey, Hikari-chan! I hope you'll look{SAUT}forward to the movie's ending.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_HIKARI_mes01",
+    "en": "Mmhm. Good luck to you,{SAUT}Futaba-chan.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_HIKARI_mes02",
+    "en": "The power to provide backup,{SAUT}huh... That's amazing...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_HIKARI_mes03",
+    "en": "You're good with computers,{SAUT}Futaba-chan? I respect that...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_YUSUKE_mes01",
+    "en": "Popcorn's fine, but I kinda wish{SAUT}we had actual food here...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_YUSUKE_mes02",
+    "en": "Wh-What is this!?{SAUT}It's delicious!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_YUSUKE_mes03",
+    "en": "Protein bars... Are these, too,{SAUT}within Theodore's power...?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_FUTABA_mes01",
+    "en": "We're gonna change that movie!{SAUT}Just you watch, Hikari!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_FUTABA_mes02",
+    "en": "Yeah, leave it to us!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_FUTABA_mes03",
+    "en": "That goes there... gotta just fix this,{SAUT}and... Excellent. Mweheheh...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_RISE_mes01",
+    "en": "Now that we've got Fuuka-chan too,{SAUT}we're all set on backup!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_RISE_mes02",
+    "en": "We gotta share all our info. Even{SAUT}if it doesn't seem relevant!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_SANADA_mes01",
+    "en": "A protein bar, and one of my{SAUT}best. You want more?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_ZABES_mes01",
+    "en": "I see...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_FUKA_mes01",
+    "en": "We can share the load between us.{SAUT}And now we have Futaba-chan!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg06_FUKA_mes02",
+    "en": "You're right. Let's provide the{SAUT}best backup we can!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg07_P3HERO2_mes01",
+    "en": "Aww, there you go... You're{SAUT}such a smart boy, Koromaru!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg07_P3HERO2_mes02",
+    "en": "Ahaha, that tickles! Geez,{SAUT}Koromaru!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg07_HARU_mes01",
+    "en": "Koro-chan is so soft!{SAUT}And so cute!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg07_HARU_mes02",
+    "en": "Hee hee... Your tail is fluffy,{SAUT}Koro-chan.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg07_YUKIKO_mes01",
+    "en": "Kanetsugu, sit!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg07_ZABES_mes01",
+    "en": "My, Teddie-Bear... The flames{SAUT}of jealousy burn bright indeed...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg07_KUMA_mes01",
+    "en": "Grrr... How dare they!{SAUT}I'm standing right here...!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg07_KUMA_mes02",
+    "en": "Grrrrr... That little mutt...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg07_YUKARI_mes01",
+    "en": "Koro-chan's so calming to have{SAUT}around. And he's smart! Good boy!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg07_KOROMARU_mes01",
+    "en": "Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg07_KOROMARU_mes02",
+    "en": "Woof!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg07_KOROMARU_mes03",
+    "en": "*pant pant*",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_FUTABA_mes01",
+    "en": "Whoaaaaa! So cool!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_FUTABA_mes02",
+    "en": "Oh hey, Naoto. We're running{SAUT}Ribbon's data against hers!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_HARU_mes01",
+    "en": "Fuuka-chan, thank you for{SAUT}all your precise backup.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_HARU_mes02",
+    "en": "This coffee has such a rich{SAUT}flavor to it. It's very delicious.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_HARU_mes03",
+    "en": "Futaba-chan and Naoto-kun are{SAUT}both so intrigued by Aigis-san.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_NAOTO_mes01",
+    "en": "Um, Aigis-san... How do you{SAUT}use that arm?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_NAOTO_mes02",
+    "en": "Are you collecting Aigis-san's{SAUT}data, Futaba-san?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_ZABES_mes01",
+    "en": "*chuckle* Such moving events!{SAUT}I can feel my heart skip a beat.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_FUKA_mes01",
+    "en": "Oh, no, your axewomanship is{SAUT}amazing! I'm in awe, Haru-san.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_FUKA_mes02",
+    "en": "I see! This tea is so{SAUT}delicious, too.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_FUKA_mes03",
+    "en": "Something seems to have caught{SAUT}their attention over there...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_AEGIS_mes01",
+    "en": "This arm... is used like this!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg08_AEGIS_mes02",
+    "en": "Once my arms are approved, I{SAUT}will commence \"poink\" testing.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_ZABES_mes01",
+    "en": "My. Koromaru has discovered{SAUT}who was sneaking his snacks...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_MONA_mes01",
+    "en": "Would you guys keep it down?{SAUT}I can't relax like this.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_MONA_mes02",
+    "en": "Mmm... My expensive sushi...{SAUT}More tuna... Zzz...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_MONA_mes03",
+    "en": "Let's go to sleep for the day.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_MAKOTO_mes01",
+    "en": "It may help us to try various{SAUT}team member combinations.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_MAKOTO_mes02",
+    "en": "This is finally the last one.{SAUT}Let's stay focused.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_MAKOTO_mes03",
+    "en": "Ah, well. We can overlook it as{SAUT}long as we're here, I guess.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_KUMA_mes01",
+    "en": "Gyaaaaaaah! I'm sorryyyyy!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_KUMA_mes02",
+    "en": "I swear, I'm not as delicious{SAUT}as I look!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_MITURU_mes01",
+    "en": "Our group's grown. We need{SAUT}to get to know each other.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_MITURU_mes02",
+    "en": "I agree. We'll have to brace{SAUT}ourselves from here on.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_MITURU_mes03",
+    "en": "Honestly... What a rowdy group.{SAUT}Even Koromaru is riled up now...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_KOROMARU_mes01",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg09_KOROMARU_mes02",
+    "en": "Grrrrr...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_ZABES_mes01",
+    "en": "Veeelvet, oh velvet... My master{SAUT}has a laaarge nooose...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_RYUJI_mes01",
+    "en": "Huh. So you guys need this{SAUT}thing to summon yours?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_RYUJI_mes02",
+    "en": "Sorry, sorry! Sometimes the{SAUT}hype gets ahold of me.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_AKECHI_mes01",
+    "en": "Well, when you put it that way,{SAUT}it's difficult to describe...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_AKECHI_mes02",
+    "en": "Of course. But detective work isn't{SAUT}as glamorous as TV portrays it...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_AKECHI_mes03",
+    "en": "Do you have any dreams{SAUT}for the future, Amada-kun?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_YOUSUKE_mes01",
+    "en": "Damn, Evokers are impressive!{SAUT}They're cool, but kinda scary...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_YOUSUKE_mes02",
+    "en": "Gah, you moron! Don't point{SAUT}that thing at me!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_JUNPEI_mes01",
+    "en": "Yeah. Put it to your head, pull{SAUT}the trigger, and bam! Persona!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_JUNPEI_mes02",
+    "en": "Still freaky even when you know{SAUT}it's an Evoker, right? Same here.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_AMADA_mes01",
+    "en": "So you're a detective, Akechi-san?{SAUT}How do you become one?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_AMADA_mes02",
+    "en": "Can you teach me more about{SAUT}being a detective later?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg10_AMADA_mes03",
+    "en": "I don't know if it's a dream...{SAUT}but I want to get stronger.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_HIKARI_mes01",
+    "en": "You're all amazing! Keep at it!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_HIKARI_mes02",
+    "en": "You've got this, Satonaka-san!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_HIKARI_mes03",
+    "en": "You're in the lead, Sanada-san!{SAUT}Keep at it, Aragaki-san!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_YUSUKE_mes01",
+    "en": "This is truly delicious...{SAUT}I can't stop! I won't stop!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_YUSUKE_mes02",
+    "en": "The protein-flavored variety{SAUT}isn't too bad, either...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_TEO_mes01",
+    "en": "Such appetites! I can barely{SAUT}keep up with popcorn demand!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_HARU_mes01",
+    "en": "*giggle* This is the last one.{SAUT}I'll need my strength.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_HARU_mes02",
+    "en": "Theodore, may I have some tea?{SAUT}Earl Grey would be lovely.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_CHIE_mes01",
+    "en": "Oh man! I didn't know it was{SAUT}possible to chug popcorn!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_CHIE_mes02",
+    "en": "Hraaaaaaah! Here it comes!{SAUT}Girl power, unleashed!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_CHIE_mes03",
+    "en": "Hrgh, my mouth is all dry...{SAUT}If this were meat, I'd win!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_YUKARI_mes01",
+    "en": "Wow, how can they eat{SAUT}so much...?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_YUKARI_mes02",
+    "en": "Oh, rose hip tea for me,{SAUT}please!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_SANADA_mes01",
+    "en": "That's my win, Shinji!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_SANADA_mes02",
+    "en": "Come on, Shinji. Is that the{SAUT}best you got?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_ARAGAKI_mes01",
+    "en": "Tch. I can't lose...",
+    "fr": ""
+  },
+  {
+    "id": "town_bg11_ARAGAKI_mes02",
+    "en": "Tch. No way I'm getting beaten{SAUT}by some popcorn-stuffed idiot!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_ANN_mes01",
+    "en": "Okay! Let's get fired up!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_ANN_mes03",
+    "en": "I'm already going all in.{SAUT}Let's do this.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_P4HERO_mes01",
+    "en": "I know we can do this.{SAUT}No matter what.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_P4HERO_mes02",
+    "en": "The time's finally come...{SAUT}We can't lose.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_P4HERO_mes03",
+    "en": "Let's show her what we're{SAUT}capable of.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_YOUSUKE_mes01",
+    "en": "Should we form a circle,{SAUT}or something?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_YOUSUKE_mes02",
+    "en": "Let's do this, partner!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_YOUSUKE_mes03",
+    "en": "All right. Let's go, guys!",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_MITURU_mes01",
+    "en": "We should make certain that{SAUT}we're fully prepared.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_MITURU_mes02",
+    "en": "Ha... It's time we put an end{SAUT}to this.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_MITURU_mes03",
+    "en": "Let's go. Our resolve will{SAUT}decide this.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_P3HERO_mes01",
+    "en": "Let's put our strength together.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_P3HERO_mes02",
+    "en": "This is something only we{SAUT}can do.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_P3HERO_mes03",
+    "en": "Is everyone ready?",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_AEGIS_mes01",
+    "en": "Let us go, everyone.{SAUT}We shall fight together.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_AEGIS_mes02",
+    "en": "I am giving this my all.{SAUT}We will not lose.",
+    "fr": ""
+  },
+  {
+    "id": "town_bg12_AEGIS_mes03",
+    "en": "All preparations complete.{SAUT}Limiters ready to disengage.",
+    "fr": ""
+  }
+]

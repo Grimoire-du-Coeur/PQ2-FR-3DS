@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Welcome one and all. The goal of this{SAUT}special screening is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Marie",
+    "en": "Find singing flowers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Hey, why are you chiming in, Marie-{SAUT}chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Margaret",
+    "en": "Marie has a keen interest in this movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Whoa! The older sister is here too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Kanji",
+    "en": "Singin' flowers... You mean those{SAUT}things that were in Hikari's movie, right?{PAGE}I dunno if that counts as singin', really...{SAUT}Why the sudden interest, anyhow?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "The whole request seems odd.{OPTION}Has Marie been inspired?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Margaret",
+    "en": "It seems she's been intrigued by Hikari's{SAUT}movie ever since she saw those flowers.{PAGE}Recently, she's been in a poetic slump,{SAUT}and so craves stimulation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Marie",
+    "en": "What!? Don't tell them that! Also, what{SAUT}I write isn't poetry!{PAGE}It's just... there's nothing here, so it gets{SAUT}boring. How am I supposed to feel any{SAUT}pathos in a place like this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Margaret",
+    "en": "There you have it. Would you mind{SAUT}taking Marie along with you for this{SAUT}screening?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "Fine by me.{OPTION}Take her along?{OPTION}Isn't that dangerous?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Margaret",
+    "en": "Wonderful. I trust she will be quite safe{SAUT}in your care.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Margaret",
+    "en": "Yes, she'll certainly feel more of this{SAUT}\"pathos\" if she goes in person, no?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Margaret",
+    "en": "I have already seen how capable you{SAUT}are. I hold no worries of her safety if she{SAUT}is with you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Marie",
+    "en": "I-It's nothing important... You don't{SAUT}have to do it if you don't want to...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Teddie",
+    "en": "Why wouldn't we want to!? Field trip{SAUT}with Emmy-chan! Woohoo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P4 Hero",
+    "en": "What Teddie means to say is, we don't{SAUT}mind helping you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Marie",
+    "en": "Really? Um, well... Thanks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Elizabeth",
+    "en": "Well then, good luck out there to{SAUT}everyone, Marie included.",
+    "fr": ""
+  }
+]

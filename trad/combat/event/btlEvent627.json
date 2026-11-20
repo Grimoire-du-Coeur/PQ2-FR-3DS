@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": "As huge as I'd expected...{PAGE}But we can't back down from this. Let's{SAUT}give it everything we've got, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Let's time this right.{OPTION}Of course.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "Got it! Let's try attacking it together{SAUT}at the same time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "We should attack it together at the same{SAUT}time, then! I'm counting on you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "Looks like it's pulling back...{PAGE}Time to retreat, Joker!",
+    "fr": ""
+  }
+]

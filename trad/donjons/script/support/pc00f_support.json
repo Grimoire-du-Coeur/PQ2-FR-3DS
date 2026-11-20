@@ -1,0 +1,372 @@
+[
+  {
+    "id": "AEGIS_FOE_FOLLOW_START_1",
+    "en": "An FOE is now in pursuit!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_FOE_FOLLOW_START_2",
+    "en": "An FOE has locked on to us.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_FOE_FOLLOW_START_3",
+    "en": "It seems we have been{SAUT}spotted by an FOE.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_FOE_NEAR_1",
+    "en": "An FOE has been detected.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_FOE_NEAR_2",
+    "en": "Be wary of the nearby FOE.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_FOE_NEAR_3",
+    "en": "FOE detected. It's very close.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_FOE_FOLLOW_END_1",
+    "en": "It appears we managed to avoid{SAUT}confrontation with the FOE.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_FOE_FOLLOW_END_2",
+    "en": "The FOE seems to have given up.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_FOE_FOLLOW_END_3",
+    "en": "It would appear we have escaped{SAUT}from the FOE.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_KANSI_REACTION_1",
+    "en": "Let us be careful to avoid detection.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_KANSI_REACTION_2",
+    "en": "I believe \"shhhh...\" is the appropriate{SAUT}exclamation.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_KANSI_REACTION_3",
+    "en": "Careful... Careful...",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_DENKISAKU_REACTION",
+    "en": "We could be electrocuted by this...{SAUT}Dreadful indeed.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_DENKISAKU_REACTION#2",
+    "en": "Perhaps I can charge with this{SAUT}electricity... No, never mind.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_DENKISAKU_REACTION#3",
+    "en": "I advise we stop the electric current{SAUT}before proceeding.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_KYOUHU_REACTION_1",
+    "en": "There appears to be a{SAUT}strong wind present!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_KYOUHU_REACTION_2",
+    "en": "Oh, how peculiar...",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_KYOUHU_REACTION_3",
+    "en": "I appear to be flying.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_STAIR_FIND_1",
+    "en": "Stairs located! It seems we can now{SAUT}proceed.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_STAIR_FIND_2",
+    "en": "Stairs detected! Shall we use them?",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_STAIR_FIND_3",
+    "en": "I suggest we move to a new area.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_TREASURE_FIND_1",
+    "en": "I have confirmed there is a treasure{SAUT}chest up ahead!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_TREASURE_FIND_2",
+    "en": "Treasure chest discovered. Perhaps we{SAUT}will find \"loot.\"",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_TREASURE_FIND_3",
+    "en": "A treasure chest... In other words,{SAUT}booty!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_CHECK_WALL_1",
+    "en": "I am detecting a curiosity up ahead.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_CHECK_WALL_2",
+    "en": "Irregularity detected ahead. I propose{SAUT}we investigate.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_CHECK_WALL_3",
+    "en": "I propose that we investigate the area.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_SWITCH_FIND_1",
+    "en": "Switch located!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_SWITCH_FIND_2",
+    "en": "Switch visual confirmed. What is our{SAUT}course of action?",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_SWITCH_FIND_3",
+    "en": "A switch has been located. Do we{SAUT}press it or destroy it?",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_SHORTCUT_FIND_1",
+    "en": "Potential shortcut located.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_SHORTCUT_FIND_2",
+    "en": "I have located a potential pathway.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_SHORTCUT_FIND_3",
+    "en": "I have uncovered a potential shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_FOE_WARNING_NEAR_1",
+    "en": "The FOE remains locked on!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_FOE_WARNING_NEAR_2",
+    "en": "The FOE is still in pursuit!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_FOE_WARNING_NEAR_3",
+    "en": "The enemy FOE is closing in!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_1PERSON_HPTP10_1",
+    "en": "I feel as if I will overheat...",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_1PERSON_HPTP10_2",
+    "en": "I suggest we return.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_1PERSON_HPTP10_3",
+    "en": "If this continues, I will be in danger of{SAUT}shutting down.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_1PERSON_HP10_1",
+    "en": "Reporting a decrease in health.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_1PERSON_HP10_2",
+    "en": "There is a possibility of key functions{SAUT}shutting down.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_1PERSON_HP10_3",
+    "en": "Health is now at critical!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_1PERSON_TP10_1",
+    "en": "Reporting a decrease in stamina.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_1PERSON_TP10_2",
+    "en": "My stamina has reached{SAUT}its limits...",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_1PERSON_TP10_3",
+    "en": "I detect a decrease in stamina. I{SAUT}believe you call it being tired. ",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_1PERSON_HP80_1",
+    "en": "That was a magnificent battle. It was{SAUT}way past cool.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_1PERSON_HP80_2",
+    "en": "That battle yielded excellent results.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_DUNGEON_START_1",
+    "en": "Let us steel our resolve for the task{SAUT}ahead!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_DUNGEON_START_2",
+    "en": "I believe the phrase is, \"Let's go!\"",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_DUNGEON_START_3",
+    "en": "Let us strive for complete control of{SAUT}this place!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_QUEST_START_1",
+    "en": "Aigis, reporting!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_QUEST_START_2",
+    "en": "Commencing mission.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_QUEST_START_3",
+    "en": "I propose that we resolve this quickly!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_TOUHA_25_1",
+    "en": "We still have quite a ways to go.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_TOUHA_25_2",
+    "en": "I propose we take breaks throughout{SAUT}our exploration.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_TOUHA_50_1",
+    "en": "Our progress is at 50%!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_TOUHA_50_2",
+    "en": "Filling out our map will likely boost{SAUT}exploration efficiency.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_TOUHA_75_1",
+    "en": "\"Not much further now,\" is a suitable{SAUT}turn of phrase.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_TOUHA_75_2",
+    "en": "It is my hope that we fill in the{SAUT}remaining areas soon.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_TOUHA_100_1",
+    "en": "This floor is now under our control...{SAUT}Well done!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_TOUHA_100_2",
+    "en": "The map is complete. Well done.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_MAPPING_ICON_ALL_1",
+    "en": "Not one millimeter off.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_MAPPING_ICON_ALL_2",
+    "en": "Most impressive!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_MAPPING_ICON_KAIDA",
+    "en": "That would be correct.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_MAPPING_ICON_KAIDA#2",
+    "en": "We can now traverse the floor{SAUT}without getting lost.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_MAPPING_CHANGE_COL",
+    "en": "I see. This map now appears to{SAUT}possess a special quality.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_MAPPING_CHANGE_COL#2",
+    "en": "Your artistic ability has revealed itself.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_MAPPING_ICON_DEL_1",
+    "en": "That which is not necessary shall be{SAUT}deleted!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_MAPPING_ICON_DEL_2",
+    "en": "Clean and efficient as ever.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_MAPPING_MEMO_1",
+    "en": "If we do not take note, we will surely{SAUT}forget.",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_MAPPING_MEMO_2",
+    "en": "We need to take note of this so we do{SAUT}not forget, yes?",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_DOOR_OPEN_1",
+    "en": "I've often heard people say,{SAUT}\"after you.\"",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_DOOR_OPEN_2",
+    "en": "This way!",
+    "fr": ""
+  },
+  {
+    "id": "AEGIS_DOOR_OPEN_3",
+    "en": "Allow me to scout ahead!",
+    "fr": ""
+  }
+]

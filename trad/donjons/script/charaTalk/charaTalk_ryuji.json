@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Yo, looks like we can gather up some{SAUT}materials here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "All right! Keep yer eyes open!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Sweet! Let's take all we can get!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "We skippin' this one? Aight, let's come{SAUT}back later!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Sweet! That's all of it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Sweet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Sa-weet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Damn... We done yet?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Awright!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Yo, it's a rare one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Nice! We got it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Dude, a shortcut! Wanna go through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "Dang. Can't go through from this end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "Uh, hey... You guys gettin' creeped out{SAUT}too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "A-Alright! Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "Yeah... Sounds like a plan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Hoooly crap! That was tough!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "You sensin' those Shadows too? What're{SAUT}we gonna do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ryuji",
+    "en": "Cool, let's check it out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ryuji",
+    "en": "Oh? That's cool too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ryuji",
+    "en": "There we go! All done!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "Yo, looks like we can get back to the{SAUT}theater from here! Wanna go?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

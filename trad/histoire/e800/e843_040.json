@@ -1,0 +1,73 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Oh, there's the second sign!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Well, let's see what it says.{PAGE}\"You stand beside a railroad track.\"{PAGE}\"You see a speeding cart on the track.{SAUT}Its brakes are failing.\"{PAGE}\"Ahead of the cart, you see five{SAUT}workers. If the cart isn't stopped,{SAUT}their lives will be in danger.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "I know where this is goin'.{PAGE}Look, these Cart Crew guys still have{SAUT}legs, right? Why don't they just run{SAUT}away?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "*sigh* They're the Cart Crew now?{SAUT}Just shut up and listen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "\"Straight ahead, you see a heavyset,{SAUT}well-built man.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Oh, that's new.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "\"If you push him onto the tracks,{SAUT}the cart will hit him and come to{SAUT}a complete stop.\"{PAGE}\"Doing so will save the five workers,{SAUT}but the man struck by the cart{SAUT}will die.\"{PAGE}\"Will you push the man onto the{SAUT}tracks? If yes, turn right. If no,{SAUT}turn left.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "Ugh, another crazy scenario...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "In execution, it's not that different{SAUT}from the first.{PAGE}We can do nothing and lose five{SAUT}people, or we can sacrifice one{SAUT}person to save their lives...{PAGE}But this time, it's not just a matter{SAUT}of changing course. We're pushing{SAUT}a man to his death...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ken",
+    "en": "If we push the man, turn right...{SAUT}If not, turn left...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Shinjiro",
+    "en": "......{PAGE}Look, it's a shitty question, but we{SAUT}need to keep moving. Just gotta{SAUT}pick one and go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "There's a question written on the{SAUT}sign...{PAGE}\"You stand beside a railroad track.\"{PAGE}\"You see a speeding cart on the track.{SAUT}Its brakes are failing.\"{PAGE}\"Ahead of the cart, you see five{SAUT}workers. If the cart isn't stopped,{SAUT}their lives will be in danger.\"{PAGE}\"Straight ahead, you see a heavyset,{SAUT}well-built man.\"{PAGE}\"If you push him onto the tracks,{SAUT}the cart will hit him and come to{SAUT}a complete stop.\"{PAGE}\"Doing so will save the five workers,{SAUT}but the man struck by the cart{SAUT}will die.\"{PAGE}\"Will you push the man onto the{SAUT}tracks? If yes, turn right. If no,{SAUT}turn left.\"",
+    "fr": ""
+  }
+]

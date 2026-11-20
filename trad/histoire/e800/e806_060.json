@@ -1,0 +1,122 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Third time's the charm! We got this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "Yeah! Let's do it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Hm!? Could this be...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Oh! You find one!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "No, just this strange grass. Is this some{SAUT}type of seaweed?{PAGE}Perhaps I'll try a bite...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Dude, no way! That'll wreck your{SAUT}stomach!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "Seaweed? That would mean...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukiko",
+    "en": "Fox! Look at this...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kanji",
+    "en": "More seaweed?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "No! Look! It's an actual ammonite!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "Wow! I've never seen a real one before!{SAUT}They really do exist!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "This must be seawater.{PAGE}It's likely the water here was once part{SAUT}of the ocean before the shape of the land{SAUT}changed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "The pattern on its shell... Its tentacles...{SAUT}I never imagined I'd be able to see such{SAUT}an ancient creature up close.{PAGE}I must be lucky...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Don't even think about eatin' it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "Why would I eat it? Are you feeling{SAUT}all right, Skull?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "Uh, yeah... Sorry 'bout that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Rise",
+    "en": "Mission accomplished! Come on back,{SAUT}everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "Ohh, I simply cannot wait to capture{SAUT}this emotion I'm feeling right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yukiko",
+    "en": "Mhm! Me too! I think now I'll finally be{SAUT}able to draw without holding anything{SAUT}back!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "...Well, there you have it. Let's go, Joker.",
+    "fr": ""
+  }
+]

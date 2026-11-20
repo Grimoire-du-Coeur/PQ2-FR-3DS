@@ -1,0 +1,188 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Carnivore",
+    "en": "GRRRROOOOOOOAR!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "AAAAAAAH! Whatdowedo!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Crap! Retreat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Well, NOW what do we do? We can't go{SAUT}any further without passing through{SAUT}there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "I haven't seen any gates in the vicinity.{SAUT}I doubt we can trap it somewhere.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "Ooh, I know! Why don't we use{SAUT}somebody as bait and sneak past it{SAUT}while it's distracted?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "Oh, are you volunteering, Chie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "Huh? M-Me!?{PAGE}C-C'mon, shouldn't it be someone who,{SAUT}uh... looks more delicious than me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Teddie",
+    "en": "Chie-chan!? Why are you looking{SAUT}at me!?{PAGE}Don't tell me... You're not all going to{SAUT}gang up on me, are you?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "We'll never forget you...{OPTION}Sorry, Ted...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "Mmhm, I agree that we should feed{SAUT}the dinosaur.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "Nooooo... Don't you have any mercy!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Isn't that a... bit too cruel?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukiko",
+    "en": "Oh no, I didn't mean Teddie! I meant{SAUT}that we should use some kind of actual{SAUT}food.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "I see... a plan to bait it with{SAUT}an appropriate meal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "Carnivores eat meat, so... Where around{SAUT}here could we get some?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Let's harvest some Shadow meat.{OPTION}Maybe from a storage unit?{OPTION}Let's hunt an herbivore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yosuke",
+    "en": "That seems kinda messed up, man.{SAUT}How would you even know what{SAUT}parts are edible?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Haru",
+    "en": "Although, I must say, I'm a bit curious{SAUT}as to what it's like.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "I know exactly what you mean.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yosuke",
+    "en": "Um, let's just pretend that we didn't{SAUT}hear any of that...{PAGE}If only we could find some meat just{SAUT}lying around somewhere...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Do you really think somethin' like that{SAUT}in this jungle would have anything in it{SAUT}that ain't spoiled?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Chie",
+    "en": "Huh?{PAGE}W-We're not gonna go that far, are we?{SAUT}Eheheh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Makoto",
+    "en": "Um, please don't take him seriously,{SAUT}okay? I'm sure Joker is just... joking.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yosuke",
+    "en": "If only we could find meat just lying{SAUT}around somewhere...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Akechi",
+    "en": "Well, since those electric gates are still{SAUT}functional, perhaps the food storage{SAUT}units are running properly as well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosuke",
+    "en": "...Oh, you mean that freezer container{SAUT}we saw earlier! Yeah, we could rustle up{SAUT}something useful in there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Haru",
+    "en": "Our company freezes plenty of meats{SAUT}and they turn out just fine, so I imagine{SAUT}those containers work the same way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P3 Fem Protag",
+    "en": "That's such a great idea! Wasn't that{SAUT}container pretty close to here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Ann",
+    "en": "Leave it to the Phantom Thieves to{SAUT}check it out! We'll go right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Morgana",
+    "en": "All right, let's go swipe some frozen meat!",
+    "fr": ""
+  }
+]

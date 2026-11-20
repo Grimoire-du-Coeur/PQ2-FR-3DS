@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Well done on finding the Easter egg and{SAUT}reaching the tear-jerking conclusion.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "I definitely felt like crying. Oh well...{SAUT}it was still fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "There's still one thing that's bothering{SAUT}me.{PAGE}What did they mean by \"find the Easter{SAUT}egg\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Whaddaya mean? We found what we{SAUT}were lookin' for, didn't we?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Yes, but why \"Easter egg\"?{PAGE}If this were a regular treasure hunt, we{SAUT}could have attained a different prize.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Why...? Hmm, never really thought{SAUT}about it.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Because it's festive?{OPTION}There's no real reason.{OPTION}It's a coincidence...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Hehehe. Yeah, whoever organized this{SAUT}must've been in the Easter spirit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Hehehe. You're probably right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "Maybe they were tryna \"egg\" us on?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukari",
+    "en": "*sigh* Just ignore him,{SAUT}{f 6 1 30 0 0 0}-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Nah, someone definitely planned this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Huh? Figure something out, Futaba?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "Only just now, yeah! I hadn't thought{SAUT}about it like this...{PAGE}Sometimes programmers slip extras{SAUT}into their games or apps just for fun.{PAGE}Like a message that only displays if you{SAUT}do a certain set of inputs―similar to{SAUT}cheat codes.{PAGE}And they're called Easter eggs because{SAUT}you normally gotta follow a buncha{SAUT}steps to find 'em.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Fuuka",
+    "en": "*giggle* How clever. So that's what{SAUT}was going on in A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Junpei",
+    "en": "Ohhh... I don't get it!{PAGE}Are you sayin' we got taken for a ride?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "Who does something like that...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Elizabeth",
+    "en": "Now then, I wonder what the next{SAUT}special screening will have in store.",
+    "fr": ""
+  }
+]

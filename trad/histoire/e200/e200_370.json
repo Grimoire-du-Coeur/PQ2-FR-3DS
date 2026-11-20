@@ -1,0 +1,278 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Look, there they are!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Aha! We finally caught up to the herd!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Sulky herbivore",
+    "en": "Hey, those humans are back... Did they{SAUT}follow us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Stubborn herbivore",
+    "en": "No way? I thought we blocked off{SAUT}the path!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Heheh! As if we'd give up over such{SAUT}a minor obstacle!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Timid herbivore",
+    "en": "But... why are you following us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Sulky herbivore",
+    "en": "Yeah, we don't have anything to do{SAUT}with you anymore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Nervous herbivore",
+    "en": "Let's just ignore the humans and keep{SAUT}moving. Who cares about them? Just as{SAUT}long as we can get to our paradise...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kanji",
+    "en": "H-Hey! Get back here, you bastards!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosuke",
+    "en": "Are you fine with this? You keep{SAUT}suppressing how you really feel...{PAGE}Are you really satisfied with being the{SAUT}kind of guy to abandon your friends!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosukesaurus",
+    "en": "I-I can't help it! This is what everyone{SAUT}voted for!{PAGE}It's the rule of the herd... If I go against{SAUT}it, I'll be the one kicked out next!{PAGE}Just... leave me alone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukiko",
+    "en": "There they go again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yosuke",
+    "en": "Sheesh, this again!? We better go too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Teddie",
+    "en": "Yosuke, what is it that's fired you up{SAUT}so much?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "Huh!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Makoto",
+    "en": "True, you do seem especially invested{SAUT}when it comes to Yosukesaurus...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yosuke",
+    "en": "Uhh... Right. I guess I was getting a bit{SAUT}heated with him back there.{PAGE}It's like... I can understand how he feels.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Because you look the same?{OPTION}Why's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yosuke",
+    "en": "Well, I guess that could be part of it.{SAUT}But it's more because he reminds me{SAUT}of how I used to be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yosuke",
+    "en": "Well, it's not all that interesting or{SAUT}anything...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yosuke",
+    "en": "Growing up, I had to transfer a lot, and{SAUT}transfer students tend to feel isolated{SAUT}when they get to their new school.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ann",
+    "en": "I know what you mean. There are all{SAUT}these established friend groups and{SAUT}cliques, and then you just show up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "That's why I would just laugh along or{SAUT}go with whatever the other guys were{SAUT}saying―all so I wouldn't feel isolated...{PAGE}But, I ended up hiding how I really felt{SAUT}all the time. Even when I didn't agree{SAUT}with what they said, I just sucked it up.{PAGE}If I hadn't done that, I'd be the odd one{SAUT}out, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "I know how hard it is to feel alone...{PAGE}There could be tons of people around{SAUT}you, but you still feel like you stick out{SAUT}like a sore thumb. It can be scary.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "It sure is hard to be alone...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yukiko",
+    "en": "When Yosuke-kun's family first came to{SAUT}Yasoinaba, they were scrutinized pretty{SAUT}badly because of their business...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yosuke",
+    "en": "Yeah―no matter where I went, it was{SAUT}always the same...{PAGE}I would constantly gauge people's{SAUT}reactions to see if they liked me...{SAUT}All of my relationships felt so phony.{PAGE}That is, until I met these guys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Naoto",
+    "en": "Yosuke-senpai...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yosuke",
+    "en": "When I started hanging out with them,{SAUT}hiding my personality around them{SAUT}made me feel like I was being an idiot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Chie",
+    "en": "Wait, are you actually paying us{SAUT}a compliment!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yosuke",
+    "en": "Well, yeah. No matter what others said,{SAUT}you guys didn't immediately judge me,{SAUT}remember?{PAGE}We talk about our true feelings, and{SAUT}you stop me when I'm about to do{SAUT}something wrong.{PAGE}Knowing people like that―Knowing{SAUT}friends like that has been life-changing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P4 Hero",
+    "en": "Heh... That's the highest compliment{SAUT}you could give us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Rise",
+    "en": "No way―Yosuke-senpai's actually being{SAUT}real with us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yosuke",
+    "en": "Oh, c'mon! What's so bad about me{SAUT}spilling my guts for once!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Teddie",
+    "en": "*sniff* You've moved me so greatly{SAUT}that I can hardly bear it, Yosuke...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Yosuke",
+    "en": "Argh! Okay, no more of that! I'm gettin'{SAUT}embarrassed here all of a sudden!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yukiko",
+    "en": "Thank you for sharing your feelings{SAUT}with us, Yosuke-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yosuke",
+    "en": "U-Uhh... Well, anyway!{PAGE}I wanna give Yosukesaurus and{SAUT}the other dinosaurs a piece of{SAUT}my mind!{PAGE}If they're all really companions, they{SAUT}need to stop worrying about others'{SAUT}reactions and be honest with each other.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, we'll find them and tell them{SAUT}exactly that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Haru",
+    "en": "They all share such a strong bond...{SAUT}It's so wonderful to witness. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Ryuji",
+    "en": "We better step our game up too―{SAUT}Right, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_042",
+    "choix": true,
+    "en": "We're just as tight as they are.{OPTION}Let's all work together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Morgana",
+    "en": "That's right. Our bonds are strong{SAUT}as steel!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Ryuji",
+    "en": "Hell yeah! Nothing's impossible for{SAUT}the Phantom Thieves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Yosuke",
+    "en": "Well then, let's get going before we lose{SAUT}track of them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Futaba",
+    "en": "We'll do our best to navigate, so you'd{SAUT}better not give up either!",
+    "fr": ""
+  }
+]

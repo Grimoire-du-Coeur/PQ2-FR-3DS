@@ -1,0 +1,248 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "...Hey, Hikari-chan. You like movies,{SAUT}right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "Yeah, I love them. Why?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "Well, I was wondering why you were{SAUT}trapped in a movie theater in the first{SAUT}place.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Hrmmm... If Doe is the one who's{SAUT}imprisoned Hikarin, then maybe{SAUT}he's suited her cage to her liking?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "How nice of him.{OPTION}It's more about what Doe likes.{OPTION}He's a courteous host.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "Uh, if he's so nice, why'd he even{SAUT}trap her here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "Yeah. No matter how much she loves{SAUT}movies, trapping her and forcing her to{SAUT}watch these awful ones makes no sense.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Oh, right. Since Doe's a projectionist,{SAUT}it's not hard to imagine he'd choose{SAUT}a place that suits his own interests too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "I see. If he's having her stay for a long{SAUT}time, he may as well make it{SAUT}comfortable for her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosuke",
+    "en": "Dude, he trapped her here! What kinda{SAUT}host is that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "I'd have no issue being trapped in Joker's{SAUT}residence, though...{PAGE}It's a comfortable spot, and there's{SAUT}curry there. If I had art supplies with{SAUT}me, I could spend weeks at his place.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "I just got hit with the strongest sense{SAUT}of deja vu, like I've got my own bear{SAUT}to cross...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "Um... To be honest, I kind of liked that{SAUT}movie theater at first...{PAGE}I got to watch movies for as long{SAUT}as I wanted.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Really? But, wasn't it just the same{SAUT}movie on loop until we showed up?{PAGE}Plus, it was that awful Kamoshidaman{SAUT}flick... I know you love movies and all,{SAUT}but wouldn't that get old?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "It was repetitive, but I didn't mind...{SAUT}Actually, nothing bothered me at all{SAUT}while I was watching...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukiko",
+    "en": "I know what you mean.{PAGE}There have been times where I didn't{SAUT}want to think about anything and just{SAUT}run away from it all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Hikari",
+    "en": "Mmhm... I think I was trying to escape{SAUT}reality in that movie theater.{PAGE}But, I can definitely say that's not the{SAUT}case anymore. Those aren't the kinds of{SAUT}movies that I want to watch now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Naoto",
+    "en": "Not having to think as long as you were{SAUT}watching the movie... It's almost as if{SAUT}you were locking yourself away instead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ken",
+    "en": "Huh? What do you mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Naoto",
+    "en": "When she first arrived, Hikari-san had{SAUT}no intentions of leaving the movie{SAUT}theater...{PAGE}But, as she watched the films, both the{SAUT}plots of the movies and her own feelings{SAUT}began to change―and Doe spit up keys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akechi",
+    "en": "It's as if his actions were linked to{SAUT}Hikari-san's changes of heart and{SAUT}her desire to leave this place.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Hikari",
+    "en": "My heart was related to all this...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Naoto",
+    "en": "When she first arrived, Hikari-san had{SAUT}no intentions of leaving the movie{SAUT}theater...{PAGE}But, as she watched the films, both the{SAUT}plots of the movies and her own feelings{SAUT}began to change...{PAGE}We can't be certain of anything yet, but{SAUT}there must be some connection between{SAUT}the theater and Hikari-san.{PAGE}If I were to postulate who could most{SAUT}likely manage a theater filled with films{SAUT}that mirror Hikari-san's heart, it'd be...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "Doe.{OPTION}Nagi.{OPTION}The Blue Brigade.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ryuji",
+    "en": "Yep, makes sense to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Mitsuru",
+    "en": "That's a good point―Doe has been{SAUT}serving as the projectionist this{SAUT}whole time...{PAGE}Still, something seems off to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Chie",
+    "en": "Wha―Are you serious!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Kanji",
+    "en": "Uhh... Didn't Nagi-san wake up here in{SAUT}the theater with Hikari, though?{PAGE}Doesn't that mean she just got dragged{SAUT}into this whole mess like we did?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ryuji",
+    "en": "When it comes down to it, ain't Doe{SAUT}the only one who could pull off{SAUT}somethin' this ridiculous?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Mitsuru",
+    "en": "That's a good point―Doe has been{SAUT}serving as the projectionist this{SAUT}whole time...{PAGE}Still, something seems off to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Makoto",
+    "en": "Hmm... Those people in all the blue{SAUT}could very well know something, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "Aw, c'mon―there's someone way more{SAUT}effin' suspicious than them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Mitsuru",
+    "en": "You mean Doe... He has indeed been{SAUT}serving as the projectionist this whole{SAUT}time...{PAGE}Still, something seems off to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Akechi",
+    "en": "I must say, I agree...{PAGE}However, we have no idea what Doe's{SAUT}motives are, so nothing can be said{SAUT}for certain at the moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Akihiko",
+    "en": "I guess all we can do is find him and{SAUT}press him for answers―who knows{SAUT}if that'll actually do us any good...{PAGE}Hikari and Doe both went into this{SAUT}movie, right? There has to be a reason{SAUT}why he's finally made a move.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Shinjiro",
+    "en": "Aki's got a point. So, where in the hell{SAUT}is he?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Hikari",
+    "en": "I think he's at the end of this movie...{SAUT}in the deepest point.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "P4 Hero",
+    "en": "You can tell where he is?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Hikari",
+    "en": "It's just a feeling I'm getting... Sorry{SAUT}I can't be more certain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Naoto",
+    "en": "Not at all―this place is most likely{SAUT}intimately connected to your heart...{PAGE}So, following it should be the fastest{SAUT}way to resolving our predicament.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P3 Hero",
+    "en": "Right. We'll follow you down the path{SAUT}that you believe in.{PAGE}C'mon, let's keep going.",
+    "fr": ""
+  }
+]

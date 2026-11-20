@@ -1,0 +1,37 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "You did it! You've captured the music!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "Whoa, it actually went into the box.{SAUT}How the heck does this even work!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "I have to say, I've never seen a{SAUT}treasure like that before...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Morgana",
+    "en": "I guess if this world is a musical,{SAUT}that means the music itself has a{SAUT}presence here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "Now, all we have to do is return to{SAUT}the theater without the music{SAUT}disappearing. Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "The music will disappear if you use a{SAUT}Goho-M, Goba-K, or any escape-type{SAUT}skill. Head to the labyrinth entrance{SAUT}without any of these.",
+    "fr": ""
+  }
+]

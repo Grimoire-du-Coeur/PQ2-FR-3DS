@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Hello and welcome. Will you be{SAUT}attempting a special screening?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Yes, we'd like to try.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "Based on the description, it sounds like{SAUT}we just have to defeat the enemies,{SAUT}right...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "Hmhm. Rest assured, you won't be{SAUT}tasked with doing anything{SAUT}unreasonable... yet.{PAGE}Now, on to business. Might I ask that{SAUT}you defeat eight Basalts?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Sounds easy.{OPTION}No problem.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Haru",
+    "en": "Mhm. We can handle that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "That should be fine. I doubt we'll have{SAUT}any issues at our current strength.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "That's very reassuring to hear.{PAGE}I will be watching you from here with{SAUT}popcorn in hand.{PAGE}Let us now begin the special screening!",
+    "fr": ""
+  }
+]

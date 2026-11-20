@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Oh hey! Now there's wind blowing here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "I see―so that floor switch was for{SAUT}controlling the wall that shields{SAUT}the wind here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Now that the wind's changed, you{SAUT}should be able to make more{SAUT}progress!{PAGE}Keep an eye out for more of those{SAUT}shields and switches as you move{SAUT}forward!",
+    "fr": ""
+  }
+]

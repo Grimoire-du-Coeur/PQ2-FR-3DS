@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Gaudy carnivore",
+    "en": "GRRRROOOOOOOAR!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "*gasp* *pant*{PAGE}I jumped in to help without thinking...{SAUT}Damn, what am I gonna do now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Timid herbivore",
+    "en": "Oh no! You're hurt...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "Heh, this is nothing. More important,{SAUT}though―you gotta stay behind me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Timid herbivore",
+    "en": "But... why are you putting yourself in{SAUT}danger?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "Why? Well, that's―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "Yosuke! Are you all right!?",
+    "fr": ""
+  }
+]

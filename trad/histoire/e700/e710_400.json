@@ -1,0 +1,42 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "...Ah! What's this!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_5",
+    "locuteur": "Yusuke",
+    "en": "It appears to be quite an old camera...{SAUT}but, what a refined design it has!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Hup, Fox's art alarm's gone off again...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Come on! There's no time for playing{SAUT}around, all right? We're about to go{SAUT}save Queen and Noir.{PAGE}It could very well lead to a battle, so{SAUT}you'd better be careful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "...Joker? What's wrong? You looked like{SAUT}you were lost in thought there.{PAGE}You seem awfully curious about{SAUT}this camera...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "I sense some kind of mysterious power{SAUT}from the camera...{PAGE}I get the feeling that we can return{SAUT}to the movie theater with this...{PAGE}Perhaps it's a good idea to return{SAUT}to the theater and regroup...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "You will be able to save and{SAUT}exit the labyrinth here.",
+    "fr": ""
+  }
+]

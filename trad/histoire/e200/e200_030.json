@@ -1,0 +1,134 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Whoooa, this is amazing! Where{SAUT}are we!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "It looks just like the movie trailer we{SAUT}saw earlier. I've never seen any of these{SAUT}plants before... They're incredible!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "This is like a real jungle... I swear, some{SAUT}ferocious dinosaur could pop out{SAUT}at any moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "In \"Kamoshidaman,\" the characters{SAUT}that were in the trailer appeared just{SAUT}as we saw them...{PAGE}It naturally follows that dinosaurs will{SAUT}appear in this movie.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "That's just unbelievable.{OPTION}I'm getting psyched.{OPTION}Raaaargh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "Seriously. Well, it can't be helped{SAUT}if one shows up.{PAGE}Let's just be sure to move with caution{SAUT}and stay on guard to deal with anything{SAUT}that could happen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "What!? Are you planning on chasing{SAUT}down dinosaurs or something?{SAUT}Seriously, please don't...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "Let's just be sure to move with caution{SAUT}and stay on guard to deal with anything{SAUT}that could happen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Wha―!?{PAGE}H-Hey! That's not funny, you know!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "Oh, dear. Quit fooling around...{PAGE}But, now that I think of it―we should{SAUT}remain cautious here, just in case we're{SAUT}suddenly attacked by something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "...By the way, I know we intend to{SAUT}change this movie, but what exactly{SAUT}are we supposed to do here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "It was pretty easy to figure out with{SAUT}Kamoshidaman―all we had to do was{SAUT}beat up the bad guy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "Hmm... I'm not so sure it was as simple{SAUT}as that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "Crow?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akechi",
+    "en": "Oh, I'm sorry... I was just talking{SAUT}to myself.{PAGE}At any rate, perhaps the dinosaurs from{SAUT}the trailer are key to changing this{SAUT}movie...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Makoto",
+    "en": "The ones who were deciding things via{SAUT}majority rule, yes?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "According to the trailer, the dinosaurs{SAUT}seemed to be arguing about whether{SAUT}or not to save their companion.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016_5",
+    "locuteur": "Akechi",
+    "en": "The one who insisted on the rescue was{SAUT}spurned by the others for dissenting{SAUT}from the group...{PAGE}If we're to change anything, wouldn't{SAUT}that be the most likely place to begin?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "You're right.{OPTION}I guess we can give it a try.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yusuke",
+    "en": "Indeed―we have no other clues,{SAUT}anyhow. Why don't we look for{SAUT}those dinosaurs?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "I agree, let's start with what we can do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Hmm... Seems like this place gets pretty{SAUT}complicated the further in you go...{PAGE}Joker―make sure you keep up the map{SAUT}drawing, just in case something comes{SAUT}up!",
+    "fr": ""
+  }
+]

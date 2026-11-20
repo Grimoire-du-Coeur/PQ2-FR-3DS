@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "A macho enemy and a thrilling brawl!{PAGE}It was a rather sweaty―excuse me―heated{SAUT}screening, and it left me very satisfied.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Glad to hear it.{OPTION}It was tough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Yes, the surprising battle near the climax...{SAUT}My eyes were glued to the screen until the{SAUT}very end.{PAGE}And it looks like a new bond was formed{SAUT}between the two \"men.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "...And that's when we beat the{SAUT}ever-lovin' crap outta the Shadow!{PAGE}Whaddya think? It's a special attack I{SAUT}just thought up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "Yeeeah! That's perfect! Friggin' AMAZING!{PAGE}So, first I'll go, \"Raaah,\" and then...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Here, I wrote it down. We can practice it{SAUT}later!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kanji",
+    "en": "Why don't we give it a name? Something{SAUT}super \"manly\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Good thinkin'! What about...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Looks like you two are getting along just{SAUT}fine now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Kanji",
+    "en": "......!{PAGE}Y-Yeah...{PAGE}......{PAGE}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Wh-Why're you so quiet all of a sudden?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "You've been staring at Morgana a lot{SAUT}lately.{PAGE}I thought it was 'cause you were tryna{SAUT}pick a fight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Kanji",
+    "en": "Uh―No, it's not 'cause I don't like him...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "I mean, yeah, a talkin' cat's pretty weird.{SAUT}But this one... He ain't that bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "Stop calling me a cat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kanji",
+    "en": "Well, yeah I was looking at him, but it's{SAUT}just 'cause...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Because what...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Kanji",
+    "en": "...te.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "...Hm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "What!? Just say it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Kanji",
+    "en": "Aarrgh! Just look how cute he is!{PAGE}How can I not be interested in somethin'{SAUT}that adorable!?{PAGE}I wanna see how fluffy he is... How his{SAUT}paws feel...{PAGE}I'm all about that shit, damn it!{PAGE}*gasp*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Ohh... So that's what it was.{PAGE}Why didn't you just say so? Have at him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Kanji",
+    "en": "Seriously?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "Wha―? Ryuji! You can't just―",
+    "fr": ""
+  },
+  {
+    "id": "SEL_025",
+    "choix": true,
+    "en": "Go ahead.{OPTION}Be gentle.{OPTION}I recommend his paws.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "You too!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Kanji",
+    "en": "O-Okay, here I go...{PAGE}H-Hold still, Mona... I'll be nice...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "Eeeeek!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Kanji",
+    "en": "Get back here, Mona! Lemme feel how{SAUT}fluffy your chin is!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Morgana",
+    "en": "What kind of thief stops when someone{SAUT}tells them to!?{PAGE}Aaaahhh...!",
+    "fr": ""
+  }
+]

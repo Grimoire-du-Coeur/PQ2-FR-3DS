@@ -1,0 +1,27 @@
+[
+  {
+    "id": "DG_OBJECTIVE_MSG_LARGE_0",
+    "en": "Find the requested item in the container!",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0",
+    "en": "Locate the broken container",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#2",
+    "en": "Go to the container",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#3",
+    "en": "Go to the container",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#4",
+    "en": "Go to the container",
+    "fr": ""
+  }
+]

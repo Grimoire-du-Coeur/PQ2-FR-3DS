@@ -1,0 +1,320 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "*gasp* *pant* We should be fine...{SAUT}Now that we're back...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Good job on the escape, guys! Your{SAUT}moves were especially awesome,{SAUT}{f 6 1 27 0 0 0}!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "*pant* *pant* I... I was barely able{SAUT}to keep up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_5",
+    "locuteur": "P3 Fem Protag",
+    "en": "I'm amazed with everyone's speed...{SAUT}I was like, \"So THIS is what the Phantom{SAUT}Thieves can do!\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Heh, that's nothing to be surprised over.{SAUT}Our real power comes from―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Gah, that Kamoshidaman bastard!{SAUT}His powers are such bullshit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Hey, I was talking!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Man, he just froze us in our tracks...{SAUT}That was all thanks to the statue, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Yeah, he really flipped his wig when{SAUT}Makoto and Haru called him out―that's{SAUT}definitely it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "He's finally revealed his true colors...{SAUT}We need to find a way to counter or{SAUT}disable the statue's ability.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Kamoshidaman's guarding it, though.{SAUT}First we have to figure out how to get{SAUT}past him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Should we try blowing it up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "Where would we get a bomb? That{SAUT}would probably also harm any{SAUT}citizens in the vicinity.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "Hmm... How do you think we should{SAUT}disarm the statue, {f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "Ram it with a truck.{OPTION}Have Queen and Noir do it.{OPTION}Let's steal the thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "What kind of crazy plan is that!? Are you{SAUT}a Wild Max driver too, now!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "That approach isn't at all artful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "Right. We're the Phantom Thieves,{SAUT}{f 6 1 30 0 0 0}! We need to be more{SAUT}stylish than that―{PAGE}Hm... Wait a second... Why don't we{SAUT}do what we Phantom Thieves do best{SAUT}and steal it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Fem Protag",
+    "en": "Well, they're tied up right now, so{SAUT}wouldn't that plan be kind of...{SAUT}impossible?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "If we can't destroy the statue, then could{SAUT}we charge in with a truck and drag it off?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ann",
+    "en": "Will you stop resorting to force so{SAUT}quickly!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "Then... Why don't we do what we{SAUT}Phantom Thieves do best and{SAUT}steal it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Morgana",
+    "en": "Ooh―I was just thinking that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Steal it, huh? Kickass! So, what's{SAUT}the scheme?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Morgana",
+    "en": "Obviously, we still have to come up{SAUT}with that part.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ann",
+    "en": "Even if we get near the statue, it's gotta{SAUT}be awfully heavy... Will we even be able{SAUT}to steal it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Akechi",
+    "en": "Ah, I don't think we need to worry about{SAUT}its weight. Do you remember its peculiar{SAUT}behavior?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yusuke",
+    "en": "Yes―despite its size, it swayed back{SAUT}and forth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ryuji",
+    "en": "Oh yeah, you're right! I mean, ain't it{SAUT}weird for such a massive thing to move{SAUT}like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yusuke",
+    "en": "The statue could be designed to appear{SAUT}as if it's made of stone, when it's really{SAUT}comprised of foam or something similar.{PAGE}We may have been deceived by its{SAUT}appearance―that statue could{SAUT}very well be quite light.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Akechi",
+    "en": "In fact, it moved quite a bit during our{SAUT}battle, and that was just from the wind{SAUT}passing by.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "So it's a fake!? Talk about a fitting{SAUT}power source for such a fake hero!{PAGE}Like, what's even the point of lighting{SAUT}up a phony-ass statue!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Yusuke",
+    "en": "The citizens must gain some peace of{SAUT}mind through its reverence―no matter{SAUT}how false it may be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "P3 Fem Protag",
+    "en": "That's a good point. Everyone in the{SAUT}movie blindly follows Kamoshidaman.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Morgana",
+    "en": "Now, onto how to steal it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ann",
+    "en": "It's all lit up in the center of the square...{SAUT}Just getting near it will draw too much{SAUT}attention to us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P3 Fem Protag",
+    "en": "Does that mean it'd be easier to steal{SAUT}if we turned those lights off?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Morgana",
+    "en": "Well, that's obvious...{PAGE}But then the question is, where's the{SAUT}light switch?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_038",
+    "choix": true,
+    "en": "Is it in Kamoshida Square?{OPTION}Down the FOE-infested path.{OPTION}Let's just blow all of it up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ann",
+    "en": "Hmm, did we spot anything like that{SAUT}when we were there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Yusuke",
+    "en": "No, it's not at the square. I do have{SAUT}an idea of where it may be, though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040_5",
+    "locuteur": "Yusuke",
+    "en": "There was that path earlier, the one that{SAUT}led to an area infested with FOEs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Ryuji",
+    "en": "Oh, you mean the one from Yusuke's{SAUT}little chant?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Yusuke",
+    "en": "A path leading to an area infested{SAUT}with FOEs. I find that rather suspicious,{SAUT}too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Ryuji",
+    "en": "Ooh! That sure would make things{SAUT}easy―Wait, just how violent are you!?{PAGE}It's obviously way easier to just{SAUT}switch it off!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Yusuke",
+    "en": "I have an idea about the location of that{SAUT}switch...{PAGE}Remember the path leading to an area{SAUT}infested with FOEs?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh right, the policemen passing by{SAUT}there said something about lighting...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Akechi",
+    "en": "They were discussing how the lighting{SAUT}needed to be flashier for the exhibition.{PAGE}Due to the importance of the lighting,{SAUT}one can imagine its security being{SAUT}extremely tight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Ryuji",
+    "en": "So, we'll find the lighting controls{SAUT}somewhere past that crowd of FOEs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Yusuke",
+    "en": "That seems likely... So, there is indeed{SAUT}something worthwhile beyond the{SAUT}thorny path.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Morgana",
+    "en": "Okay, let me recap...{PAGE}In order to rob Kamoshidaman of his{SAUT}powers, we need to steal that statue...{PAGE}But, to approach it, we have to power{SAUT}down its lighting first.{PAGE}The lights' power source is most likely{SAUT}beyond that swarm of FOEs... Does that{SAUT}cover it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Akechi",
+    "en": "It'll probably be quite dangerous, but{SAUT}we don't have any time to spare―we'll{SAUT}just have to get it done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Futaba",
+    "en": "Okay, then you guys head back to that{SAUT}crossroad...{PAGE}And I'll keep up the navigation for you,{SAUT}{f 6 1 30 0 0 0}!",
+    "fr": ""
+  }
+]

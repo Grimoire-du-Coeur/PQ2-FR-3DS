@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "H-Here we go. Everyone ready?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukiko",
+    "en": "Your voice sure is cracking a lot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Now that I get a better look at it, that{SAUT}thing's huge...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Yeah! How am I gonna impress the{SAUT}ladies if that big beastie takes a bite{SAUT}outta this beautiful bod of mine...?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "We'll be fine.{OPTION}Don't be afraid.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "Right. We only lose if we give up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Heh, not bad, Ken. You're right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ken",
+    "en": "Heheh... It's just something I heard.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "That's from Featherman! \"Heroes never{SAUT}retreat, beg, or give up!\"{PAGE}Lead the way, Joker! It's time for a{SAUT}Tyranniqueen tussle!",
+    "fr": ""
+  }
+]

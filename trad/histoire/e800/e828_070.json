@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Well done, everyone.{PAGE}This screening refused to remain{SAUT}as just a riveting treasure hunt.{PAGE}When the robot reawakened, it was as if{SAUT}my feelings were, how should I put it,{SAUT}\"hit by a truck\"―I burst into tears.{PAGE}You have my deepest gratitude for{SAUT}taking me through such a moving story.{PAGE}Please accept this as your reward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says he enjoyed{SAUT}spending time with you,{SAUT}{f 6 1 27 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "That reminds me, Aigis-san... You said{SAUT}both you and Koromaru sensed{SAUT}something in {f 6 1 27 0 0 0}-san.{PAGE}What exactly was it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Koromaru",
+    "en": "Arf...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Aigis",
+    "en": "I'm sorry. Neither of us were able to{SAUT}come up with a clear answer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha, weird.{PAGE}Well, no sense worrying about it, right?{SAUT}I mean, the fact that we're all here in{SAUT}the first place is weird too!{PAGE}I'm just glad to be here with everyone.{SAUT}Is that okay? Or is that weird?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Aigis",
+    "en": "-san...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says, too, it is best to live in{SAUT}the present.{PAGE}I must agree.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ken",
+    "en": "*chuckle* You're right. I think things are{SAUT}just fine the way they are now!{PAGE}We've still got a ways to go, but we'll get{SAUT}through this if we work together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Koromaru",
+    "en": "Awooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ken",
+    "en": "Koromaru seems motivated too. Of{SAUT}course, I don't plan on sitting around{SAUT}either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* We're all counting on you two!{SAUT}Let's do it, team!",
+    "fr": ""
+  }
+]

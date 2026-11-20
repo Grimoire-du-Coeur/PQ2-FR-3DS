@@ -1,0 +1,12 @@
+[
+  {
+    "id": "msg000_MSG",
+    "en": "You can perform a {f 0 1 2}Persona Fusion{f 0 1 0},{SAUT}where you fuse multiple Personas{SAUT}together to summon a new one.{PAGE}{f 0 1 2}You will lose the original Personas{f 0 1 0}, but{SAUT}the resulting one will inherit some of{SAUT}their skills, and its level may be higher{SAUT}{f 0 1 2}(although it can't exceed your own level){f 0 1 0}.{PAGE}Your own level is called the {f 0 1 2}Wild Level{f 0 1 0},{SAUT}and it is the highest in the party.",
+    "fr": ""
+  },
+  {
+    "id": "msg001_MSG",
+    "en": "You can also prevent losing a Persona{SAUT}to fusion by making a copy of it{SAUT}beforehand. In the 2-Layer Fusion{SAUT}menu, press the {f 0 1 2}X Button{f 0 1 0} while the{SAUT}Persona is selected, and you can then{SAUT}turn the {f 0 1 2}copy{f 0 1 0} option on or off.{PAGE}If you don't make a copy of either{SAUT}Persona, then fusing them costs no{SAUT}money. They will simply be lost.{PAGE}If you do decide to copy a Persona,{SAUT}then you will have to {f 0 1 2}pay yen to fuse it{f 0 1 0}.{PAGE}The price will be the same as when you{SAUT}summon a Persona from the \"Persona{SAUT}Film.\" Try many different fusion combos{SAUT}to make your party super-strong!",
+    "fr": ""
+  }
+]

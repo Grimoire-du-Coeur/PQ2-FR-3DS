@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Koromaru",
+    "en": "Bark! Bark bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "What's wrong, Koromaru―{PAGE}Whoa, what the―!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "There's an FOE over there...{PAGE}Well done spotting that, Koro-chan!{SAUT}You're such a good boy. Yes, you are!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "Hm? But if the FOE's standing on that{SAUT}spot, could we...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "Heehee! {f 0 1 2}If we use the right switch,{SAUT}it'd be bye-bye to that guy{f 0 1 0}!{PAGE}C'mon! I've got an itch to find a switch!",
+    "fr": ""
+  }
+]

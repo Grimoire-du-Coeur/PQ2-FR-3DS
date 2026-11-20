@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Innocent girl",
+    "en": "You're filming again...{PAGE}Why do you have to keep filming me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Calm man's voice",
+    "en": "Well, every moment of yours that I film{SAUT}is a precious part of your life's record.{PAGE}...Listen up, okay? You have the main{SAUT}role in your own life, Hikari.{PAGE}That's why, well... one could call you the{SAUT}starring actress of your own film.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Innocent girl",
+    "en": "...Me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Calm man's voice",
+    "en": "That's right. So, come now. Smile for the{SAUT}camera, won't you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Innocent girl",
+    "en": "......{PAGE}...I can't. It's embarrassing... You can{SAUT}go ahead and stop filming me now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Innocent girl",
+    "en": "Hey, am I... different from other people?{SAUT}Am I... weird? Is it wrong for me to be{SAUT}like this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Calm man's voice",
+    "en": "What makes you think that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Calm man's voice",
+    "en": "Well... you certainly aren't normal,{SAUT}Hikari.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Innocent girl",
+    "en": "Huh!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Calm man's voice",
+    "en": "For me, you're not just normal...{SAUT}You're special.{PAGE}You're a sweetheart, a sensitive soul,{SAUT}and a bit of a worrywart―plus, your{SAUT}smile reminds me of your mother...{PAGE}Hikari, it's totally fine to be who you are.{SAUT}You shouldn't think that it's wrong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Innocent girl",
+    "en": "...R-Really?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Calm man's voice",
+    "en": "Look, it's only natural that you're{SAUT}different from other people...{PAGE}You have your own special individuality.{SAUT}It would make me happy if you could{SAUT}see the value in that too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Innocent girl",
+    "en": "Geez... *giggle*{PAGE}Dad... Do you remember how I told you{SAUT}that I want to make movies?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Calm man's voice",
+    "en": "Of course I do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Innocent girl",
+    "en": "If what you told me is true... If you're{SAUT}the lead in your own life...{PAGE}Then I really do want to become a movie{SAUT}director. I want to record all sorts of{SAUT}people's lives.{PAGE}Each person has their own story to tell.{SAUT}They all live and think in different ways...{PAGE}Whether it's fiction or non-fiction,{SAUT}I want to film those different stories...{PAGE}And if the people watching those movies{SAUT}have a good time or feel happy seeing{SAUT}them, then that would make me happy.{PAGE}That's what movies did for me... Just like{SAUT}you showed me, Dad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Calm man's voice",
+    "en": "That's such a wonderful dream.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Innocent girl",
+    "en": "Yeah, and I'm gonna make sure{SAUT}it comes true!",
+    "fr": ""
+  }
+]

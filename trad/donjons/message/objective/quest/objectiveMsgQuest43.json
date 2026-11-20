@@ -1,0 +1,32 @@
+[
+  {
+    "id": "DG_OBJECTIVE_MSG_LARGE_0",
+    "en": "Go to the designated spot",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0",
+    "en": "Head to the sign",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#2",
+    "en": "Answer the question on the sign",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#3",
+    "en": "Head to the sign",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#4",
+    "en": "Answer the question on the sign",
+    "fr": ""
+  },
+  {
+    "id": "DG_OBJECTIVE_MSG_SMALL_0#5",
+    "en": "Proceed ahead",
+    "fr": ""
+  }
+]

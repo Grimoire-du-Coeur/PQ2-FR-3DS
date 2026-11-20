@@ -1,0 +1,175 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Ngh...{PAGE}At this rate... I'm going to collapse...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Are you okay?{OPTION}You can barely stand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Joker... I think this is it for{SAUT}me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "As I'm sure you've already guessed... I'm{SAUT}very hungry...{PAGE}I nearly took a bite out of Mona's tail{SAUT}because it looked like an eel... My{SAUT}stomach is beyond empty!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "What's wrong, Fox? You feelin' sick or{SAUT}something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "My hunger has bested me.{PAGE}Normally, I'd resort to eating{SAUT}beansprouts or radish leaves, but I can't{SAUT}do that here...{PAGE}This is shameful of me to ask, but... will{SAUT}you spare me some food?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akihiko",
+    "en": "Heh, you should've just said so. Here,{SAUT}take this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "Ahh! This is...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akihiko",
+    "en": "A protein bar! Not only is it healthy,{SAUT}but it's also easy to eat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "In order to stay fit, you have to be sure{SAUT}to exercise AND get plenty of nutrition.{PAGE}You can exercise all you want, but{SAUT}without any nutrition, it's pointless.{PAGE}That's why you gotta take protein!{PAGE}It's best to take it roughly 45 minutes{SAUT}after you work out, so I carry...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "*sigh* Thank you. That was quite nice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akihiko",
+    "en": "Wha...!? You're finished already!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Yes... But I'm far from full... In fact, I'm{SAUT}hungrier than ever.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "Ugh... How humiliating... I suppose this{SAUT}is where I die...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akihiko",
+    "en": "Stay with me, Fox!{PAGE}I can't leave a man behind... I'll just have{SAUT}to ask him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Shinjiro",
+    "en": "...So, you want me to make you{SAUT}somethin'?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akihiko",
+    "en": "Yeah, something that'll energize us.{PAGE}It's been so long since I've eaten{SAUT}anything made by you. I wonder what{SAUT}we should have you make...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Shinjiro",
+    "en": "How come you're callin' the shots here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Akihiko",
+    "en": "Who cares about the details!?{PAGE}Besides, you almost never cook for me!{SAUT}It's not fair.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Shinjiro",
+    "en": "*sigh* And I thought you were trying to{SAUT}help someone... Selfish bastard.{PAGE}Whatever... Everyone'll be happy if I{SAUT}make some food, right?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_020",
+    "choix": true,
+    "en": "Yes, please.{OPTION}I want some too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Shinjiro",
+    "en": "Man, you're high maintenance.{PAGE}The question now is: do we have any{SAUT}ingredients?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yusuke",
+    "en": "Hrgh, that's right...! Is there any grass{SAUT}nearby?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akihiko",
+    "en": "I have some backup protein. It's{SAUT}powder, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Shinjiro",
+    "en": "*sigh* I can't make anything with this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yusuke",
+    "en": "Ngh... Well, if we don't have any{SAUT}ingredients, then we'll just have to find{SAUT}some!{PAGE}I, Fox, will do anything for a delicious{SAUT}meal!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Akihiko",
+    "en": "Heh... Looks like you're up to the task.{SAUT}Okay, me too. I'll give it my best shot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Shinjiro",
+    "en": "Just how hungry are you guys...?{PAGE}Either way, I can't do anything until you{SAUT}get those ingredients.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "en": "A new special screening:{SAUT}\"The Price of a Free Meal\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "The concession stand...{PAGE}Popcorn and movie memorabilia{SAUT}line the storefront...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "This looks delicious...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "No eating without permission, got it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Maybe Haru and Makoto are here?{SAUT}...Nope, course not. Let's keep lookin'.",
+    "fr": ""
+  }
+]

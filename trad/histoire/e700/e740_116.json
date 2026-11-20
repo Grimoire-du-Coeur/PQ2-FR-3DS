@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Teddie",
+    "en": "Oh no, oh no, oh nooooo! I-Is this{SAUT}a catastrophe!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Obviously not!{PAGE}...Hm? Guess it's stopped.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "Teddie, there's no knowing what might{SAUT}happen in this world. Make sure you{SAUT}don't touch anything carelessly, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "I understand, Sensei... I'll think about{SAUT}what I've done...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "Oh―but look, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "...{f 0 1 2}The hole's been blocked{f 0 1 0}. This must be{SAUT}the cause of that earthquake.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Shinjiro",
+    "en": "This reminds me of those things{SAUT}they use for puttin' on plays. What{SAUT}was it called... {f 0 1 2}stage lift{f 0 1 0}?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Whaaa―!? So, it's safe to say the mystery{SAUT}was solved entirely thanks to me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Dude, what happened to thinkin' on{SAUT}what you did?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "...Wait, what's that sound!?",
+    "fr": ""
+  }
+]

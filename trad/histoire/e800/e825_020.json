@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "Now then, please make your way over{SAUT}to the KNS-1000.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Aigis",
+    "en": "Understood! I will do my best to destroy{SAUT}the target!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "There are multiple KNS-1000s, but it{SAUT}sounds like you can choose any one of{SAUT}them.{PAGE}As always, we'll leave it to you, Joker.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Looks like the map is set for the special{SAUT}screening. Maybe we can roam around{SAUT}if we have time.{PAGE}Either way, keep an eye on the map and{SAUT}watch your step!",
+    "fr": ""
+  }
+]

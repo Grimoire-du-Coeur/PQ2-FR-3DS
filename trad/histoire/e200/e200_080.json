@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Joker, wait! Stop, stoooop!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "What's with the yelling? Is it an{SAUT}enemy!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "I dunno, but something's approaching{SAUT}you guys crazy fast!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Is it a dinosaur?{OPTION}Is it an FOE?{OPTION}Is it Mona?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "No way!? Does that mean it's coming{SAUT}after us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Yeah, I'm closing in with my supersoni―{PAGE}Get real! I've been right next to you{SAUT}this whole time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "These aren't dinosaurs or FOEs...{SAUT}Based on this movement speed...{PAGE}No way... Could they be human!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "For real? There's someone else here{SAUT}besides us!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "Oh, maybe this is what Oracle had{SAUT}mentioned when we first entered{SAUT}the movie...  {PAGE}You know, about how there are multiple{SAUT}powerful presences here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hey! Maybe they're my companions!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "That makes sense... If they're humans{SAUT}with strong powers, you could be{SAUT}correct.{PAGE}However, normally, there should be no{SAUT}humans in this movie. It's probably best{SAUT}to remain cautious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "You're right. Plus, I'm curious about the{SAUT}high-speed part.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Your curiosity's about to be satisfied...{SAUT}They're closing in right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "It seems we have no time to mull this{SAUT}over. Joker, what's your call?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "Let's make the first move.{OPTION}Let's see what happens.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "All right, we'll leave it to you. Take your{SAUT}gun, for the scare factor...{PAGE}If we're dealing with humans, just{SAUT}showing 'em that should give you{SAUT}an advantage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Makoto",
+    "en": "I hope this works out in our favor...{SAUT}Let's stay on our toes, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "Hey, incoming! Get ready!",
+    "fr": ""
+  }
+]

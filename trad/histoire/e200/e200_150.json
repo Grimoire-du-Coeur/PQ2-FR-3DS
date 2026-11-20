@@ -1,0 +1,350 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": ". I'm a second-year{SAUT}at Yasogami High. I hope we get along.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "A second-year... I didn't think you were{SAUT}younger than me. You're quite mature{SAUT}for your age.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "He squared off with {f 6 1 30 0 0 0}―{SAUT}I doubt he's anyone ordinary.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "It's a pleasure.{OPTION}I'll take you down next time.{OPTION}Nice to me-heet you, ho!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P4 Hero",
+    "en": "Likewise. It's reassuring to have new{SAUT}companions.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, bring it on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "ME EAT YOU WHOLE...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "I am in your care...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Intelligent-looking boy",
+    "en": "Umm... Are you all using some sort{SAUT}of code?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Oh, are y'all already on the same{SAUT}wavelength?{PAGE}Cuz, man, there's somethin' real similar{SAUT}between you three... I guess it's just the{SAUT}sort of vibe you got?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "That reminds me, you already knew{SAUT}some of the blue folks, too.{PAGE}Like, {f 6 1 27 0 0 0}-chan knew{SAUT}Theodore too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, I have the power of the wild{SAUT}card, so I can take on different{SAUT}Personas.{PAGE}Looks like the same goes for{SAUT}{f 6 1 13 0 0 0}-kun and {f 6 1 30 0 0 0}-kun{SAUT}too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011_5",
+    "locuteur": "P3 Fem Protag",
+    "en": "Really, I'm just blown away to learn{SAUT}that there are other people with the{SAUT}same power as me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, I'm surprised myself. This has to{SAUT}be fate of some kind that brought us{SAUT}together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Energetic girl",
+    "en": "Uh, so, I guess I'll go next?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Chie",
+    "en": "I'm Chie Satonaka, second-year at{SAUT}Yasogami High. I love kung fu{SAUT}and meat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "Wait, kung fu and... meat?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Chie",
+    "en": "Ah... And, I love... sweets, heh! Ooh, I'm{SAUT}also super-interested in fashion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Ohhh man... That was even more{SAUT}awkward than Lady Ann's acting...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Menacing-looking boy",
+    "en": "Senpai, they already figured you out...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "It seems I'm next... I'm Yukiko Amagi.{SAUT}It's nice to meet you all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Yukiko's family runs a historic inn,{SAUT}and she's next in line to take it over.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Haru",
+    "en": "Ah, so that explains the air about her.{SAUT}It's like she has all the qualities of a{SAUT}traditional Japanese lady.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "That's so cool that you're the next{SAUT}manager of an inn. I bet you're great{SAUT}at housekeeping―and cooking, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P4 Hero",
+    "en": "Don't... mention cooking again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "I sense great tragedy in that comment...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Kanji",
+    "en": "'Kay, I'll go next. I'm Kanji Tatsumi,{SAUT}first-year at Yasogami High.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "Another bottle blond like Ryuji, eh?{SAUT}Maybe you two'll get along well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "...Wh-What!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ryuji",
+    "en": "Whoa, whoa, what're you givin'{SAUT}Morgana that look for?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Kanji",
+    "en": "Uh... Huh!? I―I'm not giving a look!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Person in bear costume",
+    "en": "Geez, how could you be such a cheat,{SAUT}Kanji? Don't tell me my fur isn't cuddly{SAUT}enough for you anym―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Kanji",
+    "en": "Waaaaaaah! Hey, why're you rattin'{SAUT}me out!?{PAGE}J-Just drop it! Next! You, Naoto!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Naoto",
+    "en": "Oh, yes. I'm Naoto Shirogane, and{SAUT}the same first-year as Kanji-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Makoto",
+    "en": "That name sounds familiar. Where have{SAUT}I heard it...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Akechi",
+    "en": "Naoto Shirogane: The original{SAUT}\"Detective Prince.\"{PAGE}I've seen many of your successes{SAUT}broadcast on the news.{PAGE}...I never thought I'd meet the original,{SAUT}let alone somewhere like this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Naoto",
+    "en": "The original, you say?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Akechi",
+    "en": "Yes. Despite my lack of experience as{SAUT}compared to yourself, I'm called the{SAUT}next \"Detective Prince\" by our media...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Naoto",
+    "en": "Ah, I see. Also, there's no need for such{SAUT}formality.{PAGE}It seems I'm younger than you in this{SAUT}world.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Akechi",
+    "en": "Are you sure? Then, don't mind if I do...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Chie",
+    "en": "So that means we've got two Detective{SAUT}Princes then!? That's super reassuring!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Akechi",
+    "en": "Haha, I'll do my best to try and live up{SAUT}to those expectations.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Person in bear costume",
+    "en": "Ooh, me me me! Lemme go next!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Teddie",
+    "en": "Nice to meet you! I'm the one and only{SAUT}Teddie―obviously!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Ann",
+    "en": "Uh, what's so obvious about that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Teddie",
+    "en": "Oh my! Don't you know of my{SAUT}renowned charms, madam?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046_5",
+    "locuteur": "Teddie",
+    "en": "Lo and behold... within this bear suit{SAUT}is an incredible, awesome pretty boy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Chie",
+    "en": "Yeah, yeah―quit trying to strip{SAUT}all the time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047_5",
+    "locuteur": "Chie",
+    "en": "Just to make it clear, it's probably for the{SAUT}best not to think too hard about him...{PAGE}Something might pop out of him from{SAUT}time to time, but just think of it as a part{SAUT}of him and you'll get along fine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Ann",
+    "en": "Alright, could this get any more{SAUT}confusing!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Yukiko",
+    "en": "Let's see... The only ones who aren't{SAUT}here are Rise-chan and Yosuke-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Ryuji",
+    "en": "We know who Risette is, though.{SAUT}She's, like, a star idol!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "P4 Hero",
+    "en": "All right, then. Let's have her provide{SAUT}a more detailed introduction later.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Naoto",
+    "en": "The same can go for Yosuke-senpai{SAUT}as well.{PAGE}It'd be faster to hear about him from his{SAUT}own mouth once we safely regroup{SAUT}with him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. All right, that does it for our end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Haru",
+    "en": "Well, that makes it our turn. So...{PAGE}Should we begin with Futaba-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Futaba",
+    "en": "WHAT!? Th-Th-That's way too much{SAUT}pressure to put on me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055_5",
+    "locuteur": "Futaba",
+    "en": ", {f 6 1 30 0 0 0}! Shouldn't{SAUT}we start with you since you're our{SAUT}leader!?",
+    "fr": ""
+  }
+]

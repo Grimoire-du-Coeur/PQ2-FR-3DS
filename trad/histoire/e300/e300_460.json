@@ -1,0 +1,320 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Oooh! There really is a path here!{SAUT}Now we can keep going!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Whew... We finally made it through.{SAUT}Great job, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ribbon",
+    "en": "KOROMARU-SAN... THANK YOU FOR{SAUT}PUSHING ME ALONG.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Koromaru",
+    "en": "Arf! Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Mitsuru",
+    "en": "Come now, don’t get too playful.{SAUT}Ribbon's unsure how to react.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mitsuru",
+    "en": "What’s the matter, Ribbon? Is there{SAUT}something on your mind?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ribbon",
+    "en": "WHEN I LOOK AT KOROMARU-SAN...{SAUT}I FEEL SOMETHING ODD IN MY CHEST.{SAUT}I WONDER―WHAT IS THIS? ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "Are you not feeling well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ribbon",
+    "en": "I DON’T KNOW. THE TEMPERATURE{SAUT}IN MY CHEST IS RISING A BIT... AND{SAUT}I FEEL AS IF I AM FLOATING.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "Are you getting excited?{OPTION}Are you dying of cute?{OPTION}Are you growing more muscular?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "I don’t think that’s exactly right. It’s{SAUT}probably more of a dreamy feeling.{PAGE}Oh, maybe something like, “D'awww,”{SAUT}would cover it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ribbon",
+    "en": "\"D'AWWW\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "It’s like a feeling you get when you see{SAUT}something so cute, it makes you happy,{SAUT}or want to care for it... I guess?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ribbon",
+    "en": "DYING... OF CUTE?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "It’s like a feeling you get when you see{SAUT}something so cute, it makes you happy,{SAUT}or want to care for it... I guess?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akihiko",
+    "en": "Wait, she’s a robot―doesn't that mean{SAUT}she doesn't have muscles?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Shinjiro",
+    "en": "If even Aki can spot the problem with{SAUT}your logic, it's all over.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "I think what Ribbon-chan is trying to say{SAUT}is a feeling of seeing something cute that{SAUT}makes you happy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukiko",
+    "en": "Mmhm, it’s this feeling you get when{SAUT}something is so adorable, you just want{SAUT}to squeeze it tight!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ribbon",
+    "en": "SQUEEZE...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Chie",
+    "en": "Huh? Were we wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ribbon",
+    "en": "NO... I WANT TO SQUEEZE{SAUT}KOROMARU-SAN TIGHT...{PAGE}BUT... ISN’T AN EMOTION LIKE THIS{SAUT}INCOMPATIBLE WITH A ROBOT?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Kanji",
+    "en": "Compatibility ain't got a thing to do{SAUT}with it...{PAGE}Seein' something cute and having{SAUT}feelings over it is totally normal―it{SAUT}just makes you wanna pet it, is all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ribbon",
+    "en": "IS THAT SO? THEN, DO YOU WANT{SAUT}TO SQUEEZE HIM TIGHT AS WELL,{SAUT}KANJI-SAN?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Kanji",
+    "en": "Huh? Well, of course I wanna squee―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026_5",
+    "locuteur": "Kanji",
+    "en": "Wait! I mean―Don't ask me, dammit!!!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Koromaru",
+    "en": "Grrrrr...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ryuji",
+    "en": "He’s totally warnin' you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Haru",
+    "en": "Say, Ribbon-chan―I don’t think you{SAUT}have to make a decision about how{SAUT}you feel.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yusuke",
+    "en": "Indeed... Others shouldn’t be the ones{SAUT}to dictate how you ought to feel.{PAGE}Also, you mentioned that your feelings{SAUT}are unbefitting a robot, but look just{SAUT}how carefree Aigis is.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Futaba",
+    "en": "Oof, he's gotcha there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Aigis",
+    "en": "Yes―I am a robot, but I am best friends{SAUT}with Koromaru-san as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Koromaru",
+    "en": "Woof! Woof!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says, “I’d definitely like{SAUT}for you to pet me.”",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ribbon",
+    "en": "KOROMARU-SAN... ARE YOU CERTAIN?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "Just be gentle with him.{OPTION}Go to town on that fluff.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Ken",
+    "en": "Koromaru loves it if you scratch under{SAUT}his jaw, close to his neck... Right around{SAUT}here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Ribbon",
+    "en": "I SEE... LIKE THIS?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Ribbon",
+    "en": "\"PET ME MORE\"...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san is delighted. That must{SAUT}feel pleasant to him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Ribbon",
+    "en": "I’M GLAD TO HEAR THAT...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Koromaru",
+    "en": "Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Junpei",
+    "en": "So, what d'ya think? How’d it feel{SAUT}to pet Koromaru?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Ribbon",
+    "en": "HE WAS SOFT... WARM... AND VERY...{SAUT}FLUFFY...{PAGE}DOGS... SO CUTE...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Teddie",
+    "en": "If that’s the case, aren't I fluffy too,{SAUT}Ribbon-chan?{PAGE}So pet me as well, as much as you want!{SAUT}Anywhere would be fine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Ribbon",
+    "en": "MY THOUGHT PROCESS HAS{SAUT}DETERMINED THAT I SHOULD{SAUT}POLITELY DECLINE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Teddie",
+    "en": "H-How cruel... All this fluff―going{SAUT}unloved!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Chie",
+    "en": "Uh, you clearly had your motives,{SAUT}no matter what you say.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Yosuke",
+    "en": "Okay, time to wrap up Fluffy Pet Cuddle{SAUT}Time. We should get going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Ribbon",
+    "en": "YES, I UNDERSTAND. LET’S GO,{SAUT}KOROMARU-SAN.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  }
+]

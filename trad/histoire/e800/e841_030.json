@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": "So this is the singing flower...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Singing flower",
+    "en": "My wings are plucked. I yearn for the{SAUT}sky... I know what I am, a tragic effigy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "Huh? What the hell's this guy sayin'?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Marie",
+    "en": "Wow... I can feel so much of its pathos!{PAGE}My wings are plucked. I yearn for the{SAUT}sky... Yes, I am an angel, fallen in love!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "I don't get it... Is poetry supposed to{SAUT}make you feel itchy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Marie",
+    "en": "An angel... that is both fallen from{SAUT}Heaven, and fallen in love... But there's{SAUT}something missing!{PAGE}These words need an aura of solitude,{SAUT}like they're shouldering a sin too{SAUT}shameful for the world to see...!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Only.{OPTION}Lonely.{OPTION}Single.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Marie",
+    "en": "That's not bad, I guess... Only, only...{PAGE}Oh! Lonely! Lonely Lucifer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Marie",
+    "en": "*gasp* That's it! That's great!{PAGE}Lonely Lucifer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Marie",
+    "en": "That's sort of the idea, but I need{SAUT}something more sad... Oh!{PAGE}Lonely! Lonely Lucifer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Damn, she writes fast. Of course, our{SAUT}team has someone like that, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P4 Hero",
+    "en": "Who are you talking about? Anyway,{SAUT}this is pretty normal for Marie.{PAGE}How's it going, Marie? You have{SAUT}enough to go on, now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Marie",
+    "en": "Yes, for the loneliest of the angels is{SAUT}corrupted by the seven deadly sins and{SAUT}doomed to burn in the hellfires of love!{PAGE}Argh, the pathos! So strong, but not{SAUT}quite enough. And when I'm so close!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Singing flower",
+    "en": "What you seek lies deep below...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Marie",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akechi",
+    "en": "Is it saying we should go to the floor{SAUT}below?{PAGE}I think I saw a similar flower down there.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Wow, good memory.{OPTION}You speak flower?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "It's a result of my detective work.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Marie",
+    "en": "Ahh, so you aren't just sparkly for show.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Marie",
+    "en": "The language of beautiful blossoms? So{SAUT}you have pathos as well. Didn't expect{SAUT}that from someone so sparkly...{PAGE}*gasp* Could it be that the sparkliness{SAUT}is just there to hide the darkness inside{SAUT}of you...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akechi",
+    "en": "Haha. I'm, uh, not sure I understand{SAUT}what you're saying.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P4 Hero",
+    "en": "Break it up, break it up. We need to{SAUT}head to a lower floor and search for{SAUT}more singing flowers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Marie",
+    "en": "You don't mind keeping up the search{SAUT}for pathos?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P4 Hero",
+    "en": "We'll keep going until you're satisfied.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Teddie",
+    "en": "To the other floor, to get some more. So{SAUT}that Marie won't be a bore! What do{SAUT}you think of that verse, Emmy-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Marie",
+    "en": "Um...",
+    "fr": ""
+  }
+]

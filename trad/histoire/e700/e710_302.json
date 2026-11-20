@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Okay, bring it on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_5",
+    "locuteur": "Ryuji",
+    "en": "Wait, what the―There's nothin' here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "...Something's not right. Don't you{SAUT}think it's a little too quiet?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Whoa! Enemies!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "But, they're not after us! What is this{SAUT}I'm reading, though...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Hey. Look over there!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Fine work. You've emerged victorious{SAUT}from a most vicious fight! I can only{SAUT}give you a standing ovation.{PAGE}And just as I had predicted, you've{SAUT}acquired another piece of film.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "But it's definitely seen better days.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "locuteur": "P4 Hero",
+    "en": "If it's just like the other one, then we{SAUT}just have to display our power to{SAUT}activate it, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "Does that mean we'll be fighting{SAUT}Theodore again...?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Bring it on.{OPTION}Gotta brace myself...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "Hmhm... Spoken like a truly hotblooded{SAUT}rapscallion.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_1",
+    "locuteur": "Elizabeth",
+    "en": "By all means... or so I would say,{SAUT}but the rules must be observed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "My, there's no need to be so anxious.{PAGE}After all, there are rules that must{SAUT}be observed. In the meantime, you{SAUT}may prepare mentally and physically.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Elizabeth",
+    "en": "All that aside, you have satisfied the{SAUT}request. The Shadow is slain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006_1",
+    "locuteur": "Elizabeth",
+    "en": "And so you are owed an appropriate{SAUT}reward. {f 6 1 13 0 0 0} gave us a fine{SAUT}performance indeed.{PAGE}Once you are fully prepared to display{SAUT}your power, come speak to me again,{SAUT}just like before.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "There's no telling who we'll be up{SAUT}against this time. Whoever it is,{SAUT}it won't be easy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_1",
+    "locuteur": "Morgana",
+    "en": "We'll take her challenge once we've{SAUT}gotten ourselves ready. It'll be{SAUT}a serious fight, that's for sure.",
+    "fr": ""
+  }
+]

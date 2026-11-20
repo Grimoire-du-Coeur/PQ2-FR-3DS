@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Ooh, you're back!{PAGE}Sorry for the rush, but come with me{SAUT}to the box office―the blue chick's{SAUT}calling for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Did something happen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Supposedly she's got something for us{SAUT}so incredible that it'll... \"make our{SAUT}cheeks fall to the floor.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Make our cheeks do WHAT!?{PAGE}How awful! I'll make sure to keep{SAUT}your cheeks in place, Futaba-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Wh-Whaaa!?{PAGE}His paws are... fluffy, but plump{SAUT}at the same time...{PAGE}Do I even detect a pleasant fabric{SAUT}softener scent!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "I keep spilling ice cream on me, so{SAUT}Yosuke always gives me a good wash.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kanji",
+    "en": "Yosuke-senpai's real considerate,{SAUT}isn't he...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "Say, Teddie: how do you get washed?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Teddie",
+    "en": "Heheheh... How do YOU think I get{SAUT}sparkling clean?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "You go in the washing machine.{OPTION}He hoses you down outside.{OPTION}I have no interest in this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "So, I guess he just gets tossed in there{SAUT}with some detergent and the rest{SAUT}is automatic?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "My fur is far too delicate for that kind{SAUT}of treatment! A coat like this can only{SAUT}be hand-washed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "And then scrubs him down with a brush?{SAUT}Sounds like a carwash... or maybe more{SAUT}like a Teddiewash.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "My fur is far too delicate for that kind{SAUT}of treatment! A coat like this can only{SAUT}be hand-washed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "Whoa... He's so standoffish that it's{SAUT}macho, in a way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Teddie",
+    "en": "How cold! Please take more interest{SAUT}in me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Chie",
+    "en": "It's a costume. He can take it off.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "What... He has...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Teddie",
+    "en": "That's right! I just go like this, aaaaand...{SAUT}Hup-hup, and a hup!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Teddie",
+    "en": "Ta-daaaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Haru",
+    "en": "*gasp* Huhhh!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ann",
+    "en": "There was somebody inside!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "Oh my, are you so surprised by the sudden{SAUT}appearance of such a pretty boy that{SAUT}you're at a loss for words? Heehee...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "Wow.{OPTION}And what's inside that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Teddie",
+    "en": "Whaaat!? That's it? Couldn't you, like,{SAUT}fall to your knees in surprise?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Makoto",
+    "en": "Um, I'm sorry... It wasn't worth that{SAUT}much of a reaction.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Teddie",
+    "en": "What's this? Do you want to get to know{SAUT}me even further?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ryuji",
+    "en": "Uh, not really...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Teddie",
+    "en": "So mean!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Chie",
+    "en": "Yeah, yeah, enough of this stupidity.{SAUT}Shouldn't Yosuke be more important{SAUT}to us right now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Kanji",
+    "en": "I wonder where he's gone...{PAGE}I hope he's okay―I mean, he'll be okay,{SAUT}right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. My partner isn't a guy that goes{SAUT}down so easily.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Naoto",
+    "en": "We'll just have to continue doing what{SAUT}we can at the moment for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yukiko",
+    "en": "Oh! That reminds me, isn't Elizabeth{SAUT}waiting for us? We should get going!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Teddie",
+    "en": "Heeeeeey! Don't leave me behiiiiind!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Morgana",
+    "en": "Sheesh... What a rowdy bunch.{SAUT}Okay, {f 6 1 30 0 0 0}, let's go.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "We have to find those police officers{SAUT}first. Let's go see what they have to say!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Why're you here?{OPTION}It's dangerous here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "I-I'm sorry... This one looked fun, so I{SAUT}thought I'd tag along.{PAGE}I won't bother you guys! Please let me{SAUT}go with you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "That shouldn't be a problem, right?{SAUT}She's usually with us anyway.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Oh, look! There's our first suspect!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "...But with how we're dressed, it might{SAUT}be hard for us to speak with them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "Please allow me to handle this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "Excuse me, may I ask you something?{PAGE}Is it true there's a fake police officer{SAUT}causing a disturbance around here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Fat Policeman",
+    "en": "Who're you? Where'd you hear that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Naoto",
+    "en": "Oh, it's just a rumor... But as a citizen I{SAUT}would appreciate some information.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Fat Policeman",
+    "en": "Hm, of course. It's important to share{SAUT}this kind of info with the public.{PAGE}The fake officer is riding in a car{SAUT}marked with double 1s.{PAGE}Please report to us if you find them.{SAUT}They're very dangerous, so be sure not{SAUT}to get too close.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "Thank you for the information. You{SAUT}be careful as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Whoa, that was fast. Nice work,{SAUT}Detective.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "We'll have to find the other police{SAUT}officers and gather more information.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "\"The fake officer is riding in a car{SAUT}marked with double 1s.\"{PAGE}...So this is our lead?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Naoto",
+    "en": "It's not all we've learned.{PAGE}The officer we interviewed drove a car{SAUT}marked with the numbers \"77-55.\"{PAGE}Let's keep this in mind as well. It{SAUT}should help provide us with an{SAUT}answer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "Don't worry! I'll be sure to{SAUT}remember it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "All right! Let's keep up the search!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "Kamo City certainly is big...{PAGE}We'd best mark the officers' locations{SAUT}on the map.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "Okay, Skull! Where're those cops at?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "Why you askin' me?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_021",
+    "choix": true,
+    "en": "Maybe at the station?{OPTION}Perhaps another crime scene?{OPTION}Let's look for their cars.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "I dunno where we're gonna find that.{SAUT}I did see some police cars, though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "That's right! There were police cars{SAUT}around here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "There you go! Good thinking, Joker!{PAGE}There were some police cars around{SAUT}here! Maybe we'll find some nearby.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Naoto",
+    "en": "Then, let's search the area. With any luck,{SAUT}we'll find them soon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "Oh, I know!{PAGE}If you wanna know where the police{SAUT}cars are, just ask me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Naoto",
+    "en": "That would be very helpful. But what{SAUT}exactly do you plan to do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Futaba",
+    "en": "If I can hack into the city's computer{SAUT}system, we'll know exactly where to{SAUT}find 'em.{PAGE}They used a terminal to control the{SAUT}searchlights, right? I'll hack in from{SAUT}there. Heheheh.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "You know, you scare me sometimes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Naoto",
+    "en": "Let's think of a strategy, then.{PAGE}If we want to speak to the police officers,{SAUT}we'll need to first locate the police cars.{PAGE}And if we want to know where the{SAUT}police cars are, we'll need to find a{SAUT}searchlight terminal.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_031",
+    "choix": true,
+    "en": "Got it.{OPTION}Let's get going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Naoto",
+    "en": "We can either look for the cars on our{SAUT}own or head to a searchlight terminal.{SAUT}We'll leave it up to you, Joker.{PAGE}Let's get started, shall we?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Futaba",
+    "en": "Roger that! This is gonna be fun!{SAUT}It's time to investigate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "en": "He said the fake officer's in the car{SAUT}with double 1s...",
+    "fr": ""
+  }
+]

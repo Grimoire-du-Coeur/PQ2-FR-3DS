@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Brown-haired girl",
+    "en": "Whew, I'm saved... Thanks!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_5",
+    "locuteur": "Brown-haired girl",
+    "en": "Um, could you be... Persona-users too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Yeah―looks like the same goes{SAUT}for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "To think there are additional Persona-{SAUT}users here... I sense a mysterious fate{SAUT}linking us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Brown-haired girl",
+    "en": "I was surprised too... You have such{SAUT}elaborate masks on that I thought{SAUT}you were more enemies at first!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Ahaha... Yeah, I guess these do look{SAUT}pretty weird from other people's{SAUT}perspectives...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "They're not weird.{OPTION}They're very stylish, actually.{OPTION}We're not your enemy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Brown-haired girl",
+    "en": "Oh... Um, I'm sorry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006_5",
+    "locuteur": "Brown-haired girl",
+    "en": "I didn't mean it like they're not cool―{SAUT}I think they have a lot of personality!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Brown-haired girl",
+    "en": "Yeah, I agree. I think they're full of{SAUT}personality.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Brown-haired girl",
+    "en": "Yeah, I know―after all, you rescued me{SAUT}once you saw I was in trouble!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Brown-haired girl",
+    "en": "Oh yeah! So, about something you said{SAUT}a moment ago―you know Theo!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "That's right―although, we've only met{SAUT}him quite recently, so we don't know{SAUT}him well, per se.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Brown-haired girl",
+    "en": "I see... I'm glad Theo's safe. We suddenly{SAUT}got separated, so I'd grown worried{SAUT}about him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "Likewise, he seemed worried about you.{SAUT}I hope you'll be reunited with him soon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Brown-haired girl",
+    "en": "Mmhm, thanks!{PAGE}Oh yeah, I haven't introduced myself yet.{SAUT}My name is...",
+    "fr": ""
+  }
+]

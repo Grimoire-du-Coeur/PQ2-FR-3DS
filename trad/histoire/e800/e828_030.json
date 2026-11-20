@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Aigis",
+    "en": "Target located. This must be the broken{SAUT}robot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ken",
+    "en": "Let's see, it's missing a component,{SAUT}right? I wonder which one...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "I will take a look. Please wait a moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Aigis",
+    "en": "It seems to be missing its motor driver.{SAUT}Repairs should be possible once we{SAUT}locate it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay, so that's all we need? Let's get to{SAUT}it, then!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "This sounds like a job for Koromaru.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san is indeed very{SAUT}motivated. He says his strong sense of{SAUT}smell will aid us in our search.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Now, wait just a minute! I've got a pretty{SAUT}good sense of smell myself, you know!{PAGE}Witness the power of my all-smelling{SAUT}nose! Let's see...*sniff sniff*{PAGE}...Ah, this scent! It's coming from{SAUT}Yosuke's pocket!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosuke",
+    "en": "Hey! That's my gum, you idiot!{PAGE}Look, just sit down and let Koromaru{SAUT}handle it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "Huwah!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Koromaru",
+    "en": "*sniff sniff*{PAGE}Bark! Bark, bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Aigis",
+    "en": "He wishes for us to follow him. It seems{SAUT}he's picked up the scent.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Way to go, Koromaru! We can always{SAUT}count on you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ken",
+    "en": "Let's go!",
+    "fr": ""
+  }
+]

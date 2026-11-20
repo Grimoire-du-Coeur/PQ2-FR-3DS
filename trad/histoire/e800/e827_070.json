@@ -1,0 +1,362 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Thank you for bringing the parts{SAUT}in. Here is your reward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Elizabeth",
+    "en": "As promised, you may also eat all{SAUT}the donuts you desire...{PAGE} and {f 6 1 13 0 0 0}, I hereby{SAUT}grant you the privilege of joining{SAUT}the eating competition!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Hero",
+    "en": "Doesn't look like we have the{SAUT}\"privilege\" of refusing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. I'm steeling my stomach...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Theodore",
+    "en": "Now, I will prepare the fryer.{SAUT}Please give me a moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Theodore",
+    "en": "Thank you for waiting.{PAGE}The fryer is fixed, and it is now ready{SAUT}to produce donuts aplenty.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Shinjiro",
+    "en": "How did I get stuck on the cooking{SAUT}crew...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Theodore",
+    "en": "My apologies, but I'm afraid it would{SAUT}have been a bit much for me alone...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Margaret",
+    "en": "Allow me to review the rules.{SAUT}Your objective is simple...{PAGE}Whoever can eat more donuts than{SAUT}his opponent within the time limit{SAUT}shall be declared the winner.{PAGE}Are you two ready?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P4 Hero",
+    "en": "I've come this far. There's no{SAUT}backing out now.{PAGE}...And if we're doing this, I want to{SAUT}face you at your best.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Hero",
+    "en": "...Hopefully I'll survive it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Elizabeth",
+    "en": "Now... let the Wildcard challenge{SAUT}begin!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Kanji",
+    "en": "I believe in you, Senpai!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Aigis",
+    "en": "-san, I know you can do it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Good luck, you two!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elizabeth",
+    "en": "One more plate of donuts here,{SAUT}please.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Margaret",
+    "en": "One over here, too. Be quick about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Haru",
+    "en": "The donuts are vanishing so swiftly...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Shinjiro",
+    "en": "There ya go! Hurry up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Kanji",
+    "en": "Senpai! It's hot and fresh! Lemme{SAUT}blow on it so it'll cool down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Aigis",
+    "en": "Then I shall use an air-conditioner{SAUT}fan...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P4 Hero",
+    "en": "...Hngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Hero",
+    "en": "...Gh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Makoto",
+    "en": "They're both eating so much, but{SAUT}it looks like it's getting tough.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "Maybe some water?{OPTION}Maybe change the flavor?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ryuji",
+    "en": "Yeah, eating nothin' but donuts{SAUT}would get your mouth all dry...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Akihiko",
+    "en": "No. If they drink water now, it'll{SAUT}all expand in their stomach.{PAGE}That's why they're fighting against{SAUT}the urge to take a drink.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Makoto",
+    "en": "True... They must be tired of eating{SAUT}the one flavor by now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Rise",
+    "en": "If they want to boost their hunger,{SAUT}maybe try something spicy! Senpai,{SAUT}I have some superhot sauce!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Fuuka",
+    "en": "Some sort of acid would help settle{SAUT}their stomach, right? How about{SAUT}some vinegar?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yosuke",
+    "en": "Are you trying to kill them!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Margaret",
+    "en": "No matter what happens, their time{SAUT}is running out...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Elizabeth",
+    "en": "3, 2, 1... Time's up!{PAGE}Let us start the tally. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Junpei",
+    "en": "Wh-Who won...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yosuke",
+    "en": "You can't tell just by looking at{SAUT}the plates...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Theodore",
+    "en": "Now, I shall declare the verdict...{PAGE}They appear to have eaten exactly{SAUT}the same amount of donuts. This{SAUT}battle concludes as a decisive draw.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Kanji",
+    "en": "L-Looks like they used up all their{SAUT}energy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Margaret",
+    "en": "An even match...? Well, I expected{SAUT}as much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Elizabeth",
+    "en": "Yes. I daresay I'm quite satisfied.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Ryuji",
+    "en": "If you knew it'd be a tie, then why'd{SAUT}you make 'em go at it?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_042",
+    "choix": true,
+    "en": "An experiment?{OPTION}They just got bored.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Margaret",
+    "en": "Indeed! We wished to test the true{SAUT}potential of the Wildcards.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Margaret",
+    "en": "There's no need for slander. We merely{SAUT}aimed to test the Wildcards' potential.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Elizabeth",
+    "en": "Yes. We now know the truth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Junpei",
+    "en": "That's all you wanted? Guys, I think{SAUT}you're allowed to complain now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "P4 Hero",
+    "en": "...Not bad, {f 6 1 16 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "P3 Hero",
+    "en": "Same goes for you, {f 6 1 13 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Junpei",
+    "en": "What the―Look at them now! They{SAUT}ended up with some weird donut{SAUT}connection!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "P3 Hero",
+    "en": "I kind of figured a big eating{SAUT}competition was going to be{SAUT}a drag... but it was fun.{PAGE}I think I got to know you a little{SAUT}better from this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "P4 Hero",
+    "en": "Same here. I'm looking forward to{SAUT}working together with you from now{SAUT}on.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Elizabeth",
+    "en": "And so they are content to share{SAUT}first place! Allow me to reward your{SAUT}efforts with this trophy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Yosuke",
+    "en": "When did you even make this...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Ann",
+    "en": "Well at least we got to see them{SAUT}compete. Now it's our turn, so{SAUT}bring on the donuts!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Shinjiro",
+    "en": "Uh, about that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Theodore",
+    "en": "We worked the machine rather hard.{SAUT}It appears the fryer is broken again.{PAGE}And this time, I fear a simple parts{SAUT}replacement will not be enough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Yusuke",
+    "en": "What...? My donuts...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Shinjiro",
+    "en": "...Relax. I'll make a couple batches{SAUT}of donuts when we get home.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Teddie",
+    "en": "Then let's have a donut party when{SAUT}we get back, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "P3 Hero",
+    "en": "I think I'll pass on donuts for a while...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "P4 Hero",
+    "en": "What a coincidence. Me too...",
+    "fr": ""
+  }
+]

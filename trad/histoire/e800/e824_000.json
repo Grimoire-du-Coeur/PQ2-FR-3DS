@@ -1,0 +1,115 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukiko",
+    "en": "Oh, it looks like a dead end. All I see{SAUT}here are those cheery flowers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Cheery? More like creepy... It's definitely{SAUT}animated, though.{PAGE}It evokes a different kind of disgust{SAUT}than the other movie...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Other movie?{OPTION}You mean A.I.G.I.S.?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "I think she means A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Yes, that's the one. I can't believe that{SAUT}research facility sought to erase{SAUT}everyone's individuality.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "Yes, that's the one. I can't believe that{SAUT}research facility sought to erase{SAUT}everyone's individuality.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukari",
+    "en": "Yeah, I think I know what you mean...{PAGE}It is kinda off-putting knowing there's{SAUT}nothing but robots living there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukiko",
+    "en": "There could be more than just robots.{SAUT}Maybe there's, you know... Those things{SAUT}that start with a G...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "L-Let's not talk about those!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "Huh? Not a fan of scary stories,{SAUT}Queen?{PAGE}Well, then, Junpei Iori's got just the{SAUT}story for you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "Ooh, I wanna hear this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Junpei",
+    "en": "Oh? Interested?{PAGE}Ahem... Good evening, ladies and{SAUT}gentlemen, and welcome to \"Junpei's{SAUT}Believe It, or Don't\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukari",
+    "en": "Any more of that, and I'm going to slap{SAUT}you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "Y-Yo, don't gimme that evil stare,{SAUT}Yuka-tan! It's even scarier than the{SAUT}G-word!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Makoto",
+    "en": "All right, this conversation is over! We{SAUT}need to keep moving!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Junpei",
+    "en": "Aww. Well, we can pick this up the next{SAUT}time we're in A.I.G.I.S., or―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yukari",
+    "en": "Why don't you just tell it to yourself?{SAUT}Let's go, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Junpei",
+    "en": "Wait! Don't just leave me here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "en": "A new special screening:{SAUT}\"Investigate A.I.G.I.S.!\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

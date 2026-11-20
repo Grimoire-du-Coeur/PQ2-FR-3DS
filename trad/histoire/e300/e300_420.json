@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "...Aigis? What is it? Is there something{SAUT}on my face?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "What's the deal, Ai-chan?{PAGE}You're gazing at {f 6 1 27 0 0 0} so{SAUT}intensely that it's starting to make me{SAUT}feel a little jealous!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "Everyone else mentioned it earlier, but{SAUT}I too am curious about the topic.{PAGE}I met {f 6 1 27 0 0 0}-san only a short{SAUT}time ago...{PAGE}However, I sense something that draws{SAUT}me towards her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukiko",
+    "en": "Could that be the same sensation that{SAUT}we were talking about?{PAGE}Or, don't tell me―can you see{SAUT}something only visible to your{SAUT}robotic eyes?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "S-Stop it! Do you mean she can...{SAUT}see spirits?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Aigis",
+    "en": "I have no capabilities for detecting{SAUT}supernatural phenomena. Are you{SAUT}referring to some other function?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Ooh, I'm curious too. What other special{SAUT}functions are loaded on you?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "She can perform EKG scans.{OPTION}She can generate X-rays.{OPTION}She can see people's auras.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukiko",
+    "en": "Ooh, yes―that! I bet she can shoot{SAUT}X-rays from her eyes and analyze{SAUT}our organs with electricity!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Naoto",
+    "en": "U-Um... Is that really true?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Aigis",
+    "en": "Unfortunately, no.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "That's what I had figured...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "You can see WHAT!? What's my aura{SAUT}look like?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "I bet it's medium-rare, Chie...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "I prefer my meat to be cooked rare,{SAUT}so I'd be happier if my aura was more{SAUT}red than pink, thank you very much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosuke",
+    "en": "I was being sarcastic! I mean, I highly{SAUT}doubt she's got any psychic functions.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Aigis",
+    "en": "I am uncertain if it could properly{SAUT}be called a function, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "Wait―you do!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Mitsuru",
+    "en": "She must mean that she's able to sense{SAUT}matters that are more spiritual, rather{SAUT}than seeing them with her eyes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukari",
+    "en": "So, something like... her heart?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Aigis",
+    "en": "Yes... I feel that is an appropriate analog.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Aigis",
+    "en": "...{f 6 1 27 0 0 0}-san is also most{SAUT}important to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Aigis",
+    "en": "Along with {f 6 1 16 0 0 0}-san, I will{SAUT}protect {f 6 1 27 0 0 0}-san as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P3 Fem Protag",
+    "en": "...Thank you. Hearing that from you{SAUT}makes me feel reassured.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Junpei",
+    "en": "Well, now that we're all simpatico again,{SAUT}let's continue knockin' it out of the park!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  }
+]

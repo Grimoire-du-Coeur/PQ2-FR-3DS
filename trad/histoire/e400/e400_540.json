@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Do you mind if I interject for a moment?{SAUT}There's something I've been wondering.{PAGE}The reason we were all trapped in{SAUT}a movie theater in the first place―that{SAUT}was tied to Hikari as well, correct?{PAGE}Well, why would such a thing happen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Hmm, that's the part we just don't know{SAUT}yet...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Anyways, we got the last key―let's head{SAUT}back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "Yeah, Nagi-san is waiting for us...{SAUT}There's a lot I need to tell her, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Well then, let's return to the theater.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Wait, where are we running!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Oracle!{OPTION}Let's poke around and find out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Just a sec! Let's see, escape route,{SAUT}escape route...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "We don't have time for that! We have{SAUT}to get away from here before{SAUT}reinforcements arrive...{PAGE}Oracle! Is there anywhere safe for us{SAUT}to go!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_05",
+    "locuteur": "Futaba",
+    "en": "Just a sec! I'm searching right now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Joker, go that way! It should be all clear{SAUT}in that direction!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "All right! Let's go, guys!",
+    "fr": ""
+  }
+]

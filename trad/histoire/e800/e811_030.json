@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "There! Seidoptera dead ahead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "It's so fearsome...{PAGE}That beak looks like it could tear{SAUT}Yosuke clean in two...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "You mind not sayin' stuff like that!?{SAUT}I can't get the image outta my head{SAUT}now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Look, there's a Treasure Spot over{SAUT}there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "That seems like the best place to hide{SAUT}one's treasure... It's probably worth{SAUT}investigating.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "It looks like the Seidoptera follows a{SAUT}fixed path.{PAGE}Take it slow and watch for an opening.{SAUT}Remember, you can always back off if{SAUT}things don't look good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Chie",
+    "en": "Aw man, I'm getting nervous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Don't worry, Joker's with you! We're{SAUT}counting on you to get that treasure!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "I hope the power controls for the lights{SAUT}are somewhere in this sewer...{PAGE}*chuckle* I want to study every detail{SAUT}here... An opportunity like this may{SAUT}not come again in my lifetime. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Urp―there's no way I wanna be{SAUT}down here for that long...{PAGE}This place reeks―it's so bitter and sour{SAUT}that it's nearly overwhelming... *gag*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "I bet you've got a strong sense of smell{SAUT}too, Mona... It's pretty awful even for me{SAUT}right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "This is my first time ever in a manhole...{SAUT}No wonder you're all phantom thieves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Well, at least she's having fun...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Usually in movies, when the characters{SAUT}go into a manhole, water ends up{SAUT}rushing at them...{PAGE}If that happens, will we have to swim, or{SAUT}do you have some other phantom{SAUT}thief-y trick to deal with it?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "That would be impossible.{OPTION}Skull's pulled it off before.{OPTION}If worse comes to worst...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "There's no way anyone could do that!{SAUT}What do you think a phantom thief{SAUT}really is!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha... I had a feeling that was the case.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Really!? That's amazing, Skull! And your{SAUT}mask looks so heavy, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "You moron, don't feed her that crap!{SAUT}Even I would never swim in the sewers!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "Really!? I was just joking, too... I can't{SAUT}believe phantom thieves can even do{SAUT}that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Stop right there―that's not happening!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "Well, it seems to grow much darker up{SAUT}ahead. We should proceed with caution.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "It's darker than I thought―and it still{SAUT}smells awful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "Wait a sec―did you hear something{SAUT}just now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "Nyaaaaaaaaaagh!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Aah! Wh-What is it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "G-G-Giant rat―just ran past me―super{SAUT}huge!!!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Sheesh, just a rat? Talk about the cat{SAUT}cryin' wolf...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha, are you scared of rats, Mona?{SAUT}That's kinda cute, considering your{SAUT}appearance and all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Morgana",
+    "en": "... I'm going to use{SAUT}this opportunity to say that I{SAUT}only APPEAR to be a cat. GOT IT?{PAGE}I'm supposed to be human!{SAUT}...I think.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh? Mona's supposed to be human...{SAUT}What does that mean?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "It's just like the man says.{OPTION}It's just like the kitty says.{OPTION}He's just a grumpy monster cat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "Hey! Don't go calling me a cat after{SAUT}all that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hmm? Does that mean he's a human{SAUT}taking the form of a cat―or, the other{SAUT}way around?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "Uh, let's just stop now. Talkin' about{SAUT}Mona's way too much trouble.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Morgana",
+    "en": "What!? What do you mean, \"too much{SAUT}trouble\"? My looks have something to{SAUT}do with my origin and―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ryuji",
+    "en": "Hey, it's not like we can figure it{SAUT}all out just by talkin' about it, right?{SAUT}It'd only bum you out in the end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "O-Oh... that's true.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ann",
+    "en": "Hey, it smells here, so can we hurry{SAUT}up? I feel like the stench is gonna{SAUT}cling to my outfit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Akechi",
+    "en": "She's right―let's keep looking for clues{SAUT}to the statue's lighting.",
+    "fr": ""
+  }
+]

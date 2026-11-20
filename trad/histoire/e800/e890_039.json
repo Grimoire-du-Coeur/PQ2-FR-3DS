@@ -1,0 +1,17 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "There's a paper on the ground with{SAUT}something written on it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "A calling card...!?{PAGE}\"Sir {f 6 1 31 0 0 0} and team,{SAUT}fiends that have robbed us of our{SAUT}modest happiness.\"{PAGE}\"You were corrupted by avarice, and{SAUT}betrayed our trust. We were kind to{SAUT}you, yet you repaid our efforts in sin.\"{PAGE}\"You shall face your due justice{SAUT}in the Velvet Room.\"{PAGE}\"For more details, come to the box{SAUT}office. From the avengers in blue,{SAUT}defenders of movies and hot dogs.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "en": "......?{PAGE}I guess I should talk to Elizabeth{SAUT}about this at the box office...",
+    "fr": ""
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Now then, for the special screening my{SAUT}worthless brother requested...{PAGE}You are to find the \"Futuristic Gizmo\"{SAUT}in Junessic Land.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "I'm rather curious about this{SAUT}\"Futuristic Gizmo.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "I'm excited to see it as well.{PAGE}I bet it uses technology we could only{SAUT}dream of in our day and age.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Yes, I, too, would like to take a look.{SAUT}My heart is ready.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "You too?{OPTION}You like machines?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "Well, I know very little about machines,{SAUT}but, yes, I'm quite interested.{PAGE}If this mechanism is as technologically{SAUT}impressive as it sounds, then there's{SAUT}surely some beauty in it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "Of course. It's only natural for a{SAUT}perfectly-made machine to have some{SAUT}elegance in its design.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "Precisely, Shirogane-san!{PAGE}Not only that, but this futuristic{SAUT}technology likely contains ideas the{SAUT}likes of which we've never seen...{PAGE}And THAT will undoubtedly stimulate{SAUT}my creativity!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Whoa. Who'da thought he'd be{SAUT}interested?{PAGE}So where do we find this thing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elizabeth",
+    "en": "The mechanism in question is in a{SAUT}container.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "There were a lot of containers. I wonder{SAUT}which one.{PAGE}Also, I should say, it didn't look as{SAUT}though any of those containers would{SAUT}open very easily.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Fuuka",
+    "en": "Hmm, that is a problem.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "Oh right. Does anyone else remember?{PAGE}We saw that broken container when we{SAUT}were looking for Yosuke-senpai.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "Ah, the one that was already open!{SAUT}We'll be able to look inside!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "Oh, I just remembered.{PAGE}We came across a broken container{SAUT}while we were searching for{SAUT}Yosuke-senpai.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akechi",
+    "en": "Now that you mention it, I do{SAUT}remember seeing one.{PAGE}It was just big enough for someone to fit{SAUT}inside.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Let's check it out.{OPTION}Time to investigate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Naoto",
+    "en": "Right. Then, let's head out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Fuuka",
+    "en": "Oh dear, I'm getting anxious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yusuke",
+    "en": "Let us depart, {f 6 1 30 0 0 0}. The{SAUT}\"Futuristic Gizmo\" awaits!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "BTL_MES_028_000",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_001",
+    "en": "Let's do it. I'm certain we can win this.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_003",
+    "en": "I'm confident in my own abilities, but{SAUT}given our party, we should avoid FOEs.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_005",
+    "en": "With all the skills we've acquired,{SAUT}perhaps we can beat it now!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_006",
+    "en": "This Shadow's rare. Capturing it is very{SAUT}much to our advantage.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_011",
+    "en": "Looks like a tough one, so what's your{SAUT}plan?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_013",
+    "en": "A Shadow we haven't seen before. Time{SAUT}to unearth its weakness.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_015",
+    "en": "Given how powerful we are, this should{SAUT}go smoothly.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_017",
+    "en": "Perhaps I should hold back?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_019",
+    "en": "Looks like something's changed.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_022",
+    "en": "This is tough, even for me...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_053",
+    "en": "Hm, we're doing rather well. Let's keep{SAUT}going.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_055",
+    "en": "A Shadow with that weakness... Just let{SAUT}me take care of it.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_056",
+    "en": "Shall we try passing the baton?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_057",
+    "en": "Looks like we make it easy on ourselves{SAUT}by aiming for its weakness.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_028_086",
+    "en": "*chuckle* I feel quite the master right{SAUT}now.",
+    "fr": ""
+  }
+]

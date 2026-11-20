@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Hey, did that statue just wobble?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Yes, I saw it too. That's odd, though...{SAUT}How could such a gentle breeze move{SAUT}a statue of that size?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kamoshidaman",
+    "en": "What are you muttering about? I hope{SAUT}you're prepared for your penance,{SAUT}criminals!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Here he comes, Joker!",
+    "fr": ""
+  }
+]

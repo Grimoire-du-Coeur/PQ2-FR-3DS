@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Languid man's voice",
+    "en": "What's happening?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Despondent woman's voice",
+    "en": "The movie changed...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Tired schoolgirl's voice",
+    "en": "Wow...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Enlil",
+    "en": "Is this... Hikari-san's movie? But, how?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "Sorry―we swapped out all the film{SAUT}in your projectors.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Enlil",
+    "en": "When did you manage to...?{SAUT}I admit I'm surprised.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "It's about time you threw in the towel,{SAUT}lady!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "We're letting everybody out of the{SAUT}theaters! Your scheme is done for!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Enlil",
+    "en": "*chuckle* Don't talk such nonsense.{SAUT}Just take a look for yourselves...{PAGE}Even with your meddling, not a single{SAUT}soul is coming forth to join you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Upset woman's voice",
+    "en": "B-But... I'm still...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morose schoolboy's voice",
+    "en": "I'm still scared to leave...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Listless man's voice",
+    "en": "I just don't wanna be hurt anymore...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "Oh, no...",
+    "fr": ""
+  }
+]

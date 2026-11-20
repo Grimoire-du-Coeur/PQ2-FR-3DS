@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Everyone, Enlil's up ahead! This reading{SAUT}I'm getting from her―it's like she's the{SAUT}center of a raging storm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Hero",
+    "en": "Well... We made it. Ready, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Hero",
+    "en": "Enlil's waiting up ahead. Ready?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Let's go.{OPTION}Not yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P4 Hero",
+    "en": "Okay. Everyone, brace yourselves...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "That's right! We've got to stop Enlil!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "No problem. We'd better prepare for{SAUT}this as much as we can.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah! We can't lose here―no matter{SAUT}what!",
+    "fr": ""
+  }
+]

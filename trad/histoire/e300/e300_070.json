@@ -1,0 +1,308 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukiko",
+    "en": "Whew! Finally took care of that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "I was so focused on rescuing everyone{SAUT}that I really went overboard on those{SAUT}Shadows back there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "*giggle* I think I may have gone a bit{SAUT}crazy as well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "A-Anyway, thanks for that... I'm glad you{SAUT}were reunited with your companions{SAUT}a lot sooner than we expected!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm! And it's all thanks to you guys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Well-dressed girl",
+    "en": "I must thank you for helping us back{SAUT}there. We were ambushed in this strange{SAUT}world we've found ourselves in...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "I feel so much better knowing you're{SAUT}all safe. I was worried sick about{SAUT}finding you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Boy with baseball cap",
+    "en": "Uhh, so... Are you a student at{SAUT}Gekkoukan High?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh? What are you talking about,{SAUT}Junpei?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Boy with baseball cap",
+    "en": "Whaaat!? How'd you know my name!?{PAGE}I mean, I suspected that I had quite a few{SAUT}secret fans at school, but to think I'd{SAUT}meet one here in this weird place...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Spirited girl",
+    "en": "Um, she's not a fan of yours, Junpei.{SAUT}I only need common sense to know{SAUT}that much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Boy with beanie",
+    "en": "She can wield a Persona―maybe she's{SAUT}a new addition to the squad that{SAUT}the Chairman set up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Well-dressed girl",
+    "en": "No, I've been told nothing about such{SAUT}personnel changes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Uh, what is...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akechi",
+    "en": "Something feels off here. There seems{SAUT}to be an inconsistency in their{SAUT}recognition of one another...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Quiet girl",
+    "en": "Um... She's got a SEES armband.{SAUT}Her Evoker seems authentic, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Aggressive boy",
+    "en": "What the hell's going on? She doesn't{SAUT}seem like an enemy, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "What are you guys whispering about?{PAGE}More importantly―where's Aigis? Is she{SAUT}not with you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Spirited girl",
+    "en": "You know about Aigis!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Fem Protag",
+    "en": "Well, of course I know her. She's our{SAUT}companion...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Well-dressed girl",
+    "en": "......{PAGE}I don't mean to sound rude, what with{SAUT}your rescuing us and all... but, who{SAUT}exactly are you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Wait a minute, wait a minute! What is{SAUT}happening here?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "Nobody recognizes her?{OPTION}It could be the casting effect...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Fem Protag",
+    "en": "No way... But, I recognize every{SAUT}one of them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Somber child",
+    "en": "Um, I'm sorry...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Dog",
+    "en": "*whine*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Somber child",
+    "en": "Casting...? I'm sorry, but I don't really{SAUT}understand what you mean...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Dog",
+    "en": "*whine*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yosuke",
+    "en": "Well, we thought she was getting{SAUT}reunited with her companions,{SAUT}but now... What IS happening?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Naoto",
+    "en": "I'm fairly certain we won't get anywhere{SAUT}discussing all of this here.{PAGE}Why don't we talk things over in{SAUT}the movie theater we've been{SAUT}using as our base of operations?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yusuke",
+    "en": "I concur.{PAGE}They seem rather exhausted... and I'm{SAUT}starting to get rather hungry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Spirited girl",
+    "en": "Whoa, wait a sec―we didn't say anything{SAUT}about going with you people anywhere.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_033",
+    "choix": true,
+    "en": "Don't you trust us?{OPTION}We're not suspicious.{OPTION}You'd better come with us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Naoto",
+    "en": "They're in unfamiliar territory, and{SAUT}we're strangers to them... I guess there's{SAUT}nothing we can do about it, but―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yosuke",
+    "en": "You're just gonna flat-out say you're{SAUT}not suspicious... while dressed like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Morgana",
+    "en": "Moron, don't say it like that! Now we{SAUT}sound even more suspicious! Act like{SAUT}a gentleman―got it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Well-dressed girl",
+    "en": "...Very well, we'll accompany you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Spirited girl",
+    "en": "Senpai!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Well-dressed girl",
+    "en": "Not only are they Persona-users, but{SAUT}they risked their lives to save us.{PAGE}That alone is enough to trust them for{SAUT}now. More importantly, we have no one{SAUT}else to rely on here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Aggressive boy",
+    "en": "She's got a point... There are a lot of{SAUT}unknowns right now, so we need to{SAUT}find out what we can.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "P3 Fem Protag",
+    "en": "Um... So, what's happened to Aigis?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Quiet girl",
+    "en": "Aigis and our leader got separated{SAUT}from us somewhere along the way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "P3 Fem Protag",
+    "en": "Wait―you've got a leader!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Spirited girl",
+    "en": "Well, yeah. I mean, not right this second,{SAUT}but―is that what you mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "P3 Fem Protag",
+    "en": "Uh, no, I meant like... How can I explain?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "P4 Hero",
+    "en": "Looks like things are even more{SAUT}complicated than we first thought.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Akechi",
+    "en": "All the more reason to return to the{SAUT}movie theater and settle our nerves{SAUT}before talking things over.{PAGE}We can explain what we know about{SAUT}this world on our way to the exit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Well-dressed girl",
+    "en": "I'm sorry for the inconvenience, but{SAUT}we're more than happy to hear you out.{SAUT}We're wholly confused about this...{PAGE}But―What a hassle this is... There's{SAUT}a matter more important than intel{SAUT}that we must also address.{PAGE}We don't have any time to spare...{SAUT}I apologize for being so forward, but{SAUT}please, make the details quick for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Ann",
+    "en": "C'mon, why don't we head back and{SAUT}see what they have to say first? There{SAUT}could be some kinda reason for all this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "P3 Fem Protag",
+    "en": "You're right... Sorry. Yeah, I should{SAUT}make sure to talk to them some more{SAUT}when we're back at the theater.",
+    "fr": ""
+  }
+]

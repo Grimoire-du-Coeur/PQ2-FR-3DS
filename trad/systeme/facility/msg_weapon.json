@@ -1,0 +1,518 @@
+[
+  {
+    "id": "Y_FCLSHOP_YESNO",
+    "choix": true,
+    "en": "Normal: Yes{OPTION}Normal: No",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_YESNO_BUY_NUM",
+    "choix": true,
+    "en": "Buy{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_YESNO_BUY",
+    "choix": true,
+    "en": "Buy{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_YESNO_BUY_EQUI",
+    "choix": true,
+    "en": "Equip{OPTION}Not now",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_YESNO_BUY_TRAD",
+    "choix": true,
+    "en": "Buy out{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_YESNO_SELL_ALL",
+    "choix": true,
+    "en": "Sell{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_YESNO_SELL",
+    "choix": true,
+    "en": "Sell{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_YESNO_COSTODY_",
+    "choix": true,
+    "en": "Store{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_YESNO_COSTODY_#2",
+    "choix": true,
+    "en": "Store{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_YESNO_COSTODY_#3",
+    "choix": true,
+    "en": "Withdraw{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_YESNO_COSTODY_#4",
+    "choix": true,
+    "en": "Withdraw{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_YESNO_COSTODY_#5",
+    "choix": true,
+    "en": "Withdraw{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_BUY_MSG",
+    "locuteur": "Theodore",
+    "en": "{f 2 5 3 65535 0} is {f 0 1 2}{f 2 4 1} yen{f 0 1 0}.{SAUT}Will that be all right?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_USE_BUY_MSG",
+    "locuteur": "Theodore",
+    "en": "{f 2 4 0} of those will be {f 0 1 2}{f 2 4 1} yen{f 0 1 0}.{SAUT}Will that do?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_SELL_MSG",
+    "locuteur": "Theodore",
+    "en": "You'd like to sell{SAUT}{f 2 5 3 65535 0} x{f 2 4 1}?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_SELL_MULUTI_MS",
+    "locuteur": "Theodore",
+    "en": "Selling {f 2 4 0} of those will total to{SAUT}{f 0 1 2}{f 2 4 1} yen{f 0 1 0}. Will that do?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_FAV_NG",
+    "en": "You cannot sell an item registered{SAUT}as a favorite.",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_DLC_NG",
+    "en": "DLC items cannot be sold.",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_LIST",
+    "locuteur": "Theodore",
+    "en": "{f 2 5 3 65535 0} was added to the{SAUT}merchandise!",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_EQUIP",
+    "locuteur": "Theodore",
+    "en": "Would you like to equip the{SAUT}{f 2 5 3 65535 0} right away?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_TRADE",
+    "locuteur": "Theodore",
+    "en": "Would you like to sell the{SAUT}{f 2 5 3 65535 0} you had equipped for{SAUT}{f 0 1 2}{f 2 4 1} yen{f 0 1 0}?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ALLSELL",
+    "locuteur": "Theodore",
+    "en": "Selling all the materials you have{SAUT}will total {f 0 1 2}{f 2 4 0} yen{f 0 1 0}.{SAUT}Will that do?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_HELP",
+    "locuteur": "　",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_ADDNEW",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_MARGARET",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_THEODORE",
+    "locuteur": "Theodore",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_RAIN",
+    "locuteur": "Theodore",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_MES",
+    "locuteur": "Theodore",
+    "en": "Y_FCLSHOP_ADD_MES{SAUT}★未使用！",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_MES_RARE",
+    "locuteur": "Theodore",
+    "en": "Y_FCLSHOP_ADD_MES_RARE{SAUT}★未使用！",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_MES2",
+    "locuteur": "　",
+    "en": "Y_FCLSHOP_ADD_MES2{SAUT}★未使用！",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_MES3",
+    "locuteur": "Theodore",
+    "en": "Y_FCLSHOP_ADD_MES3{SAUT}★未使用！",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_MES4",
+    "locuteur": "Theodore",
+    "en": "Y_FCLSHOP_ADD_MES4 {SAUT}★未使用！",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_MES_MARGAR",
+    "locuteur": "Margaret",
+    "en": "Y_FCLSHOP_ADD_MES_MARGARET {SAUT}★未使用！",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_SELL_MES_NORMA",
+    "locuteur": "Theodore",
+    "en": "My, what an interesting material!{SAUT}Already, I can envision the finished{SAUT}work in my head!{PAGE}Now, I'll be just a moment...",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_SELL_MES_NORMA#2",
+    "locuteur": "Theodore",
+    "en": "My my... I cannot wait to see what{SAUT}will be born from this material.{PAGE}Perhaps it's my imagination, but I{SAUT}daresay even the popcorn machine{SAUT}is trembling with anticipation!",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_SELL_MES_RARE1",
+    "locuteur": "Theodore",
+    "en": "An intriguing material indeed.{SAUT}I wonder, what will result...?{PAGE}Regardless, I shall try processing it.{SAUT}Please wait a moment.",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_SELL_MES_RARE2",
+    "locuteur": "Theodore",
+    "en": "My... What a splendid shine...{PAGE}It seems to be a high-quality{SAUT}material... A rarity indeed! I cannot{SAUT}wait to craft something with it!",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_SELL_MES_HIGH_",
+    "locuteur": "Theodore",
+    "en": "Ah, how amazing!{PAGE}I, the humble Theodore, shall do my{SAUT}utmost to fashion something worthy{SAUT}from this!",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_MES_NORMAL",
+    "locuteur": "Theodore",
+    "en": "Thank you for waiting. Please,{SAUT}make good use of this.",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_MES_NORMAL#2",
+    "locuteur": "Theodore",
+    "en": "What do you think? I believe it has{SAUT}been reborn into a splendid new{SAUT}form!",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_MES_RARE1",
+    "locuteur": "Theodore",
+    "en": "Phew... How's this?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_MES_RARE2",
+    "locuteur": "Theodore",
+    "en": "Phew... Thank you for waiting.{PAGE}I believe I have created something{SAUT}truly worthy of such fine material...!",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_MES_HIGH_R",
+    "locuteur": "Theodore",
+    "en": "What do you think of my handiwork?{SAUT}I believe it has been reborn into a{SAUT}splendid new shape!{PAGE}Many things are, in their own ways,{SAUT}diamonds in the rough. With a{SAUT}keen eye, you can―{PAGE}W-Wait! I wasn't finished!",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_NO_MAKE",
+    "locuteur": "Theodore",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_NO_MATERIAL",
+    "locuteur": "Theodore",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_KEEP_MATERIAL",
+    "locuteur": "Theodore",
+    "en": "Just a few more materials, and I{SAUT}believe I can create something{SAUT}like this.",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_DEP_CONF",
+    "locuteur": "Theodore",
+    "en": "Would you like me to store {f 2 4 0}{SAUT}of your belongings?",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_DEP_CONF_OK",
+    "locuteur": "Theodore",
+    "en": "Very well, I will store {f 2 4 0}{SAUT}of your belongings.",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_PUL_CONF",
+    "locuteur": "Theodore",
+    "en": "Would you like to take {f 2 4 0} of your{SAUT}stored belongings?",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_PUL_CONF_OK",
+    "locuteur": "Theodore",
+    "en": "Here are {f 2 4 0} of your belongings.{SAUT}Please, take them.",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_COMMON_NG_1",
+    "locuteur": "Theodore",
+    "en": "...Ah, I do apologize... It seems you{SAUT}have a great many of these already.{SAUT}I cannot store any more of them.",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_COMMON_NG_2",
+    "locuteur": "Theodore",
+    "en": "I believe we are out of space.{SAUT}I do apologize, but I cannot store{SAUT}any more of your items than this.",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_COMMON_NG_3",
+    "locuteur": "Theodore",
+    "en": "It seems your inventory is full.{SAUT}I do apologize, but I cannot return{SAUT}a portion of your items.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_MULUTI_ADD_ITEM_LA",
+    "en": "{f 0 7 0 65535}{f 2 5 3 65535 0}{f 0 7 140 65535}{f 2 5 3 65535 1}　{SAUT}{f 0 7 0 65535}{f 2 5 3 65535 2}{f 0 7 140 65535}{f 2 5 3 65535 3}　{SAUT}{f 0 7 0 65535}{f 2 5 3 65535 4}{f 0 7 140 65535}{f 2 5 3 65535 5}　{SAUT}{f 0 7 0 65535}{f 2 5 3 65535 6}{f 0 7 140 65535}{f 2 5 3 65535 7}　{SAUT}{f 0 7 0 65535}Available now for purchase.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_KANTEI",
+    "locuteur": "Theodore",
+    "en": "In your exploration efforts, I believe{SAUT}you will acquire some once-mighty{SAUT}items that have lost their power.{PAGE}If you bring them to me, I can{SAUT}appraise these items and reawaken{SAUT}their original properties.{PAGE}Such an appraisal will require a fee,{SAUT}I'm afraid, but you may find it's{SAUT}very much worth the price.{PAGE}Please use this service as much as{SAUT}you want, and together we shall{SAUT}reveal the true worth of your finds.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_ITEM_MAX_T",
+    "locuteur": "Theodore",
+    "en": "The maximum number of items{SAUT}you can carry is 60.{PAGE}{f 4 4 3 0 1348} and {f 4 4 3 0 1333} are{SAUT}extremely useful items...{PAGE}But if you take in too many, you may{SAUT}end up having to discard what you{SAUT}acquire in the labyrinth.{PAGE}I believe it'd be best to only carry{SAUT}10 to 20 items into the labyrinths.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_ITEM_MAX_M",
+    "locuteur": "Nagi",
+    "en": "It seems the maximum number of{SAUT}items you can carry is 60.{PAGE}It's true that {f 4 4 3 0 1348} and{SAUT}{f 4 4 3 0 1333} are extremely{SAUT}useful...{PAGE}But if you carry too many, you may{SAUT}find you have no room to pick up{SAUT}treasures you find along the way.{PAGE}Perhaps it'd be best to bring about{SAUT}10 to 20 items when departing on{SAUT}your journey?",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_CLOAKROOM_T",
+    "locuteur": "Theodore",
+    "en": "Have you been carrying any items{SAUT}or valuable equipment that you find{SAUT}you're not using?{PAGE}I have prepared 99 spaces where{SAUT}you can store your belongings at{SAUT}this shop.{PAGE}For each space, you can store up{SAUT}to 99 of any one item.{PAGE}Why not leave any belongings you{SAUT}don't immediately need here?{PAGE}There is no fee for this service,{SAUT}so use it all you like.{PAGE}However, there is one point of{SAUT}caution I should note...{PAGE}Multiple accessories cannot be{SAUT}stored in the same space.{PAGE}Please, keep that in mind.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_CLOAKROOM_M",
+    "locuteur": "Nagi",
+    "en": "Are you carrying any items or{SAUT}valuable equipment that you don't{SAUT}expect to use for a while?{PAGE}I have prepared 99 spaces where{SAUT}you can store your belongings{SAUT}with me.{PAGE}For each space, you will be able to{SAUT}store up to 99 of a given item.{PAGE}If you have any vital belongings{SAUT}not immediately relevant to your{SAUT}travels, why not leave them here?{PAGE}This service is free of charge, so{SAUT}please use it at your leisure.{PAGE}However, there is one matter I'd{SAUT}like you to be cautious about.{PAGE}Multiple accessories cannot be{SAUT}stored in the same space.{PAGE}Please keep that in mind.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_MATERIAL_HELP_NONE",
+    "en": "No information.",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_BUY_MSG_Ex",
+    "locuteur": "Nagi",
+    "en": "{f 2 5 3 65535 0} is {f 0 1 2}{f 2 4 1} yen{f 0 1 0}.{SAUT}Will that be all right?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_USE_BUY_MSG_Ex",
+    "locuteur": "Nagi",
+    "en": "{f 2 4 0} of those will be {f 0 1 2}{f 2 4 1} yen{f 0 1 0}.{SAUT}Will that be all right?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_SELL_MSG_Ex",
+    "locuteur": "Nagi",
+    "en": "You'd like to sell{SAUT}{f 2 5 3 65535 0} x{f 2 4 1}?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_SELL_MULUTI_MS#2",
+    "locuteur": "Nagi",
+    "en": "Selling {f 2 4 0} of those will total to{SAUT}{f 0 1 2}{f 2 4 1} yen{f 0 1 0}. Will that do?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ADD_LIST_Ex",
+    "locuteur": "Nagi",
+    "en": "{f 2 5 3 65535 0} was added to the{SAUT}merchandise!",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_EQUIP_Ex",
+    "locuteur": "Nagi",
+    "en": "Would you like to equip the{SAUT}{f 2 5 3 65535 0} at once?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_TRADE_Ex",
+    "locuteur": "Nagi",
+    "en": "Would you like to sell the{SAUT}{f 2 5 3 65535 0} you had equipped for{SAUT}{f 0 1 2}{f 2 4 1} yen{f 0 1 0}?",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_ALLSELL_Ex",
+    "locuteur": "Nagi",
+    "en": "Selling all the materials you have{SAUT}will total {f 0 1 2}{f 2 4 0} yen{f 0 1 0}.{SAUT}Will that do?",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_DEP_CONF_Ex",
+    "locuteur": "Nagi",
+    "en": "Would you like to store {f 2 4 0} of your{SAUT}belongings?",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_DEP_CONF_OK_Ex",
+    "locuteur": "Nagi",
+    "en": "Very well, I will store {f 2 4 0} of your{SAUT}belongings.",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_PUL_CONF_Ex",
+    "locuteur": "Nagi",
+    "en": "Would you like to take {f 2 4 0} of your{SAUT}stored belongings?",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_PUL_CONF_OK_Ex",
+    "locuteur": "Nagi",
+    "en": "Here are {f 2 4 0} of your belongings.{SAUT}Please take them.",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_COMMON_NG_1_Ex",
+    "locuteur": "Nagi",
+    "en": "Ah, I'm afraid my storage space is{SAUT}full. I can't take any more from you...{SAUT}Terribly sorry.",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_COMMON_NG_2_Ex",
+    "locuteur": "Nagi",
+    "en": "I'm afraid I'm already storing as{SAUT}many of those as I can.",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_COMMON_NG_3_Ex",
+    "locuteur": "Nagi",
+    "en": "I cannot return this to you with your{SAUT}inventory so full. Please come back{SAUT}after you've made room in your bag.",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_HAVE_MAX_T_MSG",
+    "locuteur": "Theodore",
+    "en": "Pardon me, but I believe your{SAUT}inventory is full.",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_HAVE_MAX_M_MSG",
+    "locuteur": "Nagi",
+    "en": "I'm sorry... It seems your inventory{SAUT}is full.",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_SELL_RARE_MAT_",
+    "locuteur": "Theodore",
+    "en": "Thank you for selling that rare{SAUT}material.",
+    "fr": ""
+  },
+  {
+    "id": "Y_FCLSHOP_SELL_RARE_MAT_#2",
+    "locuteur": "Nagi",
+    "en": "Ah, you've sold a rare material!{SAUT}I appreciate it.",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_COMMON_NG_4",
+    "locuteur": "Theodore",
+    "en": "I'm sorry, but our space is limited,{SAUT}and I couldn't store a portion of the{SAUT}belongings you chose...",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_COMMON_NG_4_Ex",
+    "locuteur": "Nagi",
+    "en": "I'm afraid some of your belongings{SAUT}couldn't be stored since our space{SAUT}is limited.",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_COMMON_NG_5",
+    "locuteur": "Theodore",
+    "en": "It seems your inventory is full.{SAUT}I do apologize, but I cannot return{SAUT}a portion of your items.",
+    "fr": ""
+  },
+  {
+    "id": "CSHOP_COMMON_NG_5_Ex",
+    "locuteur": "Nagi",
+    "en": "I couldn't return some of your items{SAUT}with your inventory full. Please come{SAUT}back after you've freed up your bag.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_UNKNOWN_JUDGE_ONE_",
+    "locuteur": "Theodore",
+    "en": "Shall I appraise this?",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_MULUTI_ADD_UNKNOWN",
+    "en": "{f 0 7 0 65535}{f 2 5 3 65535 0}{f 0 7 140 65535}{f 2 5 3 65535 1}　{SAUT}{f 0 7 0 65535}{f 2 5 3 65535 2}{f 0 7 140 65535}{f 2 5 3 65535 3}　{SAUT}{f 0 7 0 65535}{f 2 5 3 65535 4}{f 0 7 140 65535}{f 2 5 3 65535 5}　{SAUT}{f 0 7 0 65535}{f 2 5 3 65535 6}{f 0 7 140 65535}{f 2 5 3 65535 7}　{SAUT}Obtained {f 0 7 0 65535}.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_UNKNOWN_JUDGE_RESU",
+    "locuteur": "Theodore",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_UNKNOWN_JUDGE_RESU#2",
+    "locuteur": "Theodore",
+    "en": "Not used",
+    "fr": ""
+  }
+]

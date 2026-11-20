@@ -1,0 +1,7 @@
+[
+  {
+    "id": "MSG_TUTORIAL_FOE2_1",
+    "en": "{f 0 1 2}The arrow icon's color{f 0 1 0} shows the disparity{SAUT}between your level and that of an FOE.{PAGE}As the disparity lessens, the color will go{SAUT}from {f 0 1 2}red, to yellow, to blue, to white{f 0 1 0}.{PAGE}You ought to avoid confronting FOEs{SAUT}with levels far above yours.",
+    "fr": ""
+  }
+]

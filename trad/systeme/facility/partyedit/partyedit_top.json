@@ -1,0 +1,34 @@
+[
+  {
+    "id": "OK_SEL",
+    "choix": true,
+    "en": "OK",
+    "fr": ""
+  },
+  {
+    "id": "YESNO_SEL",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "FIRST_LEADER_NOT_EXIST",
+    "en": "There's no leader in the first team.",
+    "fr": ""
+  },
+  {
+    "id": "SECOND_LEADER_NOT_EXIST",
+    "en": "There's no leader in the second team.",
+    "fr": ""
+  },
+  {
+    "id": "FIRST_NAVI_NOT_EXIST",
+    "en": "There's no navigator in the first team.",
+    "fr": ""
+  },
+  {
+    "id": "SECOND_NAVI_NOT_EXIST",
+    "en": "There's no navigator in the second team.",
+    "fr": ""
+  }
+]

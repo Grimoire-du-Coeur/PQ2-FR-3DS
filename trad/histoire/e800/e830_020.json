@@ -1,0 +1,85 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "So we just have to get through this{SAUT}floor, right?{PAGE}She told us the layout has become{SAUT}terribly complex, but it doesn't seem{SAUT}that way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Hrrm...? Whoa, the warp points are{SAUT}in different places!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "That's not good. Those things were{SAUT}already confusing to begin with.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Not to mention we don't have any{SAUT}information besides our objective.{PAGE}If only we had some kind of hint{SAUT}to help us find our way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Koromaru",
+    "en": "Arf arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Koromaru has a piece of paper{SAUT}in his mouth...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "Hey... There's something written{SAUT}here.{PAGE}G, R, O, W...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "It spells \"GROW\"... Does it mean, like,{SAUT}physically or metaphorically?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "Perhaps it's some kind of code?{PAGE}In any case, it's safe to say this is{SAUT}some manner of clue for the sake{SAUT}of this special screening.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "So the warp points are different,{SAUT}and we've got this paper that says{SAUT}\"G-R-O-W\"...{PAGE}What do you think of all this,{SAUT}Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Not sure yet.{OPTION}Aha, I get it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "We don't have enough clues to say{SAUT}for certain right now. Maybe if we{SAUT}keep moving, we'll learn more.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "Really!? And with so few clues...{SAUT}Impressive deduction.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "In any case, we'll follow your lead,{SAUT}Joker. Let's keep moving for now.",
+    "fr": ""
+  }
+]

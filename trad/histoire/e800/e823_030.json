@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Nice going, guys! That's one down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "Who was the winner that time? Tell us,{SAUT}{f 6 1 27 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hmm... It's too early to say. It is best of{SAUT}four, after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Shinjiro",
+    "en": "On to the next one. Let's get this over{SAUT}with.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "Remember, Shinji―if I win, you're doing{SAUT}special training with me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Shinjiro",
+    "en": "Hah! And if I win, you have to shut up{SAUT}about it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Mitsuru",
+    "en": "My goodness... Their stupidity is beyond{SAUT}me...{PAGE}However, at this rate, I imagine we'll{SAUT}get through this screening without too{SAUT}much trouble. Let's keep it up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Right!",
+    "fr": ""
+  }
+]

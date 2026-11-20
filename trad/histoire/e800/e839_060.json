@@ -1,0 +1,176 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "Yeah! That's what happens when we get{SAUT}serious!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Not bad, everyone. But not quite as{SAUT}awesome as me.{PAGE}Sorry, but that's just the reality of{SAUT}working alongside a SEES ace such as{SAUT}myself. I can't help being MVP.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Nah man, I was the MVP. I was out in{SAUT}front of everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "What!? Dude, it was me! Nobody would{SAUT}have had the flowers' hint without me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "They sure seem chatty over there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Well, at least they make a good team.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Alright then, let's ask {f 6 1 16 0 0 0},{SAUT}the leader of SEES.{PAGE}Who did the best this time? Me, myself,{SAUT}or I?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "The hell kinda question is that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Hero",
+    "en": "Haha, I can't answer that. You all did{SAUT}really well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P4 Hero",
+    "en": "He's right. All three of you did great.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "You're awesome, Skull.{OPTION}I'm counting on you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Oh, uh, thanks... Um, yeah, I'm not{SAUT}used to praise, so I dunno what to say...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "No need to explain. My partner,{SAUT}Yosuke, can't accept praise either. But{SAUT}I too feel unbeatable with him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yosuke",
+    "en": "Whoa, not you too...{PAGE}Wait, did you say \"unbeatable\"? Did{SAUT}you... overhear us talking earlier?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Junpei",
+    "en": "Aw, geez. Don't tell me {f 6 1 27 0 0 0}{SAUT}and {f 6 1 16 0 0 0} might've heard, too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yep. We heard every word.{PAGE}And I'd like to offer you my heartfelt{SAUT}thanks, Junpei.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "No! I'd rather you make fun of me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Hero",
+    "en": "I thank you as well, Junpei. Let's have a{SAUT}good rivalry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Junpei",
+    "en": "Oh, uh, sure...{PAGE}Wait, didn't you hear what I just said!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ann",
+    "en": "Haha, you're so loud that we could hear{SAUT}everything you said, Skull.{PAGE}Maybe now you'll be quiet when we{SAUT}tell you to be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "Dammit, this is so embarrassing. Even{SAUT}Panther's joined in...{PAGE}...Argh, I don't got time for this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "What about leaving behind this mushy{SAUT}stuff and doing our mission? Hikari, did{SAUT}you find what you were looking for?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari",
+    "en": "...Yes! This is the thing I sensed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yosuke",
+    "en": "Hey, you did it! Congrats, Hikari-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Hikari",
+    "en": "I couldn't have done it without you all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025_2",
+    "locuteur": "Junpei",
+    "en": "Glad it all worked out. If you ever need{SAUT}a helping hand again, you know where{SAUT}to find me.{PAGE}I'll come runnin' to Hikari in a hikurry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Hikari",
+    "en": "Uh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yosuke",
+    "en": "Hikari in a hikurry? That joke's so bad{SAUT}I don't even know what to say...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ryuji",
+    "en": "Man, I almost feel sorry for your{SAUT}buddy, {f 6 1 16 0 0 0}...",
+    "fr": ""
+  }
+]

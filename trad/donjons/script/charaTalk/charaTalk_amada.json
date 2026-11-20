@@ -1,0 +1,187 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Ken",
+    "en": "Uh, it looks like we could gather some{SAUT}items here. What do you want to do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ken",
+    "en": "I get it. You want to be cautious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ken",
+    "en": "Yeah! Let's go for something really cool!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "We're not going to check it out? Well,{SAUT}okay, I think I understand why...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "And... got it! The last one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "All right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Ooh.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Wow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ken",
+    "en": "That was hard. Anyone else want to{SAUT}take a break?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "There we go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Oooooh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Awesome, congratulations!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ken",
+    "en": "A shortcut! Should we go through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ken",
+    "en": "A shortcut! Should we go through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ken",
+    "en": "A shortcut! Should we go through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ken",
+    "en": "Aw... We can't go through this way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ken",
+    "en": "Aw... We can't go through this way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ken",
+    "en": "Aw... We can't go through this way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ken",
+    "en": "Oh, um... Doesn't this area seem pretty{SAUT}dangerous?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ken",
+    "en": "Right! Let's look real close!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ken",
+    "en": "I get it. Let's be ready!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ken",
+    "en": "That was scary, kinda! I thought we{SAUT}were going to lose...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ken",
+    "en": "...I'm sensing a whole lot of Shadows{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ken",
+    "en": "Okay! Let's be careful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ken",
+    "en": "I get it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ken",
+    "en": "I knew there would be Shadows!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ken",
+    "en": "Are we going back to the theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,265 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Here we are! See? There's a lot, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Yes... We can eat these! This one...{SAUT}That one...! Hahahaha! It's a gold mine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Oh, please... It's just a buncha grass...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Well, whatever, let's gather what we{SAUT}can. I'm sure Fox'll tell us if it's good or{SAUT}not.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "We decided to gather some edible{SAUT}wild plants...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "A bunch of Persona-users collecting{SAUT}wild plants... You don't see that every day.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Ughhh... My back's startin' to hurt. I'm{SAUT}gonna take a break...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "C'mon, Junpei. Giving up already? You{SAUT}noob.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "No way! I'm just gettin' started!{PAGE}Energy charge complete, aaand... it's{SAUT}time for Junpei, Ace Collective!{PAGE}Here we go! Double blades, baby!{SAUT}Woooooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukari",
+    "en": "You idiot! You're getting it all over me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "Fox, what about this one?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "This one's good. A little bit of salt after{SAUT}it's fried, and it should taste great.{PAGE}This one's a bit bitter, but if we can{SAUT}prepare it well enough...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Shinjiro",
+    "en": "Huh... You know your stuff.{SAUT}Why is that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "Are you referring to my knowledge of{SAUT}wild plants?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "He really likes them.{OPTION}It's because he's poor.{OPTION}He's just a weirdo.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "Well, I like wild plants. To be able to{SAUT}survive off nature's blessings alone{SAUT}is a truly wonderful thing.{PAGE}But, truthfully, there is another reason...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "Exactly! And, as a poor man, this is an{SAUT}excellent way to save money!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "A weirdo!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yusuke",
+    "en": "Nature is food to me... Wild plants{SAUT}included. I had to learn this to stay alive.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akihiko",
+    "en": "It's almost like you're training. Still, it{SAUT}doesn't exactly seem like you're doing it{SAUT}willingly. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yusuke",
+    "en": "Right. I may be fortunate enough to go{SAUT}to school, but I don't necessarily have{SAUT}the money to live as I please.{PAGE}Nor do I have a family for support.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yusuke",
+    "en": "If I'm to keep pursuing beauty, I need{SAUT}money. Art supplies are far from cheap,{SAUT}but I can't make any compromises.{PAGE}That said, I can't create anything if I'm{SAUT}dead. It is this struggle that fuels me.{PAGE}I strive to insert every part of my being{SAUT}into my art... It's what's kept me going{SAUT}all this time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akihiko",
+    "en": "That's a pretty stoic way of thinking...{SAUT}But I like it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "Yes, you understand me, Sanada-san!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Akihiko",
+    "en": "Yeah. I know the feeling of making{SAUT}sacrifices to get what you truly want.{PAGE}If it means getting stronger... then I'm{SAUT}more than willing to risk my life.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Shinjiro",
+    "en": "......{PAGE}Damn... To think there's another clumsy{SAUT}dumbass here.{PAGE}Okay, screw it. I'll let you guys{SAUT}eat all you want. Just go get{SAUT}some more ingredients.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P4 Hero",
+    "en": "We've gathered up a lot of wild plants.{SAUT}This should be enough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Akihiko",
+    "en": "...No, not yet.{PAGE}There isn't enough protein! We won't{SAUT}build any muscle from this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Junpei",
+    "en": "Whaaa―!? You're really gonna worry{SAUT}about that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Akechi",
+    "en": "I do agree that plants might not be{SAUT}enough. Perhaps if we had some type of{SAUT}meat or fish?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_031",
+    "choix": true,
+    "en": "Definitely meat.{OPTION}Let's do fish.{OPTION}Protein powder?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Chie",
+    "en": "Oh, me too! Meat, meat, meat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Makoto",
+    "en": "But we all ready used up all the frozen{SAUT}meat in the containers...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Akihiko",
+    "en": "Hmph, there's meat roaming around all{SAUT}over this place. Want me to go get{SAUT}us some?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Shinjiro",
+    "en": "Don't be stupid. You're not gonna run{SAUT}off by yourself again, are you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Morgana",
+    "en": "Fish! That sounds great!{PAGE}Heheh! I'll finally get to eat some sushi!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Makoto",
+    "en": "What? Prehistoric sushi!? I feel like{SAUT}it'd take some serious guts to eat{SAUT}that kind of fish raw...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Shinjiro",
+    "en": "Sorry, but I can't make sushi. The best I{SAUT}can do is cook the fish.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Akihiko",
+    "en": "I suppose that'll work. It'll definitely{SAUT}provide protein.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Shinjiro",
+    "en": "Hell no. Go get some real food.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Yusuke",
+    "en": "Ngh... My vision is blurring...! I don't{SAUT}think I can go on...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Shinjiro",
+    "en": "Look, this guy's gonna die from hunger{SAUT}if we don't do somethin' fast.{PAGE}Fish is probably our best bet. Pretty{SAUT}sure there'd be some kinda river or{SAUT}something like that around here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Fuuka",
+    "en": "Now that you mention it, I do{SAUT}remember seeing what looked like{SAUT}a pond earlier.{PAGE}It's at the northeastern corner of this{SAUT}floor. Perhaps you should take a look?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Morgana",
+    "en": "Okay, we're off to catch some fish! Let's{SAUT}go before Fox faints!",
+    "fr": ""
+  }
+]

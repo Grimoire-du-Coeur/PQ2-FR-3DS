@@ -1,0 +1,247 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Within Theater 3...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Mitsuru",
+    "en": "So, in order to leave this place, you{SAUT}believe we need to revise the contents{SAUT}of the movies shown in these theaters...{PAGE}Do I understand your explanation{SAUT}correctly?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "Yes, that's what we think so far.{PAGE}Based on the contents of the movie and{SAUT}its trailer, I believe its aim is to paint{SAUT}individuality in a negative light.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Shinjiro",
+    "en": "So what you're sayin' is that we just{SAUT}hafta destroy their shitty way{SAUT}of thinking, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "Also, we need to find our leader{SAUT}and Aigis-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akihiko",
+    "en": "I don't get all this \"going inside movies\"{SAUT}and whatnot, but it looks like we don't{SAUT}have any time to waste discussing it...{PAGE}I'm really worried about our{SAUT}companions, too. I'm ready{SAUT}to let my fists lead the way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Shinjiro",
+    "en": "*sigh* Look at this guy, grinning like{SAUT}a kid... I better not see you go rushin' in{SAUT}by yourself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Uh, um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "What's the matter, Futaba-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Um... I have a favor to ask!{PAGE}I wanna join you guys on the mission!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "What? You wanna come into the movie{SAUT}with us!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Yeah, can I? Please?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "That could be really helpful.{OPTION}It'll be dangerous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yosuke",
+    "en": "Yeah, I get that... but isn't it kinda{SAUT}dangerous for your navigator to{SAUT}do something like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "No no no, don't worry! I've infiltrated{SAUT}Palaces and Mementos with the{SAUT}Phantom Thieves in the past...{PAGE}Plus, my hacking skills would be super-{SAUT}handy in a sci-fi world! I'll do more good{SAUT}in there than out here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "But―but―I've infiltrated Palaces{SAUT}and Mementos with you guys in{SAUT}the past...{PAGE}Plus, my hacking skills would be super-{SAUT}handy in a sci-fi world! I'll do more good{SAUT}in there than out here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "I see. She makes a valid point.{PAGE}Since this movie's world is controlled{SAUT}with electronics, having Futaba with us{SAUT}would be especially helpful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "What's your call? Personally, I think{SAUT}she'd be fine, but it's up to you.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Let's all go together.{OPTION}Come with us.{OPTION}Hope you've got the guts for it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "Yes! Thank you so much―you won't{SAUT}regret it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Awesome! Lead the way, fellow{SAUT}party members!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "That's... well, I'll be fine―it'll be fine!{SAUT}I swear I won't cause any trouble!{SAUT}Okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Hikari",
+    "en": "...You really want to go in there,{SAUT}Futaba-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "I think that movie is wrong. I wanna be{SAUT}the one to change it, no matter what{SAUT}it takes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Hikari",
+    "en": "I... I don't understand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Futaba",
+    "en": "That's fine―for now, just watch the{SAUT}movie for me, okay? All the way to{SAUT}the end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Hikari",
+    "en": "Mmhm, I'll be watching... Please, come{SAUT}back safe...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Futaba",
+    "en": "Roger that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Mitsuru",
+    "en": "Well, we should be on our way.{SAUT}I'm growing more worried about{SAUT}our companions.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Nagi",
+    "en": "Be careful, everyone. Please don't do{SAUT}anything reckless...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ryuji",
+    "en": "No prob! We'll just keep on kickin' ass!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Nagi",
+    "en": "Those Persona-users... They seem to be{SAUT}very dependable.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Hikari",
+    "en": "Mmhm... They're so strong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Nagi",
+    "en": "Not to say that I don't believe in them,{SAUT}but I can't help myself from wondering...{PAGE}Will we ever truly be able to leave this{SAUT}place?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Hikari",
+    "en": "Do you mean... we could be stuck in{SAUT}this movie theater forever?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Nagi",
+    "en": "I'm merely proposing a hypothetical{SAUT}situation:{PAGE}If it turned out that we must remain{SAUT}here forever... what would you do,{SAUT}Hikari-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Hikari",
+    "en": "...I don't know.{PAGE}I might not be able to do anything{SAUT}about it, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Nagi",
+    "en": "Hikari-san...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Nagi",
+    "en": "Doe...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Hikari",
+    "en": "What are you even...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Nagi",
+    "en": "It's all right, Hikari-san―I'm right here{SAUT}with you...",
+    "fr": ""
+  }
+]

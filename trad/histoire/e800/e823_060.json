@@ -1,0 +1,188 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hooray! That's the last of them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "Yeah, I guess so.{PAGE}...So? Who won? I feel like I had better{SAUT}accuracy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Shinjiro",
+    "en": "Hah, the hell are you talking about?{SAUT}We were basically the same.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "No way. I got slammed, and you didn't{SAUT}even back me up! That's minus another{SAUT}point!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Shinjiro",
+    "en": "That was nothin'! Rub some dirt in it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akihiko",
+    "en": "What!? Man, you never show me any{SAUT}respect!{PAGE}And you never make me food! Would it{SAUT}kill you to be a little nicer to me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Shinjiro",
+    "en": "I could say the same to you, Aki―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mitsuru",
+    "en": "Cut it out! Both of you!{PAGE}How can either of you possibly hope to{SAUT}set a good example with the way you're{SAUT}behaving!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "We're not here for fun! We're putting{SAUT}our lives on the line!{PAGE}All this talk of winning and losing...{SAUT}Pathetic... You've lost sight of what's{SAUT}important.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "...Well, uh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Mitsuru",
+    "en": "Didn't you listen to what{SAUT}{f 6 1 27 0 0 0} said? No going at{SAUT}it alone.{PAGE}She made that rule because you two{SAUT}only see what's in front of you.{PAGE}Granted, neither of you could follow that{SAUT}rule, I'd say you're both disqualified.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hmm... I say... the winner is...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "Sanada-san.{OPTION}Aragaki-san.{OPTION}Mitsuru.{OPTION}Me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "True, Akihiko-senpai really gave it his{SAUT}all, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "I do think that Shinjiro-senpai showed{SAUT}some amazing strength, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, you think so too, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, I think you did really well too,{SAUT}Joker. But...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "I say the winner is, Mitsuru-senpai!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Mitsuru",
+    "en": "Me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yes, all of you fought very hard and{SAUT}held your own.{PAGE}But you were also asked to support{SAUT}your teammates.{PAGE}Mitsuru-senpai wins because she was{SAUT}able to scold her companions for not{SAUT}being there for each other!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Shinjiro",
+    "en": "...Can't argue with that.{PAGE}I feel like an idiot, but Mitsuru and{SAUT}{f 6 1 27 0 0 0} are right. Sorry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akihiko",
+    "en": "I'm sorry too. I shouldn't've acted that{SAUT}way in front of the underclassmen...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Mitsuru",
+    "en": "Hmph, as long as you understand...{PAGE}...That said, I think the real winner here{SAUT}is {f 6 1 26 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Mitsuru",
+    "en": "To be honest, I've never been able to{SAUT}keep these two in line.{PAGE}You showed me that, much like{SAUT}{f 6 1 16 0 0 0}, you too have what it{SAUT}takes to be a leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P3 Fem Protag",
+    "en": "Th-Thank you, Mitsuru-senpai!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Akihiko",
+    "en": "I agree with Mitsuru.{PAGE}Both {f 6 1 27 0 0 0} and {f 6 1 15 0 0 0}{SAUT}are incredible people.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Shinjiro",
+    "en": "We made real asses out of ourselves...{SAUT}Aki, what do you say we try this again?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Akihiko",
+    "en": "Right! Leave it to me! I'll be sure to{SAUT}back you up...{PAGE}With the best protein I got!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Shinjiro",
+    "en": "...I think I'll pass.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Mitsuru",
+    "en": "Should I add a rule about no protein{SAUT}next time...?{PAGE}Either way, we've finished our mission.{SAUT}Let's head back to the theater.",
+    "fr": ""
+  }
+]

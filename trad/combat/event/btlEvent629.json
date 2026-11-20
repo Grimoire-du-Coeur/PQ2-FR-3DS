@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Theodore",
+    "en": "Well then, everyone... I, Theodore,{SAUT}will be your opponent.{PAGE}Allow me to witness your strength{SAUT}firsthand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Theodore",
+    "en": "Hm... I see. You fascinate me{SAUT}almost as much as popcorn.{PAGE}But this is nowhere near the extent{SAUT}of your power, is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Theodore",
+    "en": "I do take a certain pride in my{SAUT}strength. And that pride will not{SAUT}allow me to falter so soon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Theodore",
+    "en": "Impressive... Ah, but the compliments{SAUT}can wait until the dust has settled.{PAGE}Now, allow me to witness the full{SAUT}scope of your power.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Theodore",
+    "en": "Magnificent... So this is your power...{PAGE}I have now witnessed it for myself.",
+    "fr": ""
+  }
+]

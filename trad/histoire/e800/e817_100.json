@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Bravo, bravo. My hat is off to your{SAUT}investigational skills.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "You really gave us a hard time, y'know.{SAUT}It was tough figurin' it all out with next{SAUT}to no info.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "locuteur": "Junpei",
+    "en": "But the people of Kamo City can sleep{SAUT}soundly tonight, thanks to me...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Junpei, Ace Detective?{OPTION}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "...J-Junpei, Ace Detective...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukari",
+    "en": "What the...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Mitsuru",
+    "en": "...I just had a feeling you were going to{SAUT}say that.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "That's thinking like Junpei.{OPTION}Are you feeling okay?{OPTION}That was beautiful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "Will you stop talking about it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mitsuru",
+    "en": "Y-You said I should try it, so I did...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Mitsuru",
+    "en": "Don't act like it's so moving...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Well, we really only solved the case{SAUT}because of all the info we got from the{SAUT}people around town.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "I don't think they would've ever done{SAUT}something like that before. They really{SAUT}have changed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "Guess the most important thing is the{SAUT}guy in charge. That's just the way of the{SAUT}world.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukari",
+    "en": "Because you know so much about that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elizabeth",
+    "en": "Now then, here is your reward. Please{SAUT}accept it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Mitsuru",
+    "en": "Pardon me, but I'd like you to have{SAUT}these.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Makoto",
+    "en": "Gloves?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Mitsuru",
+    "en": "They're motorcycle gloves. I wanted to{SAUT}thank you for everything you did for me{SAUT}this time around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "You don't need to thank me... Besides,{SAUT}I don't even have my license yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Mitsuru",
+    "en": "Really? After seeing your Persona, I{SAUT}assumed...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Makoto",
+    "en": "I think it's just a representation{SAUT}of how I feel.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021_1",
+    "locuteur": "Makoto",
+    "en": "Responsibility, regulations... I just want{SAUT}to throw all of those things away and{SAUT}take off at full speed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Mitsuru",
+    "en": "It seems we both carry a similar burden{SAUT}after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022_1",
+    "locuteur": "Mitsuru",
+    "en": "I feel the same sense of freedom when{SAUT}I'm riding my motorcycle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022_2",
+    "locuteur": "Mitsuru",
+    "en": "I won't force you to accept these gloves,{SAUT}but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022_3",
+    "locuteur": "Mitsuru",
+    "en": "Seeing as you bear the same burden as{SAUT}me, I want you to know that feeling of{SAUT}the wind on your face someday.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Makoto",
+    "en": "Kirijo-san...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023_1",
+    "locuteur": "Makoto",
+    "en": "Thank you. What do you say we both{SAUT}take our bikes out somewhere, once I{SAUT}get my license?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Mitsuru",
+    "en": "Of course. Once we're back in the real{SAUT}world...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024_1",
+    "locuteur": "Mitsuru",
+    "en": "Let's ride together, full throttle!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Makoto",
+    "en": "Yeah, that's a promise!",
+    "fr": ""
+  }
+]

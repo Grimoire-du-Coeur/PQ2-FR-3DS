@@ -1,0 +1,143 @@
+[
+  {
+    "id": "BTLMSGID_RESULT00",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT01",
+    "en": "{f 2 4 0}'s level has increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT02",
+    "en": "{f 2 4 0}'s level has increased by {f 2 4 1}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT03",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} learned{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT04",
+    "en": "All skill slots are currently full.{SAUT}Please select a skill to erase.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT05",
+    "en": "Erase {f 0 1 1}{f 2 4 0}{f 0 1 0}?",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT06",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} forgot{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT07",
+    "en": "{f 0 1 1}{f 2 4 1}{f 0 1 0} has replaced{SAUT}{f 0 1 1}{f 2 4 0}{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT08",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has been upgraded to{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT09",
+    "en": "Something is about to happen{SAUT}to {f 2 4 1}...",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT10",
+    "en": "{f 2 4 0} let out a sharp cry.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT11",
+    "en": "> BTLMSGID_RESULT11",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT12",
+    "en": "> BTLMSGID_RESULT12",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT13",
+    "en": "> BTLMSGID_RESULT13",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT14",
+    "en": "> BTLMSGID_RESULT14",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT15",
+    "en": "> BTLMSGID_RESULT15",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT16",
+    "en": "> BTLMSGID_RESULT16",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT17",
+    "en": "> BTLMSGID_RESULT17",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT18",
+    "en": "> BTLMSGID_RESULT18",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT19",
+    "en": "> BTLMSGID_RESULT19",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT20",
+    "en": "> BTLMSGID_RESULT12",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT21",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0}'s skill slots{SAUT}increased!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT22",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} was reborn{SAUT}as {f 0 1 1}{f 2 4 1}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT23",
+    "en": "It seems a hidden potential has{SAUT}awakened in {f 0 1 1}{f 2 4 0}{f 0 1 0}...!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT24",
+    "en": "Learned all skills dummy MSG.",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT25",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} retained its form,{SAUT}but has become more powerful!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT26",
+    "en": "Being reborn as {f 0 1 1}{f 2 4 0}{f 0 1 0}{SAUT}awakens new powers!",
+    "fr": ""
+  },
+  {
+    "id": "BTLMSGID_RESULT27",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has been upgraded!",
+    "fr": ""
+  }
+]

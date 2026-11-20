@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "W-Wait, stop! Joker, this is bad!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "What happened?{OPTION}Calm down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "It looks like... there's another of{SAUT}those bear FOEs out there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "What?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Aigis",
+    "en": "This situation is indeed suboptimal.{SAUT}Which target do we attack first?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "Huh? Well, we'll just beat both, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "Dude, you can't just say that!{SAUT}You think we can just take both{SAUT}of them at once!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Maybe YOU can't, but she definitely{SAUT}said this would be a \"double{SAUT}bear-relled battle\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_1",
+    "locuteur": "Teddie",
+    "en": "If we don't beat two at once, then{SAUT}the tagline wouldn't make sense.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Aigis",
+    "en": "Double bear-relled...{PAGE}We have a single bear on our side,{SAUT}and the enemy possesses two.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008_1",
+    "locuteur": "Aigis",
+    "en": "In other words, the FOEs are the{SAUT}double bears in question. I see.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Yeah, just like I told Ellie-chan!{SAUT}Now, put 'em up! We'll see who's{SAUT}the last bear standing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "Somehow... I can feel Elizabeth{SAUT}smirking, even from over here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_1",
+    "locuteur": "P4 Hero",
+    "en": "Either way, it looks like we'll have to{SAUT}beat two of them. Stay on guard,{SAUT}everyone.",
+    "fr": ""
+  }
+]

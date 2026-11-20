@@ -1,0 +1,377 @@
+[
+  {
+    "id": "CHIE_FOE_FOLLOW_START_1",
+    "en": "Oh geez! We've been spotted by an{SAUT}FOE!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_FOE_FOLLOW_START_2",
+    "en": "Errg! An FOE!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_FOE_FOLLOW_START_3",
+    "en": "The FOE is headed this way!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_FOE_NEAR_1",
+    "en": "Whoa, that's too close for comfort!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_FOE_NEAR_2",
+    "en": "Whoa! An FOE!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_FOE_NEAR_3",
+    "en": "Aw man, there's an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_FOE_FOLLOW_END_1",
+    "en": "Looks like we gave it the slip!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_FOE_FOLLOW_END_2",
+    "en": "Phew... We're okay now.",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_FOE_FOLLOW_END_3",
+    "en": "Looks like we got away from the FOE!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_KANSI_REACTION_1",
+    "en": "I'm gonna need heart medication{SAUT}before this is all over...",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_KANSI_REACTION_2",
+    "en": "Carefully... Slowly now...",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_KANSI_REACTION_3",
+    "en": "I'm not in the mood to be spotted and{SAUT}chased, okay?",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_DENKISAKU_REACTION_",
+    "en": "It'd be dumb to touch that.",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_DENKISAKU_REACTION_#2",
+    "en": "This gate is just too much.",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_DENKISAKU_REACTION_#3",
+    "en": "We gotta stop this first!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_KYOUHU_REACTION_1",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_KYOUHU_REACTION_2",
+    "en": "Eek!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_KYOUHU_REACTION_3",
+    "en": "What the!?",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_STAIR_FIND_1",
+    "en": "Hey, it looks like we can keep going!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_STAIR_FIND_2",
+    "en": "On to the next area! C'mon!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_STAIR_FIND_3",
+    "en": "We can keep going! And we should!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_TREASURE_FIND_1",
+    "en": "I see a treasure box!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_TREASURE_FIND_2",
+    "en": "Ooh, ooh, a treasure box!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_TREASURE_FIND_3",
+    "en": "A treasure box! What a meaty find!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_CHECK_WALL_1",
+    "en": "Hey, isn't there something there?",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_CHECK_WALL_2",
+    "en": "Let's check that area out.",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_CHECK_WALL_3",
+    "en": "You see something?",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_SWITCH_FIND_1",
+    "en": "Ah, I have indeed found a switch!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_SWITCH_FIND_2",
+    "en": "Ah! There's a switch!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_SWITCH_FIND_3",
+    "en": "Hm? A switch of some sort?",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_SHORTCUT_FIND_1",
+    "en": "Hey, doncha wanna take that{SAUT}shortcut?",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_SHORTCUT_FIND_2",
+    "en": "We can go through there, I think!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_SHORTCUT_FIND_3",
+    "en": "Yay! I see a shortcut!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_FOE_WARNING_NEAR_1",
+    "en": "Grr! It's still after us!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_FOE_WARNING_NEAR_2",
+    "en": "Newsflash! The FOE's still after us!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_FOE_WARNING_NEAR_3",
+    "en": "It's STILL after us!?",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_1PERSON_HPTP10_1",
+    "en": "Please, let me stop and have some{SAUT}meat.",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_1PERSON_HPTP10_2",
+    "en": "Uggh... I can't go on...",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_1PERSON_HPTP10_3",
+    "en": "*pant* *pant* ...I think this is it for{SAUT}me...",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_1PERSON_HP10_1",
+    "en": "Not very confident over here! Please{SAUT}heal me!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_1PERSON_HP10_2",
+    "en": "I can't go on...",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_1PERSON_HP10_3",
+    "en": "I-I think I'm gonna faint...",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_1PERSON_TP10_1",
+    "en": "If only I had more meat...",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_1PERSON_TP10_2",
+    "en": "Shoot, can we take a break or{SAUT}somethin'...?",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_1PERSON_TP10_3",
+    "en": "This is too tough for me... Reminds me{SAUT}of the stringiest meat I ever ate...",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_1PERSON_HP80_1",
+    "en": "I'm still good to go!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_1PERSON_HP80_2",
+    "en": "C'mon, let's kick up our heels! I'm{SAUT}going to, at least!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_1PERSON_HP80_3",
+    "en": "Hm! Not bad!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_DUNGEON_START_1",
+    "en": "Let's do it!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_DUNGEON_START_2",
+    "en": "High spirits, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_DUNGEON_START_3",
+    "en": "All right! Let's get cracking!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_QUEST_START_1",
+    "en": "A special screening! Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_QUEST_START_2",
+    "en": "This mission's in the bag!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_QUEST_START_3",
+    "en": "I am so ready!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_TOUHA_25_1",
+    "en": "It looks like we have a ways to go.",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_TOUHA_25_2",
+    "en": "The map's getting filled in, little by{SAUT}little!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_TOUHA_50_1",
+    "en": "Are we about halfway, at least?",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_TOUHA_50_2",
+    "en": "We're doing pretty well, aren't we?",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_TOUHA_75_1",
+    "en": "Aren't we close to finishing the map?",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_TOUHA_75_2",
+    "en": "Just a little more! Let's finish it!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_TOUHA_100_1",
+    "en": "Oh, did we do it? Nice!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_TOUHA_100_2",
+    "en": "Look at that! We finished this floor!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_MAPPING_ICON_ALL_1",
+    "en": "Looking good!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_MAPPING_ICON_ALL_2",
+    "en": "Seems about right!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_MAPPING_ICON_KAIDAN",
+    "en": "Now we can use our mental resources{SAUT}for other stuff, like meat.",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_MAPPING_ICON_KAIDAN#2",
+    "en": "Yep, that's an important one!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_MAPPING_CHANGE_COLO",
+    "en": "We're going to color-code it? Brilliant!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_MAPPING_CHANGE_COLO#2",
+    "en": "Color equals fun!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_MAPPING_ICON_DEL_1",
+    "en": "We'll never get lost with you doing{SAUT}this.",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_MAPPING_ICON_DEL_2",
+    "en": "Let's remove those unnecessary icons!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_MAPPING_MEMO_1",
+    "en": "Be sure to write it down!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_MAPPING_MEMO_2",
+    "en": "Right! So we don't forget!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_DOOR_OPEN_1",
+    "en": "Leet's goo!!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_DOOR_OPEN_2",
+    "en": "Off to the next area? Hop-ziggity!",
+    "fr": ""
+  },
+  {
+    "id": "CHIE_DOOR_OPEN_3",
+    "en": "C'mon! This way!",
+    "fr": ""
+  }
+]

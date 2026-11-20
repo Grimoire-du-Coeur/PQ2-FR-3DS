@@ -1,0 +1,37 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Officer found! You're up, Naoto!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Understood. One moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "Sorry to keep you waiting.{PAGE}\"The officer in the car with double 4s{SAUT}is real.\"{PAGE}...According to him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Good work, Naoto! And the number on{SAUT}this car is...{PAGE}11-22. We've got double 1s and 2s!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "I suppose that's all we'll get from him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "He said the officer in the car with{SAUT}double 4s is real...",
+    "fr": ""
+  }
+]

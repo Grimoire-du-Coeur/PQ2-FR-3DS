@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Teddie",
+    "en": "Hooray! We did it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Aigis",
+    "en": "Congratulations, Teddie-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "locuteur": "Aigis",
+    "en": "You have vanquished all lesser bears,{SAUT}and rightfully claimed the title of{SAUT}\"bearest of them all.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "Thank you, Ai-chan! I couldn't have{SAUT}done it without everyone's help!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "It was a good battle. That finishes{SAUT}the mission, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "Sensei, I did it! Aw, I can't let anyone{SAUT}see me cry now that I'm a bear{SAUT}legend...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Rise",
+    "en": "Hahaha... You did great, Teddie.{SAUT}You can come home now!",
+    "fr": ""
+  }
+]

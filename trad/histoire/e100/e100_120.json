@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Whoa... Is this for real!? We seriously{SAUT}got inside the movie...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Now, how should we proceed{SAUT}from here? It wouldn't be wise{SAUT}to wander around aimlessly...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "What's that noise?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Static-laced voice",
+    "en": "...ey... Heeey!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Hm? Is that... Oracle?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Oracle! Can you hear us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Ah! Glad I got through to you guys.{SAUT}Looks like you're doing just fine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Wait a sec―why are you in phantom{SAUT}thief attire too!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_1",
+    "locuteur": "Futaba",
+    "en": "Search me... All I know is that my outfit{SAUT}transformed the moment you guys went{SAUT}into the movie.{PAGE}How does all of this crazy stuff even{SAUT}work?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007_2",
+    "choix": true,
+    "en": "It's just the Metaverse.{OPTION}I don't know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_3",
+    "locuteur": "Futaba",
+    "en": "Well, no point thinking about it too{SAUT}hard―there's still an awful lot we don't{SAUT}know yet.{PAGE}Anyway, everything's good on this end,{SAUT}so I'll back you all up, no problem!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_4",
+    "locuteur": "Yusuke",
+    "en": "In that case, sorry to ask for something{SAUT}so quickly, but...{PAGE}Could you possibly take a quick look{SAUT}through the movie with your Persona's{SAUT}powers?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Nope. Already tried.{PAGE}Even now, I can navigate you only{SAUT}because I can tell where you guys are,{SAUT}but that's all...{PAGE}I can't see where Queen or Noir are,{SAUT}either. Sorry...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Alright. Welp, we'll just have to look{SAUT}for 'em.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Still, it looks like I can back everyone up{SAUT}in battle like usual.{PAGE}Don't worry about that part!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Got it―and you can count on us{SAUT}to find those two!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "All right then, make sure you draw your{SAUT}map as you move along so you don't{SAUT}end up lost later!{PAGE}Any problems with using that notebook{SAUT}in there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "Everything seems to be in order.{SAUT}Shall we begin our exploration?",
+    "fr": ""
+  }
+]

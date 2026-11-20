@@ -1,0 +1,241 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "There we go. This should be enough,{SAUT}yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Looks like this one's just as fat as the{SAUT}last one we found...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "en": "......!{PAGE}There's a giant worm on the ground...{SAUT}I should probably get this one too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "Er...{PAGE}Sorry about that. You probably found{SAUT}it before me.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "All right, I'll take it.{OPTION}No, go ahead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "Haha, I suppose it doesn't really matter{SAUT}who picks it up.{PAGE}Now that I think about it, this is the first{SAUT}time I've ever really talked to you... It{SAUT}feels kind of odd.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Yeah.{OPTION}It doesn't feel like the first time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P4 Hero",
+    "en": "I wonder why... Could it be because{SAUT}we're both leaders who use Personas?{PAGE}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kanji",
+    "en": "Yo, we got a ton of bait. Now we just{SAUT}need to reel in that fi―{PAGE}Why're you two glarin' at each other{SAUT}like that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Two people staring intensely at one{SAUT}another... They call this...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Having a Third Eye.{OPTION}A duel.{OPTION}Falling in love.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "That's just you, man.{PAGE}For real, though, what's with the{SAUT}staredown? You two tryna finish what{SAUT}you started back when you first met?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Seriously!? You two tryna finish what{SAUT}you started back when you first met?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "This feeling in my chest... Is that what{SAUT}this is?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "Can't one of you take this seriously...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P4 Hero",
+    "en": "We were going to talk leader-to-leader,{SAUT}but we couldn't think of anything to say.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Kanji",
+    "en": "Huh, that's unlike you, Senpai.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Naoto",
+    "en": "It's possible that you two understand{SAUT}each other so well, no words are{SAUT}necessary.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "Now that you mention it, they do seem{SAUT}alike.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P4 Hero",
+    "en": "Do you think we're alike, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_020",
+    "choix": true,
+    "en": "Yeah.{OPTION}No.{OPTION}Big bro...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P4 Hero",
+    "en": "Hm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "Right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ann",
+    "en": "Case in point!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P4 Hero",
+    "en": "Oh... Little bro!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "Oookay, that's enough! Sensei already{SAUT}has his pretty little sister!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosuke",
+    "en": "Well, they do both kinda do their own{SAUT}thing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yukiko",
+    "en": "Oh! And they both look good in glasses!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Teddie",
+    "en": "They also both like fishing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P4 Hero",
+    "en": "Fishing...{PAGE}Ah, that's right. We found another giant{SAUT}worm.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Teddie",
+    "en": "Aaahh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Haru",
+    "en": "Wow! We're sure to catch a big one{SAUT}with this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P4 Hero",
+    "en": "Now that we have our bait, let's go{SAUT}catch that fish.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_033",
+    "choix": true,
+    "en": "Let's go.{OPTION}Let's get fishin'!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Ryuji",
+    "en": "Heh! We're gonna be the ones to catch{SAUT}that thing, right, Joker!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Kanji",
+    "en": "Like some old-ass fish has any chance{SAUT}of gettin' away from our Senpai!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Yukiko",
+    "en": "...Maybe it's because of those two.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yusuke",
+    "en": "Amagi-san, what's wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yukiko",
+    "en": "Oh, it's nothing. An ancient fish, hm...?{SAUT}Maybe we should make sashimi.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Yusuke",
+    "en": "Sashimi... Music to my ears. It sounds{SAUT}amazing, and I'm sure it'll taste{SAUT}amazing too.{PAGE}There's no time to waste! Off we go!",
+    "fr": ""
+  }
+]

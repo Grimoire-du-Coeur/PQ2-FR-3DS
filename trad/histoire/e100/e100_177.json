@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Nagi",
+    "en": "Over here is the shop... After you,{SAUT}please.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Theodore",
+    "en": "Ah, this is quite impressive. There is{SAUT}an abundance of space...{PAGE}I believe that I can prepare a number of{SAUT}items here that will be useful to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Ooh, like what? Maybe some new{SAUT}sweets?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Theodore",
+    "en": "Well... I'm afraid I don't know all the{SAUT}details just yet. I do apologize for that.{PAGE}I must first prepare for the grand{SAUT}opening, so won't you allow me{SAUT}some time to do so?{PAGE}I vow to provide an assortment of goods{SAUT}that will make your hearts dance{SAUT}in rapture.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "I can't wait to see that.{OPTION}Are you sure you can do that?{OPTION}Give us wholesale prices.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Theodore",
+    "en": "Please leave it to me! I will make sure{SAUT}to surpass your every expectation!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Theodore",
+    "en": "Yes―I swear upon the Velvet Room{SAUT}name that I will fully satisfy your needs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Theodore",
+    "en": "Wholesale... prices?{PAGE}...Ah! I understand. There's no need{SAUT}to worry about that.{PAGE}All the wares I shall sell you will be{SAUT}entirely whole, with prices to match.{SAUT}I have no interest in half-measures!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "You seem to be having fun, Theodore.{SAUT}It's as if you're a veteran shopkeeper.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Theodore",
+    "en": "Veteran... What a wonderful ring that{SAUT}term has!{PAGE}I've merely come to realize that I don't{SAUT}mind doing things of this nature.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elizabeth",
+    "en": "By the way―*munch munch*{SAUT}My guests―*munch munch*{PAGE}They seem to be lost too... *munch*{SAUT}My, this foodstuff called popcorn...{SAUT}*munch* *munch* *munch*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Theodore",
+    "en": "Sister! It's ill-mannered to eat{SAUT}and speak at the same time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Elizabeth",
+    "en": "Theo, you should―*munch munch*{SAUT}―try shoving this much in your mouth{SAUT}at once as well... *munch munch*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Theodore",
+    "en": "Are you attempting to desiccate me!?{SAUT}This is just like that confounded{SAUT}soybean powder all over again!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "U-Uhm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "I-It's okay!{PAGE}I freaked out over the Blue Brigade at{SAUT}first when I saw 'em too, but now I think{SAUT}these guys are ultimately harmless.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Hikari",
+    "en": "...O-Okay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Theodore",
+    "en": "*munch munch* My, this is quite...{SAUT}*munch munch*{PAGE}Hmm... If I were to change the{SAUT}seasonings―*munch* perhaps{SAUT}I could create new flavors...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "Huh? New flavors?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Theodore",
+    "en": "Oh? Does that interest you?{PAGE}Then, I shall fully devote myself{SAUT}to the creation of new varieties{SAUT}of popcorn.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Hikari",
+    "en": "Um... Nagi-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Nagi",
+    "en": "*chuckle* It's fine by me―especially if{SAUT}it would be of assistance to everyone.{PAGE}Also, I could not say no after seeing{SAUT}such a hopeful look on your face,{SAUT}Hikari-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Hikari",
+    "en": "Huh? Um, mmhm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yusuke",
+    "en": "We'll leave it to you, then. I look{SAUT}forward to the new varieties of{SAUT}popcorn as well... *chuckle*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Theodore",
+    "en": "Of course! Now, please wait just a short{SAUT}while longer until my preparations{SAUT}here are completed.",
+    "fr": ""
+  }
+]

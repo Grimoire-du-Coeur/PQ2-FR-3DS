@@ -1,0 +1,82 @@
+[
+  {
+    "id": "BTL_MES_013_000",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_001",
+    "en": "Apologies, but we cannot back{SAUT}down. Victory will be ours!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_003",
+    "en": "An FOE... Retreat may be the{SAUT}better option here.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_005",
+    "en": "An FOE... But this one seems{SAUT}well within our means.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_006",
+    "en": "That's a rare Shadow...!{SAUT}Don't let it escape!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_011",
+    "en": "This one seems powerful...{SAUT}How shall we proceed?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_013",
+    "en": "A new enemy. Stay calm and{SAUT}find its weak point!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_015",
+    "en": "This shouldn't pose a problem.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_017",
+    "en": "We'll rout them here and now!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_019",
+    "en": "What...? Did that Shadow change?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_022",
+    "en": "This is a crisis!{SAUT}We need a plan!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_053",
+    "en": "It's my turn now! Prepare yourself!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_055",
+    "en": "Allow me to expose their{SAUT}weakness.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_056",
+    "en": "A Baton Pass may serve us well.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_057",
+    "en": "I suppose a show of force{SAUT}is called for.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_013_086",
+    "en": "I suppose it's time I showed you{SAUT}what I'm capable of.",
+    "fr": ""
+  }
+]

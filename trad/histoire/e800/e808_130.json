@@ -1,0 +1,55 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Ohh. There's the terminal.{PAGE}Gimme just a sec. Let's see if I can get{SAUT}what we need.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Very well. I suppose we can take a break,{SAUT}then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "Huh!? Already?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Hehehe. Piece of cake. All I did was take{SAUT}a look.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Joker, I'm gonna tell you where the cars{SAUT}are at. Mark them on your map.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "The locations of the police cars have{SAUT}been added to the map.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "This'll make things a little easier.{PAGE}The officers should be at their cars.{SAUT}Let's be on our way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Looks like we don't need this anymore.{SAUT}We already know where the cars are.",
+    "fr": ""
+  }
+]

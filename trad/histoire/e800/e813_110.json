@@ -1,0 +1,247 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "We planted the popcorn in the lobby{SAUT}then hid out of sight...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "Oho, this must be one of those take-out{SAUT}steaks I've heard so much about!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "Um... Are you perhaps referring to a{SAUT}stakeout?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Shh... Someone's coming.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_4",
+    "locuteur": "Naoto",
+    "en": "It's just as we thought... and now we've{SAUT}caught them in the act.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "Hey, hey, hey! Whaddya think you're{SAUT}doing with my bear suit!?{PAGE}I refuse to overlook your evildoings any{SAUT}longer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "We've finally caught you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Given the situation, there's only one{SAUT}answer. Take off that suit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi ＆ Naoto",
+    "en": "Caroline and Justine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Caroline",
+    "en": "Rrrgh...! How did you know it was us!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "We may have only had circumstantial{SAUT}evidence...{PAGE}But after process of elimination, you{SAUT}two were the only remaining suspects.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "Let's start with Elizabeth and{SAUT}Theodore...{PAGE}The two of them were with{SAUT}{f 6 1 30 0 0 0} when Haru found{SAUT}the bear suit, so that clears them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "Next, we know that Margaret was in the{SAUT}screening room at the time of the{SAUT}incident.{PAGE}Marie-san also had a run-in with the{SAUT}bear suit, so it clearly wasn't her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akechi",
+    "en": "So you see, that only left the two of you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Naoto",
+    "en": "And if you're wondering how we knew{SAUT}it was both of you, the bear suit gave us{SAUT}a hint.{PAGE}The two of you are far too small for one{SAUT}of you to have worn it alone.{PAGE}Therefore, the reason you were{SAUT}stumbling around was because one of{SAUT}you was sitting on the other's shoulders.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015_2",
+    "locuteur": "Teddie",
+    "en": "I never would've imagined two people{SAUT}could fit in my bear suit...{PAGE}No fair! Look at all the fun you were{SAUT}having in there! Why wasn't I invited!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Justine",
+    "en": "I don't believe we'll be able to talk our{SAUT}way out of this, Caroline.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Caroline",
+    "en": "Urrrgh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "Why did you do it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Justine",
+    "en": "When Caroline heard about the{SAUT}popcorn, she said she just had to try it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Caroline",
+    "en": "You were as curious as me, Justine!{PAGE}B-Besides, Theodore was going on{SAUT}about how he made his greatest{SAUT}creation yet...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Justine",
+    "en": "But then we learned he had run out of{SAUT}ingredients for his new popcorn and{SAUT}that he couldn't make much as is.{PAGE}However, the more we realized we{SAUT}couldn't have any, the more we wanted{SAUT}it...{PAGE}...Or so Caroline said.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021_2",
+    "locuteur": "Caroline",
+    "en": "Hey! Quit trying to pin this all on me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021_4",
+    "locuteur": "Justine",
+    "en": "Then, as we wallowed in despair, we{SAUT}came across the empty bear suit.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_022",
+    "choix": true,
+    "en": "So it was spur of the moment.{OPTION}If the suit hadn't been there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Justine",
+    "en": "Yes, the suit was practically begging to{SAUT}be worn.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akechi",
+    "en": "In a way, you two were also victims in{SAUT}that you were manipulated by the suit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "Wh-Wha―? It's my fault!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Caroline",
+    "en": "Urgh... We didn't mean to blow things{SAUT}so out of proportion.{PAGE}I'm sorry I couldn't control the suit{SAUT}better...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Justine",
+    "en": "Yes, we apologize for the commotion...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Teddie",
+    "en": "It's okay. I know that it's hard to be{SAUT}honest sometimes!{PAGE}...So here you go! Ta-da!{PAGE}Theodore made it for us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028_2",
+    "locuteur": "Justine",
+    "en": "B-But that's...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028_4",
+    "locuteur": "Caroline",
+    "en": "You're giving it to us!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028_6",
+    "locuteur": "Teddie",
+    "en": "Presents for you! Everyone's happier{SAUT}when we share!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Caroline",
+    "en": "*chomp* *chomp* *snarf* ...Mmph!{PAGE}Th-This flavor... It's... shocking!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Justine",
+    "en": "Yes, very... I can't... *munch* ...I can't{SAUT}stop eating. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Teddie",
+    "en": "Let's go say sorry and share our new{SAUT}popcorn with everyone! I'm sure{SAUT}they'll forgive you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Caroline",
+    "en": "Urgh... Well, uh... Thanks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032_2",
+    "locuteur": "Justine",
+    "en": "Allow me to express my gratitude as{SAUT}well... Thank you very much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Akechi",
+    "en": "*chuckle* Well, case closed... I think.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Naoto",
+    "en": "Yes, well done. Now then, we should{SAUT}report to the box office.",
+    "fr": ""
+  }
+]

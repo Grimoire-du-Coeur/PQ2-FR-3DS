@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Well done, everyone. I received the{SAUT}Cinnamon Fern you brought me.{PAGE}I tried feeding one to Theo, but{SAUT}he complained and said things like,{SAUT}\"It's bitter,\" and, \"It's not ripe yet.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "O-Oh... He ate this raw... I must admit,{SAUT}I feel sorry for him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "To think we had to dry it then grind it{SAUT}into a fine powder...{PAGE}It appears I had the wrong idea.{SAUT}Whoopsie-daisy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "That's all you have to say...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "Now then, once everyone's ready, we{SAUT}can finally start making these \"churros.\"{PAGE}Furthermore, I believe we've enough{SAUT}ingredients to start selling them from{SAUT}this point on.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "That means we'll be able to eat them{SAUT}whenever we want! I'm glad we did all{SAUT}that work!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "That's exciting.{OPTION}Don't eat too many.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Yeah! Let's all eat some together! It'll{SAUT}help us relax when we're tired.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "We'll have so much time to talk, Theo{SAUT}will need to work extra hard.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "Haha, I know, I know. Cut me some{SAUT}slack.{PAGE}I'll just have to fight as hard as I can{SAUT}and burn off some of those calories!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hehe, don't forget our chatting time.{SAUT}Theo will need to work extra hard to{SAUT}keep up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Rise",
+    "en": "Oh, I'm so excited! We have so much{SAUT}to talk about!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Dude, girls become friends so friggin'{SAUT}fast...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "They often talk a lot in order to get to{SAUT}know each other. It's one area in which{SAUT}I could never hope to outdo them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P4 Hero",
+    "en": "Well, we've all been fortunate enough to{SAUT}meet here, so we should do our best{SAUT}to strengthen these new friendships.",
+    "fr": ""
+  }
+]

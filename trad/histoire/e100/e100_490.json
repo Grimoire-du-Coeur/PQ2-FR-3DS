@@ -1,0 +1,188 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kamoshidaman",
+    "en": "Gaaaaaaah! How could I be defeated!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yessss!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Heh―serves you right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Wavering man",
+    "en": "Isn't justice... supposed to win?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Wavering woman",
+    "en": "This is unbelievable...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "All that's left is for the citizens{SAUT}blindly following him to come to{SAUT}their senses.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kamoshidaman",
+    "en": "Guhhh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "Kamoshidaman's down for the count!{PAGE}Now's our chance to rescue{SAUT}Queen and Noir!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "Excellent―I'll go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "I'll go too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Kamoshidaman",
+    "en": "I punish evil for everyone's sake!{SAUT}Don't get in my way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Ha, you got it all wrong...{PAGE}Held under your thumb every day by{SAUT}your selfish justice... That ain't peace{SAUT}OR happiness!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Kamoshidaman",
+    "en": "But... order is perfect with an absolute{SAUT}ruler! Isn't that right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "You may think you're doing this{SAUT}for the right cause―but I think{SAUT}you're wrong.{PAGE}Since you have all that power,{SAUT}you have to make sure you use{SAUT}it properly!{PAGE}Is everyone really so satisfied{SAUT}with your justice? Take a look{SAUT}for yourself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Wavering man",
+    "en": "Hey, so... who's right in the end?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Wavering woman",
+    "en": "Huh? How am I supposed to know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Wavering man",
+    "en": "All we did was what we were told...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Kamoshidaman",
+    "en": "Grrr... Why!? Why won't you{SAUT}understand!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "Thanks, guys! We're all right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Queen, you're safe! And you, Noir?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Haru",
+    "en": "Mmhm, I'm okay too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Morgana",
+    "en": "Well then, Kamoshidaman: time to{SAUT}pay the piper.{PAGE}Drop all this foolishness and―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Kamoshidaman",
+    "en": "Hraaaaaaaaaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Morgana",
+    "en": "Whoa!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Kamoshidaman",
+    "en": "Justice doesn't lose! Justice... always...{SAUT}WIIIINS!!!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Makoto",
+    "en": "You're still going on about that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "You're bein' a real sore loser, man.{SAUT}No one thinks you're a hero any―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Kamoshidaman",
+    "en": "Hroooooaaaaaaaaaah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yusuke",
+    "en": "What!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Futaba",
+    "en": "Be careful―something's happening!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Kamoshidaman",
+    "en": "I didn't want to reveal this form...{SAUT}but it's too late now!",
+    "fr": ""
+  }
+]

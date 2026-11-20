@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "There it is, the Cinnamon Fern!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "*sniff sniff*{PAGE}What a sweet scent... It's irresistible...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "But this is, like, just grass 'n' shit... How{SAUT}the hell we gonna use it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Typically, cinnamon is made by{SAUT}processing dried cinnamon bark.{PAGE}Though I'm not sure if that's how it{SAUT}works here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Either way, let's take this with us and{SAUT}give it to Theodore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Rise",
+    "en": "Okay, two left―go get 'em! Just watch{SAUT}out for those FOEs! ",
+    "fr": ""
+  }
+]

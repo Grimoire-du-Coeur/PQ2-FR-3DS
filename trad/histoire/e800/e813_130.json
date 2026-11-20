@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "It would seem those two caused quite a{SAUT}stir...{PAGE}This was clearly negligence on{SAUT}Theo's part. Fear not. I shall give{SAUT}him a strict talking-to after this.{PAGE}Here is your reward for this time. Please{SAUT}accept it.{PAGE}Excellent work, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "This case certainly was interesting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "Yes, I agree.{PAGE}...Seeing the two of them reminded me{SAUT}a little of my old self.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Your old self?{OPTION}You were like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Well, I just mean that I understand what{SAUT}it feels like when you can't be honest{SAUT}with yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "That's unexpected. I'd say you seem{SAUT}much more mature than those two.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "There was once a time when I tried{SAUT}to suppress who I really was in order{SAUT}to become my ideal self.{PAGE}It's thanks to my friends that I was able{SAUT}to accept my true self...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Your true self, huh...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "Akechi-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "Oh, I was just thinking that you've got{SAUT}some wonderful friends. Detectives{SAUT}typically work solo, you know?{PAGE}I'm glad I was able to team up with you{SAUT}this time around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Naoto",
+    "en": "*chuckle* It was rather thrilling for me{SAUT}as well.{PAGE}Another Detective Prince... I feel as{SAUT}though working with you will help me{SAUT}sharpen my deductive skills.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "Indeed. Let's keep working together to{SAUT}see that we all make it home safely.",
+    "fr": ""
+  }
+]

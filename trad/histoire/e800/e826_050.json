@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "We'll save a lot of time if we cut through{SAUT}here. Only thing is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Koromaru",
+    "en": "Grrr...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Koro-chan looks tense...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "My nose itches. This smell must be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Yeah, it's an FOE. My whiskers have{SAUT}been on edge for a while now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Kanji",
+    "en": "Wow, their senses are somethin' else...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Hmph, what's another FOE at this{SAUT}point!? We'll just tip-toe around it!{PAGE}Ready or not, here comes Teddie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Fuuka",
+    "en": "W-Wait!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Teddie",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Fuuka",
+    "en": "The path up ahead is actually quite{SAUT}narrow. There's not enough space to go{SAUT}around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Yeah, that thing's not letting anyone{SAUT}through.{PAGE}If we wanna take this shortcut, we're{SAUT}gonna have to fight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Mitsuru",
+    "en": "That's a difficult choice to make.{SAUT}Passing through here would shorten{SAUT}our trip considerably.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Well, at our current strength, it's{SAUT}not exactly invincible.{PAGE}So, what's the plan, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "We're going in.{OPTION}Let's turn back.{OPTION}Let me think.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Teddie",
+    "en": "Wow, you're just as crazy as Sensei.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "You gonna do it, Joker?{PAGE}Heh, okay then, I'm with you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "Then, let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Teddie",
+    "en": "Oh, we're not gonna go for it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "There're other paths we can take. No{SAUT}need for any unnecessary risks here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ann",
+    "en": "Then, do you want to head back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "Sure, pick whichever seems easier to{SAUT}you. I'm with you, no matter what!",
+    "fr": ""
+  }
+]

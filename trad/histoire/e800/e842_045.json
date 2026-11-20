@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "Whew... Finally, we're here.{SAUT}That took longer than I thought.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "It doesn't look like it's around here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Hero",
+    "en": "We should probably look for the hole{SAUT}it went down.{PAGE}It'd be west from here. Let's check{SAUT}it out, Joker.",
+    "fr": ""
+  }
+]

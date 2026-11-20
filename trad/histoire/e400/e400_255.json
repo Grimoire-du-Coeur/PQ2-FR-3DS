@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "This again... Was that another one of{SAUT}Hikari's memories?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Hero",
+    "en": "It certainly fits the pattern.{PAGE}The Hikari-san in that clip was the{SAUT}same one from the musical again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "But those aren't the same as the musicals{SAUT}though... they're more of an ordinary{SAUT}slice-of-life kinda thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "They feel like my memories...{SAUT}Really precious ones...{PAGE}But, I can't remember...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "Hikari-chan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "Why though? They're my own{SAUT}memories... I want to remember{SAUT}them, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_5",
+    "locuteur": "Hikari",
+    "en": "It's almost like... I'm refusing{SAUT}to remember, deep down...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Don't overdo it.{OPTION}You'll remember eventually.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "Thanks... I promise I'll get there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P4 Hero",
+    "en": "Right―you've got us by your side too.{SAUT}Let's go.",
+    "fr": ""
+  }
+]

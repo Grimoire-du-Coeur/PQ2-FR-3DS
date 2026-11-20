@@ -1,0 +1,416 @@
+[
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "What's wrong?{OPTION}Is there a problem?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "Don't play dumb, you lawless fiend!{SAUT}You disturber of the peace!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "It's \"phantom thief.\"{OPTION}Sorry, what?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elizabeth",
+    "en": "Silence! Excuses cannot conceal your{SAUT}evil deeds, villain!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_1",
+    "locuteur": "Elizabeth",
+    "en": "Form up, Velvet Rangers!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Theodore",
+    "en": "The blue of compassionate courage!{SAUT}Velvet Navy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Margaret",
+    "en": "The blue of gracious grace.{SAUT}Velvet Sapphire.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Caroline",
+    "en": "The blue of guts and glory!{SAUT}Velvet Cobalt!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Justine",
+    "en": "...Th-The blue of careful calm.{SAUT}Velvet Indigo.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elizabeth",
+    "en": "The blue of jubilant justice!{SAUT}Velvet Blue!{PAGE}Together, we are the ultramarine{SAUT}hero team! The Velvet Rangers!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_015",
+    "choix": true,
+    "en": "It's too much blue.{OPTION}No, really, what?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Margaret",
+    "en": "*sigh* Look at his icy stare.{SAUT}I was a fool to go along with{SAUT}this charade.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Theodore",
+    "en": "But Sister, were you not one of the{SAUT}most enthusiastic to do it...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Theodore",
+    "en": "I-I'm sorry...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Elizabeth",
+    "en": "Now, now, aren't you supposed to{SAUT}be the \"gracious\" one? Velvet... uh...{PAGE}Velvet Marine? Velvet Aqua?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Margaret",
+    "en": "Velvet Sapphire. You were the one{SAUT}who came up with it. How could you{SAUT}forget?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Justine",
+    "en": "Already, I am so tired of this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Elizabeth",
+    "en": "Well... In any case! This evildoer{SAUT}wasn't content simply working us{SAUT}to the bone!{PAGE}No, he went further! He saw fit to{SAUT}pilfer our hidden stockpile of{SAUT}hot dogs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023_1",
+    "locuteur": "Elizabeth",
+    "en": "Evil must be punished! Is that not so,{SAUT}Caroline?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Caroline",
+    "en": "That's right! What, it wasn't enough{SAUT}to run from rehabilitation!? You{SAUT}had to sink even lower!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Margaret",
+    "en": "Was this farce really necessary?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Theodore",
+    "en": "In human society, it is apparently{SAUT}custom. One cannot smite evildoers{SAUT}without an expository monologue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Caroline",
+    "en": "You'll pay for those hot dogs you stole,{SAUT}Inmate! Right here, right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Elizabeth",
+    "en": "That's the spirit, Caroline!{PAGE}One needn't just go through the{SAUT}motions. A bit of personal investment{SAUT}can be very motivating.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_029",
+    "choix": true,
+    "en": "The motions of what?{OPTION}I'm totally lost here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Elizabeth",
+    "en": "What I mean to say is that food{SAUT}grudges can be quite terrifying.{SAUT}Especially when hot-dog-centric.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Margaret",
+    "en": "Ever since you arrived here, you have{SAUT}overcome numerous hardships and{SAUT}grown stronger for it.{PAGE}That is an undeniable truth...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Justine",
+    "en": "As such, your final challenge will be{SAUT}to battle all of us at once.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Elizabeth",
+    "en": "This is not an official quest. Thus,{SAUT}there is no ticket issued for it.{PAGE}If I may be frank, this is our selfish{SAUT}request... a choice of our own{SAUT}unadulterated will.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Theodore",
+    "en": "The power and bonds you've gained...{SAUT}We could only wonder: how would{SAUT}they affect us?{PAGE}Nothing happens simply by chance.{SAUT}There are only inevitabilities...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Caroline",
+    "en": "In other words, your hot dog thievery{SAUT}was an inevitable part of your{SAUT}rehabilitation!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "I'm innocent.{OPTION}Hold on a second here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Margaret",
+    "en": "We needn't clarify every single detail.{SAUT}Clearly there are several intents{SAUT}at play here.{PAGE}And if our presence is a consequence{SAUT}of these happenings, we must make{SAUT}the most of it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Elizabeth",
+    "en": "So you see, this ordeal is the clear{SAUT}result of your grand hot dog heist.{PAGE}By doing battle, we may be able to{SAUT}resolve the matter.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Margaret",
+    "en": "We won't force you. This is merely{SAUT}a request from us.{PAGE}And you needn't claim total victory,{SAUT}either. Certainly, that seems a bit{SAUT}beyond your abilities.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Caroline",
+    "en": "Don't worry about losing, Inmate.{PAGE}Stealing those hot dogs is a capital{SAUT}offense, but we wouldn't execute you{SAUT}without our master's permission.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Justine",
+    "en": "That said, the purpose of this ordeal{SAUT}is to test the limits of your combat{SAUT}abilities...{PAGE}If you cannot defeat us, we will{SAUT}simply give you an appraisal of{SAUT}your strength.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_042",
+    "choix": true,
+    "en": "And if we win?{OPTION}You think you can't lose.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Theodore",
+    "en": "Well... in the very unlikely event{SAUT}that we are defeated...{PAGE}Then we will have more than simple{SAUT}praise for you. We will grant you a{SAUT}special commendation.{PAGE}That is the way these things are done.{SAUT}Is that correct, Sister?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Elizabeth",
+    "en": "Indeed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Margaret",
+    "en": "You may challenge us as many times{SAUT}as you wish. As your final ordeal,{SAUT}it seems only fair.{PAGE}*chuckle* I'm looking forward to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Caroline",
+    "en": "All right, enough chitchat!{PAGE}The bottom line is that we're{SAUT}punishing you for your crimes.{SAUT}Got that, Inmate!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Elizabeth",
+    "en": "It seems your foul misdeeds have{SAUT}left Caroline in something of a tizzy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Theodore",
+    "en": "Well, she found such joy in eating{SAUT}those hot dogs as she watched{SAUT}the movies...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Caroline",
+    "en": "Arrrgh! Shut up! If you're not gonna{SAUT}get this started, then I will!{PAGE}How about I just take them all on{SAUT}myself!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Margaret",
+    "en": "My my... She's even lashing out at us.{SAUT}This could be very interesting...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Elizabeth",
+    "en": "Go forth! Velvet Indigo, Velvet Cobalt!{PAGE}Bring justice upon those vile{SAUT}frankfurter felons!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Caroline",
+    "en": "Now you're talking! Let's go, Jus―{SAUT}I mean, Velvet Indigo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Justine",
+    "en": "...Somehow I knew it would come{SAUT}to this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053_1",
+    "locuteur": "Justine",
+    "en": "Now then, Inmate. Are you prepared?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_054",
+    "choix": true,
+    "en": "Yeah.{OPTION}Not yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Caroline",
+    "en": "So you're ready to face your{SAUT}punishment, huh? Then come on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Justine",
+    "en": "It is important to keep yourself in{SAUT}good condition... but for a battle{SAUT}of our request, especially so.{PAGE}Take some time to prepare.{SAUT}We will be waiting, Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Elizabeth",
+    "en": "I'm glad to see you return.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Justine",
+    "en": "Now then, Inmate. Are you prepared?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_059",
+    "choix": true,
+    "en": "Yeah.{OPTION}Not yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060_1",
+    "locuteur": "Caroline",
+    "en": "So you're ready to face your{SAUT}punishment, huh? Then come on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060_2",
+    "locuteur": "Theodore",
+    "en": "The blue of compassionate courage!{SAUT}Velvet Navy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060_3",
+    "locuteur": "Margaret",
+    "en": "The blue of gracious grace.{SAUT}Velvet Sapphire.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060_4",
+    "locuteur": "Caroline",
+    "en": "The blue of guts and glory!{SAUT}Velvet Cobalt!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060_5",
+    "locuteur": "Justine",
+    "en": "...Th-The blue of careful calm.{SAUT}Velvet Indigo.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060_6",
+    "locuteur": "Elizabeth",
+    "en": "The blue of jubilant justice!{SAUT}Velvet Blue!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060_7",
+    "locuteur": "Elizabeth",
+    "en": "Let's go, Velvet Rangers!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Margaret",
+    "en": "Fair enough. It would be a pointless{SAUT}endeavor to fight you in anything{SAUT}less than perfect form.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* Should you wish another{SAUT}attempt at our glorious battle,{SAUT}you are welcome anytime.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Justine",
+    "en": "You should know last time was{SAUT}merely a fluke. So then, Inmate...{SAUT}Are you prepared?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_064",
+    "choix": true,
+    "en": "We're ready.{OPTION}Not yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Caroline",
+    "en": "Hmph! No more going easy on you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Theodore",
+    "en": "I see. Even having won before, you{SAUT}still won't let your guard down...{SAUT}Please, prepare as you must.",
+    "fr": ""
+  }
+]

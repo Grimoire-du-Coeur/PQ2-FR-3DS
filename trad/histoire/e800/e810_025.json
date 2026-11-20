@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": "Hm? A Treasure Spot?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "Looks like the location of the damp{SAUT}leaves is now a Treasure Spot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "Hm... There's some leaves here. Let's{SAUT}take a look, Joker.",
+    "fr": ""
+  }
+]

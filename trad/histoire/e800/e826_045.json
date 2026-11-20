@@ -1,0 +1,176 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Teddie",
+    "en": "Treasure, treasure~!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Koromaru",
+    "en": "Woof! Woof!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "It really is a treasure trove! Good thing{SAUT}we came this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "See? This wouldn't have happened if{SAUT}we'd taken the short path.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "Ngh...{PAGE}B-But the only reason we found the{SAUT}treasure was because of my nose!{PAGE}I'm not just some cat who starts{SAUT}drooling at the first sign of treasure!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "I wasn't drooling! You better shut it,{SAUT}you... You...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Quit fighting.{OPTION}You all did well.{OPTION}Say something, Panther.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Yeah. We're here because we worked{SAUT}together.{PAGE}Besides, there's no time to argue. We{SAUT}haven't even found the grand prize yet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "That's right. We're here because we{SAUT}worked together.{PAGE}Let's keep it up and go for the grand{SAUT}prize too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "Me...?{PAGE}Uh... good job, you guys! We couldn't{SAUT}have made it this far without you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Well, if you say so, Lady Ann...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "Hear, hear. I, too, cannot bring myself{SAUT}to trouble such a lovely lady.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosuke",
+    "en": "Okay, on to the grand prize.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukari",
+    "en": "Any idea of what that might be?{PAGE}None of what we've found so far has{SAUT}been particularly beautiful or alluring.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Junpei",
+    "en": "It's gonna be something a girl would{SAUT}like, right? I'll bet it's...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_015",
+    "choix": true,
+    "en": "Clothes.{OPTION}Sweets.{OPTION}Money.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "Yeah. Something really fancy with frills{SAUT}or ribbons or whatever. Girls love that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yukari",
+    "en": "Uh, I think you mean YOU love that.{PAGE}Also, why would he go through the{SAUT}trouble of hiding something like that{SAUT}out in the jungle?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "Well, I do like sweets, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yosuke",
+    "en": "Nah, who hides something like that in{SAUT}the jungle?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukari",
+    "en": "Well, I guess it is better to let her buy{SAUT}something she likes rather than give her{SAUT}something without much thought...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Junpei",
+    "en": "Yeah, real romantic...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "No, no, that won't do.{PAGE}The one that thing that would make a{SAUT}girl happiest is obviously a passionate{SAUT}kiss on the―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Koromaru",
+    "en": "Bark, bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Teddie",
+    "en": "Wha―!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Aigis",
+    "en": "He said if you do that again, you{SAUT}will be escorted off the premises.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Rise",
+    "en": "It's just like a meet and greet...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Morgana",
+    "en": "Good one, Koromaru.{PAGE}Let's ditch this dummy, and find that{SAUT}treasure.{PAGE}We're almost there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  }
+]

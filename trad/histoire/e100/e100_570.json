@@ -1,0 +1,247 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Sweet, it unlocked!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Nagi",
+    "en": "To think, it would truly work!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Heheh! You see―just as we suspected!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "So, does that mean our captor is that{SAUT}being you call Doe, since he had{SAUT}the key?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "We don't know if he's acting alone or{SAUT}not, but there's no mistake that he's{SAUT}involved in some way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "But then, why would he present us with{SAUT}the key?{PAGE}He looked like he was in pain, too...{SAUT}I'm totally lost here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Y'know, if he has the keys, couldn't we{SAUT}just force him to spit out the rest of 'em?{PAGE}Like, why don't we corner Doe and just{SAUT}be all, \"Give us the keys... or else!\"",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "That seems dangerous...{OPTION}Let's give it a shot.{OPTION}Good luck with that, Ryuji.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "I think so too. Wouldn't it be smarter{SAUT}to not provoke him?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "All that \"Nnghhh\" business was creepy,{SAUT}too... I feel like he'll blow up if we piss{SAUT}him off. Then, it's game over for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Hold on, there! Wouldn't it be smarter{SAUT}to not provoke him?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Yeah, he might go, \"Nnghhh,\" and{SAUT}explode... That'd be game over for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "You're gonna make me do it alone!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "You better not do anything stupid,{SAUT}Ryuji.{PAGE}It definitely seems dangerous to anger{SAUT}something we don't really understand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "Yeah, he might go, \"Nnghhh,\" and{SAUT}explode... That'd be game over for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "So what're we supposed to do about{SAUT}the other three locks, then?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Makoto",
+    "en": "This is entirely conjecture on my{SAUT}part...{PAGE}But, if changing the movie's ending{SAUT}led to Doe producing a key...{PAGE}Perhaps we only need to change three{SAUT}more movies? I mean, it seems to{SAUT}follow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Haru",
+    "en": "Are there any other movies being shown{SAUT}in the theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Nagi",
+    "en": "There are three other ones, but they've{SAUT}not been viewable since the anomaly{SAUT}struck...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Makoto",
+    "en": "Well, the numbers seem to match up,{SAUT}at least.{PAGE}What a conundrum this is. If only{SAUT}we had more intel...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "...Hikari? What's wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari",
+    "en": "...Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "Oh―um, well... You looked like you{SAUT}wanted to say something...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Hikari",
+    "en": "......{PAGE}Um... Here... I don't know if this is{SAUT}a clue or not, but...{PAGE}I've had this with me ever since I woke{SAUT}up here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "Hm―what's this? Is it like the{SAUT}notebook you gave us earlier?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Nagi",
+    "en": "An invitation...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Futaba",
+    "en": "\"Please come see the movie,{SAUT}no matter what...\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028_5",
+    "locuteur": "Futaba",
+    "en": "W-Wait, what!? Is that letter{SAUT}supposed to be a threat?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Ryuji",
+    "en": "That means Hikari was brought here{SAUT}by someone―or at least asked to come{SAUT}here!{PAGE}Maybe it really is that Doe guy after{SAUT}all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Hikari",
+    "en": "I-I don't know... I don't know anything...{SAUT}I'm so scared...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "P3 Fem Protag",
+    "en": "You've been alone ever since you{SAUT}awoke―I can understand why you{SAUT}feel uneasy...{PAGE}But, don't worry! You've got Nagi-san{SAUT}and us with you now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Haru",
+    "en": "She's right. Let's work together and{SAUT}we'll all leave this place, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Hikari",
+    "en": "...A-Ah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Futaba",
+    "en": "Wh-What's wrong!? Did you remember{SAUT}something!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Hikari",
+    "en": "There's a movie... that I need to watch{SAUT}here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Yusuke",
+    "en": "Hm!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Theater intercom",
+    "en": "We have an announcement for{SAUT}our customers.{PAGE}A new movie will begin showing in{SAUT}Theater 2 momentarily. I repeat...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Morgana",
+    "en": "A new movie―just as we're talking about{SAUT}it? Should we check it out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ann",
+    "en": "Yeah! Uh, the announcement said{SAUT}Theater 2, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Nagi",
+    "en": "Allow me to guide you there, then.{SAUT}Please, follow me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "en": "Nagi walked off in the direction{SAUT}of the theaters...{PAGE}We should head over to Theater 2...",
+    "fr": ""
+  }
+]

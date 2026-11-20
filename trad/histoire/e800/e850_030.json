@@ -1,0 +1,60 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Phew... We did it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Mitsuru",
+    "en": "A spectacular showing, {f 6 1 26 0 0 0}.{SAUT}Your efforts are an inspiration{SAUT}to us all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Aw, thanks, Mitsuru-senpai! To be{SAUT}honest, though, I was just focused{SAUT}on kicking its butt.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "P3 Fem Protag",
+    "en": "Thanks for the backup, Joker!{SAUT}It helped me fight just like{SAUT}I did back home.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, look...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "There's something on the ground...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Wow, that's a relief... If I was the{SAUT}only one who didn't get a prize,{SAUT}it'd be super embarrassing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_1",
+    "locuteur": "P3 Fem Protag",
+    "en": "It really is kinda mysterious, huh...?{SAUT}Here, maybe you should hold onto it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Obtained Sooty Film!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Hero",
+    "en": "Well, we'd better start heading back.{SAUT}Elizabeth's probably waiting.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "map_help_001_01",
+    "en": "Tap the pencil tool, and you can{SAUT}draw walls on the map.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_001_02",
+    "en": "The eraser tool removes walls.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_002_01",
+    "en": "The brush tool colors in tiles.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_002_02",
+    "en": "The dustcloth tool erases floors.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_002_03",
+    "en": "Tapping the color button and{SAUT}selecting a color will allow{SAUT}you to change the tint.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_003_01",
+    "en": "Place icons such as doors on the{SAUT}map by dragging them.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_003_02",
+    "en": "To delete icons on the map, drag{SAUT}them to the trash can with the{SAUT}pencil tool.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_004_01",
+    "en": "Tap the icon to change the color.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_006_01",
+    "en": "Tap the floor number while{SAUT}the whole map is displayed, and{SAUT}just that floor will display.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_006_02",
+    "en": "Tap the labyrinth button to{SAUT}select the labyrinth and floor.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_007_01",
+    "en": "When you tap the compass on{SAUT}the top left, you can keep the{SAUT}player icon facing up while the{SAUT}map changes direction. ",
+    "fr": ""
+  },
+  {
+    "id": "map_help_007_02",
+    "en": "Return it to its default settings by{SAUT}tapping the compass again. ",
+    "fr": ""
+  },
+  {
+    "id": "map_help_008_01",
+    "en": "If you make a mistake, tap{SAUT}Undo to cancel the last action.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_009_01",
+    "en": "Use Auto Pilot to move{SAUT}automatically.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_009_02",
+    "en": "Draw the route you would like{SAUT}to go with the route pen in the{SAUT}Auto Pilot menu.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_009_03",
+    "en": "Travel the route you drew and{SAUT}tap the move button to start{SAUT}moving automatically. ",
+    "fr": ""
+  },
+  {
+    "id": "map_help_009_04",
+    "en": "By tapping the line that was{SAUT}drawn by the route pen you can{SAUT}go backwards.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_009_05",
+    "en": "Use the route eraser to delete{SAUT}the Auto Pilot line. Erase it from{SAUT}the end of the line.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_010_01",
+    "en": "Drag the icons onto the free{SAUT}palette to save your favorite icons.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_010_02",
+    "en": "Delete unwanted icons from the{SAUT}free palette by dragging them to{SAUT}the trash can.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_011_01",
+    "en": "During special screenings, you{SAUT}will have a special screening{SAUT}palette. It will have icons you{SAUT}can place only during screenings.",
+    "fr": ""
+  },
+  {
+    "id": "map_help_011_02",
+    "en": "However, you cannot place{SAUT}special screening icons on top{SAUT}of others that were placed at a{SAUT}different time.",
+    "fr": ""
+  }
+]

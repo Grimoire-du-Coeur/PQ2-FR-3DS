@@ -1,0 +1,31 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "The music disappeared from the{SAUT}music box...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "Oh no... the music...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Hey... Didn't she warn us not to use{SAUT}a Goho-M?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Aw, that's a shame. Guess we should{SAUT}head back and get the music again...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "You've got 46 steps, and you can't{SAUT}use a Goho-M. Don't forget this time!",
+    "fr": ""
+  }
+]

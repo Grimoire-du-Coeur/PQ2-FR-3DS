@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Mitsuru",
+    "en": "The wind's suddenly grown quite strong{SAUT}around here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Isn't this some kind of wind tunnel?{SAUT}Maybe it's because there are so many{SAUT}big buildings around here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "Ack... Can we pick up the pace? The{SAUT}wind's too strong―it's messing up{SAUT}my hair...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "*gasp* Ladies first! Please, go right{SAUT}ahead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "Oh, thank you. We'll just lead the―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "Nope! Hold it! We're not falling for{SAUT}that one―got it!?{PAGE}...Boys, YOU go first. March!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukari",
+    "en": "...You pig.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Nooooo! How cruel...",
+    "fr": ""
+  }
+]

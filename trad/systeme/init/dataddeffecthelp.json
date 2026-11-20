@@ -1,0 +1,987 @@
+[
+  {
+    "id": "addeffect_000",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_001",
+    "en": "St +1",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_002",
+    "en": "St +2",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_003",
+    "en": "St +3",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_004",
+    "en": "St +4",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_005",
+    "en": "St +5",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_006",
+    "en": "En +1",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_007",
+    "en": "En +2",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_008",
+    "en": "En +3",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_009",
+    "en": "En +4",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_010",
+    "en": "En +5",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_011",
+    "en": "Ma +1",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_012",
+    "en": "Ma +2",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_013",
+    "en": "Ma +3",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_014",
+    "en": "Ma +4",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_015",
+    "en": "Ma +5",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_016",
+    "en": "Ag +1",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_017",
+    "en": "Ag +2",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_018",
+    "en": "Ag +3",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_019",
+    "en": "Ag +4",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_020",
+    "en": "Ag +5",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_021",
+    "en": "Lu +1",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_022",
+    "en": "Lu +2",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_023",
+    "en": "Lu +3",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_024",
+    "en": "Lu +4",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_025",
+    "en": "Lu +5",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_026",
+    "en": "+10 HP",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_027",
+    "en": "+20 HP",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_028",
+    "en": "+30 HP",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_029",
+    "en": "+40 HP",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_030",
+    "en": "+50 HP",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_031",
+    "en": "+10 SP",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_032",
+    "en": "+20 SP",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_033",
+    "en": "+30 SP",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_034",
+    "en": "+40 SP",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_035",
+    "en": "+50 SP",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_036",
+    "en": "Low chance of Confusion",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_037",
+    "en": "Medium chance of Confusion",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_038",
+    "en": "High chance of Confusion",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_039",
+    "en": "Low chance of Poison",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_040",
+    "en": "Medium chance of Poison",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_041",
+    "en": "High chance of Poison",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_042",
+    "en": "Low chance of Fear",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_043",
+    "en": "Medium chance of Fear",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_044",
+    "en": "High chance of Fear",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_045",
+    "en": "Low chance of Fury",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_046",
+    "en": "Medium chance of Fury",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_047",
+    "en": "High chance of Fury",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_048",
+    "en": "Low chance of Dizzy",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_049",
+    "en": "Medium chance of Dizzy",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_050",
+    "en": "High chance of Dizzy",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_051",
+    "en": "Low chance to Exhaust",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_052",
+    "en": "Medium chance to Exhaust",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_053",
+    "en": "High chance to Exhaust",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_054",
+    "en": "Low chance to Age",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_055",
+    "en": "Medium chance to Age",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_056",
+    "en": "High chance to Age",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_057",
+    "en": "Low chance to Magic Bind",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_058",
+    "en": "Medium chance to Magic Bind",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_059",
+    "en": "High chance to Magic Bind",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_060",
+    "en": "Critical rate up",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_061",
+    "en": "Critical rate up+",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_062",
+    "en": "Critical rate up++",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_063",
+    "en": "All stats +1",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_064",
+    "en": "All stats +2",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_065",
+    "en": "All stats +3",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_066",
+    "en": "All stats +4",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_067",
+    "en": "All stats +5",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_068",
+    "en": "Fire attack power increased by 25%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_069",
+    "en": "Ice attack power increased by 25%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_070",
+    "en": "Elec attack power increased by 25%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_071",
+    "en": "Wind attack power increased by 25%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_072",
+    "en": "Chance to reflect Phys",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_073",
+    "en": "Chance to reflect Phys+",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_074",
+    "en": "Chance to reflect Phys++",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_075",
+    "en": "Resistance against Confusion",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_076",
+    "en": "Resistance against Poison",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_077",
+    "en": "Resistance against Fear",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_078",
+    "en": "Resistance against Fury",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_079",
+    "en": "Resistance against Dizzy",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_080",
+    "en": "Resistance against Exhaust",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_081",
+    "en": "Resistance against Aging",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_082",
+    "en": "Resistance against Magic Bind",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_083",
+    "en": "+Auto-Tarukaja",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_084",
+    "en": "+Auto-Rakukaja",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_085",
+    "en": "+Auto-Sukukaja",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_086",
+    "en": "St +10",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_087",
+    "en": "En +10",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_088",
+    "en": "Ma +10",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_089",
+    "en": "Ag +10",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_090",
+    "en": "Lu +10",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_091",
+    "en": "+100 HP",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_092",
+    "en": "Chance of inflicting all ailments",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_093",
+    "en": "Chance of inflicting all ailments+",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_094",
+    "en": "Chance of inflicting all ailments++",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_095",
+    "en": "Physical damage reduced by 10%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_096",
+    "en": "Physical damage reduced by 20%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_097",
+    "en": "Physical damage reduced by 30%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_098",
+    "en": "Fire damage reduced by 10%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_099",
+    "en": "Fire damage reduced by 20%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_100",
+    "en": "Fire damage reduced by 30%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_101",
+    "en": "Ice damage reduced by 10%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_102",
+    "en": "Ice damage reduced by 20%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_103",
+    "en": "Ice damage reduced by 30%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_104",
+    "en": "Wind damage reduced by 10%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_105",
+    "en": "Wind damage reduced by 20%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_106",
+    "en": "Wind damage reduced by 30%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_107",
+    "en": "Elec damage reduced by 10%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_108",
+    "en": "Elec damage reduced by 20%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_109",
+    "en": "Elec damage reduced by 30%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_110",
+    "en": "Magic damage reduced by 10%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_111",
+    "en": "Magic damage reduced by 20%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_112",
+    "en": "Magic damage reduced by 30%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_113",
+    "en": "Reduce chance of stumble",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_114",
+    "en": "Slightly reduce chance of stumble",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_115",
+    "en": "Greatly reduce chance of stumble",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_116",
+    "en": "Phys dodge up+",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_117",
+    "en": "Phys dodge up",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_118",
+    "en": "Phys dodge up++",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_119",
+    "en": "Fire dodge up+",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_120",
+    "en": "Fire dodge up",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_121",
+    "en": "Fire dodge up++",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_122",
+    "en": "Ice dodge up+",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_123",
+    "en": "Ice dodge up",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_124",
+    "en": "Ice dodge up++",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_125",
+    "en": "Wind dodge up+",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_126",
+    "en": "Wind dodge up",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_127",
+    "en": "Wind dodge up++",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_128",
+    "en": "Elec dodge up+",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_129",
+    "en": "Elec dodge up",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_130",
+    "en": "Elec dodge up++",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_131",
+    "en": "Magic dodge up+",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_132",
+    "en": "Magic dodge up",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_133",
+    "en": "Magic dodge up++",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_134",
+    "en": "EXP +150%",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_135",
+    "en": "SP halved after battle",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_136",
+    "en": "Charisma",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_137",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_138",
+    "en": "+100 SP",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_139",
+    "en": "All stats +10",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_140",
+    "en": "SP costs tripled",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_141",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_142",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_143",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_144",
+    "en": "Resist Fire",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_145",
+    "en": "Resist Ice",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_146",
+    "en": "Resist Wind",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_147",
+    "en": "Resist Elec",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_148",
+    "en": "Reflect Fire",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_149",
+    "en": "Reflect Ice",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_150",
+    "en": "Reflect Wind",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_151",
+    "en": "Reflect Elec",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_152",
+    "en": "Drain Fire",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_153",
+    "en": "Drain Ice",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_154",
+    "en": "Drain Wind",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_155",
+    "en": "Drain Elec",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_156",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_157",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_158",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_159",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_160",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_161",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_162",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_163",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_164",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_165",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_166",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_167",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_168",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_169",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_170",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_171",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_172",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_173",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_174",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_175",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_176",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_177",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_178",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_179",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_180",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_181",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_182",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_183",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_184",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_185",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_186",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_187",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_188",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_189",
+    "en": "Fire attack up",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_190",
+    "en": "Ice attack up",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_191",
+    "en": "Wind attack up",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_192",
+    "en": "Elec attack up",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_193",
+    "en": "Fire damage down",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_194",
+    "en": "Ice damage down",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_195",
+    "en": "Wind damage down",
+    "fr": ""
+  },
+  {
+    "id": "addeffect_196",
+    "en": "Elec damage down",
+    "fr": ""
+  }
+]

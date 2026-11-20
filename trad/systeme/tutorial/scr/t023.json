@@ -1,0 +1,7 @@
+[
+  {
+    "id": "MSG_BTL_TUTORIAL_001",
+    "en": "Recover from your battle wounds via{SAUT}several options in the {f 0 1 2}X Button{f 0 1 0} menu.{PAGE}Use {f 0 1 2}healing items{f 0 1 0}, which are listed under{SAUT}the aptly named ITEM section.{SAUT}Remember, these will be consumed{SAUT}when you use them.{PAGE}Under SKILL, you can use the {f 0 1 2}healing{SAUT}skills{f 0 1 0} of your teammates. Doing this will{SAUT}consume some of their SP.{PAGE}When allies' HP hits 0, they are{SAUT}{f 0 1 2}unconscious{f 0 1 0}, and will remain so until a{SAUT}revival item or skill is used, or until you{SAUT}leave the labyrinth. When all party{SAUT}members lose consciousness, it is{SAUT}{f 0 1 2}Game Over{f 0 1 0}, so be careful!",
+    "fr": ""
+  }
+]

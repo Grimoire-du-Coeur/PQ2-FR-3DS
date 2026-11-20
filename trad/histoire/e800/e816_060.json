@@ -1,0 +1,127 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Naoto",
+    "en": "There's the container!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Now to look for that \"Next-Gen{SAUT}Mechanism\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "We looked inside the container...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Sheesh, nothin' but dust and mold... and{SAUT}now we're covered in it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "It seems the container's been left{SAUT}like this for some time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Well, we pulled everything out, but it{SAUT}looks like it's all just a buncha crap.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "......{PAGE}...Wait, what's this!?{PAGE}The excellent wiring, this exceptional{SAUT}design... What could this possibly be{SAUT}used for?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "It looks somewhat worn, but its aura is{SAUT}incredibly unique!{PAGE}There's no doubt about it! This is what{SAUT}we were looking for!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Naoto",
+    "en": "I think so too! So, this connects to here...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Let me take a look.{OPTION}Looks like you're having fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "Hold on, I'm going to try and capture{SAUT}the inspiration I felt when I first laid eyes{SAUT}upon it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "This material is rather peculiar... Is it{SAUT}some kind of alloy? What's the mixing{SAUT}ratio, I wonder?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "Aw, man... They're gonna be a while.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "This material is rather peculiar... Is it{SAUT}some kind of alloy? What's the mixing{SAUT}ratio, I wonder?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "All right, I'm going to try and capture the{SAUT}inspiration I felt when I first laid eyes{SAUT}upon it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "Man, they're in their own world right{SAUT}now... This could be a while.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Fuuka",
+    "en": "Aw, that's not fair... I want to see it too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "C'mon, the techie here wants a turn. We{SAUT}can't leave her out of it.{PAGE}Hey, you mecha nerds, come back here{SAUT}when you're done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "Hahaha! I could sketch this forever!{PAGE}This is a wellspring of inspiration! What{SAUT}a truly amazing device!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Naoto",
+    "en": "...Oh, I see! The drive system absorbs the{SAUT}energy here then converts it here and...",
+    "fr": ""
+  }
+]

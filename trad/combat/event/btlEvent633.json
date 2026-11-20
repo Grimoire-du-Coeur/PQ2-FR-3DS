@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Caroline",
+    "en": "Hahaha! We don't need any help{SAUT}to take you prisoners down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Justine",
+    "en": "You should feel honored, Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Caroline",
+    "en": "Hmph. Guess we went a little too{SAUT}easy on them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Justine",
+    "en": "...Then playtime is officially over.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Caroline",
+    "en": "Ngh... We're not done with you yet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Margaret",
+    "en": "My, I can't bear to watch this any{SAUT}longer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Justine",
+    "en": "...What is the meaning of this?{SAUT}We can still fight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Margaret",
+    "en": "*chuckle* Don't misunderstand me.{SAUT}There is a right and proper way{SAUT}to fight these battles.{PAGE}I will set an example for all of you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Margaret",
+    "en": "Have you really gained so much{SAUT}power...? I never expected this...{PAGE}Hmhm... Very well. Then I need{SAUT}hold nothing back anymore!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Caroline",
+    "en": "Eek!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Caroline",
+    "en": "...What's with that look, Inmates!?{SAUT}I'm not like I'm scared or anything!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Justine",
+    "en": "Caroline, you must concentrate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Margaret",
+    "en": "*chuckle* It's been quite a while{SAUT}since I felt such passion coursing{SAUT}through me. Marvelous indeed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Theodore",
+    "en": "From here on, I shall be stepping in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Caroline",
+    "en": "Wha...!? Don't get in our way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Theodore",
+    "en": "Goodness me, do you really expect{SAUT}to fight in that condition?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Justine",
+    "en": "...Perhaps we'd better settle down{SAUT}and accept his help...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Theodore",
+    "en": "Ngh... gah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Caroline",
+    "en": "Hah, phew... What's wrong, Theodore!?{SAUT}You were so quick to jump in{SAUT}before!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Justine",
+    "en": "Caroline, just look at them. The{SAUT}prisoners are clearly overpowering{SAUT}Theodore.{PAGE}If we let our guard down, we'll{SAUT}be next to fall.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Caroline",
+    "en": "Hmph! I know that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_080",
+    "locuteur": "Theodore",
+    "en": "Even united, the three of us cannot{SAUT}win against you... Commendable.{PAGE}...I leave the rest to you, Sister.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_081",
+    "locuteur": "Elizabeth",
+    "en": "The time has come. I, Elizabeth,{SAUT}shall be your opponent.{PAGE}...Though I would have preferred{SAUT}that time come a bit sooner.{PAGE}Now then, will you two be joining me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_082",
+    "locuteur": "Caroline",
+    "en": "Of course!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_083",
+    "locuteur": "Elizabeth",
+    "en": "That's the spirit. Now, here we come!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_090",
+    "locuteur": "Caroline",
+    "en": "Ha! What's wrong, Elizabeth?{SAUT}You getting tired out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_091",
+    "locuteur": "Elizabeth",
+    "en": "Caroline, we shall settle this after school.{SAUT}Bring your lunch money.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_092",
+    "locuteur": "Justine",
+    "en": "...At least you two seem to have{SAUT}energy to spare...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_093",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* Well, we rarely get to{SAUT}enjoy a fight of this caliber.{PAGE}Take it from me―you need to keep{SAUT}enough composure to enjoy it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_100",
+    "locuteur": "Elizabeth",
+    "en": "Well done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_110",
+    "locuteur": "Justine",
+    "en": "What a curious feeling...{SAUT}So this is \"fun,\" is it...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_111",
+    "locuteur": "Caroline",
+    "en": "Hmph. You gave us a good time,{SAUT}Inmates!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_112",
+    "locuteur": "Elizabeth",
+    "en": "A perfect victory... I offer you{SAUT}the highest praises, from the depths{SAUT}of my very heart.",
+    "fr": ""
+  }
+]

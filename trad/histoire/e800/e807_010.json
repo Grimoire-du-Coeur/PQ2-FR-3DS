@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "The time has come!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "Uh... for what?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Ever since you arrived in this world,{SAUT}you've faced one arduous struggle after{SAUT}another...{PAGE}With how far you've come, I believe you{SAUT}may now be strong enough to overcome{SAUT}this new challenge...{PAGE}I speak of none other than the next{SAUT}special screening!{PAGE}This time, you will be tasked with{SAUT}entering Kamo City and defeating the{SAUT}chicken FOE!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "You mean that big creep holding the{SAUT}chicken leg?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "That is correct.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Hah. This should be easy. We've already{SAUT}beat his kind before!{PAGE}It'll be business as usual, but with a{SAUT}greater reward. That sounds pretty{SAUT}good to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "At first, we had no choice but to run{SAUT}away... but we've grown a lot stronger{SAUT}since then.{PAGE}We can probably handle him now,{SAUT}don't you think? Let's give it a try.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "I would also like to take part in this{SAUT}special screening.{PAGE}I've been interested in that weapon of{SAUT}his for awhile now. Such an intriguing{SAUT}shape... It's almost like a slab of meat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Ohh, I just remembered!{PAGE}I knew I'd seen a huge hunk of meat{SAUT}somewhere! So that's where it was...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "Huge hunk of meat!?{PAGE}All right, let's take 'im out! That chicken{SAUT}is mine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "Edible art, hm...? I look forward to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P4 Hero",
+    "en": "...Sounds like he and Chie plan on{SAUT}eating it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "Yes... It would certainly seem{SAUT}that way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "Wait a minute. It may look like meat at{SAUT}first glance, but there's no guarantee it's{SAUT}edible...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Chie",
+    "en": "Eating is believing! We'll never know{SAUT}unless we try!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "Agreed. I can suppress neither my{SAUT}passion for art nor my passion for food.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "Geez, it sounds like they're dead set on{SAUT}eating that thing... Maybe you should{SAUT}say something.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "Defeating the FOE comes first.{OPTION}It's a meat buffet!{OPTION}Knock yourselves out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Chie",
+    "en": "Right, right, right! And then we get the{SAUT}meat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "What!? You're in on this too!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "A buffet! I like the sound of that!{SAUT}Let's hurry up and take it down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "Very well, we'll do as we please.{SAUT}I suggest we bring along some{SAUT}containers for the meat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Chie",
+    "en": "Oh! Me too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "Man, you guys really are set on doing{SAUT}this.{PAGE}Well, if it's FOE meat you want, I guess{SAUT}I oughta lend a hand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P4 Hero",
+    "en": "Yosuke... are you hungry too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yosuke",
+    "en": "I ain't lookin' to eat it!{PAGE}It's just... Well... I feel like it's time{SAUT}I start pulling my own weight again,{SAUT}you know?{PAGE}I was separated from everyone for all{SAUT}that time, so I haven't really had a{SAUT}chance to show my stuff.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* Monstrous appetites,{SAUT}lingering curiosity, and other complex{SAUT}motivations as well...{PAGE}Though your reasons may differ, you{SAUT}are all united in your resolve to see this{SAUT}through.{PAGE}However, remember that you will be{SAUT}facing an FOE... I ask that you please{SAUT}remain vigilant to the end.",
+    "fr": ""
+  }
+]

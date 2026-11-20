@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Marie",
+    "en": "Are we there yet...? I'm getting tired.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Want to head back?{OPTION}You can keep going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Marie",
+    "en": "No! I can keep going!{PAGE}I was just a little hungry. And kinda{SAUT}thirsty too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Marie",
+    "en": "...Okay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P4 Hero",
+    "en": "You don't have to push yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Marie",
+    "en": "I know. I'll let you know if I really{SAUT}can't keep up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "I've got just the thing for all your hard{SAUT}work, Emmy-chan...{PAGE}Ta-da! I present to you my secret stash{SAUT}of popcorn. And I've got some juice to{SAUT}wash it all down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "What the!? You still had a stash of{SAUT}that!? You better not have spilled{SAUT}in there!{PAGE}I'm the guy who has to wash the thing{SAUT}later!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Teddie",
+    "en": "I-I don't know what you're talking{SAUT}about.{PAGE}Never mind that. Have we found the{SAUT}flower yet?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Rise",
+    "en": "The road forks up ahead. It looks like{SAUT}there's a flower along each path.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "If I recall... I think the flower to the{SAUT}right was singing a cheerful song.{PAGE}The left one was singing a more cryptic{SAUT}tune, or perhaps I'd call it unique.{PAGE}Which one do we check?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "Let's go right.{OPTION}Let's go left.{OPTION}Let Marie decide.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Marie",
+    "en": "A fallen angel necessitates darkness,{SAUT}not light. But they say true darkness{SAUT}exists within the light...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "Sorry, Joker. She's in her own world{SAUT}again...{PAGE}It should be you who decides which{SAUT}path. Naturally, it would be best if{SAUT}it suited Marie's tastes...",
+    "fr": ""
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Aigis",
+    "en": "Target eliminated. Well done, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Heheh, that was nothin'! It was{SAUT}basically a bonus stage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Well, we do have Ms. Robot here!{SAUT}Everyone knows the best mechs got the{SAUT}white, red, and yellow thing goin' on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "Is that how things work in your world,{SAUT}Oracle? I comprehend.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Hero",
+    "en": "Good job, everyone. Let's head back{SAUT}and report.",
+    "fr": ""
+  }
+]

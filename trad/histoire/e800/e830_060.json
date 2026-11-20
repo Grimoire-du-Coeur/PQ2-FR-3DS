@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "That looks like the finish! We did it!{SAUT}We made it to the end!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Whew, that took forever. All that{SAUT}bouncing around's got me beat.{PAGE}So anyway, what was that \"GROW\"{SAUT}thing supposed to mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "Unbelievable. You came all this way{SAUT}without knowing what that meant?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Huh? Wait, don't tell me everyone{SAUT}else figured it out!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "They're colors.{OPTION}It's an acronym.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "That's right. Each letter in GROW is{SAUT}an abbreviation for one of the warp{SAUT}point colors.{PAGE}Green, red, orange, and white.{SAUT}If you take the first letter of each{SAUT}of these colors, they spell...{PAGE}\"GROW.\"{PAGE}So the paper was telling us to use{SAUT}the green, red, orange, and white{SAUT}warp points in that order.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "I noticed it once we picked up the{SAUT}paper and saw that the warp points{SAUT}were color-coded.{PAGE}As far as puzzles go, this is a fairly{SAUT}popular variant.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "O-Oh, right. Totally by-the-book,{SAUT}of course!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Y-Yeah! Psh, this is totally amateur{SAUT}hour, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "...You guys had no idea, did you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "Still, I think \"GROW\" is pretty{SAUT}appropriate.{PAGE}After all, we've all grown a little{SAUT}from what we went through, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "Man, I dunno how you say that{SAUT}kinda stuff with a straight face...{SAUT}Guess that's why you're my partner.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Rise",
+    "en": "Anyhow, mission complete! Let's{SAUT}head back and report in!",
+    "fr": ""
+  }
+]

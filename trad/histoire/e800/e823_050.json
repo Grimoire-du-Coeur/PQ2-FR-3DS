@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "That's number three! Just one more to{SAUT}go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "All right, I'm all warmed up. Let's end it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mitsuru",
+    "en": "This is beginning to feel like training...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* It is, isn't it?{PAGE}But thanks to both Shinjiro-senpai and{SAUT}Akihiko-senpai, this screening has been{SAUT}almost effortless!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mitsuru",
+    "en": "That's all thanks to your idea. I greatly{SAUT}appreciate it.{PAGE}Hm... So you're the leader over in your{SAUT}world, are you, {f 6 1 26 0 0 0}...?{PAGE}I think I know why now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mitsuru-senpai...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akihiko",
+    "en": "Number four's waiting for us! Get{SAUT}ready!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, right! Coming!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "*sigh* Let's go, then.",
+    "fr": ""
+  }
+]

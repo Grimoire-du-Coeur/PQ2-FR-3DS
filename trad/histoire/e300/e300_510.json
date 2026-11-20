@@ -1,0 +1,404 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ribbon-chan... Come on, Ribbon-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "What's wrong with her!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "She's not moving! That attack earlier{SAUT}must have done something to her...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Fuuka",
+    "en": "Oracle, can you see if there's anything{SAUT}you can do!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Yeah, I'll take a look!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Let's see... This is the back cover, and{SAUT}that's the touch sensor...{PAGE}...Ooh, is this it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "Sh-She's back!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Looks like the shock from that attack{SAUT}activated her sleep mode.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ribbon",
+    "en": "REBOOT COMPLETE... INITIATING{SAUT}DIAGNOSTIC SCAN...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ribbon",
+    "en": "MOBILITY, THOUGHT PROCESSING...{SAUT}ALL GREEN. SYSTEM NORMAL.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Oh, good! I'm glad you're alright,{SAUT}Ribbon-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm, I'm so relieved... Really...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ribbon",
+    "en": "-SAN, YOU ARE CRYING.{SAUT}ARE YOU SAD?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ribbon",
+    "en": "ACCORDING TO MY DATA, HUMANS{SAUT}SHED A SUBSTANCE CALLED TEARS{SAUT}WHEN THEY ARE SAD.{PAGE}THUS, YOU ARE SAD, CORRECT?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Hero",
+    "en": "That's complicated. People cry when{SAUT}they're sad, but sometimes when{SAUT}they're happy, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Teddie",
+    "en": "When my dinner tastes delicious, or{SAUT}when I'm having fun with everyone,{SAUT}that makes me want to cry, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P4 Hero",
+    "en": "True, we also cry when we feel relieved{SAUT}or especially moved.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ribbon",
+    "en": "YOU CAN BE MOVED TO TEARS BY{SAUT}BEING HAPPY? OR SAD? OR RELIEVED?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akechi",
+    "en": "I guess you could say there are many{SAUT}different emotions that can evoke such{SAUT}a reaction when felt intensely enough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ribbon",
+    "en": "SO IT CAN BE DIFFERENT EMOTIONS...{SAUT}PERHAPS THAT IS WHAT HAPPENED{SAUT}TO ME EARLIER?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Naoto",
+    "en": "To what are you referring?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ribbon",
+    "en": "THE OVERSEER CALLED ME AN ERROR.{SAUT}THIS IS A FACT―I AM, BY DEFINITION,{SAUT}ERRONEOUS―BUT, DESPITE THIS...{PAGE}HIS STATEMENT ONLY MADE MY{SAUT}THOUGHTS MORE COMPLEX AND MY{SAUT}CHEST GROW HOT. WHAT WAS THAT?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "It was rage.{OPTION}It was frustration.{OPTION}It was your rebel heart.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Shinjiro",
+    "en": "...Right. It's only natural to get pissed off{SAUT}if someone tries to deny your existence{SAUT}as an individual.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Kanji",
+    "en": "I get that...{PAGE}Someone else decidin' all on their own{SAUT}what you're supposed to be? That totally{SAUT}pisses me off too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Futaba",
+    "en": "Yeah. He denied the validity of your{SAUT}existence, Ribbon. Of course that{SAUT}worked you up enough to defy him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ribbon",
+    "en": "I SEE... EMOTIONS ARE COMPLEX AND{SAUT}DIFFICULT TO FULLY UNDERSTAND.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Akihiko",
+    "en": "Well, that's because you've got to{SAUT}experience 'em more to be able{SAUT}to figure 'em out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P3 Fem Protag",
+    "en": "But, I'm sure you'll work it out for{SAUT}yourself, Ribbon-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ribbon",
+    "en": "YES. I WISH TO COMPREHEND.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Overseer",
+    "en": "Attention, all units on patrol!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Junpei",
+    "en": "Wha―The Overseer!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Overseer",
+    "en": "Dangerous abnormalities are currently{SAUT}wreaking havoc within the facility.{SAUT}Increase security measures immediately.{PAGE}These errors are to be handled in an{SAUT}appropriate manner upon sight.{SAUT}Irregularity must be error-radicated!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yosuke",
+    "en": "What the hell!? I thought we beat him{SAUT}already!{PAGE}Wait... Don't tell me even that guy's{SAUT}mass-produced!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Naoto",
+    "en": "It's possible that a Mother Computer{SAUT}is behind all of this activity.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Ken",
+    "en": "A Mother Computer?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Akechi",
+    "en": "The master control unit that commands{SAUT}this world. They're fairly standard in{SAUT}sci-fi movies with robotic societies.{PAGE}That would mean the Overseer we{SAUT}defeated was only a portion of said{SAUT}computer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "P3 Hero",
+    "en": "In other words, until we destroy the{SAUT}root cause, this world can't be righted.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Futaba",
+    "en": "Yeah. The way things are going, Ribbon{SAUT}and the other robots are just gonna{SAUT}stay oppressed...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "P4 Hero",
+    "en": "Then there's only one thing{SAUT}for us to do now...{PAGE}Find the Mother Computer and shut{SAUT}it down. Does that sound like a plan?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_042",
+    "choix": true,
+    "en": "I was going to say that.{OPTION}Let's put an end to this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Morgana",
+    "en": "We're all on the same wavelength here.{SAUT}There's no need to fuss over it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Akihiko",
+    "en": "Right, let's take our fists to the source.{SAUT}No need to hold back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Ribbon",
+    "en": "LET'S DO THIS!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Junpei",
+    "en": "Woah! Gettin' fired up too, huh,{SAUT}Ribbon-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Ribbon",
+    "en": "YES. MY CHEST FEELS HOT AGAIN.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Yosuke",
+    "en": "Heh! But, you don't have any battle{SAUT}functions, right? Just leave the Mother{SAUT}Computer to us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Ribbon",
+    "en": "REGARDING THAT―ORACLE, IF I MAY{SAUT}SPEAK WITH YOU FOR A MOMENT...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Futaba",
+    "en": "What up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Futaba",
+    "en": "Wh-Whaaa―!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Ribbon",
+    "en": "YES. I DISCOVERED IT DURING A SELF-{SAUT}DIAGNOSTIC SCAN... WHAT DO YOU{SAUT}THINK?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Futaba",
+    "en": "I mean, I can hammer out a quick{SAUT}program rewrite for you, but... Do{SAUT}you really wanna do this, Ribbon?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Ribbon",
+    "en": "YES. I'M ASKING THIS OF MY OWN{SAUT}WILL.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Futaba",
+    "en": "Alright, Ribbon...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Yusuke",
+    "en": "Excuse me, you two―we need to get{SAUT}moving.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Futaba",
+    "en": "Ah―H-Hold on a sec!{PAGE}I wanna do a quick once-over of{SAUT}Ribbon's programming, just to make{SAUT}sure she didn't sustain any real damage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Makoto",
+    "en": "Well then, what say we wait until those{SAUT}two are ready?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Futaba",
+    "en": "Sorry, I'll make it super-fast. Just gimme{SAUT}a sec!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Ribbon",
+    "en": "ORACLE... I ENTRUST MYSELF TO YOU.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Mitsuru",
+    "en": "You know, we obtained a key card from{SAUT}the Overseer―where do you suppose{SAUT}it's used?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Akihiko",
+    "en": "We came across a locked door earlier.{SAUT}Maybe we can use it there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Mitsuru",
+    "en": "That's quite possible. If we can unlock{SAUT}that door, we may be able to proceed{SAUT}onward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Akihiko",
+    "en": "I don't know, but we should probably{SAUT}look for a place where we can try it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Mitsuru",
+    "en": "You're right. That could very well{SAUT}open up a new path for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Futaba",
+    "en": "And there... we... go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066_5",
+    "locuteur": "Futaba",
+    "en": "Sorry for the wait, folks. We can scoot{SAUT}whenever now!",
+    "fr": ""
+  }
+]

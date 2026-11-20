@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": "What is this room?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ken",
+    "en": "Look at that huge machine...{SAUT}Is it a projector?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "That seems to be accurate. I have{SAUT}confirmed four of them within{SAUT}visual range.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Ain't there somethin' weird about the{SAUT}light comin' from that projector?{PAGE}The colors seem all gross. Is the movie{SAUT}messed up somehow?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "It looks like it's the negatives of a film{SAUT}that are being screened.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "That's right. The reason that negatives{SAUT}make people feel sick is the inversion{SAUT}of colors flipping the light and dark...{PAGE}The film is de-inverted during printing,{SAUT}so in the end, the colors come out like{SAUT}you normally see them on the screen.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Oh, I see...{OPTION}Is there more to this?{OPTION}*snore*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "She can't help it, she's an enthusiast.{SAUT}Just be polite―smile, nod along...{SAUT}There you go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Hey, no dozing off! You have to listen{SAUT}until she's finished.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Since any inverted film is called{SAUT}\"negatives,\" re-reversed ones could{SAUT}be referred to as the \"positives.\"{PAGE}There's also something called \"reversal{SAUT}film\" that records positive images right{SAUT}away, instead of negative images...{PAGE}But movies tend to be shot in negatives{SAUT}because touch-ups and duplication are{SAUT}easier with that type of film.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "R-Right. I, uh... I didn't get any of that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Hikari",
+    "en": "Oh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "You seem to be quite an expert on{SAUT}the matter, Hikari-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Hikari",
+    "en": "Huh? Oh, um... I guess I get really{SAUT}worked up when talking about{SAUT}movies...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Shinjiro",
+    "en": "That's fine. Gettin' worked up over{SAUT}something you like is normal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "Hmm, negative images and positive{SAUT}images... Don't those remind you of{SAUT}something, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Negative emotions.{OPTION}Positive emotions.{OPTION}I don't know what you mean.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Exactly―that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Akechi",
+    "en": "Based on what we've experienced, they{SAUT}certainly seem like analogous concepts...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "I think he means in regards to positive{SAUT}and negative human emotions. They{SAUT}certainly seem like analogous concepts...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Y-Yeah, \"analogous concepts\"... Just like,{SAUT}uh... pork cheek and pork butt, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yosuke",
+    "en": "Do you have any clue what we're talking{SAUT}about? And is meat REALLY the only{SAUT}thing on your mind!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Haru",
+    "en": "Well, for example, cheerful people are{SAUT}called \"positive,\" while gloomy people{SAUT}are referred to as \"negative\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "Ahh, I get it. This is starting to make{SAUT}sense now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "What we really need to determine{SAUT}is where these negatives are being{SAUT}screened.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Rise",
+    "en": "Hmm... Do you think it has anything to{SAUT}do with the film that you're walking on?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yukari",
+    "en": "Oh, good point. This film covering the{SAUT}ground―is this more of the negatives?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Fuuka",
+    "en": "It seems to head into all sorts of{SAUT}directions. We'll keep looking into it.{PAGE}If we find anything out, we'll update{SAUT}you right away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Mitsuru",
+    "en": "Please do so.{PAGE}It seems we should leave our questions{SAUT}about this to our navigators. We have{SAUT}our own duties to carry out here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Ken",
+    "en": "Yes, let's get moving!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Is everybody ready?{PAGE}The location Elizabeth specified is a{SAUT}manhole just north of here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "If I remember right, we'll have to sneak{SAUT}by a bunch of searchlights to get there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "This kind of thing's the Phantom Thieves'{SAUT}specialty, right?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "We're used to this.{OPTION}Leave it to us.{OPTION}I say we charge right in!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Yes, avoiding detection is commonplace{SAUT}when infiltrating a Palace.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "How are you always so calm? It's almost{SAUT}disturbing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "*chuckle* We're counting on you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Yeah! At the end of the day, it's all{SAUT}about brute force!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "And you guys call yourselves phantom{SAUT}thieves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Kanji",
+    "en": "So we just gotta avoid gettin' spotted,{SAUT}right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Do you think you'll be all right? This is{SAUT}going to take precision and a good eye{SAUT}for subtleties.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Rise",
+    "en": "If that's the case, Kanji should be great{SAUT}at this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Kanji",
+    "en": "I-I ain't nothin' special...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukiko",
+    "en": "Chie is pretty nimble too. Maybe she'd{SAUT}be a good fit?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Chie",
+    "en": "Well, I am pretty athletic, but I'm not{SAUT}exactly graceful, you know...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Don't worry! Just follow my lead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Chie",
+    "en": "O-Okay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Teddie",
+    "en": "Hrrm... They seem to be getting along{SAUT}really well. I'm jealous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "Quit wasting time. We've got a manhole{SAUT}to find.",
+    "fr": ""
+  }
+]

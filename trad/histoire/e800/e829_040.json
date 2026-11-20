@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "You've defeated the almighty{SAUT}Tyranniqueen! Good work, warriors!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "Heh! Take that, shitbag! I don't wanna{SAUT}see your ugly face here ever again!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ken",
+    "en": "You can't say it like that, Kanji-san.{SAUT}Heroes don't curse like that.{PAGE}Try to have some finesse.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "O-Oh, yeah? All right then...{PAGE}Y-Yeah! How do you like that!? We are{SAUT}the Phoenix Rangers!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "Yeah, that's it! Okay, my turn!{PAGE}Villains don't stand a chance as long as{SAUT}the Phoenix Rangers are around!{SAUT}Featherman forever!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Nice.{OPTION}That was cool.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "Thanks! We did it by working together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ken",
+    "en": "Heheh, pretty heroic, right? This is a{SAUT}dream come true.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "The great tyrant was vanquished, and{SAUT}thus, peace was restored in Junessic Land.{PAGE}Next time on Phoenix Ranger{SAUT}Featherman, the heroes return to base!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "I'm not sure what's going on, but it{SAUT}looks like we're all done here. Let's head{SAUT}back.",
+    "fr": ""
+  }
+]

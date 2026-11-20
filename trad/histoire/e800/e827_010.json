@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "The time has finally come...{PAGE}Not only will we be able to decide{SAUT}the victor, we shall have a mountain{SAUT}of donuts...{PAGE}This is hitting eighty birds with one{SAUT}stone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "I'm not sure about the competition part,{SAUT}but getting to eat all the donuts we{SAUT}want sounds great.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Yeah. I'm almost worried we'll end up{SAUT}eating too much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Hero",
+    "en": "...Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "You guys have it hard.{OPTION}My condolences.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Hero",
+    "en": "We've come this far, and everyone{SAUT}seems pretty excited about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. So let's give it our best.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kanji",
+    "en": "S-Senpai... You're the manliest!",
+    "fr": ""
+  }
+]

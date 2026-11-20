@@ -1,0 +1,323 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "Phew... We're finally back... No more{SAUT}carnivores, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "No, I'm not sensing any around here.{SAUT}Looks like we can fish in peace.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "And because we led the FOE away from{SAUT}the area, the fish are still here.{PAGE}I bet we'll catch a really big one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "A big one, huh...? Okay, I'm ready.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Oh? You're starting to sound like a{SAUT}real hunter. {PAGE}With this many, I bet we can{SAUT}legitimately grab the fish outta the{SAUT}water! Go! Hunters of the Jungle!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "We decided to work together to catch{SAUT}some fish...{PAGE}......{PAGE}We managed to catch a really big one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Fuuka",
+    "en": "However... It looks like our fight with{SAUT}the FOE scared off some of the fish.{PAGE}Oh, but there's still a few here and{SAUT}there! Good luck, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P4 Hero",
+    "en": "They don't have to be big as long as{SAUT}they're tasty. Let's get to it, guys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "en": "We decided to work together to catch{SAUT}some fish...{PAGE}......{PAGE}We didn't see any big ones, but we{SAUT}still managed to round up a few{SAUT}reasonably-sized fish!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "We got the fish we wanted AND{SAUT}defeated the FOE! Three cheers for{SAUT}everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Shinjiro",
+    "en": "This'll be enough. Between the fish and{SAUT}the herbs, we should be able to make{SAUT}something decent.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Well, we have the ingredients and the{SAUT}cookware. The only thing left to do is{SAUT}cook.{PAGE}Now I'm getting hungry too. I wonder{SAUT}what he's gonna make!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "*chuckle* You know it'll be good if{SAUT}it's Shinjiro-senpai's cooking!{PAGE}Not only will it fill your stomach, but it'll{SAUT}also make you feel all fuzzy inside!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Shinjiro",
+    "en": "Huh...? Don't say shit like that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Junpei",
+    "en": "Ohh? Are you blushing, Shinjiro-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Shinjiro",
+    "en": "You wanna eat these raw, Junpei?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "C-C'mon, I was just joking! Sheesh...{SAUT}Can't you take a joke?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "This is it for me... I'm losing{SAUT}consciousness...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "Oh, whoops, I forgot about Fox.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018_02",
+    "locuteur": "Futaba",
+    "en": "Oh, whoops, I forgot about Fox.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "Ngh...! You bastard. How cowardly of{SAUT}you to ambush us wearing that lobster{SAUT}shell!{PAGE}I will not lose to a crustacean... Zzz...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Hm. Looks like he's ready to eat too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Shinjiro",
+    "en": "Psh... Jus' give me a sec, and I'll cook{SAUT}somethin' up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Shinjiro",
+    "en": "...Here, it's done. Eat it before it gets{SAUT}cold.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yusuke",
+    "en": "Oh... Ohhh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Chie",
+    "en": "Whoa! It smells just as good as it looks!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yusuke",
+    "en": "I-It's delicious!{PAGE}The mixture of the herbs and the sauce{SAUT}from the fish...! It's positively{SAUT}mouthwatering!{PAGE}Food is truly one of life's great joys―an{SAUT}art in and of itself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosuke",
+    "en": "I can't stop drooling. Where's ours?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Shinjiro",
+    "en": "Don't worry, there's enough for{SAUT}everyone, but you gotta wait your turn.{PAGE}This is yours, Koromaru. I put some{SAUT}aside just for you.{PAGE}It's hot. Don't burn your tongue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Koromaru",
+    "en": "Woof! Woof!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P3 Fem Protag",
+    "en": "*huff* *huff* It'f foooooo gooof!{PAGE}I just knew it would be good,{SAUT}Shinjiro-senpai! Oh, I'm so happy right{SAUT}now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Chie",
+    "en": "Man, it's like my chopsticks have a mind{SAUT}of their own! Seconds, please!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Morgana",
+    "en": "Meow~! Shinjiro! I want some more{SAUT}too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Shinjiro",
+    "en": "All right! Calm down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "en": "We enjoyed eating with everyone...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yusuke",
+    "en": "*sigh* I feel so alive.{PAGE}Sanada-san, Aragaki-san... I can't thank{SAUT}you enough. This was an amazing{SAUT}experience.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Akihiko",
+    "en": "You're putting too much praise on the{SAUT}food. It's Shinji you should be thanking.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Yusuke",
+    "en": "Right. It was delicious. I thank you both{SAUT}for allowing me to eat.{PAGE}However, that's not all I wish to be{SAUT}thankful for. The two of you also{SAUT}reminded me of something important.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Akihiko",
+    "en": "What's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yusuke",
+    "en": "Eating is more than just a way to satisfy{SAUT}one's hunger.{PAGE}It brings everyone together, and in{SAUT}doing so, satisfies one's heart.{PAGE}......{PAGE}This experience reminded me of the{SAUT}times I would sit around the table with{SAUT}my fellow apprentices.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_039",
+    "choix": true,
+    "en": "They must've been memorable.{OPTION}Do you feel lonely?{OPTION}Let's do it again sometime.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Yusuke",
+    "en": "Indeed. It was so long ago, I'd nearly{SAUT}forgotten... I'm glad I was able to{SAUT}recall this feeling.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Yusuke",
+    "en": "No, I have all of you now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Yusuke",
+    "en": "Absolutely. Just say the word, and I'll be{SAUT}there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Akihiko",
+    "en": "Heh... It's almost like we're family.{PAGE}We've had times like this too, huh,{SAUT}Shinji?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Shinjiro",
+    "en": "Hmph, can't say I remember...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Akihiko",
+    "en": "Psh... You might not remember, but I{SAUT}definitely do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Shinjiro",
+    "en": "That right? Good for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Akihiko",
+    "en": "I gotta say thanks as well, Fox.{PAGE}Thanks to you, I was able to eat{SAUT}Shinji's cooking for the first time{SAUT}in what feels like forever.{PAGE}If there's anything you ever need help{SAUT}with, just let me know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Yusuke",
+    "en": "Thank you. The same goes for you.{PAGE}Furthermore... I've a few more words of{SAUT}appreciation I'd like to give.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Shinjiro",
+    "en": "Yeah? What's up...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Yusuke",
+    "en": "Seconds, please!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Akihiko",
+    "en": "Heh... I admire that stomach of yours,{SAUT}Fox!{PAGE}I'm not about to let myself get showed{SAUT}up here. Hey, Shinji, I want seconds too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Shinjiro",
+    "en": "Great... Now I've got two of 'em to deal{SAUT}with.",
+    "fr": ""
+  }
+]

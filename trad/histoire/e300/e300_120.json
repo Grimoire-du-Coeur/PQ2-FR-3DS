@@ -1,0 +1,632 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "Whew! This place is massive. It feels{SAUT}like we've still got a long ways to go,{SAUT}too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "What, tired already?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "Nah, it's more of a mental thing.{SAUT}Exploring an unfamiliar place like this{SAUT}can get exhausting...{PAGE}But, I can definitely keep going!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "That raises a good point, though―we{SAUT}have quite a few members who are new{SAUT}to our process. We shouldn't overdo it.{PAGE}Let's take periodic breaks as we{SAUT}proceed. This would all be pointless{SAUT}if we drove ourselves to exhaustion.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mitsuru",
+    "en": "So, I've grown curious about you{SAUT}Phantom Thieves―does your attire{SAUT}not weigh you down?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "I've been wondering about that too...{PAGE}Parts of your costume, like the cape and{SAUT}the spikes, look so heavy―but you move{SAUT}around so quickly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Ooh, are we really going there?{PAGE}Cuz I wanna know too! What are{SAUT}the secrets behind your clothes?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "It's a long story...{OPTION}That's just how they're spec'd.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "True, it is rather difficult to explain...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "It's just how they're spec'd. Done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Heheh... If only I had a better{SAUT}explanation for it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yukiko",
+    "en": "I think they're great. Everyone's attire{SAUT}is really stylish, and suits them well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "Yes, our personalities are expressed{SAUT}quite clearly through them. I actually{SAUT}like mine quite a bit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukiko",
+    "en": "Crow, your mask looks like it does{SAUT}a good job guarding your nose.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Chie",
+    "en": "That's true, but wouldn't it poke anyone{SAUT}standing in front of him in the head?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukiko",
+    "en": "That just means it has solid offense and{SAUT}defense. When you consider that, I'd bet{SAUT}it's even better than gag glasses.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "Haha―thank you for the... praise,{SAUT}I guess?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yukari",
+    "en": "And, how about what you guys call each{SAUT}other, like Joker and Mona? Are they{SAUT}nicknames?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "They're our codenames.{OPTION}They're our spirit names.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "That's right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "C'mon! They're codenames!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ken",
+    "en": "Codenames... How do you pick those?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "It's mostly based on how our outfits{SAUT}look or make us feel. Do you guys want{SAUT}some too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Junpei",
+    "en": "Aw, yeah! I was just thinking it's about{SAUT}time for me to take up a title!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akihiko",
+    "en": "So, they're like ring names... That doesn't{SAUT}sound half bad. I'll take one too, if you{SAUT}don't mind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Naoto",
+    "en": "Didn't we already learn where this{SAUT}kind of conversation leads us...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ann",
+    "en": "C'mon, it'll be fun. You gotta go with{SAUT}the flow!{PAGE}So, if we base it off how Sanada-san{SAUT}looks, maybe... Boxer?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yukari",
+    "en": "Isn't that kinda straightforward? The{SAUT}first codename that comes to my mind{SAUT}for him is Protein...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Shinjiro",
+    "en": "Yeah, just go with that. He even loves{SAUT}dumping protein powder on his rice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Akihiko",
+    "en": "Give me a break! Can you even think of{SAUT}a codename for me that doesn't have to{SAUT}do with protein, Shinji?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Shinjiro",
+    "en": "Even if I took the time to think one up,{SAUT}you'd still just go on and on about{SAUT}protein anyway! Why should I bother?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Akihiko",
+    "en": "Wha―Don't make it sound like that's{SAUT}the only thing I talk about!{PAGE}I'm only so particular about protein{SAUT}because it's the primary nutrient that{SAUT}the body needs to―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay, so Akihiko-senpai is Protein!{PAGE}Now, how about Miss Pink for Yukari?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yukari",
+    "en": "Huh? I'm getting one too!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yosuke",
+    "en": "Ooh, that's spot-on! It's got that air of{SAUT}authority to it, but it sounds cute, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P3 Fem Protag",
+    "en": "Right? Plus, her outfits and accessories{SAUT}are overwhelmingly pink.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yukari",
+    "en": "Hey, how'd you know that!?{PAGE}Oh, right―you already know me.{SAUT}I forgot... Sorry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Ken",
+    "en": "U-Um... Can Koromaru and I get{SAUT}codenames too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Haru",
+    "en": "Amada-kun is a spear wielder, so{SAUT}perhaps... Lancer? Is that too plain?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P3 Fem Protag",
+    "en": "If Yukari's Miss Pink, then how about{SAUT}Mister Black for Ken-kun?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Ken",
+    "en": "Mister Black... Not bad.{PAGE}Even in Featherman, Black is depicted as{SAUT}a cool, \"lone wolf\" type with a high level{SAUT}of maturity...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "P3 Fem Protag",
+    "en": "Plus, you're always trying so hard to{SAUT}make yourself like black coffee!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Ken",
+    "en": "Huh? You even know that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Yusuke",
+    "en": "Let's see... For Koromaru, how about,{SAUT}Hellbeast Summoned from the Infernal{SAUT}Depths!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Koromaru",
+    "en": "*whine*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Futaba",
+    "en": "Looks like your names are a little too{SAUT}next-level for the dog scene, Inari.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Junpei",
+    "en": "Alright, me next, me next! So, what kind{SAUT}of codename do you think fits me best?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_049",
+    "choix": true,
+    "en": "Goatee.{OPTION}Geezer.{OPTION}Ace Detective.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Junpei",
+    "en": "Is that all you see me as!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Yukiko",
+    "en": "That's way too obvious... Snrk―{SAUT}Heehee... Aha, ahahahaha!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Haru",
+    "en": "*giggle* Come now... It's rude to laugh{SAUT}at that, Yukiko-chan... *giggle*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Kanji",
+    "en": "You two are havin' too much fun{SAUT}with this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Morgana",
+    "en": "Yup.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "P3 Fem Protag",
+    "en": "Junpei's not a geezer. He's just a high-{SAUT}schooler who only looks exactly like{SAUT}a geezer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Junpei",
+    "en": "You're not helping! If anything, you{SAUT}went in for the kill...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Junpei",
+    "en": "Oho, you know me too well!{PAGE}But, shortening that to Ace sounds{SAUT}a lot cooler and fitting, amirite? Let's{SAUT}shorten it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Futaba",
+    "en": "Then we'll shorten it―to Geezer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Junpei",
+    "en": "How did THAT happen!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "P3 Fem Protag",
+    "en": "Now, for Shinjiro-senpai's codename...{SAUT}How about Brood?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Shinjiro",
+    "en": "Huh!? Are you sayin' I'm moody or{SAUT}somethin'?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "P3 Fem Protag",
+    "en": "No, it's not that! You take such good{SAUT}care of us―especially Koromaru! So,{SAUT}you're sort of like our brood mother...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Shinjiro",
+    "en": "Wha―You―What're you...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Shinjiro",
+    "en": "Don't take HER side, Koro-cha―{SAUT}Ahem―Koromaru!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Ryuji",
+    "en": "So, the guy loves dogs, but he keeps it{SAUT}a secret, huh...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Fuuka",
+    "en": "You really know everyone so well,{SAUT}{f 6 1 27 0 0 0}-chan. It's amazing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "P3 Fem Protag",
+    "en": "I know all about you too, Fuuka.{SAUT}Let's see, Fuuka's codename...{PAGE}Maybe Hacker? Or, Killer Chef?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Futaba",
+    "en": "But \"hacker\" is my deal too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Yosuke",
+    "en": "Oh―in that case, \"killer chef\" is the{SAUT}deal for the girls on our team, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Chie",
+    "en": "EXCUSE me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Fuuka",
+    "en": "Oh... So, the me in your world isn't that{SAUT}great at cooking either...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "P3 Fem Protag",
+    "en": "Uhhh, not great isn't quite the idea...{SAUT}It's more like, it could result in{SAUT}a murder investigation?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_074",
+    "locuteur": "Yukari",
+    "en": "You're being way too honest right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_075",
+    "locuteur": "Junpei",
+    "en": "But, wow! I guess we really are pretty{SAUT}much the same in your world, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_076",
+    "locuteur": "Mitsuru",
+    "en": "All right everyone, I believe that's enough{SAUT}chatting. We should get going and―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_077",
+    "locuteur": "Junpei",
+    "en": "Oh! We don't have one for{SAUT}Mitsuru-senpai yet. Got anything,{SAUT}{f 6 1 27 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_078",
+    "locuteur": "P3 Fem Protag",
+    "en": "C'est Magnifique... No, that's more of{SAUT}a phrase than a codename. Oh! How{SAUT}about Execution Queen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_079",
+    "locuteur": "Mitsuru",
+    "en": "What!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_080",
+    "locuteur": "Yukari",
+    "en": "Oh, you're right... Mitsuru-senpai does{SAUT}say \"execute\" a lot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_081",
+    "locuteur": "Mitsuru",
+    "en": "Please, stop this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_082",
+    "locuteur": "Akihiko",
+    "en": "Anyway―you really do know us well,{SAUT}don't you, {f 6 1 27 0 0 0}?{PAGE}Even I'm starting to feel like she's always{SAUT}been a part of our group.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_083",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah... I'm surprised too.{PAGE}Everyone here is exactly like the{SAUT}companions that I know...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_084",
+    "locuteur": "Junpei",
+    "en": "Then, should we give you a codename{SAUT}too, {f 6 1 27 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_085",
+    "locuteur": "P3 Fem Protag",
+    "en": "...Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_086",
+    "locuteur": "Junpei",
+    "en": "I mean, I don't really know what it'd be,{SAUT}but we shouldn't leave you out as the{SAUT}only person without one!{PAGE}Hey, {f 6 1 30 0 0 0}―can you come up{SAUT}with a codename for {f 6 1 27 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_087",
+    "choix": true,
+    "en": "Headphones.{OPTION}Spunky.{OPTION}Dazzling Demon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_088",
+    "locuteur": "Futaba",
+    "en": "But, Yosuke and I have headphones too.{SAUT}Wouldn't that be confusing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_089",
+    "locuteur": "Fuuka",
+    "en": "Oh, our own leader wears headphones{SAUT}as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_090",
+    "locuteur": "Yosuke",
+    "en": "If someone called out, \"Headphones!\"{SAUT}and all four of us turned around, it'd{SAUT}be like some kind of skit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_091",
+    "locuteur": "Ann",
+    "en": "True, she's always so bright and cheery.{SAUT}Just being around her lifts our spirits.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_092",
+    "locuteur": "P3 Fem Protag",
+    "en": "Eh? Really? Ahaha, that's embarrassing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_093",
+    "locuteur": "Futaba",
+    "en": "She's like some kind of social goddess.{SAUT}She's so full of energy that it's honestly{SAUT}blinding to someone like me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_094",
+    "locuteur": "P3 Fem Protag",
+    "en": "Dazzling Demon...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_095",
+    "locuteur": "Akechi",
+    "en": "Calling a lady a demon is a bit over{SAUT}the line, don't you think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_096",
+    "locuteur": "P3 Fem Protag",
+    "en": "That is so cool and scary! I love it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_097",
+    "locuteur": "Akechi",
+    "en": "Wha... She likes it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_098",
+    "locuteur": "Mitsuru",
+    "en": "Good heavens... Is everyone satisfied{SAUT}now?{PAGE}Enough playing around―it's time for us{SAUT}to get moving again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_099",
+    "locuteur": "Junpei",
+    "en": "Aww, but what about our codenames?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_100",
+    "locuteur": "Mitsuru",
+    "en": "There's no real reason for us to use{SAUT}codenames.{PAGE}In fact, any confusing names could cause{SAUT}problems when issuing commands.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_101",
+    "locuteur": "Ken",
+    "en": "Yeah, I guess that's true... It just feels{SAUT}like a bit of a bummer, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_102",
+    "locuteur": "P3 Fem Protag",
+    "en": "Still, it made me so happy that you{SAUT}wanted to give me a codename too...{SAUT}Thank you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_103",
+    "locuteur": "Yukari",
+    "en": "Oh, it wasn't any big deal, but if you{SAUT}like it, uh... You're welcome, I guess?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_104",
+    "locuteur": "Morgana",
+    "en": "Looks like this was a useful rest for{SAUT}everybody. Well then, let's head out.",
+    "fr": ""
+  }
+]

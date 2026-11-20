@@ -1,0 +1,55 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "What in the hell? There's somethin'{SAUT}weird lyin' here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Ahhhh, how magnificent! The hue,{SAUT}the luster, the form... It's overflowing{SAUT}with aesthetic sensibility!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Come on, Fox... Do we have to do this{SAUT}again? It's got a hole in it―it's trash!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "Maybe, but it could also potentially{SAUT}be of use to us.{PAGE}Why don't we have Theodore take{SAUT}a look at it when we get back to{SAUT}the movie theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Noir's right. It'd be a waste to pitch it{SAUT}before having it appraised...{PAGE}True art is often overlooked by the{SAUT}untrained eye.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "My intuition is saying... *purr*{SAUT}This is... Mrow-ow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "Considering Mona's reaction... there{SAUT}seems to be there's no mistake that{SAUT}this is a Treasure.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Alright, alright! Then... you hold onto it,{SAUT}Joker.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "en": "We should go consult Theodore when{SAUT}we return to the movie theater...",
+    "fr": ""
+  }
+]

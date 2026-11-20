@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akihiko",
+    "en": "Two down, two to go. That one wasn't{SAUT}so bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Shinjiro",
+    "en": "Yeah, well, it ain't over yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akihiko",
+    "en": "Sorry, Shinji, but this competition is{SAUT}mine. No hard feelings, all right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Shinjiro",
+    "en": "Yeah, sure... Dumbass.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mitsuru",
+    "en": "Stop it, you two! Aren't you{SAUT}embarrassed, acting like that in front of{SAUT}the underclassmen!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akihiko",
+    "en": "Don't worry, Mitsuru. Shinji'll calm{SAUT}down once this is all over.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Shinjiro",
+    "en": "Oh, like I'm gonna lose? You're gonna{SAUT}eat those words, you little shit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* Okay, let's go! Onto the third{SAUT}one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "Ugh... I can't watch...",
+    "fr": ""
+  }
+]

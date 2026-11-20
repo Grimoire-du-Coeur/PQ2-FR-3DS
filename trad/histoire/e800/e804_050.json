@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Damn...! It's still standing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Ugh, give it a rest already!{PAGE}Fine, I'll finish you off with my secret{SAUT}kung fu technique!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Wha―!? Wait, Chie-chan! I'm coming{SAUT}too!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Wait!{OPTION}It's too dangerous!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Too late! They're already gone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "Don't worry, Chie's usually pretty tough{SAUT}in these situations. They'll be fine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Chie",
+    "en": "Here goes! Hiiiyah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "M-Me too! Here I go! Hiiiyah!",
+    "fr": ""
+  }
+]

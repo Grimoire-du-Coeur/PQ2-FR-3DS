@@ -1,0 +1,206 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Nanako",
+    "en": "Do you think everyone will like{SAUT}the food I made?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "Of course they will.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Nanako",
+    "en": "Mmhm!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "Wassuuup! Heheh, are we on time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "Nana-chaaan! Your Teddie has{SAUT}arrived!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "Hey, Teddie! Don't go glomping her!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Gaaah! I haven't done anything... yet...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Nanako",
+    "en": "Oh, you're here too, Yukiko!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukiko",
+    "en": "Hi, Nanako-chan. You seem like you're{SAUT}in a good mood.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Nanako",
+    "en": "*giggle* I was cooking with big bro!{PAGE}I made sunny-side up eggs and rolled{SAUT}omelettes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "Welcome in, guys. Feel free to make{SAUT}yourselves at home.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Kanji",
+    "en": "Thanks! Don't mind if I do...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "Anything good on TV?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Rise",
+    "en": "Oh, it says there's gonna be a rerun{SAUT}of a movie after this. I'm surprised{SAUT}it's not just another soap opera.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "It looks like it'll be a dinosaur movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Nanako",
+    "en": "Ooh, really!?{PAGE}I love movies with dinosaurs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Kanji",
+    "en": "You like those kinda movies? That rules,{SAUT}Nanako-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Nanako",
+    "en": "Um, I actually saw this one with Dad{SAUT}in the movie theater!{PAGE}The main dinosaur looks like Yosuke!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "Wait, for real!? What kind of dinosaur{SAUT}is that!?{PAGE}Man, this is definitely the first time I've{SAUT}been told I look like a dinosaur...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "Heheh... A dinosaur that looks like{SAUT}Yosuke-kun... Ahahahaha!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P4 Hero",
+    "en": "Would you like to watch this movie{SAUT}with us, Nanako?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Nanako",
+    "en": "Can I!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "If Nana-chan wishes it so, then none{SAUT}may object!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P4 Hero",
+    "en": "Well, the food's all ready. Can you guys{SAUT}help me carry these dishes over?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yosuke",
+    "en": "Gotcha. You better not sneak any,{SAUT}Teddie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "*gulp* How did he know!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Chie",
+    "en": "Let's see, let's see, allow me to give{SAUT}this here a little taste test...{PAGE}Oooh! This is incredible,{SAUT}Nanako-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Kanji",
+    "en": "What're you sneakin' bites for,{SAUT}Chie-senpai?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Nanako",
+    "en": "Really!? It's good?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Teddie",
+    "en": "You're as spectacular a cook as Sensei,{SAUT}Nana-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yosuke",
+    "en": "Seriously, I'm so glad you didn't take{SAUT}after certain others we know...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "P4 Hero",
+    "en": "Yeah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Rise",
+    "en": "Hey―did you just shoot us a look,{SAUT}Senpai!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Nanako",
+    "en": "Oh! The movie's about to start!",
+    "fr": ""
+  }
+]

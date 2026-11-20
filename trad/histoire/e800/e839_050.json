@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "A house on a dead end... Well, this{SAUT}looks promising.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "Yeah, this has to be it. I sense{SAUT}something inside the house.{PAGE}...It's here! The precious item I forgot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Careful, you've attracted the attention{SAUT}of some Shadows! They're not about to{SAUT}just let you walk on past!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "Hey, no skin off our nose. Let's give 'em{SAUT}what they came for!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Just watch, Hikari-chan. The Phantom{SAUT}Thieves' famed cleanup hitter Junpei{SAUT}Iori is up to bat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Look alive, guys! Whatever Hikari's lost,{SAUT}we're getting it home to her, safe and{SAUT}sound!",
+    "fr": ""
+  }
+]

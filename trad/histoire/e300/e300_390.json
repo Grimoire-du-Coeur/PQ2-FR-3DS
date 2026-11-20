@@ -1,0 +1,374 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Hero",
+    "en": ".{SAUT}It's nice to meet you.{PAGE}And you're the one who's been leading{SAUT}everyone here, right?{PAGE}Would it be okay for me to ask you{SAUT}to continue on as our leader and{SAUT}give me commands as well?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Leave it to me.{OPTION}I don't care.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Hero",
+    "en": "Thanks, I'll leave it to you then.{PAGE}Is everyone okay with that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "Yes. We're the newcomers in this place.{SAUT}The wisest strategy would be to follow{SAUT}their lead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "Koromaru seems to agree. I also have{SAUT}no objections.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukari",
+    "en": "What the―It's like he's doing an{SAUT}impression of somebody he just{SAUT}met!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Hero",
+    "en": "Really? Do I say that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "You should know!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Hero",
+    "en": "Well, in any case, you're in charge.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Hero",
+    "en": "Now, we need to try and figure a few{SAUT}things out―mainly about her and{SAUT}myself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "-chan recognizes{SAUT}everyone else in SEES, but they{SAUT}don't know her... Is that it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm. The only one that I don't know{SAUT}is {f 6 1 16 0 0 0}-kun... or at least,{SAUT}I think so...{PAGE}But, when I first saw him... he didn't{SAUT}feel at all like a stranger to me.{PAGE}I can't explain it well, but it was{SAUT}almost like nostalgia... or some{SAUT}kind of closeness.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Junpei",
+    "en": "Ooooooh! Is she about to confess her{SAUT}feelings for him!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukari",
+    "en": "*sigh* You really can't get your mind{SAUT}off that stuff, can you? What a simple{SAUT}boy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "But you don't know anything about{SAUT}{f 6 1 27 0 0 0} either―right,{SAUT}{f 6 1 16 0 0 0}?{PAGE}So we don't have any clues to work with!{SAUT}Even an Ace Detective like me couldn't{SAUT}solve this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "I'm not sure I understand, but those{SAUT}people in blue had said that normally,{SAUT}they aren't supposed to cross paths.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Hero",
+    "en": "Well, I have to admit: I feel the same way{SAUT}{f 6 1 27 0 0 0} does...{PAGE}I've never met her, or talked to her...{SAUT}But, for some reason, I feel like I know{SAUT}her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukari",
+    "en": "Same here―for all of us. We've already{SAUT}mentioned to each other that it doesn't{SAUT}feel like our first time meeting her...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Hero",
+    "en": "In her world, I'm the only one that{SAUT}wasn't in SEES. That would mean...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Hero",
+    "en": "She is me, and I'm her... possibly?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yosuke",
+    "en": "Wha―What are you talking about!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Teddie",
+    "en": "Hmhm... So, it's like how I am also such{SAUT}a pretty boy, and that pretty boy is{SAUT}also me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Chie",
+    "en": "Stay outta this! Don't make it even more{SAUT}confusing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "I'm him, and he's me...?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_026",
+    "choix": true,
+    "en": "That's got to be it.{OPTION}I don't get it.{OPTION}They seem to agree.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Teddie",
+    "en": "Ooooh! Does that mean they're of{SAUT}one flesh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Teddie",
+    "en": "Aww, how innocent... Their declarations{SAUT}are truly proof that they're of one flesh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Teddie",
+    "en": "*squeal* They've made their electrifying{SAUT}declarations to each other―that proves{SAUT}they're of one flesh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Teddie",
+    "en": "*whistle* You two are so intimate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Junpei",
+    "en": "A boy and a girl, coming of age in two{SAUT}different worlds―never meant to meet...{PAGE}However, through a twist of fate, their{SAUT}paths have crossed and nothing will{SAUT}be the same!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Akihiko",
+    "en": "Hey, now's not the time to be making{SAUT}movie trailers.{PAGE}This problem affects you too, right?{SAUT}You should be more serious about this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yukari",
+    "en": "Hmm... Those blue people might know{SAUT}something, but―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Aigis",
+    "en": "The residents of the Velvet Room,{SAUT}correct?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ken",
+    "en": "Aigis-san!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Shinjiro",
+    "en": "Are you sure you should be walkin'{SAUT}around already?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Aigis",
+    "en": "Yes, I'm fully recovered. I apologize{SAUT}for worrying everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Fuuka",
+    "en": "What a relief... Now all our members{SAUT}are safe.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Theodore",
+    "en": "Excuse me―my apologies for rudely{SAUT}interrupting your rejoicing of your{SAUT}friend's recovery...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Elizabeth",
+    "en": "We sensed as if someone was calling{SAUT}for us, and so we have made ourselves{SAUT}present.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "P3 Hero",
+    "en": "Elizabeth... Would you happen to know{SAUT}anything about what's going on with us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Elizabeth",
+    "en": "No. Unfortunately, I know nothing in{SAUT}satisfactory detail...{PAGE}...Except that {f 6 1 27 0 0 0} came to{SAUT}this theater, and this realm, through{SAUT}the Velvet Room.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Akechi",
+    "en": "There is meaning to this phenomenon.{SAUT}After all, nothing meaningless happens{SAUT}there, correct?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Margaret",
+    "en": "Most assuredly.{PAGE}If this meeting was a necessity, then{SAUT}the reason should eventually reveal{SAUT}itself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "P3 Fem Protag",
+    "en": "A necessary meeting, eh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Mitsuru",
+    "en": "So, there's a meaning to all of us{SAUT}gathering here from different{SAUT}dimensions...{PAGE}In all honesty, I've yet to fully grasp it{SAUT}myself... but I do know one thing.{PAGE}The help of everyone present is required{SAUT}for us to leave this movie theater.{PAGE}And this, of course, applies to you{SAUT}as well, {f 6 1 26 0 0 0}. Will you{SAUT}fight alongside us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mitsuru-senpai...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Ryuji",
+    "en": "Heheh, looks like that wrapped up{SAUT}real nice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Justine",
+    "en": "To think this many with the power of the{SAUT}wild card would converge... This is quite{SAUT}the spectacle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Kanji",
+    "en": "Whoa! You scared the shit outta me!{SAUT}You're so tiny, I didn't even{SAUT}see ya there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Caroline",
+    "en": "Did you just call us tiny!? Watch your{SAUT}mouth, you bottle-blond gorilla!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Kanji",
+    "en": "Whaaa...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Yukiko",
+    "en": "Snrk... Heehee... Kanji-kun, a gorilla...{SAUT}Pfft... Ahaha! Ahahahahahaha!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Haru",
+    "en": "*giggle* Y-You shouldn't laugh at that,{SAUT}Yukiko-chan... *giggle*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Hikari",
+    "en": "Heheh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Kanji",
+    "en": "You're all so cruel...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Nagi",
+    "en": "This movie theater used to be too quiet...{SAUT}It's grown so lively now that everyone's{SAUT}gathered here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Caroline",
+    "en": "This will be a test of your leadership,{SAUT}Inmate. Band together with your{SAUT}companions well―or else!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_059",
+    "choix": true,
+    "en": "I will.{OPTION}This is all too much for me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Justine",
+    "en": "This is easier said than done. Prove{SAUT}yourself with your actions.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Justine",
+    "en": "We won't permit you to neglect your{SAUT}duties.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Morgana",
+    "en": "Well, it looks like we've got ourselves{SAUT}some new companions.{PAGE}We should make sure to prepare them{SAUT}before heading back into the movie.",
+    "fr": ""
+  }
+]

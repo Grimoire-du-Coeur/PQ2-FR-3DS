@@ -1,0 +1,7 @@
+[
+  {
+    "id": "MSG_TUTORIAL_TREASURE_BO",
+    "en": "Mark the chest's location on the map{SAUT}with a {f 0 1 2}treasure chest icon{f 0 1 0}.{PAGE}Note that you can also see {f 0 1 2}whether the{SAUT}treasure chest is open or not{f 0 1 0}.",
+    "fr": ""
+  }
+]

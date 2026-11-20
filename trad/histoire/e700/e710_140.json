@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "I'm getting another Shadow reading{SAUT}from beyond this door.{PAGE}I don't think you can avoid fighting it...{SAUT}Ready to go, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Let's go.{OPTION}One sec...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Very well―let's do this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Good idea. It's best to head in once{SAUT}we're fully prepared.",
+    "fr": ""
+  }
+]

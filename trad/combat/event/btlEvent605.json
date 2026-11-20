@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "New enemies... They have a rather{SAUT}interesting shape to them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Well, I'm sure it'll be a breeze if we{SAUT}figure out their weaknesses, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Actually... these guys are more{SAUT}aggressive than the ones from before.{SAUT}Be careful, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_605_003",
+    "locuteur": "Futaba",
+    "en": "I'm always recording data from our{SAUT}attacks on the Shadows.{PAGE}Lemme know if you ever wanna check it{SAUT}out.",
+    "fr": ""
+  }
+]

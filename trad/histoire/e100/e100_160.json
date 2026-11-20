@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Well done in returning, my minions!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Well, that stuff you mentioned about{SAUT}the door got us all curious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari",
+    "en": "I'm so glad you're safe...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Oh, you were worried about us! Thank{SAUT}you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "Huh? Um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Oh... Sorry, was it something I said?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Nagi",
+    "en": "I'm sure that's not the case... Hikari-san{SAUT}must not be used to all of this yet,{SAUT}that's all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Hikari...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "By the way, Futaba―what's the situation{SAUT}with the powerful unknown presence{SAUT}you mentioned earlier?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Yeah, about that―I'm sensing{SAUT}a mysterious power in the{SAUT}test screening room here.{PAGE}It's an odd presence I've never felt{SAUT}before, and I'm picking up some{SAUT}weird noises, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Is it something dangerous, like the FOEs?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "I'm pretty sure... it's different.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "You haven't any idea either,{SAUT}Nagi-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Nagi",
+    "en": "Correct―while she claims that{SAUT}something is in there, I have{SAUT}no clue what it could be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "This is rather peculiar. We should look{SAUT}into it ourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "Who knows what we'll find on the other{SAUT}side, though―we should be cautious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "You two should remain here for your{SAUT}own safety. We'll investigate this and{SAUT}report back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Nagi",
+    "en": "Very well. Please don't endanger{SAUT}yourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "Okay, let's get going.",
+    "fr": ""
+  }
+]

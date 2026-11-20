@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "Too easy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "Well, that should've given you a good{SAUT}idea of our strength. Looking forward{SAUT}to that feedback, Queen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "All right! Time to head back!",
+    "fr": ""
+  }
+]

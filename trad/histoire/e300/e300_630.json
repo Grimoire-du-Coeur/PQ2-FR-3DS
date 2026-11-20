@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Aigis",
+    "en": "Have you recovered?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Hero",
+    "en": "Ribbon... Thank goodness you booted{SAUT}back up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "How are you? Do you remember who{SAUT}you are?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ribbon",
+    "en": "I AM... UIY-2249...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "Ah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ribbon",
+    "en": "...No, I am Ribbon―Ribbon is my name.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Ribbon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosuke",
+    "en": "Hell yeah! We did it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ribbon",
+    "en": "What was I...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Aigis",
+    "en": "You were severely drained due to{SAUT}activating Orgia Mode, and there was{SAUT}an issue with your boot sequence.{PAGE}That is why we temporarily connected{SAUT}you to my system and attempted a{SAUT}restoration that way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Mitsuru",
+    "en": "It was a gamble, but it seems to have{SAUT}been successful.{PAGE}But, to think that you had an Orgia{SAUT}Mode too... Was that your doing,{SAUT}Oracle?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "Mweheheh! All I did was help to release{SAUT}the limiters on it.{PAGE}I simply rewrote the programming{SAUT}so Ribbon could activate it at will.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ribbon",
+    "en": "Yes, I chose to fight alongside you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akihiko",
+    "en": "Heh, that's an admirable attitude. Looks{SAUT}like you've changed quite a bit, Ribbon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "And it's thanks to you that the Mother{SAUT}Computer is gone. You're free now.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "Good job, everyone.{OPTION}Now what happens?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "Indeed. However, this isn't the real{SAUT}end of everything.{PAGE}What will become of this world{SAUT}and Ribbon-san now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Naoto",
+    "en": "That's a good question. What do you{SAUT}plan on doing now, Ribbon-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ribbon",
+    "en": "I believe, eventually, more of my{SAUT}companions will emerge with{SAUT}individualities.{PAGE}To prepare for when that time comes,{SAUT}I want to create a world where we can{SAUT}live together, rather than be eliminated.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Morgana",
+    "en": "Ooh, that's amazing! We'll be cheering{SAUT}you on! Right, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_022",
+    "choix": true,
+    "en": "We leave this world to you.{OPTION}You can do it, Ribbon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ribbon",
+    "en": "Thank you. I promise to make this{SAUT}dream become a reality here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Aigis",
+    "en": "That is an admirable goal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ribbon",
+    "en": "Aigis-san, thank you in particular...{PAGE}We are both robots, but you were so{SAUT}free that I was very confused at first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P3 Hero",
+    "en": "Did you hear that, Aigis?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Aigis",
+    "en": "I am not special. However, speaking{SAUT}hypothetically, if there were something{SAUT}special about myself...{PAGE}Then these companions would certainly{SAUT}still accept me―for who I really am.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ribbon",
+    "en": "They would... still accept you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Futaba",
+    "en": "We're not the only ones who think this{SAUT}way, either. I'm sure there'll be others{SAUT}who'll accept you the way you are.{PAGE}That's why you should make some new{SAUT}companions too. If you do that, I'm sure{SAUT}every day will be filled with fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Aigis",
+    "en": "Ribbon-san, please hold onto what{SAUT}makes you \"special.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ribbon",
+    "en": "Yes... I will do my best!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Aigis",
+    "en": "I am pleased to hear it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Futaba",
+    "en": "Become the best robot ever, Ribbon!{SAUT}Promise me you'll do that, okay!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Ribbon",
+    "en": "I promise, Oracle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034_5",
+    "locuteur": "Ribbon",
+    "en": "Thank you to everyone else as well.{SAUT}Please take care...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ken",
+    "en": "There she goes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P3 Fem Protag",
+    "en": "So, I guess we've closed this case, huh?{SAUT}We turned the ending into a happy one...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yosuke",
+    "en": "Ooh, now this is rare. Are you getting{SAUT}all wistful too, {f 6 1 27 0 0 0}-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm... I feel like I'm overwhelmed{SAUT}with emotions.{PAGE}Ribbon-chan had been alone all this{SAUT}time... I guess I kept comparing my own{SAUT}situation to hers.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_039",
+    "choix": true,
+    "en": "Are you okay?{OPTION}Are you feeling lonely?{OPTION}None of us are alone here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P3 Fem Protag",
+    "en": "Thanks, but I'm alright! Plus, this wasn't{SAUT}a sad ending.{PAGE}Ribbon-chan will be able to feel like{SAUT}she belongs now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040_3",
+    "locuteur": "P3 Fem Protag",
+    "en": "...And that makes me so happy for her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040_5",
+    "locuteur": "Mitsuru",
+    "en": "Hm... You sound almost as if you're{SAUT}describing yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Teddie",
+    "en": "If you need to cry, I'll lend you my chest.{SAUT}Come now, let it all out onto Teddie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha, thanks, but I'm okay. After all,{SAUT}this wasn't a sad ending.{PAGE}Ribbon-chan will be able to feel like{SAUT}she belongs now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042_5",
+    "locuteur": "P3 Fem Protag",
+    "en": "...And that makes me so happy for her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Mitsuru",
+    "en": "Hm... You sound almost as if you're{SAUT}describing yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Mitsuru",
+    "en": "Yes, that's right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Mitsuru",
+    "en": "It's only natural that you couldn't help{SAUT}but sympathize with Ribbon―she felt{SAUT}all alone in her world as well...{PAGE}But now, neither of you are really{SAUT}alone, no?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Mitsuru",
+    "en": "As someone who fights alongside us,{SAUT}you have proven your loyalty and{SAUT}dependability enough to earn our trust.{PAGE}If you wish for me to put it clearly into{SAUT}words, I believe I can speak for all of us{SAUT}when I say that you are our companion.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mitsuru-senpai...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Junpei",
+    "en": "That's right. And what's more, you can{SAUT}rely on me more than the me you know,{SAUT}y'know?{PAGE}I am the true hero fated to save{SAUT}the world! Leave it to me, THE Junpei{SAUT}Iori! ...Well, A Junpei.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Yukari",
+    "en": "Ugh, my stomach's churning at the mere{SAUT}thought of multiple Junpeis...{PAGE}Even one's too many for our existence.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Junpei",
+    "en": "Hey! If there was one less of me,{SAUT}I wouldn't exist at all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahahaha!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Fuuka",
+    "en": "*giggle* Well then, I hope we can grow{SAUT}to be even closer companions from{SAUT}here on out.{PAGE}I'll do my best with the backup, so let's{SAUT}do what we can to escape this world!",
+    "fr": ""
+  }
+]

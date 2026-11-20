@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kamoshidaman",
+    "en": "I've been... so conceited all this time.{PAGE}I abused my power, believing that{SAUT}oppressing the citizens would benefit{SAUT}the whole of society...{PAGE}But it's because of this power that{SAUT}I must not mistake the purpose of{SAUT}my authority!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA!{PAGE}The new Kamoshidaman shall never{SAUT}mistreat a troubled citizen again!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosukesaurus",
+    "en": "Who cares if we've all got different{SAUT}opinions? We just have to talk it out,{SAUT}heart to heart.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosukesaurus",
+    "en": "Sheesh, everyone's talking all at once.{SAUT}This conversation's going nowhere...{PAGE}Then again, it's pretty fun to decide{SAUT}how to do things this way.{PAGE}It really is nice having companions{SAUT}that you can be open with.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ribbon",
+    "en": "I AM... who I am.{PAGE}I am Ribbon―lover of flowers and{SAUT}everyone in my life...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ribbon",
+    "en": "I think flowers are pleasant... I think{SAUT}flowers are pretty... Everyone feels{SAUT}differently about all sorts of things...{PAGE}Being different is not erroneous.{SAUT}It proves that I truly am myself...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "High school Hikari",
+    "en": "I tried to convince myself that I had no{SAUT}choice but to be who everyone wanted{SAUT}me to be...{PAGE}And I kept watching those distorted{SAUT}movies to make myself forget who{SAUT}I really am inside...{PAGE}But, I won't run from myself anymore!{SAUT}I'll change this movie and get out of{SAUT}here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "High school Hikari",
+    "en": "Dad... I swear I'll send you that{SAUT}invitation someday!",
+    "fr": ""
+  }
+]

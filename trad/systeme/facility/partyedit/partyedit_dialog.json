@@ -1,0 +1,47 @@
+[
+  {
+    "id": "OK_SEL",
+    "choix": true,
+    "en": "OK",
+    "fr": ""
+  },
+  {
+    "id": "YESNO_SEL",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "YESNO_SEL_TEAM_EDIT_CANC",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "YESNO_SEL_NAVI_EDIT_CANC",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "YESNO_SEL_REGISTRATION_C",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "EDIT_CANCEL",
+    "en": "Do you want to leave without changing{SAUT}the party formation?",
+    "fr": ""
+  },
+  {
+    "id": "NAVI_EDIT_CANCEL",
+    "en": "Exit without changing navigators?",
+    "fr": ""
+  },
+  {
+    "id": "REGISTRATION_CANCEL",
+    "en": "Leave without registering party?",
+    "fr": ""
+  }
+]

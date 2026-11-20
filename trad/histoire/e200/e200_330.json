@@ -1,0 +1,188 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Hey, so... Even if we find those{SAUT}herbivores again, is it gonna do us{SAUT}any good?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "You mean, are they actually going to{SAUT}listen to what we have to say?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Yeah―like, they seemed pretty mad{SAUT}at us. They even kicked us out of their{SAUT}group.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "They believe that majority rule has kept{SAUT}them alive in this world...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_5",
+    "locuteur": "Naoto",
+    "en": "I can understand why they couldn't{SAUT}forgive us for taking their methods{SAUT}of survival so lightly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "But, if we're gonna change this movie...{PAGE}Won't it be impossible unless we change{SAUT}that kinda thinking?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "*sigh* How are we gonna do that,{SAUT}though? Should we grill up some nice{SAUT}steaks to try to win them over?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "That'd only work on you, Chie. Those{SAUT}guys are herbivores, anyhow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P4 Hero",
+    "en": "They didn't seem all that receptive to{SAUT}persuasion, either. We need a way{SAUT}to change their minds...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "Those dinosaurs are quite the mystery...{SAUT}Why are they so adamant on denying{SAUT}alternative possibilities?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Haru",
+    "en": "...I think it's due to the fact that they're{SAUT}all scared.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Scared?{OPTION}I think I get it.{OPTION}Even though they're dinosaurs?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "Well, I guess you could say they'd rather{SAUT}go with the flow. They're scared to break{SAUT}away from the crowd and stand out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Haru",
+    "en": "Yeah, I guess you could say they'd rather{SAUT}go with the flow. They're scared to break{SAUT}away from the crowd and stand out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Haru",
+    "en": "Well, the size of their bodies and{SAUT}the strength of their hearts are{SAUT}separate matters...{PAGE}I guess you could say they'd rather go{SAUT}with the flow. They're scared to break{SAUT}away from the crowd and stand out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "That's true―having to follow the{SAUT}crowd, getting expectations and{SAUT}labels shoved onto you...{PAGE}Resisting that kind of stuff takes a lot{SAUT}out of you and really beats you down{SAUT}over time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kanji",
+    "en": "Ohhh, I getcha...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Makoto",
+    "en": "Going along with the crowd is much{SAUT}easier, and you don't have to take{SAUT}responsibility for any outcomes.{PAGE}That was the same approach to{SAUT}problem-solving as the last movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Naoto",
+    "en": "Using majority rule to make decisions{SAUT}isn't necessarily wrong...{PAGE}But, being unable to even speak your{SAUT}own mind, solely because you're in{SAUT}the minority? That's just...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "It's unfair.{OPTION}It's suffocating.{OPTION}It's boring.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "Mmhm. Different opinions should be{SAUT}welcomed, regardless of numbers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "Right!? Having your opinion shut down{SAUT}all because it's different from others{SAUT}is just the effin' worst...{PAGE}Of course different people are gonna{SAUT}have different opinions!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "Indeed. If everyone were to adhere{SAUT}to the same methods and beliefs,{SAUT}nothing new would ever arise.{PAGE}Diversity should be more valued.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "Yeah―like how we're all companions,{SAUT}but each one of us has a different way{SAUT}of thinking and feeling about things...{PAGE}But, if we all talked it out properly,{SAUT}I know we'd be able to reach{SAUT}the best solution.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "Being able to say what's on your mind,{SAUT}even though it might go over badly...{PAGE}I guess that's just a kind of courage{SAUT}those dinosaurs don't have.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Teddie",
+    "en": "Yosukesaurus looked so troubled when{SAUT}the herd was voting...{PAGE}I think, deep down, he didn't really{SAUT}want to kick us out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, he was definitely hesitant. In the{SAUT}end there, it seemed like he had to really{SAUT}convince himself to fall in line.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "So, he didn't have the courage to take{SAUT}that one small step...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Morgana",
+    "en": "Mrow-ow-ow!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Chie",
+    "en": "Whoa, that scared the crap out of me...{SAUT}What WAS that, anyway!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Akechi",
+    "en": "It sounded like something large falling{SAUT}down nearby. We should investigate,{SAUT}Joker.",
+    "fr": ""
+  }
+]

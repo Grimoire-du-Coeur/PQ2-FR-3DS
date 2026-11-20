@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Dinosaur with headphones",
+    "en": "I-I've been saved... Thank you so much!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "That was a close one. Are you hurt?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Dinosaur with headphones",
+    "en": "Nope―all good, partner!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "He... He just called {f 6 1 13 0 0 0}-kun{SAUT}partner? Could this guy really be{SAUT}Yosuke?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "Well, his silly face and vibe definitely{SAUT}scream \"Yosuke\"...{PAGE}But, on the other paw, something about{SAUT}him just seems off...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Dinosaur with headphones",
+    "en": "Wh-Why are you guys staring at me?{SAUT}Is there something on my face?{PAGE}Y'know, I've never actually seen anyone{SAUT}like you before! Are you some new type{SAUT}of small dinosaur?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "Um... We're human.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Dinosaur with headphones",
+    "en": "Wait, human... Wait! HUMAN!?{SAUT}Like the ones that made us, then{SAUT}up and disappeared?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "That's most likely the scenario within{SAUT}this movie... but I suppose you wouldn't{SAUT}understand that.{PAGE}In any case, we're different from your{SAUT}human creators.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukiko",
+    "en": "We're here looking for our friend...{PAGE}Have you seen him anywhere? His face,{SAUT}uh, looks exactly like yours.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Dinosaur with headphones",
+    "en": "Exactly like mine? But, I'm not human―{SAUT}I'm a dinosaur!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Kanji",
+    "en": "Look, we don't really get it either, but{SAUT}you two have the same face. So, have{SAUT}you seen him?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Dinosaur with headphones",
+    "en": "Nope, I sure haven't... I think.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Sulky herbivore",
+    "en": "Hey, everyone―it's okay to come out{SAUT}now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Loud herbivore",
+    "en": "Really? Are they gone?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Nervous herbivore",
+    "en": "I think so... At least, it seems safe...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Dinosaur with headphones",
+    "en": "Oh, everyone's back―I'll try asking them{SAUT}about your human friend.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "...Hey, aren't you at all upset with{SAUT}them? They ditched you here without{SAUT}a second thought!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Dinosaur with headphones",
+    "en": "Not really―I mean, it's kinda my fault{SAUT}for falling behind... If everyone else can{SAUT}survive, there's nothing else I can do.{PAGE}But since they've come back, I'd feel{SAUT}more comfortable sticking with them,{SAUT}anyway.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Haru",
+    "en": "Oh, I see...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Dinosaur with headphones",
+    "en": "Thanks for worrying about me, though.{SAUT}Well, I'll go ask them now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Chie",
+    "en": "A Yosuke-lookalike dinosaur, huh...{SAUT}I guess he wasn't the real deal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yukiko",
+    "en": "This is getting confusing... He doesn't{SAUT}seem to be Yosuke-kun, so why don't{SAUT}we name his species?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Chie",
+    "en": "Name the species? Oh, you mean like{SAUT}some Whatever-saurus kind of name?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Teddie",
+    "en": "Ooh―let me, let me! I think{SAUT}\"Junesaurus\" sounds quite{SAUT}majestic!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yukiko",
+    "en": "Whenever I think about Yosuke-kun,{SAUT}\"the Prince of Disappointment\" comes{SAUT}to mind, so... Disappointmentsaurus?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_026",
+    "choix": true,
+    "en": "So, he's disappointing, huh...{OPTION}Let's make it a bit briefer.{OPTION}What about Partnersaurus?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Chie",
+    "en": "Eheheh... Yosuke's a disappointment,{SAUT}but it balances out because he's{SAUT}a prince, too, see?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P4 Hero",
+    "en": "He may be my partner, but that doesn't{SAUT}apply to everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Chie",
+    "en": "Then, why don't we simplify it and just{SAUT}call him \"Yosukesaurus\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Teddie",
+    "en": "Ooh, Yosukesaurus! We get to name{SAUT}a newly-discovered species!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Akechi",
+    "en": "Actually, I don't believe he's part of a{SAUT}new species―shouldn't he only be{SAUT}considered a special case in this movie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Haru",
+    "en": "Oh, do you mean like what happened{SAUT}with Kamoshidaman?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Kanji",
+    "en": "Huh? What are you talkin' about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Makoto",
+    "en": "This phenomenon occurred in{SAUT}the previous movie as well...{PAGE}For some reason, a character in it had{SAUT}been replaced with a person that{SAUT}looked like someone we know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Naoto",
+    "en": "So, the dinosaur with Yosuke-senpai's{SAUT}face didn't originally look like that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Makoto",
+    "en": "Most likely, it changed because{SAUT}you all entered the film.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yosukesaurus",
+    "en": "Heeeey! I asked everyone else and I got{SAUT}a firsthand account of someone who fit{SAUT}your description!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Naoto",
+    "en": "Is that so?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Yosukesaurus",
+    "en": "But... He was super quick. They lost sight{SAUT}of him right after they spotted him.{PAGE}According to one of them, he didn't{SAUT}seem to be injured, or anything like{SAUT}that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P4 Hero",
+    "en": "I see―glad to hear it. Well, sounds like{SAUT}he's safe.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Chie",
+    "en": "Thanks for asking, Yosukesaurus!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Yosukesaurus",
+    "en": "...Hm? Huh? Yosukesaurus?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_043",
+    "choix": true,
+    "en": "That's you.{OPTION}Do you not like it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Yosukesaurus",
+    "en": "Huh! You humans are interesting!{SAUT}Nobody's ever called me by{SAUT}a name before.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Yosukesaurus",
+    "en": "Nah, it feels pretty cool! Nobody's{SAUT}ever called me by a name before.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Naoto",
+    "en": "Well, we still need to find your{SAUT}namesake...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Yosukesaurus",
+    "en": "Then, why don't you come with us?{SAUT}We're looking for \"paradise.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "P3 Fem Protag",
+    "en": "What do you mean by that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Yosukesaurus",
+    "en": "Apparently, there's a place far from here{SAUT}with no carnivores that's supposed to be{SAUT}a paradise for us!{PAGE}Looks like the human you're looking for{SAUT}went in the same direction that we're{SAUT}heading, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Akechi",
+    "en": "A place of peace and repose, with no{SAUT}carnivores... That was mentioned in{SAUT}the movie's trailer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Makoto",
+    "en": "If we follow them, we may eventually{SAUT}be able to change the movie's ending.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "P4 Hero",
+    "en": "All right―if that's the case, then{SAUT}we'll go with you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Yosukesaurus",
+    "en": "Really? Well, glad to have you,{SAUT}partner!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Chie",
+    "en": "Even though I know he's just a Yosuke{SAUT}copy, he's so similar to the guy that{SAUT}it's kinda freakin' me out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Morgana",
+    "en": "I guess you'll just have to get used to it.{SAUT}Now, let's get outta here.",
+    "fr": ""
+  }
+]

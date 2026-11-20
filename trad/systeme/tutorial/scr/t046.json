@@ -1,0 +1,22 @@
+[
+  {
+    "id": "msg000_MSG",
+    "en": "When you {f 0 1 2}sell material{f 0 1 0} from a labyrinth,{SAUT}{f 0 1 2}new items might become available{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "msg001_MSG",
+    "en": "Some of these new items may require{SAUT}{f 0 1 2}multiple units of the same material{f 0 1 0}.{PAGE}{f 0 1 2}WANTED{f 0 1 0} will appear next to an item{SAUT}that needs more material from the{SAUT}labyrinth to make it available.",
+    "fr": ""
+  },
+  {
+    "id": "msg002_MSG",
+    "en": "Press the {f 0 1 2}Y Button{f 0 1 0} to see more details{SAUT}of the materials you are lacking.{PAGE}The details will tell you {f 0 1 2}how and where{SAUT}to obtain the material{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "msg003_MSG",
+    "en": "Just remember; when you sell your{SAUT}materials, not only will you receive{SAUT}money, but a new item might get{SAUT}manufactured. So always check to see if{SAUT}you can buy anything new.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Our target destination is up ahead.{PAGE}There are tons more searchlights{SAUT}compared to the previous areas...{SAUT}And, I'm even sensing FOEs further in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "So we gotta avoid those huge FOEs, all{SAUT}while dodgin' the searchlights...{PAGE}Well, I think we should leave the orders{SAUT}up to Joker, as usual... We're relying on{SAUT}you to get us through this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "We can't afford to mess this up. Let's{SAUT}proceed even more cautiously through{SAUT}here.",
+    "fr": ""
+  }
+]

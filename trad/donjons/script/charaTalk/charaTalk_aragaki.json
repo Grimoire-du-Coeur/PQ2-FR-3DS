@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Shinjiro",
+    "en": "Looks like we can gather stuff here.{SAUT}What's your call?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Shinjiro",
+    "en": "Got it. Just keep your eyes peeled.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Shinjiro",
+    "en": "Yeah, we're in the clear. Let's take a{SAUT}look.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Shinjiro",
+    "en": "Got it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Shinjiro",
+    "en": "Looks like that's all of 'em.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Huh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "We'll be takin' that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Shinjiro",
+    "en": "We're done here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Impressive.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Good for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Hey, that's rare, ain't it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Shinjiro",
+    "en": "A shortcut, huh...? What do we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Shinjiro",
+    "en": "Tch... Can't go this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Shinjiro",
+    "en": "I got a bad feeling about this place...{SAUT}What're you thinkin'?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Shinjiro",
+    "en": "All right. Let's do it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Shinjiro",
+    "en": "Good choice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Shinjiro",
+    "en": "That was tough. Good thing it's over...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Shinjiro",
+    "en": "Sensin' Shadows nearby. What's the{SAUT}plan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Shinjiro",
+    "en": "All right, let's check it out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Shinjiro",
+    "en": "Yeah, sure.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Shinjiro",
+    "en": "Sheesh, I had a feelin' they'd show up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Shinjiro",
+    "en": "We headin' back to the theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ah, a sight for sore eyes! Should we{SAUT}take advantage of this Treasure Spot?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "Leave lookout duty to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay! Time to hunt down some loot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay. Some other time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "A great haul for us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Yay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Perfect.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Oooh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "That was close! But we managed to{SAUT}make out like bandits!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "We're livin' the high life now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Now that really IS treasure!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Lucky us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "A hidden passage! Should we break on{SAUT}through to the other side?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hm? Looks like this is a no-go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "I've got a bad feeling about this...{SAUT}What do you think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay. Let's exercise caution!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, who knows what'll come{SAUT}jumping out at us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "I-I was caught totally off guard...{SAUT}Is everyone okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "This place is crawling with Shadows.{SAUT}What should we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "Roger that! Let's search, but also be{SAUT}smart about it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Fem Protag",
+    "en": "You're right. Let's not!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "I think that's everything? Maybe?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hey! This is our chance to go back{SAUT}to the theater, if you want!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

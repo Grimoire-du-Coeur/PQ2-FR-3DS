@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Guys, just a sec! I'm sensing a presence{SAUT}beyond that door... It's different from{SAUT}anything we've encountered so far.{PAGE}Just to be sure you're ready for anything{SAUT}that could happen, you might want to{SAUT}check if you're fully prepared...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "So there's a mystery presence past that{SAUT}door? That's so scary... Do we really{SAUT}have to go that way?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Let's go.{OPTION}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "F-Fine, then, uh... You can lead the way,{SAUT}Joker! After you, eheheh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Did you hear that, Joker? You've been{SAUT}called upon for the task.{PAGE}You won't let the lady down, will you?{SAUT}We'll all be right behind you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Caution is a vital survival skill. If you're{SAUT}uncertain of our success, let's prepare{SAUT}ourselves before entering.",
+    "fr": ""
+  }
+]

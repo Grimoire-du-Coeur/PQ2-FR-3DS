@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Whoa... I can already feel that{SAUT}Tyranniqueen looking down at me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Our target is the Tyranniqueen―two of{SAUT}them, to be exact.{PAGE}Everyone's clear on the goal here, right?{SAUT}Find those FOEs and bring 'em down!{SAUT}Easy as 1-2-3!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mitsuru",
+    "en": "A battle against an FOE without any{SAUT}gimmicks or tricks... Sounds easy{SAUT}enough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Go, go, Phoenix Rangers! For the safety{SAUT}of Junessic Land!",
+    "fr": ""
+  }
+]

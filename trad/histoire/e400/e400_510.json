@@ -1,0 +1,554 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Hikari",
+    "en": "Dad... Dad, Dad!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari's father",
+    "en": "Hikari...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ken",
+    "en": "Huh!? Doe is Hikari-san's dad!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "This is really crazy―let's just watch{SAUT}for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "Why... Why couldn't I remember you,{SAUT}Dad?{PAGE}How could I do such a thing to you?{PAGE}You only ever supported me, too...{SAUT}I'm so sorry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari's father",
+    "en": "Hikari...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "Dad... It took some time for me to figure{SAUT}it out...{PAGE}But, I'm not going to mistreat myself{SAUT}anymore. No matter what other people{SAUT}say about me, I won't deny who I am.{PAGE}I've learned it's okay for me to simply{SAUT}be myself. Everyone here taught me{SAUT}that―and you did too, Dad.{PAGE}I won't hide my desires anymore, and{SAUT}I'll work to make my dream come true...{PAGE}So, please... come see my movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari's father",
+    "en": "Of course. I'm looking forward to it{SAUT}already.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "I promise I'll send you this invitation!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Ah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "He disappeared...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Wha―Hey, he just vanished!{SAUT}Is something wrong!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Rise",
+    "en": "I'm not totally sure, but it seems alright.{PAGE}I think that was more like an illusion{SAUT}that Hikari-chan's consciousness had{SAUT}created.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "An illusion?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "I bet it's the same as what happened{SAUT}in my Palace―he was a false image{SAUT}born from her distorted cognition.{PAGE}Because Hikari's cognition was warped,{SAUT}Doe took on a form that differed from{SAUT}her dad's true self...{PAGE}This place seems a little different from{SAUT}the Palaces, but it's definitely related{SAUT}to Hikari's cognition somehow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Mitsuru",
+    "en": "So, because her cognition was{SAUT}corrected, Doe returned to his original{SAUT}appearance resembling her father...{PAGE}Still, why did Doe look the way he{SAUT}did in the first place?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "A person's imagination can grow{SAUT}distorted due to their mental state.{SAUT}That's why...{PAGE}If you only use negative emotions when{SAUT}conceiving others, even your own{SAUT}parents can seem like monsters.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "That's right. We've repeatedly seen it{SAUT}in the flesh.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "Oh... I'm starting to remember...{PAGE}About my dad and me... It's all coming{SAUT}back...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yosuke",
+    "en": "Need us to lend an ear or two?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Kanji",
+    "en": "If you've gotta spill the beans, then go{SAUT}for it. Wouldn't it make you feel better?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Hikari",
+    "en": "You'll all... really listen to me?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_022",
+    "choix": true,
+    "en": "Of course we will.{OPTION}Give us the abridged version.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari",
+    "en": "Thank you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Hikari",
+    "en": "Ah, alright... I'll do my best.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P3 Hero",
+    "en": "It's okay―take your time. Just go at{SAUT}your own pace.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Hikari",
+    "en": "My dad's a projectionist. He loves{SAUT}movies, and he's shown me tons{SAUT}of them since I was born.{PAGE}\"Your life is a movie where you have{SAUT}the leading role. That's why you need{SAUT}to make it exceptionally wonderful.\"{PAGE}He would always say that while filming{SAUT}me. He told me to be the star...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Fuuka",
+    "en": "What a wonderful father.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Hikari",
+    "en": "Mmhm. But, before I knew it... I had{SAUT}grown scared of being open with him.{PAGE}The person that my dad hopes for me{SAUT}to be is a confident one―like the lead{SAUT}in a musical, loved by all...{PAGE}But I started to think that doesn't suit{SAUT}me, since I was always sticking out like{SAUT}a sore thumb and nervous about it... ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Mitsuru",
+    "en": "You felt you couldn't let down{SAUT}the person dearest to you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Hikari",
+    "en": "Every time someone criticized my{SAUT}actions or my desires, I would lose{SAUT}more confidence in myself...{PAGE}I just felt like I couldn't say anything{SAUT}about it to my dad.{PAGE}Even when the whole class was against{SAUT}me in elementary school, or when I{SAUT}became an outcast in middle school...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Teddie",
+    "en": "But, your daddy seemed so worried{SAUT}about you, Hikarin!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Hikari",
+    "en": "I think the more he worried about me,{SAUT}the worse I felt about what I was{SAUT}going through.{PAGE}It only got worse after I entered high{SAUT}school... Even my relatives told me that{SAUT}I was being an inconvenience to my dad.{PAGE}I didn't want him to hate me or be any{SAUT}trouble for him, so that's why I decided...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Junpei",
+    "en": "But... your dad never said that to you{SAUT}straight up, right?{PAGE}In that case, you shoulda just had{SAUT}a heart-to-heart talk with him{SAUT}about it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Haru",
+    "en": "...It's not always that easy.{PAGE}You can't worry your father with your{SAUT}problems when he has so many other{SAUT}important responsibilities.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Morgana",
+    "en": "Oh, Noir...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Hikari",
+    "en": "I felt like I had nearly reached my{SAUT}breaking point... And it was when I was{SAUT}feeling my worst that Dad said to me:{PAGE}\"Why do you have to be like that?\"{PAGE}When I heard that, everything went{SAUT}gray... It felt like he was rejecting{SAUT}me with those words.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_039",
+    "choix": true,
+    "en": "You just took it the wrong way.{OPTION}What an awful father.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Hikari",
+    "en": "Yeah. Dad didn't mean it like{SAUT}I'd thought...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Hikari",
+    "en": "That's not it―Dad didn't mean it{SAUT}like that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Hikari",
+    "en": "But in that moment, I only blamed{SAUT}myself again―and I felt the snap of the{SAUT}last string holding my heart together.{PAGE}\"Even Dad is disappointed with how{SAUT}I've turned out.\" I'd convinced myself{SAUT}that was true, so I ran away from it all...{PAGE}And I created such horrible movies to{SAUT}validate that misbelief... All because{SAUT}I was weak...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Futaba",
+    "en": "That's enough―stop blaming{SAUT}yourself! It's overkill!{PAGE}If you keep blaming yourself like that,{SAUT}your heart will die! How would that{SAUT}make your dad happy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Hikari",
+    "en": "Futaba-chan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Fuuka",
+    "en": "Not wanting to let down the people{SAUT}close to you... and not wanting to{SAUT}worry them... I can relate to that.{PAGE}It keeps you from letting out your true{SAUT}feelings, and you end up trying to deal{SAUT}with everything all by yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Yosuke",
+    "en": "So, all of that led to a warped idea{SAUT}of your dad, huh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Akechi",
+    "en": "Now, this is merely personal{SAUT}conjecture...{PAGE}But perhaps Doe wasn't solely{SAUT}a product of Hikari-san's warped{SAUT}cognition?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Junpei",
+    "en": "Huh? Whaddaya mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Akechi",
+    "en": "Don't you think that Hikari-san and{SAUT}Doe's changes were closely linked?{PAGE}We thought that Doe produced a key{SAUT}whenever we would change a movie...{PAGE}But couldn't it be that Doe produced{SAUT}a key whenever Hikari-san's heart{SAUT}changed after finishing a movie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Hikari",
+    "en": "You might be right...{PAGE}Every time I saw a movie's ending...{SAUT}the feeling that I need to get out of here{SAUT}would grow stronger...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Naoto",
+    "en": "If Doe was indeed created by{SAUT}Hikari-san's consciousness, then{SAUT}that feeling would logically follow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Akihiko",
+    "en": "In other words... Hikari's desire to leave{SAUT}this place appeared in the form of{SAUT}her dad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Makoto",
+    "en": "Indeed. I think, somewhere deep inside{SAUT}Hikari-chan's heart, was a desire she{SAUT}couldn't completely discard...{PAGE}Her desire to believe her father, and{SAUT}to be true to herself in the world...{PAGE}Those feelings may have been the key{SAUT}to her eventual defiance of these films.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Naoto",
+    "en": "I see. That does explain why Doe had{SAUT}those keys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Hikari",
+    "en": "Yeah... I can tell now. I can feel what{SAUT}my heart desires again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "P4 Hero",
+    "en": "I see... So, in your own way, you've been{SAUT}fighting this whole time too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Hikari",
+    "en": "And, about that invitation―that was{SAUT}something I wrote when I was younger.{PAGE}When I first decided I would become{SAUT}a director, I thought about sending it{SAUT}to my dad when my dream came true.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Aigis",
+    "en": "That means the invitation was also{SAUT}a form of your desire to defy{SAUT}the warped movies.{PAGE}When your memory returned and{SAUT}you decided to leave this place, the{SAUT}invitation turned into the final key...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Hikari",
+    "en": "Yeah... I'm sure that's it. I definitely{SAUT}didn't want to forget that memory.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Ryuji",
+    "en": "Man, I'm impressed! You were down{SAUT}to your last marbles, but you still stood{SAUT}your ground all by yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Hikari",
+    "en": "Yes, but... I'm sorry, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "P3 Hero",
+    "en": "Huh? What are you sorry for?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Hikari",
+    "en": "Well, if I had shown more courage, we{SAUT}could've gotten out of here quicker,{SAUT}right?{PAGE}I dragged you all into this... I don't know{SAUT}how to apologize for what I've done.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_064",
+    "choix": true,
+    "en": "It was quite fun.{OPTION}It was a rare experience.{OPTION}We couldn't leave you hanging.{OPTION}It's fine because you're so cute.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Haru",
+    "en": "He's right. Being able to go inside{SAUT}a movie was quite exciting for me{SAUT}as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Teddie",
+    "en": "Yep, yep. I'm going to get into even{SAUT}more trouble now that I've made{SAUT}my big-screen debut!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Yosuke",
+    "en": "Why would you be in trouble?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Teddie",
+    "en": "Heheheh... I have the aura of a star, so{SAUT}Nao-chan and the other ladies are going{SAUT}to be head over heels for me.{PAGE}Soooo, Yosuke, you have to help me{SAUT}design my autograph!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Yosuke",
+    "en": "Wait, what? Forget the pointless stuff like{SAUT}that―you need to take your job seriously{SAUT}when we get back to Junes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Yukari",
+    "en": "Ahaha, that's true. I never would've{SAUT}imagined I'd step inside a movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Akihiko",
+    "en": "Plus, we got to fight some challenging{SAUT}enemies.{PAGE}If I'd gotten to be greedy though, I would{SAUT}have loved to be in an action film with{SAUT}lots of over-the-top fight sequences.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Shinjiro",
+    "en": "*sigh* You idiot... Go film one on your{SAUT}own time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Morgana",
+    "en": "Right, it's the duty of us Phantom{SAUT}Thieves to help people in trouble.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_074",
+    "locuteur": "Shinjiro",
+    "en": "I don't think you should let it get to ya{SAUT}too much...{PAGE}Everyone here's the kinda person who{SAUT}loves pokin' their noses into other{SAUT}people's business, anyway.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_075",
+    "locuteur": "Junpei",
+    "en": "Uh-huh! Even this guy here―he may{SAUT}look scary, but his consideration for{SAUT}others is at a motherly level...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_076",
+    "locuteur": "Shinjiro",
+    "en": "What...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_077",
+    "locuteur": "Hikari",
+    "en": "Huh!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_078",
+    "locuteur": "Junpei",
+    "en": "*whistle* He dropped that line like{SAUT}it was nothing! Nice one, Mr. Slick!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_079",
+    "locuteur": "Morgana",
+    "en": "Seriously... If you keep getting carried{SAUT}away like that, you're going to end up{SAUT}in real trouble someday.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_080",
+    "locuteur": "Haru",
+    "en": "*giggle* You're fussing too much,{SAUT}Mona-chan. There's no way Joker{SAUT}would ever do that―right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_081",
+    "locuteur": "Ann",
+    "en": "That's right. You'd never make a girl{SAUT}cry―huh, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_082",
+    "locuteur": "Makoto",
+    "en": "Yes, the rumors about him being sleazy{SAUT}turned out to be false accusations...{SAUT}Isn't that so?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_083",
+    "locuteur": "P4 Hero",
+    "en": "Ah―This maelstrom I'm sensing{SAUT}in them...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_084",
+    "locuteur": "P3 Hero",
+    "en": "Yeah... Joker, you might want to{SAUT}watch your back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_085",
+    "locuteur": "Hikari",
+    "en": "Heheh... Ahahahahaha!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_086",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hey! Hikari-chan's laughing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_087",
+    "locuteur": "Hikari",
+    "en": "Thank you so much for rescuing{SAUT}my heart.{PAGE}I promise that once we get out,{SAUT}I'll live my life with my head{SAUT}held high, like all of you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_088",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm! And, don't forget―we'll always{SAUT}be together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_089",
+    "locuteur": "Futaba",
+    "en": "That's right. Even if we get separated,{SAUT}our hearts will be linked!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_090",
+    "locuteur": "Yukiko",
+    "en": "The time and place we're all from may{SAUT}be different, but that doesn't change{SAUT}the fact that we're friends now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_091",
+    "locuteur": "Ken",
+    "en": "Heheh, this is pretty nice...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_092",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_093",
+    "locuteur": "Aigis",
+    "en": "And that is a wrap. What a relief!",
+    "fr": ""
+  }
+]

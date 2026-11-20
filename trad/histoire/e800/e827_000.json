@@ -1,0 +1,301 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "...However, {f 6 1 16 0 0 0}'s stomach truly{SAUT}knows no limit.{PAGE}Certainly, I believe his gastronomic{SAUT}capacity is far beyond that of{SAUT}ordinary humans...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Margaret",
+    "en": "I wonder. You'll find my guest{SAUT}has quite an uncanny skill for it{SAUT}as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Yikes, sparks are flyin'. Are those{SAUT}two glaring at each other?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Theodore",
+    "en": "Well, it began innocently enough...{PAGE}They were discussing the capabilities{SAUT}of their respective guests, {f 6 1 16 0 0 0}{SAUT}and {f 6 1 13 0 0 0}...{PAGE}They could not agree on who was{SAUT}the more voracious eater, and now{SAUT}it's become quite an argument.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "How does this stuff happen...?{PAGE}Geez. If those two aren't even here,{SAUT}this is just gonna go on forever.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Let's call them over.{OPTION}Hey, {f 6 1 16 0 0 0}!{OPTION}Hey, {f 6 1 13 0 0 0}!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Hero",
+    "en": "...I have a bad feeling about this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. I'm starting to think we need{SAUT}an escape plan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Margaret",
+    "en": "Ah, there you are.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Hero",
+    "en": "...Too late, I guess.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "Ah, geez...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Elizabeth",
+    "en": "Allow me to explain. The fact is,{SAUT}et cetera, et cetera, et cetera...{PAGE}We would like to decide the winner{SAUT}between you two once and for all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Hero",
+    "en": "This is pretty short notice...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Margaret",
+    "en": "The rules are simple.{PAGE}Your only task is to eat as much as{SAUT}you can within the allotted time.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "Sounds easy enough.{OPTION}Oh, this'll be good.{OPTION}Eating what?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "Yeah, it's like an all-you-can-eat{SAUT}contest. But what food do we even{SAUT}have around here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "You're not joining in, are you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Makoto",
+    "en": "Please don't complicate this further...{PAGE}Besides, do we even have that much{SAUT}food for them to eat?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Haru",
+    "en": "We have a lot of popcorn, but I'm{SAUT}not sure that's suitable for a{SAUT}competition like this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Hero",
+    "en": "Ah, what a shame. And we don't have{SAUT}cooking supplies, either. Guess it's{SAUT}impossible―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Hikari",
+    "en": "We... might have some cooking{SAUT}supplies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Hero",
+    "en": "...Oh. That's just... great.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Hikari",
+    "en": "I think I saw some at the concession{SAUT}stand... One moment...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari",
+    "en": "This is it... ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Chie",
+    "en": "A square tray thing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Fuuka",
+    "en": "Oh... This is a sieve for a deep fryer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Chie",
+    "en": "Oh! We can deep fry some stuff!{SAUT}Let's make some fried chicken! Or{SAUT}maybe even some croquettes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Shinjiro",
+    "en": "We wouldn't have the ingredients for{SAUT}that. All we've got is a ton of flour...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_028",
+    "choix": true,
+    "en": "Donuts?{OPTION}Udon?{OPTION}Soba?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Shinjiro",
+    "en": "Yeah, that'll work fine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Shinjiro",
+    "en": "You don't fry that, genius. And we{SAUT}don't have any soup.{PAGE}Guess we could make donuts or{SAUT}something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Chie",
+    "en": "I like that! I'll eat as much as you{SAUT}guys can make!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Shinjiro",
+    "en": "Not happening. It's not made with{SAUT}flour, and it's not fried.{PAGE}Guess we could make donuts or{SAUT}something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ann",
+    "en": "Donuts...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "P4 Hero",
+    "en": "Fried, heavy dough!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Elizabeth",
+    "en": "Then it is decided. Here begins the{SAUT}grandest donut-eating competition{SAUT}of all―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Theodore",
+    "en": "Um, Sister... I do apologize for{SAUT}interrupting, but...{PAGE}I believe the deep fryer needs some{SAUT}more parts before it'll function.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Margaret",
+    "en": "Then I suppose the verdict will have{SAUT}to wait.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Elizabeth",
+    "en": "Yes... None can escape our final{SAUT}judgment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P3 Hero",
+    "en": "Final... judgment?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Elizabeth",
+    "en": "Oh? It appears another special{SAUT}screening has been added.{PAGE}This mission's objective is to obtain{SAUT}two Cognitive Devices in A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Theodore",
+    "en": "Ah! That's exactly what we need to{SAUT}fix the fryer.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_043",
+    "choix": true,
+    "en": "A little too perfect...{OPTION}What a coincidence.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Margaret",
+    "en": "Yes... Most fortuitous indeed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Elizabeth",
+    "en": "This task will not only earn you{SAUT}the standard reward...{PAGE}You will win the chance at all the{SAUT}donuts you can eat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Futaba",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Yusuke",
+    "en": "All we can eat!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Elizabeth",
+    "en": "It seems their hopes lie with you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Elizabeth",
+    "en": "So I do hope that you all accept{SAUT}this mission.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "en": "A new special screening:{SAUT}\"Wildcard Buffet\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

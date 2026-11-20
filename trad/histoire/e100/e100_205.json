@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Wha―\"punishment exhibition\"!?{SAUT}What the hell did we do!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Now I'm even more concerned for{SAUT}Queen and Noir...{PAGE}Though their capture does explain{SAUT}why they never responded to Oracle's{SAUT}hails.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "We don't have any idea what's going{SAUT}to happen to those two! We have to{SAUT}find them as soon as possible!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "From what we just heard, they seem{SAUT}to be held somewhere called{SAUT}\"Kamoshida Square\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Hold on―it's possible that we're being{SAUT}lured into a trap.{PAGE}What say you, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "We're going there anyway.{OPTION}Let's advance with caution.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "I have a feeling there wasn't any point{SAUT}in asking...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Oracle, can you tell where this square is?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Hmm, I don't think I can... Looks like{SAUT}you'll just have to keep up the progress.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "There are also those wanted posters we{SAUT}saw... That means we're already being{SAUT}targeted.{PAGE}We'll need to proceed with even more{SAUT}caution from here on. Lead the way,{SAUT}Joker!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "You got it.{OPTION}Leave it to me.{OPTION}I don't feel so good...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "Excellent! We're counting on you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "Ooh, so confident!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "Why're you getting cold feet now!?{SAUT}Queen and Noir are counting on us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "Don't worry. We've got your back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Yeah, I'm positive we can do this. Let's{SAUT}go save those two!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "All right―Phantom Thieves, move out!",
+    "fr": ""
+  }
+]

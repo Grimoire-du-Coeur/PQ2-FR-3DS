@@ -1,0 +1,227 @@
+[
+  {
+    "id": "quest_explain_001",
+    "en": "Defeat the Basalts! ",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_003",
+    "en": "Defeat the swaggering Gigas!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_004",
+    "en": "Avoid the searchlights!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_006",
+    "en": "Investigate the mysterious ancient{SAUT}creature!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_007",
+    "en": "Defeat the Chicken Kid!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_008",
+    "en": "Find the fake police officer and make{SAUT}him pay!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_009",
+    "en": "Find graffiti that's different from the rest!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_010",
+    "en": "Head to the fishing spot and catch{SAUT}yourself a big one!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_011",
+    "en": "Steal that treasure!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_012",
+    "en": "Collect a Cinnamon Fern!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_013",
+    "en": "Find the culprit!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_014",
+    "en": "Rescue the baby dinosaur!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_015",
+    "en": "Find out what's rampaging throughout{SAUT}the jungle!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_016",
+    "en": "Locate the object in question from the{SAUT}container!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_017",
+    "en": "Gather intel and solve the case!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_018",
+    "en": "Obtain three rare materials!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_019",
+    "en": "Defeat the Seidoptera!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_021",
+    "en": "Find edible ingredients in the jungle!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_022",
+    "en": "Defeat three large Shadows!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_023",
+    "en": "Defeat four Rampage Drives!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_024",
+    "en": "Get past security's next-generation tech!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_025",
+    "en": "Destroy KNS-1000!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_026",
+    "en": "Watch the battle of the mascots!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_027",
+    "en": "Find parts for the cooking equipment!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_028",
+    "en": "Fix the broken robot!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_029",
+    "en": "Defeat two Tyranniqueens!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_030",
+    "en": "Solve the mystery of the warp devices!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_031",
+    "en": "Locate the nightclub!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_032",
+    "en": "Have the beautiful ladies save Kamo City!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_033",
+    "en": "Search the Treasure Spots!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_035",
+    "en": "Locate the Easter Egg!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_036",
+    "en": "Collect three rare parts!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_037",
+    "en": "Head to the training area!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_038",
+    "en": "Defeat SCM-8801!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_039",
+    "en": "Find Hikari's lost item!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_040",
+    "en": "Obtain four fruits!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_041",
+    "en": "Grant Marie's wish!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_042",
+    "en": "Chase the butterfly in the musical!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_043",
+    "en": "Answer the questions and proceed!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_045",
+    "en": "Finish the battle of the bears!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_046",
+    "en": "Bring back music from the movie!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_047",
+    "en": "Defeat the new Shadow in Kamo City!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_048",
+    "en": "Defeat the new Shadow in Junessic Land!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_049",
+    "en": "Defeat the new Shadow in A.I.G.I.S.!",
+    "fr": ""
+  },
+  {
+    "id": "quest_explain_050",
+    "en": "Defeat the new Shadow in Hikari!",
+    "fr": ""
+  }
+]

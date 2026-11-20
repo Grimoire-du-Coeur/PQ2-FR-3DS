@@ -1,0 +1,85 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously {OPTION}Search thoroughly {OPTION}Cancel ",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search {OPTION}Cancel ",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use {OPTION}Don't use ",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back {OPTION}Don't head back ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P5 Protag",
+    "en": "ヤバそうな雰囲気だがどうする? {SAUT}(戦闘オタカラスポット 発見MSG（仮）) ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P5 Protag",
+    "en": "探してみよう {SAUT}(戦闘オタカラスポット 探すMSG（仮）) ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P5 Protag",
+    "en": "今回はやめておこう {SAUT}(戦闘オタカラスポット やめるMSG（仮）) ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P5 Protag",
+    "en": "危なかったな {SAUT}(戦闘オタカラスポット 戦闘終了MSG（仮）) ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P5 Protag",
+    "en": "ここはシャドウの気配が強いな。 {SAUT}まわりにシャドウがいそうだが、どうする？ {SAUT}(雑魚戦闘オタカラスポット 発見MSG（仮）) ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P5 Protag",
+    "en": "いたぞ、シャドウだ！ {SAUT}(雑魚戦闘オタカラスポット 探すMSG（仮）) ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P5 Protag",
+    "en": "そうだな、行こう {SAUT}(雑魚戦闘オタカラスポット やめるMSG（仮）) ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P5 Protag",
+    "en": "ふーあぶなかった。あっ、なんか落ちてる！ {SAUT}(雑魚戦闘オタカラスポット 戦闘終了MSG（仮）) ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P5 Protag",
+    "en": "出入り口がある。 {SAUT}戻るか？ {SAUT}(出入り口MSG（仮）) ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

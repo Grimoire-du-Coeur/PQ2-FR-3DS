@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Aha! So this is where you went!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akihiko",
+    "en": "You can't escape us now. Are you ready{SAUT}to get wrung out!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "Wait!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Hikari? What's wrong!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "I have a favor to ask... Let me speak{SAUT}with Doe first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "Huh? But, that's dangerous!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "I'm sorry, but I've got this feeling that I...{SAUT}I need to talk to him.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "Alright.{OPTION}Just be careful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "...Thanks, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Hikari",
+    "en": "I'm sorry I had forgotten you{SAUT}all this time...{PAGE}You're my feelings that I couldn't{SAUT}completely discard. I created you,{SAUT}in a way... Isn't that right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Kanji",
+    "en": "WHAT!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "Kanji-kun, shh! Let's just watch what{SAUT}happens, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "I haven't remembered everything yet...{SAUT}but I can tell.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Doe",
+    "en": "I have always watched you. Always{SAUT}and always.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Hikari",
+    "en": "...I was afraid of you.{PAGE}I couldn't even look at you... I was too{SAUT}scared to face you.{PAGE}But now, I finally remember why.{PAGE}I was trying to destroy my heart, and{SAUT}I was afraid of you seeing that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Doe",
+    "en": "That's right. You ran from me. So you{SAUT}wouldn't get hurt.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "I didn't want you to see me like this.{PAGE}I wanted to make myself believe that{SAUT}there was nothing else I could do{SAUT}about how I am.{PAGE}That's why I just kept watching those{SAUT}distorted movies―to convince myself{SAUT}of that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Hikari",
+    "en": "Still... I couldn't completely discard{SAUT}who I am deep down inside.{PAGE}I... I couldn't forget you. I knew that{SAUT}I didn't really want to forget you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Doe",
+    "en": "Now that you know. What do you want{SAUT}to do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Hikari",
+    "en": "I-I... I want to leave this place. I'll{SAUT}change this movie's ending and get{SAUT}out of here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Doe",
+    "en": "Do you have the willpower to do that?{PAGE}It wasn't your own strength that brought{SAUT}you here. Can you do it when you're so{SAUT}weak compared to the others?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Doe",
+    "en": "Remember your weakness that made{SAUT}you run. All because you couldn't face it.{PAGE}If you throw your self away, no one can{SAUT}criticize you. Don't you want to avoid{SAUT}getting hurt?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Hikari",
+    "en": "Th-That's not true... That's...{PAGE}Please, stop!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_027",
+    "choix": true,
+    "en": "Hang in there!{OPTION}We're right behind you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P4 Hero",
+    "en": "That's right, you're not alone. There's{SAUT}no need to suffer all by yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "Yeah, don't forget about us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Hikari",
+    "en": "Everyone...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Doe",
+    "en": "Nnnghh... Ngh... Yaaaaaaaaaaaaugh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P3 Hero",
+    "en": "What the―!?",
+    "fr": ""
+  }
+]

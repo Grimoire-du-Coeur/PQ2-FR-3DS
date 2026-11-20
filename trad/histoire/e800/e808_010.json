@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Next time, on Dragon Ba―I mean―the{SAUT}special screening...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Oh hoh. This next one sounds like some{SAUT}\"over 9000\" business...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Over 9000? What are you talking{SAUT}about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Wha―!? You don't know!? The whole{SAUT}world knows what that is!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "I-Is that so? I'm afraid I don't{SAUT}understand either...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "Quiet, please! Special screenings are{SAUT}not to be taken lightly...{PAGE}If you don't keep quiet, you'll face my{SAUT}power of 530,000!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Oh geez, she's goin' all out with this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "What would you have us do, Elizabeth?{SAUT}Please elaborate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Elizabeth",
+    "en": "I'm glad you asked.{PAGE}This special screening asks that you find{SAUT}a police impersonator!{PAGE}A Shadow is creating confusion amongst{SAUT}the citizens of Kamo City.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "That's unforgivable.{OPTION}You want us to take care of it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Kanji",
+    "en": "Hell yeah! We'll just find the Shadow{SAUT}and put the hurt on 'im!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Elizabeth",
+    "en": "It may not prove as easy as it sounds.{PAGE}The Shadow has disguised itself as one{SAUT}of the police officers patrolling the city.{PAGE}In order to find it, you will need to find{SAUT}and speak with each of them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "Wow! So it'll be like an investigation?{SAUT}We'll be like actual detectives!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "The question is: Will the fake police{SAUT}officer admit that he's a fake?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elizabeth",
+    "en": "The Shadow will most likely try to lie its{SAUT}way out of being caught.{PAGE}Therefore, you'll need to speak to all of{SAUT}the police officers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "But how do we know which one{SAUT}is lying?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Naoto",
+    "en": "Ah... It's like a logic puzzle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "Logic puzzle?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "It's a type of puzzle where you have to{SAUT}identify a contradiction among the{SAUT}information you are given.{PAGE}In this case, we must speak to the police{SAUT}officers and find the contradiction{SAUT}within their testimonies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "So we have to find the lie! Sounds like{SAUT}fun!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_020",
+    "choix": true,
+    "en": "Got it.{OPTION}It's a little confusing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ann",
+    "en": "Are you serious? I didn't get any of that...{SAUT}You're pretty smart, {f 6 1 30 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "No sweat! I've got your backs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Naoto",
+    "en": "You needn't worry. It's not so bad once{SAUT}you give it a try.{PAGE}First and foremost, we'll need to find the{SAUT}police officers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akechi",
+    "en": "Let's see what you can do, Detective{SAUT}Prince.",
+    "fr": ""
+  }
+]

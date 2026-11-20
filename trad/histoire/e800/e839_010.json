@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Now then, for this special screening,{SAUT}you will seek a lost, but most cherished{SAUT}possession of Hikari's...{PAGE}The only wrinkle is... nobody knows{SAUT}what she lost!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "I know it was really, really special.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Twinkle, twinkle, item of Hikari, how I{SAUT}wonder what you might be...{PAGE}Somewhere in her movie's scene, like a{SAUT}film star on the screen...{PAGE}But I digress. I imagine you will need to{SAUT}look around for likely contenders in{SAUT}the movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "You really think we should go in with{SAUT}no idea what we're looking for?{PAGE}I guess we can handle the fighting{SAUT}and exploring, but... Will you know{SAUT}what we're looking for, Hikari-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "...Yeah, I think I'm slowly starting to{SAUT}remember. Sorry I can't be more reliable{SAUT}than that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "No need to feel guilty! Relax, relax!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "So the movie we're entering is \"Hikari,\"{SAUT}right?{PAGE}Can you at least remember where in{SAUT}the movie it might be?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "I'm sorry... I don't know...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Elizabeth",
+    "en": "And on that discouraging note, let's all{SAUT}pay attention to me now, shall we?{PAGE}According to this super-secret book{SAUT}that never leaves my hands...{PAGE}The flowers in that movie might give{SAUT}you a clue to the whereabouts of your{SAUT}quarry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "The flowers? You mean those things{SAUT}with faces? That look like singing toys?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "They can give clues? What do you{SAUT}mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Elizabeth",
+    "en": "What do I mean? Not even I know, hehe.{SAUT}You'll just have to go out there and see.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Junpei",
+    "en": "Yeah, we'll figure it out once we get{SAUT}there, guys! I mean, seein' is{SAUT}believin', right?{PAGE}Uh, as long as someone else figures out{SAUT}how to get there! Where are we going{SAUT}again?",
+    "fr": ""
+  }
+]

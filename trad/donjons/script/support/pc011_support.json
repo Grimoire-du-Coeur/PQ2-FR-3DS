@@ -1,0 +1,377 @@
+[
+  {
+    "id": "KOROMARU_FOE_FOLLOW_STAR",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_FOE_FOLLOW_STAR#2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_FOE_FOLLOW_STAR#3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_FOE_NEAR_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_FOE_NEAR_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_FOE_NEAR_3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_FOE_FOLLOW_END_",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_FOE_FOLLOW_END_#2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_FOE_FOLLOW_END_#3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_KANSI_REACTION_",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_KANSI_REACTION_#2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_KANSI_REACTION_#3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_DENKISAKU_REACT",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_DENKISAKU_REACT#2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_DENKISAKU_REACT#3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_KYOUHU_REACTION",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_KYOUHU_REACTION#2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_KYOUHU_REACTION#3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_STAIR_FIND_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_STAIR_FIND_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_STAIR_FIND_3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_TREASURE_FIND_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_TREASURE_FIND_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_TREASURE_FIND_3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_CHECK_WALL_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_CHECK_WALL_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_CHECK_WALL_3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_SWITCH_FIND_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_SWITCH_FIND_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_SWITCH_FIND_3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_SHORTCUT_FIND_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_SHORTCUT_FIND_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_SHORTCUT_FIND_3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_FOE_WARNING_NEA",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_FOE_WARNING_NEA#2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_FOE_WARNING_NEA#3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_1PERSON_HPTP10_",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_1PERSON_HPTP10_#2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_1PERSON_HPTP10_#3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_1PERSON_HP10_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_1PERSON_HP10_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_1PERSON_HP10_3",
+    "en": "Hey! Your health is depleting!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_1PERSON_TP10_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_1PERSON_TP10_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_1PERSON_TP10_3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_1PERSON_HP80_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_1PERSON_HP80_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_1PERSON_HP80_3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_DUNGEON_START_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_DUNGEON_START_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_DUNGEON_START_3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_QUEST_START_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_QUEST_START_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_QUEST_START_3",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_TOUHA_25_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_TOUHA_25_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_TOUHA_50_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_TOUHA_50_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_TOUHA_75_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_TOUHA_75_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_TOUHA_100_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_TOUHA_100_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_MAPPING_ICON_AL",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_MAPPING_ICON_AL#2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_MAPPING_ICON_KA",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_MAPPING_ICON_KA#2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_MAPPING_CHANGE_",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_MAPPING_CHANGE_#2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_MAPPING_ICON_DE",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_MAPPING_ICON_DE#2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_MAPPING_MEMO_1",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_MAPPING_MEMO_2",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_DOOR_OPEN_1",
+    "en": "Woof!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_DOOR_OPEN_2",
+    "en": "Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "KOROMARU_DOOR_OPEN_3",
+    "en": "*pant* *pant* *pant*",
+    "fr": ""
+  }
+]

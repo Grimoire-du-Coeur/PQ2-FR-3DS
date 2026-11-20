@@ -1,0 +1,47 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Caroline",
+    "en": "Looks like you actually brought us{SAUT}something useful for once, Inmate!{PAGE}Hand it over!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "Handed over {f 4 4 3 0 1602}...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Justine",
+    "en": "Hmm... How intriguing...{PAGE}This may help us to improve the{SAUT}functionality of the Velvet Room.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Caroline",
+    "en": "Wait here, Inmate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "A few minutes later...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Justine",
+    "en": "*sigh* It was somewhat difficult, but{SAUT}this should prove useful to your{SAUT}rehabilitation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "You can now use {f 0 1 2}3-Layer Fusion{f 0 1 0}!{SAUT}This will require three Personas to initiate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Caroline",
+    "en": "Don't take our help for granted, Inmate!",
+    "fr": ""
+  }
+]

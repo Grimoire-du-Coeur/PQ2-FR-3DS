@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Was that... Could that have actually{SAUT}happened to Hikari in the past?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Yeah. I heard the words \"class{SAUT}assembly,\" so it must've been back{SAUT}when she was in elementary school.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukiko",
+    "en": "What's right, and what's wrong, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "It is indeed difficult to judge what is{SAUT}right or wrong when you lack definite{SAUT}rules...{PAGE}But, that situation just now―that was{SAUT}no different from a dictatorship.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "What the teacher says is absolute, eh?{SAUT}No effin' way I'm buyin' THAT one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_5",
+    "locuteur": "Ryuji",
+    "en": "All they did was push their own selfish{SAUT}decisions on others, just because they{SAUT}were in the majority!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elementary school Hikari",
+    "en": "Teachers aren't allies of the weak.{SAUT}There are no such things as heroes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "Oh, is that Hikari-san from the past?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elementary school Hikari",
+    "en": "The power to make people do what{SAUT}they're told... My teacher forced me{SAUT}to apologize using that power...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari?",
+    "en": "...That's right. My teacher wasn't a hero{SAUT}at all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "Wait, what the―Another Hikari-chan?{SAUT}Is she the real one!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "There's no question―that one's real! ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "Hikarin, you're safe! I'm going to{SAUT}rescue you this instant!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukari",
+    "en": "Just wait a sec. Both of them are acting{SAUT}sorta weird...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Hikari",
+    "en": "Why did you defy the teacher? You knew{SAUT}you'd only get in more trouble...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elementary school Hikari",
+    "en": "Well... It's because of all the heroes I've{SAUT}seen in movies...{PAGE}They were strong, and they did the right{SAUT}thing! They helped the weak!{PAGE}But, I said I was sorry... All because my{SAUT}teacher decided that I was wrong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Hikari",
+    "en": "The words that I wanted to say weren't{SAUT}\"I'm sorry\"...{PAGE}The truth is... what I really wanted to{SAUT}say to her was―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Elementary teacher",
+    "en": "Hikari-san... Are you still defying me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Elementary teacher",
+    "en": "Shiratori-san... Are you still defying me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Elementary school Hikari",
+    "en": "You refused to listen to me...{PAGE}You didn't even try to understand. You{SAUT}might be a teacher, but you're wrong!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Elementary teacher",
+    "en": "Talking back to a teacher...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Elementary teacher",
+    "en": "...Uuuuuuunaaaaaacceptabllllle!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Hikari",
+    "en": "*shriek* Noooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan! Look out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Shinjiro",
+    "en": "Tch, we gotta save her!",
+    "fr": ""
+  }
+]

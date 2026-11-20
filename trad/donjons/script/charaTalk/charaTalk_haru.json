@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "Say, this is a place where we can gather{SAUT}items! Want to take a look?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "I think that's a wise decision.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "I think you're right; let's focus on{SAUT}gathering!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "So we're passing on this one? I know{SAUT}you've got your reasons.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "Is that everything?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Oh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Wow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Hooray!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "That was tough, and based on{SAUT}everyone's faces, I think we should rest.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "A rare one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "A great find!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "*giggle* We're rocking this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Haru",
+    "en": "A shortcut! Should we hop on through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "Hm, a slight impediment... We can't go{SAUT}through from this side.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Haru",
+    "en": "This area's vibes aren't great; do you{SAUT}think we'll be okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Haru",
+    "en": "A-Are you sure? Okay, we can do this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Haru",
+    "en": "I'm glad you agree! There's no point in{SAUT}throwing ourselves into danger!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Haru",
+    "en": "I can't believe we actually made it! Is{SAUT}everyone okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Haru",
+    "en": "This place is just rife with Shadows, no?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Haru",
+    "en": "Yes. Let's keep our eyes on the prize.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Haru",
+    "en": "True, no point in wandering straight{SAUT}into danger.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Haru",
+    "en": "So there were Shadows. Hopefully{SAUT}there won't be more...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Haru",
+    "en": "We could return to the theater from{SAUT}here. What do you think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

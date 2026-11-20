@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Welcome back, everyone.{PAGE}Even those once-terrifying FOEs were{SAUT}nothing but mere playthings against{SAUT}your current strength.{PAGE}I cannot help but be surprised by the{SAUT}rate at which you've grown.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Caroline",
+    "en": "Hmph, she's exaggerating. We were{SAUT}falling asleep over here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Justine",
+    "en": "You may have won the battle, yes, but{SAUT}your slow pace made for a rather{SAUT}dull viewing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "Dull, you say...?{PAGE}I could've sworn I witnessed you two{SAUT}cheering on {f 6 1 30 0 0 0} and{SAUT}his team the whole way through...{PAGE}Do you mean to say it was all some{SAUT}sort of illusion?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Caroline",
+    "en": "N-No!{PAGE}W-We were just monitoring on the{SAUT}Inmate's rehabilitation progress!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Justine",
+    "en": "Correct. We were simply performing{SAUT}our duties.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "*giggle* They must be really worried{SAUT}about you, {f 6 1 30 0 0 0}-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "Well, you were technically the lead role{SAUT}in that showing. I guess they're kinda{SAUT}like your fans.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "Don't fall for me now.{OPTION}Want my autograph?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Caroline",
+    "en": "D-Don't be so full of yourself! Show{SAUT}some respect!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Justine",
+    "en": "I-It is merely our job to monitor you at{SAUT}all times.{PAGE}We are to know everything about you,{SAUT}Inmate...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "Mwehehe, textbook excuses. I'm getting{SAUT}embarrassed just watching.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Caroline",
+    "en": "Autograph...? What, you mean signing{SAUT}your name?{PAGE}Hmph, humans. Why waste your time{SAUT}with something so stupid...?{PAGE}It's pointless...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Justine",
+    "en": "......{PAGE}I'll have him sign a corner of my notes{SAUT}later.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Caroline",
+    "en": "Hey, no fair!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "Mwehehe, well aren't you popular.{SAUT}Treat your fans well, you hear?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Elizabeth",
+    "en": "In any case, you've performed quite{SAUT}admirably, Phantom Thieves.{PAGE}You've lived up to your viewers'{SAUT}expectations. It would seem that{SAUT}stealing hearts is indeed your specialty.{PAGE}Once again, well done.{PAGE}I've readied your reward. Please take it.",
+    "fr": ""
+  }
+]

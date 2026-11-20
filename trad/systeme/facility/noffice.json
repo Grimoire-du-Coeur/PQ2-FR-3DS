@@ -1,0 +1,110 @@
+[
+  {
+    "id": "NOFFICE_HELLO_ELIZABETH_",
+    "locuteur": "Elizabeth",
+    "en": "Which ticket would you like?",
+    "fr": ""
+  },
+  {
+    "id": "NOFFICE_HELLO_ELIZABETH_#2",
+    "locuteur": "Elizabeth",
+    "en": "I've been waiting.",
+    "fr": ""
+  },
+  {
+    "id": "NOFFICE_HELLO_ELIZABETH_#3",
+    "locuteur": "Elizabeth",
+    "en": "Welcome to the box office.",
+    "fr": ""
+  },
+  {
+    "id": "NOFFICE_EXP_ELIZABETH",
+    "locuteur": "Elizabeth",
+    "en": "How may I assist you?",
+    "fr": ""
+  },
+  {
+    "id": "NOFFICE_OUT_ELIZABETH_NU",
+    "locuteur": "Elizabeth",
+    "en": "Thank you for your patronage.",
+    "fr": ""
+  },
+  {
+    "id": "NOFFICE_OUT_ELIZABETH_NU#2",
+    "locuteur": "Elizabeth",
+    "en": "I await your next visit.",
+    "fr": ""
+  },
+  {
+    "id": "NOFFICE_OUT_ELIZABETH_NU#3",
+    "locuteur": "Elizabeth",
+    "en": "I will see you again.",
+    "fr": ""
+  },
+  {
+    "id": "NOFFICE_ACCEPT_OUT_ELIZA",
+    "locuteur": "Elizabeth",
+    "en": "I bid you good luck.",
+    "fr": ""
+  },
+  {
+    "id": "NOFFICE_ACCEPT_OUT_ELIZA#2",
+    "locuteur": "Elizabeth",
+    "en": "Be careful on your way.",
+    "fr": ""
+  },
+  {
+    "id": "NOFFICE_ACCEPT_OUT_ELIZA#3",
+    "locuteur": "Elizabeth",
+    "en": "I shall pray for your success.",
+    "fr": ""
+  },
+  {
+    "id": "BBOARD_BATTLE_BEFORE_THE",
+    "locuteur": "Theodore",
+    "en": "Theodore before battle",
+    "fr": ""
+  },
+  {
+    "id": "BBOARD_BATTLE_BEFORE_MAR",
+    "locuteur": "Margaret",
+    "en": "Margaret before battle",
+    "fr": ""
+  },
+  {
+    "id": "BBOARD_BATTLE_BEFORE_TWI",
+    "locuteur": "Twins",
+    "en": "Twins before battle",
+    "fr": ""
+  },
+  {
+    "id": "BBOARD_BATTLE_BEFORE_ELI",
+    "locuteur": "Elizabeth",
+    "en": "Elizabeth before battle",
+    "fr": ""
+  },
+  {
+    "id": "BBOARD_BATTLE_BEFORE_ALL",
+    "locuteur": "Elizabeth",
+    "en": "All 5 before battle",
+    "fr": ""
+  },
+  {
+    "id": "SEL_BBOARD_BATTLE_BEFORE",
+    "choix": true,
+    "en": "I'm ready to go.{OPTION}I need a moment.",
+    "fr": ""
+  },
+  {
+    "id": "BBOARD_BATTLE_START_ELIZ",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "BBOARD_BATTLE_LATER_ELIZ",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  }
+]

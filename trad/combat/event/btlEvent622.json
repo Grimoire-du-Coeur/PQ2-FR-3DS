@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosukesaurus",
+    "en": "Why are you fighting so hard for{SAUT}someone else? What pains in the ass...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_5",
+    "locuteur": "Yosukesaurus",
+    "en": "Take a hint for once and die already!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Knowing when it's appropriate to speak{SAUT}up is indeed important. However...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "There's no way in hell we'd just ditch{SAUT}our friends here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "If I didn't do what I thought was right,{SAUT}I'd so regret it later!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "That's right! No matter what everyone{SAUT}else might say...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "We'll push forward on the path that{SAUT}we believe in!",
+    "fr": ""
+  }
+]

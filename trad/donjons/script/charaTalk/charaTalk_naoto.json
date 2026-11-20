@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously {OPTION}Search thoroughly {OPTION}Cancel ",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search {OPTION}Cancel ",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use {OPTION}Don't use ",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back {OPTION}Don't head back ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Naoto",
+    "en": "There's a Treasure Spot here. Should{SAUT}we attempt to gather some items? ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Understood. Let's be sure to{SAUT}stay aware of our surroundings. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "Sound reasoning. {SAUT}Let's gather what we can. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "Right. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Looks like that's everything. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "It's looking good. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Hmm... ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "That will prove useful. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "We gathered everything we could,{SAUT}and now we just need to stay alert.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "That's a rare item! ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Could it be...! ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "That went well. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "Looks like a shortcut. {SAUT}Should we open it? ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Naoto",
+    "en": "Unfortunately, we can't go through{SAUT}this way. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "Stay sharp... I sense danger in{SAUT}the air.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Naoto",
+    "en": "Right. Let's keep our guard up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Naoto",
+    "en": "I agree. That's a good idea.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Naoto",
+    "en": "That was quite the Shadow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Naoto",
+    "en": "There seem to be many Shadows{SAUT}in this area.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Naoto",
+    "en": "Right. Let's keep our guard up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Naoto",
+    "en": "Okay, let's stop here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Naoto",
+    "en": "By all appearances, we're done here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Naoto",
+    "en": "We could return to the theater now.{SAUT}Do you think that's best?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

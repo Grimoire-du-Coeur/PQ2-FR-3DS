@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Even Shadows of tremendous power{SAUT}are nothing but child's play for you.{PAGE}You've all grown admirably since{SAUT}your arrival here. Your newfound{SAUT}power is truly remarkable.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "You're all really amazing...{PAGE}I've been watching you, so I can tell.{SAUT}You've all been getting stronger and{SAUT}stronger.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, I kinda surprised myself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "P3 Fem Protag",
+    "en": "But still... I'm fighting for everyone,{SAUT}not just myself. I think that's the{SAUT}only reason I made it this far.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "You each work to hone your ability,{SAUT}and fateful meetings give birth to{SAUT}further power.{PAGE}I feel I've learned something vitally{SAUT}important from watching your exploits{SAUT}on the silver screen...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Elizabeth",
+    "en": "Though it may not be my place,{SAUT}I'd like to thank you all once more.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "It's your turn next.{OPTION}We're not done yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "Yes, I understand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_1",
+    "locuteur": "Elizabeth",
+    "en": "Limitless possibilities are hidden{SAUT}within that obscured film...{PAGE}I feel the hour drawing near.{SAUT}Soon, we will see all its secrets{SAUT}laid bare.{PAGE}But for now... there is nothing more{SAUT}I can say.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_2",
+    "locuteur": "Elizabeth",
+    "en": "In any case, please come speak to me{SAUT}once you are prepared.",
+    "fr": ""
+  }
+]

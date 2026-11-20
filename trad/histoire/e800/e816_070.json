@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "I appreciate you completing the special{SAUT}screening for my worthless brother.{PAGE}From now on, please feel free to order{SAUT}him around however you like.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "Haha... I feel bad about how he's treated{SAUT}as is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "Thank you for bringing the \"Futuristic{SAUT}Gizmo.\"{PAGE}It was just as enthralling as I expected.{SAUT}I'm beginning to feel quite motivated...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* You seem pretty excited, Theo.{SAUT}I hope you'll continue to lend us your{SAUT}assistance.{PAGE}That said, I didn't know you were{SAUT}so into technology.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Theodore",
+    "en": "Well, it wasn't necessarily the device{SAUT}itself, I actually just wanted to hold it.{PAGE}As I thought, it's room temperature.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh? That's all you wanted?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Theodore",
+    "en": "I was able to feed my curiosity, though I{SAUT}didn't think it would be this comforting.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "Good for you.{OPTION}I don't get it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Theodore",
+    "en": "Yes, and it's all thanks to everyone here.{PAGE}I'm now refreshed and ready to resume{SAUT}my duties.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Y-You don't have any questions or{SAUT}anything? You're really something,{SAUT}{f 6 1 30 0 0 0}-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "S-Sorry. Theo has this ability where he{SAUT}can tell the exact temperature of{SAUT}something just by touching it...{PAGE}I guess that doesn't make things any{SAUT}clearer... Anyway, he's just a little{SAUT}odd. Ahaha...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Either way, Theodore's ready for{SAUT}anything. Guess we reached the true{SAUT}ending.{PAGE}Wait a sec...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Fuuka",
+    "en": "The wiring and everything... It really is{SAUT}amazing.{PAGE}I couldn't believe my eyes. To think{SAUT}someone would have an idea like this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "Right, but it could very well become a{SAUT}reality in the near future.{PAGE}This device is currently being developed{SAUT}in some countries.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "From an artist's perspective, this{SAUT}line of symmetry is just...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Koromaru",
+    "en": "Woof! Woof!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "You guys are still at it? That machine{SAUT}really is something!",
+    "fr": ""
+  }
+]

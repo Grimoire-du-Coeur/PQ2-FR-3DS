@@ -1,0 +1,99 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Caroline",
+    "en": "There you are, Inmate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "......?{PAGE}Marie is, as usual, nowhere to be seen...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Justine",
+    "en": "Are you looking for Marie?{PAGE}She seems to have gone out on another{SAUT}errand for Margaret.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "......?{PAGE}There's another piece of stationery{SAUT}on the floor...{PAGE}Something has been written on it with{SAUT}very serious-looking handwriting...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Marie",
+    "en": "\"Law\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Marie",
+    "en": "Endorphin: a brain compound{SAUT}Sulforaphane: an antioxidant{SAUT}Inosine: allows muscle movement{PAGE}So, do you see it?{SAUT}The one law of the universe?{PAGE}Everything comes down to chemicals...{SAUT}And their reactions...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "......{PAGE}Is this another one of Marie's poems?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Marie",
+    "en": "Gyaaaaaaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Marie",
+    "en": "I-It's not what you think! This is... just{SAUT}notes! For studying! You study physics{SAUT}and chemistry and stuff in school, right!?{PAGE}I didn't write sulforaphane because it's{SAUT}similar to Sandalphon or anything!{SAUT}They sound nothing alike!{PAGE}......{PAGE}Ihateyoustupiddopeamine! I'm casting{SAUT}a curse on you and now you'll always{SAUT}get crappy grades in science!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Marie is blushing harder than ever{SAUT}before...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Caroline",
+    "en": "Now that you mention it, there seem{SAUT}to be a number of skills that rely upon{SAUT}such scientific reactions.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Justine",
+    "en": "I see. This seems to merit further{SAUT}experimentation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Marie",
+    "en": "No one needs your pointless{SAUT}experiments! I hope you all{SAUT}eat an Atomic Flare!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Margaret",
+    "en": "*chuckle* Perhaps you should settle{SAUT}down. This is one of your less{SAUT}embarrassing works, anyway.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Marie",
+    "en": "LESS embarrassing... *sigh* I put this{SAUT}in my pocket. How did it end up{SAUT}falling there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Marie",
+    "en": "*gasp* Could it be―Is this the law{SAUT}of the universe?{PAGE}Falling...{PAGE}\"Fall in love\"... \"Fallen angel\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "en": "Marie returned to her usual spot,{SAUT}noticeably unsettled...",
+    "fr": ""
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "Whoa, check it out! A Treasure Spot!{SAUT}What're we gonna do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Right! Keep your eyes peeled, guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Got it! Let's do this right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Yeah, looks kinda sketchy anyway.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "O-kay... Is that everything?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Finders keepers!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "It's all ours!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Not bad at all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "Sheesh, that was close!{SAUT}Better quit while we're ahead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Nice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Hey, that one's rare!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Whoa...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "Hey, I think that's a shortcut!{SAUT}Whatcha think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "Well, can't go through that way...{SAUT}That kinda sucks, but oh well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Chie",
+    "en": "H-Hey, something about this doesn't{SAUT}seem right... You feel it too, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Chie",
+    "en": "Y-You sure...? Well, okay,{SAUT}I guess...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Yeah! Yeah, good idea. Solid.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Chie",
+    "en": "Man, that thing was strong...{SAUT}Sheesh. Talk about a monster.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Chie",
+    "en": "Hmm... Feels like there's a lot{SAUT}of Shadows around here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Chie",
+    "en": "Okay, as long as we're careful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Chie",
+    "en": "Huh? You don't think so?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Chie",
+    "en": "Phew... That was so sudden...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Chie",
+    "en": "Oh, we heading back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

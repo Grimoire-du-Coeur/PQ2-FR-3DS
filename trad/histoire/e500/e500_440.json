@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "What? The theaters are fading away?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukiko",
+    "en": "Maybe everyone's returning to reality...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "Hey, if this keeps up, isn't Hikari-chan's{SAUT}movie theater going to disappear too!?  ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "We should get back there right away!",
+    "fr": ""
+  }
+]

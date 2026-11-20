@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Hm? Wait a second―is that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh!? I thought that FOE didn't move!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "It's possible that it only starts moving{SAUT}whenever there's an issue with{SAUT}the searchlights.{PAGE}I guess one could call it a dual security{SAUT}system... That's going to be a real bother.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "So you're saying {f 0 1 2}their behavior{SAUT}is linked to the switches{f 0 1 0}... This{SAUT}isn't good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "It don't matter how it works―all we gotta{SAUT}do is dodge 'em like usual, yeah?{PAGE}I mean, c'mon―all this security just{SAUT}screams that something suspicious{SAUT}is down this way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Mm, Skull is right! We shouldn't have{SAUT}any problems if we just exercise some{SAUT}caution...{PAGE}Let's go, Joker!",
+    "fr": ""
+  }
+]

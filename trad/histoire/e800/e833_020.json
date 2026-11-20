@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Holy crap! She wasn't kidding about{SAUT}those Treasure Spots!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Mee-YOW! Look at all the treasure!{PAGE}Let's get going, Joker! I can hear it{SAUT}calling my name!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "*giggle* Calm down, Mona-chan.{PAGE}We can't just charge in. Let's take a{SAUT}look at the map, and move carefully.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Hmm... Like Zabby said, there's more{SAUT}warp points around here, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mitsuru",
+    "en": "She did mention that the Treasure{SAUT}Spots lay beyond the new warps...{SAUT}if I recall.{PAGE}Then I suppose we'll have to find{SAUT}new ways around the warp points{SAUT}and subsequent doors.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "I'm on it.{OPTION}Sounds like a pain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Mitsuru",
+    "en": "In other words, our usual approach.{SAUT}Not terribly demanding...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mitsuru",
+    "en": "*chuckle* Giving up before we've even{SAUT}begun? At least give it a try.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "There were three locations, correct?{SAUT}Then let's find the first one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Alright! Then let's go look for those{SAUT}Treasure Spots! Keep your eyes out,{SAUT}guys!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,283 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Let's get right to our strategy meeting on{SAUT}how we'll steal the Kamoshidaman{SAUT}statue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "The phrase \"strategy meeting\" sounds{SAUT}so cool... It just screams \"phantom{SAUT}thieves\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Haha, looks like she's on the same{SAUT}wavelength as us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Thanks to {f 6 1 27 0 0 0}, we've secured our{SAUT}route to the switchboard.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Now we can turn off the statue's lights{SAUT}whenever we want.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Stealing a statue under the cover of{SAUT}darkness...{PAGE}We've pulled off a similar heist in the{SAUT}past... I think we can manage this time{SAUT}around too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "The question is, how do we physically{SAUT}take the statue?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Even though it seems to be lighter than{SAUT}it looks, escaping with it by hand may{SAUT}be too difficult...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "How to swipe the statue... Hey, got any{SAUT}ideas?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "We could hoist it with a crane.{OPTION}Someone'll act as a diversion.{OPTION}Nothing comes to mind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "That makes me think of the crane game!{SAUT}Sounds fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "But there wasn't enough space there{SAUT}for such a large-scale scheme.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hmm―it sounded good to me. Like,{SAUT}we'd just swoop down from above{SAUT}and pluck it from the square...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "A diversionary tactic, huh... That's not{SAUT}bad, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Should we dangle Morgana from{SAUT}the end of a fishing pole?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "I'm not some kind of bait!{PAGE}I mean―there's a chance that the bait{SAUT}could be captured and end up with{SAUT}Makoto and Haru!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, that's a good point. I wish we{SAUT}could just swoop down and snatch{SAUT}it up before getting caught...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Fem Protag",
+    "en": "*sigh* If only we had superpowers like{SAUT}Kamoshidaman...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "We could just swoop down from the sky{SAUT}with a \"HAHAHA!\" and make like a tree{SAUT}with the statue...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "This operation would be quite easy{SAUT}if that were possible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ann",
+    "en": "Wait, I think that'd work!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "What'd work?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ann",
+    "en": "Stealing it from the sky!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yusuke",
+    "en": "It seems you've been struck with{SAUT}inspiration. Would you tell us{SAUT}more?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ann",
+    "en": "Sure―so, this'll take some help from{SAUT}everyone, starting with Yusuke...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yusuke",
+    "en": "Hm, I see. So we're going to take those{SAUT}and put them here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P3 Fem Protag",
+    "en": "That sounds like a great plan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ann",
+    "en": "Right? Right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "Now that's our Lady Ann! But, it all{SAUT}comes down to this question: Yusuke,{SAUT}can you pull it off?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yusuke",
+    "en": "Undoubtedly. I'll make quite the{SAUT}breathtaking prop.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ryuji",
+    "en": "Kickass! Let's go get the stuff{SAUT}we need!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ann",
+    "en": "Ryuji and I'll head over to Theodore's{SAUT}spot.{PAGE}We'll need tons of stuff, so he's gotta{SAUT}be the one to do this for us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Ryuji",
+    "en": "Yeah. We'll make sure he sets us up{SAUT}right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yusuke-kun and I'll go borrow the{SAUT}supplies we need from Nagi-san{SAUT}and get to work.{PAGE}Most of it'll be on Yusuke-kun, but I'll{SAUT}do whatever he needs to get it done!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yusuke",
+    "en": "And I vow to craft the perfect item.{SAUT}Using my skills for such a task...{SAUT}I'm itching to do this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Futaba",
+    "en": "Hey... Can I go talk to Hikari for a bit?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "Did something happen?{OPTION}Are you concerned?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Futaba",
+    "en": "Nothing like that... I just wanna talk{SAUT}to her some more.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Futaba",
+    "en": "Yeah... I want to talk to her some more.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Morgana",
+    "en": "Then, I'll go with you...{PAGE}If Futaba goes alone, she may not even{SAUT}end up saying what's actually on{SAUT}her mind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Futaba",
+    "en": "Mona... That would help!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Akechi",
+    "en": "...Would it be acceptable for me to go{SAUT}where Elizabeth is too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Ann",
+    "en": "Elizabeth?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Akechi",
+    "en": "Sorry, there's just something that I wish{SAUT}to ask her... I apologize for the personal{SAUT}reason.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Morgana",
+    "en": "Well, I'm sure it'll be fine since we've got{SAUT}everything else covered.{PAGE}, you keep tabs on{SAUT}everyone's progress until all{SAUT}the preparations are done.{PAGE}It's for the best not to leave everyone{SAUT}to their own devices. Make sure{SAUT}everything gets taken care of!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "en": "Everyone left on their missions...{PAGE}Who should I check on?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_046",
+    "choix": true,
+    "en": " and Yusuke{OPTION}Ann and Ryuji{OPTION}Morgana and Futaba{OPTION}Akechi and Elizabeth",
+    "fr": ""
+  }
+]

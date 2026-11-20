@@ -1,0 +1,279 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Ah... And now, all that remains{SAUT}is disappointment.{PAGE}Not because I have been bested,{SAUT}but because our performance has{SAUT}drawn to a close.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "You were strong.{OPTION}That wasn't too hard.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "No... While I have some knowledge{SAUT}of this rough play, I am still quite{SAUT}inexperienced.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* Truly, your strength never{SAUT}ceases to amaze me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Margaret",
+    "en": "That was a wonderful fight. I felt{SAUT}a fire blaze in my heart from{SAUT}spectation alone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "Sister? I didn't know you were here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Margaret",
+    "en": "Yes. I had hoped to see this battle.{PAGE}Not only did I aim to witness the{SAUT}power they've nurtured here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006_1",
+    "locuteur": "Margaret",
+    "en": "I wished to see what possibilities lie{SAUT}beyond their magnificent display.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh right, that film...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "en": "The film that looked sooty is now{SAUT}glowing faintly...{PAGE}......!{PAGE}The four pieces of film are shining{SAUT}powerfully bright together...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P4 Hero",
+    "en": "Is it...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "Ngh...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "A brilliant light floods the area...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "That light just now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Hero",
+    "en": "It's like... something's changed{SAUT}within me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Is this my...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "en": "I sense a new power within my heart...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Margaret",
+    "en": "*chuckle* It seems you've all{SAUT}grasped a new possibility.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Elizabeth",
+    "en": "It has been a joy and a privilege{SAUT}to witness such a rare sight.{PAGE}If I might ask... How do you feel?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "It's... incredible.{OPTION}It's hard to tell.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Margaret",
+    "en": "Yes, truly.{PAGE}I cannot wait to see what you can{SAUT}accomplish from here on.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Margaret",
+    "en": "Hmhm... I suppose that's fine for{SAUT}now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020_1",
+    "locuteur": "Margaret",
+    "en": "But that power will surely help you{SAUT}choose your own paths to come.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Elizabeth",
+    "en": "Either way... it is staggering indeed{SAUT}to know you've bested all those who{SAUT}govern power. Myself included!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Margaret",
+    "en": "Ha... I'm certain this will be a great{SAUT}surprise indeed to our master.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022_1",
+    "locuteur": "Margaret",
+    "en": "You've done well in coming so far.{SAUT}Though perhaps all this was simply{SAUT}your fate...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akechi",
+    "en": "I'd say it's thanks to us keeping up{SAUT}with those special screenings.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023_1",
+    "locuteur": "Akechi",
+    "en": "After all, that was where this all{SAUT}began.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Junpei",
+    "en": "Yeah, we'd have gotten nowhere{SAUT}without those! Makes you wonder{SAUT}who was pullin' the strings.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025_1",
+    "locuteur": "Hikari",
+    "en": "Um... Well, I don't know if anyone{SAUT}set it up deliberately... but I've{SAUT}been thinking about it.{PAGE}I wonder if it's more like... the{SAUT}special screenings happen based on{SAUT}your emotions? Or... wishes, I guess?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Naoto",
+    "en": "I see. An interesting hypothesis...{PAGE}Our memories did seem to alter{SAUT}the characters in those movies{SAUT}we've been investigating.{PAGE}More importantly, Hikari-san's movie{SAUT}seemed deeply reflective of her own{SAUT}mindset and perspective.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Akechi",
+    "en": "So, similarly, the special screenings{SAUT}reflect our own consciousness...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Hikari",
+    "en": "Right. Like wanting to get closer to{SAUT}everyone, or maybe wanting to get{SAUT}stronger...{PAGE}If you wished for all those things{SAUT}hard enough, then maybe they{SAUT}became movies?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P4 Hero",
+    "en": "That may be true. It would explain{SAUT}why we learned that Unison Skill...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Teddie",
+    "en": "Tons of my wishes came true, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yukiko",
+    "en": "I wanted to get to know everybody{SAUT}better, and that came true. Now{SAUT}we're all friends, aren't we?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P3 Fem Protag",
+    "en": "If I've learned anything, it's that you{SAUT}can make any wish come true if you{SAUT}hold onto it with all your heart.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Junpei",
+    "en": "You're telling me our thoughts can{SAUT}turn into movies...? Gah, I can't{SAUT}take it anymore!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033_1",
+    "locuteur": "Junpei",
+    "en": "I want a movie where I'm the star!{SAUT}With hot babes, and a car chase,{SAUT}and explosions!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yukari",
+    "en": "*sigh* We get enough of your{SAUT}delusions already. I don't need a{SAUT}personal ticket to them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Elizabeth",
+    "en": "In any case, it is clear you have{SAUT}all grown tremendously in this{SAUT}world of movies.{PAGE}I believe freedom is already within{SAUT}your grasp. Keep striving, and I am{SAUT}sure you will succeed.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "Thanks.{OPTION}I hope you'll help us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Elizabeth",
+    "en": "Oh, you need not thank me.{SAUT}You have come this far almost{SAUT}entirely under your own power.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Elizabeth",
+    "en": "I understand. I will do everything{SAUT}in my power to assist you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Elizabeth",
+    "en": "I apologize for not mentioning it{SAUT}until now, but I also have a reward{SAUT}for you. Please use it well.{PAGE}Now, I shall be on my way. Let us{SAUT}meet again at the box office.",
+    "fr": ""
+  },
+  {
+    "id": "PERSONA_STOCK_UP_MSG",
+    "en": "Overcoming this ordeal has strengthened the{SAUT}power of the wild card. Your Persona{SAUT}stock has increased by {f 0 1 2}{f 2 4 0}{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "SYS_MES_000",
+    "en": "The effect of {f 4 4 3 0 1596} has{SAUT}increased the EXP boost of{SAUT}Finish Bonuses.",
+    "fr": ""
+  }
+]

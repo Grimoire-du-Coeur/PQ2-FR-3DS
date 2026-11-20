@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "This special screening will require you to{SAUT}hunt down a specific number of targets.{PAGE}Though you could also resort to{SAUT}eliminating anything and everything{SAUT}that comes your way...{PAGE}Whatever your decision, it should prove a{SAUT}thrilling, chilling, all-around fulfilling{SAUT}experience! Please, give it a try!{PAGE}...There you have it, a sure candidate for{SAUT}the feel-good movie of the year.{PAGE}Your targets this time are the Rampage{SAUT}Drives found in \"A.I.G.I.S.\"{PAGE}I want you to defeat four of them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "Heh, sounds good. I'm itching for{SAUT}a fight!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Right! It's all about making the first{SAUT}move!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "I like your attitude, {f 6 1 27 0 0 0}!{SAUT}Let's knock 'em dead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Shinjiro",
+    "en": "You guys better not just jump into{SAUT}this without a plan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "I'll mark the locations of these{SAUT}Shadows on your map.{PAGE}Best of luck, everyone.",
+    "fr": ""
+  }
+]

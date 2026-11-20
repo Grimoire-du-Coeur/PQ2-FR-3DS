@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "The {f 0 1 2}PERSONA{f 0 1 0} option has been added to{SAUT}the {f 0 1 2}X Button menu{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "You can assign Sub-Personas at {f 0 1 2}any time{SAUT}outside of battles{f 0 1 0}.{SAUT}　{SAUT}Keep in mind that once in battle, you can't{SAUT}use Sub-Personas not assigned to anyone.",
+    "fr": ""
+  }
+]

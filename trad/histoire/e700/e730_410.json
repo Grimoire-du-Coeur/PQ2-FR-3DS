@@ -1,0 +1,145 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "Looks like we've reached a new area...{SAUT}And a seriously massive one at that!{PAGE}There are robots everywhere, too.{SAUT}I wonder how they maintain this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Well, they're machines that follow{SAUT}orders, so wouldn't it be easy to{SAUT}keep all of this clean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "I know that! I'm talking about{SAUT}the general attitude here that's{SAUT}bugging me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Are you asking who decided what the{SAUT}\"normal\" is supposed to be in this world,{SAUT}Takeba-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "Yeah, that! I wanna know who actually{SAUT}programmed this sort of lifestyle into{SAUT}the machines.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "Hmm, maybe the humans that made{SAUT}the robots?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "In sci-fi movies, some kind of mother{SAUT}computer is the typical controller of{SAUT}a robotic society...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Ooh, I think I've heard of those! They{SAUT}usually appear as the final obstacle{SAUT}for the hero to overcome.{PAGE}If I remember right, they're connected{SAUT}to all the robots and their functions...{SAUT}Or, something wild like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "So you're saying they're some kind of{SAUT}electronic leader... Doesn't that{SAUT}describe the Overseer, then?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "In that case, wouldn't we fix the movie{SAUT}if we beat him up?{PAGE}A leader that forces the entire world to{SAUT}be the same is definitely wrong!{SAUT}I'm totally gonna pummel him!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Sounds like a plan to me. Now that{SAUT}that's decided, let's go look for{SAUT}the Overseer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "I notice Crow standing around while{SAUT}everyone else continues on...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "A world that sacrifices the individual{SAUT}for the many, hm? An authoritative{SAUT}approach, for sure.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "...Joker, you've been staring at me―{SAUT}is there something you want to say?{PAGE}No one can overhear us back here,{SAUT}so if there's something on your mind,{SAUT}let's have it.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "You're acting quite unusually.{OPTION}That's my line. What's up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akechi",
+    "en": "Huh? You think so? I didn't notice{SAUT}at all...{PAGE}I may be growing a bit anxious in this{SAUT}environment without having realized it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "Huh? Oh, nothing in particular...{PAGE}I may be growing a bit anxious in this{SAUT}environment without having realized it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "Well, I suppose this just means I have my{SAUT}own thoughts on the matter. This world{SAUT}is exciting and filled with mystery...{PAGE}And, while we're here, even I could―{PAGE}No, never mind. I'll make sure to steel{SAUT}myself from here on out.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Just keep up the usual.{OPTION}You do that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "...I guess I should say thanks. I'll take{SAUT}advantage of your kind words for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akechi",
+    "en": "Keep up the usual, huh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akechi",
+    "en": "Mm, sorry. Thanks for warning me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yukari",
+    "en": "Hey, you two! If you don't pick it up,{SAUT}you're gonna be left behind!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akechi",
+    "en": "Well, you heard her. We should go,{SAUT}Joker.",
+    "fr": ""
+  }
+]

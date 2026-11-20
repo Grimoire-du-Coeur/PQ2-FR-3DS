@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "We've never seen that Shadow before,{SAUT}but let's hurry up and kick its butt―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Wait... Wh-What the...? My body feels{SAUT}weird...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "Oh... I can't gather up my strength{SAUT}like usual either...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "You too!? So it's not just me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "We'll have to figure it out later! Here it{SAUT}comes!",
+    "fr": ""
+  }
+]

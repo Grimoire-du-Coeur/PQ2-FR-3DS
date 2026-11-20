@@ -1,0 +1,18 @@
+[
+  {
+    "id": "unite_sel",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "unite_check",
+    "en": "Create this weapon?",
+    "fr": ""
+  },
+  {
+    "id": "msg_unite_ok",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has been{SAUT}obtained!",
+    "fr": ""
+  }
+]

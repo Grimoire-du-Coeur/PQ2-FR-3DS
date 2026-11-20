@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Now, let us gather these parts.{PAGE}Our quarry this time would be the{SAUT}Roaring Turrets, then? Are they{SAUT}nearby?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "Looks like these Roaring Turrets are{SAUT}around the southwest part of the{SAUT}map...{PAGE}My readings say there's a large{SAUT}group by the security gates!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "Let's head there first!{PAGE}We need three of those{SAUT}Futuristic Gizmos!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Sounds pretty simple... Okay, let's{SAUT}tear 'em apart!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Just don't go crazy out there, okay?{SAUT}Good luck, guys!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "This special screening concerns the{SAUT}graffiti in the Kamoshidaman movie...{PAGE}It would seem that one of those{SAUT}drawings has changed drastically.{PAGE}Your orders this time are to find the{SAUT}drawing that is different from the rest...{SAUT}That is all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "When you say graffiti, you mean street{SAUT}art, right?{PAGE}Are you saying that there's a new one{SAUT}out there somewhere?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "No. Elizabeth said that one of them{SAUT}has \"changed\".{PAGE}That would mean that one of the{SAUT}existing drawings has been overwritten.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* Well done, Detective Prince.{SAUT}Your deductive skills are quite sharp.{PAGE}In any case, I think it will make more{SAUT}sense once you see it for yourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "That wasn't much of an explanation...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "Heh... Heheh... Hahahahaha!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Whoa! What's gotten into you, Inari!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "While it goes without saying that this{SAUT}special screening is perfectly suited for{SAUT}me...{PAGE}This is also a splendid opportunity to{SAUT}introduce everyone to the visual{SAUT}wonders of street art!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Rise",
+    "en": "Hmm, it's true we don't see street art{SAUT}that often.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukiko",
+    "en": "Yeah, you'd cause quite a scene if you{SAUT}tried that in Inaba.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "A quest for street art... Heheh... I'm{SAUT}absolutely trembling with excitement!{PAGE}Urgh, but not yet... It's too soon! Be still,{SAUT}my hand...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Oh, brother... Next thing you know,{SAUT}Inari's gonna open up a third eye.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Either way, {f 6 1 30 0 0 0}, allow me to{SAUT}handle this special screening!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "It's all you.{OPTION}I think not.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "Of course. Now then, let's be off. Our{SAUT}quest for new inspiration begins!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "What...!?{PAGE}Erk, the shock is too great... I can't stop{SAUT}shaking...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "If we don't get going soon, he's gonna{SAUT}summon Dark Inari or something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Sounds good. There's a reward in it,{SAUT}and we can boost our strength too,{SAUT}so why not?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "So all we have to do is look for some{SAUT}newly-drawn street art?{PAGE}Okay, let's go, {f 6 1 29 0 0 0}-kun.",
+    "fr": ""
+  }
+]

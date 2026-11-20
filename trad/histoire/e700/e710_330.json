@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "This switch is different from the previous{SAUT}ones... Oracle, what is this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "No clue!{PAGE}But, I have a feeling it's related to those{SAUT}searchlights like the earlier ones!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Welp, let's try pressin' it―we'll never{SAUT}know what it does unless we try!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "MSG_SC_TUTORIAL_0",
+    "en": "If you tap an icon and drag it along{SAUT}{f 0 1 2}while the pencil tool is selected{f 0 1 0}...{PAGE}Then you can {f 0 1 2}place that icon on the map{f 0 1 0}.{PAGE}For example, you can mark shortcuts with{SAUT}their own designated {f 0 1 2}icon{f 0 1 0}.{PAGE}That icon will {f 0 1 2}automatically display{f 0 1 0}{SAUT}the travel direction of the shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SC_TUTORIAL_1",
+    "en": "Any icons placed by mistake can be{SAUT}deleted by {f 0 1 2}dragging them to the trash can{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SC_TUTORIAL_2",
+    "en": "A mistake in drawing walls or floors is{SAUT}fixed with the {f 0 1 2}UNDO button{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SC_TUTORIAL_3",
+    "en": "Your map has many other functions{SAUT}as well. Details can be found under{SAUT}{f 0 1 2}HELP{f 0 1 0} at the map's bottom right.{SAUT}Don't forget to fill it in as you{SAUT}explore; you'll thank yourself later!",
+    "fr": ""
+  }
+]

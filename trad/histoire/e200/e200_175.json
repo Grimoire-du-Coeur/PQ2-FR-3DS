@@ -1,0 +1,278 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Thank you for taking time out of your{SAUT}hectic schedules to come here.{PAGE}The ticket machine that you've all been{SAUT}waiting for is finally operational.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Oh yeah, that machine wasn't working{SAUT}earlier.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "That is correct.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "However, the ticket machine now seems{SAUT}to be shining, as if it's received the spark{SAUT}of life...{PAGE}Did you catch that?{PAGE}What's that? You missed it? In that case,{SAUT}let's try it once more for those who―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Nah, it's okay! We got it!{PAGE}What I wanna talk about is that outfit!{SAUT}Where'd all the blue stuff go?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "While I swiped―I mean, sifted through{SAUT}the items in storage here,{SAUT}I happened upon this costume.{PAGE}It seems perfect for my role, so I decided{SAUT}to don it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "Your role?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "Indeed. Allow me to explain that, along{SAUT}with the circumstances that led to it.{PAGE}It all started when I was stuffing my face{SAUT}with popcorn and began drifting{SAUT}to sleep...{PAGE}When―all of a sudden! A bright light{SAUT}shot forth from this ticket machine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "So, while we were in there busting our{SAUT}asses, this woman was munching away{SAUT}on popcorn and napping...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elizabeth",
+    "en": "This light that I beheld was so nearly{SAUT}blinding, I had no choice but to wipe{SAUT}up my drool and rise to my feet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Naoto",
+    "en": "It almost feels like she's blaming us{SAUT}for this event...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "Soooo, what does this ticket machine{SAUT}do, Miss?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Elizabeth",
+    "en": "It can now issue \"Special Screening\"{SAUT}tickets.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "What's a special screening?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elizabeth",
+    "en": "If \"Kamoshidaman\" is a full-length{SAUT}feature film, then the special{SAUT}screenings can be seen as short films.{PAGE}Your goal isn't to change the endings―{SAUT}instead, accomplishing the goals set for{SAUT}them will end the screenings...{PAGE}...That's what it said in the \"instruction{SAUT}manual.\"",
+    "fr": ""
+  },
+  {
+    "id": "SEL_015",
+    "choix": true,
+    "en": "Instruction manual?{OPTION}That makes no sense whatsoever.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Elizabeth",
+    "en": "Yes, how fortunate that it was attached{SAUT}to the machine itself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Elizabeth",
+    "en": "I understand what you're saying, but{SAUT}when all is said and done, these are the{SAUT}instructions attached to the machine...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "So, these special screenings: will{SAUT}something happen if we complete{SAUT}them?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Elizabeth",
+    "en": "If you report your success back to me,{SAUT}I shall prepare an ultra-extravagant{SAUT}reward for your endeavor.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yusuke",
+    "en": "Extravagant, you say?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "See? Isn't this \"cheek-droopingly\" great?{SAUT}I have no idea why she's doing so much{SAUT}for us, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Elizabeth",
+    "en": "If I can witness an intriguing movie,{SAUT}then this is a small price to pay. Please{SAUT}consider it a token of my gratitude.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P4 Hero",
+    "en": "...She's way too into this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Elizabeth",
+    "en": "According to the manual, it seems I am{SAUT}now appointed to issue tickets and{SAUT}manage relevant affairs.{PAGE}Basically, I am the vendor here... More{SAUT}specifically, it makes me the box office's{SAUT}booth babe!{PAGE}Thus, I followed these instructions and{SAUT}TRANSFOOOORMED! ...into this attire.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_025",
+    "choix": true,
+    "en": "It suits you.{OPTION}I want to wear one too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Elizabeth",
+    "en": "Dear me, what colossally pleasing{SAUT}words... I am now even more fired up{SAUT}to do this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Elizabeth",
+    "en": "Oh my... I must apologize. There is only{SAUT}one of these costumes, and no spare{SAUT}to be found.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ryuji",
+    "en": "Wha―Why're you tryin' to wear it?{SAUT}And why do you look so disappointed{SAUT}with her answer, too!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P4 Hero",
+    "en": "We should leave him be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Elizabeth",
+    "en": "It just so happens that a ticket can be{SAUT}issued at this moment, so let's give it{SAUT}a try without delay...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yusuke",
+    "en": "...Hm? Nothing's printed on this ticket.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Elizabeth",
+    "en": "Supposedly, the ticket's details will{SAUT}naturally develop upon your entrance{SAUT}into the movie...{PAGE}This particular special screening{SAUT}requires you to strike down enemies{SAUT}as if they were flies.{PAGE}In particular, you must \"defeat{SAUT}eight Basalts.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Futaba",
+    "en": "Mmhm? And what's the reward{SAUT}for this screening?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Elizabeth",
+    "en": "In the event that you succeed, you will{SAUT}receive a monetary reward...{PAGE}Not only that―a \"Healing Armlet\" that{SAUT}can be made from materials dropped by{SAUT}those enemies will appear in the shop.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Akechi",
+    "en": "What's a Healing Armlet?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Elizabeth",
+    "en": "It's an exceptional accessory that{SAUT}enables the use of a healing spell{SAUT}to whoever equips it...{PAGE}Such hyper-ultra-amazing equipment{SAUT}will soon become purchasable in{SAUT}a concession stand near you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Ryuji",
+    "en": "Wait―we gotta pay for it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yusuke",
+    "en": "Offering a reward, and then making us{SAUT}purchase said reward... It seems you're{SAUT}quite the skilled merchant.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "P4 Hero",
+    "en": "But, new equipment like that would be{SAUT}helpful―it'd improve our odds in{SAUT}battle, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Haru",
+    "en": "These special screenings sound useful,{SAUT}so why don't we try this one?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_041",
+    "choix": true,
+    "en": "Alright.{OPTION}If we can find the time for it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Makoto",
+    "en": "If we can increase our battle potential{SAUT}with these rewards, they'll help us{SAUT}speed up our exploration efforts...{PAGE}Not only that―if we engage in activities{SAUT}that differ from our usual efforts, they{SAUT}should help us get stronger as well.{PAGE}Let's work through these short films{SAUT}while we progress through the movies―{SAUT}After all, slow and steady wins the race.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Elizabeth",
+    "en": "By the by, these tickets have no{SAUT}particular time limit.{PAGE}If you wish to view a different special{SAUT}screening, it's possible to cancel any{SAUT}already-printed tickets.{PAGE}Reissues of such canceled screenings{SAUT}are also available to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Futaba",
+    "en": "I see, so we really do get to do these{SAUT}at our own pace...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Elizabeth",
+    "en": "Well then, everyone: please heartily{SAUT}participate in these special offerings!",
+    "fr": ""
+  }
+]

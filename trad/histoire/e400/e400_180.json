@@ -1,0 +1,242 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ken",
+    "en": "...Just as I expected, this floor has{SAUT}a musical atmosphere too.{PAGE}Swaying flowers and musical notes...{SAUT}This place has the same sing-songy feel{SAUT}about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Y'know, I've never actually watched{SAUT}a musical.{PAGE}The people in 'em just start singin'{SAUT}at the drop of a hat, yeah? That's{SAUT}too unrealistic for me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari",
+    "en": "That's not true, though!{PAGE}Sound films have existed since the 1920s{SAUT}when talking pictures overlaid with{SAUT}music were―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "O-Oh, okay...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "Oh... I'm sorry. I didn't mean to get loud{SAUT}like that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Nah, it's fine. I dunno anything about{SAUT}'em, so feel free to lay it on me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "*chuckle* Thanks. I'm glad to hear it.{PAGE}Now that I think about it, I couldn't help{SAUT}but talk a lot when it came to movies...{SAUT}People were always put off by it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "\"Put off\"!? But, the passion that people{SAUT}display when speaking of what they love{SAUT}is so heartening!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukari",
+    "en": "Plus, sometimes hearing about others'{SAUT}interests can get you into them too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "I love musicals!{PAGE}It may not have been a movie, but when{SAUT}I saw one live on Broadway, I got{SAUT}goosebumps!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "I agree. When you hear a large group of{SAUT}people's voices and see their movement{SAUT}come together, it's so moving.{PAGE}It's true that people don't burst into song{SAUT}in real life... but I feel like there are some{SAUT}moments when your heart turns to song.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Hikari",
+    "en": "See!? You get it! There are times even in{SAUT}real life when your emotions grow so{SAUT}strong that you feel like singing!{PAGE}But I'm not much of a singer myself, so{SAUT}I experience that through the characters{SAUT}in the musicals.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Yeah! Sadness, happiness, and even{SAUT}anger are expressed so vividly with{SAUT}song and dance.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Hikari",
+    "en": "Yeah. The actors express every kind of{SAUT}emotion and mood with their bodies,{SAUT}to all sorts of musical genres.{PAGE}The musical's ability to directly express{SAUT}human emotion is what really appeals{SAUT}to me.{PAGE}I can still remember when I found out{SAUT}that dialogue isn't the only way to{SAUT}communicate a message to an audience.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "*giggle* You must really love musicals,{SAUT}Hikari-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Hikari",
+    "en": "*gasp* I'm sorry! There I go, ranting{SAUT}again...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "It's pretty surprising, actually.{OPTION}You're so passionate.{OPTION}You're quite the enthusiast.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "Right? I never thought you could get{SAUT}so heated.{PAGE}So, musicals let you express strong{SAUT}emotions like that through singin'{SAUT}and dancin', huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "She must love musicals because she's{SAUT}that way deep down, and musicals{SAUT}often directly express such emotion.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "Mweheheh... An enthusiast won't stop{SAUT}once they get going on their topic. I'm{SAUT}so happy to see Hikari this fired up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukiko",
+    "en": "I admit I'm a bit jealous that you have{SAUT}something that you're so passionate{SAUT}about...{PAGE}I hope I can find something that{SAUT}fascinates me the same way―you know,{SAUT}like Chie with her kung fu and meat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Chie",
+    "en": "C'mon, I don't think meat counts!{SAUT}I mean, I do love it and all, but, still...{PAGE}Ooh, but I AM fascinated with kung fu.{SAUT}Do you wanna watch \"Trial of the{SAUT}Dragon\" with me sometime, Yukiko?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Hikari",
+    "en": "That's that famous kung fu movie! I've{SAUT}seen it too―it even got my blood boiling!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Chie",
+    "en": "Yeah, that's what I'm talkin' about! I get{SAUT}so pumped that I can't help but yell,{SAUT}\"Hwa-taaaa!\" myself!{PAGE}Man, you sure know your stuff,{SAUT}Hikari-chan. To think you'd get what's{SAUT}great about even that movie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Hikari",
+    "en": "U-Um... Does anyone else have{SAUT}a favorite movie?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_025",
+    "choix": true,
+    "en": "The Cake Knight Rises.{OPTION}Love Possibly.{OPTION}Mes Miserable.{OPTION}I can't think of any.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "Ah, yes. I thought it'd be a standard hero{SAUT}flick, but it was surprisingly thought-{SAUT}provoking about social awareness.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ann",
+    "en": "I saw it too! I couldn't hold back{SAUT}the waterworks for that one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "Oh yeah, that was a musical too.{PAGE}I felt like I learned about human{SAUT}kindness due to that bishop's{SAUT}merciless nature...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "Seriously? When we get back, let's go{SAUT}watch something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Makoto",
+    "en": "I think \"Like A Dragon\" would be{SAUT}my choice. It was pretty thrilling...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Hikari",
+    "en": "That's the yakuza movie, right!? I can{SAUT}remember getting a chill down my spine{SAUT}from just how intense it was.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Makoto",
+    "en": "You really do know your stuff, don't you,{SAUT}Hikari-chan?{PAGE}I'm surprised that you're acquainted{SAUT}with so many different types of movies{SAUT}and not just the musicals.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Teddie",
+    "en": "Is there a reason you fell in love with{SAUT}movies, Hikarin?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Hikari",
+    "en": "Huh...? My reason?{PAGE}My... reason...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Hikari",
+    "en": "Hm? Oh... It's probably because I've{SAUT}been watching movies ever since I can{SAUT}remember.{PAGE}But... I can't recall any more than that{SAUT}right now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yukari",
+    "en": "I see. Well, we might be able to learn{SAUT}some more if we keep goin' through{SAUT}this movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Hikari",
+    "en": "Mmhm... I need to make sure to watch{SAUT}it all. Let's keep going, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Morgana",
+    "en": "Make sure everyone stays on guard.{PAGE}This film may look all cheery, but don't{SAUT}forget―it's crawling with Shadows!",
+    "fr": ""
+  }
+]

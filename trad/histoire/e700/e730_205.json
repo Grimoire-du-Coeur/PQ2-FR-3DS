@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Ack! Another one of these guys!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "Be careful! There's an active FOE in{SAUT}front of the door!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Shinjiro",
+    "en": "As long as that FOE's there, it's gonna{SAUT}keep us from moving any further...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "Heh... Then there's only one option for{SAUT}us. If we destroy it, there's no way for{SAUT}it to rat us out.{PAGE}Let's open up our own path out of here{SAUT}by taking down that robot!",
+    "fr": ""
+  }
+]

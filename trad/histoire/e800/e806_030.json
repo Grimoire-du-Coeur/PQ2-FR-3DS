@@ -1,0 +1,134 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Oh! I'm sensing some water close by.{SAUT}You guys are almost there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Yo, are we really gonna find one of{SAUT}those ammonite things here? They lived{SAUT}in the ocean, didn't they?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "That's right. Supposedly, ammonites{SAUT}lived at the bottom of the ocean.{PAGE}It's been said that fossils have been{SAUT}found in rivers and lakes that were{SAUT}once a part of the ocean.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Ahh. We'll be able to dig up the ancient{SAUT}world with our own hands... This will{SAUT}surely arouse my creativity!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "Um... Is Fox always like this?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Pretty much.{OPTION}He's more calm than usual.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Actually, he's not so bad right now.{PAGE}I mean, the other day he wanted to{SAUT}hike Mt. Fuji just so he could paint the{SAUT}sunrise.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "Seriously!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Yeah, pretty much.{PAGE}I mean, the other day he wanted to hike{SAUT}to Mt. Fuji just so he could paint the{SAUT}sunrise.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Haru",
+    "en": "Yeah... At least we were able to stop him{SAUT}from going up there in just his uniform.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Normally, he plays it cool, but when he{SAUT}gets like this, there's no tellin' what he{SAUT}might do...{PAGE}Dude's a real fool for art. He just{SAUT}doesn't know how to hold himself back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "A fool, you say? I'll have you know,{SAUT}I have far better grades than you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "That's not what I'm sayin'! Don't go{SAUT}dissin' me like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukiko",
+    "en": "Doesn't know how to hold himself back,{SAUT}huh...? Honestly, I'm a little jealous.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Chie",
+    "en": "Yukiko...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukiko",
+    "en": "I've always tried to act proper and live{SAUT}up to everyone's expectations.{PAGE}Maybe it's showing up in my pictures{SAUT}too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "So that's what it was... Don't worry,{SAUT}Amagi-san.{PAGE}The passion you hold in your heart is{SAUT}real.{PAGE}I will help you bare it all! Now, go!{SAUT}Expose yourself to the world!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "Let's stop here.{OPTION}Maybe hold yourself back.{OPTION}Help! Police!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "Fox... May I speak with you for a{SAUT}moment?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "I-I'm only trying to teach Amagi-san{SAUT}the wonders of art...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Yeah, yeah, tell it to the judge.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "Forgetting about the weirdo for now,{SAUT}we're almost there! Keep going!",
+    "fr": ""
+  }
+]

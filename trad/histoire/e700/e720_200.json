@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Mroww!? This feeling... I think there's{SAUT}Treasure nearby!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Oh! Isn't that it over there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "Look, a Treasure Spot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Huh? It somehow feels different than it{SAUT}usually does...{PAGE}Hey, Joker! We should go check it out!",
+    "fr": ""
+  }
+]

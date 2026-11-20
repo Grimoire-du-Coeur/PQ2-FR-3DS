@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Soooo... Did anything happen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "Well, it doesn't seem like anything's{SAUT}changed...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Let's ask Oracle about it.{OPTION}The air feels somehow different...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "'Kay, just a sec. Hmmmm... Fuuka, Rise,{SAUT}what's your take on this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Fuuka",
+    "en": "Um... I think the air's changed a bit?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Rise",
+    "en": "Mmhm, I feel it too. Maybe a {f 0 1 2}change{SAUT}in the wind direction{f 0 1 0}?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akihiko",
+    "en": "Well, what do we do now? Where else{SAUT}could we even look?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "...Could this have something to do with{SAUT}that wind shield we saw earlier?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_1",
+    "locuteur": "Akechi",
+    "en": "Joker, why don't we go check that out{SAUT}again?",
+    "fr": ""
+  }
+]

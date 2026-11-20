@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Hey, uh, it looks like Zabby's getting{SAUT}pretty tired of waiting for you guys to{SAUT}come find out what she has to say...{PAGE}She's all huddled up next to the ticket{SAUT}machine... Navigating while she glares{SAUT}at me silently is getting real awkward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Oh yeah, she said the machine started{SAUT}shining all of a sudden. Should we head{SAUT}back, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Yeah, let's head back now.{OPTION}We'll check it out later.{OPTION}We'll go when we can.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Mmhm, one oughtn't make a lady wait.{SAUT}You must be a gentleman at heart, Joker.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "Hmm, is this part of some plot to play{SAUT}hard to get? You've got the skills to be{SAUT}a gigolo, Joker...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Aw man, that line means you're never{SAUT}gonna show up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Ah, the way you casually dodge matters{SAUT}like that betrays your talents as{SAUT}a gigolo...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Looks like a serious rival's appeared―{SAUT}right, Sensei?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P4 Hero",
+    "en": "Hm? What do you mean by that?{PAGE}If she's feeling lonely, isn't it our duty{SAUT}to at least go and spend time with her?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Whoa, that was the line of a major{SAUT}player! I bet you're the silver-tongued{SAUT}type of protagonist.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "I don't really get what you're all talking{SAUT}about―but we should at least go hear{SAUT}what she has to say.{PAGE}We're at a good stopping point here,{SAUT}so let's head back. We'll resume{SAUT}the search for Yosuke after that.",
+    "fr": ""
+  }
+]

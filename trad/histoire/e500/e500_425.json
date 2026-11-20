@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Upset woman",
+    "en": "Ah... I remember now...{SAUT}What I really wanted...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Languid man",
+    "en": "That's right... Deep down,{SAUT}I didn't want to give up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Despondent woman",
+    "en": "I won't give up yet either. I'm going{SAUT}to stick it out just a bit longer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Listless man",
+    "en": "Haha... Guess all we needed{SAUT}was a bit of courage...{PAGE}Thank you...",
+    "fr": ""
+  }
+]

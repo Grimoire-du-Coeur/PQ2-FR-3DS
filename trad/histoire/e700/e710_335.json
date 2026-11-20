@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Hmm? ...Hey, did anything change?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "You know it!{PAGE}It looks like this lets you {f 0 1 2}change the{SAUT}positions of the powered searchlights{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "I see... So it's a {f 0 1 2}directional switch{f 0 1 0}.{PAGE}We should make use of these when{SAUT}we encounter them.",
+    "fr": ""
+  }
+]

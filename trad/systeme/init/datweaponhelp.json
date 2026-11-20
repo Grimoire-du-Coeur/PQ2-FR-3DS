@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "weapon_001",
+    "en": "A simple knife that is easy to wield.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_002",
+    "en": "A knife made with light materials.{SAUT}{f 0 1 3}Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_003",
+    "en": "A small dagger with a sharp edge.{SAUT}{f 0 1 3}Accuracy +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_004",
+    "en": "A knife that gleams with red poison.{SAUT}{f 0 1 3}Low chance of Paralysis{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_005",
+    "en": "A short knife made in Nepal.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_006",
+    "en": "A short knife made to retain venom on{SAUT}its blade. {f 0 1 3}Low chance of Poison{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_007",
+    "en": "A ritualistic dagger coated with silver.{SAUT}{f 0 1 3}Ma +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_008",
+    "en": "A knife with an edge made from{SAUT}black ore. {f 0 1 3}Light piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_009",
+    "en": "A short sword processed for maximum{SAUT}sharpness. {f 0 1 3}Lu +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_00A",
+    "en": "A sharp kopis of high quality.{SAUT}{f 0 1 3}Max SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_00B",
+    "en": "An intimidating-looking scalpel.{SAUT}{f 0 1 3}Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_00C",
+    "en": "Near-futuristic shortsword tinged with{SAUT}energy. {f 0 1 3}Medium chance of Paralysis{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_00D",
+    "en": "Small knife made from unnatural{SAUT}metals. {f 0 1 3}Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_00E",
+    "en": "A spoon. It was not intended for this.{SAUT}{f 0 1 3}Low chance of Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_00F",
+    "en": "This dagger deflects strikes using{SAUT}magnetic power. {f 0 1 3}En +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_010",
+    "en": "The possessed shortsword of a certain{SAUT}alchemist. {f 0 1 3}Max SP +10% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_011",
+    "en": "An all-purpose cane for any situation.{SAUT}{f 0 1 3}All stats +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_012",
+    "en": "A knife enchanted to cut through any{SAUT}material. {f 0 1 3}Critical rate +20% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_013",
+    "en": "A piercing short sword for the merciful.{SAUT}{f 0 1 3}Low chance of Instant Kill / Ag +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_014",
+    "en": "Used to reclaim paradise from the gods.{SAUT}{f 0 1 3}Halves HP cost / Ma +4 / Ag +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_016",
+    "en": "A replica of a prop spoon once used{SAUT}in a jailbreak film. {f 0 1 3}En +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_017",
+    "en": "A knife used by the sole survivor in a{SAUT}horror film. {f 0 1 3}Lu +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_021",
+    "en": "A metal pipe with a perfect grip.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_022",
+    "en": "A stick with nails hammered into it for{SAUT}more lethality. {f 0 1 3}Accuracy +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_023",
+    "en": "A rod that swings with near-audible{SAUT}weight. {f 0 1 3}Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_024",
+    "en": "A stick-like weapon used for hitting{SAUT}or cutting. {f 0 1 3}Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_025",
+    "en": "A customized blunt instrument made{SAUT}to be like a pipe. {f 0 1 3}En +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_027",
+    "en": "An instrument made heavy for the{SAUT}extra striking power.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_028",
+    "en": "A stick made from a giant creature's{SAUT}leg bone. {f 0 1 3}Max HP +5% / En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_029",
+    "en": "A steel pipe made from a demon's{SAUT}mace. {f 0 1 3}En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_02A",
+    "en": "Made to knock opponents out.{SAUT}{f 0 1 3}Medium chance of Sleep{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_02B",
+    "en": "Contains embedded caltrops for{SAUT}extra brutality. {f 0 1 3}Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_02C",
+    "en": "A metal pipe used for rebar in a{SAUT}skyscraper. {f 0 1 3}Max SP +10% / Ma+ 3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_02D",
+    "en": "A pole tipped with spiky wolf fangs.{SAUT}{f 0 1 3}Ag +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_02E",
+    "en": "A club used by a deific arbiter of life{SAUT}and death. {f 0 1 3}Critical rate +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_02F",
+    "en": "A rod of ore infused with the planet's{SAUT}power. {f 0 1 3}Max SP +10% / Ma +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_030",
+    "en": "A club known as the base of the minor{SAUT}arcana. {f 0 1 3}Critical rate +5% / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_031",
+    "en": "A pole favored by a Chinese dragon{SAUT}god. {f 0 1 3}Max HP +15% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_032",
+    "en": "This staff grants three wishes per swing.{SAUT}{f 0 1 3}High chance of Hex{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_033",
+    "en": "A staff with the power to break any{SAUT}solid. {f 0 1 3}Critical rate +20% / En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_034",
+    "en": "An extendable weapon made by Taishang{SAUT}Laojun. {f 0 1 3}Halves HP cost / St +5 / En +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_036",
+    "en": "A limited-edition bonus from a popular{SAUT}anime movie. {f 0 1 3}Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_037",
+    "en": "A mace made from an ancient tree's{SAUT}branch. {f 0 1 3}Max SP +5% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_041",
+    "en": "A leather whip of respectable length.{SAUT}{f 0 1 3}Ranged{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_043",
+    "en": "A whip that inspires strange feelings{SAUT}in those struck. {f 0 1 3}Ranged{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_044",
+    "en": "A whip tipped with clustered metal barbs.{SAUT}{f 0 1 3}Ranged / Low chance of Confusion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_045",
+    "en": "A whip to mingle pain and pleasure.{SAUT}{f 0 1 3}Ranged / Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_047",
+    "en": "A flexible whip that entangles the target.{SAUT}{f 0 1 3}Ranged / Low chance of Agility Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_048",
+    "en": "A whip of ancient knotted vines.{SAUT}{f 0 1 3}Ranged / Light splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_049",
+    "en": "A contractable whip that rends flesh.{SAUT}{f 0 1 3}Ranged / Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_04A",
+    "en": "A whip coursing with electricity.{SAUT}{f 0 1 3}Ranged / Low chance of Paralysis{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_04B",
+    "en": "A whip adorned with vicious spikes.{SAUT}{f 0 1 3}Ranged / Low chance of pierce{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_04C",
+    "en": "A long whip that emits shockwaves.{SAUT}{f 0 1 3}Ranged / Medium splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_04D",
+    "en": "A whip made for women of wisdom.{SAUT}{f 0 1 3}Ranged / Max HP ＆ SP +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_04E",
+    "en": "A whip that inflicts everlasting pain.{SAUT}{f 0 1 3}Ranged / Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_04F",
+    "en": "A thorned whip of purity, fidelity, and{SAUT}respect. {f 0 1 3}Ranged / Max SP +5% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_050",
+    "en": "A whip that strikes the target's soul.{SAUT}{f 0 1 3}Ranged / Medium chance of Magic Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_051",
+    "en": "A whip made from a hide of a nine-{SAUT}tailed fox. {f 0 1 3}Ranged / Max SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_052",
+    "en": "A spiked whip that defies impossibility.{SAUT}{f 0 1 3}Ranged / Low chance of any Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_053",
+    "en": "A whip held by the queen of the night.{SAUT}{f 0 1 3}Ranged / High chance of Sleep{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_054",
+    "en": "A double whip made from two dragons.{SAUT}{f 0 1 3}Ranged / Halves HP cost / Ma +7{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_056",
+    "en": "A souvenir from a movie based on the{SAUT}French Revolution. {f 0 1 3}Ranged{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_057",
+    "en": "Based on a certain archaeologist's{SAUT}movie. {f 0 1 3}Ranged / Ag +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_061",
+    "en": "A replica of a katana. Looks genuine.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_062",
+    "en": "A katana made with traditional{SAUT}methods. {f 0 1 3}Accuracy +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_063",
+    "en": "Big enough to cut though a horse.{SAUT}{f 0 1 3}Light splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_064",
+    "en": "A katana forged with meteoric metal.{SAUT}{f 0 1 3}Max SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_065",
+    "en": "A replica of one of the first swords{SAUT}forged in history.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_067",
+    "en": "A brilliant katana once carried by an{SAUT}officer. {f 0 1 3}Accuracy +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_068",
+    "en": "A katana with rivulets of venom along its{SAUT}blade. {f 0 1 3}Low chance of Poison{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_069",
+    "en": "Said to be one of the highest-class{SAUT}swords. {f 0 1 3}Light piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_06A",
+    "en": "A katana used by Meiji government{SAUT}forces. {f 0 1 3}En +2 / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_06B",
+    "en": "A katana that resembles a smoke pipe.{SAUT}{f 0 1 3}Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_06C",
+    "en": "A katana with the allure of a beautiful{SAUT}woman. {f 0 1 3}Max SP +15% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_06D",
+    "en": "Valued equal to the mahaprajnaparamita{SAUT}sutra. {f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_06E",
+    "en": "A katana with a 35-inch blade.{SAUT}{f 0 1 3}Medium splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_06F",
+    "en": "A katana used to banish evil spirits.{SAUT}{f 0 1 3}St +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_070",
+    "en": "A katana that can split even a bullet{SAUT}in two. {f 0 1 3}Critical rate +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_071",
+    "en": "Masamune's creation, designed after the{SAUT}deity Acala. {f 0 1 3}Max HP +10% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_072",
+    "en": "A katana with the potential to shape{SAUT}many fates. {f 0 1 3}Medium splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_073",
+    "en": "Any blood it sheds is sent flying in grand{SAUT}arcs. {f 0 1 3}High chance of Hex{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_074",
+    "en": "A katana born from a specific rumor.{SAUT}{f 0 1 3}Halves HP cost / St +2 / Ag +7{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_076",
+    "en": "Prop from a swordsman movie set in{SAUT}the Edo period. {f 0 1 3}Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_077",
+    "en": "A katana sharpened on a hard rib{SAUT}bone. {f 0 1 3}En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_081",
+    "en": "A saber with a blade made of light.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_082",
+    "en": "A single-edged, glimmering saber.{SAUT}{f 0 1 3}Accuracy +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_083",
+    "en": "A single-edged saber with a poisoned{SAUT}blade. {f 0 1 3}Low chance of Poison{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_084",
+    "en": "A single-edged saber with a shining{SAUT}violet blade. {f 0 1 3}Ma+ 2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_085",
+    "en": "A single-edged saber that gleams{SAUT}with the power of fame.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_087",
+    "en": "A saber made of particulate dust leftover{SAUT}from the forge. {f 0 1 3}Max SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_088",
+    "en": "It's said this saber glows with the light{SAUT}of distant planets. {f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_089",
+    "en": "A beam saber with a sharp edge on{SAUT}an atomic level. {f 0 1 3}Max SP +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_08A",
+    "en": "Its shine comes from high kinetic potential{SAUT}within. {f 0 1 3}Slightly raise Party Meter gains{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_08B",
+    "en": "A saber of next-level kinetic energy.{SAUT}{f 0 1 3}Critical rate +5% / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_08C",
+    "en": "A saber in flux between anodes and{SAUT}cathodes. {f 0 1 3}Max HP ＆ SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_08D",
+    "en": "A saber with a blade of compressed{SAUT}light. {f 0 1 3}Ag +2 / Low chance of Sleep{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_08E",
+    "en": "A saber born of positive electrodes.{SAUT}{f 0 1 3}Max HP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_08F",
+    "en": "A saber born of negative electrodes.{SAUT}{f 0 1 3}Max SP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_090",
+    "en": "A saber made with sub-nuclear particles.{SAUT}{f 0 1 3}Medium chance of Agility Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_091",
+    "en": "A saber that can cut the fabric of reality.{SAUT}{f 0 1 3}Medium damage with piercing{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_092",
+    "en": "A saber from a star far, far away.{SAUT}{f 0 1 3}Max SP +10% / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_093",
+    "en": "A saber powered by the end of all things.{SAUT}{f 0 1 3}Heavy splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_094",
+    "en": "A saber powered by incredible nuclear{SAUT}energy. {f 0 1 3}Halves HP cost / St +3 / Ma +6{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_096",
+    "en": "A collectible from the newest in a famous{SAUT}sci-fi series. {f 0 1 3}Max SP +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_097",
+    "en": "A collectible from a four-hour movie{SAUT}set in Arabia. {f 0 1 3}Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0A2",
+    "en": "A small slingshot with terrific aim.{SAUT}{f 0 1 3}Ranged{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0A3",
+    "en": "A slingshot with greater firing power.{SAUT}{f 0 1 3}Ranged{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0A4",
+    "en": "Unwieldy, but its shots definitely hurt.{SAUT}{f 0 1 3}Ranged / Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0A5",
+    "en": "Shoots bullets with a weak nerve toxin.{SAUT}{f 0 1 3}Ranged / Low chance of Paralysis{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0A6",
+    "en": "Its bullets fly as fast as comets.{SAUT}{f 0 1 3}Ranged / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0A7",
+    "en": "Its bullets are the size of a child's fist.{SAUT}{f 0 1 3}Ranged / Low chance of Confusion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0A8",
+    "en": "Firing it causes a strangely soothing{SAUT}sound. {f 0 1 3}Ranged / Low chance of Sleep{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0A9",
+    "en": "This slingshot's bullets leave auroras{SAUT}in the air. {f 0 1 3}Ranged / Max SP +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0AA",
+    "en": "More powerful than its shots appear.{SAUT}{f 0 1 3}Ranged / Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0AB",
+    "en": "Its bullets stop villains in their tracks.{SAUT}{f 0 1 3}Ranged / Medium chance of Magic Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0AC",
+    "en": "Shoots a meteor shower of rapid bullets.{SAUT}{f 0 1 3}Ranged / Light splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0AD",
+    "en": "Fires bullets with enormous force.{SAUT}{f 0 1 3}Ranged / Light piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0AE",
+    "en": "A legendary sling that once felled a giant.{SAUT}{f 0 1 3}Ranged / Low chance of Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0AF",
+    "en": "Fires cannonball-sized bullets.{SAUT}{f 0 1 3}Ranged / Medium splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0B0",
+    "en": "Can shoot stars clear out of the sky.{SAUT}{f 0 1 3}Ranged / Medium chance of Confusion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0B1",
+    "en": "Slingshot of a brave treasure hunter.{SAUT}{f 0 1 3}Ranged / Critical rate +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0B2",
+    "en": "Regal. Fires rocks of five different colors.{SAUT}{f 0 1 3}Ranged / High chance of Paralysis{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0B3",
+    "en": "A legendary utopian slingshot.{SAUT}{f 0 1 3}Ranged / Halves HP cost / Ag +8{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0B5",
+    "en": "Mini trebuchet from a Middle-Ages war{SAUT}film. {f 0 1 3}Ranged / Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0B6",
+    "en": "Its bullets have an anesthetic effect.{SAUT}{f 0 1 3}Ranged / Low chance of Sleep{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0B7",
+    "en": "This slingshot's bullets burst on impact.{SAUT}{f 0 1 3}Ranged / Light splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0C2",
+    "en": "A naginata pole without a blade.{SAUT}{f 0 1 3}Ranged{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0C3",
+    "en": "Naginata burning with passionate will.{SAUT}{f 0 1 3}Ranged / Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0C4",
+    "en": "A polearm used mainly in Muromachi-{SAUT}era Kyushu. {f 0 1 3}Ranged{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0C5",
+    "en": "A lacrosse stick of a vivid green hue.{SAUT}{f 0 1 3}Ranged / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0C6",
+    "en": "A naginata with a massive blade.{SAUT}{f 0 1 3}Ranged / Light splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0C7",
+    "en": "Affixed with a sharp piece of ore.{SAUT}{f 0 1 3}Ranged / En +2 / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0C8",
+    "en": "A lacrosse stick for the unproven.{SAUT}{f 0 1 3}Ranged / Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0C9",
+    "en": "Made from strengthening the Tsukushi{SAUT}Naginata. {f 0 1 3}Ranged / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0CA",
+    "en": "A naginata used by Ouchi Sakyo-no-Tayu.{SAUT}{f 0 1 3}Ranged / Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0CB",
+    "en": "A futuristic naginata with a photon blade.{SAUT}{f 0 1 3}Ranged / Medium chance of Strength Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0CC",
+    "en": "Lacrosse stick that brings its wielder{SAUT}victory. {f 0 1 3}Ranged / Max HP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0CD",
+    "en": "A naginata enhanced by modern design.{SAUT}{f 0 1 3}Ranged / Ma+2 / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0CE",
+    "en": "A naginata guided by an Eastern shogun's{SAUT}spirit. {f 0 1 3}Ranged / All stats +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0CF",
+    "en": "Unlocks its user's full potential.{SAUT}{f 0 1 3}Ranged / Low chance of any Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0D0",
+    "en": "A famous female martial artist's naginata.{SAUT}{f 0 1 3}Ranged / Max HP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0D1",
+    "en": "A weapon for those who balance power{SAUT}and mercy. {f 0 1 3}Ranged / Ma +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0D2",
+    "en": "A naginata filled with feminine power.{SAUT}{f 0 1 3}Ranged / High chance of Strength Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0D3",
+    "en": "Held by the self-styled demon king of the{SAUT}sixth sky. {f 0 1 3}Ranged / Halves HP cost / Ma +7{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0D5",
+    "en": "A stick with a net for lacrosse.{SAUT}{f 0 1 3}Ranged / Ag +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0D6",
+    "en": "A stick taken from a tree with tough{SAUT}bark. {f 0 1 3}Ranged / En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0D7",
+    "en": "An extra-long lacrosse stick.{SAUT}{f 0 1 3}Ranged / Light piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0E3",
+    "en": "A sturdy axe. Slightly heavy.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0E4",
+    "en": "A giant axe with a shieldlike blade.{SAUT}{f 0 1 3}En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0E5",
+    "en": "An axe with a hammer on the reverse{SAUT}side. {f 0 1 3}Slight change of Confusion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0E6",
+    "en": "Known as a \"half-moon axe,\" its blade is{SAUT}very sharp. {f 0 1 3}Accuracy +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0E7",
+    "en": "A massive boulder strapped to a haft.{SAUT}{f 0 1 3}Critical rate +5% / En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0E8",
+    "en": "A large, gorgeous-seeming axe.{SAUT}{f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0E9",
+    "en": "A durable axe used by a great warrior.{SAUT}{f 0 1 3}Critical rate +10% / En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0EA",
+    "en": "A sharp axe with a broad, protective{SAUT}blade. {f 0 1 3}En +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0EB",
+    "en": "An axe that can switch modes to become{SAUT}a massive shield. {f 0 1 3}En +3 / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0EC",
+    "en": "An axe that grants deathly despair.{SAUT}{f 0 1 3}En +1 / Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0ED",
+    "en": "An axe used by the Nordic king Erik.{SAUT}{f 0 1 3}Low chance of Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0EE",
+    "en": "A heavy axe with a crescented blade.{SAUT}{f 0 1 3}En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0EF",
+    "en": "Can destroy its target's memories.{SAUT}{f 0 1 3}Medium chance of Confusion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0F0",
+    "en": "A primordial axe used at the advent of{SAUT}mankind. {f 0 1 3}Max HP +15% / Lu +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0F1",
+    "en": "It's said an ancient hero-king used this.{SAUT}{f 0 1 3}Low chance of Strength Bind / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0F2",
+    "en": "The favored axe of an all-female warrior{SAUT}tribe. {f 0 1 3}Heavy splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0F3",
+    "en": "An elegant axe with a dizzying floral{SAUT}scent. {f 0 1 3}Halves HP cost / St +3 / En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_0F5",
+    "en": "Made from sharpening gorgeous{SAUT}crystalline limestone. {f 0 1 3}Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_103",
+    "en": "Simple, effective knuckles.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_104",
+    "en": "Heavy knuckles made for brutal{SAUT}impacts.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_105",
+    "en": "Made to strengthen the knuckles by{SAUT}grasping a copper coin. {f 0 1 3}Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_106",
+    "en": "Gloves with sharpened triangular{SAUT}knuckles.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_107",
+    "en": "Leather gloves with tacks on the{SAUT}knuckles. {f 0 1 3}Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_108",
+    "en": "Weighs enough to make impacts fatal.{SAUT}{f 0 1 3}Low chance of Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_109",
+    "en": "Knuckles that punch at the speed of{SAUT}sound. {f 0 1 3}Critical rate +10% / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_10A",
+    "en": "Knuckles of exceptional power.{SAUT}{f 0 1 3}Max HP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_10B",
+    "en": "Knuckles made with special processed{SAUT}alloy. {f 0 1 3}Max SP +10% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_10C",
+    "en": "Gloves of a man who lived by his fists.{SAUT}{f 0 1 3}Critical rate +5% / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_10D",
+    "en": "Gloves told of in many separate legends.{SAUT}{f 0 1 3}Max HP +10% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_10E",
+    "en": "The wearer can punch with their whole{SAUT}weight. {f 0 1 3}Critical rate +10% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_10F",
+    "en": "Knuckles modeled after dragon fangs.{SAUT}{f 0 1 3}Max HP +10% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_110",
+    "en": "Gloves made to survive a nuclear war.{SAUT}{f 0 1 3}Max HP ＆ SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_111",
+    "en": "Black gloves made with a goddess's hair.{SAUT}{f 0 1 3}Medium chance of Magic Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_112",
+    "en": "Delivers punches of divine punishment.{SAUT}{f 0 1 3}Critical rate +20% / St +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_113",
+    "en": "Blessed by a sacred horse who rules the{SAUT}skies. {f 0 1 3}Halves HP cost / St +4 / Ag +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_114",
+    "en": "Knuckles that hide your hand movements.{SAUT}{f 0 1 3}Halves HP cost / En +4 / Ag +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_115",
+    "en": "Replica of gloves worn by a champion.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_117",
+    "en": "Gloves built to deal out multiple quick{SAUT}hits. {f 0 1 3}Light splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_123",
+    "en": "A stick made to look like a katana.{SAUT}It has a cheap, plasticky sheen. ",
+    "fr": ""
+  },
+  {
+    "id": "weapon_124",
+    "en": "An amateur's sword. Easy to use.{SAUT}{f 0 1 3}Accuracy +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_125",
+    "en": "A light golf club made to increase{SAUT}swinging speed. {f 0 1 3}Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_126",
+    "en": "A fancy sword with a wielder-friendly{SAUT}grip. {f 0 1 3}Ma +1 / En +1 / Lu +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_127",
+    "en": "A massive sword to smash through foes.{SAUT}{f 0 1 3}Critical rate +5% / En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_128",
+    "en": "A sword charged with a little electricity.{SAUT}{f 0 1 3}Low chance of Paralysis{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_129",
+    "en": "A sword that can split a horse in two.{SAUT}{f 0 1 3}Light splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_12A",
+    "en": "A sword that can shoot a large shockwave.{SAUT}{f 0 1 3}Medium piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_12B",
+    "en": "A remarkably thick and heavy katana.{SAUT}{f 0 1 3}Max HP ＆ SP +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_12C",
+    "en": "Coated with venom. Handle with care.{SAUT}{f 0 1 3}Medium chance of Poison{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_12D",
+    "en": "Its name means \"hard lightning.\"{SAUT}{f 0 1 3}Max HP ＆ SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_12E",
+    "en": "A katana with a faint glow. Incredibly{SAUT}sharp. {f 0 1 3}Critical rate +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_12F",
+    "en": "A holy blade of legend infused with the{SAUT}sun's power. {f 0 1 3}HP +10% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_130",
+    "en": "A sword wielded by those who challenge{SAUT}labyrinths. {f 0 1 3}Max SP +10% / Lu +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_131",
+    "en": "A golf club made with mythic divine ore.{SAUT}{f 0 1 3}Critical rate +20% / En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_132",
+    "en": "A sword used across countless battles.{SAUT}{f 0 1 3}Halves HP cost / St +4 / En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_133",
+    "en": "Said to be the first curved blade in Japan.{SAUT}{f 0 1 3}Halves HP cost / St +3 / En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_134",
+    "en": "A long and heavy two-handed sword.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_136",
+    "en": "A sword made with a giant spine.{SAUT}{f 0 1 3}En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_143",
+    "en": "Shoes that can enhance the power{SAUT}of direct kicks.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_144",
+    "en": "Shoes tipped with hard iron plates.{SAUT}{f 0 1 3}En +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_145",
+    "en": "Shoes that make the wearer seem{SAUT}taller. {f 0 1 3}Accuracy +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_146",
+    "en": "Sneakers styled as dinosaur feet.{SAUT}{f 0 1 3}Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_147",
+    "en": "Ostentatious, but very good for quick{SAUT}movement. {f 0 1 3}Max HP +10% / Lu +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_148",
+    "en": "Boots with a toxic layer to the soles.{SAUT}{f 0 1 3}Medium chance of Poison{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_149",
+    "en": "Nimble shoes for knocking down{SAUT}enemies. {f 0 1 3}Ag +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_14A",
+    "en": "Shoes blessed by the god of war.{SAUT}{f 0 1 3}Max HP ＆ SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_14B",
+    "en": "Boots inlaid with bizarre, baffling designs.{SAUT}{f 0 1 3}Low chance of Confusion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_14C",
+    "en": "Beautiful shoes only possible through{SAUT}many sacrifices. {f 0 1 3}En +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_14D",
+    "en": "Comfortable shoes for walking or{SAUT}kicking. {f 0 1 3}Lu +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_14E",
+    "en": "Strong shoes that have survived a{SAUT}catastrophe. {f 0 1 3}Max HP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_14F",
+    "en": "Boots designed after the horse of{SAUT}Odin. {f 0 1 3}Critical rate +10% / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_150",
+    "en": "Shoes worn by one beloved by a god.{SAUT}{f 0 1 3}Max SP +15% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_151",
+    "en": "Sparkles like stars, hits like a meteor.{SAUT}{f 0 1 3}Critical rate +20% / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_152",
+    "en": "Greaves of stone mined from a holy{SAUT}mountain. {f 0 1 3}Halves HP cost / St +6 / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_154",
+    "en": "Shoes heavily coated with ancient{SAUT}plant-based dyes. {f 0 1 3}Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_155",
+    "en": "Footwear that evokes the dignity of a{SAUT}tactician. {f 0 1 3}All stats +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_163",
+    "en": "A practice fan. Easy to open and close.{SAUT}{f 0 1 3}Ranged{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_164",
+    "en": "A quality fan with an intricate design.{SAUT}{f 0 1 3}Ranged / Accuracy +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_165",
+    "en": "A mystic fan meant for a warmhearted{SAUT}girl. {f 0 1 3}Ranged / En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_166",
+    "en": "A fan that can mimic the sound of{SAUT}heavy rain. {f 0 1 3}Ranged / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_167",
+    "en": "A combat fan made with specialized{SAUT}metal. {f 0 1 3}Ranged / Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_168",
+    "en": "A fan that scatters light in all colors.{SAUT}{f 0 1 3}Ranged / Ma +2 / En +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_169",
+    "en": "An artistic fan that rings like a bell.{SAUT}{f 0 1 3}Ranged / Medium chance of Sleep{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_16A",
+    "en": "A large, glossy fan to cover one's face.{SAUT}{f 0 1 3}Ranged / Ma +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_16B",
+    "en": "A red fan made from Suzaku's feathers.{SAUT}{f 0 1 3}Ranged / Light piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_16C",
+    "en": "A fan said to bring wealth with each{SAUT}swing. {f 0 1 3}Ranged / Money obtained +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_16D",
+    "en": "A fan that makes a sound like the wind.{SAUT}{f 0 1 3}Ranged / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_16E",
+    "en": "A fan favored by flirtatious noblewomen.{SAUT}{f 0 1 3}Ranged / Low chance of Paralysis{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_16F",
+    "en": "Its sheer beauty inspires blissful dreams.{SAUT}{f 0 1 3}Ranged / Ma +2 / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_170",
+    "en": "A fan soaked in tears of joy and affection.{SAUT}{f 0 1 3}Ranged / Medium chance of Magic Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_171",
+    "en": "A fan that leads enemies to paradise.{SAUT}{f 0 1 3}Ranged / Max SP +20%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_172",
+    "en": "A fan that represents life and death.{SAUT}{f 0 1 3}Ranged / Halves HP cost / Ma +7{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_174",
+    "en": "A fan made from a great bird's feathers.{SAUT}{f 0 1 3}Ranged / Light piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_183",
+    "en": "A glove with needles.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_184",
+    "en": "Its cutesy name belies its lethality.{SAUT}{f 0 1 3}Lu +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_185",
+    "en": "A claw that reminds foes why bears are{SAUT}dangerous. {f 0 1 3}Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_186",
+    "en": "Made from stout reptilian claws.{SAUT}{f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_187",
+    "en": "A claw that tears through the air around{SAUT}its target. {f 0 1 3}Light splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_188",
+    "en": "A claw for getting scratchy and/or{SAUT}smashy. {f 0 1 3}Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_189",
+    "en": "Claws with lightning-bolt-shaped blades.{SAUT}{f 0 1 3}Low chance of Paralysis{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_18A",
+    "en": "Claws with drills that pierce the heavens.{SAUT}{f 0 1 3}Medium piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_18B",
+    "en": "Its strikes ripple with shockwaves at{SAUT}the speed of sound. {f 0 1 3}Ag +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_18C",
+    "en": "Venom-laced claws. Equip very carefully.{SAUT}{f 0 1 3}Medium chance of Poison{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_18D",
+    "en": "Modeled after the secret weapon.{SAUT}{f 0 1 3}Ranged / Low chance of Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_18E",
+    "en": "A claw that easily shears through steel.{SAUT}{f 0 1 3}Medium chance of Hex{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_18F",
+    "en": "A claw made from very precious metal.{SAUT}{f 0 1 3}Max HP +10% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_190",
+    "en": "Cursed claws that can tear anything.{SAUT}{f 0 1 3}Medium splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_191",
+    "en": "Dragonbone claws empowered by stars{SAUT}of fate. {f 0 1 3}High chance of Confusion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_192",
+    "en": "A beast claw sharpened for vengeance.{SAUT}{f 0 1 3}Halves HP cost / En +6 / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_194",
+    "en": "Vicious claws for a gleeful slashing spree.{SAUT}{f 0 1 3}Low chance of Confusion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1A3",
+    "en": "A comfortable chair that is commonly{SAUT}used in schools.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1A4",
+    "en": "A very thin metal plate.{SAUT}{f 0 1 3}En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1A5",
+    "en": "A incredibly heavy iron plate.{SAUT}{f 0 1 3}En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1A6",
+    "en": "A metal plate that gives its user power.{SAUT}{f 0 1 3}Critical rate +5% / En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1A7",
+    "en": "Used in factories to shield from sparks.{SAUT}{f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1A8",
+    "en": "An iron plate with a gold coat.{SAUT}{f 0 1 3}Money obtained +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1A9",
+    "en": "A round shield made for frontline soldiers.{SAUT}{f 0 1 3}En +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1AA",
+    "en": "A shield that issues soporific gas.{SAUT}{f 0 1 3}Medium chance of Sleep{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1AB",
+    "en": "A plate made from a high-heat alloy.{SAUT}{f 0 1 3}Max HP +10% / En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1AC",
+    "en": "A shield equipped with a mini jet engine.{SAUT}{f 0 1 3}En +2 / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1AD",
+    "en": "A tile that wards off evil spirits.{SAUT}{f 0 1 3}En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1AE",
+    "en": "A shield used by a valiant, virtuous{SAUT}knight. {f 0 1 3}Max HP +10% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1AF",
+    "en": "A majestic, powerful shield.{SAUT}{f 0 1 3}Max HP +15% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1B0",
+    "en": "A holy shield emblazoned with the Five{SAUT}Wisdom Kings. {f 0 1 3}Medium chance of Confusion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1B1",
+    "en": "A brutal shield that turns all things aside.{SAUT}{f 0 1 3}Max HP +20%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1B2",
+    "en": "Lithography depicting ancient natural{SAUT}history. {f 0 1 3}Halves HP cost / St +4 / En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1B4",
+    "en": "A stone disk once used as currency{SAUT}in ancient times. {f 0 1 3}Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1C3",
+    "en": "A gun with a small bore. Designed for{SAUT}safety. {f 0 1 3}Ranged{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1C4",
+    "en": "A revolver used by a patriot in the Edo{SAUT}period. {f 0 1 3}Ranged / Accuracy +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1C5",
+    "en": "A high-caliber pistol used in the{SAUT}wild west. {f 0 1 3}Ranged / Lu +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1C6",
+    "en": "A magnum made with modern materials.{SAUT}{f 0 1 3}Ranged / Light piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1C7",
+    "en": "It emits a song to drive stray souls away.{SAUT}{f 0 1 3}Ranged / En +1 / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1C8",
+    "en": "Named for an experiment in the pursuit of{SAUT}happiness. {f 0 1 3}Ranged / Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1C9",
+    "en": "Relatively easy to use for a gun of its size.{SAUT}{f 0 1 3}Ranged / Low chance of Poison{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1CA",
+    "en": "A pistol with a small shield attached to it.{SAUT}{f 0 1 3}Ranged / En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1CB",
+    "en": "A pistol marked as an \"anti-alien{SAUT}blaster.\" {f 0 1 3}Ranged / Max SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1CC",
+    "en": "A gun painted crimson down its barrel.{SAUT}{f 0 1 3}Ranged / Medium chance of Hex{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1CD",
+    "en": "A mystical silver gun. Its bullets go for{SAUT}the heart. {f 0 1 3}Ranged / Ma +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1CE",
+    "en": "A gun shaped like a magic lamp.{SAUT}{f 0 1 3}Ranged / Max SP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1CF",
+    "en": "A demonic gun with endless ammunition.{SAUT}{f 0 1 3}Ranged / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1D0",
+    "en": "A executioner's gun with a hair trigger.{SAUT}{f 0 1 3}Ranged / Low chance of Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1D1",
+    "en": "Magnetically charged, it makes \"luck\" a{SAUT}non-issue. {f 0 1 3}Ranged / High chance of Hex{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1D2",
+    "en": "An enchanted gun that sets enemies ablaze.{SAUT}{f 0 1 3}Ranged / Halves HP cost / Ma +7{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1D4",
+    "en": "Contains sulfur, saltpeter, and charcoal.{SAUT}{f 0 1 3}Ranged / Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1E4",
+    "en": "An adjustable wrench for twisting nuts.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1E5",
+    "en": "This kunai's blade is covered in toxins.{SAUT}{f 0 1 3}Medium chance of Poison{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1E6",
+    "en": "A hefty knife for chopping foliage and/or{SAUT}foes. {f 0 1 3}Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1E7",
+    "en": "A kunai made to be thrown as fast as{SAUT}lightning. {f 0 1 3}Medium piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1E8",
+    "en": "Very light kunai used for assassinations.{SAUT}{f 0 1 3}Low chance of Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1E9",
+    "en": "A small katana that makes invisible cuts.{SAUT}{f 0 1 3}Critical rate +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1EA",
+    "en": "A kunai darker than a twilit sky.{SAUT}{f 0 1 3}Ma +2 / Ag +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1EB",
+    "en": "A pitch-black kunai with a sinister aura.{SAUT}{f 0 1 3}Medium chance of Hex{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1EC",
+    "en": "A kunai shaped like a camellia leaf.{SAUT}{f 0 1 3}Low chance of Strength Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1ED",
+    "en": "A knife resembling snow atop a pine{SAUT}leaf. {f 0 1 3}Critical rate +10% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1EE",
+    "en": "A kunai wielded by a ninja of some{SAUT}renown. {f 0 1 3}Ag +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1EF",
+    "en": "A kunai wielded in countless battles.{SAUT}{f 0 1 3}Medium chance of Agility Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1F0",
+    "en": "A mythical kunai that creates illusions.{SAUT}{f 0 1 3}Critical rate +20% / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1F1",
+    "en": "Held by a god who roamed heaven and{SAUT}earth. {f 0 1 3}Halves HP cost / Ag +7 / Lu +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1F2",
+    "en": "A knife said to invite enlightenment.{SAUT}{f 0 1 3}Halves HP cost / Ma +4 / Ag +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1F3",
+    "en": "A knife as light as the wind.{SAUT}{f 0 1 3}Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1F5",
+    "en": "A double-edged knife used by ninja.{SAUT}{f 0 1 3}Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_1F6",
+    "en": "The craftsman's hard work shines through{SAUT}in this spanner. {f 0 1 3}St +2 / Ma +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_206",
+    "en": "A very easy-to-use sword.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_207",
+    "en": "A one handed sword that instills one{SAUT}with courage. {f 0 1 3}Max HP +10% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_208",
+    "en": "A wakizashi with a 60-cm blade.{SAUT}{f 0 1 3}Light splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_209",
+    "en": "A sword given to an accomplished{SAUT}monster slayer. {f 0 1 3}All stats +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_20A",
+    "en": "A sword that emits a cold, stark light.{SAUT}{f 0 1 3}Ma +2 / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_20B",
+    "en": "The family treasure of the Taira clan.{SAUT}{f 0 1 3}Max HP ＆ SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_20C",
+    "en": "A crescent-moon-like blade. Absorbs{SAUT}moonlight. {f 0 1 3}Max SP +15% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_20D",
+    "en": "A sword forged by a legendary blacksmith.{SAUT}{f 0 1 3}Medium splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_20E",
+    "en": "A king's blade, worn at a round table.{SAUT}{f 0 1 3}Critical rate +20% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_20F",
+    "en": "A brilliant sword held by the Archangel{SAUT}Michael. {f 0 1 3}Halves HP cost / St +4 / Ma +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_211",
+    "en": "A blade with the center of gravity{SAUT}at its tip. {f 0 1 3}Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_212",
+    "en": "A knife made by an unknown creator.{SAUT}{f 0 1 3}Max SP +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_225",
+    "en": "An easy-to-use bow, curved in an{SAUT}\"M\" shape. {f 0 1 3}Ranged{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_226",
+    "en": "A bow that can fire piercing arrows.{SAUT}{f 0 1 3}Ranged / Light piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_227",
+    "en": "A bow bound tightly with rattan.{SAUT}{f 0 1 3}Ranged / Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_228",
+    "en": "Shoots arrows that silence the opponent.{SAUT}{f 0 1 3}Ranged / Medium chance of Magic Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_229",
+    "en": "A bow strengthened with fine bamboo.{SAUT}{f 0 1 3}Ranged / Max HP ＆ SP +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_22A",
+    "en": "A longbow used by the ancient Fuuma{SAUT}clan. {f 0 1 3}Ranged / Low chance of Paralysis{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_22B",
+    "en": "A beautiful bow used by a goddess of the{SAUT}moon. {f 0 1 3}Ranged / Max SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_22C",
+    "en": "A bow made to fire poison-tipped arrows.{SAUT}{f 0 1 3}Ranged / Medium chance of Poison{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_22D",
+    "en": "A bow favored by goddesses of the{SAUT}stars. {f 0 1 3}Ranged / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_22E",
+    "en": "Lures mortals into the earth's embrace.{SAUT}{f 0 1 3}Ranged / Low chance of Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_22F",
+    "en": "The bow of a powerful female warrior.{SAUT}{f 0 1 3}Ranged / High chance of Strength Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_230",
+    "en": "The platonic ideal of a bow. Perfect in{SAUT}form. {f 0 1 3}Ranged / Halves HP cost / Ma +7{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_232",
+    "en": "A rare bow. Firing it causes a series of{SAUT}odd sounds. {f 0 1 3}Ranged / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_245",
+    "en": "A light sword made for thrusting.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_246",
+    "en": "A beautiful rapier of gleaming silver.{SAUT}{f 0 1 3}Max SP +5% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_247",
+    "en": "A thrusting sword for novice duelists.{SAUT}{f 0 1 3}Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_248",
+    "en": "A reinforced rapier for extra power.{SAUT}{f 0 1 3}Medium piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_249",
+    "en": "The blade's shadow seems to dance in{SAUT}swordplay. {f 0 1 3}Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_24A",
+    "en": "A noble rapier that grants eternal{SAUT}slumber. {f 0 1 3}Max SP +10% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_24B",
+    "en": "A cone-shaped, edgeless blade with a{SAUT}sharp tip. {f 0 1 3}Critical rate +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_24C",
+    "en": "A cursed rapier, dyed scarlet with blood.{SAUT}{f 0 1 3}Low chance of Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_24D",
+    "en": "A thrusting sword with a sharper,{SAUT}narrower tip. {f 0 1 3}Medium piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_24E",
+    "en": "A magic sword with an uncanny glow.{SAUT}{f 0 1 3}Max SP +10% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_24F",
+    "en": "The blade is sharpened almost too thin{SAUT}to be seen. {f 0 1 3}Max SP +20%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_250",
+    "en": "A sword devoted to gods of the harvest.{SAUT}{f 0 1 3}Halves HP cost / Ma +5 / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_252",
+    "en": "A thin, sharp blade with a decorated hilt.{SAUT}{f 0 1 3}Light piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_265",
+    "en": "A spear with a cross-shaped tip.{SAUT}{f 0 1 3}Ranged{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_266",
+    "en": "Charmingly shaped like a bee's stinger.{SAUT}{f 0 1 3}Ranged / Max SP +5% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_267",
+    "en": "A brutal spear with a willow-leaf head.{SAUT}{f 0 1 3}Ranged / Light piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_268",
+    "en": "A long spear tipped with scorpion venom.{SAUT}{f 0 1 3}Ranged / Medium chance of Poison{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_269",
+    "en": "A forked spear engraved with a cherry{SAUT}blossom. {f 0 1 3}Ranged / Max HP ＆ SP +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_26A",
+    "en": "Twice the size of normal spears.{SAUT}{f 0 1 3}Ranged / Medium splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_26B",
+    "en": "One of the Three Great Spears of Japan.{SAUT}{f 0 1 3}Ranged / St +3 / En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_26C",
+    "en": "A trident blessed by the god of the sea.{SAUT}{f 0 1 3}Ranged / Max SP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_26D",
+    "en": "A spear made for a Roman emperor.{SAUT}{f 0 1 3}Ranged / Max HP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_26E",
+    "en": "Splits any dragonfly who lands on it{SAUT}in two. {f 0 1 3}Ranged / Critical rate +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_26F",
+    "en": "Used by a god of creation and destruction.{SAUT}{f 0 1 3}Ranged / High chance of Agility Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_270",
+    "en": "An arcane spear used by a warrior queen.{SAUT}{f 0 1 3}Ranged / Halves HP cost / St +7{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_272",
+    "en": "A versatile spear for striking foes down.{SAUT}{f 0 1 3}Ranged / Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_285",
+    "en": "A blunt weapon composed of a long{SAUT}handle and a lump of metal.",
+    "fr": ""
+  },
+  {
+    "id": "weapon_286",
+    "en": "A club with metal spikes driven into{SAUT}its tip. {f 0 1 3}Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_287",
+    "en": "A big hammer with 100t printed on it.{SAUT}{f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_288",
+    "en": "A blunt weapon made by a would-be{SAUT}assailant. {f 0 1 3}Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_289",
+    "en": "A hammer with a propulsion device on{SAUT}its back end. {f 0 1 3}Ag +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_28A",
+    "en": "A hammer for smashing through targets.{SAUT}{f 0 1 3}Medium chance of Confusion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_28B",
+    "en": "Reads \"Gekkoukan High School.\" Oddly{SAUT}easy to swing. {f 0 1 3}Medium chance of any Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_28C",
+    "en": "A hammer that can mend or destroy.{SAUT}{f 0 1 3}Max HP +10% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_28D",
+    "en": "A club once used by an infamous killer.{SAUT}{f 0 1 3}Medium chance of Hex{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_28E",
+    "en": "A hammer wielded by a god of{SAUT}thunder. {f 0 1 3}Critical rate +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_28F",
+    "en": "A hammer held by a peacemaker king.{SAUT}{f 0 1 3}Critical rate +20% / St +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_290",
+    "en": "A staff with two serpents entwining holy{SAUT}words. {f 0 1 3}Halves HP cost / St +5 / En +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_292",
+    "en": "A crude hammer used by lumbering hulks.{SAUT}{f 0 1 3}Critical rate +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_2A6",
+    "en": "A hand unit that fires bullets from{SAUT}three fingers. {f 0 1 3}Ranged{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_2A7",
+    "en": "Shoots a metal slug via electromagnetism.{SAUT}{f 0 1 3}Ranged / Medium piercing damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_2A8",
+    "en": "A hand unit that fires from all fingers.{SAUT}{f 0 1 3}Ranged / Medium splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_2A9",
+    "en": "The latest model anti-Shadow gun.{SAUT}{f 0 1 3}Ranged / Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_2AA",
+    "en": "Beautifully crafted from dark matter.{SAUT}{f 0 1 3}Ranged / Low chance of Hex{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_2AB",
+    "en": "Shoots birdlime to trap the opponent.{SAUT}{f 0 1 3}Ranged / Medium chance of Agility Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_2AC",
+    "en": "Fires bullets known as a \"god's kiss.\"{SAUT}{f 0 1 3}Ranged / Medium splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_2AD",
+    "en": "Shoots bullets with a long, storied history.{SAUT}{f 0 1 3}Ranged / Medium chance of Magic Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_2AE",
+    "en": "Sparks annihilation from within the foe.{SAUT}{f 0 1 3}Ranged / High chance of Strength Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_2AF",
+    "en": "Named for the mouthpiece of God.{SAUT}{f 0 1 3}Ranged / Halves HP cost / En +7",
+    "fr": ""
+  },
+  {
+    "id": "weapon_2B1",
+    "en": "Capable of firing explosive rounds.{SAUT}{f 0 1 3}Ranged / Light splash damage{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "weapon_2B2",
+    "en": "Has six different firing configurations.{SAUT}{f 0 1 3}Ranged / Light piercing damage{f 0 1 0}",
+    "fr": ""
+  }
+]

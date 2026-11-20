@@ -1,0 +1,146 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Great! It really was a key to this door!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "Hell yeah! One more step closer to{SAUT}gettin' outta here... right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "I... think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "Um, there is one thing that I'm curious{SAUT}about: didn't Doe seem much calmer{SAUT}than he did before?{PAGE}The first time that he produced a key,{SAUT}he seemed to be in much more pain{SAUT}than he did this time around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Hm, now that you mention it...{SAUT}The difference seems rather slight,{SAUT}though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "I see what you mean... Perhaps our edits{SAUT}of the movies are affecting him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "Are you feeling better now,{SAUT}Hikari-chan? You were shaking{SAUT}a lot earlier...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "M-Mmhm... Sorry, I'm okay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Hikari-san seems to become extremely{SAUT}nervous in Doe's presence.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "Hello!? Makes sense to me!{PAGE}It wouldn't be so bad if that was just{SAUT}some kinda suit like with Teddie, but{SAUT}he's creepy, and won't talk to us either...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "I wonder... Would something pop out{SAUT}of him if we ripped his head off, like{SAUT}how Teddie works?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "I just felt a shiver ripple down my{SAUT}spine...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "*giggle*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "I'm glad to see that you're starting to{SAUT}get back into better spirits.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Welp, no need to fear! We swear we're{SAUT}gettin' you outta here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "Yeah, what he said―just leave this to us.{SAUT}You figure out what you want to do{SAUT}when you get back home.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Hikari",
+    "en": "Huh? What I want to do...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "My recommendation is the Featherman{SAUT}crane game―it's only found in Akiba!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017_5",
+    "locuteur": "Futaba",
+    "en": "The key to victory lies with the arm's{SAUT}strength, but you also have to check{SAUT}the width of the claws when open!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "You really do love that game, don't you,{SAUT}Futaba...? Well, if it gets you out of{SAUT}the house, that's for the best.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "There it is―we've got a new movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Theater intercom",
+    "en": "We have an announcement for{SAUT}our customers.{PAGE}A new movie will begin showing in{SAUT}Theater 3 momentarily. I repeat...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Tch... Great, a new movie. I bet it's just{SAUT}as shitty as the last two were.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "Well, there's nothing else we can do to{SAUT}get out of this place... Let's go,{SAUT}{f 6 1 30 0 0 0}.",
+    "fr": ""
+  }
+]

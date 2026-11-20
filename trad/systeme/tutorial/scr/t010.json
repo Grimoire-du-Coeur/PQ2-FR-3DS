@@ -1,0 +1,7 @@
+[
+  {
+    "id": "MSG_TUTORIAL_QUEST_TREAS",
+    "en": "Special screenings have their own{SAUT}{f 0 1 2}treasure chests not found elsewhere{f 0 1 0}.{PAGE}These contain very handy items, so don't{SAUT}miss them!{PAGE}Also, {f 0 1 2}you cannot revisit a special{SAUT}screening once it's finished{f 0 1 0}.{PAGE}Thus, you should explore it completely{SAUT}BEFORE you achieve its objective.",
+    "fr": ""
+  }
+]

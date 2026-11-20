@@ -1,0 +1,1179 @@
+[
+  {
+    "id": "combine_sel",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "combine_check_zyusu",
+    "locuteur": "Justine",
+    "en": "This Persona?",
+    "fr": ""
+  },
+  {
+    "id": "combine_check_karo",
+    "locuteur": "Caroline",
+    "en": "You sure you want this Persona?",
+    "fr": ""
+  },
+  {
+    "id": "combine_not_level",
+    "locuteur": "Caroline",
+    "en": "Don't make me laugh! You're not{SAUT}strong enough to handle this{SAUT}Persona!",
+    "fr": ""
+  },
+  {
+    "id": "combine_possession",
+    "locuteur": "Caroline",
+    "en": "You already have this Persona!",
+    "fr": ""
+  },
+  {
+    "id": "combine_not_has_sorce_pe",
+    "locuteur": "Caroline",
+    "en": "You don't have the right Persona{SAUT}for this!",
+    "fr": ""
+  },
+  {
+    "id": "combine_stock_over",
+    "locuteur": "Caroline",
+    "en": "You can't hold any more Personas!{SAUT}Don't get greedy, Inmate!",
+    "fr": ""
+  },
+  {
+    "id": "combine_free_ticket_chec",
+    "locuteur": "Justine",
+    "en": "You have {f 4 4 3 0 1350} x{f 2 4 0}.{SAUT}Shall we use this to fuse for free?",
+    "fr": ""
+  },
+  {
+    "id": "combine_money",
+    "locuteur": "Margaret",
+    "en": "It seems you lack the funds.",
+    "fr": ""
+  },
+  {
+    "id": "combine_money_conf",
+    "locuteur": "Justine",
+    "en": "We will take {f 0 1 2}{f 2 4 0} yen{f 0 1 0} to summon{SAUT}this Persona. Are you certain?",
+    "fr": ""
+  },
+  {
+    "id": "combine_succession",
+    "locuteur": "Justine",
+    "en": "Choose the skills you wish to pass on.",
+    "fr": ""
+  },
+  {
+    "id": "combine_check_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "combine_not_level_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "combine_possession_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "combine_stock_over_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "combine_money_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "combine_money_conf_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "combine_succession_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "combine_get_comu_bonus",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "combine_get_card",
+    "en": "The Persona {f 0 1 1}{f 2 4 0}{f 0 1 0}{SAUT}has emerged from the sea of your soul!",
+    "fr": ""
+  },
+  {
+    "id": "combine_accident",
+    "locuteur": "Caroline",
+    "en": "That wasn't exactly the plan...{SAUT}W-Well, it's not our problem!",
+    "fr": ""
+  },
+  {
+    "id": "combine_fool_accident",
+    "locuteur": "Margaret",
+    "en": "Well, well... This is a \"Wild Card.\"",
+    "fr": ""
+  },
+  {
+    "id": "combine_accident_Ex",
+    "locuteur": "Caroline",
+    "en": "That wasn't exactly the plan...{SAUT}W-Well, it's not our problem!",
+    "fr": ""
+  },
+  {
+    "id": "combine_fool_accident_Ex",
+    "locuteur": "Elizabeth",
+    "en": "My... This is a \"Wild Card.\"",
+    "fr": ""
+  },
+  {
+    "id": "combine_drink_conf",
+    "locuteur": "Elizabeth",
+    "en": "ジュース使用前確認MSG（仮）",
+    "fr": ""
+  },
+  {
+    "id": "weather_bonus_omen_add",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "weather_bonus_get_skill",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "weather_bonus_noget_skil",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "weather_bonus_no_skill",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "weather_bonus_powerup",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "weather_bonus_get_comubo",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "weather_bonus_get_change",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "weather_bonus_changeskil",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "weather_news_greeting",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "weather_news_wait",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_summons",
+    "locuteur": "Caroline",
+    "en": "It'll cost {f 0 1 2}{f 2 4 0} yen{f 0 1 0} to summon{SAUT}this Persona. You sure?",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_not_summons",
+    "locuteur": "Justine",
+    "en": "You do not have enough money.{SAUT}Please, don't waste our time.",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_get_summons",
+    "en": "The Persona {f 0 1 1}{f 2 4 0}{f 0 1 0}{SAUT}has been summoned.",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_not2_summons",
+    "locuteur": "Justine",
+    "en": "It seems you already have this{SAUT}Persona. You didn't think to check?",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_not3_summons",
+    "locuteur": "Margaret",
+    "en": "It seems your level isn't high enough{SAUT}to summon this Persona...",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_not4_summons",
+    "locuteur": "Justine",
+    "en": "You can't hold any more Personas.{SAUT}Such greed is unbecoming.",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_regist",
+    "locuteur": "Caroline",
+    "en": "The Persona Film's been overwritten!",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_add_check",
+    "locuteur": "Caroline",
+    "en": "You want to register your {f 0 1 1}{f 2 4 0}{f 0 1 0}{SAUT}to Persona Film, right?",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_all_add_check",
+    "locuteur": "Caroline",
+    "en": "I can register all the Personas you{SAUT}have to Persona Film, right?",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_mark_add_check",
+    "locuteur": "Caroline",
+    "en": "You want me to register the Personas{SAUT}you picked into Persona Film, right?",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_no_regist",
+    "locuteur": "Justine",
+    "en": "You appear to have no Personas{SAUT}I can register in the compendium.{SAUT}Frankly, it's appalling.",
+    "fr": ""
+  },
+  {
+    "id": "cmb_comu_achieve_get_ite",
+    "en": "Received {f 2 5 3 65535 0}.",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus001",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus002",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus003",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "combine_yohou_tutorial_m",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_tutorial_mes",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP004_M",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP005_M",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MHELP001_M",
+    "locuteur": "Caroline",
+    "en": "Personas you register to \"Persona{SAUT}Film\" can be viewed whenever you{SAUT}want.{PAGE}Also, we can summon a Persona{SAUT}from the film if you're willing to{SAUT}pay its price!{PAGE}Just one catch: the stronger the{SAUT}Persona, the more it's going to{SAUT}cost you. Obviously.{PAGE}If you register a lot of Personas,{SAUT}maybe we'll consider giving you a{SAUT}discount. Better work hard for it!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MHELP002_M",
+    "locuteur": "Justine",
+    "en": "When you first acquire a Persona, its{SAUT}base, original state will be registered{SAUT}into Persona Films.{PAGE}But as you strengthen them, you{SAUT}can overwrite their Film with your{SAUT}more powerful version of them.{PAGE}This is a free service, but you will{SAUT}have to tell us specifically if you{SAUT}wish to overwrite an entry.{PAGE}If you so desire, simply tell us you{SAUT}wish to \"Overwrite Persona Film.\"{SAUT}Understood?",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MHELP003",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_S0HELP001",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_S0HELP002",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_S0HELP003",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_S1HELP001",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_S1HELP002",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_S1HELP003",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_S2HELP001",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_S2HELP002",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_S2HELP003",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_U0HELP001",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_U0HELP002",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_U0HELP003",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_U1HELP001",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_U1HELP002",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_U1HELP003",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_U2HELP001",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_U2HELP002",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_U2HELP003",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE000",
+    "en": "I AM A DUMMY!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE001",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{PAGE}Open thine eyes...{SAUT}Thou shalt arise...!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE002",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}Our bodies may be different, but I{SAUT}am you. I put myself in your care.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE003",
+    "en": "Are you the one who summoned me...?{PAGE}You look strong... Very well.{SAUT}I shall agree to accompany you.{PAGE}I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}I am in your care...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE004",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}I will lend you what power I can offer.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE005",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}I am one of many residing in the sea{SAUT}of your soul...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE006",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}I will protect you with all my might!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE007",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}You won't be forgetting me anytime{SAUT}soon...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE008",
+    "en": "My name is {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}Together we shall walk this long and{SAUT}arduous road...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE009",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}Your shield, your sword, your friend...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE010",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}I am one with you...{SAUT}Please remember that.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE011",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}I will shield you and heal your wounds...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE012",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}!{SAUT}You shall witness my power with your{SAUT}own two eyes!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE013",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}This sword shall be used in your name...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE014",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}. I shall do my best{SAUT}to give you support.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE015",
+    "en": "I'm {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}Just relax and leave everything to{SAUT}your big sis!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE016",
+    "en": "I'm {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}Um... I'll do my best, so please let{SAUT}me stick around.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE017",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}Let us see the true strength of{SAUT}your determination.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE018",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}Show me what powers you hold...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE019",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}!{SAUT}Our victory lies in your hands!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE020",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}I shall always remain by your side...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE021",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}I will go with you to build a brighter{SAUT}future...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE022",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}Very well, you shall have my strength{SAUT}at your disposal.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE023",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}I am with you on the path to glory!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE024",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}My life's mission will be to keep{SAUT}you safe!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE025",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}I have come to you, whose heart{SAUT}desires power...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE026",
+    "en": "ME {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}ME EAT YOU WHOLE.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE027",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}I was born from you, and so{SAUT}I shall return to you...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE028",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}You can count on me! I'll make sure{SAUT}we win...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE029",
+    "en": "I-I aM {f 0 1 1}{f 2 4 1}{f 0 1 0}! I aM oNe{SAUT}WiTh YoU!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE030",
+    "en": "I AM {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}IT'S A PLEASURE TO MEET YOU...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE031",
+    "en": "I'm {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}Get on. We're on a one-way trip{SAUT}to hell...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE032",
+    "en": "Before you stands {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}I am the undefeatable one who swears{SAUT}loyalty to you...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE033",
+    "en": "Hello. I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}I will accompany you on your journey.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE034",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}I guess I'll look after you{SAUT}for a while...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE035",
+    "en": "I'm {f 0 1 1}{f 2 4 1}{f 0 1 0}, ho!{SAUT}Nice to meet ya, hee ho!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE036",
+    "en": "I'm {f 0 1 1}{f 2 4 1}{f 0 1 0}... Will you play{SAUT}with me, forever and ever?",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE037",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{SAUT}I will be the savage harbinger{SAUT}of your absolute victory!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE038",
+    "en": "I'm {f 0 1 1}{f 2 4 1}{f 0 1 0}, hee hoooo!{SAUT}Don't underestimate me, hee hee ho!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE039",
+    "en": "Who dares call to me...?{PAGE}You have the strength to penetrate{SAUT}this accursed darkness...{SAUT}You've caught my interest, whelp...{PAGE}I am {f 0 1 1}{f 2 4 1}{f 0 1 0}... I will lend you{SAUT}my power for the moment...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE040",
+    "en": "Who dares summon me...?{PAGE}You are a noble child, to bear such a{SAUT}strong light. I shall grant you my{SAUT}protection...{PAGE}I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}I will attempt to live up to the{SAUT}strength in your heart...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE041",
+    "en": "Thou art I... And I am thou...{SAUT}From the sea of thy soul, I come...{PAGE}From the very moment of my emergence,{SAUT}I have been a guiding light shed to{SAUT}illuminate thy path...{PAGE}I am the original god...{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE042",
+    "en": "Who summons me...?{PAGE}Your bright heart shines even on the{SAUT}darkest night... I shall be your{SAUT}strength...{PAGE}I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}May your light never fade...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE043",
+    "en": "Who calls to me...?{PAGE}One who shines in unimaginable darkness...{SAUT}Will you even draw on your hollow self{SAUT}for your strength...?{PAGE}I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}I will determine the path you take...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_STOC",
+    "locuteur": "Marie",
+    "en": "This isn't gonna work. You don't have{SAUT}any Sub-Personas with you.{PAGE}You need at least one Sub-Persona{SAUT}in order to communicate, so go get{SAUT}one of those first.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_STOC#2",
+    "locuteur": "Marie",
+    "en": "This isn't gonna work. You don't have{SAUT}any Sub-Personas with you.{PAGE}You need at least one Sub-Persona{SAUT}in order to communicate, so go get{SAUT}one of those first.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_dumm",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_sacrifice_co",
+    "locuteur": "Caroline",
+    "en": "Is this the Persona you want to{SAUT}enhance with the sacrifice's power?",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_sacrifice_bo",
+    "en": "The sacrificed Personas' power{SAUT}pours into {f 0 1 1}{f 2 4 0}{f 0 1 0}...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_sacrifice_it",
+    "en": "The skill of the sacrificed Persona dwells{SAUT}within {f 0 1 1}{f 2 4 0}{f 0 1 0}...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_sacrifice_it#2",
+    "en": "Obtained{SAUT}{f 0 7 0 65535}{f 2 5 3 65535 0}{f 0 7 150 65535}{f 2 5 3 65535 1}　{SAUT}{f 0 7 0 65535}{f 2 5 3 65535 2}{f 0 7 150 65535}{f 2 5 3 65535 3}!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_sacrifice_it#3",
+    "en": "All skill slots are currently full.{SAUT}Please select a skill to forget.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_skcard_sel",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_skcard_check",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_skcard_get",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_skcard_del",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_skcard_money",
+    "locuteur": "Margaret",
+    "en": "It seems you don't have enough money...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_skcard_item",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP011_M",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP012_M",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP013_M",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP014_M",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP000_E",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP002_E",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP004_E",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP005_E",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP006_E",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP010_E",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_ACCIDEN",
+    "locuteur": "Justine",
+    "en": "Persona Fusion is a very delicate{SAUT}process.{PAGE}Though it is extremely rare, we do{SAUT}slip up occasionally... and in such{SAUT}cases, an \"accident\" may occur.{PAGE}Accidents in fusion alter the ritual's{SAUT}outcome. Specifically, summoning a{SAUT}different Persona than intended.{PAGE}Even we cannot say what will arise{SAUT}from such a blunder. I suggest{SAUT}you don't dwell on it.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_KENSAKU",
+    "locuteur": "Caroline",
+    "en": "With Fusion Search, you can check all{SAUT}the Personas that can be summoned{SAUT}with the ones you currently have!{PAGE}You can use this to search for the{SAUT}highest-level Personas you can get{SAUT}from all the candidates...{PAGE}And if you're looking for Personas{SAUT}you don't have in Persona Films yet,{SAUT}it'll be helpful for that too.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_3SIN",
+    "locuteur": "Justine",
+    "en": "\"3-Layer Fusion\" is a ritual in which{SAUT}three Personas are fused to make a{SAUT}Persona of uncommonly high level.{PAGE}All three will be consumed, but the{SAUT}final outcome is bound to be{SAUT}remarkably strong.{PAGE}If you yearn for further power, then{SAUT}I suggest using this ritual wisely.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_TOKUSYU",
+    "locuteur": "Caroline",
+    "en": "\"Special Fusion\" is a way to summon{SAUT}a specific Persona, using specific{SAUT}Personas in the process.{PAGE}This is the only way you'll ever get{SAUT}some Personas. You can't summon{SAUT}them with normal fusions.{PAGE}It may not be easy to do, but they're{SAUT}all really powerful Personas―{SAUT}definitely worth the extra effort.{PAGE}You might as well try, at least.{SAUT}Use all the advantages you can{SAUT}get!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_SACRIFI",
+    "locuteur": "Margaret",
+    "en": "I am in charge of this matter.{PAGE}The Sacrifice Fusion is a secret art{SAUT}wherein one Persona is sacrificed{SAUT}to help another Persona grow.{PAGE}The higher the levels of the Persona{SAUT}sacrificed, the more growth will be{SAUT}triggered.{PAGE}Normally, this secret art requires{SAUT}an appropriate payment...{PAGE}But in the name of further research,{SAUT}I will introduce a special condition.{PAGE}The first time you sacrifice any{SAUT}individual Persona, I will perform{SAUT}the ritual free of charge.{PAGE}You can enhance your main Persona{SAUT}this way, as well. It may prove a{SAUT}fine way to strengthen yourself.{PAGE}When you acquire a new Persona,{SAUT}why not use it for Sacrifice Fusion{SAUT}at least once?",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_ACCESSO",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MHELP001_E",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_HELP",
+    "locuteur": "Marie",
+    "en": "Okay, so lemme explain how this{SAUT}P-Book stuff works.{PAGE}The deal is, there are apparently a ton{SAUT}of worlds besides this one out there,{SAUT}full of alternate versions of you.{PAGE}The P-Book is what you use to{SAUT}communicate with other worlds besides{SAUT}this one.{PAGE}So if you can contact one of these{SAUT}other yous, you can exchange one{SAUT}Persona with them.{PAGE}You've just gotta put your team's{SAUT}information in the P-Book,{SAUT}plus whatever Persona you like.{PAGE}Oh, but the Persona's gotta be one{SAUT}of your Sub-Personas.{PAGE}Once you get a P-Book{SAUT}from someone, you can summon{SAUT}whatever Persona they attached.{PAGE}If you use it right, you could see{SAUT}some pretty strong Personas{SAUT}getting passed around.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_HELP#2",
+    "locuteur": "Marie",
+    "en": "Okay, so lemme explain how this{SAUT}P-Book stuff works.{PAGE}The deal is, there are apparently a ton{SAUT}of worlds besides this one out there,{SAUT}full of alternate versions of you.{PAGE}The P-Book is what you use to{SAUT}communicate with other worlds besides{SAUT}this one.{PAGE}So if you can contact one of these{SAUT}other yous, you can exchange one{SAUT}Persona with them.{PAGE}You've just gotta put your team's{SAUT}information in the P-Book,{SAUT}plus whatever Persona you like.{PAGE}Oh, but the Persona's gotta be one{SAUT}of your Sub-Personas.{PAGE}Once you get a P-Book{SAUT}from someone, you can summon{SAUT}whatever Persona they attached.{PAGE}If you use it right, you could see{SAUT}some pretty strong Personas{SAUT}getting passed around.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_HELP#3",
+    "locuteur": "Marie",
+    "en": "I will hold on to the P-Books you've{SAUT}exchanged, so let me know when you want{SAUT}to see them.{PAGE}Oh, and I'll let you know when you{SAUT}get any new P-Books.{PAGE}Just keep in mind, you can't hoard{SAUT}every single P-Book you get.{PAGE}You can only hold up to 100, so{SAUT}if there are any you really want to{SAUT}keep, you should \"Protect\" their data.{PAGE}'Cause once you're full, they'll start{SAUT}disappearing, starting with the{SAUT}oldest. Unless they're protected.{PAGE}Oh, and you can protect a max of{SAUT}80 books. So there's that.{PAGE}And if you want to summon any{SAUT}Personas from a P-Book,{SAUT}just let me know.{PAGE}It'll cost you, but those tiny twins{SAUT}can summon it. According to{SAUT}Margaret, anyway.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_HELP#4",
+    "locuteur": "Marie",
+    "en": "I will hold on to the P-Books you've{SAUT}exchanged, so let me know when you want{SAUT}to see them.{PAGE}Oh, and I'll let you know when you{SAUT}get any new P-Books.{PAGE}Just keep in mind, you can't hoard{SAUT}every single P-Book you get.{PAGE}You can only hold up to 100, so{SAUT}if there are any you really want to{SAUT}keep, you should \"Protect\" their data.{PAGE}'Cause once you're full, they'll start{SAUT}disappearing, starting with the{SAUT}oldest. Unless they're protected.{PAGE}Oh, and you can protect a max of{SAUT}80 books. So there's that.{PAGE}And if you want to summon any{SAUT}Personas from a P-Book,{SAUT}just let me know.{PAGE}It'll cost you, but those tiny twins{SAUT}can summon it. According to{SAUT}Margaret, anyway.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_HELP#5",
+    "locuteur": "Marie",
+    "en": "You can change the details of your{SAUT}P-Book whenever you want.{PAGE}Stuff like what Sub-Persona you've{SAUT}attached, your P-Book name,{SAUT}personal messages...{PAGE}So yeah, if you feel like changing{SAUT}anything, all you gotta do is ask.{PAGE}Just don't use the name or details{SAUT}to write anything that'd make the{SAUT}other yous feel uncomfortable.{PAGE}Don't make things weird. After all,{SAUT}you want them to be happy they{SAUT}got your book, right?",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_HELP#6",
+    "locuteur": "Marie",
+    "en": "You can change the details of your{SAUT}P-Book whenever you want.{PAGE}Stuff like what Sub-Persona you've{SAUT}attached, your P-Book name,{SAUT}personal messages...{PAGE}So yeah, if you feel like changing{SAUT}anything, all you gotta do is ask.{PAGE}Just don't use the name or details{SAUT}to write anything that'd make the{SAUT}other yous feel uncomfortable.{PAGE}Don't make things weird. After all,{SAUT}you want them to be happy they{SAUT}got your book, right?",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_HELP#7",
+    "locuteur": "Marie",
+    "en": "So, your P-Book can be{SAUT}changed into these things called{SAUT}\"QR Codes.\"{PAGE}I guess they can make it easier{SAUT}to exchange P-Books with{SAUT}those alternate yous?{PAGE}If you can't connect to them directly,{SAUT}then you can always exchange these{SAUT}QR Codes.{PAGE}You could create your own, or if{SAUT}the other person's made one, you{SAUT}could just read theirs.{PAGE}Well, you might as well get all you{SAUT}can out of that P-Book.{SAUT}So exchange all the QR Codes you can.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_HELP#8",
+    "locuteur": "Marie",
+    "en": "So, your P-Book can be{SAUT}changed into these things called{SAUT}\"QR Codes.\"{PAGE}I guess they can make it easier{SAUT}to exchange P-Books with{SAUT}those alternate yous?{PAGE}If you can't connect to them directly,{SAUT}then you can always exchange these{SAUT}QR Codes.{PAGE}You could create your own, or if{SAUT}the other person's made one, you{SAUT}could just read theirs.{PAGE}Well, you might as well get all you{SAUT}can out of that P-Book.{SAUT}So exchange all the QR Codes you can.",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus001_ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus002_ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus003_ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus004_ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_summons_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_not_summons_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_not2_summons_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_not4_summons_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_regist_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_add_check_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_all_add_check_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "zensyo_mark_add_check_Ex",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE044",
+    "en": "Who dost calleth me...?{PAGE}Thou shalt know me as {f 0 1 1}Zeus{f 0 1 0}...{SAUT}I hath been called from beyond...{PAGE}You, whose bonds reach into untraversed{SAUT}lands... I shall ascertain thy resolve.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE045",
+    "en": "I am thou, thou art I...{PAGE}One who draws freely upon the strength{SAUT}of bonds... Do you wish for further{SAUT}freedom...?{PAGE}Then, let us go together to the far-off{SAUT}land of freedom...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE046",
+    "en": "I am thou... Thou art I...{SAUT}From the sea of thy soul, I come...{PAGE}I am {f 0 1 1}Orpheus{f 0 1 0}, master of strings...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE047",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}The one born from you and walks beside you...",
+    "fr": ""
+  },
+  {
+    "id": "combine_regist_NG",
+    "locuteur": "Justine",
+    "en": "You have protected this Persona,{SAUT}so it cannot be registered.",
+    "fr": ""
+  },
+  {
+    "id": "combine_regist_NG_Ex",
+    "locuteur": "Justine",
+    "en": "You have protected this Persona,{SAUT}so it cannot be registered.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_scr_error",
+    "locuteur": "Margaret",
+    "en": "This Persona's strength can be{SAUT}pushed no further.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_skcard_yet",
+    "locuteur": "Margaret",
+    "en": "This Persona has not yet learned a{SAUT}skill that can be extracted from it.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_skcard_lost",
+    "locuteur": "Margaret",
+    "en": "This Persona has lost the skill that{SAUT}can be extracted from it.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_STOC#3",
+    "locuteur": "Marie",
+    "en": "Oh... That Sub-Persona can't be used{SAUT}to communicate with other worlds.{PAGE}You're just gonna have to pick a{SAUT}different one.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_NETWORK_STOC#4",
+    "locuteur": "Marie",
+    "en": "Oh... That Sub-Persona can't be used{SAUT}to communicate with other worlds.{PAGE}You're just gonna have to pick a{SAUT}different one.",
+    "fr": ""
+  },
+  {
+    "id": "combine_stock_lack",
+    "en": "There are not enough Personas{SAUT}in your stock.",
+    "fr": ""
+  },
+  {
+    "id": "combine_sel_TICKET",
+    "choix": true,
+    "en": "Paid fusion{OPTION}Cancel fusion{OPTION}Use a Ticket",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_sac_skill_ch",
+    "locuteur": "Margaret",
+    "en": "You have {f 0 1 3}{f 2 4 0}{f 0 1 0} x{f 0 1 3}{f 2 4 2}{f 0 1 0}.{SAUT}Would you like to use it to{SAUT}pass on {f 0 1 1}{f 2 4 1}{f 0 1 0}?",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_sac_skill_ge",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has learned{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_sac_skill_ha",
+    "en": "You already have {f 2 4 0}.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_stock_over_s",
+    "locuteur": "Justine",
+    "en": "{f 2 4 0} more open slot(s) is necessary{SAUT}to withdraw from the Persona stock.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_sac_cost_fre",
+    "locuteur": "Margaret",
+    "en": "As this is my first time seeing this{SAUT}resonance of power, there will be{SAUT}no charge. May I proceed?",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_sac_cost_che",
+    "locuteur": "Margaret",
+    "en": "I require {f 0 1 2}{f 2 4 0} yen{f 0 1 0} for this{SAUT}Sacrifice Fusion. May I proceed?",
+    "fr": ""
+  },
+  {
+    "id": "combine_money_caro",
+    "locuteur": "Caroline",
+    "en": "You don't have enough money!{SAUT}What a disgrace!",
+    "fr": ""
+  },
+  {
+    "id": "combine_book_summon_sel",
+    "choix": true,
+    "en": "Summon{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "combine_book_reg_all_sel",
+    "choix": true,
+    "en": "Register all{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "combine_book_reg_sel",
+    "choix": true,
+    "en": "Register{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "combine_cmb_sel",
+    "choix": true,
+    "en": "Go ahead{OPTION}Never mind",
+    "fr": ""
+  },
+  {
+    "id": "combine_cmb_sac_free_sel",
+    "choix": true,
+    "en": "Go ahead{OPTION}Never mind",
+    "fr": ""
+  },
+  {
+    "id": "combine_cmb_sac_sel",
+    "choix": true,
+    "en": "Go ahead{OPTION}Never mind",
+    "fr": ""
+  },
+  {
+    "id": "combine_cmb_cpy_sel",
+    "choix": true,
+    "en": "Go ahead{OPTION}Never mind",
+    "fr": ""
+  },
+  {
+    "id": "combine_wcard_sel",
+    "choix": true,
+    "en": "Succeed{OPTION}Don't succeed",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE__048",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{PAGE}I must aid a Trickster, hm...?{SAUT}So be it. I will help you{SAUT}clear your name.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE__049",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{PAGE}Henceforth, Trickster, I agree to exist{SAUT}at your side, and aid your cause...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE__050",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{PAGE}I am born from thee, and with thee{SAUT}I shall walk this earth... as willing{SAUT}accomplice to the Trickster...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE__051",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{PAGE}Open thine eyes...{SAUT}Awaken, Trickster...!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE__052",
+    "en": "Who dares call to me...?{PAGE}He who shineth light upon abundant{SAUT}darkness... Darest thou make even{SAUT}nothingness into thine object...?{PAGE}I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}I will determine the path you take...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE__053",
+    "en": "Who dares call to me...?{PAGE}O radiant heart that shineth{SAUT}into the night... I shall become{SAUT}thy strength, Trickster...{PAGE}I am {f 0 1 1}{f 2 4 1}{f 0 1 0}...{SAUT}May your light never fade...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE__054",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{PAGE}With a goddess like me at your{SAUT}side, you shall know true victory!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE__055",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{PAGE}Fight onward, Trickster! I will walk{SAUT}your path, and be your strength!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE__056",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{PAGE}Madness in my right hand, tenacity{SAUT}in my left... Now then, who shall{SAUT}I break apart first!?",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE__057",
+    "en": "I am {f 0 1 1}{f 2 4 1}{f 0 1 0}.{PAGE}I'm to aid the Trickster...?{SAUT}Doesn't matter. I'll bring the pain{SAUT}like I always do!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE__058",
+    "en": "Hahahaha! I am {f 0 1 1}{f 2 4 1}{f 0 1 0}!{PAGE}You want my strength...? Heh...{SAUT}Fine. But don't let your guard down,{SAUT}or I'll crush you myself!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_MESSAGE__059",
+    "en": "Hahahaha! I am {f 0 1 1}{f 2 4 1}{f 0 1 0}!{PAGE}So a Trickster wants my help...?{SAUT}Sounds good to me... I'll crush{SAUT}anyone who crosses you!",
+    "fr": ""
+  }
+]

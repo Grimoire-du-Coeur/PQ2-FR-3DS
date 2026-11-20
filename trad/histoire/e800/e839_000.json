@@ -1,0 +1,181 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Yo, Hikari? Why're you just spacin' out{SAUT}right there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari",
+    "en": "I was just... turning over something in{SAUT}my mind...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Yeah? What's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "My eponymous movie, \"Hikari\"...{PAGE}I think... I think I forgot something{SAUT}important in there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Aw geez! Quick, let's go get it before{SAUT}something else does!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "Oh! No, that's okay! I-I don't need{SAUT}it right this second...{PAGE}It's silly. I mean I'm, uh... I'm not even{SAUT}really sure what it is.{PAGE}Just forget I said anything. Enlil{SAUT}is more important to concern{SAUT}ourselves with.{PAGE}I shouldn't have brought it up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "But you did! Come on, you can{SAUT}stand up for yourself!{PAGE}If it's important to you, then we{SAUT}should go find it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "Futaba-chan, really... I don't want{SAUT}to be a bother.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Way too late for that! We should just{SAUT}get this over with.{PAGE}Otherwise we'll be hearing about it{SAUT}later, anyways.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Junpei",
+    "en": "Don't get so down on Hikari-chan; she just{SAUT}didn't want to be a burden. But she doesn't{SAUT}know this stuff is easy for us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yukari",
+    "en": "How do you know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Junpei",
+    "en": "Because it is I, SEES' best guy, right in{SAUT}front of your eye! Can't you see the{SAUT}greatness of SEES?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukari",
+    "en": "...Never speak to me again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Junpei",
+    "en": "But I'll miss you, Yuka-tan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "Give it a rest. And don't forget that the{SAUT}Investigation Team is here, too! Right,{SAUT}partner?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P4 Hero",
+    "en": "That's right. We're the ones Hikari can{SAUT}really rely on.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "Absolutely.{OPTION}Do we have to...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "Mm-hm. We can get it done in no time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yosuke",
+    "en": "Yeah, leave it to us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Junpei",
+    "en": "And you got this guy, the best that SEES{SAUT}has ever seen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "You can count on me to navigate. And{SAUT}with Fuuka and Rise, you've got{SAUT}yourself a solid bedrock of support!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Come on, don't be a whiner.{PAGE}With all of us together, we're practically{SAUT}invincible. Nothin' can stand in our way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Morgana",
+    "en": "Hear that, guys? We're invincible.{SAUT}Ryuji says so, and we all know he's{SAUT}a guy who NEVER exaggerates.{PAGE}But whatever, I'm sure we all agree{SAUT}that we're powerful enough to solve{SAUT}Hikari's problem pretty quickly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yosuke",
+    "en": "Yeah, leave it to us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Junpei",
+    "en": "And I hope she sees that SEES accepts{SAUT}only the best!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "I dunno about that, I've heard there's{SAUT}been a sea change in SEES standards,{SAUT}heh. Unlike us, the navigators, of course.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Hikari",
+    "en": "You guys... I don't know what to say!{SAUT}Thank you so much.{PAGE}So... you really don't mind helping{SAUT}me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ryuji",
+    "en": "Don't sweat it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Futaba",
+    "en": "There you have it, {f 6 1 30 0 0 0}. We'll{SAUT}be counting on your leadership when{SAUT}the time comes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "en": "A new special screening:{SAUT}\"The Shape of Bonds\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

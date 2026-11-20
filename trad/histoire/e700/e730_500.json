@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "I'm sensing a powerful presence ahead!{SAUT}Everyone, please be careful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Hero",
+    "en": "That should be the central area where{SAUT}the robots are controlled―the command{SAUT}room of the Mother Computer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "I believe the probability of engaging{SAUT}in battle is extremely high.{PAGE}Shall we enter immediately?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "I believe we will engage in a fierce battle{SAUT}through here. Are we prepared to go?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "It's showtime!{OPTION}Not yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Aigis",
+    "en": "Understood. In we go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Aigis",
+    "en": "Understood. I shall be on standby.",
+    "fr": ""
+  }
+]

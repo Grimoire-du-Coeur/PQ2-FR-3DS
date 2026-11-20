@@ -1,0 +1,134 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Ugh, now it's even MORE cramped{SAUT}in here, thanks to the new guy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "I'm sorry, but if I'd followed you all{SAUT}on foot, I wouldn't have been able{SAUT}to keep up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "To be totally honest, I'm pretty sure{SAUT}we're way over max capacity...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "Mona-chan, are you okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Who do you think you're talkin' to here?{SAUT}Just relax and leave it to―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Mrowgh!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "Huh―what was that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "Meow-ow-ow...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Whoa, Queen, what's the deal? Tryin'{SAUT}out some Wild Max-style driving!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "It's not me―the wheel's moving by itself!{SAUT}What's happening?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "Is all of our weight causing a problem?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "I don't think that would cause THIS...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Perhaps he ate something{SAUT}off the ground.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "I-I-I've never!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "Oh no... I-I've lost all control!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Whaaaat!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Whaaaat!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "Whaaaat!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "Whaaaat!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Haru",
+    "en": "Whaaaat!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Whaaaat!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akechi",
+    "en": "Whaaaat!?",
+    "fr": ""
+  }
+]

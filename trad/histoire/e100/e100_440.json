@@ -1,0 +1,73 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Everyone gathered in the lobby after{SAUT}wrapping up their preparations...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Is everyone ready?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Yeah, totally!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Perfect on our end, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": ", how about your own{SAUT}preparations?{PAGE}Once we head out, we won't be able to{SAUT}return here for a while. If you need to{SAUT}take care of anything, now's the time.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "I need some time to prepare.{OPTION}Let's start the mission.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Mmhm, it's best to be fully prepared.{SAUT}Better safe than sorry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Once we're ready, let's head to{SAUT}Kamoshida Square!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "This mission has to be a success,{SAUT}no matter what!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "Yes, it's time to gracefully steal{SAUT}the Kamoshidaman statue and{SAUT}rescue our teammates!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "Well, let's begin by heading to{SAUT}Kamoshida Square.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "This mission has to be a success,{SAUT}no matter what! Let's go!",
+    "fr": ""
+  }
+]

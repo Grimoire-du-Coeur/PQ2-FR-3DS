@@ -1,0 +1,151 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Hikari's theater, the projection room...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Let's see, where are those revised films...{PAGE}Ooh, here―is this one?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "We found one too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "One, two, three, four―no doubt about{SAUT}it, that's all of them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "All we've gotta do now is load the films{SAUT}into those four projectors, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "Mmhm!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Then you can leave the rest to us, dear!{PAGE}Just relax here and wait for us to return{SAUT}bearing the good news!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_5",
+    "locuteur": "Hikari",
+    "en": "Um, would it be all right if I came along{SAUT}with you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukiko",
+    "en": "Huh? But, it'll be dangerous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Could... Could my confidence not be{SAUT}enough for her to believe in us!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosuke",
+    "en": "Well, when you're the one saying it,{SAUT}nobody's going to be reassured...{PAGE}But, kidding aside, won't it be safer{SAUT}for you here in the theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Th-That's right! We're heading straight{SAUT}into the enemy's main base.{PAGE}If we run into that lady again, even you{SAUT}could end up getting hurt...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "That's why I want to go... There's still{SAUT}something I need to tell her in person.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Rise",
+    "en": "You mean... you WANT to find Enlil?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "Mmhm. I know it'll be dangerous.{SAUT}I could very well end up getting in{SAUT}everyone's way out there...{PAGE}But, I really want to go with you to{SAUT}find Enlil... Please?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_015",
+    "choix": true,
+    "en": "Let's find her together.{OPTION}It's just too dangerous.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "...If Hikari's this certain, then I'll back{SAUT}you all up with everything I've got.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016_5",
+    "locuteur": "Futaba",
+    "en": "B-But don't do anything reckless,{SAUT}okay!? If things get dicey out there,{SAUT}you've gotta book it, posthaste!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "Honestly, I feel you there...{PAGE}But, if this is what Hikari really wants...{SAUT}then we should respect her feelings.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017_5",
+    "locuteur": "Futaba",
+    "en": "I'll beg on her behalf! Please, take Hikari{SAUT}with you! I'll do my best to back you all{SAUT}up, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "Looks like there's no need to worry. We{SAUT}ought to bring her with us if Futaba says{SAUT}so.{PAGE}No matter what happens on this mission,{SAUT}we'll be able to protect her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Junpei",
+    "en": "Alright, we've got this! Even if some{SAUT}baddies do show up, we'll just knock{SAUT}'em out of the park with our Personas!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukari",
+    "en": "There you go, getting all worked up{SAUT}again. You better not be the one{SAUT}getting knocked out here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Hikari",
+    "en": "Everyone―thank you so much!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Mitsuru",
+    "en": "Well then, let's return to the lobby.{SAUT}We should prepare for our mission.",
+    "fr": ""
+  }
+]

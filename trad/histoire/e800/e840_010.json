@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "We're doing what few people ever{SAUT}manage to do... getting to the root of{SAUT}the problem. Even I'm a little nervous!{PAGE}But I bet it's nothing compared to the{SAUT}anxiety of your much more vulnerable{SAUT}minds. You deserve a new ticket.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "Is it a battle against an FOE so we can{SAUT}be better trained?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "Or is it going to lead us to a new,{SAUT}powerful weapon?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* It's nothing like that. It's{SAUT}something to help with anxiety, to help{SAUT}with all the stressors of your situation...{PAGE}It's a simple quest. Collect four fruits{SAUT}in Hikari's movie.{PAGE}It'll be so relaxing.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Sounds like it.{OPTION}We don't have time to relax.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Hero",
+    "en": "Yeah, she has a point. We don't want to{SAUT}strain our nerves too much.{PAGE}It could be a nice refresher.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Let's do it. We're not in that much of a{SAUT}hurry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Hero",
+    "en": "Well, when you consider the weight of{SAUT}the responsibility we've taken on...{PAGE}I guess a change of pace will do us some{SAUT}good. We could use a breather.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Teddie",
+    "en": "Yay! Finally we'll be able to reap some{SAUT}literal fruits of our labor!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Hero ",
+    "en": "So, Elizabeth. Do you have any{SAUT}information as to where these fruits are{SAUT}located?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elizabeth",
+    "en": "No, not at all.{PAGE}But I assure you, this screening is an{SAUT}easy one.{PAGE}Simply walk around slowly, and look{SAUT}for it! Just give a quick look.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Hero",
+    "en": "No hints, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ken",
+    "en": "Elizabeth sure does things her own way.{PAGE}I guess we just have to check it out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elizabeth",
+    "en": "I'll be watching with great titillation. I{SAUT}mean, I'll be here watching with{SAUT}hyperlactation. Hmm... what's the word?{PAGE}Trepidation? No, that doesn't sound{SAUT}real. I'll just make it easy on myself... I'll{SAUT}be here watching with bated breast!{PAGE}Enjoy...",
+    "fr": ""
+  }
+]

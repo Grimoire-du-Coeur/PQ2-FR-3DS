@@ -1,0 +1,82 @@
+[
+  {
+    "id": "BTL_MES_010_000",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_001",
+    "en": "Yeah, we can't lose here. Let's do it!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_003",
+    "en": "FOE sighted! Uh, we should probably{SAUT}avoid it, right?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_005",
+    "en": "That's an FOE. You think we can take{SAUT}it?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_006",
+    "en": "A rare one! Let's not let it get away!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_011",
+    "en": "Yikes... This could be tough...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_013",
+    "en": "Never laid eyes on that one before.{SAUT}What's it weak against?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_015",
+    "en": "We can handle this! I think...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_017",
+    "en": "This oughta be a breeze for us!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_019",
+    "en": "Hey... isn't that Shadow acting odd?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_022",
+    "en": "Uh-oh... we might be in trouble here!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_053",
+    "en": "All right! My turn now!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_055",
+    "en": "Should I step up? I've got a skill it's{SAUT}weak against!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_056",
+    "en": "Don't forget about Baton Pass!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_057",
+    "en": "I'm all set over here!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_010_086",
+    "en": "Leave it to me! Lights, camera, action!",
+    "fr": ""
+  }
+]

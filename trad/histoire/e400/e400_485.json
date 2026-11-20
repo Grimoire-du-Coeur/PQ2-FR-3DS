@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Calm man's voice",
+    "en": "Hikari, won't you come out of there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Calm man's voice",
+    "en": "I bought you that notebook you wanted.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Calm man's voice",
+    "en": "Hikari, why won't you come out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Calm man's voice",
+    "en": "*sigh*{PAGE}Why do you have to be like that?",
+    "fr": ""
+  }
+]

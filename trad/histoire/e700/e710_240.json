@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Joker! I'm sensing enemies down those{SAUT}stairs.{PAGE}If you're gonna head down, it's probably{SAUT}best if you do it when you're as prepared{SAUT}as possible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "So what's your call, Joker? Are we doing{SAUT}this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Oh, right―there are enemies past here!{SAUT}Are we good to go now, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Let's head on down.{OPTION}Give me a minute to get ready.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Yes! Time to give 'em hell.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Gotcha, we'll leave when to go up to you.{SAUT}I guess I should stretch again, too...",
+    "fr": ""
+  }
+]

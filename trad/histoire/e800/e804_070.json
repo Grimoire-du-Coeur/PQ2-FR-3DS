@@ -1,0 +1,248 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "Well, we made it to the manhole. Is{SAUT}that really all we needed to do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Elizabeth",
+    "en": "Yes, that will suffice.{PAGE}Our intentions should now be clear.{SAUT}I doubt the syndicate will make a move{SAUT}anytime soon...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "...Syndicate?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "Oh, nothing. I was merely speaking to{SAUT}myself. More importantly...{PAGE}Well done overcoming those{SAUT}obstacles and completing the{SAUT}mission.{PAGE}It seems the MVP, or should I say, lead{SAUT}female role, was none other than Chie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "M-Me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Yeah, you were really awesome at the{SAUT}end there!{PAGE}It was like watching an action movie.{SAUT}I couldn't look away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Chie",
+    "en": "Ahaha... It's kinda embarrassing to hear{SAUT}all that from you, Ann-chan.{PAGE}In my opinion, you're way cooler{SAUT}than me.{PAGE}You're gorgeous, your English is great,{SAUT}and you're a phantom thief! You're in{SAUT}another league!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "That's not true.{OPTION}You're pretty amazing yourself.{OPTION}I think Risette's the coolest.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Yeah, don't be so hard on yourself.{SAUT}Ann's grades are terrible outside of{SAUT}English.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "Not as terrible as yours!{PAGE}...Honestly, I think you're way cooler{SAUT}than me, Chie-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Chie",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Yeah. Honestly, I think you're way{SAUT}cooler than me, Chie-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Rise",
+    "en": "Me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Well, she is a national idol.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "Rise-chan is pretty amazing, but I guess{SAUT}I'm just used to her now...{PAGE}She's also younger than me. I feel like{SAUT}that makes the comparison a little{SAUT}different.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "I guess I do have a lot going for me...{PAGE}But because of that, I've never really{SAUT}known what I wanna do or what I{SAUT}wanna work toward.{PAGE}I've always been inspired by people{SAUT}who try their hardest to get good at{SAUT}something they like.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "Inspired?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "Yeah. You always get so excited{SAUT}whenever you talk about things like{SAUT}kung fu or meat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yosuke",
+    "en": "I'll say...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ann",
+    "en": "But I think you inspired me even before{SAUT}that...{PAGE}I guess, when I see you doing your thing,{SAUT}that's how I wanna be. I wanna do my{SAUT}thing too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Chie",
+    "en": "How you wanna be...?{PAGE}I haven't really thought much about my{SAUT}future either, but...{PAGE}I do know that I wanna get stronger so{SAUT}I can protect my friends.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_022",
+    "choix": true,
+    "en": "Aren't you the same, Ann?{OPTION}You two are pretty alike.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ann",
+    "en": "...Yeah. I failed to protect someone{SAUT}very important to me...{PAGE}I told myself I'd grow stronger so no{SAUT}one else would ever have to go through{SAUT}what she did.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Chie",
+    "en": "Is that why you wanted to learn kung fu?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ann",
+    "en": "It wasn't so much the kung fu I was{SAUT}interested in as it was the strength of{SAUT}your heart.{PAGE}Sorry... I guess now it kinda sounds like{SAUT}I tricked you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Chie",
+    "en": "No way! It's nice to know I'm fighting{SAUT}alongside somebody who feels the{SAUT}same!{PAGE}Plus, this whole thing was a great{SAUT}learning experience.{PAGE}I bet, if we work together, we can grow{SAUT}even stronger. It's just like those words{SAUT}of wisdom...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_027",
+    "choix": true,
+    "en": "You mean a proverb?{OPTION}\"All-you-can-eat steak skewers.\"{OPTION}\"Two heads are better than one.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Chie",
+    "en": "Yeah, a proverb. But which one was it...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Naoto",
+    "en": "A phrase relating to teamwork...{SAUT}\"Two heads are better than one,\"{SAUT}perhaps?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Chie",
+    "en": "Yeah, yeah! That's it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Chie",
+    "en": "Ooh, that sounds amazing... Wait, no,{SAUT}that's not it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Naoto",
+    "en": "A phrase relating to teamwork...{SAUT}\"Two heads are better than one,\"{SAUT}perhaps?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Chie",
+    "en": "Yeah, yeah! That's it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Chie",
+    "en": "Uh, yeah, I think that's it...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Naoto",
+    "en": "A phrase which suggests using{SAUT}teamwork to achieve a goal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Ann",
+    "en": "Teamwork, huh...? Yeah, I'm sure we{SAUT}can do that!{PAGE}Just like how we worked together to{SAUT}whoop those Shadows like \"BAM!\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Chie",
+    "en": "Yeah, if anyone gets on our bad side,{SAUT}they're getting a double dose of \"BAM!\"",
+    "fr": ""
+  },
+  {
+    "id": "SEL_038",
+    "choix": true,
+    "en": "Sounds good.{OPTION}Sounds scary.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "P4 Hero",
+    "en": "...Yeah.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Elizabeth",
+    "en": "A sexy phantom thief and a fearless{SAUT}kung fu master...{PAGE}It would seem a new bond has begun{SAUT}to flourish upon the completion of this{SAUT}mission.{PAGE}Also, my apologies for the slight delay,{SAUT}but here is your reward.",
+    "fr": ""
+  }
+]

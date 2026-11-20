@@ -1,0 +1,377 @@
+[
+  {
+    "id": "MAKOTO_FOE_FOLLOW_START_",
+    "en": "We've got company!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_FOE_FOLLOW_START_#2",
+    "en": "An FOE's coming!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_FOE_FOLLOW_START_#3",
+    "en": "We've been seen!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_FOE_NEAR_1",
+    "en": "Um, you do know it's just ahead of us,{SAUT}right...!?",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_FOE_NEAR_2",
+    "en": "It's getting closer, stay light on{SAUT}your feet.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_FOE_NEAR_3",
+    "en": "Careful, it's nearby.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_FOE_FOLLOW_END_1",
+    "en": "Okay... I think we can finally relax.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_FOE_FOLLOW_END_2",
+    "en": "Looks like we shook it off.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_FOE_FOLLOW_END_3",
+    "en": "*chuckle* Good thing it was a quitter.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_KANSI_REACTION_1",
+    "en": "There's no need to rush, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_KANSI_REACTION_2",
+    "en": "There's got to be some sort of trick to{SAUT}it.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_KANSI_REACTION_3",
+    "en": "Let's keep our eyes open.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_DENKISAKU_REACTIO",
+    "en": "It's a sadistic trap...",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_DENKISAKU_REACTIO#2",
+    "en": "There has to be something we can{SAUT}do...",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_DENKISAKU_REACTIO#3",
+    "en": "First we have to interrupt the electric{SAUT}circuit somehow.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_KYOUHU_REACTION_1",
+    "en": "Huh, wha―!?",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_KYOUHU_REACTION_2",
+    "en": "Oh no!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_KYOUHU_REACTION_3",
+    "en": "Eek...!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_STAIR_FIND_1",
+    "en": "Looks like we can move forward.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_STAIR_FIND_2",
+    "en": "Ah, we've secured our route to{SAUT}proceed.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_STAIR_FIND_3",
+    "en": "We can go through now.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_TREASURE_FIND_1",
+    "en": "Oh! A treasure box.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_TREASURE_FIND_2",
+    "en": "I spy with my little eye a treasure box.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_TREASURE_FIND_3",
+    "en": "Isn't that treasure?",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_CHECK_WALL_1",
+    "en": "There's something going on here...",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_CHECK_WALL_2",
+    "en": "Seems like there should be something{SAUT}around here.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_CHECK_WALL_3",
+    "en": "Hey, maybe we should check it out?",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_SWITCH_FIND_1",
+    "en": "There's a switch.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_SWITCH_FIND_2",
+    "en": "You should be the one to decide―do{SAUT}we use it?",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_SWITCH_FIND_3",
+    "en": "If you're going to use that switch, just{SAUT}stay on your toes, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_SHORTCUT_FIND_1",
+    "en": "You think we can go through here?",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_SHORTCUT_FIND_2",
+    "en": "Just goes to show, there's always{SAUT}another way.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_SHORTCUT_FIND_3",
+    "en": "This could be a useful shortcut. ",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_FOE_WARNING_NEAR_",
+    "en": "It's still dogging us.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_FOE_WARNING_NEAR_#2",
+    "en": "Why is it so persistent! ",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_FOE_WARNING_NEAR_#3",
+    "en": "There's an FOE. Now's not the time to{SAUT}get comfortable.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_1PERSON_HPTP10_1",
+    "en": "I can't take much more of this...",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_1PERSON_HPTP10_2",
+    "en": "Could we please take a break...?",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_1PERSON_HPTP10_3",
+    "en": "A shame... but I think I've hit my limit...",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_1PERSON_HP10_1",
+    "en": "Please... Will someone help me?",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_1PERSON_HP10_2",
+    "en": "I could use some help...",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_1PERSON_HP10_3",
+    "en": "My health is dropping...",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_1PERSON_TP10_1",
+    "en": "My stamina is just about gone...",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_1PERSON_TP10_2",
+    "en": "I should have paced myself...",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_1PERSON_TP10_3",
+    "en": "Sorry, but I really need a break.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_1PERSON_HP80_1",
+    "en": "That was too easy.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_1PERSON_HP80_2",
+    "en": "We're moving along at a good clip.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_1PERSON_HP80_3",
+    "en": "No use in stopping!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_DUNGEON_START_1",
+    "en": "We're geared up and ready to go.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_DUNGEON_START_2",
+    "en": "This would be a lot easier if I could{SAUT}ride my bike through here.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_DUNGEON_START_3",
+    "en": "You know, we'll get through this if we{SAUT}work together.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_QUEST_START_1",
+    "en": "Well, no use waiting. Let's begin.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_QUEST_START_2",
+    "en": "Remember there's no I in team, guys.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_QUEST_START_3",
+    "en": "Let's take it one step at a time.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_TOUHA_25_1",
+    "en": "We've only just started.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_TOUHA_25_2",
+    "en": "Little by little...",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_TOUHA_50_1",
+    "en": "We're already halfway!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_TOUHA_50_2",
+    "en": "Halfway there, let's keep this{SAUT}momentum going!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_TOUHA_75_1",
+    "en": "Finishing line is within sight!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_TOUHA_75_2",
+    "en": "Nice, just a little more floor to smite!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_TOUHA_100_1",
+    "en": "It turned out gorgeous!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_TOUHA_100_2",
+    "en": "Looks professional!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_MAPPING_ICON_ALL_",
+    "en": "Well done, it looks quite accurate.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_MAPPING_ICON_ALL_#2",
+    "en": "Well played.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_MAPPING_ICON_KAID",
+    "en": "That's perfect!",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_MAPPING_ICON_KAID#2",
+    "en": "That's the ticket.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_MAPPING_CHANGE_CO",
+    "en": "Changing it up, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_MAPPING_CHANGE_CO#2",
+    "en": "Good decision.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_MAPPING_ICON_DEL_",
+    "en": "Oh, you're dispensing with it?",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_MAPPING_ICON_DEL_#2",
+    "en": "Let's try that again.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_MAPPING_MEMO_1",
+    "en": "I'll keep that in mind.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_MAPPING_MEMO_2",
+    "en": "Just be sure not to forget it.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_DOOR_OPEN_1",
+    "en": "Over here.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_DOOR_OPEN_2",
+    "en": "Let's keep going.",
+    "fr": ""
+  },
+  {
+    "id": "MAKOTO_DOOR_OPEN_3",
+    "en": "Follow me.",
+    "fr": ""
+  }
+]

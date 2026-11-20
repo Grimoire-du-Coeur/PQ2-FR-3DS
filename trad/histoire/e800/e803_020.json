@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "So we just gotta go where the map says{SAUT}and beat the enemies there, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Heh! Piece of cake! Let's go this way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "All right! Then, let's go that way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "...Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "...What's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "Oookay, guys, no fighting!{PAGE}Sorry, everyone. I think Kanji-kun's{SAUT}a little too excited about this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Kanjiii, what's wrong? If you're good,{SAUT}I'll give you a bananaaa.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "D-Don't treat me like some kinda{SAUT}animal, damn it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "No, no. We're sorry too.{PAGE}Skull gets upset pretty easily. He's like{SAUT}a wild gorilla.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "The hell!? You treatin' me like an{SAUT}animal too!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Stop fighting.{OPTION}We're gonna leave you behind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Psh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Kanji",
+    "en": "...My bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "Heheh. It's hard being the boss when{SAUT}you've got two big kids to look after.{PAGE}It doesn't matter which enemy we start{SAUT}with! Take your pick and lead the way,{SAUT}Joker!",
+    "fr": ""
+  }
+]

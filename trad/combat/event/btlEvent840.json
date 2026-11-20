@@ -1,0 +1,67 @@
+[
+  {
+    "id": "MSG_BTL_TUTORIAL_840_ENC",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_840_101",
+    "en": "\"Affinities and Weaknesses\"{SAUT}All attacks have an {f 0 1 2}affinity{f 0 1 0}, such as Fire,{SAUT}and enemies may be {f 0 1 2}weak{f 0 1 0} against them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_840_102",
+    "en": "Attack with an enemy's weakness in mind,{SAUT}and you will deal massive damage, as well{SAUT}as force your unlucky foe into a {f 0 1 2}Down{f 0 1 0} state.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_840_103",
+    "en": "\"Downed Enemies and All-out Attacks\"{SAUT}Downed enemies will take their turns last{SAUT}in each round of combat. If all of them are{SAUT}down, you'll have the chance for an{f 0 1 2}All-{SAUT}out Attack,{f 0 1 0} which is the perfect{SAUT}opportunity for you to do some extreme damage!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_840_104",
+    "en": "\"Target Information\"{SAUT}As you toggle between enemies, useful{SAUT}info will appear above them: A {f 0 1 2}WEAK{f 0 1 0}{SAUT}icon will be displayed if your attack's{SAUT}affinity has, in past battles, proven to be{SAUT}strong against that enemy type. If, on the{SAUT}other hand, your attack's affinity has{SAUT}never been used on the enemy before, a{SAUT}{f 0 1 2}no data{f 0 1 0} icon will be displayed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_840_105",
+    "en": "To make it easy, each teammates' chosen{SAUT}attack type will be displayed above the{SAUT}target cursor.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_840_106",
+    "en": "Try out attacks with differing affinities on{SAUT}each new enemy you encounter, so you{SAUT}can learn what they're weak against!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_840_107",
+    "en": "\"Analyze\"{SAUT}You can view further information about{SAUT}enemy Shadows by pressing the {f 0 1 2}L Button{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_840_201",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_840_HP_",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_840_HP_#2",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_840_HP_#3",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_840_BTL",
+    "en": "Reserved",
+    "fr": ""
+  }
+]

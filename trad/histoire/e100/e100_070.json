@@ -1,0 +1,361 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Graceful woman",
+    "en": "Would you please stop that? You're{SAUT}frightening Hikari-san...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "They're... not enemies?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Seems as much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "...A cat?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "We apologize for startling you two.{SAUT}And, you are...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Graceful woman",
+    "en": "My name is Nagi. I am the acting{SAUT}curator of this movie theater. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "A curator!? So, this theater isn't really{SAUT}abandoned!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Nagi",
+    "en": "Could it be... that you've all been{SAUT}trapped here as well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "\"As well\"... Do you mean the same thing{SAUT}has happened to you two?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Nagi",
+    "en": "Yes... It all seems unbelievable, but it{SAUT}happened in the blink of an eye.{PAGE}When I came to, all of the customers{SAUT}had disappeared and the entrance{SAUT}was barred...{PAGE}I quickly began searching the theater,{SAUT}then found this customer―Hikari-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Nagi",
+    "en": "Due to my responsibility as curator,{SAUT}I've taken her under my care.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "U-Uhhh... Um... I―U-Um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Calm down, Futaba―it's okay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "Ah, u-um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "Y-Y-Yeah―Wait, huh?{PAGE}You're, uh, you're shaking a lot...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Nagi",
+    "en": "Yes―it's likely from the shock.{SAUT}She's awfully frightened.{PAGE}I've remained by her side in hopes of{SAUT}staving off some of her anxiety...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Oh that's right―Hey, did you happen to{SAUT}see Haru and Makoto anywhere!?{PAGE}They're our friends, but we got{SAUT}separated on the way here, so{SAUT}we're looking for them now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "...Your friends?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ann",
+    "en": "Mmhm, have you seen them? We've{SAUT}looked everywhere, but we can't find{SAUT}them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Nagi",
+    "en": "What do your friends look like? Could{SAUT}you provide us with descriptions, or{SAUT}perhaps even photos?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ann",
+    "en": "Uhhh―well, one's all... spiky, and the{SAUT}other one's... got an axe?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021_5",
+    "locuteur": "Ann",
+    "en": "Oh, I know! Yusuke, could you sketch{SAUT}them real quick?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yusuke",
+    "en": "I could if I had some supplies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Nagi",
+    "en": "Very well. I'll fetch you some suitable{SAUT}materials.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "They look like this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ann",
+    "en": "Wow! That's so them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Nagi",
+    "en": "Oh, these two―if I recall correctly,{SAUT}they were in the movie...{PAGE}Isn't that right, Hikari-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Hikari",
+    "en": "...Oh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "You know them!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Hikari",
+    "en": "Oh―um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Hikari",
+    "en": "...Nagi-san? Uh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "en": "Hikari is whispering to Nagi...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Ann",
+    "en": "What's with the whispering?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ryuji",
+    "en": "She could just tell us herself―right,{SAUT}{f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_034",
+    "choix": true,
+    "en": "She's scared of you, Ryuji.{OPTION}She's just being careful.{OPTION}Let's wait and see what happens.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Morgana",
+    "en": "Mm, that could definitely be why{SAUT}she's so cautious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Ryuji",
+    "en": "Wha―!? Some weird talkin' cat's way{SAUT}scarier than me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Morgana",
+    "en": "Don't call me weird!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Morgana",
+    "en": "It can't be helped. After all, we've got{SAUT}someone with us who looks like{SAUT}a common thug.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ryuji",
+    "en": "Who're you callin' a thug!? A talkin'{SAUT}cat's way weirder than me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Morgana",
+    "en": "Don't call me weird!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Yusuke",
+    "en": "Agreed.{PAGE}We have a blond thug and a talking{SAUT}monster cat with us... Her defensiveness{SAUT}is natural.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Ryuji",
+    "en": "I ain't no thug!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Morgana",
+    "en": "Don't call me a monster cat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Ann",
+    "en": "Oh, looks like they're ready to share...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Nagi",
+    "en": "Just as I'd thought―both Hikari-san{SAUT}and I have seen your friends.{PAGE}We saw them in the movie, just like{SAUT}the rest of you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Ryuji",
+    "en": "Huh? Whaddaya mean, \"in the movie\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Nagi",
+    "en": "Those two were originally with your{SAUT}group, correct?  ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Ryuji",
+    "en": "Uh, well―yeah, they were, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Yusuke",
+    "en": "The \"in the movie\" part is what makes{SAUT}no sense.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Morgana",
+    "en": "We'll leave all that for later. So, what{SAUT}exactly happened with those two?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Nagi",
+    "en": "They've been captured by a character{SAUT}named \"Kamoshidaman.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Ann",
+    "en": "Uh, Kamoshidaman?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053_5",
+    "locuteur": "Ann",
+    "en": "Wait, Kamoshida―!? What's going on{SAUT}here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Akechi",
+    "en": "Hm? That sound...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Nagi",
+    "en": "It's starting again...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Futaba",
+    "en": "Wh-What's that supposed to mean!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Nagi",
+    "en": "I believe Doe has begun playing{SAUT}the movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Yusuke",
+    "en": "Doe? Movie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Nagi",
+    "en": "...You'll understand better if you see it{SAUT}for yourselves.",
+    "fr": ""
+  }
+]

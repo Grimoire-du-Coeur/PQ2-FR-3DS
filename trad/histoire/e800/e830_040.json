@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "Hey, we got two more warp spots{SAUT}over here. Which do we take?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "I got it! It's the one to the left!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "You seem certain, Panther.{SAUT}Did you figure out the hint?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Nope! I've just got a hunch, that's all.{PAGE}Actually, I just remembered I saw{SAUT}on TV that Scorpio was the most{SAUT}lucky sign for today.{PAGE}And Scorpio's lucky color was blue.{SAUT}So the blue warp spot is definitely{SAUT}the way to go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Um... or not.{PAGE}Eheheh... I guess that's kinda flimsy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Which one do you think is right,{SAUT}Aragaki-kun?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Shinjiro",
+    "en": "Huh? How the hell should I know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Haha... No reason in particular.{PAGE}Joker makes the final call anyway.{SAUT}I suppose I just wanted your{SAUT}opinion for reference.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Shinjiro",
+    "en": "......{PAGE}No idea.{PAGE}For all we know, both of 'em{SAUT}are wrong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "Hahaha, true enough...{PAGE}If we do get this wrong, I hope we{SAUT}get a chance to go back and make{SAUT}the right choice.",
+    "fr": ""
+  }
+]

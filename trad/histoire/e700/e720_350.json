@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Wait a sec! I'm sensing enemies past{SAUT}there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "There's a chance they're preparing to{SAUT}ambush us... If we progress any further,{SAUT}we'll have a fight on our hands.{PAGE}Are we ready to do this, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Ready as we'll ever be.{OPTION}Just a minute...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "Excellent. Let's show them our full might!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "Right―we should make sure we're fully{SAUT}prepared first.",
+    "fr": ""
+  }
+]

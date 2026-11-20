@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Joker! I'm getting a Shadow reading{SAUT}from beyond that door.{PAGE}I think you'll probably have to fight it...{SAUT}Are you ready for that?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "We're good to go.{OPTION}I need a moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Alright! Let's roll!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Mm, returning to the movie theater{SAUT}and regrouping is also a wise tactic.{PAGE}Let's proceed onward once we're{SAUT}ready to go.",
+    "fr": ""
+  }
+]

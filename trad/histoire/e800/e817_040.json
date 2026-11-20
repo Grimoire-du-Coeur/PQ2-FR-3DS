@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akihiko",
+    "en": "This is it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ken",
+    "en": "It's really crowded here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mitsuru",
+    "en": "Now then, let's split up and ask around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "How'd it go?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "It's the same as last time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_1",
+    "locuteur": "Junpei",
+    "en": "Multiple perps ganged up on a lone{SAUT}woman and took her wallet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "Apparently, it happened so fast, no one{SAUT}knows where they came from nor where{SAUT}they disappeared to.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_1",
+    "locuteur": "Yusuke",
+    "en": "Our enemies certainly know how to{SAUT}avoid detection.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "That's not good.{OPTION}Just like phantom thieves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "It's too bad we can't pick up their trail...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akihiko",
+    "en": "You don't mean―!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "No! Stop confusing everyone, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "But I gotta say, the people are behaving{SAUT}a lot differently now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Seriously. I kinda thought they'd be{SAUT}more \"whatever\" about all this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Mitsuru",
+    "en": "Hm? What do you mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "This city used to be ruled by a real{SAUT}scumbag, and everybody here just did{SAUT}what he said.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013_1",
+    "locuteur": "Ryuji",
+    "en": "They were completely dependent on{SAUT}him. No one ever stood up for{SAUT}themselves...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "But now it looks like the people are{SAUT}starting to act on their own.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014_1",
+    "locuteur": "Ann",
+    "en": "A few of them even came over and{SAUT}talked to us, hoping it would help solve{SAUT}the case.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Mitsuru",
+    "en": "Oh? How interesting...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "Those at the top will often affect those{SAUT}below... I think this film is proof of that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Mitsuru",
+    "en": "Those at the top...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "What's wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Mitsuru",
+    "en": "Nothing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019_1",
+    "locuteur": "Mitsuru",
+    "en": "We still have one more crime scene to{SAUT}check. Let's ask around there as well.",
+    "fr": ""
+  }
+]

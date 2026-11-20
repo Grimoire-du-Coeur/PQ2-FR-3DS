@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "Reserve teammates can join in the fray{SAUT}through {f 0 1 2}follow-up attacks{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "Follow-up attacks may come after a party{SAUT}member {f 0 1 2}strikes a critical hit, or if the{SAUT}attack had an affinity that the enemy was{SAUT}weak against{f 0 1 0}. Follow-up attacks have a{SAUT}{f 0 1 2}high chance of knocking down Shadows{f 0 1 0}.",
+    "fr": ""
+  }
+]

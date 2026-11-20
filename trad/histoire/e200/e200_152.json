@@ -1,0 +1,289 @@
+[
+  {
+    "id": "MSG_0000",
+    "en": "We introduced ourselves as well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Hero",
+    "en": ", huh... Nice to meet{SAUT}you. You seem pretty experienced too,{SAUT}so we should make a good team.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Yep yep! When you told us you're{SAUT}phantom thieves, it didn't make any{SAUT}sense to me at first...{PAGE}But the more you told us, the more{SAUT}exciting it sounded―it makes me{SAUT}wanna be one, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "Ain't no way that'd work, Chie-senpai.{SAUT}You'd just solve everything with your{SAUT}fists.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukiko",
+    "en": "Yes, me too! I want to try being{SAUT}a phantom thief!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Hmm... I imagine that you'd burst out{SAUT}laughing during an infiltration and be{SAUT}found out right away, Yukiko-senpai.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "It'll be fine. In a worst-case scenario,{SAUT}I'll set everything ablaze.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "Just as I suspected, I don't think you're{SAUT}best-suited to be a phantom thief...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Cheerful girl",
+    "en": "Guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P4 Hero",
+    "en": "Rise! Are you feeling better!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Cheerful girl",
+    "en": "Mmhm, sorry I worried you! Rise is back{SAUT}and better than ever!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "I'm glad she's recovered...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Nagi",
+    "en": "I must say, I'm relieved as well. Still,{SAUT}please don't push yourself too hard{SAUT}just yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Cheerful girl",
+    "en": "Thanks a ton, Nagi-san! Same to you,{SAUT}Hikari-chan!{PAGE}I gotta say, I was surprised when I woke{SAUT}up somewhere I didn't recognize―and{SAUT}with a bunch of people in blue clothes...{PAGE}But, I made sure to introduce myself{SAUT}to everyone! Marie-chan being there{SAUT}was a big help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Marie",
+    "en": "Y-You surprised me too, you know!{SAUT}You just collapsed on us!{PAGE}...Well, it's fine, if you're better now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "Ooh... A picture-perfect blueprint{SAUT}of a tsundere!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "H-Hey... It's the real-life Risette!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Yeah.{OPTION}I dunno who that actually is.{OPTION}She looks different from on TV...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "Man, she is so cute! That sailor uniform{SAUT}totally suits her, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "Seriously? Her posters are all over the{SAUT}train stations!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "She's way cuter in person, right!? She's{SAUT}got this totally different vibe from Ann.{SAUT}Oh man...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Cheerful girl",
+    "en": "Oh yeah, I heard a bit about everyone{SAUT}else here and stuff...{PAGE}But, there's a lot I'm curious about―{SAUT}could I get an update on our current{SAUT}situation first?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P4 Hero",
+    "en": "Sounds good. We'd like some more{SAUT}info as well.{PAGE}Understanding the current situation{SAUT}may help us in our search for Yosuke.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "That makes sense. It'd be best for us{SAUT}to sort through what we know as well.{PAGE}Let's explain our circumstances up{SAUT}to now and share intel.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Morgana",
+    "en": "Yeah, that's a good idea. Well, first{SAUT}we were all...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Makoto",
+    "en": "That covers everything we know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P4 Hero",
+    "en": "I see... I understand the situation now.{SAUT}Let's work together from here on out{SAUT}to solve this case.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_026",
+    "choix": true,
+    "en": "We'll make a great team.{OPTION}You better not slow us down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P4 Hero",
+    "en": "Once again, I hope we get along.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ann",
+    "en": "Don't talk like that to them! We're all{SAUT}companions already, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Cheerful girl",
+    "en": "Oh, that's right! I almost forgot.{PAGE}I'm Rise Kujikawa. I can't fight, but{SAUT}leave the navigation to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Futaba",
+    "en": "Y-You're... a navigator!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Rise",
+    "en": "Mmhm, sure am!{PAGE}And if I heard correctly, you are too,{SAUT}right, Futaba-chan? Let's do our best{SAUT}together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Futaba",
+    "en": "Eek! Oh, um... Uhh... I-I'll try―I mean{SAUT}I-I hope we get along!{PAGE}She's an idol AND she can provide{SAUT}backup? Her specs are off the charts...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Naoto",
+    "en": "Still, I'm rather worried about{SAUT}{f 6 1 27 0 0 0}-san's companions.{PAGE}Um, are you doing okay? I can{SAUT}imagine that you'd feel somewhat{SAUT}lonely being the only one here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha, yeah... I was so surprised when{SAUT}I came to and noticed I was all alone!{PAGE}But, my companions are all strong.{SAUT}That's why I believe that we'll be{SAUT}safely reunited, eventually.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Teddie",
+    "en": "I... I'm so moved! She's so cheerful,{SAUT}even though she's been separated{SAUT}from her friends...{PAGE}Miss, you can leave it to me! I shall find{SAUT}every single one of them, not only our{SAUT}Yosuke!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P3 Fem Protag",
+    "en": "Aw, thanks! I'm counting on you all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Morgana",
+    "en": "Okay, are we done trading info? Then,{SAUT}let's confirm our plan from here on out.{PAGE}Overall, we need to change the contents{SAUT}of the movies here in the hopes of{SAUT}leaving this bizarre world!{PAGE}But first, we search for the lost{SAUT}companions!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Ryuji",
+    "en": "You don't gotta tell us twice. Heh,{SAUT}I'm startin' to get pumped!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Margaret",
+    "en": "Allow us to lend our assistance as{SAUT}well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Chie",
+    "en": "Whoa! She popped out of nowhere{SAUT}again!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Margaret",
+    "en": "When set upon a stage, every player{SAUT}must take up some sort of role.{PAGE}Our role this time is to support you{SAUT}all on this journey...{PAGE}And Marie says that she'll gladly{SAUT}assist in this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Marie",
+    "en": "What!? I didn't say that!{PAGE}This is such bullcrap... Ugh, I don't have{SAUT}a choice here, do I?{PAGE}I don't know what's even possible in this{SAUT}place, but I guess I'll do what I can...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Margaret",
+    "en": "Well then, everyone.{PAGE}While as little as it may be, we will{SAUT}aid you in proceeding through this{SAUT}program.{PAGE}Won't you come to the Velvet Room{SAUT}for more details?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, that should be helpful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Margaret",
+    "en": "We shall be waiting there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "P4 Hero",
+    "en": ", let's go check out{SAUT}the Velvet Room.",
+    "fr": ""
+  }
+]

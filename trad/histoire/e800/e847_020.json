@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "My readings are going crazy! Be careful...{SAUT}That's our target, without a doubt!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "I see... So it's got some fight{SAUT}after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "locuteur": "Morgana",
+    "en": "Let's go, Joker!{SAUT}Show it what you're made of!",
+    "fr": ""
+  }
+]

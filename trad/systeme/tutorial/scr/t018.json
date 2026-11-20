@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "In the labyrinths, you may encounter{SAUT}{f 0 1 2}special golden Shadows{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "When you defeat them, you may receive{SAUT}{f 0 1 2}greater rewards than you would from{SAUT}normal Shadows{f 0 1 0}. Also, golden Shadows{SAUT}may have special skills and resistances, so{SAUT}remember to Analyze them while you fight.",
+    "fr": ""
+  }
+]

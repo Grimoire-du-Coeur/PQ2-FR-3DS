@@ -1,0 +1,17 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "Blank Cards are used in {f 0 1 2}Sacrifice{SAUT}Fusions{f 0 1 0} in the Velvet Room. Use a Blank{SAUT}Card to carry over a {f 0 1 2}specific skill{f 0 1 0} from{SAUT}the sacrificed Sub-Persona to the one{SAUT}you want to strengthen.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "Only skills that are {f 0 1 2}highlighted on the{SAUT}skill list{f 0 1 0} can be carried over.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes03",
+    "en": "You can sometimes obtain a Blank Card{SAUT}when you {f 0 1 2}defeat a Rare Shadow or an{SAUT}FOE{f 0 1 0}. They're quite valuable; you won't{SAUT}need to let a great skill go to waste just{SAUT}because you're sacrificing a Sub-Persona.",
+    "fr": ""
+  }
+]

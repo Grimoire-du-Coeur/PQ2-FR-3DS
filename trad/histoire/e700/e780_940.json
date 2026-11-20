@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Justine",
+    "en": "So you're back, Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "......?{PAGE}Marie is nowhere in sight...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Caroline",
+    "en": "What, is she out again?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "......?{PAGE}There's another piece of stationery{SAUT}on the floor...{PAGE}Something's been written on it with{SAUT}cutesy handwriting...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Marie",
+    "en": "\"Surprise Birthday\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Marie",
+    "en": "It's the special day{SAUT}for the one I love{PAGE}Let there be champagne and strawberry cake{PAGE}Oh, did you notice?{SAUT}My love is baked into it{PAGE}All for just a bit of excitement{SAUT}(P-A-S-S-I-O-N){PAGE}Seek the message{SAUT}hidden in the chocolate{SAUT}in curlicued script:{PAGE}'Isle of View': a clear sign{PAGE}Maybe I'll lick the frosting off your cheek (Mmm!){PAGE}Don't tell me I'm hogging the sweets!{PAGE}I'm only a greedy pig for you, monsieur{PAGE}I'm only crazy for you, monsieur",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "......{PAGE}Is this another one of Marie's poems?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Marie",
+    "en": "Hwaaaaaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Marie",
+    "en": "Wait, wait! This is one of the worst ones!{PAGE}I just got worked up, is all! I just want{SAUT}a bit of excitement, not this much!{PAGE}......{PAGE}GeezIhateyoustupidsurprisemonsieur!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Marie's face has gone beet red, all{SAUT}the way to her ears...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Caroline",
+    "en": "\"Isle of View\"? What sort of message{SAUT}is hidden there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Justine",
+    "en": "Is that... some kind of island... where{SAUT}you can see―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Marie",
+    "en": "No! Isle of View is just another way{SAUT}to read \"I love you,\" obviousl―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Marie",
+    "en": "...Ah!{PAGE}I-I mean, there's no hidden message!{SAUT}Why would there be some idiotic{SAUT}surprise like that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "en": "She looks really desperate...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Marie",
+    "en": "This can't be happening... I'm sure{SAUT}I put this away...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "en": "Marie returned to her usual spot,{SAUT}noticeably unsettled...",
+    "fr": ""
+  }
+]

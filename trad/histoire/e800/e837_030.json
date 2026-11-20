@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "How about it? Did you come up with{SAUT}a regimen for Chie and Akihiko?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "Well, the thing is... I can't actually find{SAUT}any weaknesses in either of them...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Isn't that a good thing?{OPTION}They're pretty strong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Yes. They're both so strong already.{SAUT}Why push themselves so hard?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "Coach! Is something wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akihiko",
+    "en": "You see anything missing in our{SAUT}performance? Don't hesitate―{SAUT}just tell me straight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "Well, not really...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "Queen has a question.{OPTION}What drives you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "Joker... Thanks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "Thanks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Makoto",
+    "en": "From what I can tell, you're both{SAUT}already so strong. But you're so{SAUT}fixated on getting even stronger...{PAGE}Tell me, why do you two push{SAUT}yourselves so hard?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "What's driving me to get stronger?{SAUT}Well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akihiko",
+    "en": "Because I want to beat even stronger{SAUT}opponents.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Makoto",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "The stronger we are, the more bad{SAUT}guys we can beat! It's the same for{SAUT}you, right, Coach?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akihiko",
+    "en": "Yeah. Isn't that why you learned{SAUT}aikido? You had something you{SAUT}needed to fight, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Makoto",
+    "en": "Well... My father was a policeman,{SAUT}so he taught me and my sister{SAUT}aikido.{PAGE}So it kind of just happened that way{SAUT}for me. And I'm not as strong as{SAUT}my father or my sister...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "You aren't?{OPTION}Sae-san's even stronger?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "There's always someone stronger.{SAUT}And my father was one of the best.{PAGE}...Though maybe he's a little bigger{SAUT}in my memory than he was in life.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Makoto",
+    "en": "I haven't sparred with her in awhile,{SAUT}so I'm not sure, but I never managed{SAUT}to beat her before.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Chie",
+    "en": "Whoa, your dad was a police officer...?{SAUT}That's so cool...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akihiko",
+    "en": "I'm sure he was a great man.{PAGE}But you don't have to be so modest.{SAUT}Your strength isn't just in your raw{SAUT}power.{PAGE}You can calmly analyze a situation,{SAUT}then make calculated decisions.{SAUT}That's something we can't do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Chie",
+    "en": "Then let's have her come up with{SAUT}a training regimen for us! Like a{SAUT}workout for our minds?{PAGE}Oh, but how are we supposed to{SAUT}train our brains?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Makoto",
+    "en": "Brain training, huh? *chuckle* You're{SAUT}both so true to your goals.{PAGE}Once you have that reason to be{SAUT}strong...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Futaba",
+    "en": "Sorry to interrupt, but I'm detecting{SAUT}a lot of Shadows gathering up.{PAGE}You guys better skedaddle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "Save the talk for later. Let's go, Joker!",
+    "fr": ""
+  }
+]

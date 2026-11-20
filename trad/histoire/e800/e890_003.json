@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Heheheh... It would appear that{SAUT}all our actors are present.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "Theo, those clothes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "Ah, this?{PAGE}Well, this is a rare opportunity for{SAUT}me. Etiquette demands I wear the{SAUT}proper attire.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "But you're not our enemy, Theodore.{SAUT}Fighting you just feels wrong...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Theodore",
+    "en": "Please, do not let that bother you.{SAUT}After all, this is no mere fight―{SAUT}it is a formal bout.{PAGE}Let us battle with no hard feelings.{SAUT}I shall be giving this my all as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "Hmhm... I confess I'm relieved to{SAUT}see you've warmed up to the idea,{SAUT}Theo.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Theodore",
+    "en": "Perhaps we simply have a natural{SAUT}inclination to this sort of thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "A natural inclination?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Theodore",
+    "en": "We preside over power. Normally, we{SAUT}simply observe as you walk your path...{PAGE}But the stronger you grow, the more{SAUT}we feel a certain hunger... to battle{SAUT}you, and taste your power ourselves.{PAGE}My sister's command certainly surprised{SAUT}me, but now I realize... I long for{SAUT}the thrill of battle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Whoaaa... That line was straight out of{SAUT}a postgame superboss monologue!{SAUT}Is this, like, Omega Theodore!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Theodore",
+    "en": "Now, let us begin. Please, hold{SAUT}nothing back.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "Let's do this.{OPTION}Are you ready?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Theodore",
+    "en": "Yes. Allow me to bear witness to{SAUT}the full scope of your power.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012_1",
+    "locuteur": "Theodore",
+    "en": "Well then... Here I come!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Theodore",
+    "en": "Well then. Let us begin once again.{SAUT}I will be expecting great things...",
+    "fr": ""
+  }
+]

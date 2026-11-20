@@ -1,0 +1,37 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Dammit, a dead end.{PAGE}Man, I knew we were supposed to{SAUT}take that right turn back there... Ugh,{SAUT}backtracking is such a pain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Quit complaining, Skull. What's wrong{SAUT}with taking the scenic route?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Yeah! Whenever you get lost in the{SAUT}city, you always find some new shop{SAUT}you never noticed before!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "And something similar might happen{SAUT}within movies, I suppose.{PAGE}What we first perceive as an{SAUT}unnecessary detour may lead to{SAUT}something useful.{PAGE}And the extra travel gives us an{SAUT}opportunity to gain more combat{SAUT}experience, so it's not all bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Well, I guess we'd never have{SAUT}gotten this far without a couple{SAUT}wrong turns along the way...{PAGE}Better turn around, anyway.{SAUT}Let's go, Joker.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "A new special screening:{SAUT}\"A Look Inward\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

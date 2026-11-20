@@ -1,0 +1,236 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "This is the spot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Good. Let the search begin.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "It doesn't look like there's anything{SAUT}here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Man, let's take a break. My hip's{SAUT}startin' to hurt.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "You sound like an old man, Skull.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Shut up! It just means I've been workin'{SAUT}hard!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Well, we can't just keep blindly poking{SAUT}around.{PAGE}My paws are getting cold.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "Let's take a break.{OPTION}We need to try harder.{OPTION}Think I'll go for a swim.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "What's gotten into you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Naoto",
+    "en": "I don't believe trying harder is going to{SAUT}help...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Then let's all just take a break!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Rise",
+    "en": "That's your idea of relaxing!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Calm down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "I think it'd be best if we just take a break.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "A break...?{PAGE}I'm going to continue looking around.{SAUT}Feel free to take a break if you wish.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "Whoa now, there's no need to push{SAUT}yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "This doesn't even come close to pushing{SAUT}myself.{PAGE}I was once forced to survive on nothing{SAUT}but grass and bean sprouts for three{SAUT}whole days.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "What, were you stranded on an island{SAUT}or somethin'!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yukiko",
+    "en": "Is it all right if I continue looking{SAUT}too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Teddie",
+    "en": "Wh-Wha!? You really are excited about{SAUT}this, Yuki-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Well, it doesn't look like there's many{SAUT}Shadows around. Just be careful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yukiko",
+    "en": "I don't see anything over here.{SAUT}What about you, Fox?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yusuke",
+    "en": "I'm afraid it's the same for me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Makoto",
+    "en": "You two should take a break. You're{SAUT}going to tire yourselves out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Naoto",
+    "en": "There doesn't appear to be any{SAUT}ammonites in the area. We'll have to{SAUT}search somewhere else.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ryuji",
+    "en": "Yeah. But let's let these two rest first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yusuke",
+    "en": "My apologies for dragging all of you{SAUT}into this...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_027",
+    "choix": true,
+    "en": "Don't worry about it.{OPTION}We're used to it.{OPTION}We'll need something in return.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ann",
+    "en": "Yeah, I wanna see more of{SAUT}Yukiko-chan's amazing art too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Futaba",
+    "en": "Agreed. In fact, it's weird to hear you{SAUT}apologize for it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Makoto",
+    "en": "Mhm. We'll need you to work just as{SAUT}hard for us. Sound fair?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yusuke",
+    "en": "Hmhm, It seems I've made some good{SAUT}friends...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Ryuji",
+    "en": "Hm? You say somethin'?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yusuke",
+    "en": "Nothing... Where do we go from here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Futaba",
+    "en": "Closest body of water's to the{SAUT}northwest.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yusuke",
+    "en": "All right, let's move!{PAGE}...On second thought, I think I may be{SAUT}too hungry to move.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Haru",
+    "en": "I brought some cookies, so why don't{SAUT}you finally take a break? You too,{SAUT}Yukiko-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yukiko",
+    "en": "Oh, okay. Thank you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Morgana",
+    "en": "It's settled, then. We take a break then{SAUT}head northwest!",
+    "fr": ""
+  }
+]

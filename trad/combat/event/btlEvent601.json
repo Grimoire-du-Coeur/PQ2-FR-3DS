@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Brown-haired girl",
+    "en": "Whoa! Reinforcements!? They look{SAUT}strong too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Hell no! We ain't your enemy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "You're friends with Theodore, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Brown-haired girl",
+    "en": "Huh? You know Theo!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "We'll explain later! Let's go, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Yo, is it just me, or does it feel like our{SAUT}attacks ain't doin' jack to this Shadow?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "It does! Something seems off about{SAUT}its data too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "If regular attacks won't work, then{SAUT}perhaps we go about this another way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "Ooh, that's a pretty good idea coming{SAUT}from you, Inari.{PAGE}I'll keep analyzing it, so be sure to try{SAUT}different stuff like status ailments too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ann",
+    "en": "Look! The Shadow changed color!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "I believe I saw something shatter{SAUT}around it as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "I got it!{PAGE}Looks like that one was protected by a{SAUT}\"resistance barrier\" until now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ann",
+    "en": "A barrier...? No wonder it felt like our{SAUT}attacks weren't doing much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "Seems the barrier can be destroyed{SAUT}if it's damaged enough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yusuke",
+    "en": "That would mean now's our{SAUT}opportunity. Let's go all out!",
+    "fr": ""
+  }
+]

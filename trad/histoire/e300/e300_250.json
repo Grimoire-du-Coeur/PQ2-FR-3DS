@@ -1,0 +1,296 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Whoaaaaaa! This... This is amazing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ken",
+    "en": "Could this be a facility used by humans{SAUT}in the past?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Most likely...{PAGE}Though now, it seems to be used by{SAUT}the robots to create more robots.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Wowww... This is seriously just like{SAUT}a sci-fi movie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "There's nothing \"like\" about it. We're{SAUT}literally inside a sci-fi movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Kanji",
+    "en": "Huh, sci-fi... Which ones are those{SAUT}again?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "Like I just said―this! This, right now!{SAUT}What you're looking at right now{SAUT}is sci-fi!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Oho... So, are ice creams and juices{SAUT}sold in sci-fi worlds too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "How would I know!? That's the last thing{SAUT}you need right now, anyway!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "Hey, do you think Yosuke could actually{SAUT}be the sassy type?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Now that you mention it, he's always{SAUT}talking back like his life depends on it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "What else am I supposed to do!? If I just{SAUT}let 'em keep going, things'll spiral outta{SAUT}control faster than you can blink!{PAGE}Don't you get why my snark is{SAUT}so important, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "I totally understand.{OPTION}I don't really get it...{OPTION}Who's the Joker here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yosuke",
+    "en": "Right? Seriously, I'm tryin' to do you{SAUT}guys a service here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "If you stick with us long enough, you'll{SAUT}get it... Even after you don't want to{SAUT}anymore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "YOU! Don't make me rip that mask off!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P4 Hero",
+    "en": "But, it really is thanks to Yosuke that{SAUT}the Investigation Team's conversations{SAUT}can carry on as well as they do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yosuke",
+    "en": "Now that's my partner! You truly{SAUT}understand my woes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Shinjiro",
+    "en": "When you get a big group of people{SAUT}together, it's only natural that trouble{SAUT}comes too. It's all up to personalities.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Naoto",
+    "en": "The members of SEES are quite full of{SAUT}personality as well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ken",
+    "en": "We've all grown accustomed to our{SAUT}group by now, but I guess it'd look{SAUT}rather strange to an outsider.{PAGE}But it's actually pretty fun, since we{SAUT}have so many different types of people{SAUT}together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "Indeed. The Persona-users we've{SAUT}encountered are all highly fascinating{SAUT}and brimming with personality.{PAGE}It's made me realize just how ordinary{SAUT}I am.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_022",
+    "choix": true,
+    "en": "Uh... \"Ordinary\"?{OPTION}That's correct.{OPTION}What are you talking about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ryuji",
+    "en": "Are you kidding me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Makoto",
+    "en": "You're definitely not ordinary, Fox. If{SAUT}anything, you're... exceedingly unique.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yusuke",
+    "en": "What!? Is this true?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yukari",
+    "en": "So you didn't have a clue, huh? Well,{SAUT}I guess that's just how it is for unique{SAUT}people...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yusuke",
+    "en": "I suppose I need to study everyone else{SAUT}closely and learn to be more unique.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yukari",
+    "en": "Uh, you're already way too unique...{SAUT}In all honesty, you're like the living{SAUT}embodiment of weird.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yusuke",
+    "en": "Did I say something peculiar?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Makoto",
+    "en": "You're definitely not ordinary, Fox. If{SAUT}anything, you're... exceedingly unique.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yusuke",
+    "en": "What!? Is this true?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Yukari",
+    "en": "So you didn't have a clue, huh? Well,{SAUT}I guess that's just how it is for unique{SAUT}people...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yusuke",
+    "en": "From my own point of view, everyone{SAUT}else seemed so much more unique{SAUT}than I...{PAGE}But, such uniqueness is essential to{SAUT}art―so I've chosen to accept your{SAUT}input as praise.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "P3 Fem Protag",
+    "en": "Well, that's all well and good, but that{SAUT}kind of individuality isn't something{SAUT}they praise in this world, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ribbon",
+    "en": "CORRECT. INDIVIDUALITY IS AN{SAUT}ERROR. DIFFERING FROM OTHERS{SAUT}IS SUBOPTIMAL.{PAGE}IF THE POPULATION ATTAINED{SAUT}INDIVIDUALITY, THIS WORLD'S{SAUT}HARMONY WOULD BE DISRUPTED...{PAGE}AND ITS MANAGEMENT WOULD GROW{SAUT}TOO COSTLY. INDIVIDUALITY IS AN{SAUT}EVIL―THIS IS OUR PROGRAMMING.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Ryuji",
+    "en": "Ugh... I guess that probably makes sense{SAUT}to the Overseer, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Futaba",
+    "en": "Being told you shouldn't exist, just{SAUT}because you're different, or weird?{PAGE}...That's nothing but forcing someone's{SAUT}norms onto everyone else!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Makoto",
+    "en": "Oracle...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Mitsuru",
+    "en": "I certainly agree... Plus, a homogenized{SAUT}world would be far too bland, and any{SAUT}harmony in it would be artificial.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Ribbon",
+    "en": "DESPITE THAT, I AM STILL CONSIDERED{SAUT}NOTHING BUT AN ERROR IN THIS{SAUT}WORLD.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_041",
+    "choix": true,
+    "en": "You're not an error.{OPTION}The Overseer is wrong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Ribbon",
+    "en": "IS THAT SO...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Junpei",
+    "en": "Yeah, whoever decided all these crappy{SAUT}laws is totally wrong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Akechi",
+    "en": "Seriously, talk about a totalitarian ruler.{SAUT}He doesn't even think of the people―he{SAUT}only cares about maintaining order.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Chie",
+    "en": "Ugh... Just thinking about it is pissing me{SAUT}off! I can't wait to kick all this nonsense{SAUT}outta him!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Futaba",
+    "en": "Agreed. We've gotta change this movie{SAUT}into one that's less oppressive and{SAUT}more fun!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Morgana",
+    "en": "Well then, let's push forward! This is{SAUT}the enemy's stronghold, so don't let{SAUT}your guard down!",
+    "fr": ""
+  }
+]

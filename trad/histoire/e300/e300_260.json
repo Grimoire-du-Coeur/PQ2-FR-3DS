@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "This place is quite spacious...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "Wh-What's that robot? Is it some kind{SAUT}of new enemy!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Hey, is that someone fighting over{SAUT}there!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "That's...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "Wait, those moves... Don't tell me―!",
+    "fr": ""
+  }
+]

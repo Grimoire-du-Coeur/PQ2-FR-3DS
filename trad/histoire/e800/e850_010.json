@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Well! It feels as though we're finally{SAUT}approaching the grand finale to{SAUT}all these special screenings.{PAGE}Thinking back, the countless shows{SAUT}you've been a part of were all truly{SAUT}spectacular in their own ways.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "Yeah... I always look forward to them{SAUT}now, since I get to see different{SAUT}sides to everyone.{PAGE}They're all so memorable... like{SAUT}great movies should be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "It's about time you take a break.{SAUT}Enjoy a screening of the special sort.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Elizabeth",
+    "en": "It would seem a deadly Shadow has{SAUT}appeared in the depths of Hikari's{SAUT}movie.{PAGE}Please slay it, and thus prove your{SAUT}strength.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Let's do this.{OPTION}Again? Seriously?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "Yeah, we'll take them on. It's a{SAUT}perfect opportunity to train ourselves{SAUT}even harder.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Mitsuru",
+    "en": "Come now, there's no sense refusing.{SAUT}Serious battles like these are{SAUT}valuable opportunities for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, Senpai's right! We've got a lot{SAUT}more fighting ahead of us, after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Junpei",
+    "en": "So, what's the deets? If this is just{SAUT}like usual, it's gonna have a specific{SAUT}cast, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Elizabeth",
+    "en": "Ah yes, {f 6 1 27 0 0 0}.{PAGE}According to the ticket, you appear{SAUT}to be the specified cast member{SAUT}for this screening.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "W-Wait, me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elizabeth",
+    "en": "Indeed so. Please make certain that{SAUT}you participate in this battle,{SAUT}{f 6 1 27 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Junpei",
+    "en": "You got this, leading lady!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011_1",
+    "locuteur": "Junpei",
+    "en": "Don't worry. There's no way you{SAUT}can lose! You got me on your side,{SAUT}and I'm the biggest superstar here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hee hee... Thanks, Junpei, but{SAUT}I won't expect any big heroics.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "H-Hey now, I could be a hero{SAUT}if I wanted!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukari",
+    "en": "When you say it like that, you{SAUT}sound like even more of a loser.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elizabeth",
+    "en": "Well then, everyone. I invite you to{SAUT}display your power to your hearts'{SAUT}content.{PAGE}And when you've accomplished this{SAUT}deed with your usual aplomb...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015_1",
+    "locuteur": "Elizabeth",
+    "en": "Finally, my time will come...! Oh,{SAUT}the thrill of it! My heart is pounding!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "She seems kinda distracted, so...{SAUT}we'd better focus on beating that{SAUT}enemy down there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016_1",
+    "locuteur": "P3 Fem Protag",
+    "en": "She said it was in the depths of{SAUT}Hikari-chan's movie, right? Once{SAUT}we're all set, let's get going!",
+    "fr": ""
+  }
+]

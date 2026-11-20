@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "...A dead end, hm? Well, we may as well{SAUT}take a break here; I'm hungry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Oh man, I would kill for some ramen{SAUT}right now. I want a seasoned egg,{SAUT}roasted pork, and extra green onions...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Hrgh... Just thinking about that{SAUT}suddenly made me hungry...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Ramen's a real guilty pleasure. One of{SAUT}those devilish foods you suddenly crave{SAUT}out of the blue...{PAGE}Imagine the noodles mingling with the{SAUT}lightly toasted garlic oil and picking up{SAUT}the soup as you slurp it all up...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Now I'm even hungrier. You'd better{SAUT}take responsibility for this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "Fiiiine. I'll treat you to a bowl when we{SAUT}get outta here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Your treat...!? I'll show up even if it{SAUT}means I have to crawl my way there,{SAUT}so wait for me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "Sheesh, he's desperate...{PAGE}Still, getting ramen with everyone does{SAUT}sound great. I'll be joining you guys{SAUT}when the time comes, all right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Welp, now that we've all got somethin'{SAUT}to look forward to, let's get back to it!",
+    "fr": ""
+  }
+]

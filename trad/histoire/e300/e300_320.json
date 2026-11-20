@@ -1,0 +1,236 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Boy with earphones",
+    "en": "So, this is the theater... I can't believe{SAUT}we were just inside a movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Right? I finally got to make my silver{SAUT}screen debut!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari",
+    "en": "I'm glad they found you in time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Boy with earphones",
+    "en": "You're Hikari-san, right? It's nice to meet{SAUT}you. Everyone's told me about you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "They went searching for you, and...{SAUT}I'm relieved that you're okay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Boy with earphones",
+    "en": "Thanks for worrying about me too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "Oh, um... Well, everyone else was really{SAUT}worried, so...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Boy with earphones",
+    "en": "By the way, someone told me you can't{SAUT}remember how or why you came here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "M-Mmhm... When I woke up, I was{SAUT}already here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Boy with earphones",
+    "en": "Don't worry. We'll get out of this place{SAUT}together, for sure.{PAGE}...Of course, that might sound strange{SAUT}coming from someone who just got{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Boy with earphones",
+    "en": "So, how's Aigis?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Fuuka",
+    "en": "Just as Mitsuru-senpai suspected, she{SAUT}seems to only be temporarily down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "Futaba, could you lend a hand there?{SAUT}You're good at techy stuff like that,{SAUT}right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "Well, I've got hacking skills, but I'm no{SAUT}mechanic...{PAGE}But! I'll do what I can―lemme take{SAUT}a gander.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Nagi",
+    "en": "In that case, please follow me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "How did it go, Futaba?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "Omigod... She's made up of all these{SAUT}insane parts with insane tech and, um...{SAUT}Anyway, it's just insane!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Ah, I see...{OPTION}That didn't mean anything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "I don't understand it at all either, but{SAUT}I do grasp the idea that it's insane.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "It seems like she has an automatic{SAUT}self-repair function―the broken parts{SAUT}are fixing themselves on their own!{PAGE}What kind of technology DOES that!?{SAUT}This is nothing less than sci-fi wizardry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Mitsuru",
+    "en": "All of her functions seem to be operating{SAUT}normally. There are no problems for{SAUT}the time being.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "She's severely drained, but at this rate,{SAUT}she should recover pretty soon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari",
+    "en": "I see... I'm glad she's okay, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akihiko",
+    "en": "Sorry to be such a bother, but we're{SAUT}going to have to leave Aigis in their care{SAUT}here until she's recovered.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P4 Hero",
+    "en": "At least that's one less concern to{SAUT}worry ourselves with.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Boy with earphones",
+    "en": "I really must thank you again for your{SAUT}support, including helping Aigis.{SAUT}I'm extremely grateful.{PAGE}And, um, you are...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Kanji",
+    "en": "Oh yeah, we haven't introduced{SAUT}ourselves yet! I'm Kanji Tatsumi,{SAUT}a first-year at Yasogami High.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Boy with earphones",
+    "en": "First-year!? So you're actually younger{SAUT}than me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Chie",
+    "en": "Um, technically, he might be even{SAUT}younger than you think...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Boy with earphones",
+    "en": "What's that mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Akechi",
+    "en": "We've all originated in different places...{SAUT}and different times.{PAGE}Not only that, some of us are apparently{SAUT}dealing with even more anomalous{SAUT}experiences...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Akechi",
+    "en": "We can spare the details for later...{PAGE}But, basically, we've come from separate{SAUT}worlds―as hard as that may be to{SAUT}believe.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Boy with earphones",
+    "en": "I see... All right, then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ann",
+    "en": "You're just fine with that!?{PAGE}Hey, I'm starting to get a feeling from him{SAUT}that reminds me a lot of {f 6 1 30 0 0 0}...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "I feel like we'd get along well.{OPTION}I think you're imagining things.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Chie",
+    "en": "Ahh, I getcha. You know, he's pretty{SAUT}similar to our own leader, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Chie",
+    "en": "Really? You know, he's actually pretty{SAUT}similar to our own leader, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Makoto",
+    "en": "So, you're Takeba-san and Iori-kun's{SAUT}leader too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Boy with earphones",
+    "en": "Yeah―oh, I haven't told you my name{SAUT}yet, huh? My name is...",
+    "fr": ""
+  }
+]

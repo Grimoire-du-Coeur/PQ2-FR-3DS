@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "...The hell was that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "The theater people seem like they're{SAUT}in so much pain...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Enlil",
+    "en": "Now do you understand?{PAGE}You were capable of exiting the theater{SAUT}because of your strength, correct? Well,{SAUT}that isn't possessed by every soul here...{PAGE}For them, this is instead a place where{SAUT}they can gain a sense of peace they've{SAUT}never found in their own realities.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Th-That... can't be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Enlil",
+    "en": "Can you truly say that isn't the case?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Fuuka",
+    "en": "It's...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Enlil",
+    "en": "*chuckle* Well then, everyone―thank{SAUT}you for attending the theater.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "Agh―dammit! Get your ass back here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "She vanished...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "...Can we truly return home now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Rise",
+    "en": "Yeah... It seems like it. But...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Don't worry, Hikari-chan! It's alright,{SAUT}we'll make sure you get back to your―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Hikari",
+    "en": "That's not it―I'm not worried about{SAUT}myself...{PAGE}I'm remembering how those people are{SAUT}feeling right now... So much that it hurts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013_5",
+    "locuteur": "Hikari",
+    "en": "I ran away from all sorts of things in{SAUT}my life, just because I didn't want to{SAUT}get hurt...{PAGE}I even tried to get rid of everything{SAUT}that I ever cared about...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Teddie",
+    "en": "Hikarin...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Hikari",
+    "en": "But, then you all saved me... You made{SAUT}me realize I want to be myself again.{PAGE}I'm sure we can do the same thing for{SAUT}the others here. All they need is the{SAUT}chance to see what life should be like... ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015_5",
+    "locuteur": "Hikari",
+    "en": "...And they'll have what they need to see{SAUT}the value of individuality. So, I can't just{SAUT}abandon all the people here like this!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Well said.{OPTION}I agree.{OPTION}Aw, here it goes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah! You've got the right idea! Let's go{SAUT}save them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P4 Hero",
+    "en": "Right―I think we should save everyone{SAUT}here too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Hero",
+    "en": "You say that like you think it's a bother,{SAUT}but the look on your face says otherwise.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Fuuka",
+    "en": "Based on what we've seen so far,{SAUT}I don't think those people really{SAUT}want to be here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Naoto",
+    "en": "It was like they were trying to convince{SAUT}themselves to stay here by claiming that{SAUT}everyone held the same opinion...{PAGE}That's our clue that they don't truly{SAUT}feel that way. We need to help them{SAUT}snap out of it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Morgana",
+    "en": "Looks like this'll be our last big job here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ryuji",
+    "en": "Whoa, when did my clothes change!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "It must be because we've demonstrated{SAUT}our will to confront Enlil here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ann",
+    "en": "Makes sense. Now that we know what{SAUT}we're doing here, let's go chase after her!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Mitsuru",
+    "en": "Wait―there's no knowing what awaits{SAUT}us ahead. We should prepare for our{SAUT}mission first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Akechi",
+    "en": "That's true... I do feel a bit uneasy{SAUT}charging onward in our current state.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Aigis",
+    "en": "Understood. Everyone, let us return{SAUT}inside the theater.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "I am pleased to see that you were able{SAUT}to successfully find the target item.{PAGE}And what wonderful friends you are{SAUT}blessed with, Hikari, who will stand up{SAUT}and fight on your behalf.{PAGE}What an unexpectedly touching film{SAUT}that was. It was so intense that my tears{SAUT}are positively endless.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "Uh, you're not crying at all, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Hikari, what exactly was the item you{SAUT}lost after all that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "Um... It was this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Ohh, I've seen one of those before! It's{SAUT}that thing you use in movies when you{SAUT}say \"Action!\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "Yeah, it's a clapboard. Just a toy one.{PAGE}When I was little, I used to pretend I{SAUT}was a movie director. I took this with{SAUT}me wherever I went.{PAGE}My dad gave it to me. It's... sort of my{SAUT}treasure.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "It sure sounds like a treasure. Good thing{SAUT}you found it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "Yeah...{PAGE}Hanamura-kun, Sakamoto-kun, Iori-{SAUT}kun. Thank you so much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "No need to get all touchy-feely! Friends{SAUT}help each other out, ya know!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "For sure. In the world of Junpei Iori, Ace{SAUT}Attentive, looking out for friends is as{SAUT}important as any detective work.{PAGE}And unlike those two, I don't have any{SAUT}ulterior motives, like wanting to show{SAUT}off or be popular with girls, no sir.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Way to ruin the moment, man!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "Shot down in flames... That's Junpei{SAUT}Iori, Ace Self-Destructive for you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "*giggle* There never seems to be a dull{SAUT}moment among you three.{PAGE}I think it's wonderful when anyone is{SAUT}able to make others smile.{PAGE}That's why I'm so glad I met you. I hope{SAUT}you never change.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Uh, y-yeah, sure thing. I'll try not to,{SAUT}heh.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "I, uh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Junpei",
+    "en": "Heh, I s'pose it shouldn't be TOO hard{SAUT}not to change. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Chie",
+    "en": "Wow, they're so stiff just 'cause a girl{SAUT}says something nice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yukari",
+    "en": "Typical boys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "Such is the tragic nature of the semi-{SAUT}shameful trio.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Hikari",
+    "en": "There's just one more request I have...{PAGE}I want you all to have this. As a token of{SAUT}my thanks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "Wait, for real!? Isn't it really important{SAUT}to you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Hikari",
+    "en": "That's exactly why I want you to take it.{SAUT}I've made so many happy memories{SAUT}with everyone.{PAGE}You've given me the courage to move{SAUT}forward, and I want to express just{SAUT}how grateful I am for that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yosuke",
+    "en": "Hikari-chan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Junpei",
+    "en": "Ngh... Wait, timeout... there's dust in{SAUT}my eye...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ryuji",
+    "en": "All right then! If that's how you feel,{SAUT}then we'll hold onto it for you.{PAGE}But honestly, I don't think what we've{SAUT}done quite measures up to something{SAUT}that means so much to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Hikari",
+    "en": "Really...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosuke",
+    "en": "Haha, he's right. That just means we{SAUT}gotta make up the difference from here{SAUT}on out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Junpei",
+    "en": "Yeah. We're gonna return your{SAUT}awesomeness a hundred, no, a{SAUT}thousand-fold! That's a promise!{PAGE}So don't miss the next episode of{SAUT}Junpei and the Duo of Disappointment!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yosuke",
+    "en": "Whaddaya think you're trying to pull!?{SAUT}You're the frontman of Team{SAUT}Disappointment!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Ryuji",
+    "en": "Nah, I think that's you, Yosuke. Or{SAUT}maybe you're the captain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yosuke",
+    "en": "Well then you're the commissioner of{SAUT}the whole league, man!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Hikari",
+    "en": "Hehe. This is more like it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P3 Hero",
+    "en": "Well, I think that wraps things up here.{PAGE}They may be our rivals, but that's one{SAUT}thing they've got that we can never{SAUT}hope to match.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. As long as they're here, we can{SAUT}keep on smiling, no matter how tough{SAUT}things get.{PAGE}It looks like we've each got an{SAUT}irreplaceable partner.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_034",
+    "choix": true,
+    "en": "Let's make ourselves worthy.{OPTION}We should repay them in kind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "P3 Hero",
+    "en": "Yeah, let's do our part so that we can{SAUT}always stay together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P4 Hero",
+    "en": "Right. We've all got a role to play...{PAGE}The very best captain's ship will sink if{SAUT}there are no skilled sailors.",
+    "fr": ""
+  }
+]

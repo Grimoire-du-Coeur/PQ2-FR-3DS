@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Hero",
+    "en": "So that's the trailer for our next movie...{SAUT}You weren't kidding about those things.{SAUT}That really left a bad taste in my mouth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "So we're going into a musical next?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_5",
+    "locuteur": "Yukari",
+    "en": "Also, wasn't that Hikari-chan singing{SAUT}in the trailer!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "There's no mistaking her appearance...{PAGE}However, considering the films up to{SAUT}now, she could be someone completely{SAUT}different who only looks like Hikari.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "Also, what happened with that movie{SAUT}title? It was entirely illegible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "It looked like the letters had been{SAUT}scratched out. Were the other movies{SAUT}like that too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Haru",
+    "en": "No, the titles have been legible up until{SAUT}now.{PAGE}But what could have happened{SAUT}to affect this movie's title?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "That's not what matters right now.{SAUT}We need to focus on Hikari!{PAGE}She's in this movie since she was in{SAUT}the trailer, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Yeah, I can sense her reading now.{SAUT}Hikari's in there, all right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Hero",
+    "en": "Well, now that we know where she is,{SAUT}let's go and get her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Nagi",
+    "en": "Everyone... Hikari-san's safety is in your{SAUT}hands.{PAGE}Please, try to save her!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Of course! We promise we'll find her{SAUT}in there.{PAGE}And we'll all come back together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yukiko",
+    "en": "Mmhm, there's no need for you to{SAUT}worry, Nagi-san. Right, {f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "Of course.{OPTION}Let's do this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Hero",
+    "en": "*chuckle* How reassuring.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P4 Hero",
+    "en": "Okay, let's get into that movie!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Doe",
+    "en": "Ngh... Nnnnnnnghhhhh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Dude, what the hell!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Everyone, be careful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "Eek!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Nagi",
+    "en": "Hikari-san!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Doe",
+    "en": "Nggh... Gggghhhhhh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Huh? Is he... in pain?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Don't tell me he's going to attack us...{SAUT}We won't be able to put up a fight here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Doe",
+    "en": "Gggggghhhh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "What are we going to do, {f 6 1 30 0 0 0}!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Let's see what happens.{OPTION}Everyone, be on your guard.{OPTION}Get ready to book it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Doe",
+    "en": "Nnnghhhhhhh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Oh no, oh no...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Doe",
+    "en": "Nnnghhhhhhh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "Can we even fight this!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Doe",
+    "en": "Nnnghhhhhhh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "B-But, run where!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Hikari",
+    "en": "Ah... Nnh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan? Are you okay!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "C-Calm down... W-We're here with{SAUT}you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Doe",
+    "en": "Gggggghhhhhhhhh! Gggggghhhhhhhh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ann",
+    "en": "H-Hey, is he about to explode!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Doe",
+    "en": "Ggggghhhh... Nnnghh... Ngh―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Haru",
+    "en": "Is he... okay now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yusuke",
+    "en": "Hey, look―Doe dropped something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "Hrmm? That's...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ann",
+    "en": "It's... a key?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yusuke",
+    "en": "Indeed. Did he have it all this time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Akechi",
+    "en": "Doe, what is this key for?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "Hey, Doe! Answer us, asshole!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Futaba",
+    "en": "Well, there he goes―it's not like he's{SAUT}answered any of our questions{SAUT}to begin with.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Nagi",
+    "en": "Yes, we've failed to make any form{SAUT}of contact with Doe...{PAGE}Hikari-san, it's all okay now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Futaba",
+    "en": "Hey―is that key for the chains on{SAUT}the exit?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Morgana",
+    "en": "Now that you mention it, it feels like this{SAUT}key and one of the locks on the exit{SAUT}would be a match.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Haru",
+    "en": "But, is it safe for us to use it? What if it{SAUT}explodes when we touch it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Elizabeth",
+    "en": "And that doesn't make you want to try it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Haru",
+    "en": "Wah! Who're they!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Futaba",
+    "en": "Well, the TL;DR version is: they're the{SAUT}Blue Brigade.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Makoto",
+    "en": "Ah, you're right, they're quite blue―{PAGE}Wait, what―Why is he popcorn!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Theodore",
+    "en": "Ah, does this costume pique your{SAUT}curiosity? I was ordered to wear it as{SAUT}part of the \"grand opening\" ritual, so―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Elizabeth",
+    "en": "NOW, which will it be?{PAGE}Will you test the key... or will you not?{SAUT}So, what's your decision!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_045",
+    "choix": true,
+    "en": "Let's try it out.{OPTION}It's awfully suspicious...{OPTION}It could be a trap.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Yusuke",
+    "en": "I agree. If we don't try, we won't make{SAUT}any progress.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Ann",
+    "en": "I mean, it came out of his body...{SAUT}I'm kinda freaked out too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Yusuke",
+    "en": "But, we have nothing else to go on.{SAUT}I believe it's worth testing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Ryuji",
+    "en": "But, there's nothing else we can try.{SAUT}We're trapped here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Yusuke",
+    "en": "Well then, let us test it at once.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Elizabeth",
+    "en": "If a decision has been reached, then{SAUT}let us vamoose.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Makoto",
+    "en": "Hey―just who are those people in the{SAUT}blue clothes?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Ryuji",
+    "en": "We don't have a clue―but I'll try to{SAUT}fill you in anyways on the way there.",
+    "fr": ""
+  }
+]

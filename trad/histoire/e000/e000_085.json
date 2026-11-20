@@ -1,0 +1,302 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "Hey everyone, look at the Meta-Nav.{SAUT}It's not working... Something's wrong{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Everyone's got the same error screen...{SAUT}So, everyone's app is bugged out at the{SAUT}same time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "No, that seems highly unlikely. We need{SAUT}to gather more information.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "Maybe we can find a clue to this if we{SAUT}look around the area...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Crap―a cop!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Wait a sec, look at his uniform! That's{SAUT}not for Japan's police.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Looks like some foreign cop's uniform―{SAUT}it reminds me of the ones I've seen{SAUT}in FPSes.{PAGE}Hmm... seems like he's not a Shadow,{SAUT}either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "Then, maybe we should... try to ask him{SAUT}where we are?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Wha―Talk to a cop!? In these clothes?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Good luck, Queen.{OPTION}We'll manage somehow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "Huh? Me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "If you end up aggroing him, just{SAUT}threaten him with your spikes,{SAUT}Queen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Makoto",
+    "en": "*sigh* Fine―I suppose it was my idea{SAUT}in the first place...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Yeah, I suppose standing around and{SAUT}just talking about it isn't getting us{SAUT}anywhere...{PAGE}Well, we're counting on you, Queen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Makoto",
+    "en": "Huh? Me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "Mweheheh―if you plot to do it,{SAUT}you got to do it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Makoto",
+    "en": "All right, I'll give it a try. But if{SAUT}something goes wrong, I need you all{SAUT}to back me up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Makoto",
+    "en": "Um, excuse me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Serious policeman",
+    "en": "Hmm―whoa there, what's with{SAUT}the getup?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "I toldja so...{PAGE}Especially with Queen doing it. She{SAUT}looks like she just stepped out of{SAUT}Wild Max.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Makoto",
+    "en": "Ah... We're headed to a costume party,{SAUT}but we've gotten ourselves lost.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Morgana",
+    "en": "Ugh, such a clich〒 answer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "That's what makes it perfect!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Serious policeman",
+    "en": "A party, eh? Those are some pretty{SAUT}elaborate costumes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "Ooh, he actually bought it! That was{SAUT}easier than we expected.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yusuke",
+    "en": "Perhaps our ostentatious styles{SAUT}helped to bolster our credibility.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Serious policeman",
+    "en": "So, what's the problem?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Makoto",
+    "en": "If it's not too much trouble, could you{SAUT}tell us where we are right now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Serious policeman",
+    "en": "This is the 1st Ward of Kamo City―{SAUT}don't you know anything about{SAUT}the megalopolis?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Ryuji",
+    "en": "Ugh, what a crappy name. Ever heard{SAUT}of it, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_030",
+    "choix": true,
+    "en": "Yeah, I've heard of it.{OPTION}I haven't got a clue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "Huh? For real!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Haru",
+    "en": "Well, it doesn't ring a bell for me...{SAUT}Maybe it's a new theme park or{SAUT}something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ryuji",
+    "en": "Yeah, me neither. I'd never forget{SAUT}a name like that if I heard it before.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Haru",
+    "en": "Hmm... Maybe it's a new theme park{SAUT}or something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Serious policeman",
+    "en": "You're all acting awfully suspicious―{SAUT}where did you say you came from?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "Oh, from thataway.{OPTION}We got here through Mementos.{OPTION}Um, we can't remember.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Serious policeman",
+    "en": "And which way is that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Serious policeman",
+    "en": "Memen―What?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Serious policeman",
+    "en": "Wha―But you can remember that{SAUT}you're headed to a costume party!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Ann",
+    "en": "He's not buying it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Akechi",
+    "en": "Hmm. This is not going well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Serious policeman",
+    "en": "You're all pretty shady―let's hear what{SAUT}you've been up to around here, and{SAUT}don't feed me any more lines!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Makoto",
+    "en": "Ah, wait, please! We really are―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Morgana",
+    "en": "Oh no―backup!? And tons of it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Serious policeman",
+    "en": "Those masked individuals are behaving{SAUT}suspiciously. Arrest them immediately!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Fat policeman",
+    "en": "Roger that―we'll take the charge!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Ryuji",
+    "en": "Oh, shit! Kick the bricks!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Makoto",
+    "en": "S-Sorry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Serious policeman",
+    "en": "Go! Don't let 'em get away!",
+    "fr": ""
+  }
+]

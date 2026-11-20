@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "The targets have been eliminated.{PAGE}A fierce battle against mighty tyrants...{SAUT}You may very well have made film{SAUT}history.{PAGE}Ah, there are few things more enjoyable{SAUT}than rooting for my team with a mouth{SAUT}full of popcorn.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Glad she's having fun...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Here is your reward for this time.{PAGE}This will allow you to summon the{SAUT}Persona \"Fenrir.\" {PAGE}Hopefully, you will put it to good use.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "All right, this'll help a lot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "I think the MVPs this time were Ken and{SAUT}Futaba-chan.{PAGE}Those were some crazy-tough{SAUT}opponents, but they kept us going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Rise",
+    "en": "Haha, yeah. They were super{SAUT}motivating.{PAGE}Weren't you afraid, though, Ken-kun?{SAUT}Those Tyranniqueens were huge.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "Haha, it'll take more than that to scare{SAUT}Featherman.{PAGE}Besides, I thought maybe I could{SAUT}recreate that famous scene where{SAUT}they fight the giant monster.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Rise",
+    "en": "Famous scene?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Featherman Season 1, Episode 13! A{SAUT}god-tier episode to this day!{PAGE}They usually fight as robots when an{SAUT}enemy grows all big...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosuke",
+    "en": "Oh, yeah. They all come out of their{SAUT}base and connect, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ken",
+    "en": "Yeah, but this time the robots were{SAUT}under inspection, and they couldn't use{SAUT}them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "That's a weirdly realistic situation for{SAUT}that show...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "And what do our heroes do!?{PAGE}They band together and defeat the{SAUT}monster just like we did!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ken",
+    "en": "With every last ounce of their courage,{SAUT}they run up to its feet and do a special{SAUT}attack!{PAGE}That scene is great! I would sit there and{SAUT}watch it over and over.{PAGE}It was so exciting to actually be able to{SAUT}do something like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "I... don't really get what's going on, but{SAUT}it definitely sounds cool.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "If you want, I can lend you the DVD!{SAUT}There's a lot more episodes to see!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Maybe next time...{OPTION}Please do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Hero",
+    "en": "Haha, I'll take you up on that. We can{SAUT}watch it together, Ken.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Hero",
+    "en": "Hahaha, are you jumping on the{SAUT}bandwagon, Feather Joker?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Hero",
+    "en": "Either way, good job, everyone. I'm{SAUT}counting on you guys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ken",
+    "en": "Of course!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "Yeah, leave it to us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Kanji",
+    "en": "H-Hey... You think I can get in on that?{PAGE}I'll be Yellow, the one that likes curry...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "Whoa! It's the big skull monster!{SAUT}Back off, you demon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ken",
+    "en": "Persistent beast, aren't you!? We'll{SAUT}defeat you this time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Kanji",
+    "en": "Grrrahh! I said I wanna be Yellow!",
+    "fr": ""
+  }
+]

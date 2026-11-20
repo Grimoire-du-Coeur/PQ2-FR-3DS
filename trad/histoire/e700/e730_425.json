@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "I'm getting a strong reading beyond that{SAUT}door! It may be that Overseer robot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "We should assume that he will be quite{SAUT}tough. Going back to the theater to{SAUT}regroup is something to consider.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "That's a good point. Joker, what's your{SAUT}call?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "Looks like that Overseer robot is{SAUT}through here. Are we ready to go?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Let's do this!{OPTION}Not just yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "Right―get ready, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "You're right. We're better off taking care{SAUT}of ourselves first.",
+    "fr": ""
+  }
+]

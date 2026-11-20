@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "This special screening will take place in{SAUT}A.I.G.I.S.{PAGE}The title of \"Easter Egg Hunt!\" seems to{SAUT}suggest you will be searching for{SAUT}something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Easter egg...?{PAGE}I mean, obviously people do that on{SAUT}Easter...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "But in a sci-fi movie?{OPTION}Easter?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Yeah, that's weird. A.I.G.I.S. is about{SAUT}robots.{PAGE}I didn't see any chickens there. Where{SAUT}are we gonna find an egg?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "Yeah, Easter is a holiday that's{SAUT}celebrated overseas.{PAGE}But why A.I.G.I.S. of all places?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Yeah, that's weird. A.I.G.I.S. is about{SAUT}robots; it's not like there were chickens{SAUT}running around everywhere.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Looking for eggs in a sci-fi city... Hmm,{SAUT}that's a pickle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "I am but an insignificant guide. I have{SAUT}no reason to know further details.{PAGE}I myself will be looking forward to{SAUT}learning the true nature of this \"Easter{SAUT}egg.\"{PAGE}For now, why don't you make your way{SAUT}over to A.I.G.I.S.?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "There she goes, dumping all the work{SAUT}on us again!{PAGE}Whatever, I've come to expect this{SAUT}kinda stuff from Zabby at this point!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "Well, this seems kinda fun. Let's give it a{SAUT}shot, {f 6 1 30 0 0 0}!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "All right.{OPTION}Let's check it out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Okay, then! Let's head to A.I.G.I.S. when{SAUT}we're ready!",
+    "fr": ""
+  }
+]

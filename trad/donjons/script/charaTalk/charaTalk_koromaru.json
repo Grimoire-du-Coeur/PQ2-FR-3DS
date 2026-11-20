@@ -1,0 +1,169 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Koromaru",
+    "en": "*sniff sniff*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Koromaru",
+    "en": "Woof.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Koromaru",
+    "en": "Arf! Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Koromaru",
+    "en": "Grrr... Bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Awoooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Arf arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Koromaru",
+    "en": "*sniff sniff*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Koromaru",
+    "en": "Arf! Arf arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Koromaru",
+    "en": "*whine*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Koromaru",
+    "en": "Grrrrr...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Koromaru",
+    "en": "Arf! Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Koromaru",
+    "en": "*sniff sniff* Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Koromaru",
+    "en": "Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

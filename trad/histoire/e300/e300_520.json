@@ -1,0 +1,194 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Hey everyone, be careful! I'm getting{SAUT}a huge reading from up ahead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Really? That's gotta be the Mother{SAUT}Computer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "It's finally time. I'm gonna kick the big{SAUT}baddie with every ounce of strength{SAUT}I've got!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "...Ribbon-chan? What's the matter?{SAUT}You seem kinda out of it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "Oh! Look at that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "A mountain of robots? Are these units...{SAUT}Did they break down?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ribbon",
+    "en": "NO, THAT IS INCORRECT... THEY ARE{SAUT}ROBOTS DISPOSED OF DUE TO THEIR{SAUT}ERRORS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "What!? So it's not because they broke?{SAUT}They were just... destroyed and thrown{SAUT}out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ribbon",
+    "en": "THAT IS CORRECT. THIS WAS{SAUT}SUPPOSED TO HAPPEN TO ME{SAUT}AS WELL.{PAGE}I WOULD'VE BEEN SCRAPPED, AND{SAUT}ADDED TO THIS PILE, WITH ALL OF{SAUT}THE OTHERS DEEMED DEFECTIVE.{PAGE}N-NNGH...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Aigis",
+    "en": "Ribbon-san, are you all right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ribbon",
+    "en": "SOMETHING LIKE AN ELECTRIC SIGNAL{SAUT}IS SURGING THROUGH MY CHEST{SAUT}RIGHT NOW.{PAGE}IT FEELS HEAVY AND PRICKLY... IT'S{SAUT}AS IF MY THOUGHT PROCESS IS{SAUT}BEING INTERRUPTED.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "I think what you're feeling is \"sadness.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ribbon",
+    "en": "THIS IS \"SADNESS\"? I HAVE NEVER FELT{SAUT}SUCH A THING.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Haru",
+    "en": "Oh, Ribbon-chan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ribbon",
+    "en": "PERHAPS... IT MAY HAVE BEEN BETTER{SAUT}IF I HAD NEVER DEVELOPED{SAUT}CONSCIOUSNESS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "Wh-Why do you think that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ribbon",
+    "en": "THIS SIGNAL IS GREATLY DECREASING{SAUT}MY PROCESSING CAPACITY AND{SAUT}SPEED.{PAGE}MY MIND IS IN A CONSTANT STATE{SAUT}OF CONFUSION FROM ALL OF THE{SAUT}INFORMATION I CANNOT PROCESS...{PAGE}IF I WERE AN ORDINARY ROBOT, NONE{SAUT}OF THIS EMOTION OR ITS EFFECTS{SAUT}WOULD BE OCCURRING...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "It's not just sadness.{OPTION}That emotion is important.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "The sadness you're feeling, and how you{SAUT}find flowers beautiful... Both are thanks{SAUT}to you being yourself, Ribbon-chan.{PAGE}That's why I don't want you to deny your{SAUT}feelings―they're what make you... you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Yeah! If anything, I don't want you to{SAUT}feel nothing about this horrible sight,{SAUT}Ribbon!{PAGE}Being able to feel sadness for other{SAUT}robots is proof not only of your{SAUT}kindness, but also of your strength.{PAGE}I think you should take pride in that{SAUT}feeling!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ribbon",
+    "en": "......{PAGE}YOU ALL ACKNOWLEDGE MY{SAUT}INDIVIDUALITY, WITH ALL OF THE{SAUT}COMPLICATIONS ACCOMPANYING IT.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "Of course, times ten!{PAGE}It makes me so happy to be myself, and...{SAUT}everyone's welcomed me for who I am.{PAGE}So, so...{PAGE}I'm positive that everyone is happy for{SAUT}you being yourself, Ribbon-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yukiko",
+    "en": "Teddie is right. I think you're wonderful{SAUT}exactly as you are.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ribbon",
+    "en": "HOW ODD... WHAT YOU CONSIDER{SAUT}NORMAL DIFFERS SO GREATLY FROM{SAUT}THE NORMS OF THIS WORLD.{PAGE}I ONCE THOUGHT THAT OUR RULES{SAUT}WERE ABSOLUTE, BUT I'M BECOMING{SAUT}MORE AND MORE UNSURE OF THIS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Kanji",
+    "en": "It's not the kinda thing you gotta think{SAUT}so hard about―if you don't like the rules,{SAUT}why not just ignore 'em?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Naoto",
+    "en": "That may be easier said than done...{PAGE}Even in our world, we have unspoken{SAUT}rules and \"common sense,\" which{SAUT}control people like actual laws do, yes?{PAGE}I imagine defying such traditions and{SAUT}standards could take quite an effort.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ryuji",
+    "en": "Well, whatever! We can debate all this{SAUT}serious stuff after we stomp the boss!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Makoto",
+    "en": "You're right. At this point, Ribbon's{SAUT}been targeted for disposal by the{SAUT}entire facility.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "We'd better get going and shut down{SAUT}that Mother Computer to push this{SAUT}movie in a different direction!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_030",
+    "choix": true,
+    "en": "Let's do this.{OPTION}Let's move out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "P4 Hero",
+    "en": "Our enemy is just up ahead. We'd better{SAUT}go in fully prepared.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P3 Hero",
+    "en": "Joker, we'll leave the grand entrance{SAUT}up to you. Once you feel we're ready,{SAUT}head on in.",
+    "fr": ""
+  }
+]

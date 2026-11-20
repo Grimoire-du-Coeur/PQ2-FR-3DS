@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "That looks like one helluva dangerous{SAUT}gate...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Yeah, my phantom thief intuition is{SAUT}screaming \"DANGER\" right now.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "No touching, got it?{OPTION}Let's try touching it.{OPTION}That's just your imagination.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "...Are you tryin' to trick me into{SAUT}touching it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Please, wait a moment. I believe it'd be{SAUT}best not to touch it so carelessly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "Please, wait a moment. Why don't we{SAUT}first investigate it further?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosukesaurus",
+    "en": "Oh! I know what that is!{PAGE}It's a machine for trapping carnivores.{SAUT}{f 0 1 2}If you touch it, you get a super-shock{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "Hm? Does that mean there's an electric{SAUT}current running through it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Wait a sec―if this is for big, scary{SAUT}dinosaurs, then wouldn't it be extra{SAUT}bad if a human touched it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "Hmm, looks like there's nothing we can{SAUT}do with it, then...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosukesaurus",
+    "en": "Heheh, no worries! I know a neat lil'{SAUT}trick!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "Do you know how to bypass this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosukesaurus",
+    "en": "You got it! The same kind of gates are{SAUT}in other places here, too.{PAGE}If I remember right, they have {f 0 1 2}metal{SAUT}boxes near them, with handles{f 0 1 0}...{PAGE}When you pull the handle down,{SAUT}the {f 0 1 2}shocking part stops for a bit{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Kanji",
+    "en": "So, all we gotta do is pass through it{SAUT}while it's still off?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Basically, we're looking for a switch to{SAUT}the gate. Let's go find it!",
+    "fr": ""
+  }
+]

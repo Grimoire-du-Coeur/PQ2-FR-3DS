@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Okay... so we need to look for clues at{SAUT}the crime scenes, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Right. Elizabeth marked down the{SAUT}locations for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Heh, this'll be easy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Junpei",
+    "en": "Here comes Junpei!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "Well, I'm glad he's motivated...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Mitsuru",
+    "en": "Well then, let's get going.",
+    "fr": ""
+  }
+]

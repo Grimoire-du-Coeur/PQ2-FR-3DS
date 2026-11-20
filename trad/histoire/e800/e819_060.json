@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "All riiight, the fight's over! That's{SAUT}back-to-back wins for us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Heheheh. Nothing like a little action{SAUT}before swooping in for the win! Talk{SAUT}about a happy ending.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Man, we rock! All that's left is to roll{SAUT}some emotional end credits and make{SAUT}our triumphant return!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "I wonder if the twins were watching?{SAUT}Hopefully, they enjoyed the show.",
+    "fr": ""
+  }
+]

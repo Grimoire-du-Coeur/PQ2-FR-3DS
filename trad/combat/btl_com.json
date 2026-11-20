@@ -1,0 +1,24 @@
+[
+  {
+    "id": "YESNO_SEL",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "DEAD_SEL",
+    "choix": true,
+    "en": "Continue{OPTION}Retreat",
+    "fr": ""
+  },
+  {
+    "id": "BTL_CONTINUE",
+    "en": "You may continue on the difficulty{SAUT}SAFETY. Continue?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TEAM_DEAD",
+    "en": "The team has been annihilated.{SAUT}Continue the battle?",
+    "fr": ""
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Aigis",
+    "en": "-san, may I speak{SAUT}with you for a moment?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "What is it, Aigis?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "*stare*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "W-What are you doing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Aigis",
+    "en": "This feeling... I knew it. You are the{SAUT}same as {f 6 1 15 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Koromaru",
+    "en": "Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says he also senses{SAUT}something about you that is similar to{SAUT}{f 6 1 15 0 0 0}-san.{PAGE}What could it be...?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "She pets him the same way.{OPTION}He smells dog food on her.{OPTION}It's pheromones.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Aigis",
+    "en": "He says he greatly enjoys both of their{SAUT}petting techniques, but that is not it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh? I don't have any dog food...{SAUT}though I did have that hot dog earlier.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Aigis",
+    "en": "No, I don't think that is the answer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Wha―!? I'm giving off pheromones?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Aigis",
+    "en": "No, I don't think that is the answer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hmm... Then, what is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ken",
+    "en": "Koromaru is really friendly, even to{SAUT}strangers. Still, this seems different...{PAGE}All I can say for sure is: Koromaru senses{SAUT}something special about you,{SAUT}{f 6 1 27 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Aigis",
+    "en": "How peculiar... This is truly a mystery.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "en": "A new special screening:{SAUT}\"A Fated Crossover\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

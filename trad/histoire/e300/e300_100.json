@@ -1,0 +1,805 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "I see―you guys got here through{SAUT}Tartarus...{PAGE}I ended up here without even noticing{SAUT}I'd been relocated when I exited{SAUT}the Velvet Room...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Elizabeth",
+    "en": "Aaaahem, if I may be so bold to present{SAUT}my thoughts on that matter...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "Ahh! You startled me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "I can hear them call for me, so play{SAUT}the fanfare! It's the electrifying{SAUT}entrance of Elizabeeeth and Theooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "She's just as weird and hyper as always...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Boy with baseball cap",
+    "en": "Hold the phone! Who's this lovely{SAUT}lady!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "These are our helpful assistants.{OPTION}We have no clue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "That is correct. I am Elizabeth, the older{SAUT}sister. And this popcorn man here is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Elizabeth",
+    "en": "Ah, what a delightful joke.{PAGE}We are the trusted assistants of everyone{SAUT}in this theater. I am Elizabeth, the older{SAUT}sister, and this popcorn man here is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Theodore",
+    "en": "I am Theodore, her younger brother.{SAUT}Since it seems that everyone is quite{SAUT}confused...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elizabeth",
+    "en": "We helpful siblings have come to{SAUT}explain the situation in which you have{SAUT}found yourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Spirited girl",
+    "en": "Oh, could these people be residents{SAUT}of the Velvet Room?{PAGE}You know, the place where our leader{SAUT}summons his Personas?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Well-dressed girl",
+    "en": "We had been informed about you, but...{SAUT}To think we'd meet like this.{PAGE}Also, what do you intend to explain,{SAUT}exactly?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Theodore",
+    "en": "It's in regards to the relationship{SAUT}between you recent arrivals and{SAUT}{f 6 1 27 0 0 0}.{PAGE}Though you are both aware of the same{SAUT}places, only one party recognizes{SAUT}the other...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elizabeth",
+    "en": "This is because both sides have come{SAUT}from different worlds―that is our{SAUT}working theory.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "Hm? What do you mean by that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Elizabeth",
+    "en": "I do apologize, but we cannot provide{SAUT}further details.{PAGE}However, we are certain that the Velvet{SAUT}Room is inseparable from its guests'{SAUT}fates.{PAGE}Nothing meaningless happens within it.{SAUT}The reason why you have encountered{SAUT}everyone else in this world must be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Margaret",
+    "en": "Yes, it must be inevitable.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Theodore",
+    "en": "Margaret!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Chie",
+    "en": "When did you get here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Margaret",
+    "en": "We believe that there is meaning behind{SAUT}this meeting. In other words, it could be{SAUT}called destiny...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Elizabeth",
+    "en": "Yes―just as Theo's journey that led him{SAUT}to wear this dope costume was also{SAUT}destiny...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Theodore",
+    "en": "Y-You're the one who made me wear{SAUT}this, Sister!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Margaret",
+    "en": "It suits you quite well.{PAGE}Let's see... It's a big pail of popcorn, so...{PAGE}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Theodore",
+    "en": "Sister... If you can't think up a pun,{SAUT}I believe there's no need to force one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P4 Hero",
+    "en": "Yeah... Trying to come up with one{SAUT}for popcorn isn't easy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Boy with baseball cap",
+    "en": "What does that matter!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Quiet girl",
+    "en": "Um, excuse me... Would it be all right{SAUT}if we got back to the matter at hand?{PAGE}If we really do come from different{SAUT}worlds... are there any problems with{SAUT}us meeting like this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Elizabeth",
+    "en": "No, most likely not.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Quiet girl",
+    "en": "Thank goodness... That means it'll be{SAUT}all right for us to stick together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P3 Fem Protag",
+    "en": "Really? Are you sure?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Spirited girl",
+    "en": "I mean, there's no real reason to say no...{SAUT}Plus, you're in trouble too, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Well-dressed girl",
+    "en": "In all honesty, we still don't know much{SAUT}about you...{PAGE}But, considering the situation we're in,{SAUT}it'd be best if we took a cooperative{SAUT}position.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Boy with baseball cap",
+    "en": "I'm right there with ya! Even more so{SAUT}since she's such a cutie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Aggressive boy",
+    "en": "I'm starting to get excited just thinking{SAUT}about how strong the enemies in this{SAUT}world might be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Boy with beanie",
+    "en": "Classic input from our resident fight-{SAUT}obsessed, meatheaded idiot...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Aggressive boy",
+    "en": "Wha―!? Who're you calling an idiot,{SAUT}Shinji!? You never listen, all you do{SAUT}is just insult me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Boy with beanie",
+    "en": "Like you're one to talk, Aki. You always{SAUT}just snap at what people say like some{SAUT}goddamn scared puppy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Well-dressed girl",
+    "en": "Will you two stop it!? This isn't the time{SAUT}for childish bickering!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* You two never change.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Justine",
+    "en": "Even still...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Chie",
+    "en": "When did you get here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Yukiko",
+    "en": "Come on, Chie, you already said that―{SAUT}Snrk... Are you even paying attention?{SAUT}Heeheehee...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Caroline",
+    "en": "Having so many Persona-users here is{SAUT}quite the sight! Don't you agree, Inmate?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_044",
+    "choix": true,
+    "en": "It's definitely reassuring.{OPTION}It's hard keeping names straight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "P4 Hero",
+    "en": "I think so too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Teddie",
+    "en": "I wholeheartedly agree... I'm barely able{SAUT}to memorize all the ladies' names...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "P4 Hero",
+    "en": "But, it's also reassuring to have so many{SAUT}allies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "P4 Hero",
+    "en": "I'm sure we can get through even{SAUT}a situation like this if we all work{SAUT}together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Morgana",
+    "en": "Mm, I agree. The more firepower we've{SAUT}got, the better.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Ryuji",
+    "en": "Welp, I don't even remember how many{SAUT}times we've already done this, but I{SAUT}guess we should do the usual intros...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Futaba",
+    "en": "Awww, again? Is this some kind of{SAUT}punishment?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Mitsuru",
+    "en": "I apologize for not introducing ourselves{SAUT}sooner―my name is Mitsuru Kirijo.{PAGE}I am the president of the student council{SAUT}at Gekkoukan High and this Specialized{SAUT}Extracurricular Execution Squad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Akechi",
+    "en": "Kirijo? Could you be affiliated with{SAUT}the Kirijo Group in some way?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Boy with baseball cap",
+    "en": "You got it―not only is she the head{SAUT}honcho of the Kirijo Group, she's a top-{SAUT}level student council president, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Akihiko",
+    "en": "I'm Akihiko Sanada. I'm the captain{SAUT}of the school boxing club.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Chie",
+    "en": "Boxing―captain!? That's so cool!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Teddie",
+    "en": "Hrgh... I'm so jealous that he's such{SAUT}a heartthrob! I simply must step up{SAUT}my game!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Akihiko",
+    "en": "If you need any training advice, feel free{SAUT}to ask. I can help with nutritional plans,{SAUT}workout routines―any of that stuff.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Boy with beanie",
+    "en": "All YOU do is dump protein powder{SAUT}on everything...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Akihiko",
+    "en": "Hey, don't sell protein powder short.{SAUT}There's an endless variety of protein{SAUT}blends for every kind of―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Shinjiro",
+    "en": "I'm Shinjiro Aragaki. I guess I'm{SAUT}a third-year... if you wanna get{SAUT}technical about it.{PAGE}Nice to meet you. Uhh... That's all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Yosuke",
+    "en": "Um... That's it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Shinjiro",
+    "en": "I ain't got anything else to say.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "P3 Fem Protag",
+    "en": "Shinjiro-senpai may look scary, but{SAUT}he's actually really nice and cares a lot{SAUT}for his companions.{PAGE}Also, his cooking skills are downright{SAUT}motherly. He even cooks meals for{SAUT}the whole squad sometimes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Shinjiro",
+    "en": "Wha―!? Hey, what're you tellin' em!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, um, I'm sorry...{PAGE}The Shinjiro-senpai I know is like that...{SAUT}Am I wrong here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Boy with baseball cap",
+    "en": "No no, you get an A+ for that answer!{PAGE}\"Motherly\" is totally one of{SAUT}Shinjiro-san's defining qualities!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Shinjiro",
+    "en": "Junpei, you little―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Boy with baseball cap",
+    "en": "A-Anyway! Next up, we have our young{SAUT}man Ken and prime pup Koromaru!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Ken",
+    "en": "My name is Ken Amada.{PAGE}This here is Koroumaru, spelled with the{SAUT}characters for tiger and wolf. We just call{SAUT}him Koromaru, though.{PAGE}He's an albino Shiba Inu. He may be{SAUT}a dog, but he's still an amazing{SAUT}Persona-user!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Ann",
+    "en": "Awww, how cute! He looks so soft and{SAUT}fluffy!{PAGE}A doggie with a Persona? Such a good{SAUT}boy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_074",
+    "locuteur": "Morgana",
+    "en": "Ah―Lady Ann... I'm also a fluffy, soft{SAUT}Persona-user...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_075",
+    "locuteur": "Ryuji",
+    "en": "Oh, so you can't be a cat, but you're{SAUT}fine with bein' fluffy, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_076",
+    "locuteur": "Yukiko",
+    "en": "Ken-kun, are you in elementary school?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_077",
+    "locuteur": "Ken",
+    "en": "Yes, I'm in 5th grade...{PAGE}I'm still not that tall―but I won't lose to{SAUT}my senpai!{PAGE}Just like Koromaru, I'm going to do my{SAUT}best! I hope we get along!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_078",
+    "locuteur": "Boy with baseball cap",
+    "en": "Alrighty then, I'll go next!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_079",
+    "locuteur": "Junpei",
+    "en": "I'm the second-year superstar of the{SAUT}Specialized Extracurricular Execution{SAUT}Squad! The name: Junpei Iori!{PAGE}Oh, by the way―my heart is reserved for{SAUT}my love, Chidorita, so keep that in mind,{SAUT}alright, ladies?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_080",
+    "locuteur": "Spirited girl",
+    "en": "Ugh, barf! No one could care less{SAUT}about that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_081",
+    "locuteur": "Junpei",
+    "en": "Aww, I'm so sorry that I can't return{SAUT}your feelings, Yuka-tan!{PAGE}Speaking of Yuka-tan―you're up next.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_082",
+    "locuteur": "Spirited girl",
+    "en": "Moving on from this grand slam{SAUT}of stupidity...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_083",
+    "locuteur": "Yukari",
+    "en": "So, I'm Yukari Takeba. I'm also a second-{SAUT}year, and I'm in the archery club.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_084",
+    "locuteur": "Ann",
+    "en": "Whoa, that really is her...!{PAGE}Ah, I see―she got her posture and poses{SAUT}from practicing archery...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_085",
+    "locuteur": "Futaba",
+    "en": "It's not just her looks, either. Her acting{SAUT}is god-tier, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_086",
+    "locuteur": "Yukari",
+    "en": "Huh? What are you two talking about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_087",
+    "locuteur": "Futaba",
+    "en": "Oops, uh... I just was talking about Reiko{SAUT}Kujakuin―don't worry about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_088",
+    "locuteur": "Yukari",
+    "en": "O-Okay... I still don't get it... but anyway,{SAUT}I think Fuuka's the last one left, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_089",
+    "locuteur": "Fuuka",
+    "en": "...Oh, right! It's nice to meet you all.{SAUT}I'm Fuuka Yamagishi.{PAGE}I still have a lot to learn, but I serve as{SAUT}navigator for everyone. It's reassuring to{SAUT}learn that there are others like myself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_090",
+    "locuteur": "Futaba",
+    "en": "A-Another navigator comrade!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_091",
+    "locuteur": "Rise",
+    "en": "That's so amazing how we've got three{SAUT}navigators now! I bet we're totally good{SAUT}to go with the backup.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_092",
+    "locuteur": "Futaba",
+    "en": "U-Uh... R-Right! I-I-I hope we get along!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_093",
+    "locuteur": "Rise",
+    "en": "Tell us everything you know about that{SAUT}sci-fi movie world! Let's all work{SAUT}together on this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_094",
+    "locuteur": "Fuuka",
+    "en": "Yes, I look forward to it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_095",
+    "locuteur": "Mitsuru",
+    "en": "There are two more members in our{SAUT}group, but they've been separated{SAUT}from us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_096",
+    "locuteur": "P4 Hero",
+    "en": "Yes, let's team up to find them as quickly{SAUT}as we can.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_097",
+    "locuteur": "Yosuke",
+    "en": "Right! But, we should probably{SAUT}introduce ourselves to you first...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_098",
+    "en": "We all introduced ourselves to{SAUT}the students of Gekkoukan High...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_099",
+    "locuteur": "Mitsuru",
+    "en": "To think there are other Persona-users{SAUT}besides us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_100",
+    "locuteur": "Yukari",
+    "en": "Nagi-san and Hikari-chan aren't{SAUT}Persona-users, right?{PAGE}Were you here when the movie theater{SAUT}first got all screwy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_101",
+    "locuteur": "Hikari",
+    "en": "Um, I can't remember anything clearly...{PAGE}When I came to, I was already here...{SAUT}My memory's been hazy since then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_102",
+    "locuteur": "Naoto",
+    "en": "And that mysterious being, Doe...{SAUT}He was already here too, no?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_103",
+    "locuteur": "Ryuji",
+    "en": "Ain't this all that thing's fault? No matter{SAUT}how you look at it, that Joe's suspicious{SAUT}as hell...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_104",
+    "locuteur": "Teddie",
+    "en": "Ooh, did you call him Joe, because his{SAUT}name's Doe? Heeheehee...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_105",
+    "locuteur": "Ryuji",
+    "en": "I ain't jokin' around! And who else{SAUT}would I be talkin' about!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_106",
+    "locuteur": "Teddie",
+    "en": "More importantly, Hikarin―I bet you{SAUT}aren't lonely anymore now that we're{SAUT}all here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_107",
+    "locuteur": "Hikari",
+    "en": "Mmhm... It's really uplifting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_108",
+    "locuteur": "Makoto",
+    "en": "I'm glad to hear that. Your expression{SAUT}is much more relaxed compared to{SAUT}when we first met, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_109",
+    "locuteur": "Hikari",
+    "en": "Huh? I-Is that so? I can't really tell...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_110",
+    "choix": true,
+    "en": "She's definitely changed.{OPTION}She hasn't changed much.{OPTION}I couldn't say for certain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_111",
+    "locuteur": "Futaba",
+    "en": "I... I think so too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_112",
+    "locuteur": "Futaba",
+    "en": "I... I think she's changed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_113",
+    "locuteur": "Futaba",
+    "en": "You laugh more―and you talk more{SAUT}compared to when we first met!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_114",
+    "locuteur": "Nagi",
+    "en": "Yes, I must say I agree. Disregarding{SAUT}the situation we're currently in,{SAUT}I'm glad for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_115",
+    "locuteur": "Hikari",
+    "en": "I see... I-I didn't know I was like that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_116",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ohhhh! That reminds me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_117",
+    "locuteur": "Yukari",
+    "en": "Huh!? What's up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_118",
+    "locuteur": "P3 Fem Protag",
+    "en": "We picked this up in the movie earlier.{SAUT}Whose Evoker could this be?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_119",
+    "locuteur": "Mitsuru",
+    "en": "...Good heavens!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_120",
+    "locuteur": "Fuuka",
+    "en": "Everyone was summoning their Persona{SAUT}in that battle, no?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_121",
+    "locuteur": "Shinjiro",
+    "en": "Tch... Just one shitshow after another.{PAGE}Aigis doesn't need an Evoker, so the one{SAUT}who dropped this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_122",
+    "locuteur": "Ken",
+    "en": "Our leader...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_123",
+    "locuteur": "Koromaru",
+    "en": "*whine*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_124",
+    "locuteur": "Akihiko",
+    "en": "Even if Aigis happens to be with him,{SAUT}there's only so much she can handle. We{SAUT}need to find and rescue them, pronto!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_125",
+    "locuteur": "Mitsuru",
+    "en": "Wait―there are too many of us to just{SAUT}barge on into the movie. It'd be best to{SAUT}consolidate our chain of command first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_126",
+    "locuteur": "P4 Hero",
+    "en": "Ever since we joined up, we've been{SAUT}leaving the command decisions to{SAUT}{f 6 1 30 0 0 0}.{PAGE}I believe it'd be best to continue this{SAUT}strategy―what's your opinion?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_127",
+    "locuteur": "Mitsuru",
+    "en": "Hm... Would you mind?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_128",
+    "choix": true,
+    "en": "Alright.{OPTION}Leave it to me.{OPTION}Uhhhh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_129",
+    "locuteur": "Mitsuru",
+    "en": "Thank you. I apologize for putting you{SAUT}on the spot, but we're trusting you{SAUT}with our lives.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_130",
+    "locuteur": "Morgana",
+    "en": "Hey! Don't make it so obvious you{SAUT}don't wanna do it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_131",
+    "locuteur": "Mitsuru",
+    "en": "Of course, I don't intend on leaving you{SAUT}in the lurch―I'll do my best to aid you{SAUT}as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_132",
+    "locuteur": "P4 Hero",
+    "en": "And I'll continue providing backup too.{SAUT}There's no need to worry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_133",
+    "locuteur": "Morgana",
+    "en": "Now that that's been decided,{SAUT}let's get moving.{PAGE}We have even more companions now,{SAUT}so let's make sure to go over our party{SAUT}formation and prep our equipment!",
+    "fr": ""
+  }
+]

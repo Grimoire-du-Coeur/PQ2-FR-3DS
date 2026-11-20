@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Doe",
+    "en": "I will continue to screen movies{SAUT}for the weak...{PAGE}What good will facing reality do for you{SAUT}after all this time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "People can only learn about pain{SAUT}by experiencing it.{PAGE}It's because they know pain that they're{SAUT}so willing to help others who suffer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "If you fall on your path, it's fine to{SAUT}stop― all you need to do is look around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Hero",
+    "en": "You're certain to find people close to{SAUT}you who want to lend a helping hand.{PAGE}Once they've helped you find your way,{SAUT}back on your feet, you can keep trying.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "I―No, all of us...{PAGE}We'll walk this path together,{SAUT}to the end!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Hell yeah! That dumbass dino followed{SAUT}us here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "The activation switch should be nearby―{SAUT}Electrify the gate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "Alright, let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Huh!? It ain't workin'!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "Let me try!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh...? Is it broken!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "It's not lit up... The power seems to{SAUT}be off.{PAGE}That explains why the gate was left{SAUT}wide open.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Oh, no! How do we turn it on!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "Perhaps there's a backup power supply{SAUT}somewhere?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Backup power supply! Right! Let's get{SAUT}to searching!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Gaudy carnivore",
+    "en": "GRRRROOOOOOOAR!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "This is bad! It's about to get past{SAUT}the gate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Then... I'll stall it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "Sensei!? Y-You can't...!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "I'm coming too!{OPTION}Wait!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "It's no use, he can't hear us! He's already{SAUT}nearly there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "en": "I can't leave {f 6 1 12 0 0 0} to deal with{SAUT}that carnivore alone...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "Wha―You too, Joker!?",
+    "fr": ""
+  }
+]

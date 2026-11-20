@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Yet another special screening has been{SAUT}added.{PAGE}It seems this screening will take place{SAUT}within Kamo City.{PAGE}Having lost their hero, the townspeople{SAUT}need encouragement as they set off{SAUT}toward a new tomorrow...{PAGE}Such is the heartfelt setup for this{SAUT}showing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Encouraging the people... This seems a{SAUT}little different from what we're{SAUT}normally tasked with.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Well, we are the ones who took down{SAUT}Kamoshidaman...{PAGE}I won't exactly say we're responsible,{SAUT}but... you think maybe we should take{SAUT}this one?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Hero",
+    "en": "Yeah. We should help if we can.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "All right, then let's get out there and{SAUT}make it happen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "Not so faaast! Eliza-blocker on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kanji",
+    "en": "Wh-What're you doin'...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "For this special screening, a certain{SAUT}special condition has been{SAUT}implemented...{PAGE}You will be required to bring a special{SAUT}set of members on this outing.{PAGE}Said special individuals include: Aigis, Haru{SAUT}Okumura, and Rise Kujikawa!{PAGE}Those three must take part.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Teddie",
+    "en": "Huh? Why's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elizabeth",
+    "en": "Well, according to my source...{PAGE}Those chosen babes gotta use them{SAUT}bomb-ass powers and bring happiness{SAUT}to the hearts of the people, YO!{PAGE}...So I'm told.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Junpei",
+    "en": "There's no way that's what was written{SAUT}down...{PAGE}So basically, the triple beauties are the{SAUT}stars of this show?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_1",
+    "locuteur": "Elizabeth",
+    "en": "Indeed. I believe it should suffice if{SAUT}you include those three in your active{SAUT}party.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "Beauties...? I'm included in that too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Heyyy, Beauty Thief on the scene!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Haru",
+    "en": "...Shall I wring your neck?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "No, I was, uh, just joking!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Teddie",
+    "en": "Hrrm... A special girl's-themed{SAUT}screening... This is sure to lead to some{SAUT}girl talk!{PAGE}In that case, I can't let myself be beat in{SAUT}the looks department!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Rise",
+    "en": "Ahaha, you seem pretty fired up,{SAUT}Teddie. You must be confident.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Teddie",
+    "en": "I've already told myself I'm going to{SAUT}become the fairest of them all.{PAGE}Once I empower everyone with my{SAUT}unmatched beauty...{PAGE}I will enter the secret world of girls{SAUT}and finally know the pleasures of{SAUT}girl talk!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Aigis",
+    "en": "This would mean your aspirations to{SAUT}participate in girl talk hinge on this{SAUT}screening.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Rise",
+    "en": "Teddie's motivations aside, if the{SAUT}screening requires it, then I guess we{SAUT}don't have much choice.{PAGE}I'm just a navigator, but I'll do my best!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Haru",
+    "en": "Is it all right if we handle this screening,{SAUT}{f 6 1 30 0 0 0}-kun?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_021",
+    "choix": true,
+    "en": "It's all you.{OPTION}I'm a little worried.{OPTION}I'll do my best too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Aigis",
+    "en": "Understood. We will ensure the mission{SAUT}is a success.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Teddie",
+    "en": "Prepare to feast your eyes on my{SAUT}oh-so-refreshing beauty! Here comes{SAUT}Teddie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yosuke",
+    "en": "I know what you mean. I know all too{SAUT}well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "Don't worry! Teddie, beauty amongst{SAUT}beauties, is here to help!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosuke",
+    "en": "That's exactly WHY we're worried!{PAGE}Well, it doesn't sound like we'll be{SAUT}fighting any FOEs, so it should be fine...{SAUT}I think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P4 Hero",
+    "en": "That's true. Just don't push yourselves if{SAUT}it gets too tough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Junpei",
+    "en": "Yeah! Honestly, I'm pretty stoked too.{PAGE}Being surrounded by all these girls...{SAUT}I'm one step closer to Junpei's Harem{SAUT}Dream Team...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yukari",
+    "en": "You know, Junpei...{PAGE}You're really... REALLY disgusting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Junpei",
+    "en": "Why you gotta shoot me down like{SAUT}that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Rise",
+    "en": "So, Haru-san and Aigis need to be in the{SAUT}main party, and I'm on navigator{SAUT}duty, right?{PAGE}Let's head out once{SAUT}{f 6 1 30 0 0 0}-san finishes{SAUT}organizing the party!",
+    "fr": ""
+  }
+]

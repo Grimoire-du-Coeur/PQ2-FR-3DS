@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Hey, look out! We've got incoming{SAUT}enemies up ahead...{PAGE}...Wait, what are these guys!? Shadows?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "P-Probably? They seem different from{SAUT}the usual ones we've seen, though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_5",
+    "locuteur": "Ann",
+    "en": "Ugh, this makes no sense!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "At any rate, let's concentrate on finding{SAUT}our way out of here as quickly as{SAUT}possible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "She's right. We have policemen tailing{SAUT}us... Skull, let's go handle them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Got it! Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "I'll assist as well. We'll leave the ones{SAUT}on your end to you, Joker.",
+    "fr": ""
+  }
+]

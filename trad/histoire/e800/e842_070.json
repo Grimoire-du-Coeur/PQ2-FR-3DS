@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Thank you most kindly for obtaining{SAUT}what I requested.{PAGE}This is beautiful indeed. I will take{SAUT}excellent care of it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "I'm glad you like it... We worked{SAUT}really hard to catch it.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "What'll you do with it?{OPTION}You like butterflies?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "Nothing in particular. Though...{PAGE}I would like to spend some time{SAUT}relaxing, watching it dance in flight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "I suppose you could say that.{PAGE}Seeing it weave and dance in the air{SAUT}inspires a certain calm.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukari",
+    "en": "It got a little bumpy near the end,{SAUT}but I think I enjoyed it.{PAGE}Let's go again sometime, Hikari-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "Thanks... I had fun too. I hope you'll{SAUT}let me come with you again{SAUT}sometime.",
+    "fr": ""
+  }
+]

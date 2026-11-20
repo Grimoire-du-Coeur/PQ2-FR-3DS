@@ -1,0 +1,314 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "Wow, this really is a movie theater!{SAUT}And, look at your clothes―they've{SAUT}changed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Uh, yeah. We've already covered{SAUT}all this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "That's right, Yosuke! You need to catch{SAUT}up with us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "Hey! You guys may have already seen{SAUT}this stuff, but it's still a first for me!{PAGE}It's a whole new world to me right now,{SAUT}okay!? Hearing about this stuff and{SAUT}actually seeing it are totally different!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "My my, it seems that Yosuke is rather{SAUT}hot under the collar at the moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Theodore",
+    "en": "\"Hot under...\" Sister, should we assist{SAUT}him with his overheating problem?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "Whoa! Even more people! Wait, are{SAUT}they part of that army of blue folks{SAUT}you guys mentioned?{PAGE}Does that mean Marie-chan's here too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "You guessed it! Emmy-chaaaan, come{SAUT}out here for a sec!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Marie",
+    "en": "Geez, what do you want!? I can hear you{SAUT}just fine without all the yelling!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "Wow... Things got rowdy real quick.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "Sorry we're so loud. We get this way{SAUT}sometimes... Actually, \"always\" would{SAUT}be more accurate.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "Don't worry about it.{OPTION}You guys get along well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Thanks. I appreciate it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, we get that a lot. It just sort of{SAUT}happens naturally.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Nagi",
+    "en": "Welcome back, everyone.{PAGE}I'm truly relieved that your missing{SAUT}friend was safely found.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "Uh, hey, partner―who's the total{SAUT}knockout over there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P4 Hero",
+    "en": "She's the curator we told you about{SAUT}earlier, Nagi-san. That's Hikari-san{SAUT}there with her, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Nagi",
+    "en": "Hikari-san, you must be similarly{SAUT}relieved, no? You appeared quite{SAUT}concerned about Hanamura-san...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yosuke",
+    "en": "Man... I'm sorry I had you guys{SAUT}so worried.{PAGE}Uh, Hikari-chan, was it? Thanks for{SAUT}your concern.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Hikari",
+    "en": "U-Um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yosuke",
+    "en": "Hm? What's up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Hikari",
+    "en": "Why did you protect that herbivore?{SAUT}You could've... gotten yourself killed...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "Why, huh? Well, I guess my body just{SAUT}reacted before my brain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Hikari",
+    "en": "...You had no reason? Then, why...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yosuke",
+    "en": "Oh, make no mistake, it was super scary!{SAUT}I almost got eaten alive...{PAGE}But, more important than that, I felt like{SAUT}I'd live to regret it if I lied to myself{SAUT}there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Hikari",
+    "en": "What... do you mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yosuke",
+    "en": "Like, if I fooled myself into taking the{SAUT}easy way out, just to get out of a jam?{PAGE}Whenever you continually do stuff like{SAUT}that... you start to hate yourself.{PAGE}I don't want to lie to myself like that{SAUT}anymore―I swore I'd never do it again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P4 Hero",
+    "en": "Yosuke...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yosuke",
+    "en": "...Haha, was that a bit cheesy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Teddie",
+    "en": "Waaaaah! That made my heart all fuzzy!{PAGE}It was cheesy, but still so cool, Yosuke!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Kanji",
+    "en": "Yeah―well said, Yosuke-senpai!{SAUT}That was some Grade-A cheese!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Yosuke",
+    "en": "C'mon, stop making me sound like{SAUT}some kinda cheese freak!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Hikari",
+    "en": "Lying, to yourself? It makes you... hate{SAUT}yourself?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Futaba",
+    "en": "Hikari?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Hikari",
+    "en": "The majority decided to abandon her...{SAUT}But, you all went to rescue her anyway,{SAUT}because...{PAGE}Because you wanted to be true to your{SAUT}feelings?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "You got it.{OPTION}Not really.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Naoto",
+    "en": "Well, you risked your life when you{SAUT}stood up to that carnivore...{PAGE}Wasn't that decision based on your{SAUT}desire to save the herbivore?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Chie",
+    "en": "It doesn't matter to me what some{SAUT}majority decides...{PAGE}I'd never abandon my friends if they{SAUT}were in danger―simple as that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Akechi",
+    "en": "We're not claiming that a majority rule{SAUT}is inherently bad.{PAGE}When a group decision is necessary, it's{SAUT}only logical to follow the voice of{SAUT}the majority...{PAGE}But, just because a larger number of{SAUT}people agree on a certain matter, that{SAUT}doesn't necessarily make them right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Makoto",
+    "en": "After all, isn't a vote supposed to be{SAUT}a collection of each participant's{SAUT}honest opinions?{PAGE}The alternative―blindly endorsing the{SAUT}majority and dismissing your own{SAUT}feelings on the matter―is just abhorrent.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Hikari",
+    "en": "Your honest opinion...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Futaba",
+    "en": "...Hikari, does it feel scary for you to be{SAUT}honest with yourself?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Hikari",
+    "en": "That... I guess it's possible.{PAGE}If what I believe is different from what{SAUT}other people believe... they'll think{SAUT}I'm weird.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Futaba",
+    "en": "Yeah... I get what you mean.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Hikari",
+    "en": "But, you all stick together, even though{SAUT}you're all so different... I think―I'm{SAUT}jealous of that...{PAGE}...I'm sorry. I can't explain it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Nagi",
+    "en": "Hikari-san... You shouldn't be so hard{SAUT}on yourself.{PAGE}What's important is what you wish{SAUT}to do―there's no need to stress{SAUT}yourself over what that may be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Hikari",
+    "en": "Okay...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Naoto",
+    "en": "Well then, now that we've completed{SAUT}our search for Yosuke-senpai...{PAGE}What should be our next steps?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Yukiko",
+    "en": "To leave this movie theater, we're{SAUT}supposed to change the endings{SAUT}of the movies, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Morgana",
+    "en": "Yep―no matter what, we're gonna{SAUT}have to go back into the movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Yosuke",
+    "en": "We're not done with that dinosaur{SAUT}that's got my head, either.{PAGE}I don't know how to explain it, but if we{SAUT}just ignore them, I swear it's gonna{SAUT}haunt me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Haru",
+    "en": "In that case, let's head back into{SAUT}the movie once we're ready.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kanji",
+    "en": "Well, can't go this way. Guess we'll just{SAUT}hafta―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "Whoa!{PAGE}Check out those bones! They're huge!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "How magnificent... The shape and{SAUT}smoothness... You couldn't possibly{SAUT}recreate such natural beauty!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Yusuke",
+    "en": "Just imagine how this creature{SAUT}roamed about these lands! Truly{SAUT}inspiring!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Oh, yo! Couldn't we take this back{SAUT}with us and get it made into a{SAUT}weapon?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Ooh, dinosaur bone weapons would be{SAUT}a dream come true!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "That'd be pretty exotic.{OPTION}Really?{OPTION}I'm more interested in the meat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "Weapons made from bones, hm...?{SAUT}You don't really see those outside of{SAUT}movies, so that could be interesting.{PAGE}But I'd be a bit worried about how{SAUT}brittle they are. These bones seem to be{SAUT}rather weathered after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. It's unfortunate, but they're{SAUT}probably not suited for any kind of{SAUT}combat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "I think it's an interesting idea. You don't{SAUT}really see those in the real world.{PAGE}But I'd be a bit worried about how{SAUT}brittle they are. These bones seem to be{SAUT}rather weathered after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. It's unfortunate, but they're{SAUT}probably not suited for any kind of{SAUT}combat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Chie",
+    "en": "Hey, me too! I'll take meat over bones{SAUT}any day! Waaay more important!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "Haha... It seems Satonaka-san and Joker{SAUT}are more interested in the meat.{PAGE}Personally, I would enjoy seeing a{SAUT}weapon made from dinosaur bones.{PAGE}But that might prove somewhat{SAUT}difficult. These bones seem to be rather{SAUT}weathered after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. It's unfortunate, but they're{SAUT}probably not suited for any kind of{SAUT}combat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "Bones... Bones... Short ribs... Dinosaur{SAUT}short ribs...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Makoto",
+    "en": "Wait, don't tell me you want to try{SAUT}eating some!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukiko",
+    "en": "I'd like to try some as well. I imagine{SAUT}it'd be both filling and energizing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "M-M-Me too! I saw a giant hunk of{SAUT}dinosaur meat in a cartoon one time,{SAUT}and I've wanted to eat some ever since!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Fem Protag",
+    "en": "I'm also curious about how it tastes.{SAUT}I call dibs on the drumsticks!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "Ngh... Am I the odd one out here?{PAGE}I mean, we're talking about eating{SAUT}dinosaurs... That's just...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Haru",
+    "en": "Hmm, I was a little curious myself, but{SAUT}I believe I'd be hesitant to actually take{SAUT}a bite...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Makoto",
+    "en": "R-Right!? Thank goodness, I thought{SAUT}I was the only one...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Haru",
+    "en": "Truthfully, I think coffee made from{SAUT}herbivorous dinosaur dung would be{SAUT}tastier, don't you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Makoto",
+    "en": "...Sure. Whatever you say.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "*gasp* Queen's stopped thinking for{SAUT}herself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P4 Hero",
+    "en": "...Your team's quite a cast of characters,{SAUT}isn't it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Morgana",
+    "en": "So is yours...",
+    "fr": ""
+  }
+]

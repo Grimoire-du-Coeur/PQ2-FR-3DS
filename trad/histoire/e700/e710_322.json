@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Hey, we're supposed to be heading to{SAUT}3rd Avenue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Oh right―the place packed with FOEs{SAUT}and searchlights, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Yeah, we'll need to go through there{SAUT}with extra caution. But, first we need{SAUT}to head to 3rd Avenue!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Okay, this is 3rd Avenue, our{SAUT}destination.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "We're supposed to head to the area{SAUT}full of searchlights and FOEs, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "That's right―we'll need to traverse that{SAUT}area with extra caution, too. Let's get{SAUT}going!",
+    "fr": ""
+  }
+]

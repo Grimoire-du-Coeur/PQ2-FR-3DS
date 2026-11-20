@@ -1,0 +1,470 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "This is... the movie theater?{PAGE}I never would've imagined that world{SAUT}could be connected to a place like this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Yeah, we freaked out at first too.{SAUT}Actually, we're still having a hard{SAUT}time believin' it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Nagi",
+    "en": "Welcome, Miss {f 6 1 26 0 0 0}.{SAUT}I am Nagi, the curator here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, hello! Nice to meet you.{SAUT}I'm {f 6 1 28 0 0 0}.{PAGE}Everyone told me a bit about this{SAUT}theater before we got here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Nagi",
+    "en": "I've been watching everything from{SAUT}here. I'm relieved to see that{SAUT}you're not hurt.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Theodore",
+    "en": "! Thank goodness you're{SAUT}all right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, Theo!{PAGE}I'm so sorry I worried you. Everyone{SAUT}here helped me find you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Theodore",
+    "en": "Please allow me to express my gratitude{SAUT}to you as well...{PAGE}Thank you so much for saving{SAUT}my precious guest.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "We just do what's right.{OPTION}You're in our debt now.{OPTION}So, you two are... close?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Yeah, what he said! We'd never ditch{SAUT}somebody in trouble.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Theodore",
+    "en": "My... Your kind consideration is greatly{SAUT}appreciated.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "So, I'd like to ask something―how are{SAUT}you two affiliated?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Theodore",
+    "en": "I see... Since we've become indebted{SAUT}to you, then it's only proper to repay{SAUT}that debt.{PAGE}Let's see... Would 100 packs of takoyaki{SAUT}suffice?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "T-Takoyaki!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "I'd greatly appreciate it. I'd also ask{SAUT}that you dress them in both mustard{SAUT}and mayonnaise.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Geez, stop joking around! Theodore's{SAUT}gonna take you seriously!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "So, I'd like to ask something―how are{SAUT}you two affiliated?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "I've also been curious about that.{SAUT}Would you mind if we ask how you{SAUT}two are affiliated?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hmm, it's kinda hard to explain...{PAGE}I guess he's someone that I've been{SAUT}indebted to for some time now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Wow, that's vague! ...But, it's not like{SAUT}I'd understand a more complicated{SAUT}explanation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Fem Protag",
+    "en": "Wait, what in the world―Hey, guys?{SAUT}Your clothes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "Oh, our clothes... So, they do return{SAUT}to normal as we'd expected.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "...Return? Do your clothes transform{SAUT}into those cool outfits from earlier?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ann",
+    "en": "Uhhh, it's a long story, but basically,{SAUT}it's like... a special feature we have?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Fem Protag",
+    "en": "Whoa, that's amazing―so cool!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ann",
+    "en": "Hey, y'know what? We haven't{SAUT}introduced ourselves properly{SAUT}yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "Oh, yeah. Welp, let's cover everything{SAUT}so we can all share what we know so far.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P3 Fem Protag",
+    "en": "Phantom Thieves that steal hearts in{SAUT}cognitive worlds... I had no idea!{PAGE}From what I've heard, we can both use{SAUT}Personas, but the rules behind it seem{SAUT}pretty different.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ryuji",
+    "en": "Your clothes don't change at all, huh{SAUT}{f 6 1 27 0 0 0}? Even though you use{SAUT}Personas too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Futaba",
+    "en": "Whoa!!! Y-Y-You're... You're the{SAUT}girl from the movie...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ryuji",
+    "en": "Oh hey, Futaba, you finally turned up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "P3 Fem Protag",
+    "en": "You're the girl who was acting as{SAUT}navigator for everybody, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031_5",
+    "locuteur": "P3 Fem Protag",
+    "en": "Thank you for rescuing me earlier!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Futaba",
+    "en": "I-I-I didn't... d-didn't do anything{SAUT}in p-particular!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ann",
+    "en": "Oh, sorry about that. She's a bit...{SAUT}shy around strangers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "P3 Fem Protag",
+    "en": "It's okay, everyone's a bit nervous in{SAUT}the beginning. Nice to meet you,{SAUT}Futaba-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Futaba",
+    "en": "U-Um, r-right...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh! Futaba-chan―those headphones!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Futaba",
+    "en": "E-Eek!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "P3 Fem Protag",
+    "en": "They're so cool! Are you a music lover{SAUT}too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Futaba",
+    "en": "Wh-Whoooa! You can tell how good{SAUT}these are!? No one else has ever{SAUT}commented on them...{PAGE}... Could she be a fan{SAUT}of stuff like that?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_040",
+    "choix": true,
+    "en": "You've got a new friend.{OPTION}Make sure you play nice.{OPTION}She might be an otaku.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Futaba",
+    "en": "Yeah, there oughtn't be any bad apples{SAUT}among audiophiles.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Futaba",
+    "en": "R-Right―I'm sure I can manage to have{SAUT}a nice time if we've got something{SAUT}in common!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Futaba",
+    "en": "Ooh, so she's an audio geek... I wanna{SAUT}have a heart-to-heart with her about it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh yeah―Theo, what about the other{SAUT}members of SEES? Have you seen Yukari,{SAUT}or Junpei?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Theodore",
+    "en": "I cannot say for certain at this moment,{SAUT}but the possibility is quite high that{SAUT}they are here as well, somewhere...{PAGE}After all, {f 6 1 30 0 0 0} has come to this{SAUT}world with his own companions in tow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "P3 Fem Protag",
+    "en": "I see...{PAGE}Hey, you're all trying to rescue your{SAUT}friends trapped inside the movie, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Morgana",
+    "en": "You know it! They're our treasured{SAUT}accomplices.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "P3 Fem Protag",
+    "en": "I thought so!{PAGE}If there's even the slightest possibility{SAUT}my companions are here, I want to{SAUT}look for them...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048_5",
+    "locuteur": "P3 Fem Protag",
+    "en": "So I've made up my mind―let me come{SAUT}with you! I'll help you look for your own{SAUT}friends, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Morgana",
+    "en": "Ooh, that would be great! You'd be{SAUT}a priceless addition to the team!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049_5",
+    "locuteur": "Morgana",
+    "en": "Well, I'm all for her joining us, but{SAUT}what do you say?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_050",
+    "choix": true,
+    "en": "Of course.{OPTION}We'll make a great team.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "P3 Fem Protag",
+    "en": "Thanks, {f 6 1 30 0 0 0}-kun! I hope{SAUT}we all get along well!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Ann",
+    "en": "Same here!{PAGE}Don't worry, if we search together,{SAUT}I'm sure we'll find your companions{SAUT}in no time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "P3 Fem Protag",
+    "en": "Thanks, Takamaki-san!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Ann",
+    "en": "Call me Ann!{PAGE}Plus, I've reached my wits' end being{SAUT}surrounded by all these grungy guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Ryuji",
+    "en": "Hey! Who're you callin' grungy!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "P3 Fem Protag",
+    "en": "And you're Hikari-chan? Everyone told{SAUT}me about you...{PAGE}Would it be okay for me to stay here{SAUT}too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Hikari",
+    "en": "Huh? O-Oh, yes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "P3 Fem Protag",
+    "en": "Thank you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Hikari",
+    "en": "Ah... U-Um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Futaba",
+    "en": "Wow... I swear, the new girl's social{SAUT}skills are maxed out...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Yusuke",
+    "en": "Yes―I sense an outgoing vibe from her{SAUT}that's rather rare...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Ann",
+    "en": "Do you think Hikari'll be okay, Futaba?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Futaba",
+    "en": "Why're you asking me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Ann",
+    "en": "Well... You know... You and Hikari are{SAUT}both...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_066",
+    "choix": true,
+    "en": "You two are really similar.{OPTION}You're both pretty shy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Futaba",
+    "en": "Hrgh! I mean, it's not like I hadn't{SAUT}noticed it...{PAGE}But, she reminds me of how I was{SAUT}only a little while ago, and it makes{SAUT}my heart hurt a bit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Futaba",
+    "en": "Wha―Hey, I'm not THAT shy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068_5",
+    "locuteur": "Futaba",
+    "en": "But, she reminds me of how I was{SAUT}only a little while ago, and it makes{SAUT}my heart hurt a bit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Ann",
+    "en": "I see...{PAGE}But―look at you now, Futaba! You're{SAUT}able to talk to the rest of us like this...{PAGE}I'm sure Hikari will eventually open up{SAUT}too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Futaba",
+    "en": "Y-Yeah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Akechi",
+    "en": "Well then, why don't we give{SAUT}{f 6 1 26 0 0 0}-san a quick tour{SAUT}of this movie theater?{PAGE}While we do that, I'm sure we'll have{SAUT}the opportunity to make use of our{SAUT}facilities.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Theodore",
+    "en": "Ah, that reminds me! Speaking of{SAUT}facilities, I'd like to show you all{SAUT}something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Futaba",
+    "en": "Ooh, what's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_074",
+    "locuteur": "Theodore",
+    "en": "It's said that a picture is worth{SAUT}a thousand words―now, please,{SAUT}follow me...",
+    "fr": ""
+  }
+]

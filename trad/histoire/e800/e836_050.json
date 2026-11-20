@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Nice! That's all of 'em! We got all{SAUT}the parts we need!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "Now we just need to get it back safely.{SAUT}We'll be there soon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "*giggle* I'm getting excited just thinking{SAUT}about building it!{PAGE}I haven't been able to tinker with{SAUT}any of these mechs, so it's kind of{SAUT}a thrill...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Mweheheh... One step closer to{SAUT}evolving into our new forms.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Fuuka",
+    "en": "You know, something occurred to me{SAUT}when we were talking about the{SAUT}turret's tech...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Oh, whatcha got? Lay it on me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Those two are real techies, huh?{SAUT}Sounds like they even do this stuff{SAUT}in their free time.{PAGE}I figured girls usually liked, y'know...{SAUT}shopping, and desserts, and popular{SAUT}stuff.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "I dunno. Chie's not really into that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "Wha―H-Hey, I do that stuff!{PAGE}I've gone out to shop for steak, and{SAUT}check out popular new fighting styles,{SAUT}and practice them down by the river!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosuke",
+    "en": "Uhh... I shouldn't have said anything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Okay, we can save the chatting for{SAUT}later. Let's get you back to the{SAUT}theater.{PAGE}Wait... Oh, crap!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "What's going on, Oracle?{SAUT}Is there a problem?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Lab security",
+    "en": "UNAUTHORIZED PRESENCE DETECTED.{SAUT}UNAUTHORIZED PRESENCE DETECTED.{PAGE}ALL UNITS, CONVERGE ON INTRUDERS.{SAUT}I REPEAT, UNAUTHORIZED PRESENCE{SAUT}DETECTED.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Rise",
+    "en": "Guys, this is bad! We're reading a{SAUT}huge spike in Shadow presence!{SAUT}You're surrounded!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Chie",
+    "en": "Wait, seriously!? We're in some deep{SAUT}trouble!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Fuuka",
+    "en": "Try to stay calm. I'll analyze the{SAUT}situation.{PAGE}Rise-chan, please search for a{SAUT}safe route.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Rise",
+    "en": "Roger that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "I'll check for other Shadows around{SAUT}the area.{PAGE}Guys, just stay put for a second or{SAUT}two. We'll help guide you!{PAGE}Just hang in there a little longer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Mitsuru",
+    "en": "Tsk. I suppose a fight is unavoidable.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akihiko",
+    "en": "Hmph. I'll just knock them out.{SAUT}I was just thinking I wanted to{SAUT}punch something!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Fuuka",
+    "en": "The enemy's coming! Be careful!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "S00_DG_GIMMICK_SWITCH_MS",
+    "en": "Flipped the switch.",
+    "fr": ""
+  },
+  {
+    "id": "S01_DG_GIMMICK_SWITCH_MS",
+    "en": "You flipped the switch firmly into its{SAUT}other position.",
+    "fr": ""
+  },
+  {
+    "id": "S02_DG_GIMMICK_SWITCH_MS",
+    "en": "The switch has been flipped.",
+    "fr": ""
+  },
+  {
+    "id": "S03_DG_GIMMICK_SWITCH_MS",
+    "en": "The switch has already been flipped{SAUT}firmly into its other position.",
+    "fr": ""
+  },
+  {
+    "id": "S04_DG_GIMMICK_CHANGE_SW",
+    "en": "Flipped the switch to ON.",
+    "fr": ""
+  },
+  {
+    "id": "S05_DG_GIMMICK_CHANGE_SW",
+    "en": "Flipped the switch to OFF.",
+    "fr": ""
+  },
+  {
+    "id": "S06_DG_GIMMICK_CHANGE_SE",
+    "en": "The searchlights have been shut off.",
+    "fr": ""
+  },
+  {
+    "id": "S07_DG_GIMMICK_CHANGE_SE",
+    "en": "The searchlights are already{SAUT}shut off.",
+    "fr": ""
+  },
+  {
+    "id": "S08_DG_GIMMICK_CHANGE_SE",
+    "en": "The searchlights' pattern has{SAUT}switched.",
+    "fr": ""
+  },
+  {
+    "id": "S09_DG_GIMMICK_KAITENSAK",
+    "en": "Rotated the cage.",
+    "fr": ""
+  },
+  {
+    "id": "S10_DG_GIMMICK_DENKISAKU",
+    "en": "The electric gate has been{SAUT}temporarily turned off.",
+    "fr": ""
+  },
+  {
+    "id": "S11_DG_GIMMICK_DENKISAKU",
+    "en": "The power has already been{SAUT}turned off.",
+    "fr": ""
+  },
+  {
+    "id": "S12_DG_GIMMICK_SERI_CHAN",
+    "en": "The stage lifts were used.",
+    "fr": ""
+  },
+  {
+    "id": "S13_DG_GIMMICK_BOUHU_OPE",
+    "en": "The wind's direction changed.",
+    "fr": ""
+  },
+  {
+    "id": "S14_DG_GIMMICK_SERI_FIRS",
+    "en": "The stage lifts were used.",
+    "fr": ""
+  },
+  {
+    "id": "S15_DG_GIMMICK_BOUHU_FIR",
+    "en": "There's a sound of machinery...",
+    "fr": ""
+  }
+]

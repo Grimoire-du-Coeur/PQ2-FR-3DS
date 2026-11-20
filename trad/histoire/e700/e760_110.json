@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Aww, a dead end. Oh well, I guess we{SAUT}turn back...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Huh? 'Sup?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "Skull... Now that I've taken a better look{SAUT}at you, I'd say you're in pretty good{SAUT}shape. Your muscles are quite impressive.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Huh? Oh... Thanks. I was on the track{SAUT}team, y'know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_1",
+    "locuteur": "Ryuji",
+    "en": "I still keep up with my training, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akihiko",
+    "en": "Your upper body is very fit for someone{SAUT}on the track team. Good job.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Chie",
+    "en": "Hrgh, muscles, huh...? I want to train{SAUT}mine too, but I don't want to end up{SAUT}all bulgy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akihiko",
+    "en": "Don't worry, Chie.{PAGE}No amount of ordinary training would{SAUT}get your muscles to bulge like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_1",
+    "locuteur": "Akihiko",
+    "en": "That kind of body is only obtained by{SAUT}those skilled and determined enough{SAUT}to put in countless hours of work.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "Ooh, really!? Then, maybe I should{SAUT}work on my muscles more often...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "I wanna work on my hamstrings.{SAUT}There's a ton of different workouts I've{SAUT}been meanin' to try...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "They've really bonded over the muscle{SAUT}thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Hero",
+    "en": "Yeah. I'm sure Akihiko-senpai's training{SAUT}routines will be helpful.{PAGE}The only downside is: once he starts{SAUT}talking about them, he doesn't stop...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosuke",
+    "en": "Well, at least Chie and Ryuji look like{SAUT}they're both having fun.{PAGE}I'm glad they got to meet some people{SAUT}they get along with... Same goes for all{SAUT}of us, really.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukiko",
+    "en": "Really. We were a little puzzled at first,{SAUT}but it seems like we've all become pretty{SAUT}well-acquainted with one another.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mhm! Let's keep it up, and continue to{SAUT}do our very best!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "All right then, we should get going.{SAUT}Make sure everyone stays on guard.",
+    "fr": ""
+  }
+]

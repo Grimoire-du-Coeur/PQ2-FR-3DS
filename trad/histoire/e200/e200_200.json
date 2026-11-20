@@ -1,0 +1,206 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "We've made it to a new area... Is Yosuke{SAUT}anywhere around here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "Hmm... Sorry, it seems like I can't find{SAUT}him on my own...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "No apologies necessary. After all,{SAUT}legwork is a vital part of an investigation{SAUT}as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosukesaurus",
+    "en": "Hey, hey! Can I ask you guys some{SAUT}stuff now?{PAGE}After all, the whole reason I asked you{SAUT}to join our journey is because I'm so{SAUT}curious about humans!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Why so curious?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosukesaurus",
+    "en": "I mean, humans are the ones who built{SAUT}all the facilities on this island...{PAGE}I got really obsessed with reading these{SAUT}\"book\" things in this room I found{SAUT}called \"Research Lab.\"",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "You can read?{OPTION}What kinds of books?{OPTION}You're a real geniusaurus.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosukesaurus",
+    "en": "Heheh, yeah... Although, I couldn't{SAUT}really understand what they were{SAUT}about.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosukesaurus",
+    "en": "Let's see... I think it was something{SAUT}abouuuut... DNA-something?{PAGE}Well, I couldn't really understand it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "Even still―you can read?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosukesaurus",
+    "en": "A-A geniusaurus!? Aww, it's nothing{SAUT}THAT amazing...{PAGE}Then again, to be honest, I couldn't{SAUT}really understand what they were{SAUT}about.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Even still―you can read?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Considering how he's capable of speech,{SAUT}I suppose his literacy isn't all that{SAUT}strange...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yosukesaurus",
+    "en": "Oh yeah, also that thing! I know about{SAUT}that mysterious thing that moves with{SAUT}electricity!{PAGE}You call it a machine, right? Do you guys{SAUT}make stuff like that, too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "Hmm, that would be impossible for me.{SAUT}I think Naoto-kun might be able to,{SAUT}though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "I can make simple ones too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosukesaurus",
+    "en": "For real!? That's amazing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Kanji",
+    "en": "The other dinosaurs are quiet as mice,{SAUT}but this one won't stop runnin' his{SAUT}mouth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Chie",
+    "en": "I guess it makes sense... He does have{SAUT}the same face as Yosuke.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Teddie",
+    "en": "He gets carried away real easily, too―{SAUT}exactly like our own Yosuke.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yosukesaurus",
+    "en": "Ooh, and―and―you guys can eat both{SAUT}meat and grass, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yukiko",
+    "en": "Well, you tend to only eat meat,{SAUT}right, Chie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Chie",
+    "en": "A-yep. There's no room to spare for{SAUT}greens and veggies in here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosukesaurus",
+    "en": "Huh!? Does that mean humans are{SAUT}actually solely carnivorous?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "Yes... We are...{OPTION}No, we eat vegetables too.{OPTION}I prefer carbs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Makoto",
+    "en": "Hey, don't scare him like that! Humans{SAUT}will basically eat anything, depending{SAUT}on what they prefer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yusuke",
+    "en": "Absolutely. Meat and vegetables shine{SAUT}the most when paired with rice to make{SAUT}for a more filling meal.{PAGE}Balance is vital to both food and art...{SAUT}Unlike some, I will eat anything to{SAUT}balance my diet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yosukesaurus",
+    "en": "What do you mean? You're all humans,{SAUT}so... Aren't you the same?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Haru",
+    "en": "Well, everyone has their own likes and{SAUT}dislikes. Some people will even refuse{SAUT}to eat anything except what they like.{PAGE}Of course, overcoming foods that you{SAUT}dislike is important for growth, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yosukesaurus",
+    "en": "Huh. I don't really get it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ryuji",
+    "en": "All it means is that we can pick what{SAUT}meats or vegetables we eat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yosukesaurus",
+    "en": "So, humans get to decide things{SAUT}for themselves...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P3 Fem Protag",
+    "en": "Sorry, did you say something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yosukesaurus",
+    "en": "No, nothing! C'mon, let's keep moving!",
+    "fr": ""
+  }
+]

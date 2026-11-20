@@ -1,0 +1,14 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "Huh...? I don't remember the entrance{SAUT}being here, do you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Do you think it might have something{SAUT}to do with the security changing?{PAGE}In any case, let's start investigating.",
+    "fr": ""
+  }
+]

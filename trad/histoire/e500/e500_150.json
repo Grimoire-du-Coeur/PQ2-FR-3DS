@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Hero",
+    "en": "Ngh... Where are we?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "Everyone! Are you all right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mitsuru",
+    "en": "Yamagishi...? So, we're back in Hikari's{SAUT}movie theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "Yeah. Looks like you were knocked{SAUT}all the way back here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Enlil's power is off the charts...{PAGE}But the power of those folks in the{SAUT}theaters who refuse to listen to us{SAUT}seems even stronger.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Dammit! Why the hell can't they get{SAUT}with the program already!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "But, those people―didn't they seem like{SAUT}they were actually a bit hesitant?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "Yes. There were even some voices{SAUT}expressing their desire for the sort of{SAUT}courage we hoped for them to show...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukari",
+    "en": "But in the end... they all gave up and{SAUT}just stuck to hiding away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "I think they're probably dealing with{SAUT}the same problem I was...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Chie",
+    "en": "What's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Hikari",
+    "en": "Watching movies based on nothing but{SAUT}your own painful memories makes you{SAUT}feel like giving up would be easier...{PAGE}Eventually, you even get to the point{SAUT}where you think getting rid of your{SAUT}individuality really is the right choice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "These people are basically subject to{SAUT}mind control... Even if we were to speak{SAUT}to them, who knows if they'd hear us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Hikari",
+    "en": "But, I was able to change for the better,{SAUT}thanks to your editing the movies in{SAUT}my theater.{PAGE}They made me feel like I shouldn't{SAUT}repress myself or fear the future―{SAUT}and that's how movies ought to be.{PAGE}If all those poor people had been{SAUT}watching those movies instead, I bet{SAUT}they'd all be thinking differently now.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "That's it!{OPTION}Then we'll screen those for them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "Aah! What's the shouting about!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akihiko",
+    "en": "Did you come up with something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Makoto",
+    "en": "You mean Hikari-chan's movies that{SAUT}we changed?{PAGE}Are you thinking about showing those{SAUT}to the others in the theaters?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "Ah, I see―if it goes as planned, the edited{SAUT}movies should change how the theater{SAUT}people think, like with Hikari-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Naoto",
+    "en": "Well, it does seem to follow logically...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Hold on, hold on! Sorry, but, uh...{SAUT}what are you all talking about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Hero",
+    "en": "We're not going to convince the{SAUT}theatergoers at a time, but all at once,{SAUT}with the help of Hikari-san's movies.{PAGE}Does that about cover it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. If they watch those movies and{SAUT}gain the courage to be themselves,{SAUT}their theater doors should unlock...{PAGE}Then everyone ought to want to leave{SAUT}their theaters.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Shinjiro",
+    "en": "So, how're we gonna get these movies{SAUT}on their screens?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Fuuka",
+    "en": "Hmm... Normally, movie theaters don't{SAUT}all show the same thing at once.{PAGE}If we hope to play Hikari-chan's movies{SAUT}to everyone simultaneously, how would{SAUT}we go about that?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_025",
+    "choix": true,
+    "en": "There were those projectors...{OPTION}We'll change the floor film.{OPTION}Hikari can figure that part out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Aigis",
+    "en": "Correct―I did confirm four running{SAUT}projectors in the vicinity.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ken",
+    "en": "But, how do we use them? Projectors{SAUT}are machines that display film, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Chie",
+    "en": "You mean the film that's flowing all over{SAUT}the ground? You wanna change that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yukiko",
+    "en": "Wait, could that film have something to{SAUT}do with those four projectors we saw?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Junpei",
+    "en": "Whoa, whoa! She may be an aspiring{SAUT}movie director and all, but isn't that{SAUT}asking a bit too much!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Hikari",
+    "en": "Oh, but maybe―What if we used those{SAUT}four projectors we saw?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Yukari",
+    "en": "Wait, you really came up with{SAUT}something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Futaba",
+    "en": "I get it! We just need to use those four{SAUT}projectors to screen our own films!{PAGE}The paths in the movie theater district{SAUT}seem to be made of one long filmstrip{SAUT}that reaches all the theaters there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Haru",
+    "en": "That film was really dark, too. And I{SAUT}don't just mean the color balance...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Fuuka",
+    "en": "Could that be causing some negative{SAUT}effect in the other theatergoers?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Hikari",
+    "en": "I think the floor film is made up of{SAUT}everyone's darkest memories...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Akechi",
+    "en": "So, it's a composite of people's{SAUT}memories... That reminds me{SAUT}of the Akashic records.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Kanji",
+    "en": "Huh? What are those?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Naoto",
+    "en": "They're supposedly the events and{SAUT}emotions of the entire world written{SAUT}down―indeed, that does ring similar...{PAGE}However, what's being shown here is{SAUT}far too biased to be called a true record{SAUT}of anything, let alone everything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Akechi",
+    "en": "So, it's a composite of people's{SAUT}memories...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Naoto",
+    "en": "Indeed. However, what's being shown{SAUT}here is far too biased to be accurate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Hikari",
+    "en": "Mmhm... This is a heavily edited version{SAUT}of everyone's memories.{PAGE}Everything fun or joyful in their lives{SAUT}was cut from the film they're watching.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Yusuke",
+    "en": "While film normally has both positives{SAUT}and negatives, to think that all positive{SAUT}portions have been excised from this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Makoto",
+    "en": "When it came to Hikari-chan's movies{SAUT}being screened, we changed them{SAUT}one at a time...{PAGE}But, to change the consciousnesses of{SAUT}the theatergoers, we need to strike at{SAUT}the root cause, all at once.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "P3 Fem Protag",
+    "en": "I see! So all we have to do is change the{SAUT}film in the projectors to Hikari-chan's{SAUT}movies.{PAGE}If we do that, I'm sure everyone...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_046",
+    "choix": true,
+    "en": "They'll gain courage.{OPTION}They'll leave their theaters.{OPTION}They'll... Well, we don't know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Teddie",
+    "en": "Will everyone get cheered up like{SAUT}Hikarin did?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Kanji",
+    "en": "Then, we gotta do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Ann",
+    "en": "Yeah. I bet it'll help everybody!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Mitsuru",
+    "en": "True, there's no guarantee that they'll{SAUT}change if we play Hikari's movies for{SAUT}them. However...{PAGE}We aren't the type of people to give up{SAUT}without trying―am I correct?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Akihiko",
+    "en": "Sure are. If we're gonna show 'em all{SAUT}Hikari's movies, what good will it do if{SAUT}we don't do this with the right attitude?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "P4 Hero",
+    "en": "Then it's decided―let's swap that{SAUT}negative movie with Hikari's.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "P3 Hero",
+    "en": "All we need to do is swap out the film{SAUT}in those projectors we found earlier,{SAUT}right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Morgana",
+    "en": "In that case, we need to grab the movies{SAUT}about Hikari's life that we changed and{SAUT}take 'em back to the projectors.{PAGE}C'mon, let's get to the projection room!",
+    "fr": ""
+  }
+]

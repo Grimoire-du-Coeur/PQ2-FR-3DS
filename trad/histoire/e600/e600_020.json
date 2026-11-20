@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Hero",
+    "en": "I'm back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "Oh, there he is. Welcome home!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "-san, what is that in your{SAUT}hand?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Hero",
+    "en": "Oh, this? I just rented a DVD.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "Could it be a sexy one? *squeal* What{SAUT}a perv, {f 6 1 16 0 0 0}!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukari",
+    "en": "Like that'd ever happen―he's not you,{SAUT}Junpei.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Hero",
+    "en": "Yeah, it's just a normal movie. I'm not{SAUT}sure why, but... I suddenly got the urge{SAUT}to watch this one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ken",
+    "en": "Oh, what did you rent?{PAGE}I'm curious as to your taste in movies,{SAUT}{f 6 1 16 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Hero",
+    "en": "If it sounds good to you, do you want{SAUT}to watch it with me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Fuuka",
+    "en": "That sounds nice.{PAGE}Everyone's home, so why don't we all{SAUT}watch it in here together?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Mitsuru",
+    "en": "Well... watching a movie in the{SAUT}dormitory's shared space seems...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akihiko",
+    "en": "C'mon, don't be so uptight. It's{SAUT}important to unwind from time{SAUT}to time.{PAGE}Plus, I'm curious about this movie{SAUT}{f 6 1 16 0 0 0} suddenly wanted to{SAUT}watch too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukari",
+    "en": "Ah, then I'll grab the popcorn! I think{SAUT}I've got some stocked up in my room...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Mitsuru",
+    "en": "Popcorn?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Shinjiro",
+    "en": "Ah, popcorn... Well, that's the routine{SAUT}when it comes to watchin' movies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Fuuka",
+    "en": "That decides it! I'll go prepare some{SAUT}drinks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ken",
+    "en": "Ah, I'll help you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Mitsuru",
+    "en": "Movies, eh? Well, perhaps something{SAUT}of the sort won't hurt―every once in{SAUT}a rare while.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Aigis",
+    "en": "That's what we're talkin' 'bout, Boss!{SAUT}You go, girl!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Mitsuru",
+    "en": "...I've been wondering this for quite{SAUT}some time now, but where in the world{SAUT}do you learn such language?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Shinjiro",
+    "en": "So, what movie's that, {f 6 1 16 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Junpei",
+    "en": "Ooh, is it sci-fi? I think I remember this{SAUT}being super-popular a while back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yukari",
+    "en": "Sorry for the wait! Popcorn's ready!{PAGE}Also, we have cookies, and chocolate,{SAUT}and gummies... Oh, and potato chips,{SAUT}and...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Junpei",
+    "en": "Wha―! Is there a grocery store in your{SAUT}room!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Fuuka",
+    "en": "We've got the drinks!{PAGE}Let's see, this one's coffee, and... Hm?{SAUT}Was this one cola?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P3 Hero",
+    "en": "Is everyone settled in? Then, I'm{SAUT}starting it.",
+    "fr": ""
+  }
+]

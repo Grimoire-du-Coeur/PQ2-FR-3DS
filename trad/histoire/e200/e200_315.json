@@ -1,0 +1,121 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Please, wait a moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "Elizabeth...?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "What's up?{OPTION}Is something the matter?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "Hm...{PAGE}Hm, hm, hm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "My, how rude of me...{PAGE}I've inadvertently sensed a new \"bond\"{SAUT}developing between you two.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "...You mean {f 6 1 30 0 0 0} and me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "But, how could this be? Perhaps...{SAUT}because this meeting normally{SAUT}wouldn't be possible?{PAGE}Whatever the case, this is truly{SAUT}fascinating...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "A bond, already? That's a bit sudden―{SAUT}do you guys feel anything like that?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Actually, yes.{OPTION}I don't know...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "I got an idea on what it is...{PAGE}Back in the movie, {f 6 1 30 0 0 0} and{SAUT}{f 6 1 12 0 0 0} teamed up and did this{SAUT}insane attack!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "When we stalled that dinosaur...{OPTION}Oh yeah, I forgot about that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "True, even I was surprised by{SAUT}how smoothly I was moving...{PAGE}My body somehow seemed lighter, and{SAUT}I could feel the energy rising in me...{PAGE}That's how we were able to make that{SAUT}carnivore flinch with just one attack.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yosuke",
+    "en": "For real!? That's so strong!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P4 Hero",
+    "en": "But, why would something like this{SAUT}happen now, of all times?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elizabeth",
+    "en": "Everyone gained the ability to wield{SAUT}multiple Personas due to those with the{SAUT}power of the wild card meeting here...{PAGE}So, this awakening to a power through{SAUT}bonds could be a phenomenon specific{SAUT}to this world as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P4 Hero",
+    "en": "We coordinated our attack back then{SAUT}just by chance, but if we could do that{SAUT}whenever we wanted...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Elizabeth",
+    "en": "So, why not further develop such bonds?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "What do you mean?{OPTION}How do we do that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Elizabeth",
+    "en": "Rather than explain it through words,{SAUT}it would be best for you to experience{SAUT}it firsthand...{PAGE}There just so happens to be a relevant{SAUT}special screening for this occasion.{PAGE}By deepening the bonds amongst{SAUT}yourselves, I suspect it will give rise{SAUT}to additional powers...{PAGE}If you have the time, I'd most fervently{SAUT}like for you to come by the box office{SAUT}so we may investigate this further.{PAGE}With that taken care of, please{SAUT}excuse me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "en": "After completing certain quests,{SAUT}you will acquire \"Unison Skills.\"{PAGE}Unison Skills are powerful attacks{SAUT}performed by Persona-users who have{SAUT}deepened their bonds with each other.{PAGE}These will be useful for your efforts{SAUT}within the movies, so be sure to make{SAUT}good use of them.",
+    "fr": ""
+  }
+]

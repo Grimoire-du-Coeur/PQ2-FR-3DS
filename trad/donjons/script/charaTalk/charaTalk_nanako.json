@@ -1,0 +1,150 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MARGA_MSG_005",
+    "en": "That's it.",
+    "fr": ""
+  },
+  {
+    "id": "NANAKO_MSG_005",
+    "en": "Hehe, yay!",
+    "fr": ""
+  },
+  {
+    "id": "MARGA_MSG_006",
+    "en": "Passable.",
+    "fr": ""
+  },
+  {
+    "id": "NANAKO_MSG_006",
+    "en": "I got it!",
+    "fr": ""
+  },
+  {
+    "id": "MARGA_MSG_007",
+    "en": "Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "NANAKO_MSG_007",
+    "en": "Treasure!",
+    "fr": ""
+  },
+  {
+    "id": "MARGA_MSG_009",
+    "en": "That is commendable.",
+    "fr": ""
+  },
+  {
+    "id": "NANAKO_MSG_009",
+    "en": "This looks good!",
+    "fr": ""
+  },
+  {
+    "id": "MARGA_MSG_010",
+    "en": "Very good.",
+    "fr": ""
+  },
+  {
+    "id": "NANAKO_MSG_010",
+    "en": "Yay! I did it!",
+    "fr": ""
+  },
+  {
+    "id": "MARGA_MSG_011",
+    "en": "Excellent results.",
+    "fr": ""
+  },
+  {
+    "id": "NANAKO_MSG_011",
+    "en": "Yay! This is amazing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Nanako",
+    "en": "ヤバそうな雰囲気だがどうする?{SAUT}(戦闘オタカラスポット 発見MSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Nanako",
+    "en": "探してみよう{SAUT}(戦闘オタカラスポット 探すMSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Nanako",
+    "en": "今回はやめておこう{SAUT}(戦闘オタカラスポット やめるMSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Nanako",
+    "en": "危なかったな{SAUT}(戦闘オタカラスポット 戦闘終了MSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Nanako",
+    "en": "ここはシャドウの気配が強いな。{SAUT}まわりにシャドウがいそうだが、どうする？{SAUT}(雑魚戦闘オタカラスポット 発見MSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Nanako",
+    "en": "いたぞ、シャドウだ！{SAUT}(雑魚戦闘オタカラスポット 探すMSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Nanako",
+    "en": "そうだな、行こう{SAUT}(雑魚戦闘オタカラスポット やめるMSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Nanako",
+    "en": "ふーあぶなかった。あっ、なんか落ちてる！{SAUT}(雑魚戦闘オタカラスポット 戦闘終了MSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Nanako",
+    "en": "出入り口がある。{SAUT}戻るか？{SAUT}(出入り口MSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MARGA_MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  },
+  {
+    "id": "NANAKO_MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

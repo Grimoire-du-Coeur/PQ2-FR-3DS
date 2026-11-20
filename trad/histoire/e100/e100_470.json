@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "This is our declaration against{SAUT}the superficial hero!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "I hope you're ready!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kamoshidaman",
+    "en": "You bastards...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "We did it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Yep, that's that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "*chuckle* It seems that counterfeits{SAUT}can be quite useful at times.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kamoshidaman",
+    "en": "You bastards! What did you do!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "We're the Phantom Thieves. If we wanna{SAUT}steal something, we get it done!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kamoshidaman",
+    "en": "Grrr... How dare you defy me,{SAUT}you insolent brats!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Wavering man",
+    "en": "Phantom Thieves? But, they're{SAUT}criminals... right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Angry man",
+    "en": "Kamoshidaman, punish them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teared up woman",
+    "en": "Kamoshidaman...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "So, what's your response?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Your so-called \"justice\" is through!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Kamoshidaman",
+    "en": "Silence, thieves! You're all evildoers{SAUT}for agitating the citizens!{PAGE}My existence is justice incarnate here{SAUT}in Kamo City!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kamoshidaman",
+    "en": "I'll show you the power of a hero!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "Here he comes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Kamoshidaman",
+    "en": "Hraaaaaaaaah... Justice will win!",
+    "fr": ""
+  }
+]

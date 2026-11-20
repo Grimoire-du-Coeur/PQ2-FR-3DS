@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Tch, they're here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "It's just like I thought. They seem{SAUT}different from the ones we find in the{SAUT}Palaces.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Regardless, they're still our enemy.{SAUT}If they stand in our way, they must be{SAUT}defeated!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Inari's right.{PAGE}They don't look too strong, so let's{SAUT}charge on through like always!",
+    "fr": ""
+  }
+]

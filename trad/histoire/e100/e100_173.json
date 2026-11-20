@@ -1,0 +1,439 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Could this be... the Velvet Room?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "What a curiously blue room... It has a{SAUT}certain coziness to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Could this room's appearance also{SAUT}be attributed to the anomaly?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Hey, {f 6 1 30 0 0 0}, introduce us to them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Justine",
+    "en": "Likewise―and tell us about this movie{SAUT}theater we're trapped in as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "I should tell them what we know so far...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Caroline",
+    "en": "I see... You're not lying to us, are you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Either way, now we understand the{SAUT}whole Velvet Room thing, with the{SAUT}little warden twins...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Justine",
+    "en": "Inmate, you're telling us that there's{SAUT}essentially no way out of here?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "That's right.{OPTION}Unfortunately...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Justine",
+    "en": "To think that we wardens would{SAUT}become prisoners...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Caroline",
+    "en": "Justine, there's no point in us obsessing{SAUT}over this. Let's simply call it a part of his{SAUT}rehabilitation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Justine",
+    "en": "Indeed, it'd be best to accept{SAUT}the situation as such for now.{PAGE}Fortunately, this is a Velvet Room...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Justine",
+    "en": "Give thanks, Inmate: we shall take{SAUT}on the task of fusing Personas here.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "That would be great.{OPTION}Wow! You can do that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Caroline",
+    "en": "You'd better be grateful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Justine",
+    "en": "What nonsense...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Caroline",
+    "en": "Keep up this impudence and we'll{SAUT}be executing YOU instead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Justine",
+    "en": "Still, you will need to wait for a while{SAUT}longer, until our preparations are{SAUT}complete.{PAGE}It seems we are a bit out of our{SAUT}element here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Caroline",
+    "en": "You've been freely able to wield{SAUT}countless Personas, yes, Inmate?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Justine",
+    "en": "We refer to that ability as the \"power{SAUT}of the wild card.\"{PAGE}However, that power seems to have{SAUT}been altered here...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "What do you mean?{OPTION}I saw that one coming...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Caroline",
+    "en": "Simply put, you can't take \"Arsene\" off.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "en": "It seems that I can't change my{SAUT}Personas...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025_5",
+    "locuteur": "Nagi",
+    "en": "Everyone, are you all safe―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Nagi",
+    "en": "My! I recall this room as being the test{SAUT}screening room...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Caroline",
+    "en": "Who's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Nagi",
+    "en": "Ah... Pardon us, please. We grew too{SAUT}concerned for you all...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Hikari",
+    "en": "...Twins?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Justine",
+    "en": "We were informed about you two{SAUT}earlier. There's no need to trouble{SAUT}yourselves with us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Nagi",
+    "en": "U-Umm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Ann",
+    "en": "Hmm. Looks like we're gonna have to{SAUT}do some more introductions and{SAUT}catching up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Nagi",
+    "en": "I see... So much is happening, all so{SAUT}quickly.{PAGE}If it will help aid in our escape, then{SAUT}please, use this facility as you deem{SAUT}necessary.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Hikari",
+    "en": "Are you two... their friends as well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Justine",
+    "en": "The word \"friend\" is wholly unsuitable{SAUT}for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Caroline",
+    "en": "We are in charge of his rehabilitation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Justine",
+    "en": "Well then, Inmate―continue{SAUT}dedicating yourself to your{SAUT}rehabilitation here.{PAGE}This inability to manifest your power of{SAUT}the wild card should be considered{SAUT}a test.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ann",
+    "en": "So he can't change Personas... It's a real{SAUT}setback, but I guess we'll just have to{SAUT}deal with it.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_040",
+    "choix": true,
+    "en": "I'm sure we'll manage.{OPTION}I'll be relying on all of you.{OPTION}That's troubling...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Morgana",
+    "en": "That's right, there's no need to worry―{SAUT}you can count on all of us, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Yusuke",
+    "en": "Right, that's how it should be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Ryuji",
+    "en": "Don't sweat it! We've all been dealing{SAUT}with only one each this entire time.{SAUT}We'll manage somehow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Caroline",
+    "en": "Hm? Hold on, Inmate―what's that{SAUT}you have there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Justine",
+    "en": "Hand over that shining object within{SAUT}your pocket.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Yusuke",
+    "en": "Shining object? Perhaps they're{SAUT}referring to that bit of film you found?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "en": "I hand over the shining film...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Justine",
+    "en": "This...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Ann",
+    "en": "We just happened to find it. Do you{SAUT}know what it is?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Caroline",
+    "en": "This shining film―it holds infinite{SAUT}possibilities within...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Justine",
+    "en": "Those infinite possibilities that exist{SAUT}within one's heart―in other words,{SAUT}Personas.{PAGE}With this, you should be able to take on{SAUT}an additional Persona besides Arsene...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Futaba",
+    "en": "Really, a second Persona? Does that{SAUT}mean double the firepower!? That's{SAUT}so OP!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Justine",
+    "en": "No, the second Persona that can be{SAUT}taken on won't be the same strength{SAUT}as the original.{PAGE}If Arsene is the main Persona, any others{SAUT}taken on are considered Sub-Personas...{PAGE}Think of it merely as an aid to{SAUT}the original one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Akechi",
+    "en": "Still, two at the same time? Quite{SAUT}impressive, {f 6 1 30 0 0 0}. My hat's{SAUT}off to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Justine",
+    "en": "Now, Inmate: look at this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "en": "I peer into the shining film...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056_05",
+    "en": "A \"Pixie\" emerged from the film!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "en": "The shining film transformed and{SAUT}you acquired the Persona \"Pixie.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057_05",
+    "locuteur": "Ryuji",
+    "en": "I don't really get it, but damn!{SAUT}That wild card thing is wicked!{PAGE}You're so lucky, {f 6 1 30 0 0 0}. I wish{SAUT}I could double up on my Personas too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Justine",
+    "en": "...Caroline.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Caroline",
+    "en": "Yes... So it would seem, Justine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Ryuji",
+    "en": "What's up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Caroline",
+    "en": "The rest of you are also now capable{SAUT}of taking on a second Persona.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Ryuji",
+    "en": "For real!? Not just {f 6 1 30 0 0 0}!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Justine",
+    "en": "Obviously, that would be the case{SAUT}in a standard scenario...{PAGE}But here, you may borrow and use{SAUT}the Personas that take form in the{SAUT}prisoner's heart.{PAGE}Why that is, though... Could it be due to{SAUT}the power of the wild card changing?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_064",
+    "choix": true,
+    "en": "You don't know either?{OPTION}How could it change?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Caroline",
+    "en": "Watch your tongue, Inmate!{PAGE}All you should be doing is making use{SAUT}of that power―WITHOUT the attitude!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Justine",
+    "en": "Yes, that is correct.{PAGE}Even so, this feeling I have... It's as if{SAUT}another with the power of the wild card{SAUT}is here as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Justine",
+    "en": "This feeling I have... It's as if another{SAUT}with the power of the wild card is here{SAUT}as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Caroline",
+    "en": "Listen! You don't need to know what's{SAUT}going on!{PAGE}All you need to do is make use of that{SAUT}power, and keep your mouth shut!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Yusuke",
+    "en": "So what you're saying is, we can now{SAUT}summon another Persona besides{SAUT}our usual one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Futaba",
+    "en": "Oh man, I'm so psyched!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Ann",
+    "en": "Main and Sub-Personas, huh... Will I be{SAUT}able to handle using both of them?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Morgana",
+    "en": "Well, we've got {f 6 1 30 0 0 0} to help{SAUT}with that...{PAGE}After all, he's our specialist in wielding{SAUT}multiple Personas!{PAGE}If anything, this'll broaden our{SAUT}strategies, so there'll be even{SAUT}less for us to fear, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Justine",
+    "en": "While the situation is unusual, you are{SAUT}still a prisoner. Do not neglect your{SAUT}rehabilitation...",
+    "fr": ""
+  }
+]

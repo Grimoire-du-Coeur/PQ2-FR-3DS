@@ -1,0 +1,14 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Lab security",
+    "en": "UNAUTHORIZED PRESENCE DETECTED.{SAUT}UNAUTHORIZED PRESENCE DETECTED.{SAUT}ALL UNITS, CONVERGE ON INTRUDERS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Mitsuru",
+    "en": "Here it comes!",
+    "fr": ""
+  }
+]

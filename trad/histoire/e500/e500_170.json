@@ -1,0 +1,458 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Man, we're really gonna mess with those{SAUT}projectors, huh? I guess we'll be in some{SAUT}real trouble if Enlil busts us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "She's not someone who'll hear what we{SAUT}have to say. If we get caught in the act,{SAUT}she'll really let us have it this time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Hooray, it's phantom thief time! We'll{SAUT}slink through the shadows and swiftly{SAUT}seize our target!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "It's not in my nature to sneak around.{PAGE}On top of that, I've never done any{SAUT}phantom thieving before. You'll{SAUT}have to show us the ropes here.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "We just go with the flow.{OPTION}Our style isn't hard to pick up.{OPTION}Just shut up and follow our lead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Mitsuru",
+    "en": "I-Is that how you do things?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "No way! Our approach is way more{SAUT}strategic than that!{PAGE}We'll show you the true skills of the{SAUT}Phantom Thieves―just follow our lead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Teddie",
+    "en": "Oho, is that so? By the way, Teddie Style{SAUT}is \"stuffing yourself with snacks three{SAUT}times a day\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P4 Hero",
+    "en": "I don't think that's what he means...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Style's not something you give lessons{SAUT}on―you just have to feel it!{PAGE}Anyway, we'll show you the true skills{SAUT}of the Phantom Thieves―just follow{SAUT}our lead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Mitsuru",
+    "en": "Ha... How straightforward.{PAGE}Then we'll follow your example as{SAUT}we advance through the mission.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "Yeah, we'll show you the true skills{SAUT}of the Phantom Thieves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukiko",
+    "en": "*giggle* It's like all of us have joined{SAUT}the troupe!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Chie",
+    "en": "Ooh, that sounds awesome! We get to{SAUT}be in both the Investigation Team AND{SAUT}the Phantom Thieves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Naoto",
+    "en": "Those who pursue and those being{SAUT}pursued―normally, such parties{SAUT}would never fraternize...{PAGE}Perhaps it's something about this{SAUT}strange world that allows us to{SAUT}join our efforts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Mitsuru",
+    "en": "In the same regard, we of SEES will also{SAUT}contribute to the Phantom Thieves for{SAUT}this mission.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ken",
+    "en": "Heheh, a phantom thief, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Junpei",
+    "en": "Ah, you're at the age where you dream{SAUT}of that kinda thing. Seems like you're{SAUT}an elementary kid after all, Ken.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ken",
+    "en": "Th-That's not what I was thinking!{SAUT}Leave me alone...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san is enthusiastic as well.{SAUT}He said, \"Sign me up too.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "Oh yeah! Hikari, you're part of the{SAUT}Phantom Thieves too now, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Hikari",
+    "en": "Huh? It's really all right for me to...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Haru",
+    "en": "Of course! Let's go try our hardest{SAUT}together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Hikari",
+    "en": "Mmhm... Thank you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ann",
+    "en": "Haha, our crew's just ballooned into{SAUT}an army! I thought we were supposed{SAUT}to be the \"Phantom\" Thieves.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_028",
+    "choix": true,
+    "en": "This is going to be fun.{OPTION}This is going to be a handful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Fuuka",
+    "en": "Wow, what confidence!{PAGE}The same goes for our own leader, but{SAUT}yours is so trustworthy... I'm impressed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Rise",
+    "en": "Right? They're all so dependable―even{SAUT}{f 6 1 27 0 0 0}-san's got guts!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yusuke",
+    "en": "Excellent point―it's going to be quite{SAUT}the challenge keeping such unusually{SAUT}unique individuals in line.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Futaba",
+    "en": "Oh, you're one to talk, Inari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ryuji",
+    "en": "Yeah―same for you, ya know!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "P3 Hero",
+    "en": "I know it may sound strange saying{SAUT}something like this... but honestly,{SAUT}I'm getting a bit excited.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "P4 Hero",
+    "en": "Actually, it's not so strange―I feel{SAUT}the same way.{PAGE}Normally, we never would've met, yet{SAUT}we've all come together for a purpose.{PAGE}Right here, right now, there's only one{SAUT}thing for us to do―in fact, it's something{SAUT}only we can do as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P3 Fem Protag",
+    "en": "That's right. I'm sure there's a meaning{SAUT}for all of us meeting!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Morgana",
+    "en": "Well then, let's kick off the inaugural{SAUT}mission of the newly-expanded Phantom{SAUT}Thieves! Let's start with the details of―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Ryuji",
+    "en": "OH, SHIT! We totally forgot―the calling{SAUT}card!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Morgana",
+    "en": "What? The calling card?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Ryuji",
+    "en": "We can't start without one! Yusuke―{SAUT}can you whip one up for us?  ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Makoto",
+    "en": "But, this isn't a Palace. There's not{SAUT}really any use for us to send one...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, a calling card's a must for Phantom{SAUT}Thieves operations! Let's make one, let's{SAUT}make one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Ken",
+    "en": "I think we should do it too! I-If this'll{SAUT}raise everyone's morale...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Yusuke",
+    "en": "Ha, so you believe in the beauty of{SAUT}tradition as well... As you wish.{SAUT}I'll prepare one now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Ryuji",
+    "en": "Welp, all that's left is our usual cheer!{SAUT}Take it away, {f 6 1 30 0 0 0}!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_046",
+    "choix": true,
+    "en": "It's showtime!{OPTION}Let's steal Enlil's movie!{OPTION}I can't think one up offhand...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Ryuji",
+    "en": "Whaaaat...? NOW'S when you clam up{SAUT}on us!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Morgana",
+    "en": "*sigh* I guess we've got no other choice.{SAUT}Allow me to get this started the right{SAUT}way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Morgana",
+    "en": "Grand Phantom Thieves, let's begin the{SAUT}operation!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Ann",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Ryuji",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Yusuke",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Makoto",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Morgana",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Haru",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Futaba",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Akechi",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "P4 Protag",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Chie",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Yukiko",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Yosuke",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Kanji",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Naoto",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Rise",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Teddie",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Yukari",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Junpei",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Fuuka",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Akihiko",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Shinjiro",
+    "en": "Yeah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Mitsuru",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Ken",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Koromaru",
+    "en": "Awoooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_074",
+    "locuteur": "Aigis",
+    "en": "Yes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_075",
+    "locuteur": "P3 Protag",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_076",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_077",
+    "locuteur": "Hikari",
+    "en": "Yeah!",
+    "fr": ""
+  }
+]

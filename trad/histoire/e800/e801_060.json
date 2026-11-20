@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "Phew... I think that makes eight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Yeah, that should be all of them. Let's{SAUT}hurry back and report in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Whoa! They finished it just like that...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "*huff* *puff* They're so fast... I could{SAUT}bear-ly keep up...{PAGE}Are you two always like this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Well, not exactly... We've just had{SAUT}something on our minds lately...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Something on your minds? Is there{SAUT}anything wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "Um, we probably shouldn't just stand{SAUT}around here talking. Why don't we{SAUT}head back first?{PAGE}If you really want to know, we can tell{SAUT}you later... Okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Yeah, that's cool. All right then, let's{SAUT}get goin'.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Shinjiro",
+    "en": "What the hell is all of this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukiko",
+    "en": "The atmosphere of the movie's totally{SAUT}changed with the genre again.{PAGE}There are a lot of music notes flying{SAUT}around... I guess that has to do with{SAUT}this being a musical?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "It's kinda cute at first glance, but...{SAUT}isn't there something odd about it?{PAGE}It reminds me of a theme park, but it{SAUT}feels creepy for some reason...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Fuuka",
+    "en": "I get what you mean, Yukari-chan.{PAGE}It's so bright here, but there's something{SAUT}chilling and spooky about it all―even{SAUT}sort of ominous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "That has been bothering me as well.{SAUT}This world is unsettling.{PAGE}Don't you sense something about it{SAUT}as well, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "It's suffocating.{OPTION}It's hurting my eyes.{OPTION}I don't notice anything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Indeed. Even if you find it displeasing,{SAUT}you're forced to suppress your feelings{SAUT}and accept this world as it is.{PAGE}I'm sensing a great deal of intrusiveness{SAUT}and compulsion from this artistic{SAUT}approach as well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "True, the colors here are bright enough{SAUT}to nearly blind you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "This gaudy, toxic coloring... It feels so{SAUT}oppressive.{PAGE}Even if you find it displeasing, you're{SAUT}forced to suppress your feelings{SAUT}and accept this world as it is.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "I see. I'm sensing something like{SAUT}an intrusiveness and compulsion{SAUT}from this artistic approach...{PAGE}Even if you find it displeasing, you're{SAUT}forced to suppress your feelings{SAUT}and accept this world as it is.{PAGE}That's the kind of oppression I see{SAUT}in this stage production.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ken",
+    "en": "When you take a closer look, even{SAUT}the flowers around here look all{SAUT}distorted. It's pretty disturbing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "Could that mean this place symbolizes{SAUT}an artificial happiness?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "They did say in the trailer, \"Lose your{SAUT}individuality. Forget who you are,{SAUT}and follow the crowd.\"{PAGE}It seems this place is no different from{SAUT}the previous films―and, in that case,{SAUT}this movie is also...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "Hmm? This movie is also what?{PAGE}I mean, we haven't seen any of the{SAUT}trailers until now―what're we{SAUT}supposed to do here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akechi",
+    "en": "Well... I don't have any conclusive{SAUT}evidence yet.{PAGE}I don't want to cause any pointless{SAUT}confusion either, so let's gather more{SAUT}intel first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Teddie",
+    "en": "Oh myyyyy! You're such a reliable boy,{SAUT}Crow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "Hrggh! I-I can't breathe... please, cease{SAUT}your glomping...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Naoto",
+    "en": "In any case, let's do as Crow says and{SAUT}try to learn more about our current{SAUT}situation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "That sounds best. We really shouldn't{SAUT}judge this movie based on its looks.{PAGE}This place is way more wackadoo than{SAUT}I expected.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Rise",
+    "en": "These Shadows are extra vicious{SAUT}compared to the ones we've faced{SAUT}so far...{PAGE}Be careful, guys!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_020",
+    "choix": true,
+    "en": "Let's hurry!{OPTION}Let's be careful.{OPTION}I'm worried about Hikari.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm! We should hurry and look for{SAUT}Hikari-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "Calm as ever―quite impressive. It's true{SAUT}that all our efforts would be for{SAUT}nothing if we get taken out here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "But, I wonder if Hikari-chan will be{SAUT}okay... I'm worried.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Hero",
+    "en": "Yeah―unlike us, she has no means{SAUT}of fighting...{PAGE}We should hurry and go look for her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Morgana",
+    "en": "You'd better not let your guard down,{SAUT}okay? Let's proceed with maximum{SAUT}caution!",
+    "fr": ""
+  }
+]

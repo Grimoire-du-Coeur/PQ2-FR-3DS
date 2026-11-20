@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ANN_FOE_FOLLOW_START_1",
+    "en": "An FOE's coming!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_FOE_FOLLOW_START_2",
+    "en": "Eeep... that thing's staring at us!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_FOE_FOLLOW_START_3",
+    "en": "Huh? Did it see us!?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_FOE_NEAR_1",
+    "en": "It's an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_FOE_NEAR_2",
+    "en": "An FOE!? This is bad!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_FOE_NEAR_3",
+    "en": "Hey, it's an FOE, ya know! Gotta be{SAUT}careful!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_FOE_FOLLOW_END_1",
+    "en": "Whew, we're okay... Guess we lost it.",
+    "fr": ""
+  },
+  {
+    "id": "ANN_FOE_FOLLOW_END_2",
+    "en": "*sigh* Looks like it finally gave up.",
+    "fr": ""
+  },
+  {
+    "id": "ANN_FOE_FOLLOW_END_3",
+    "en": "Yes! We got away!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_KANSI_REACTION_1",
+    "en": "Let's tiptoe, we don't wanna get{SAUT}caught!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_KANSI_REACTION_2",
+    "en": "Nice'n easy now...",
+    "fr": ""
+  },
+  {
+    "id": "ANN_KANSI_REACTION_3",
+    "en": "Ugh, I'm sweating all over. And not{SAUT}because it's hot!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_DENKISAKU_REACTION_1",
+    "en": "I can feel the hair on the back of my{SAUT}neck standing up...",
+    "fr": ""
+  },
+  {
+    "id": "ANN_DENKISAKU_REACTION_2",
+    "en": "We do NOT wanna touch that!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_DENKISAKU_REACTION_3",
+    "en": "Whoa... All this electricity is{SAUT}ridiculous... ",
+    "fr": ""
+  },
+  {
+    "id": "ANN_KYOUHU_REACTION_1",
+    "en": "Yipe! Wind!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_KYOUHU_REACTION_2",
+    "en": "Ugh! Seriously!? My hair!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_KYOUHU_REACTION_3",
+    "en": "Where are we, a tornado!?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_STAIR_FIND_1",
+    "en": "We can go through here!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_STAIR_FIND_2",
+    "en": "Oh! A path!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_STAIR_FIND_3",
+    "en": "Hey, let's check it out!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_TREASURE_FIND_1",
+    "en": "Treasure!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_TREASURE_FIND_2",
+    "en": "Ooh, a treasure chest! Hell yeah!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_TREASURE_FIND_3",
+    "en": "I spy something good!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_CHECK_WALL_1",
+    "en": "Seems kinda suspicious, don't you{SAUT}think?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_CHECK_WALL_2",
+    "en": "Hey, you wanna check it out?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_CHECK_WALL_3",
+    "en": "There has to be something here!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_SWITCH_FIND_1",
+    "en": "We can flip this switch for free, right?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_SWITCH_FIND_2",
+    "en": "Oh! There's a switch!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_SWITCH_FIND_3",
+    "en": "Should we flip this switch?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_SHORTCUT_FIND_1",
+    "en": "There! Looks like a shortcut!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_SHORTCUT_FIND_2",
+    "en": "Maybe we use this as a shortcut,{SAUT}yeah?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_SHORTCUT_FIND_3",
+    "en": "Hey, maybe we can skip on through{SAUT}there.",
+    "fr": ""
+  },
+  {
+    "id": "ANN_FOE_WARNING_NEAR_1",
+    "en": "Man! How much longer is it gonna{SAUT}chase us!?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_FOE_WARNING_NEAR_2",
+    "en": "The FOE's coming! Run away!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_FOE_WARNING_NEAR_3",
+    "en": "Seriously? What's its problem?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_1PERSON_HPTP10_1",
+    "en": "Sorry... I can't go on...",
+    "fr": ""
+  },
+  {
+    "id": "ANN_1PERSON_HPTP10_2",
+    "en": "Hey, you think we can get some{SAUT}R＆R...?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_1PERSON_HPTP10_3",
+    "en": "I think this is as far as I can go...",
+    "fr": ""
+  },
+  {
+    "id": "ANN_1PERSON_HP10_1",
+    "en": "Crap... This isn't good.",
+    "fr": ""
+  },
+  {
+    "id": "ANN_1PERSON_HP10_2",
+    "en": "*groan* So sore...",
+    "fr": ""
+  },
+  {
+    "id": "ANN_1PERSON_HP10_3",
+    "en": "I think I've reached my limit...",
+    "fr": ""
+  },
+  {
+    "id": "ANN_1PERSON_TP10_1",
+    "en": "So... tired...",
+    "fr": ""
+  },
+  {
+    "id": "ANN_1PERSON_TP10_2",
+    "en": "Please, let me just rest a little...",
+    "fr": ""
+  },
+  {
+    "id": "ANN_1PERSON_TP10_3",
+    "en": "I'm totally sapped...",
+    "fr": ""
+  },
+  {
+    "id": "ANN_1PERSON_HP80_1",
+    "en": "Yeah! Nice going!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_1PERSON_HP80_2",
+    "en": "Everyone still good?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_1PERSON_HP80_3",
+    "en": "Why stop now!?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_DUNGEON_START_1",
+    "en": "Let's get started!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_DUNGEON_START_2",
+    "en": "Okay, time to explore!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_DUNGEON_START_3",
+    "en": "Off we go!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_QUEST_START_1",
+    "en": "Let's do this, guys!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_QUEST_START_2",
+    "en": "Are you ready?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_QUEST_START_3",
+    "en": "Go, go, go!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_TOUHA_25_1",
+    "en": "I'm still good to go!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_TOUHA_25_2",
+    "en": "Let's give 'em hell!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_TOUHA_50_1",
+    "en": "Halfway there.",
+    "fr": ""
+  },
+  {
+    "id": "ANN_TOUHA_50_2",
+    "en": "Halfway done!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_TOUHA_75_1",
+    "en": "Are we almost done?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_TOUHA_75_2",
+    "en": "Just a little more!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_TOUHA_100_1",
+    "en": "Hooray! We're done!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_TOUHA_100_2",
+    "en": "Yes! All done!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_MAPPING_ICON_ALL_1",
+    "en": "Oh, nice!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_MAPPING_ICON_ALL_2",
+    "en": "Hm, lookin' good!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_MAPPING_ICON_KAIDAN_",
+    "en": "There's the spot!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_MAPPING_ICON_KAIDAN_#2",
+    "en": "Looks important!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_MAPPING_CHANGE_COLOR",
+    "en": "I like that!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_MAPPING_CHANGE_COLOR#2",
+    "en": "Looks good! More color, even?",
+    "fr": ""
+  },
+  {
+    "id": "ANN_MAPPING_ICON_DEL_1",
+    "en": "Way to stay organized!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_MAPPING_ICON_DEL_2",
+    "en": "Yeah, we should get rid of whatever{SAUT}we don't need.",
+    "fr": ""
+  },
+  {
+    "id": "ANN_MAPPING_MEMO_1",
+    "en": "Be sure to take notes!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_MAPPING_MEMO_2",
+    "en": "Just what I'd expect from you.",
+    "fr": ""
+  },
+  {
+    "id": "ANN_DOOR_OPEN_1",
+    "en": "All right, let's go!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_DOOR_OPEN_2",
+    "en": "This way!",
+    "fr": ""
+  },
+  {
+    "id": "ANN_DOOR_OPEN_3",
+    "en": "Let's start some mischief!",
+    "fr": ""
+  }
+]

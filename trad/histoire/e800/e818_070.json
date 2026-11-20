@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "I am glad you were able to gather the{SAUT}materials safely.{PAGE}Now to hand them over to Theo.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Theodore",
+    "en": "Thank you.{PAGE}Ah, these are indeed the materials I'd{SAUT}hoped for... They'll likely allow me to{SAUT}craft you new equipment.{PAGE}I'll do my very best. If all of you would{SAUT}please wait here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hooray! Now we'll have even more to{SAUT}choose from.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "We'll be even more powerful.{OPTION}I bet it'll cost us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Yeah, but be sure you actually equip the{SAUT}stuff or else there's no point in buying it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Theodore",
+    "en": "Ah, I nearly forgot.{PAGE}It will cost money, yes. That said, this is{SAUT}from me to you.{PAGE}Please accept this, {f 6 1 27 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "A ring? For me?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "He's proposing.{OPTION}Congratulations.{OPTION}I want one too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "Wh-What!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukiko",
+    "en": "But if a man gives a woman a ring...{SAUT}That's almost like saying...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "Wait a minute. We have to hear{SAUT}{f 6 1 27 0 0 0}-chan's response.{PAGE}What's your answer? Are you going to{SAUT}say yes, or...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Theodore",
+    "en": "I apologize. I had only those materials{SAUT}to work with...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Materials?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Theodore",
+    "en": "Uh, I feel as though you've{SAUT}misunderstood...{PAGE}This is a present from Yukari, Fuuka, and{SAUT}Junpei.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Wha―!? It's from you guys?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Theodore",
+    "en": "They brought it to my attention in{SAUT}advance and asked if I would make{SAUT}something from what was left over.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yukari",
+    "en": "It's really just pieces of the materials we{SAUT}found, so it's not much, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Fuuka",
+    "en": "They were so pretty, we thought we'd{SAUT}turn them into an accessory.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "But why me? I didn't do anything to{SAUT}receive a gift...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "It's to say thanks for all you do.{OPTION}It's a token of our appreciation.{OPTION}We're friends, aren't we?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukari",
+    "en": "There you have it.{PAGE}You said you were just trying to do your{SAUT}part for the team.{PAGE}So we figured we'd try to do our part{SAUT}and show that we value your friendship.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "Friendship...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Fuuka",
+    "en": "It's true we didn't know you before we{SAUT}were brought here.{PAGE}But we enjoy being with you,{SAUT}{f 6 1 27 0 0 0}, and we want{SAUT}to get to know you better.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Junpei",
+    "en": "We were hoping this ring would help us{SAUT}show that.{PAGE}It is made of Shadows, though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yukari",
+    "en": "Can it, Junpei! It's pretty, so who cares!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Fuuka",
+    "en": "-chan...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P3 Fem Protag",
+    "en": "...Thank you. You've all made me very{SAUT}happy.{PAGE}It's really beautiful, even if it is made{SAUT}from Shadows.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yukari",
+    "en": "Let's stop saying that, all right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Makoto",
+    "en": "-san does look{SAUT}happy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Mitsuru",
+    "en": "Yes. It certainly wasn't our intention to{SAUT}make her feel lonely.{PAGE}Although, judging from her expression,{SAUT}it looks like we won't have to worry{SAUT}about that anymore...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Elizabeth",
+    "en": "You did a good deed, Theo.{PAGE}It seems your guest has formed new{SAUT}bonds.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Theodore",
+    "en": "Not at all. I simply lent a hand...{PAGE}The rest they did on their own.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* I suppose you are right.",
+    "fr": ""
+  }
+]

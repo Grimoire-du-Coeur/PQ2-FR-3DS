@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Marie",
+    "en": "Huh... Yeah, I can feel some good{SAUT}pathos in that. Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Nyeheheh... I know, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Marie",
+    "en": "Now, you wanna choose a Sub-Persona{SAUT}to attach to the P-Book?{PAGE}The {f 0 1 2}Sub-Persona you attach won't{SAUT}disappear{f 0 1 0}, so don't stress it.{PAGE}And you can change it later anyway,{SAUT}so just pick one for now.",
+    "fr": ""
+  }
+]

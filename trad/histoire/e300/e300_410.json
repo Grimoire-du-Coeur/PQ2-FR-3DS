@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Hero",
+    "en": "Even now, I'm having trouble believing{SAUT}that this is all just inside a movie...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Tons of stuff that only happen in movies{SAUT}keep happening here, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Really, {f 6 1 16 0 0 0} and {f 6 1 27 0 0 0}{SAUT}are what's unbelievable right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "Parallel worlds, huh...{PAGE}I'm not sure I get it, but it means there's{SAUT}another set of us in some other world,{SAUT}right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "...Yes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Mitsuru",
+    "en": "And our personalities in both worlds are{SAUT}essentially the same, existing at the same{SAUT}time.{PAGE}From what I've heard, our skills and{SAUT}living conditions are the same as well.{SAUT}So... why are only those two different?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Hero",
+    "en": "Pretty interesting, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Junpei",
+    "en": "\"Interesting\"!? THAT'S all you have to{SAUT}say about it? Man, you're just as{SAUT}nonchalant as always...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akihiko",
+    "en": "\"I am her and she's me...\"{PAGE}Ever since {f 6 1 16 0 0 0} said that, it's{SAUT}become obvious that you two are{SAUT}similar in some way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ken",
+    "en": "Oh, I've been thinking that the entire{SAUT}time...{PAGE}I mean, their personalities are different,{SAUT}but... I can't explain it well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_1",
+    "locuteur": "Yukari",
+    "en": "It does feel weird, though. I was sort{SAUT}of confused at first...{PAGE}But now that I've gotten to know her{SAUT}more, she fits in the group just like{SAUT}a glove... I wonder why that is?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_2",
+    "locuteur": "P4 Hero",
+    "en": "The length of time spent together isn't{SAUT}what matters―it's the depth of trust{SAUT}that's been built.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_3",
+    "locuteur": "Ken",
+    "en": "I agree with that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_4",
+    "locuteur": "Junpei",
+    "en": "A-yep! Like they say: how beautiful it is{SAUT}to have good friends!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Shinjiro",
+    "en": "Well, we were all saved in different ways{SAUT}thanks to {f 6 1 27 0 0 0} bein' with us.{PAGE}She's our companion, and that's more{SAUT}than enough for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "Th-Thank you, Shinjiro-senpai!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Teddie",
+    "en": "That's right! We're all companions!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akihiko",
+    "en": "Considering the situation we're in,{SAUT}it's only natural that we feel down{SAUT}at times...{PAGE}But, I think we can handle it if we{SAUT}keep working together like this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Hero",
+    "en": "Me too. I can't wait to fight alongside{SAUT}everyone else.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "Same here.{OPTION}I'm not stepping down as leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "I feel like we can take down anything{SAUT}with our combined strength!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Dude, you really don't need to be{SAUT}so hung up on that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukari",
+    "en": "Well then―why don't we keep moving?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Hero",
+    "en": "Yeah. I'd better prepare for what's{SAUT}coming.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "I'm excited to see what our new{SAUT}companions can do.",
+    "fr": ""
+  }
+]

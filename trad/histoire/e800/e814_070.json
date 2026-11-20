@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "A most moving tale of two dinosaurs...{SAUT}How beautiful.{PAGE}It truly warmed my heart. In fact, I'd say{SAUT}it reached temperatures of over 2000{SAUT}degrees.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "Would there even be anythin' left{SAUT}of you...?{PAGE}Anyway, I'm just glad the little guy{SAUT}was able to find his mom.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Y'know, it may look like he doesn't care{SAUT}all that much, but Kanji had tears in his{SAUT}eyes when those two reunited.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Wha―!? The hell're you talkin' about!?{SAUT}I-I just have allergies!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "Hehe, Kanji's so easily embarrassed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Haru",
+    "en": "Well, they were only able to reunite{SAUT}thanks to everyone here.{PAGE}Thank you, Yukiko-chan, for working so{SAUT}hard to help them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "I... Haru-san...{PAGE}I'm so glad we got to meet each other.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukiko",
+    "en": "This might be a bit forward, but I{SAUT}realized we're very much alike.{PAGE}And upon realizing that, I suddenly felt{SAUT}close to you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Haru",
+    "en": "*giggle* I felt the same way.{PAGE}I was thinking about how we should{SAUT}talk some more, so I can get to know{SAUT}you better.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "I'm happy to hear that. I would very{SAUT}much like to talk more with you as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "There's no need to be so proper,{SAUT}Yukiko-chan. Let's just be good friends.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukiko",
+    "en": "Right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "Looks like you two are getting along just{SAUT}fine. Keep it up, you guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "Of course! I'll burn all of our enemies{SAUT}to a crisp!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "Don't forget about me. I'll chop down{SAUT}every last foe we come across!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Haha... Glad you two are getting{SAUT}along...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Kanji",
+    "en": "They're a pretty scary pair...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Haru",
+    "en": "Oh, that reminds me! Teddie was{SAUT}saying something about \"scoring.\"{PAGE}Were you playing a game? Do you{SAUT}think I can come along next time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "Teddie said what...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Teddie",
+    "en": "Eeeek! I-I don't know what you're{SAUT}talki―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yukiko",
+    "en": "I'll turn you to ash! Konohana Sakuya!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "Yaaargh! Here we go again!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Haru",
+    "en": "Wow, is this part of the game? Let me{SAUT}try...{PAGE}Hey, hot stuff! You wanna hike up{SAUT}a hill and chop down some trees{SAUT}with me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yosuke",
+    "en": "That's your idea of scoring!? Wait... So{SAUT}you WOULD prefer a hill!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yukiko",
+    "en": "Oh, then, how about this?{PAGE}You there! Are you willing to devote{SAUT}your life to upholding the long-standing{SAUT}history and traditions of the Amagi Inn?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "That don't sound like scorin' to me!",
+    "fr": ""
+  }
+]

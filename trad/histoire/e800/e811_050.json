@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukiko",
+    "en": "Phew, I felt like my heart was about to{SAUT}stop. What a thrill.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "It really was hidden in the Treasure{SAUT}Spot, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "So this is a Golden Crown? It certainly{SAUT}does have a dazzling shimmer to it.{PAGE}But what would a dinosaur want with{SAUT}something like this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Hmm... Maybe Seidopteras are drawn{SAUT}to the shine?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "I've heard that crows tend to collect{SAUT}shiny objects, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "Are you telling me that thing counts as{SAUT}a bird...? It's way too big.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "Well, that's one down. So now we have{SAUT}one more to go, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "The other FOE probably hid its crown in{SAUT}the same way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "Awesome, let's check it out! We did it{SAUT}once, we can do it again!",
+    "fr": ""
+  }
+]

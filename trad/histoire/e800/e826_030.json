@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Hmm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "What's wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "It looks like the road splits up ahead.{PAGE}One path continues east and makes a{SAUT}big loop to the north...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Fuuka",
+    "en": "And the other path leads due north and{SAUT}makes a smaller loop.{PAGE}Based on our position, that would be{SAUT}the shorter of the two paths.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "Shorter it is! Everyone follow me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Wait. The shortest path isn't always the{SAUT}best option.{PAGE}If experience has taught me anything,{SAUT}it's that the easy path tends to be a{SAUT}trap...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Lecture, lecture, lecture... If this were a{SAUT}complaining contest, you'd win hands{SAUT}down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "Who's complaining!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Well, I think you could make a case for{SAUT}either. Which path do you think we{SAUT}should we take, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "The shorter path.{OPTION}The longer path.{OPTION}We need more info.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Teddie",
+    "en": "See? What'd I tell you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "I knew you'd understand, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Yeah, it'd be nice if we knew a little{SAUT}more about what's waiting for us down{SAUT}each path.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Koromaru",
+    "en": "Bark, bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukari",
+    "en": "Hm? What is it, Koromaru?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Aigis",
+    "en": "He seems to be saying he can smell{SAUT}something down each path.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Chie",
+    "en": "Really? I don't smell anything.{PAGE}And I'm pretty sure I could pick up the{SAUT}smell of meat from anywhere within a{SAUT}mile and a half of this place.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yosuke",
+    "en": "There goes the meat freak... Like that's{SAUT}anything to be proud of.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ken",
+    "en": "Koromaru has a much better sense of{SAUT}smell than us, so he might actually be{SAUT}onto something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "There's no real way to tell from here.{SAUT}We'll have to get closer.{PAGE}You'll wanna get as much info as you{SAUT}can before you make a decision.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Teddie",
+    "en": "I say we check out the shorter path first!{PAGE}Let's gooo!",
+    "fr": ""
+  }
+]

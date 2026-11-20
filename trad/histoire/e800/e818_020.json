@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ken",
+    "en": "Hmm, rare materials... I feel this'll really{SAUT}test our patience.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Let's beat up every foe we see.{OPTION}We need the enemies' locations.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akihiko",
+    "en": "Yeah. If we do that, we're sure to get{SAUT}those materials eventually.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Shinjiro",
+    "en": "We'd just be wasting time. Ain't there a{SAUT}way we can go straight for the ones that{SAUT}have what we need?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mitsuru",
+    "en": "Good thinking. We'll want to seek out{SAUT}only the enemies that have the required{SAUT}materials.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Fuuka",
+    "en": "There's a large number of those{SAUT}Phantom Mages Theo mentioned{SAUT}around area 4-B.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Rise",
+    "en": "We've got a bunch of Flowing Sands in{SAUT}3-F too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mitsuru",
+    "en": "I see... Hm? There should be one more{SAUT}target.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "The Rampage Drive... It doesn't appear{SAUT}to be exclusive to any one location.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "So we'll just have to be on the{SAUT}lookout, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Yeah, but no set location means we{SAUT}could run into 'em anytime.{PAGE}Take down those Rampage Drives while{SAUT}searching for the other two enemies!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Fuuka",
+    "en": "If the materials the Shadows drop are{SAUT}tough, then it's likely they are as well.{PAGE}Be sure to use your Personas wisely, and{SAUT}give yourselves an advantage!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukari",
+    "en": "So 4-B or 3-F, right? We'll leave the{SAUT}decision to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Junpei",
+    "en": "All right, let's go!",
+    "fr": ""
+  }
+]

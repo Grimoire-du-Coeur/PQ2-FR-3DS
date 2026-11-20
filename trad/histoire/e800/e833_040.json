@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Second one down!{PAGE}So? I know I'm just gathering stuff,{SAUT}but don't I look like a star?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "And \"best actor\" goes to...{OPTION}Not really.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Hahah! See, there's a guy who knows{SAUT}quality when he sees it. Nice job,{SAUT}Junpei. Thanks, Junpei!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "*sigh* And he was complaining so{SAUT}much earlier... He sure bounced back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Oh? What, am I getting too predictable{SAUT}now? You want me to try some{SAUT}seat-of-the-pants ad-libbing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukari",
+    "en": "Nah, I don't think you need to.{SAUT}That kind of sounds like your life{SAUT}already.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "*giggle* Well, I'm glad you're having{SAUT}fun now! There's only one more place{SAUT}to search.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Heh! We've got Joker leading the way.{SAUT}This oughta be easy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "However, be sure you stay focused.{SAUT}Whatever our advantages, there are{SAUT}still more complications in place.{PAGE}For the moment, we'll have to cast{SAUT}a wide net to find the final prize.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "Aha... You're pretty levelheaded, Mitsuru.{SAUT}I was about to say the same thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Heh. Says the guy that was drooling{SAUT}over his precious treasure.{PAGE}Well, us thieves can't get lost in a{SAUT}place like this. I'm countin' on you,{SAUT}Joker!",
+    "fr": ""
+  }
+]

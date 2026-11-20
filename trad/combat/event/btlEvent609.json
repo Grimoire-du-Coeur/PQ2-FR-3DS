@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Dinosaur with headphones",
+    "en": "Oh crap... What am I gonna do?{SAUT}I fell behind...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "Just stay put and leave this to us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Dinosaur with headphones",
+    "en": "What the―Who are you guys!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "No time to explain. Please, stay back!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Defeating the enemy before us is all{SAUT}that matters right now. Let's go!",
+    "fr": ""
+  }
+]

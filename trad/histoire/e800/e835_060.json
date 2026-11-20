@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Looks like we're comin' up on the end,{SAUT}guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "About time... So this is our Easter egg,{SAUT}huh!?{PAGE}...Wait, what?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "It's just a picture.{OPTION}It's... technically an egg.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "That's all!? What about my million{SAUT}yen...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Ahaha, that's a bit of a letdown, but{SAUT}it's not all bad, right?{PAGE}Trying to find it was kinda fun. It was{SAUT}like a game.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Haru",
+    "en": "I think, now, I have a better idea of what{SAUT}Easter was like for you, Panther.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Hmm, I guess video games aren't the{SAUT}only kinds of games out there.{PAGE}I'll need to familiarize myself with the{SAUT}other, more participatory types too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Junpei",
+    "en": "Y-You think if we do it a second time,{SAUT}a secret boss will show up and drop the{SAUT}real treasure...? Maybe?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Give it up, Junpei. The game's over...",
+    "fr": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Agh―a fork in the road...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Is that... an electric gate? It seems to{SAUT}have been left wide open.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "Wait, hold on! Yosuke-senpai's reading{SAUT}isn't coming from that direction!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "I'm also curious about this gate, but we{SAUT}have to reach Yosuke-senpai as quickly{SAUT}as we can!",
+    "fr": ""
+  }
+]

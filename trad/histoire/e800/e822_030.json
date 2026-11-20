@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "How you holdin' up, Ken? Not runnin'{SAUT}outta steam, are ya?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ken",
+    "en": "*chuckle* Don't underestimate me just{SAUT}because I'm still in grade school.{PAGE}I've honed my skills in Tartarus, you{SAUT}know.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Ah, that's right.{OPTION}Tartarus?{OPTION}It's got nothing on the Palaces.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "Yeah. I've fought tons of Shadows there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Sounds a lot like Mementos and the{SAUT}Palaces.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "It's where we usually fight Shadows.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Sounds a lot like Mementos and the{SAUT}Palaces.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "Hey, we've never seen Tartarus before,{SAUT}so we can't say that for sure.{PAGE}But if it's a nest for Shadows, it's{SAUT}probably pretty similar.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ken",
+    "en": "Palaces... Is that where you do most of{SAUT}your phantom thief stuff?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "Yeah. Warped desires can cause{SAUT}someone to form a Palace in their heart.{PAGE}The core of those desires rests deep{SAUT}within that Palace... And that's the{SAUT}Treasure we're after.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ken",
+    "en": "So that's why you're called the Phantom{SAUT}Thieves that steals hearts...{PAGE}It's all so unbelievable.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "The feeling's mutual.{OPTION}You still don't believe us?{OPTION}The same goes for SEES.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "You said it. What about all that crap{SAUT}with the Tartarus and the Dark Hour?{PAGE}That sounds way more farfetched, man.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ken",
+    "en": "Well, as a member of SEES, I'm pretty{SAUT}used to hearing crazy stories...{PAGE}But all this stuff about phantom thieves{SAUT}is just...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "I get you. It does sound like something{SAUT}straight out of a comic book.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "I know, right? You're an extracurricular{SAUT}squad of students who fight Shadows{SAUT}during an hour nobody knows about...{PAGE}That sounds way crazier than anything{SAUT}on our end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "Hey, we've still got a lot of work to do.{SAUT}We'd better keep moving.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Yeah, you're right. Let's stay focused for{SAUT}these last two!",
+    "fr": ""
+  }
+]

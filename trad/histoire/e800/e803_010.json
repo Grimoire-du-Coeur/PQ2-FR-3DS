@@ -1,0 +1,91 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "The special screening this time is...{PAGE}A story about a passionate battle{SAUT}between men... A violent clash that{SAUT}could split the very earth in two!{PAGE}The rules are simple: Defeat the large,{SAUT}muscular Shadows. That is all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "Heh! Sounds like fun! I'm gettin'{SAUT}pumped just thinkin' about it!{PAGE}Hell yeah! Bring 'em on! It's Kanji time!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "You've got this.{OPTION}Settle down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Yeah, looks like you're all set. We're{SAUT}counting on you, Kanji.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Haha, let him be. He's just excited.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Wh-What?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "...Tch.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Hey, wait a sec.{PAGE}Weren't you glaring at Morgana earlier{SAUT}too?{PAGE}If you got somethin' to say, just say it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Hey, Ryuji, cut it out! Kanji-kun, you{SAUT}too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Kanji",
+    "en": "...I got nothin' to say.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "The hell's his problem?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012_1",
+    "locuteur": "Ryuji",
+    "en": "Whatever, let's get goin'. I'm itchin' to{SAUT}break somethin'.{PAGE}Those Shadows won't know what{SAUT}hit 'em. Where to?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Elizabeth",
+    "en": "The target enemies' locations are{SAUT}displayed on the ticket.{PAGE}According to this, you'll find them in{SAUT}three separate areas.{PAGE}You may want to mark them on your{SAUT}map.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "en": "The enemies' locations have been{SAUT}added to the map.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "All right, we should be okay now.{SAUT}Let's head out once we're ready!",
+    "fr": ""
+  }
+]

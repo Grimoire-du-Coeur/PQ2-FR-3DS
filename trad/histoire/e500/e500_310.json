@@ -1,0 +1,224 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Okay, that takes care of all four films!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "All that's left is to play our movie for{SAUT}all the theatergoers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "So, we're done once Oracle flips{SAUT}the switch?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Should be, yeah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "Um... I... still have something I need{SAUT}to do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "What do you need to do? Did we forget{SAUT}something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "I still want to talk to Nagi-san... to Enlil.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "You WHAT!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "The people here in these theaters may{SAUT}be able to leave...{PAGE}But I have a feeling more people like{SAUT}them will just continue to be drawn{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukari",
+    "en": "Well, we are talking about people's{SAUT}reactions to pain. These kinds of{SAUT}issues might never go away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "In the end, all we would accomplish is{SAUT}swapping out theatergoers―Enlil would{SAUT}just keep showing movies to them.{PAGE}That would be pointless, so... I want to{SAUT}tell Enlil how I feel before we leave.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_5",
+    "locuteur": "Hikari",
+    "en": "I want her to know why I was able to{SAUT}change, and what the \"salvation\"{SAUT}I needed really was.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "You should do that.{OPTION}She may not listen...{OPTION}Do what you want.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "Mmhm! I'll definitely try, at least.{PAGE}After all, you're the ones who taught me{SAUT}to never give up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "True. It's highly likely that we'll end up{SAUT}fighting her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "Even still... I don't want to regret{SAUT}anything I do anymore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "You've gotten pretty good at asserting{SAUT}yourself, Hikari. Not bad at all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Hikari",
+    "en": "Well, you're the ones who taught me{SAUT}to never give up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "Would she listen to you, though? It's{SAUT}highly likely that another confrontation{SAUT}with her will result in a fight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "Even still... I don't want to regret{SAUT}anything I do anymore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "You've gotten pretty good at asserting{SAUT}yourself, Hikari. Not bad at all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Hikari",
+    "en": "Well, you're the ones who taught me{SAUT}to never give up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha! You know, that's true!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Well, that plan sounds good to me.{SAUT}Let's go show Enlil what's up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akihiko",
+    "en": "Yeah―she's not getting the better of me{SAUT}anymore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Teddie",
+    "en": "Me too, me too! I'll tag along to the very{SAUT}end!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Shinjiro",
+    "en": "None of us came this far with{SAUT}half-assed intentions...{PAGE}There's no way we can just turn tail{SAUT}without showin' her we mean{SAUT}business.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Hikari",
+    "en": "Everyone...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_027",
+    "choix": true,
+    "en": "Let's do this.{OPTION}Just some finishing touches first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P3 Hero",
+    "en": "So many hopes are on the line here...{SAUT}So many people's futures.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P4 Hero",
+    "en": "Is everyone else ready?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yosuke",
+    "en": "Yeah, I'm good whenever!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Junpei",
+    "en": "Same here! If I were to back down now,{SAUT}I'd feel like less of a man.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Mitsuru",
+    "en": "We all seem to be prepared.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Fuuka",
+    "en": "Go ahead and prepare as much as you{SAUT}can―we'll be here to give you the best{SAUT}support possible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Futaba",
+    "en": "Listen up, everybody: we're gonna{SAUT}square off with Enlil. Make sure we're{SAUT}fully prepared, okay?{PAGE}Whenever you think we're ready,{SAUT}it's time to find Enlil and let Hikari{SAUT}give her a piece of her mind!",
+    "fr": ""
+  }
+]

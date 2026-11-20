@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "All right then... Where should we start{SAUT}looking?{PAGE}I mean this place is huge, so we don't{SAUT}want to just wander around aimlessly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Mitsuru",
+    "en": "Agreed. We were told that the \"flowers\"{SAUT}would be a clue. So let's start with them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Hero",
+    "en": "Well, except there are \"flowers\"{SAUT}everywhere you look.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Can you sense anything, Hikari? Even{SAUT}just a vague direction?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "Um... Sorry, I don't feel anything...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "???",
+    "en": "Hey hey. Have you heard the news?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "???",
+    "en": "Now, now. You couldn't possibly be{SAUT}talking about the \"black thing,\" right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "???",
+    "en": "Hahaha... Yes, I heard those rumors!{SAUT}I heard all about the \"black thing\" that{SAUT}girl was carrying, yes sirree!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "???",
+    "en": "Hohoho... Let me assure you, it is I{SAUT}who knows all about the \"black thing\"{SAUT}the girl was carrying!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P4 Hero",
+    "en": "Those voices! Where are they{SAUT}coming from?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosuke",
+    "en": "We've gotta find out!",
+    "fr": ""
+  }
+]

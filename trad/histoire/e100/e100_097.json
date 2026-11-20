@@ -1,0 +1,184 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Ryuji's hand passed right through{SAUT}the movie screen...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "M-My hand!?{PAGE}My hand, like, went INTO the screen!{PAGE}That really happened, right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "This is absolutely unbelievable...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Hold on a sec. If Makoto and Haru were{SAUT}with us inside the movie earlier...{PAGE}Does that mean we left them behind{SAUT}in that place on the other side of the{SAUT}screen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Nagi",
+    "en": "I'm afraid that appears to be the case...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "Basically, if we wanted to rescue them,{SAUT}our only option is to go back inside{SAUT}the film.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "We gotta go save 'em! Right,{SAUT}{f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "Of course we do.{OPTION}Let's hurry up and go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "All right, then let's get to―Wait, are we{SAUT}supposed to just... jump in?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Oh―Nagi-san...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Nagi",
+    "en": "What's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "She's whispering to Nagi again...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Nagi",
+    "en": "Hikari-san is terribly worried about{SAUT}your safety.{PAGE}Since it's dangerous inside the movie,{SAUT}she thinks it may be safer for you{SAUT}to stay here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Thanks for the warning, but that danger{SAUT}only makes us more worried about 'em.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Yeah! We have to get in there ASAP{SAUT}for our friends!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Hikari",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Hikari",
+    "en": "For your friends?{PAGE}......{PAGE}But, friends are...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "...Hikari?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "Okay! Everybody, brace yourselves,{SAUT}we're jumpin' in! 3, 2, 1―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Hikari",
+    "en": "W-Wait!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "Whoa! What's up now!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Uhh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari",
+    "en": "Um―please wait a second...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "en": "Hikari is consulting with Nagi about{SAUT}something...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Hikari",
+    "en": "...Is that okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Nagi",
+    "en": "Yes, I understand...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Nagi",
+    "en": "Hikari-san is still worried about you...{PAGE}So she's asked me to lend you my help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yusuke",
+    "en": "Do you have anything in mind that{SAUT}could benefit us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Nagi",
+    "en": "Indeed, I may be able to offer some{SAUT}assistance. Won't you please follow{SAUT}me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "en": "Nagi's heading towards the concession{SAUT}stand...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Morgana",
+    "en": "If she's gonna help us, then let's see{SAUT}what she's up to before we get back{SAUT}in the movie.",
+    "fr": ""
+  }
+]

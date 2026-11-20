@@ -1,0 +1,82 @@
+[
+  {
+    "id": "BTL_MES_005_000",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_001",
+    "en": "We can't afford to lose here!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_003",
+    "en": "We may want to not fight{SAUT}this one...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_005",
+    "en": "It's an FOE... But we might{SAUT}be able to take this one.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_006",
+    "en": "Looks like a rare Shadow.{SAUT}This is our chance.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_011",
+    "en": "This enemy's pretty strong...{SAUT}What should we do?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_013",
+    "en": "We've never seen this before...{SAUT}What could its weakness be?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_015",
+    "en": "Do you think we can win?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_017",
+    "en": "I shouldn't have any trouble{SAUT}burning these.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_019",
+    "en": "Huh? I feel like something's{SAUT}changed...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_022",
+    "en": "Well... This is definitely bad,{SAUT}isn't it?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_053",
+    "en": "Hehe! Let's keep this going.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_055",
+    "en": "Hey, anyone mind if I go for{SAUT}its weakness?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_056",
+    "en": "Maybe we try a Baton Pass?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_057",
+    "en": "Leave it to me! I'll incinerate{SAUT}everything!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_005_086",
+    "en": "Amazing... Power is welling{SAUT}up from within me!",
+    "fr": ""
+  }
+]

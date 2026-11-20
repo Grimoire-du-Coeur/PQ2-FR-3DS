@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Okay, let's go over the plan one more{SAUT}time.{PAGE}We're looking for dinosaur bones left{SAUT}behind by the Ravenous Beast.{PAGE}If we can find a fresh set of bones, then{SAUT}it should be close by!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "I'll be examining the bones, so that{SAUT}part's covered.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "......?{PAGE}What's wrong, Koromaru-kun?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "He wants to help.{OPTION}He's hungry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "Yeah, looks like it. He says he's good at{SAUT}tracking.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "No... It looks like he wants to help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Haha, I see. That's reassuring.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "Huh, they do kinda look like they go{SAUT}together―like an investigator and a{SAUT}police dog!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "Ahaha, you think so? Well then, I'm{SAUT}counting on you, Koromaru-kun.{PAGE}Do you think you can lead us to some{SAUT}bones right now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Koromaru",
+    "en": "*sniff* *sniff*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "Um, does that mean...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ken",
+    "en": "It sounds like we should head east.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akechi",
+    "en": "I see. That's a rather keen sense of smell.{SAUT}Shall we get going, then?",
+    "fr": ""
+  }
+]

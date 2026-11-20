@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Hikari",
+    "en": "Ah... That was...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "Wh-What was that? Was that a part of{SAUT}Hikari-chan's memories too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Yes, that was also from her time in{SAUT}elementary school. The speaker called{SAUT}her \"Hikari.\"{PAGE}And since she called him \"Dad,\" that{SAUT}would mean...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "Ah... My... Nngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Are you okay, Hikari? If it's too much{SAUT}for you, just take it easy. Don't push{SAUT}yourself too hard here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "I-I'm sorry. I'm just so confused...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "Since this movie is based on her{SAUT}own recollections, the memories{SAUT}could be muddled or inaccurate.{PAGE}It may be best to avoid forcing her to{SAUT}remember things, and just let it happen{SAUT}naturally.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "It's okay to take it a bit at a time,{SAUT}Hikari-chan. We'll retrace the past{SAUT}at your own pace, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "Mmhm, thanks... I'm good to go now,{SAUT}though.",
+    "fr": ""
+  }
+]

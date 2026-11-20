@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akihiko",
+    "en": "We've finally got it cornered.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Give it up and come quietly!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "It was a lot of trouble, but now{SAUT}that we're here, there's only one{SAUT}thing left to do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "I'm ready. Let's do this! You good{SAUT}to go, Chie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "Sure am! Don't think, feel! Right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "Good to hear. I'll back you up!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Let's go.{OPTION}Charge!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akihiko",
+    "en": "Heh, I've been waiting for this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "Hiiiyah!",
+    "fr": ""
+  }
+]

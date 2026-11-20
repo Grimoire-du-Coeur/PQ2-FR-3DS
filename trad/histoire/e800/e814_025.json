@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "Oh, I just remembered. Did you happen{SAUT}to see any places covered in vines{SAUT}around here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "You mean those doors with the vines{SAUT}up top?{PAGE}If that's what you're talking about,{SAUT}I saw plenty of those when I was{SAUT}separated from you guys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "Mhm. There should be medicinal herbs{SAUT}growing just past those vines.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukiko",
+    "en": "Wow, Noir, I didn't know you knew so{SAUT}much about plants.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "I'm just around them often. I'm nothing{SAUT}compared to the experts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "It is amazing, though. She's always{SAUT}getting herself covered in mud taking{SAUT}care of the school's flower beds.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Not only that, but she's been growing{SAUT}her own vegetable garden as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P4 Hero",
+    "en": "She grows her own vegetable garden...?{SAUT}I'd like to hear more about that{SAUT}sometime.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kanji",
+    "en": "Y'know, she don't seem like the{SAUT}daughter of a big company president.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosuke",
+    "en": "Yeah, but... it's cool. I think that's{SAUT}what makes her so great!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Teddie",
+    "en": "Such a beautiful and kind-hearted girl...{SAUT}Her compassion is truly moving!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "Y-You guys are over-exaggerating...{PAGE}It's nothing noble like that. I just do it{SAUT}because I want to...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukiko",
+    "en": "...Well, I'm jealous you have something{SAUT}you can be passionate about.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Haru",
+    "en": "...Yukiko-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "Oh, sorry. I'm just thinking aloud.{PAGE}We have to find the dinosaur and{SAUT}protect him. Let's hurry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "......!{PAGE}Hey, do you guys hear that? That cry...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yukiko",
+    "en": "Yeah! It's coming from over there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Rise",
+    "en": "There's something to the northeast!{SAUT}I'm surprised you guys noticed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Haru",
+    "en": "Let's go, Joker. He needs our help.",
+    "fr": ""
+  }
+]

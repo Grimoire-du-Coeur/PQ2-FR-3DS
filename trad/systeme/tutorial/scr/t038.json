@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "In special screenings, as your allies' bond{SAUT}grows, they may acquire {f 0 1 2}Unison Skills{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "A Unison Skill is like a follow-up attack,{SAUT}but performed by certain party members{SAUT}rather than back-up members. Unison{SAUT}Skills can have dramatic results such as{SAUT}{f 0 1 2}heavy damage{f 0 1 0} or {f 0 1 2}a high chance of{SAUT}enemy knockdowns{f 0 1 0}.{PAGE}The more Unison Skills your team{SAUT}acquires through ally bonds, the higher{SAUT}the chance of actually being able to use{SAUT}one. Acquire Unison Skills by taking on{SAUT}the challenge of {f 0 1 2}special screenings{f 0 1 0}!",
+    "fr": ""
+  }
+]

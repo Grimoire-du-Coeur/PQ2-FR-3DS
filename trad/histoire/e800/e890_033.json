@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Welcome to the Velvet Room.{PAGE}Hmhm... I must say, donning the{SAUT}uniform has done wonders to{SAUT}prepare my mind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Hero",
+    "en": "Elizabeth... You're getting serious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Yes. Naturally.{PAGE}I can only thank fate for bringing us{SAUT}together. With gratitude, I shall{SAUT}make this a fierce bout indeed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "What an immense presence...{SAUT}I've never seen her like this...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "I am she who governs power.{PAGE}If you would overcome me, then{SAUT}show me the full scope of your{SAUT}strength.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. We're going to win this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Elizabeth",
+    "en": "Should you succeed, I know without{SAUT}a doubt that you shall discover new{SAUT}possibilities within yourselves.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "We'll use all our power.{OPTION}Go easy on us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* I can ask for nothing more.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* Unfortunately, I lack the{SAUT}talent for such restraint.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elizabeth",
+    "en": "Truly, I cannot remember feeling{SAUT}such elation... not since I first began{SAUT}serving my master.{PAGE}Somehow, you bearers of potential{SAUT}have defied time and space, and you{SAUT}now stand shoulder-to-shoulder.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_1",
+    "locuteur": "Elizabeth",
+    "en": "I shall give you an honorable fight.{SAUT}A battle befitting one who governs{SAUT}power.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_2",
+    "locuteur": "Elizabeth",
+    "en": "Now then... here I come!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Elizabeth",
+    "en": "Welcome back. Now, let the ringside{SAUT}bell ring. Our rematch begins now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011_1",
+    "locuteur": "Elizabeth",
+    "en": "Come on, {f 6 1 30 0 0 0}! If you can't do it,{SAUT}no one can! The revenge match{SAUT}starts now!",
+    "fr": ""
+  }
+]

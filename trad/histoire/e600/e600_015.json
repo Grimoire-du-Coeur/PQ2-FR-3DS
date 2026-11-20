@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Hikari's father",
+    "en": "Wha―!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "Eek! I-I'm sorry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari's father",
+    "en": "What's going on? You're usually not{SAUT}so worked up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "U-Um... I wanted talk to you, Dad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari's father",
+    "en": "Did something good happen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari's father",
+    "en": "Well, you're practically beaming.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "I don't really remember, but... I feel like{SAUT}I had the most amazing dream.{PAGE}It was fun, and exciting, but I also feel{SAUT}like... it was a really significant dream...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari's father",
+    "en": "I see... Sounds like it was a real treat.{PAGE}That's the same smile you get when you{SAUT}watch a great movie. It's the smile{SAUT}I love most.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Movie...{PAGE}Hey, Dad? I'm going to keep working on{SAUT}that movie that I had been shooting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari's father",
+    "en": "I thought you weren't going to shoot{SAUT}movies ever again...{PAGE}But, you've changed your mind. That's{SAUT}great... Great.{PAGE}I'll be your number one fan, Hikari.{SAUT}You've been wanting to make one{SAUT}since you were so young.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Hikari",
+    "en": "Mmhm. I swear I'll finish it, so I hope{SAUT}you'll look forward to watching it.{PAGE}And, ah... There's a whole bunch more{SAUT}that I want to tell you.{PAGE}...Do you want to hear it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari's father",
+    "en": "Hahaha... Well, you can tell me all{SAUT}about it over a cup of coffee.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Hikari",
+    "en": "Okay! So, to start off...",
+    "fr": ""
+  }
+]

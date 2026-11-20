@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "Hey, where are you going? We need to{SAUT}go get some meat from the freezer{SAUT}container.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Yeah, we better get over there! It'd be{SAUT}just awful if someone swiped it before{SAUT}we could!{PAGE}After all, it's the law of the jungle out{SAUT}here―first come, first serve! The moment{SAUT}we turn our backs, it's goodbye, meat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Uh, you're probably the only one in this{SAUT}whole movie who's that obsessed with{SAUT}meat...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "When will we be able to sample this{SAUT}meat we speak of? My stomach won't{SAUT}stop growling.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "I guess we've got TWO meat freaks{SAUT}now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Looks like we shouldn't get sidetracked―{SAUT}let's head straight to that freezer{SAUT}container.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "Why don't we avoid getting sidetracked{SAUT}and just head straight to the freezer{SAUT}container?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P4 Hero",
+    "en": "Hold on. Let's take this opportunity to{SAUT}look for a place to cook the meat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Yeah, we need a spot with a water{SAUT}source nearby for cooking. Lead{SAUT}the way, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "Hey, that's not the way. We're looking{SAUT}for a spot with a water source nearby{SAUT}for cooking.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": "THEODOR_FOE_FOLLOW_START",
+    "en": "Everyone, an FOE is pursuing you.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_FOLLOW_START#2",
+    "en": "Alas, it seems the FOE noticed you.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_FOLLOW_START#3",
+    "en": "Huh!? Oh, I beg you to be careful!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_NEAR_1",
+    "en": "Everyone, caution is required of you!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_NEAR_2",
+    "en": "Everyone, please note there is an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_NEAR_3",
+    "en": "*gasp* This could prove disastrous.{SAUT}Please be careful!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_FOLLOW_END_1",
+    "en": "It seems the FOE has lost its will to{SAUT}harry you.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_FOLLOW_END_2",
+    "en": "Well done. I'm quite impressed.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_FOLLOW_END_3",
+    "en": "You've succeeded in putting distance{SAUT}between you and the FOE.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KANSI_REACTION_1",
+    "en": "You should proceed without allowing{SAUT}exposure by the lights.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KANSI_REACTION_2",
+    "en": "Keep going as quietly as possible.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KANSI_REACTION_3",
+    "en": "Please avoid those lights.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_DENKISAKU_REACTI",
+    "en": "You won't be able to proceed unless{SAUT}you stop its current.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_DENKISAKU_REACTI#2",
+    "en": "There must be a switch thereabouts...",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_DENKISAKU_REACTI#3",
+    "en": "An electric gate... This reminds me of{SAUT}my sister's―nevermind, it's nothing.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KYOUHU_REACTION_",
+    "en": "Beware the gusts of wind!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KYOUHU_REACTION_#2",
+    "en": "Why, perhaps you could ride the{SAUT}wind?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KYOUHU_REACTION_#3",
+    "en": "Oh! Such a terrible gale!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_STAIR_FIND_1",
+    "en": "Sister, I do believe the stairs are just up{SAUT}ahead...",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_STAIR_FIND_2",
+    "en": "Yes, those are stairs!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_STAIR_FIND_3",
+    "en": "Impressive, Sister. You have such keen{SAUT}powers of observation.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TREASURE_FIND_1",
+    "en": "A reward in the form of a treasure{SAUT}box!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TREASURE_FIND_2",
+    "en": "I'm quite curious as to the contents of{SAUT}the treasure box.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TREASURE_FIND_3",
+    "en": "Ah, a treasure box. I must say I'm{SAUT}excited to see what's inside.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_CHECK_WALL_1",
+    "en": "Oh, there's something intriguing over{SAUT}there!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_CHECK_WALL_2",
+    "en": "What's that? Would you see about it?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_CHECK_WALL_3",
+    "en": "I believe there is something nearby.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_SWITCH_FIND_1",
+    "en": "There's a switch. What will we do?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_SWITCH_FIND_2",
+    "en": "Shall we try pressing that switch?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_SWITCH_FIND_3",
+    "en": "It seems that is a switch over there.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_SHORTCUT_FIND_1",
+    "en": "This wall... I feel there's more to it than{SAUT}meets the eye.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_SHORTCUT_FIND_2",
+    "en": "Why don't we check that wall there?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_SHORTCUT_FIND_3",
+    "en": "There may be unknown properties{SAUT}about the wall up ahead.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_DEAD_1",
+    "en": "E-Everyone!? Are you all right!?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_DEAD_2",
+    "en": "Please consider returning here.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_DEAD_3",
+    "en": "You should first heal yourselves.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_WARNING_NEAR",
+    "en": "The FOE is still quite determined to{SAUT}catch you, I'm afraid.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_WARNING_NEAR#2",
+    "en": "It just won't give up...",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_FOE_WARNING_NEAR#3",
+    "en": "Everyone, please use as much caution{SAUT}as you can manage.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_HPTP10_1",
+    "en": "Sister, please calm down. They just{SAUT}need to regroup and heal themselves.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_HPTP10_2",
+    "en": "I'm concerned about your levels of{SAUT}exhaustion. You should return.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_HPTP10_3",
+    "en": "It seems my sister wishes for you to{SAUT}return.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_HP10_1",
+    "en": "Everyone's health is rather depleted.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_HP10_2",
+    "en": "You should consider healing{SAUT}immediately.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_HP10_3",
+    "en": "Please prioritize healing your wounds.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HPTP10_1",
+    "en": "Aren't your health and stamina{SAUT}running quite low?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HPTP10_2",
+    "en": "Why not heal yourself at this time?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HPTP10_3",
+    "en": "It seems you're barely able to stand...{SAUT}Perhaps you should heal yourself?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_TP10_1",
+    "en": "Everyone's energy is running low...{SAUT}Do you want to address that?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_TP10_2",
+    "en": "You should change your strategy due{SAUT}to your declining energy.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_PARTY_TP10_3",
+    "en": "Well said, Sister! That is wonderful{SAUT}advice!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HP10_1",
+    "en": "Please be cautious about your health.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HP10_2",
+    "en": "I ask that you first heal yourself.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HP10_3",
+    "en": "Are you stable in regards to your{SAUT}health?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_TP10_1",
+    "en": "I suggest that you change your battle{SAUT}tactics.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_TP10_2",
+    "en": "Do you have enough energy to pull{SAUT}through this?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_TP10_3",
+    "en": "Have you addressed your energy{SAUT}needs?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_ITEM_90_BATTLE_1",
+    "en": "Sister!? Did you toss out my treasured{SAUT}possessions!?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_ITEM_90_BATTLE_2",
+    "en": "Isn't your inventory a bit full?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_ITEM_90_BATTLE_3",
+    "en": "Please come by my shop if you need{SAUT}to sort through your belongings.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HP80_1",
+    "en": "Everyone, amazing work, truly!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HP80_2",
+    "en": "S-Sister!? Please refrain from flailing{SAUT}your arms like that!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_1PERSON_HP80_3",
+    "en": "Sister? Perhaps it's best if you{SAUT}keep your dance of joy to yourself...",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_ITEM_90_DUNGEON_",
+    "en": "Sister!? Did you toss out my treasured{SAUT}possessions!?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_ITEM_90_DUNGEON_#2",
+    "en": "Isn't your inventory a bit full?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_ITEM_90_DUNGEON_#3",
+    "en": "Please come by my shop if you need{SAUT}to sort through your belongings.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_DUNGEON_START_1",
+    "en": "...And me, Th-Theodore, who will act{SAUT}as your navigators.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_DUNGEON_START_2",
+    "en": "And her brother, Theodore. Please go{SAUT}easy on us.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_DUNGEON_START_3",
+    "en": "Well then, let's begin our exploration.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_QUEST_START_1",
+    "en": "The special screening has begun.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_QUEST_START_2",
+    "en": "My sister and I will accompany you{SAUT}through to its finale.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_QUEST_START_3",
+    "en": "Shall we begin?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_25_1",
+    "en": "Looks like you've only just begun{SAUT}traversing this floor.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_25_2",
+    "en": "There's probably more to come.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_50_1",
+    "en": "How fortuitous... You've reached the{SAUT}halfway point.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_50_2",
+    "en": "You've made it halfway. You are clearly{SAUT}the right ones for this job.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_75_1",
+    "en": "Only a smidgen of unexplored floor{SAUT}remains.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_75_2",
+    "en": "A teensy bit more and this map is{SAUT}complete!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_100_1",
+    "en": "Amazing! The map is complete!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_TOUHA_100_2",
+    "en": "The map is complete. You've done{SAUT}well.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_ICON_ALL",
+    "en": "You're drawing the map quite{SAUT}precisely.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_ICON_ALL#2",
+    "en": "Sister... Is that true...?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_ICON_KAI",
+    "en": "You have an excellent grasp of where{SAUT}the stairs are.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_ICON_KAI#2",
+    "en": "Huh!? Sister, I haven't prepared{SAUT}anything of the sort!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_CHANGE_C",
+    "en": "What amazing artistic taste.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_CHANGE_C#2",
+    "en": "I look forward to seeing the map in its{SAUT}final, glorious incarnation.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_ICON_DEL",
+    "en": "Sister!? You intend on discarding me!?",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_ICON_DEL#2",
+    "en": "It's always best to go back and right{SAUT}one's mistakes.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_MEMO_1",
+    "en": "That attention to detail is splendid.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_MAPPING_MEMO_2",
+    "en": "Ah, good, you're noting it down.",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KARITORU_ENCOUNT",
+    "en": "I wish this wasn't true, but there's a{SAUT}Reaper coming!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KARITORU_ENCOUNT#2",
+    "en": "A Reaper is gravitating toward you.{SAUT}Please take care!",
+    "fr": ""
+  },
+  {
+    "id": "THEODOR_KARITORU_ENCOUNT#3",
+    "en": "I'm sensing something, and it's most{SAUT}certainly a Reaper!",
+    "fr": ""
+  }
+]

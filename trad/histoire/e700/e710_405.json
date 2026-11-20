@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Looks like that Kamoshida Square is{SAUT}on the other side of these gates.{PAGE}I'm getting readings of Queen and Noir...{SAUT}and Kamoshidaman, too.{PAGE}Be careful, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Yeah, I doubt he'd just pleasantly hand{SAUT}those two over to us...{PAGE}He'll most likely be a tough opponent,{SAUT}so we could potentially benefit from{SAUT}heading back and regrouping first.{PAGE}We'll leave that decision to you, Joker―{SAUT}what should we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Beyond these gates is Kamoshida Square.{PAGE}I'm getting readings of Queen and Noir...{SAUT}and Kamoshidaman, too.{PAGE}Are you really ready to do this?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Let's go.{OPTION}Not yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Okay, then―everyone, follow Joker's{SAUT}lead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "We can't be too cautious, after all. Let's{SAUT}make sure we charge in fully prepared.",
+    "fr": ""
+  }
+]

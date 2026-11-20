@@ -1,0 +1,247 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Within A.I.G.I.S., Zone 1...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Now that we're actually in here, wow...{SAUT}This looks so different from Yasoinaba!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "It's like the entire world is made with{SAUT}CGI. It's all so flat and uniform.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Gah! What's happening...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Security interface",
+    "en": "ID VERIFICATION IN PROGRESS...{SAUT}VERIFICATION ERROR!{PAGE}NO RECORDS FOUND. REGISTERING{SAUT}NEW MODELS...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Verification? New models?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Security interface",
+    "en": "REGISTERING INDIVIDUAL ID{SAUT}NUMBERS: TK-00 THROUGH 08―{SAUT}YS-00 THROUGH 07― IW-00...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "Assigning serial numbers as identities?{SAUT}That's pretty standard fare for dystopian{SAUT}sci-fi settings.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "Daaaamn, this place really is just like{SAUT}a sci-fi movie! I mean, that's exactly{SAUT}what it is―but still!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "It's like a techno-wonderland!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "Sci-fi settings are fun because they have{SAUT}such distinct style. I think I understand{SAUT}how people can get so into them.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "Are you a film buff?{OPTION}Yeah, they're great.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukiko",
+    "en": "Mmhm―not just sci-fi ones, though.{SAUT}I watch all sorts of genres.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Makoto",
+    "en": "That's somewhat surprising. I had{SAUT}imagined Yukiko-san to be more{SAUT}traditional...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "Well, Yukiko's sort of a... bundle of{SAUT}surprises. Yeah.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukiko",
+    "en": "Huh? What's that mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P4 Hero",
+    "en": "It means we shouldn't judge people{SAUT}based on their appearances...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "Indeed. The geometric architecture is{SAUT}a marriage of beauty and function...{SAUT}It makes my heart dance with glee!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Kanji",
+    "en": "It's kinda fun thinkin' about this stuff―{SAUT}like, what do people in the future eat?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Chie",
+    "en": "Ooh, yeah, yeah! I'm totally curious!{SAUT}Do you think I could get, like, some{SAUT}kind of synthetic beef bowl?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Makoto",
+    "en": "The trailer said this is a post-humanity{SAUT}society, so I can't imagine that there's{SAUT}any food to be found here.{PAGE}This world's technology is cutting-edge,{SAUT}but it's all so artificial-feeling, too...{SAUT}It's rather eerie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Haru",
+    "en": "A sci-fi world, huh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Morgana",
+    "en": "You all right, Noir?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Haru",
+    "en": "Yeah―this place just reminded me of{SAUT}my father's Palace...{PAGE}But, I'm getting used to it now.{SAUT}Thanks for asking.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Teddie",
+    "en": "So―time to start changing this movie!{SAUT}Which way should we go?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "I guess we should start by looking for{SAUT}that robot with the red ribbon...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ann",
+    "en": "Well, we can't just wander around{SAUT}looking for her with these enemies{SAUT}all over... What are we gonna do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Teddie",
+    "en": "Are you on edge, Ann-chan? I have{SAUT}a free hand, if you'd like to hold it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "Back off, bear! You're not pawing up{SAUT}Panther on MY watch!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Teddie",
+    "en": "Ohhhh, alriiiight. We can each hold{SAUT}one of her hands to make it fair.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Morgana",
+    "en": "Eh? Well... I guess that's fine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ann",
+    "en": "No! Uh... Our heights are way too{SAUT}different. It would hurt my back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Morgana",
+    "en": "Noooo...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "P4 Hero",
+    "en": "Um―back to the movie, though...{PAGE}Are there any objections to searching{SAUT}for that robot with a ribbon first?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Naoto",
+    "en": "None here. That robot most likely holds{SAUT}the key to this particular movie.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_035",
+    "choix": true,
+    "en": "No objections here, either.{OPTION}I want a synthetic beef bowl first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P3 Fem Protag",
+    "en": "Then it's decided! Let's try and find her{SAUT}as quickly as possible!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Akechi",
+    "en": "Haha... That reminds me, do you know{SAUT}what the standard ingredient is for{SAUT}manufactured meat in sci-fi films?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Chie",
+    "en": "Ooh, what is it? Now I'm even more{SAUT}curious!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Naoto",
+    "en": "Why, ah... Why don't we talk about that{SAUT}later? Let's focus on the search for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Morgana",
+    "en": "C'mon, let's move out! Keep your guard{SAUT}up, folks!",
+    "fr": ""
+  }
+]

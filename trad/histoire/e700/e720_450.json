@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hey, Rise-chan! Are we going{SAUT}the right way?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "Sure are! Just keep going straight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Hm? Hey, what's that over there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Aw, seriously!? What the hell? There's a{SAUT}bunch of damn trees blockin' our way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Joker, look here...{PAGE}There are large claw marks at the bases{SAUT}of these trees.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "They look freshly made.{OPTION}Dinosaur markings?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "Yeah, it seems they weren't kidding{SAUT}about being through with us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Wait, are you saying that the herbivores{SAUT}are blocking our path on purpose!?{PAGE}But, why?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Yeah, and they look relatively new...{SAUT}It appears that they've intentionally{SAUT}blocked our path.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukiko",
+    "en": "Hmm... That must mean they really{SAUT}don't want us to follow them, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Kanji",
+    "en": "Who cares!? We can't back off now,{SAUT}after all this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "Although, look at these huge trees,{SAUT}mowed down so easily... These truly{SAUT}are real dinosaurs we're after.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Y'know, that's a good point―we could{SAUT}be in some deep shit if we piss 'em off...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Makoto",
+    "en": "Just as a diamond on a dung heap is{SAUT}still a diamond... as timid as they{SAUT}may be, they're dinosaurs nonetheless.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "This is gonna be a real hassle, but I guess{SAUT}we've just gotta look for another way{SAUT}around this.",
+    "fr": ""
+  }
+]

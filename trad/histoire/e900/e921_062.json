@@ -1,0 +1,13 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Thus concludes the preparations of{SAUT}your very own P-Book.{PAGE}Feel free to make changes to it{SAUT}whenever the mood strikes you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "To begin using StreetPass, select{SAUT}{f 0 1 2}StreetPass Setting{f 0 1 0} from the menu.",
+    "fr": ""
+  }
+]

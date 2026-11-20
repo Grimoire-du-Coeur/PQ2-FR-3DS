@@ -1,0 +1,25 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Meanwhile...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Voice from monitor",
+    "en": "I have grown mother-bored with your{SAUT}resistance! Choose now: conform to{SAUT}system specifications or be eliminated!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Blue-eyed girl",
+    "en": "I will not permit you to destroy us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Blue-eyed girl",
+    "en": "Don't worry. I will protect you―no{SAUT}matter the cost.",
+    "fr": ""
+  }
+]

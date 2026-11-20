@@ -1,0 +1,50 @@
+[
+  {
+    "id": "WSHOP_1ST_IN_MES_NAG",
+    "locuteur": "Nagi",
+    "en": "Ah, you're here. May I have a moment{SAUT}of your time?",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_1ST_IN_MES_NAG_1",
+    "locuteur": "Nagi",
+    "en": "I noticed something curious amongst{SAUT}the merchandise, and I wish to tell you{SAUT}about it.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_1ST_IN_MES_NAG_02",
+    "locuteur": "Ryuji",
+    "en": "Oh, yeah? Let's see it!",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_1ST_IN_MES_NAG_03",
+    "locuteur": "Nagi",
+    "en": "Of course. It is called a{SAUT}{f 4 4 4 0 1333}...{PAGE}The description lists it as an {f 0 1 2}item to{SAUT}return to the theater{f 0 1 0}.{PAGE}Perhaps it could be of use...?",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_1ST_IN_MES_NAG_03_",
+    "locuteur": "Nagi",
+    "en": "If it pleases you, by all means, take one.{SAUT}It's on the house.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_1ST_IN_MES_NAG_04",
+    "locuteur": "Ann",
+    "en": "Huh? So using this'll bring us back{SAUT}to the theater?",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_1ST_IN_MES_NAG_05",
+    "locuteur": "Akechi",
+    "en": "Securing an escape route is important;{SAUT}it may be best to have one on hand{SAUT}before we head out.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_1ST_IN_MES_NAG_06",
+    "locuteur": "Nagi",
+    "en": "If you find it useful, please consider{SAUT}purchasing them from here on in.",
+    "fr": ""
+  }
+]

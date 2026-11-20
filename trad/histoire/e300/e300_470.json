@@ -1,0 +1,373 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Inside the air duct...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ken",
+    "en": "I-It's much darker in here than I thought.{SAUT}I can't see anything in front of me at all...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Hero",
+    "en": "To think we'd sneak through a tiny duct{SAUT}like this... This is a pretty rare{SAUT}experience.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "It may be a bit presumptuous of me,{SAUT}but this really makes me feel like we're{SAUT}phantom thieves!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "This is pretty exhilarating.{OPTION}This isn't all that common for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "C'mon, you're always doing this kinda{SAUT}stuff, Joker.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Hero",
+    "en": "Is that so? I thought this was your usual{SAUT}kind of thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Yeah, we do this all the time. It's to the{SAUT}point that we could be called Duct{SAUT}Masters.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "It truly is pitch black in this duct,{SAUT}though... It'd be a big help if we{SAUT}had some kind of light source.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "Hmm, some kind of light source...{SAUT}Got any bright ideas, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Oracle's goggles.{OPTION}What about Aigis' functions?{OPTION}Use your fire, Panther.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "I only have the one pair. And,{SAUT}unfortunately, they're designed{SAUT}specifically for me...{PAGE}But I'll let you know if I find anything{SAUT}useful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukiko",
+    "en": "Ooh, do your eyes shine like headlights?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Aigis",
+    "en": "I apologize―I lack any form of headlight{SAUT}function.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "Wait, wait, wait! We can't use fire in{SAUT}an enclosed space like this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukiko",
+    "en": "Will her fire be enough, though? I can{SAUT}help out if you need it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Aigis",
+    "en": "I do not recommend using fire here―{SAUT}we are guaranteed to be cooked alive{SAUT}within this air duct.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "Hrgh, it's so dark and scary... Are we{SAUT}near the exit yet? Can we just get this{SAUT}over with?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Chie",
+    "en": "Ack! S-Something touched my face!{SAUT}It was all hairy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Oh, that was you, Koro-chan?{SAUT}*sigh* That scared me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Huh? But, I thought Koromaru was{SAUT}in front of me―there's somethin' fluffy{SAUT}touchin' my face...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yusuke",
+    "en": "That's me. Fox.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ryuji",
+    "en": "Waaaaaagh!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Kanji",
+    "en": "Hey, what's going on up th―{PAGE}―Mmph!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Morgana",
+    "en": "Mew!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Kanji",
+    "en": "Wh-Whoaa... So soft...{PAGE}Such soft, fluffy fur on my face...{SAUT}I'm in heaven...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Morgana",
+    "en": "Mrooowgh! Stop it! Quit rubbing your{SAUT}face on my butt!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Kanji",
+    "en": "Ow! Don't kick me like that!{PAGE}Oh... But damn, those paw pads...{SAUT}Try kickin' me again...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "Okay, we're getting out of here RIGHT{SAUT}NOW!!! Move it! Move it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Akechi",
+    "en": "Mona, please stop digging your claws{SAUT}into my legs―O-Ow... Oww!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Chie",
+    "en": "Hey, I'm hurtin' up here too, y'know!{SAUT}The nose on your mask keeps pokin' me,{SAUT}Crow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ribbon",
+    "en": "KOROMARU-SAN, WHAT IS THE{SAUT}MATTER? WHY ARE YOU NUDGING{SAUT}MY BACK?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ribbon",
+    "en": "\"IT'S FUN PLAYING WITH EVERYONE\"?{PAGE}THIS IS THE FEELING... OF FUN?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Koromaru",
+    "en": "Awoooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Ribbon",
+    "en": "ARE YOU GIVING ME A HELPING PUSH?{SAUT}SO THAT WE MAY KEEP GOING{SAUT}TOGETHER?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Koromaru",
+    "en": "Awoooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ribbon",
+    "en": "KOROMARU-SAN... THANK YOU{SAUT}SO MUCH.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Junpei",
+    "en": "C'mon, what's with the holdup?{SAUT}Yosuke, can't you go a bit faster?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Yosuke",
+    "en": "Don't complain to me. The stoppage{SAUT}is all thanks to Teddie up here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Yosuke",
+    "en": "Hey, Teddie, obviously you're too big{SAUT}for this duct! Why didn't you take your{SAUT}costume off before getting in!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Teddie",
+    "en": "It's okay. I can keep going if you push{SAUT}me from behind, Yosuke.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Yosuke",
+    "en": "What are you, ground meat in a sausage{SAUT}machine!? Quit being lazy and move{SAUT}your own body!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Makoto",
+    "en": "Whew... This is going rather slowly,{SAUT}but I suppose we're still making{SAUT}progress?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Shinjiro",
+    "en": "I'm sure we'll reach the exit eventually{SAUT}But seriously... this thing is too cramped.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Akihiko",
+    "en": "Crawling is a good form of training.{SAUT}Tightens up your abs and latissimus{SAUT}dorsi muscles so you can―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Shinjiro",
+    "en": "Oh, shut up. Put those muscles to use{SAUT}and just keep moving!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Akihiko",
+    "en": "What? I'm just using this opportunity{SAUT}instead of wasting my time complaining{SAUT}about being cramped―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Mitsuru",
+    "en": "Will you two quiet down!? Keep it up{SAUT}and I'll freeze you both soli―{PAGE}Whaa―!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Haru",
+    "en": "Oh―pardon me, Mitsuru-san. My hand{SAUT}got caught on your skirt.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Mitsuru",
+    "en": "I-I see... Please don't surprise me like{SAUT}that. It's hard to see in here, after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Junpei",
+    "en": "Oho, what's this? Is Mitsuru-senpai{SAUT}not a fan of the dark?{PAGE}Well, that's a surprising weakness for{SAUT}her. A stunning revelation that makes{SAUT}someone like her more adorable―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Mitsuru",
+    "en": "Iori, do you wish to be frozen as well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Junpei",
+    "en": "J-Just kidding! I was just joking!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Yukari",
+    "en": "Um, could you guys please hurry it up?{SAUT}We've been waiting back here for{SAUT}a while now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Yukari",
+    "en": "Huh? What's funny?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "P3 Fem Protag",
+    "en": "It's just that you guys act exactly like{SAUT}the companions I know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Yukari",
+    "en": "Hmm, I see...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "P3 Fem Protag",
+    "en": "Sorry for bringing up something so{SAUT}weird. C'mon, let's keep going!",
+    "fr": ""
+  }
+]

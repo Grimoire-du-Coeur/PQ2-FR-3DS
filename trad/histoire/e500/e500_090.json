@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Hey, how's everyone holdin' up? You{SAUT}feelin' pooped yet?{PAGE}C'mooon... Answer meee, Phantom{SAUT}Thiiieves....",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Ha, don't underestimate us. This is but―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "...Hm. It seems I've grown hungry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Oh boy... No collapsing on us before{SAUT}we deal with Enlil, got it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "I'm definitely still good to go! How's{SAUT}everyone else doing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "I'm fine―this is nothing for a phantom{SAUT}thief. How about you, Hikari?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "I'm okay too. I used to walk around a lot{SAUT}while carrying a pretty heavy camera.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Hmm... Y'know, Hikari, you've had{SAUT}a lot more pep in your step lately.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "Huh? Wh-What do you mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Remember when you told us about{SAUT}what kind of movies you're into?{PAGE}Ever since you said you like movies that{SAUT}give people hope, you've been totally{SAUT}different than you were when we met.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "Well, what happened was... I finally{SAUT}remembered the dream ending I want{SAUT}to reach, after putting it into words.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "What's your dream?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "Being a director?{OPTION}Being a theater curator?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Haru",
+    "en": "Oh, that's right. Hikari-chan did say{SAUT}she's wanted to be a filmmaker ever{SAUT}since she was young.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "That would be pretty nice, since I'd be{SAUT}surrounded by movies all the time, but{SAUT}what I really want to do is make them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "Your dream is to become a director, no?{SAUT}You mentioned that you've wanted to be{SAUT}a filmmaker ever since you were young.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Hikari",
+    "en": "Mmhm. I've been shooting movies on{SAUT}my own ever since I was a kid because{SAUT}I wanted to become a director...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Whoa, that's amazing! You shoot your{SAUT}own movies!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "It's nothing impressive... I just learned{SAUT}how by watching others do it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "There's no need to be modest.{PAGE}While everyone may have a dream,{SAUT}taking real action to attain it isn't{SAUT}something just anyone can do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yusuke",
+    "en": "Indeed. So, what sort of movie were{SAUT}you working on before arriving here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Hikari",
+    "en": "I... haven't filmed anything recently.{SAUT}I hit a roadblock, in a way.{PAGE}I lost sight... of what I wanted to show{SAUT}everyone... and even of who I am.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "Hikari...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari",
+    "en": "But I remember now, thanks to meeting{SAUT}you guys. The movies that I've loved...{PAGE}And the movies that I really wanted to{SAUT}make... That's why I'm thinking about{SAUT}picking back up where I left off!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "I'd love to lend you a hand.{OPTION}That sounds really great.{OPTION}Let me star in your first movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ryuji",
+    "en": "Me too! We're gonna make Hikari's{SAUT}dream come true, for real!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "Yeah! I'm certain you can make that{SAUT}dream come true now, Hikari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Morgana",
+    "en": "Hey―no stealing the spotlight, pal!{SAUT}I'm gonna be the star here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ryuji",
+    "en": "An acting cat? That seems pretty rare.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "I am NOT an acting cat! I'll do it after{SAUT}I turn back into a human!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Makoto",
+    "en": "Oh dear... Let's not start getting{SAUT}ridiculous.{PAGE}More to the point, I think you're really{SAUT}ready to get out into the world and do{SAUT}this, Hikari-chan. Follow your dream.  ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Hikari",
+    "en": "Thank you, everyone.{PAGE}I also know... When my first movie is{SAUT}done, I want my dad to watch it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031_5",
+    "locuteur": "Hikari",
+    "en": "I'll definitely give him that screening{SAUT}invitation soon... For real, this time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Haru",
+    "en": "I see... I'm sure that you will.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ryuji",
+    "en": "Hey, so, does that invitation only apply{SAUT}to your dad?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Hikari",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ryuji",
+    "en": "Well, we wanna see your movie too,{SAUT}right?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "Of course.{OPTION}I'm definitely interested.{OPTION}May we please watch it too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Ann",
+    "en": "Oh, pretty please? Or would that{SAUT}be asking too much?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Hikari",
+    "en": "Oh, no! That's not true! I'd love for{SAUT}you all to watch it!{PAGE}Will... Will you really come see my{SAUT}movie!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ryuji",
+    "en": "Of course! I'm totally down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Futaba",
+    "en": "Not just Skull―all the Phantom Thieves{SAUT}will be there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Hikari",
+    "en": "Mmhm! I promise that I'll finish the{SAUT}movie, no matter what it takes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Makoto",
+    "en": "*chuckle* Well, for that to happen, we{SAUT}need to deal with this place first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Ryuji",
+    "en": "Right! Let's take care of business here{SAUT}so Hikari can get to filming back home!",
+    "fr": ""
+  }
+]

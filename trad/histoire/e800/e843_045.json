@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Shinjiro",
+    "en": "So we went right... and that means{SAUT}you pushed the guy onto the tracks.{PAGE}I guess you stopped the cart, but{SAUT}you stone-cold killed a guy to do it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "But, I mean... this way, we saved{SAUT}five people!{PAGE}U-Um... Somehow, that doesn't{SAUT}really make me feel better...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "Arrrgh! What the hell is this!?{PAGE}Screw all these carts and tracks{SAUT}and switches! I'm gonna stop the{SAUT}damn thing myself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Calm down, Tatsumi-kun. This is{SAUT}all a hypothetical scenario.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mitsuru",
+    "en": "Still, it makes you think.{PAGE}Just like before, it's a question of{SAUT}sacrificing one life to save five.{PAGE}However, having to directly push a{SAUT}man to his death makes it feel{SAUT}a bit less... passive.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "I imagine that's the point. Whoever{SAUT}prepared this wanted us to reflect{SAUT}on that.{PAGE}When faced with a difficult choice,{SAUT}what would go through our minds,{SAUT}and what would we do...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "That kinda creeps me out... It's like{SAUT}they're trying to see into the depths{SAUT}of our hearts.{PAGE}Still, maybe thinking about these{SAUT}things is what makes us human.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "At any rate, we've answered both{SAUT}questions. Shall we make our way{SAUT}to the end?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Shinjiro",
+    "en": "So we went left... That means you{SAUT}didn't push the guy onto the tracks.{PAGE}Which means it kept going, and hit{SAUT}the five workers... Sounds pretty{SAUT}messy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "Still, at least the big guy gets to{SAUT}survive.{PAGE}Otherwise, we would've had to{SAUT}push him onto the tracks{SAUT}ourselves...{PAGE}I don't know if I could have done it.{SAUT}Even if it'd have saved five people.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Teddie",
+    "en": "If Kanji were there, he could just{SAUT}jump in front of the cart and{SAUT}smack it away!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "Yeah. He's so tough, that cart{SAUT}wouldn't budge him at all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Kanji",
+    "en": "Hell yeah! All I need is one punch{SAUT}to send it flying!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "I'm not sure the workers would be{SAUT}any better off in that case...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Mitsuru",
+    "en": "All joking aside, it is strange.{PAGE}Just like before, it's a question of{SAUT}sacrificing one life to save five.{PAGE}However, having to directly push a{SAUT}man to his death makes it feel{SAUT}a bit less... passive.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akechi",
+    "en": "I imagine that's the point. Whoever{SAUT}prepared this wanted us to reflect{SAUT}on that.{PAGE}When faced with a difficult choice,{SAUT}what would go through our minds,{SAUT}and what would we do...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "That kinda creeps me out... It's like{SAUT}they're trying to see into the depths{SAUT}of our hearts.{PAGE}Still, maybe thinking about these{SAUT}things is what makes us human.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Makoto",
+    "en": "At any rate, we've answered both{SAUT}questions. Shall we make our way{SAUT}to the end?",
+    "fr": ""
+  }
+]

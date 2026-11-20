@@ -1,0 +1,374 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Security system",
+    "en": "INITIATING SECURITY VERIFICATION...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Whoa, what the―!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Security system",
+    "en": "UNIT TYPE VERIFIED... IW. MODEL{SAUT}NUMBER VERIFIED... 02. CONFIRMING{SAUT}CLEARANCE LEVEL...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Security system",
+    "en": "ERROR. ONLY UNITS WITH{SAUT}ADMINISTRATIVE CLEARANCE{SAUT}MAY ACCESS THIS AREA.{PAGE}ACCESS DENIED. ESCALATING{SAUT}SECURITY LEVEL. INITIATING{SAUT}SECURITY INTERCEPTION PROTOCOL.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Wait, what? \"Administrative clearance\"!?{PAGE}What're we supposed to do? Have{SAUT}somebody else get scanned?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "No... We'd all most likely end up with{SAUT}the same results.{PAGE}This is not good... If we were to force our{SAUT}way past this checkpoint, I assume a ton{SAUT}of security robots will be waiting for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukari",
+    "en": "This means we can't keep going unless{SAUT}we have the clearance, right?{PAGE}It said something about a unit type and{SAUT}a model number...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ribbon",
+    "en": "THE UNIT TYPE IS THE SEQUENCE OF{SAUT}LETTERS AT THE BEGINNING OF YOUR{SAUT}IDENTIFICATION.{PAGE}THIS IS DETERMINED BY THE FACTORY{SAUT}IN WHICH YOU WERE CONSTRUCTED,{SAUT}AND DEPENDS ON YOUR MODEL TYPE.{PAGE}THEN, YOU ARE GIVEN A MODEL{SAUT}NUMBER.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "I believe I was labeled as \"TK-04.\"{PAGE}So, for me, \"TK\" is the unit type and{SAUT}\"04\" is the model number.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukiko",
+    "en": "Mine was \"YS-03.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ribbon",
+    "en": "NOW THAT I THINK OF IT, YOU ALL{SAUT}HAVE DIFFERENT UNIT TYPES.{PAGE}MASS-PRODUCED ROBOTS SUCH AS{SAUT}MYSELF TEND TO HAVE THE SAME{SAUT}ONE...{PAGE}BUT YOU ARE HUMAN. INCONSISTENCY{SAUT}IN MODEL NUMBERS DEFIES LOGIC.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "I mean, we might be human, but we're{SAUT}not all the exact same person...{PAGE}Where we were born, where we grew{SAUT}up, our names, and our personalities―{SAUT}they're all different. We're individuals.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Teddie",
+    "en": "Heheheh, this bear got assigned his own{SAUT}individual number and everything!{PAGE}I got \"YS-07\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "Hmm, it seems that the unit type is{SAUT}designated based on our usual{SAUT}associations.{PAGE}We thieves are \"TK,\" the Investigation{SAUT}Team is \"YS,\" and SEES is... Um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Aigis",
+    "en": "I am \"IW-06.\" This indicates that our{SAUT}unit type is \"IW.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Hero",
+    "en": "I think I'm \"IW-00.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Teddie",
+    "en": "Hrmm? But wasn't \"IW-00\" assigned{SAUT}to the fair lady here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Fem Protag",
+    "en": "Y-Yeah... I think I'm \"IW-00\" too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "Wait, how does that make sense? Is it{SAUT}possible for multiple people to have{SAUT}the exact same identification?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ribbon",
+    "en": "NO, IT IS IMPOSSIBLE. THIS IS THE{SAUT}FIRST CASE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukari",
+    "en": "Could it be because of that... parallel{SAUT}universe thing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ribbon",
+    "en": "THE SAME IDENTIFICATION...{SAUT}NORMALLY, THEY WOULD BE{SAUT}TREATED AS ERRORS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "Treated as errors, huh?{SAUT}...Wait―an error!{PAGE}Ahhh, it just hit me! I got it! I think we{SAUT}might be able to get past here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Chie",
+    "en": "Ooh, what? What is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "What would happen if these two―with{SAUT}the same unit type and model number―{SAUT}went through security at the same time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Kanji",
+    "en": "Well, Ribbon said their numbers ain't{SAUT}possible, right? Sooo... wouldn't it break{SAUT}the system?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "That's right! We may not be able to{SAUT}completely disable it, but at the very{SAUT}least, it'll cause an error and freeze up.{PAGE}Ribbon said that this is a first, right?{SAUT}Then let's use that to our advantage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Fuuka",
+    "en": "I see! While the system is locked up,{SAUT}someone could slip by.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Futaba",
+    "en": "Mweheheh... You noticed it too, huh,{SAUT}Fuuka? That terminal over there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Fuuka",
+    "en": "Yes―whoever gets past the checkpoint{SAUT}could use that terminal to shut down{SAUT}the security in here.{PAGE}But, the question is, who will go?{SAUT}It may be too difficult for anyone who{SAUT}isn't good with computers...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_030",
+    "choix": true,
+    "en": "Go for it, Skull.{OPTION}Go for it, Oracle.{OPTION}Go for it, Aigis.{OPTION}I've got this, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ryuji",
+    "en": "Uhhh... If all I had to do was run over{SAUT}there, then sure, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Makoto",
+    "en": "But we need someone who's capable{SAUT}of bypassing the security system, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Aigis",
+    "en": "I will do this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Futaba",
+    "en": "N-No way! You expect some kinda{SAUT}acrobatic miracle―from me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Makoto",
+    "en": "Hmm. If we need someone who can{SAUT}move quickly enough and can also{SAUT}bypass the security system...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Aigis",
+    "en": "I will do it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Aigis",
+    "en": "Understood. I will do this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Ryuji",
+    "en": "Ooh, nothin' to worry about if Joker's{SAUT}on it! You good to go, bro?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Makoto",
+    "en": "Wait...{PAGE}Just to prepare for a worst-case scenario,{SAUT}wouldn't it be better if our leader were{SAUT}to remain behind for this operation?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Aigis",
+    "en": "Then, I will do this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "P3 Hero",
+    "en": "...You sure, Aigis?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Aigis",
+    "en": "If I were to gain direct access to the{SAUT}terminal, bypassing the security{SAUT}protocol will be a breeze.{PAGE}Even if that were to be an impossibility,{SAUT}the security program ought to cease{SAUT}if I shoot the terminal enough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Futaba",
+    "en": "Ooh, that's a good point. My vote's{SAUT}for Aigis!{PAGE}So, Joker―whaddaya say?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_046",
+    "choix": true,
+    "en": "You're right.{OPTION}Just be careful, Aigis.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Aigis",
+    "en": "I understand. Now, I must ask you two{SAUT}to move into position so that we may{SAUT}commence the operation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "P3 Hero",
+    "en": "Okay. All we have to do is walk through{SAUT}there at the same time, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Futaba",
+    "en": "Hey, if anything goes wrong―anything{SAUT}at all―make sure you run for it, okay?{SAUT}Attacking will be our last resort!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "P3 Fem Protag",
+    "en": "Well then, here goes. Please, please{SAUT}work...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Security system",
+    "en": "UNIT TYPE VERIFIED... IW. MODEL{SAUT}NUMBER...{PAGE}...ERROR. UNITS ASSIGNED DUPLICATE{SAUT}MODEL NUMBERS. SEARCHING FOR{SAUT}APPROPRIATE PROCEDURE...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Security system",
+    "en": "CRITICAL ERROR. ERROR. ERROR.{SAUT}ERROR ERROR ERROR ERROR―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Futaba",
+    "en": "There it goes―now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Aigis",
+    "en": "I am going!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Aigis",
+    "en": "I have arrived―now deactivating{SAUT}the security system.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Futaba",
+    "en": "Yes! We did it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "P3 Hero",
+    "en": "Well... Looks like it turned out just fine.{SAUT}That was a bit scary, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Ryuji",
+    "en": "The good news is, we can keep goin'{SAUT}now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "P3 Fem Protag",
+    "en": "He and I are errors, huh...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Aigis",
+    "en": "-san, what is the matter?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hm? Oh, no―it's nothing!{PAGE}More importantly, you were so fast!{SAUT}That's the Aigis I know!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Aigis",
+    "en": "Yes, the operation was successful.{SAUT}No complications whatsoever.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Fuuka",
+    "en": "Everyone, be extra careful moving{SAUT}forward!",
+    "fr": ""
+  }
+]

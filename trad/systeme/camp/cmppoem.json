@@ -1,0 +1,18 @@
+[
+  {
+    "id": "CMPPOEM_PATHOS",
+    "en": "Which pathos should I feel...?",
+    "fr": ""
+  },
+  {
+    "id": "CMPPOEM_NOT_PATHOS",
+    "en": "I don't sense anything now...",
+    "fr": ""
+  },
+  {
+    "id": "CMPPOEM_SELECT_1",
+    "choix": true,
+    "en": "\"To the Heartless\"{OPTION}\"The Mongrels' Lullaby\"{OPTION}\"Bloody Bride\"{OPTION}\"Surprise Birthday\"{OPTION}\"Law\"{OPTION}\"The Seven Deadly Sins\"{OPTION}????{OPTION}????{OPTION}????{OPTION}????{OPTION}????{OPTION}????",
+    "fr": ""
+  }
+]

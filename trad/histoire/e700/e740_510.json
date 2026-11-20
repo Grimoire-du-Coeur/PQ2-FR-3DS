@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Oh, look―dwarves! They're kinda cute!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "Wait―Panther! Don't go near them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Eh?{PAGE}...Aaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Look out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Whew! That was close. Are you all right,{SAUT}Panther?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Y-Yeah... Thanks, Mona. You saved{SAUT}my butt back there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Meow!? Th-Th-That was nya-thing!{PAGE}For you, Panther, I'd brave fire and ice...{SAUT}Wind and waves... Dwarves with guns!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukari",
+    "en": "Ooh, bravo, Mona! I'm surprised you{SAUT}could move that fast. I guess it's thanks{SAUT}to the power of love?{PAGE}It must've been scary to end up in{SAUT}the crosshairs so suddenly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "From what we've witnessed, they seem{SAUT}to {f 0 1 2}point their guns at anything standing{SAUT}before them{f 0 1 0}.{PAGE}We won't be able to avoid a fight if they{SAUT}lock onto us... Be careful around those{SAUT}guys, Joker.",
+    "fr": ""
+  }
+]

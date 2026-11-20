@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "Some Shadows have a special barrier{SAUT}known as the {f 0 1 2}Affinity Barrier{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "When its Affinity Barrier is up, a Shadow{SAUT}is resistant to your attacks' affinities.{SAUT}However, if you {f 0 1 2}deal enough damage{f 0 1 0} or{SAUT}{f 0 1 2}meet certain other conditions{f 0 1 0}, the barrier{SAUT}will deactivate, and the Shadow's{SAUT}resistance will change.{PAGE}When the Affinity Barrier is deactivated,{SAUT}the {f 0 1 2}Shadow will visibly change{f 0 1 0}. This will{SAUT}also be reflected in the Shadow's data if{SAUT}you Analyze it.",
+    "fr": ""
+  }
+]

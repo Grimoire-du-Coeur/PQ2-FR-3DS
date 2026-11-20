@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Well then. It seems the time for{SAUT}conversation is over.{PAGE}Now, you can only focus on wielding{SAUT}your power to its fullest extent.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elizabeth",
+    "en": "I should warn you, I'm no stranger{SAUT}to this sort of roughhousing...{PAGE}Ah, this...? No, it's nothing.{PAGE}You needn't worry about me...{SAUT}I advise you come at me as if{SAUT}you aim to kill.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Elizabeth",
+    "en": "This is going magnificently. I daresay{SAUT}I'm getting a little carried away!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* It seems I was right.{SAUT}Your spirit is remarkable.{PAGE}However, remember that misjudging{SAUT}a battle, especially this late, would{SAUT}be a disservice to your power.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Elizabeth",
+    "en": "Well done. Your power is most{SAUT}excellent indeed...",
+    "fr": ""
+  }
+]

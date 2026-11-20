@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "Oh, there's some bones!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Yes, and from the looks of it... I don't{SAUT}think we'll need Crow's consensus.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "This is clearly a fresh kill; no doubt the{SAUT}Ravenous Beast is near.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Hrrm, my Teddie senses are going{SAUT}bear-serk too!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Let's get ready.{OPTION}Let's proceed carefully.{OPTION}Let's run for it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Indeed, we should probably prepare{SAUT}ourselves. We're about to face a very{SAUT}dangerous opponent.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Agreed. We could be attacked at any{SAUT}time. We'll want to stay alert.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Koromaru",
+    "en": "*whine*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "Well, it certainly is a dangerous{SAUT}opponent. It might be a good idea to{SAUT}regroup.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Okay, the enemy is just up ahead! Don't{SAUT}let your guard down!",
+    "fr": ""
+  }
+]

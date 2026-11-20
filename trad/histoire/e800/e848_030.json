@@ -1,0 +1,66 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": "Great! We did it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "Nice job, partner! That's why you're{SAUT}the star of the Investigation Team!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "That was impressive, {f 6 1 12 0 0 0}-kun.{SAUT}You stayed calm throughout that{SAUT}entire battle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "No, that was only because I had{SAUT}everyone backing me up. I hope{SAUT}I can keep counting on you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "P4 Hero",
+    "en": "Huh? What's this...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "There's something on the ground...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Ooh, it's another piece of film!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "Just like Elizabeth predicted, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006_1",
+    "locuteur": "P4 Hero",
+    "en": "Here, I think you should hold on to it.{SAUT}Let's go show her what we found.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Obtained Sooty Film!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Nice job taking that one down.{SAUT}Now all we gotta do is report in!",
+    "fr": ""
+  }
+]

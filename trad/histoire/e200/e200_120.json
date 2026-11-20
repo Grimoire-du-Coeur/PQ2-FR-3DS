@@ -1,0 +1,332 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Reserved girl",
+    "en": "Well then, I guess we can finally relax.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Person in bear costume",
+    "en": "But wow, Sensei... To think you were{SAUT}acquainted with such a gorgeous lady!{PAGE}I had no idea! Why couldn't you{SAUT}introduce me to her sooner?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Energetic girl",
+    "en": "Okay, okay, we can talk about{SAUT}that later.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Intelligent-looking boy",
+    "en": "That's right. Once Rise-san recovers, we{SAUT}need to immediately go back and search{SAUT}for Yosuke-senpai.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Rise...? Rise... Kujikawa?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_5",
+    "locuteur": "Ryuji",
+    "en": "Ohhhhhhhhhhh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Hey! Don't yell like that right next to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Now I remember! That girl―she's the{SAUT}idol Risette!{PAGE}Man, I knew I'd seen her somewhere!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Yeah, I've been curious too―she's{SAUT}way beyond mere resemblance...{PAGE}But, that can't be―Risette's not{SAUT}a high-schooler anymore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Reserved girl",
+    "en": "Huh? Rise-chan goes to our{SAUT}high school.{PAGE}She's taking a break from her show-biz{SAUT}career at the moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "H-Hold on―wait a sec...{PAGE}The Risette I know is 100% active in{SAUT}the show-biz world!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Menacing-looking boy",
+    "en": "...Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Eh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Intelligent-looking boy",
+    "en": "Um, excuse me. There's something{SAUT}I'd like to confirm first...{PAGE}The current year is 2011, correct?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Huh? You mean, right now? Uhhh...{SAUT}What year is this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "It is most assuredly not 2011.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm, that's right. It's the year 2009.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Energetic girl",
+    "en": "Wait... So, right now it's not 2011,{SAUT}but 2009, but actually 2011!?{PAGE}Ugh, my brain's all mixed up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Composed boy",
+    "en": "No, I'm pretty sure that it's 2011. What's{SAUT}the meaning of this?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "We've come from different times.{OPTION}It's amnesia.{OPTION}It's an elaborate prank.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Composed boy",
+    "en": "Yeah... That seems to be the case.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Intelligent-looking boy",
+    "en": "I don't think that's the case. We've all{SAUT}definitely retained our memories up to{SAUT}this point.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "You know, could we have maybe come{SAUT}from different times?{PAGE}I mean, I just kind of had the feeling{SAUT}that was the case...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Menacing-looking boy",
+    "en": "Ohhh, so this is all some prank! Where's{SAUT}the camera...{PAGE}More like, of course that ain't it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Energetic girl",
+    "en": "Aha, you're getting better at playing{SAUT}along with jokes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Composed boy",
+    "en": "It would've been nice if this were all just{SAUT}a prank―but that doesn't seem to be{SAUT}the case here.{PAGE}If what everyone is saying is true, then{SAUT}maybe... we've all come from different{SAUT}times?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Elizabeth",
+    "en": "My, my. A rather sizable addition to{SAUT}those who have been guided here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Person in bear costume",
+    "en": "Ooh! Another mysterious new beauty!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Elizabeth",
+    "en": "My name is Elizabeth. We've been here{SAUT}for a short while now.{PAGE}As for the one standing beside me,{SAUT}introducing him is too much trouble,{SAUT}so we'll simply exclude it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Theodore",
+    "en": "Sister!? Isn't this treatment just a tad{SAUT}too callous!?{PAGE}Ahem... Please excuse my outburst.{SAUT}My name is Theodore.{PAGE}Along with my older sisters, Margaret{SAUT}and Elizabeth, I am a resident of{SAUT}the Velvet Room.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Haru",
+    "en": "He really is wearing that popcorn{SAUT}outfit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Energetic girl",
+    "en": "Hmm... Popcorn...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Composed boy",
+    "en": "We should leave him be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Elizabeth",
+    "en": "It seems we have each been summoned{SAUT}here from different times.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Akechi",
+    "en": "Time travel, hm? That's a bit difficult{SAUT}to believe.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Person in bear costume",
+    "en": "So, would that mean Team Masks came{SAUT}from our future?{PAGE}Ooh, I've got a question! Am I a total{SAUT}ladies' man in the future!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Ryuji",
+    "en": "How would we know!? We've got our{SAUT}hands full just takin' care of this cat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Morgana",
+    "en": "Who're you calling a cat!? AND, you're{SAUT}not taking care of me at all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Haru",
+    "en": "Hey, isn't it a bad idea to discuss{SAUT}things like this with each other?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Intelligent-looking boy",
+    "en": "Mm, you must be referring to time{SAUT}paradoxes. I suppose those could cause{SAUT}some unforeseen issues.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Menacing-looking boy",
+    "en": "Wh―\"Thai pair of dachshunds\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Akechi",
+    "en": "The time paradox―it's a famous{SAUT}concept in science fiction.{PAGE}It's about the currently-unknown{SAUT}effects upon a timeline due to{SAUT}changing its past or future.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Reserved girl",
+    "en": "No one knows what happens?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Akechi",
+    "en": "Well, no one has succeeded in traveling{SAUT}through time. There are some theories,{SAUT}though.{PAGE}Such as, not being able to return to{SAUT}one's original world, or one's very{SAUT}existence being erased.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Energetic girl",
+    "en": "Yikes! I don't want that happening{SAUT}to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Intelligent-looking boy",
+    "en": "Basically, that's the reason it's for{SAUT}the best if we don't speak too much{SAUT}about our own time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Elizabeth",
+    "en": "That is indeed a most wise decision.{PAGE}Knowing too much of the future can{SAUT}instigate new threats.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Ann",
+    "en": "Ah, that makes sense.{PAGE}Plus, wouldn't it be more fun to{SAUT}find out about the future firsthand?{PAGE}I like imagining what the future could{SAUT}be too, but I still wanna keep the fun{SAUT}for later.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Energetic girl",
+    "en": "Yeah! Like, maybe we're gonna enter{SAUT}a bright new world where expensive{SAUT}filets are only one yen per ounce!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Menacing-looking boy",
+    "en": "That sounds more like what would{SAUT}happen in some apocalypse...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Akechi",
+    "en": "Well then, won't you tell us a bit about{SAUT}yourselves and what led you here?{PAGE}It may serve as clues for all of us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Reserved girl",
+    "en": "Is that alright? We won't disappear?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Akechi",
+    "en": "I'm pretty sure we'll be fine. It's already{SAUT}happened, and furthermore...{PAGE}This location itself isn't normal, either.{SAUT}I believe such a conversation won't{SAUT}change much, if anything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Energetic girl",
+    "en": "You say that now, but... Anyway, how'd{SAUT}we get here again?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Composed boy",
+    "en": "If I recall correctly, we met up like we{SAUT}always do...",
+    "fr": ""
+  }
+]

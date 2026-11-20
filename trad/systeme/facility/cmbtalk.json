@@ -1,0 +1,618 @@
+[
+  {
+    "id": "VELVET_TALK_GREET_TWINS_",
+    "locuteur": "Caroline",
+    "en": "So here you are, Inmate!",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_TALK_GREET_TWINS_#2",
+    "locuteur": "Caroline",
+    "en": "I knew you'd come crawling back.",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_TALK_GREET_TWINS_#3",
+    "locuteur": "Justine",
+    "en": "Welcome.",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_OUT_TWINS_0",
+    "locuteur": "Justine",
+    "en": "Come again, Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_OUT_TWINS_1",
+    "locuteur": "Justine",
+    "en": "Strive for progress.",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_OUT_TWINS_2",
+    "locuteur": "Caroline",
+    "en": "Don't let us down, Inmate!",
+    "fr": ""
+  },
+  {
+    "id": "CMBTALK_DUMMY",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_TALK_GREET_MARGAR",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_TALK_GREET_ELIZAB",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "CMBTALK_IKENIE_OPEN",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "CMBTALK_SKILLCARD_OPEN",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_BATTLE_BEFORE_MAR",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "SEL_VELVET_BATTLE_BEFORE",
+    "choix": true,
+    "en": "I'm ready to go.{OPTION}I need a moment.",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_BATTLE_START_MARG",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_BATTLE_LATER_MARG",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "CMBTALK_MARIE_TEST",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_SASOI_01",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_SASOI_01_SUMI",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_SASOI_HOUKAGO",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_SASOI_GOGO",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_SASOI_COMMON_SUMI",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_SASOI_0607_SUMI",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_SASOI_10_K_SUMI",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_SASOI_10_S_SUMI",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_AFTERMAX_YESNO",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_DOUZOKUSEI",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_ZOKUSEI",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "PER_KOE",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "ZOKUSEI_NOTYET",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "ZOKUSEI_NOMORE",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_DOKO_ON",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_DOKO_ON_2",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_DOKO_ON_3",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_DOKO_ON_4",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_DOKO_ON_5",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_DUNGEON",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_DOKO_OFF_FIRST",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_DOKO_OFF",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_D_CLEAR_00",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_D_CLEAR_01",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_D_CLEAR_02",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_D_CLEAR_03",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_IZANAMI_DUNGEON",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_HAJIKI_SISSOU_MAE_",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_HAJIKI_SISSOU_MAE_#2",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_HAJIKI_SISSOU_MAE_#3",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_0103_ABOUT_MARIE",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_0103_DONT_KNOW",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_RANKUP_OK",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_RANKUP_MADA",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "YELL_HELP0_mar",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "YELL_HELP0_mag",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "YELL_HELP0_mar2",
+    "locuteur": "Marie",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "YELL_HELP1",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "YELL_HELP2",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "YELL_HELP3",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "YELL_HELP4",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_TALK_TEST",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus001_01",
+    "locuteur": "Justine",
+    "en": "It would appear you've registered{SAUT}a respectable number of Personas.{PAGE}To commemorate your progress,{SAUT}you deserve a small incentive.",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus001_02",
+    "en": "All summoning costs from Persona{SAUT}Film have been reduced by 10%!",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus001_03",
+    "locuteur": "Justine",
+    "en": "From now on, we shall provide a{SAUT}discount on summoning from{SAUT}Persona Film.{PAGE}If your repertoire continues to grow,{SAUT}we may even have more rewards{SAUT}for you.{PAGE}Please continue working hard.",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus002_01",
+    "locuteur": "Caroline",
+    "en": "It looks like you've summoned...{SAUT}Whoa. Quite a few Personas.{PAGE}Well, we might as well give you{SAUT}a little reward!",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus002_02",
+    "en": "All summoning costs from Persona{SAUT}Film have been reduced by 15%!",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus002_03",
+    "locuteur": "Caroline",
+    "en": "We'll give you a discount when you{SAUT}summon Personas out of film!{PAGE}Still, it looks like there's a lot more{SAUT}out there we haven't seen...{PAGE}We wouldn't mind getting to see you{SAUT}summon all these new beings.{PAGE}We expect a lot more from you...{SAUT}But for now, you can have a reward!",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus003_01",
+    "locuteur": "Justine",
+    "en": "Somehow, you've managed to{SAUT}gather all these Personas...{PAGE}Perhaps it won't be long until every{SAUT}one is at your command.{PAGE}Ah... but I nearly forgot your{SAUT}incentive.",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus003_02",
+    "en": "All summoning costs from Persona{SAUT}Film have been reduced by 20%!",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus003_03",
+    "locuteur": "Justine",
+    "en": "Your Persona catalogue is almost{SAUT}complete. No doubt this will help.{PAGE}To summon all the Personas there{SAUT}are, across all these worlds...{PAGE}Perhaps it is within your power.{SAUT}I look forward to finding out.",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus004_01",
+    "locuteur": "Caroline",
+    "en": "Never thought I'd see the day...{PAGE}You finally collected every last one!{PAGE}You put in some hard work out there.{SAUT}So you deserve a big reward!",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus004_02",
+    "en": "All summoning costs from Persona{SAUT}Film have been reduced by 25%!",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus004_03",
+    "locuteur": "Caroline",
+    "en": "Now, you can summon from all{SAUT}the Persona Film you want!{PAGE}Well, sort of. After all, it's not like{SAUT}they're free.{PAGE}I guess that's life!{PAGE}See ya!",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus001_ex_01",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus001_ex_02",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus001_ex_03",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus002_ex_01",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus002_ex_02",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus002_ex_03",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus003_ex_01",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus003_ex_02",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus003_ex_03",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus004_ex_01",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus004_ex_02",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "book_bonus004_ex_03",
+    "locuteur": "Elizabeth",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_exp_personac",
+    "choix": true,
+    "en": "Basics of Fusion{OPTION}Copying Personas{OPTION}Fusion Laws{OPTION}Skill Inheritance{OPTION}Inheritance Rules{OPTION}Go back",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_KIHON",
+    "locuteur": "Justine",
+    "en": "\"Fusion\" is the secret art of using two{SAUT}Personas to create a new one.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_KIHON_0",
+    "locuteur": "Caroline",
+    "en": "But remember, you'll need them as{SAUT}a Sub-Persona if you want to fuse{SAUT}them.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_KIHON_0#2",
+    "locuteur": "Justine",
+    "en": "With fusion, you can create Personas{SAUT}of even greater power.{PAGE}However, the Personas combined in{SAUT}the fusion process will be consumed.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_KIHON_0#3",
+    "locuteur": "Caroline",
+    "en": "Still, you can choose some skills{SAUT}from the original Personas for the{SAUT}new Persona to inherit.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_KIHON_0#4",
+    "locuteur": "Justine",
+    "en": "Newly summoned Personas will learn{SAUT}skills as they become stronger.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_KIHON_0#5",
+    "locuteur": "Caroline",
+    "en": "In other words, you can eventually{SAUT}make a Persona with all the skills{SAUT}you want.{PAGE}If you're willing to put in the time,{SAUT}that is!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_COPY",
+    "locuteur": "Justine",
+    "en": "Usually, when you fuse Personas,{SAUT}the Personas you combine are{SAUT}sacrificed in the process.{PAGE}However, if you select to \"copy\" a{SAUT}Persona, we will duplicate that{SAUT}Persona before it vanishes.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_COPY_02",
+    "locuteur": "Caroline",
+    "en": "That way, even if you fuse the{SAUT}Persona you have equipped,{SAUT}it won't vanish on you.{PAGE}Of course, copying isn't free.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_COPY_03",
+    "locuteur": "Justine",
+    "en": "It is up to you to use this option{SAUT}wisely.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_COPY_04",
+    "locuteur": "Caroline",
+    "en": "If you want to copy Personas,{SAUT}select it when you're choosing{SAUT}what to fuse.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_RULE",
+    "locuteur": "Caroline",
+    "en": "It looks like a fusion result is based on{SAUT}the Arcana of the Personas used in{SAUT}the fusion.{PAGE}Well, I hear there are a couple that{SAUT}don't really follow that rule...",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_RULE_02",
+    "locuteur": "Justine",
+    "en": "One such outlier would be if you{SAUT}fused two Personas of the same{SAUT}Arcana.{PAGE}We understand that if two Personas{SAUT}of identical Arcana are fused, the{SAUT}resulting one will be one rank lower.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_RULE_03",
+    "locuteur": "Caroline",
+    "en": "Either way, just try out a bunch of{SAUT}different combinations and learn it{SAUT}yourself!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_KEISYOU",
+    "locuteur": "Justine",
+    "en": "A Persona born from a fusion may{SAUT}inherit the skills of the Personas{SAUT}used to create it.{PAGE}In other words, you can use fusion{SAUT}to teach a Persona skills that it{SAUT}could never learn on its own.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_KEISYOU#2",
+    "locuteur": "Caroline",
+    "en": "It's the most important part of making{SAUT}a strong Persona, so get it in{SAUT}your head.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_KEISYOU#3",
+    "locuteur": "Justine",
+    "en": "We aren't sure of all the particulars{SAUT}behind inheritance, but there are{SAUT}three basic rules:{PAGE}First, you can select which skills get{SAUT}passed down.{PAGE}Second, the Persona being fused{SAUT}may have limits on which skills it{SAUT}can inherit.{PAGE}...We can speak more on that topic{SAUT}shortly.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_KEISYOU#4",
+    "locuteur": "Caroline",
+    "en": "Last: the more skills the combined{SAUT}Personas have, the more skills the{SAUT}new one gets to inherit!{PAGE}You'll probably learn better from{SAUT}trying it yourself. Get to it, Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_ZOKUSEI",
+    "locuteur": "Justine",
+    "en": "Let me give you more details on{SAUT}skill inheritance.{PAGE}Each Persona has skills that can{SAUT}and cannot be inherited.{PAGE}These are determined by the{SAUT}Persona's characteristics.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_ZOKUSEI#2",
+    "locuteur": "Caroline",
+    "en": "We'll tell you some of what we've{SAUT}found so far, so listen up.{PAGE}Personas that are good at physical{SAUT}attacks can't inherit healing skills...{PAGE}So, it figures that healer Personas{SAUT}wouldn't learn physical attack skills!",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_ZOKUSEI#3",
+    "locuteur": "Justine",
+    "en": "Fire and Ice, Bless and Curse...{SAUT}Some affinities are paired so.{PAGE}Personas favoring a certain affinity{SAUT}cannot inherit skills of its opposite.{PAGE}Thus, you know what a Persona cannot{SAUT}learn by studying its starting skills.",
+    "fr": ""
+  },
+  {
+    "id": "msg_combine_HELP_ZOKUSEI#4",
+    "locuteur": "Caroline",
+    "en": "There are exceptions, though.{PAGE}Some Personas have the potential to{SAUT}learn all skills. But they're rare!{PAGE}Just give it a try and learn for{SAUT}yourself, Inmate!",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_HELP_GREET_TWINS_",
+    "locuteur": "Caroline",
+    "en": "What do you want?",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_HELP_GREET_TWINS_#2",
+    "locuteur": "Justine",
+    "en": "What would you like to ask?",
+    "fr": ""
+  },
+  {
+    "id": "VELVET_HELP_GREET_MARRY",
+    "locuteur": "Marie",
+    "en": "What do you wanna know?",
+    "fr": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Our targets are the three Guardian{SAUT}Machines. Be careful now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Come on, Ken, try to keep up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ken",
+    "en": "Um, so phantom thieves are all about{SAUT}sticking to the shadows and quietly{SAUT}taking out their enemies, right?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Stealth's the way to go.{OPTION}All the time.{OPTION}Too bad we can't do that here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "So it's true...{PAGE}Do you guys leap over walls and sneak{SAUT}past security lasers too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Yeah, we've done that a couple times...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Yeah. That'd definitely make things{SAUT}easier...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "No kiddin'. We'd already be done with{SAUT}the screening if it were business as{SAUT}usual.{PAGE}Think about all those walls we had to{SAUT}hop and security lasers we had to slip{SAUT}past.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ken",
+    "en": "S-So it's true...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "You seem pretty familiar with this{SAUT}stuff, Ken. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ken",
+    "en": "Huh? Uh, well... I've learned a lot from{SAUT}books and movies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "That's great. You might even have more{SAUT}potential than Skull.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Say what!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Okay, okay, save it for the Shadows.{SAUT}We should get going.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "Commencing mission.{OPTION}Let's get started.{OPTION}Follow our lead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ken",
+    "en": "Yeah!",
+    "fr": ""
+  }
+]

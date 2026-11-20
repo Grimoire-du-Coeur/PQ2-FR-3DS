@@ -1,0 +1,151 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "Rise-chan, Futaba-chan... Could I{SAUT}have a moment?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "What's wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "Um... We've got a lot of fighting{SAUT}ahead of us in this world, so...{PAGE}I think it's safe to say we'll have{SAUT}some big battles ahead, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "For sure. I'm getting a bunch of{SAUT}\"final boss coming up\" vibes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Fuuka",
+    "en": "So... I was thinking everyone's going{SAUT}to need our support more than ever.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Rise",
+    "en": "Okay, so you want to upgrade our{SAUT}navigation power somehow?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Fuuka",
+    "en": "Yeah. I want to see if there's{SAUT}something we can do to build up{SAUT}our power into something more.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Whoa, like training in a hyperbaric{SAUT}time chamber! I could get into that!{PAGE}Oh, but just FYI, I'm not sitting under{SAUT}any waterfalls. Whatever we do, it{SAUT}better not be manual labor.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Rise",
+    "en": "Most of our navigation is through our{SAUT}Personas. I guess we can't just{SAUT}get better that easily...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Yeah, it's not like we can just hook{SAUT}some dragon up with a ball collection{SAUT}in exchange for more power...{PAGE}...But maybe there's some sort of{SAUT}power-up we could use. Or some{SAUT}cheats?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Fuuka",
+    "en": "Oh, you know... This was before I{SAUT}joined the Specialized Extracurricular{SAUT}Execution Squad...{PAGE}Mitsuru-senpai performed navigator{SAUT}duties using a machine that helped{SAUT}amplify her searching abilities.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "It helped her search better? So it{SAUT}was like a personal radar?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Fuuka",
+    "en": "Yes. It was some kind of machine,{SAUT}but it helped refine her powers.{PAGE}Obviously we can't use Mitsuru-senpai's,{SAUT}but if we could design a similar{SAUT}comms system...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Rise",
+    "en": "Oh! That's a good idea! Sometimes{SAUT}it seems like we really have trouble{SAUT}contacting them.{PAGE}Wouldn't it be great if we had some{SAUT}communication machine that told us{SAUT}what everyone was doing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Fuuka",
+    "en": "I agree. And I think I can make one,{SAUT}if we can find the right parts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "If you need parts, then Ribbon's movie{SAUT}might be a good place to look.{PAGE}There's a ton of Shadows and FOEs{SAUT}in there that would probably drop{SAUT}stuff we can use.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Rise",
+    "en": "I dunno for sure if it'll work, but it's{SAUT}definitely worth a shot!{PAGE}Why don't we get started now?{SAUT}You guys wait here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "H-Hey! Where are you going?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Rise",
+    "en": "I'm baaack!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Fuuka",
+    "en": "Rise-chan, is that...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Rise",
+    "en": "I told Elizabeth our story, and had{SAUT}her make a ticket.{PAGE}We put out a request! \"Please gather{SAUT}some machinery\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "Whoa! GJ Rise!{PAGE}Looking for those parts on our own{SAUT}would have been like playing on{SAUT}Risky Mode!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Rise",
+    "en": "Well, keep in mind that they might{SAUT}not even pick it up, but we can be{SAUT}patient, right? ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Fuuka",
+    "en": "Definitely. Still, I hope they accept{SAUT}our request soon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "en": "A new special screening:{SAUT}\"Social Network\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

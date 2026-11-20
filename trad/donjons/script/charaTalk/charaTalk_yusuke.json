@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "We can gather items here... How{SAUT}exciting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Right. Best be mindful of our{SAUT}surroundings.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Hm. Let the gathering begin!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Hm? Have you decided against it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Looks like that's it for this one. Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "This belongs to us now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Oh? This is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Hm.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "We've caught the Shadows' attention...{SAUT}We should stop here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Ohh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Quite a find!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Hm, this looks valuable.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "A shortcut. What do you suggest we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "It appears we can't go through this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yusuke",
+    "en": "Hm? I sense a sinister presence nearby.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "Very well. Let's see what it is.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yusuke",
+    "en": "Hm... You don't wish to take a look?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "That was quite the opponent.{SAUT}Thankfully, we held out...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yusuke",
+    "en": "Shadows... they're close.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yusuke",
+    "en": "Let's take a look, shall we?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "Yes, we'll back off for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yusuke",
+    "en": "That was close. Is that all?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yusuke",
+    "en": "It looks like we can return to the theater{SAUT}from here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

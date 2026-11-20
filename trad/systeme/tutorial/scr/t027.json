@@ -1,0 +1,7 @@
+[
+  {
+    "id": "MSG_TUTORIAL_AUTO_RECOVE",
+    "en": "Pressing {f 0 1 2}START{f 0 1 0} while inside the{SAUT}labyrinth will trigger {f 0 1 2}Auto Recovery{f 0 1 0}.{PAGE}Auto Recovery {f 0 1 2}automatically uses{f 0 1 0} the{SAUT}most optimum skills to heal.{PAGE}This can {f 0 1 2}heal the entire party{f 0 1 0}. Don't{SAUT}forget about it if the situation calls for it!",
+    "fr": ""
+  }
+]

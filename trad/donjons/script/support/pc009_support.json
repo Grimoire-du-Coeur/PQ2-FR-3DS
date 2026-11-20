@@ -1,0 +1,377 @@
+[
+  {
+    "id": "KUMA_FOE_FOLLOW_START_1",
+    "en": "An FOE's comin' our way!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_FOE_FOLLOW_START_2",
+    "en": "Aaaah! FOE closing in!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_FOE_FOLLOW_START_3",
+    "en": "Noooo! Not an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_FOE_NEAR_1",
+    "en": "There's an FOE close by!{SAUT}Be beary careful!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_FOE_NEAR_2",
+    "en": "Be careful of that FOE!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_FOE_NEAR_3",
+    "en": "*sniff sniff* This smell...{SAUT}It's an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_FOE_FOLLOW_END_1",
+    "en": "Too slow! We won't get{SAUT}caught by some lousy FOE!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_FOE_FOLLOW_END_2",
+    "en": "Phew, we got away.",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_FOE_FOLLOW_END_3",
+    "en": "Hrm? Looks like it gave up!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_KANSI_REACTION_1",
+    "en": "Tiptoe, tiptoe, stealth mode!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_KANSI_REACTION_2",
+    "en": "I feel like we're playing{SAUT}hide and seek.",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_KANSI_REACTION_3",
+    "en": "I'm a little nervous...",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_DENKISAKU_REACTION_",
+    "en": "Touching that sure would{SAUT}be shocking!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_DENKISAKU_REACTION_#2",
+    "en": "We won't fall for a trap{SAUT}like this!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_DENKISAKU_REACTION_#3",
+    "en": "We'd better stop this before{SAUT}it fries us to a crisp!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_KYOUHU_REACTION_1",
+    "en": "Weeeeee!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_KYOUHU_REACTION_2",
+    "en": "Oh noooo!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_KYOUHU_REACTION_3",
+    "en": "Aaaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_STAIR_FIND_1",
+    "en": "I spy a way forward!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_STAIR_FIND_2",
+    "en": "Hrmm, I sense we're closing{SAUT}in on the next area!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_STAIR_FIND_3",
+    "en": "I think those'll take us to{SAUT}the next floor!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_TREASURE_FIND_1",
+    "en": "Hehe! A treasure box! I bet{SAUT}there's something good inside. ",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_TREASURE_FIND_2",
+    "en": "A treasure box! Is it from the{SAUT}box office? I'm kidding... Hehe!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_TREASURE_FIND_3",
+    "en": "It's a treasure box!{SAUT}Ooh! Ooh! What's inside!?",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_CHECK_WALL_1",
+    "en": "*sniff sniff*{SAUT}Something's fishy here...",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_CHECK_WALL_2",
+    "en": "*sniff sniff* I'll bet there's{SAUT}something over here...",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_CHECK_WALL_3",
+    "en": "I'm sensing something fishy{SAUT}around here!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_SWITCH_FIND_1",
+    "en": "I found a switch!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_SWITCH_FIND_2",
+    "en": "The pressure's on to press{SAUT}the switch! Just joking... Hehe!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_SWITCH_FIND_3",
+    "en": "A switch! Can I press it?",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_SHORTCUT_FIND_1",
+    "en": "Oh, there! I think we can get{SAUT}through there!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_SHORTCUT_FIND_2",
+    "en": "Let's take a shortcut!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_SHORTCUT_FIND_3",
+    "en": "I found a shortcut!{SAUT}Nothing gets past this nose!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_FOE_WARNING_NEAR_1",
+    "en": "Out of the frying pan,{SAUT}into the FOE!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_FOE_WARNING_NEAR_2",
+    "en": "It's still chasing us!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_FOE_WARNING_NEAR_3",
+    "en": "Grrr, that FOE's persistent...",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_1PERSON_HPTP10_1",
+    "en": "I'm pooped...",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_1PERSON_HPTP10_2",
+    "en": "Nooo! I think I'm seeing{SAUT}the pearly gates...",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_1PERSON_HPTP10_3",
+    "en": "Ohhh... I feel like this is it{SAUT}for this bear...",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_1PERSON_HP10_1",
+    "en": "I'm'a hurtin'! Someone, help!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_1PERSON_HP10_2",
+    "en": "At this rate, it won't be long{SAUT}before I'm bear jerky...",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_1PERSON_HP10_3",
+    "en": "This is way too tough...{SAUT}Heeeeeelp!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_1PERSON_TP10_1",
+    "en": "My stamina's low...",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_1PERSON_TP10_2",
+    "en": "I can't go on... Pretty boys{SAUT}like me don't live forever...",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_1PERSON_TP10_3",
+    "en": "I'm so beary tired...",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_1PERSON_HP80_1",
+    "en": "Woohoo! We're on a roll!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_1PERSON_HP80_2",
+    "en": "We can easily keep going!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_1PERSON_HP80_3",
+    "en": "We got this floor!{SAUT}Let's keep going!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_DUNGEON_START_1",
+    "en": "Let's be on our way!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_DUNGEON_START_2",
+    "en": "Everyone, follow me!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_DUNGEON_START_3",
+    "en": "We're off and on our way!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_QUEST_START_1",
+    "en": "Let's take care of this{SAUT}special showing!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_QUEST_START_2",
+    "en": "Don't worry, I'm sure we'll{SAUT}succeed!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_QUEST_START_3",
+    "en": "We'll do it together!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_TOUHA_25_1",
+    "en": "Whew... We're bear-ly there.",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_TOUHA_25_2",
+    "en": "Our map's coming along{SAUT}quite nicely.",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_TOUHA_50_1",
+    "en": "Let's see... It looks like{SAUT}we're halfway there!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_TOUHA_50_2",
+    "en": "I'd say we're starting to get{SAUT}our bear-ings.",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_TOUHA_75_1",
+    "en": "I feel like we've made{SAUT}good progress!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_TOUHA_75_2",
+    "en": "Just a little more,and we're all done!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_TOUHA_100_1",
+    "en": "Hooray, we finished it!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_TOUHA_100_2",
+    "en": "Map complete! We made it!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_MAPPING_ICON_ALL_1",
+    "en": "Ooh, this is gonna be one{SAUT}fancy map.",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_MAPPING_ICON_ALL_2",
+    "en": "Oooh, that looks better!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_MAPPING_ICON_KAIDAN",
+    "en": "We won't get lost if we know{SAUT}where the stairs are!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_MAPPING_ICON_KAIDAN#2",
+    "en": "*whistle* I'm bear-y impressed!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_MAPPING_CHANGE_COLO",
+    "en": "Me, me, me! Lemme draw too!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_MAPPING_CHANGE_COLO#2",
+    "en": "Oho, you're quite the artist.",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_MAPPING_ICON_DEL_1",
+    "en": "The way you casually throw{SAUT}things away is remarkable!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_MAPPING_ICON_DEL_2",
+    "en": "Yosuke always says it's good{SAUT}to tidy up.",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_MAPPING_MEMO_1",
+    "en": "Hm, hm.{SAUT}This'll help us remember.",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_MAPPING_MEMO_2",
+    "en": "This map's really well drawn!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_DOOR_OPEN_1",
+    "en": "Through the door we go!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_DOOR_OPEN_2",
+    "en": "Over here!",
+    "fr": ""
+  },
+  {
+    "id": "KUMA_DOOR_OPEN_3",
+    "en": "Let's gooo!",
+    "fr": ""
+  }
+]

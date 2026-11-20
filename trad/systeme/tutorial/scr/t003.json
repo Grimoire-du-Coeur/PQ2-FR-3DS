@@ -1,0 +1,7 @@
+[
+  {
+    "id": "MSG_TUTORIAL_FOE_1",
+    "en": "FOE movements can be seen {f 0 1 2}on the map{f 0 1 0}.{PAGE}FOEs will keep moving even {f 0 1 2}while you{SAUT}are in combat with other enemies{f 0 1 0}.{PAGE}If an FOE reaches you while you're fighting{SAUT}other enemies, it will {f 0 1 2}join the battle{f 0 1 0}!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "So many movie theaters...{PAGE}She's the one who made all these,{SAUT}right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "She said it was something given{SAUT}physical form? And mentioned the{SAUT}collective unconscious, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "What's an unconscious? Is it kind of{SAUT}like dreaming?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Unconscious desires lie buried within{SAUT}human hearts, totally separate from{SAUT}their conscious mind.{PAGE}A dream only shows you a flicker of{SAUT}that unconscious will. It's like a{SAUT}message from your own mind.{PAGE}Well, that may be a little too deep{SAUT}for amateurs...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mitsuru",
+    "en": "You're remarkably well-informed.{SAUT}Where did you learn all this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "It's common sense! When you're an{SAUT}expert like me, it comes naturally!{PAGE}...Wait, how DO I know this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "*sigh...* Sometimes I just don't{SAUT}know about you, man.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "A new special screening:{SAUT}\"The Lost Butterfly\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

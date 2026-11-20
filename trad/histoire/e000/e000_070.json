@@ -1,0 +1,22 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "The brakes aren't working!{SAUT}Mona, what's going on!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "I wish I knew!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "en": "I can't stop speeding up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "W-W-We're gonna crash! I'm{SAUT}gonna puke! We're gonna die!",
+    "fr": ""
+  }
+]

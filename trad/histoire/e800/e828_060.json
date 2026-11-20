@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hang on, we'll fix you right up...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Aigis",
+    "en": "I shall begin the repairs right away.{SAUT}Please wait a moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay. Go for it, Aigis!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "Yes! It moved!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Huh? What's going on...? Did it not{SAUT}work?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Broken robot",
+    "en": "Gggg... ggg...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Aigis",
+    "en": "It appears its systems are not fully{SAUT}operational just yet.{PAGE}It did manage to boot, however. So its{SAUT}communication functions should{SAUT}reactivate soon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, that's a relief...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Broken robot",
+    "en": "Ggg... ggg... gg...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ken",
+    "en": "Um... Is this an error?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Aigis",
+    "en": "No, it's...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Broken robot",
+    "en": "Ggg... ggg!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Aigis",
+    "en": "It appears to be trying very hard to{SAUT}express its thanks.{PAGE}It says, \"Thank you for saving me.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ken",
+    "en": "So that's what it was saying. *chuckle*{SAUT}Well, I'm glad it's happy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Broken robot",
+    "en": "Ggg... gg...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Broken robot",
+    "en": "Ggg... gggg... gg!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Junpei",
+    "en": "Hmm, I see... A conversation between a{SAUT}dog and a robot...{PAGE}Any idea what the heck they're sayin'?{SAUT}Ai-chan, mind translatin' for us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says, \"Everyone here{SAUT}worked together to save you.\"{PAGE}The robot says \"I am jealous of all the{SAUT}wonderful friends you have.\"",
+    "fr": ""
+  },
+  {
+    "id": "SEL_021",
+    "choix": true,
+    "en": "I'm proud of them.{OPTION}You can make friends too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hehe, I'm glad! You can have friends{SAUT}like this too, you know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "Yeah! This world's gonna keep on{SAUT}changin'!{PAGE}And then you'll get to make a whole{SAUT}buncha friends! You better be ready!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "You said it, Joker! This world's gonna{SAUT}keep on changin' too.{PAGE}And then you'll get to make a whole{SAUT}buncha friends! You better be ready!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Broken robot",
+    "en": "Ggg... gg... Thank... you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh!? Did it break again?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Aigis",
+    "en": "It seems to have run out of power.{PAGE}This unit runs on solar energy, so it will{SAUT}recharge if we leave it alone.{PAGE}I believe its systems are recovered for{SAUT}the most part.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P3 Fem Protag",
+    "en": "That scared me for a second... But it{SAUT}sounds like it's gonna be okay now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Fuuka",
+    "en": "I'm surprised there's a robot here with{SAUT}such unique functions.{PAGE}When we first came here, it was nothing{SAUT}but Ribbon-chan and those identical{SAUT}ones...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Naoto",
+    "en": "Perhaps this is another result from{SAUT}righting the wrongs in this film.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Aigis",
+    "en": "It seems our objective is complete.{SAUT}Shall we return to the theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, good idea. Let's get back to{SAUT}Elizabeth.",
+    "fr": ""
+  }
+]

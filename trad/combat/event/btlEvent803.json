@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_0000",
+    "locuteur": "Ryuji",
+    "en": "Whoa! What the hell!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0001",
+    "locuteur": "Ann",
+    "en": "N-No way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0002",
+    "locuteur": "P3 Fem Protag",
+    "en": "How'd his ears grow like that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0003",
+    "locuteur": "Futaba",
+    "en": "Holy crap! He just transformed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0004",
+    "locuteur": "Kamoshidaman?",
+    "en": "HAHAHA! I'll show you my true power!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Ugh, what IS that!? It's so creepy...{SAUT}Nope! Nuh-uh! No way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "It is rather unsightly... but, why a rabbit?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "We'll worry about that later!{SAUT}Here he comes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kamoshidaman?",
+    "en": "Grr... Rotten evildoers! Give{SAUT}yourselves up and submit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kamoshidaman?",
+    "en": "Grr...! Justice... Justice{SAUT}always wins!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Kamoshidaman?",
+    "en": "Impossible...! How could I,{SAUT}justice incarnate, be defeated!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kamoshidaman?",
+    "en": "Why!? How could...?{SAUT}My justiiiice...",
+    "fr": ""
+  }
+]

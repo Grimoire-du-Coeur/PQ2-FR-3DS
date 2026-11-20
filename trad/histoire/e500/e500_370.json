@@ -1,0 +1,176 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "Dammit... No matter what we throw{SAUT}at her, we're getting nowhere!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Hero",
+    "en": "*pant* *pant* We're in real trouble if{SAUT}this keeps up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Enlil",
+    "en": "To think you'd be so adamant about{SAUT}defying your defeat... Any further{SAUT}resistance will only lead to your deaths.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "Ngh... We're not done yet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Enlil",
+    "en": "Why can't you understand? No one here{SAUT}needs your assistance...{PAGE}All you're doing is trying to impose your{SAUT}own beliefs onto my theatergoers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "Th-That's not true at all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Enlil",
+    "en": "Hikari-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "Everyone! Listen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "I've been denying who I really am{SAUT}for so long...{PAGE}I was constantly scared of what people{SAUT}thought of me―that's why I desperately{SAUT}avoided getting hurt by following others.{PAGE}Honestly, I hated myself for being like{SAUT}that. I always felt so miserable, all the{SAUT}time...{PAGE}But, I would tell myself that I can't do{SAUT}anything about it because I'm weak. It{SAUT}was an excuse that I eventually believed.{PAGE}Haven't you all done the same thing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Listless man",
+    "en": "That... That's just like me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Languid man",
+    "en": "Yeah, all I could do was run away...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Despondent woman",
+    "en": "But... What does that matter?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Upset woman",
+    "en": "I can't do anything about it anyway...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "Are you really fine with movies where{SAUT}the protagonists stay weak? Where they{SAUT}only keep running away?{PAGE}Can you really say, from the depths of{SAUT}your hearts, that constantly watching{SAUT}movies like those makes you happy!?{PAGE}Please... Watch this movie instead{SAUT}and remember!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Hikari",
+    "en": "Remember the kind of protagonist{SAUT}you want to be in your own movie!{PAGE}Never forget, you have the leading role{SAUT}in your own life!  ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Listless man",
+    "en": "My life...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Languid man",
+    "en": "But, still...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Upset woman",
+    "en": "What should I do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Enlil",
+    "en": "Stop this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Enlil",
+    "en": "The theatergoers are delicate and easily{SAUT}confused. You mustn't unnecessarily{SAUT}upset them.{PAGE}If you continue this, I will show no{SAUT}mercy―even to a powerless person{SAUT}such as yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Hikari",
+    "en": "I'm not powerless.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Enlil",
+    "en": "Oh? How so?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Hikari",
+    "en": "Meeting everyone here and seeing their{SAUT}strength guide them towards their goals{SAUT}gave me courage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024_5",
+    "locuteur": "Hikari",
+    "en": "They're why I remembered the true{SAUT}reason for my love of movies.{PAGE}Movies always taught me what matters{SAUT}the most...{PAGE}Taking action gives courage to others,{SAUT}then that courage moves even more{SAUT}people.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Enlil",
+    "en": "And what does that matter?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Hikari",
+    "en": "No matter how small, even my own step{SAUT}forward should give courage to others.{PAGE}It's not just my courage, either. Everyone{SAUT}has the ability to be a source of strength{SAUT}to others.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026_5",
+    "locuteur": "Hikari",
+    "en": "That's why no one is really helpless―{SAUT}we all have the power to change!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ryuji",
+    "en": "Heheh, you tell her!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan's grown strong―and every{SAUT}last person in the theaters here can do{SAUT}the same thing!",
+    "fr": ""
+  }
+]

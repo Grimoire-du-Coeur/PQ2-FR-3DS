@@ -1,0 +1,14 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Hey, where are you going? Nagi said{SAUT}to follow her.{PAGE}She went to the concession stand.{SAUT}Let's go see what she has to say.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "We can go there later. For now, let's go{SAUT}see Nagi at the concession stand.",
+    "fr": ""
+  }
+]

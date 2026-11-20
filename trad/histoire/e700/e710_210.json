@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Hm? What's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Oh, it looks like something's shining...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "That's a rather beautiful glimmer...{SAUT}I wish to observe it closer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Wait, is it safe? It could be a trap!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Hmm, the more I look at it, the more{SAUT}mysterious its shine becomes. Could{SAUT}such an aura... be replicated with paint?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "He ain't listenin' at all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Fox is useless once he gets like{SAUT}this. Just ignore what he says.{PAGE}But―more importantly! It looks like{SAUT}there's something unusual there.{SAUT}Check it out, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "*sigh* I should've brought my art{SAUT}supplies...{PAGE}Grr... How careless could I be!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Okay, bud, that's enough―let's go!",
+    "fr": ""
+  }
+]

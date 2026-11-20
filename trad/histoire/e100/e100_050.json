@@ -1,0 +1,157 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "What is it, Morgana!? You find some{SAUT}kinda clue?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Take a look at this door.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "What about it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "This door...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "So it's no use?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "This appears to be the exit, but there are{SAUT}multiple thick chains on the door...{PAGE}The chains are held on with four{SAUT}different padlocks...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "The hell is this!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "Such redundant security...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Wait, doesn't this mean we're trapped{SAUT}in here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Abduction and confinement confirmed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Hey, Morgana! Can't you pick them{SAUT}open?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "I gave it a shot, but it was useless.{SAUT}The keyholes aren't shaped for{SAUT}any ordinary keys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011_5",
+    "locuteur": "Morgana",
+    "en": "If we did something about them, I bet{SAUT}we could get out of here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Yeah... Hey, {f 6 1 30 0 0 0}, isn't there{SAUT}anything we can do?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "Let's force it open.{OPTION}This is hopeless.{OPTION}Could we even find the keys?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "*gasp* *pant* Dammit... this sucks!{SAUT}Won't budge... one bit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "Hm, so brute force won't work. Could{SAUT}we perhaps look for the keys?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "You're giving up already!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "Accepting defeat with grace can be{SAUT}admirable, but let's not do that just{SAUT}yet. Shall we find the keys?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "I already looked, but couldn't find{SAUT}them, or anything else―not even{SAUT}a mouse...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "While we're at it, how'd it go on your{SAUT}end? Any sign of Makoto or Haru?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Not at all. We looked everywhere, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "We didn't see a single clue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "Since the exit's chained up, it's{SAUT}doubtful they made it outside.{SAUT}What to do...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ann",
+    "en": "Hey, why don't we try heading back to{SAUT}where we first woke up?{PAGE}Maybe they've turned up there since we{SAUT}started poking around out here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "Yeah, Lady Ann has a point―and there's{SAUT}no use worrying about it out here...{PAGE}All right, let's head back!",
+    "fr": ""
+  }
+]

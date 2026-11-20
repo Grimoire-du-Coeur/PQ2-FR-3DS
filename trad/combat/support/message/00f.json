@@ -1,0 +1,82 @@
+[
+  {
+    "id": "BTL_MES_015_000",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_001",
+    "en": "Loss is not an option!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_003",
+    "en": "This is a dangerous FOE...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_005",
+    "en": "The probability of victory{SAUT}against this FOE is high.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_006",
+    "en": "A rare Shadow! Be careful{SAUT}not to let it escape!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_011",
+    "en": "This foe is quite formidable...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_013",
+    "en": "A new enemy! It would be{SAUT}best for us to collect intel!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_015",
+    "en": "These pose no threat to us.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_017",
+    "en": "We will show no mercy.{SAUT}Let us resolve this quickly.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_019",
+    "en": "I am detecting a change{SAUT}in the Shadow!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_022",
+    "en": "The situation is dire!{SAUT}We are at your command!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_053",
+    "en": "Let us resume the operation!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_055",
+    "en": "Pinpointing its weakness...{SAUT}I believe I am fit for this task.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_056",
+    "en": "I propose a Baton Pass.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_057",
+    "en": "Awaiting orders! I am most{SAUT}suited for this mission!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_015_086",
+    "en": "I am fully prepared.{SAUT}Let us engage!",
+    "fr": ""
+  }
+]

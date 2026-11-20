@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "You know, there's something about{SAUT}the citizens here... They're sort of eerie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Oh, you got that feeling too,{SAUT}{f 6 1 27 0 0 0}-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Everyone's trying to convince{SAUT}themselves that a hero of justice is{SAUT}always right and can do no wrong...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_5",
+    "locuteur": "P3 Fem Protag",
+    "en": "But it's like they refuse to think about{SAUT}what really matters: figuring out what{SAUT}justice actually is...{PAGE}It's like they're just going with the flow―{SAUT}the justice here is absolute, all because{SAUT}they're told it is.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Yeah, none of 'em are even tryin' to{SAUT}think for themselves...{PAGE}Kamoshidaman ain't right in the first{SAUT}place, but these people don't make{SAUT}any sense, either!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "If anything goes in the name of justice,{SAUT}this place is nastier than Kamoshida{SAUT}before his heart was changed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Well, that's even more of a reason for us{SAUT}to not dally around here, then.{PAGE}Let's hurry up with the rescue operation.",
+    "fr": ""
+  }
+]

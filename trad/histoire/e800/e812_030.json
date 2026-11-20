@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Chur-ros, chur-ros, sweet, sugary{SAUT}churroooooos!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* Panther sure is in a good{SAUT}mood. I'm excited too, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "I'm in a good mood just from watching{SAUT}her!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Man, you really like sweets. Is that all{SAUT}you think about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Shut up! At least I'm not a total{SAUT}bonehead like you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Bonehead...?{PAGE}Who you callin' a bonehead!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Rise",
+    "en": "You love sweets that much, and you{SAUT}still have a body like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, it's so cool that you're a model.{SAUT}You must work out when no one's{SAUT}watching.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Haha... I tend to give in to my cravings{SAUT}pretty often and usually have to work{SAUT}really hard to get back into shape.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Rise",
+    "en": "Still, you're probably one of the best in{SAUT}the business! I'm so jealous.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "C-C'mon guys, you're making me blush.{PAGE}But it also makes me really happy to{SAUT}hear you say that, so thanks!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Rise",
+    "en": "You're stylish, and you know how to{SAUT}dress. Can you teach me how to{SAUT}coordinate my outfits?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh! Me too!{PAGE}Maybe after Theo makes us the churros{SAUT}we can chit-chat while we eat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Rise",
+    "en": "That sounds great! I'll make some tea!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "...Well, they're havin' fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kanji",
+    "en": "Yeah... Probably gonna be a while.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "All this girliness... It's too much to{SAUT}handle!{PAGE}You'd better go get that cinnamon! We{SAUT}can't let them down!{PAGE}We're getting closer to our targets, so{SAUT}head over to whichever one you want!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "That reminds me, Joker. Is the map{SAUT}coming along nicely?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Of course.{OPTION}Honestly, I'm not sure...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Really? Can I see?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "...It would be a little better if you drew{SAUT}in a few more details.{PAGE}Once you outline the walls, I think it will{SAUT}be easier to identify both dead ends and{SAUT}places we still need to explore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Akechi",
+    "en": "That way, we can search every inch of{SAUT}the movie... It may even lead us to some{SAUT}unexpected treasures.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Hikari was kind enough to give us this{SAUT}notebook. Let's make good use of it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Looks like we've explored a great deal{SAUT}of this place. I doubt we'll overlook any{SAUT}items or hidden passages at this point...{PAGE}But perhaps it'd be better if you outlined{SAUT}the walls as well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Indeed. I imagine that will help us see{SAUT}both dead ends and paths we haven't{SAUT}yet traveled.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006_1",
+    "locuteur": "Yusuke",
+    "en": "It may also allow for smoother{SAUT}exploration, and there'll be less chance{SAUT}of us overlooking treasures as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "Hikari was kind enough to give us this{SAUT}notebook. Let's make good use of it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Hmm, looking good. The walls are{SAUT}outlined, and we've explored every{SAUT}nook and cranny thus far...{PAGE}We can also see where we've yet to go,{SAUT}so there doesn't appear to be any issues.{SAUT}Most impressive.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "Looks like we haven't overlooked any{SAUT}treasure either. You're making pretty{SAUT}good use of that notebook!{PAGE}We should thank Hikari for giving it{SAUT}to us!",
+    "fr": ""
+  }
+]

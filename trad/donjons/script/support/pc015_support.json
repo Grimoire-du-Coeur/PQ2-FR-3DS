@@ -1,0 +1,377 @@
+[
+  {
+    "id": "RYUJI_FOE_FOLLOW_START_1",
+    "en": "Whoa! An FOE!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_FOE_FOLLOW_START_2",
+    "en": "Shit! The FOE's comin'!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_FOE_FOLLOW_START_3",
+    "en": "That thing's spotted us!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_FOE_NEAR_1",
+    "en": "Holy crap, it's right there!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_FOE_NEAR_2",
+    "en": "Yo! We got an FOE over there!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_FOE_NEAR_3",
+    "en": "Dude, that thing's way too close!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_FOE_FOLLOW_END_1",
+    "en": "Damn... That was close.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_FOE_FOLLOW_END_2",
+    "en": "Sweet! We lost it!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_FOE_FOLLOW_END_3",
+    "en": "Heheh, looks like it gave up.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_KANSI_REACTION_1",
+    "en": "Try not to get spotted, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_KANSI_REACTION_2",
+    "en": "That light's a real pain in the ass.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_KANSI_REACTION_3",
+    "en": "Whew... This is tense.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_DENKISAKU_REACTION",
+    "en": "We can't get through with this goin'{SAUT}on...",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_DENKISAKU_REACTION#2",
+    "en": "We gotta switch off that electricity!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_DENKISAKU_REACTION#3",
+    "en": "Holy crap! An electric gate!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_KYOUHU_REACTION_1",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_KYOUHU_REACTION_2",
+    "en": "Shiiit!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_KYOUHU_REACTION_3",
+    "en": "Are you kiddin' me!?",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_STAIR_FIND_1",
+    "en": "Yo! Found a path we can take!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_STAIR_FIND_2",
+    "en": "C'mon, let's go!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_STAIR_FIND_3",
+    "en": "Hey, I bet we can go through here!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_TREASURE_FIND_1",
+    "en": "Sweet! Treasure!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_TREASURE_FIND_2",
+    "en": "Awright! The treasure's ours!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_TREASURE_FIND_3",
+    "en": "Yo, a treasure chest!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_CHECK_WALL_1",
+    "en": "There's somethin' weird about{SAUT}this area.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_CHECK_WALL_2",
+    "en": "Hey, let's check that out!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_CHECK_WALL_3",
+    "en": "I feel like somethin's here.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_SWITCH_FIND_1",
+    "en": "That a switch?",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_SWITCH_FIND_2",
+    "en": "It's some kinda button.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_SWITCH_FIND_3",
+    "en": "You gonna press it?",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_SHORTCUT_FIND_1",
+    "en": "Hey, think we can go through{SAUT}that?",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_SHORTCUT_FIND_2",
+    "en": "Maybe we can use that as{SAUT}a shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_SHORTCUT_FIND_3",
+    "en": "Check it out.{SAUT}Might be a shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_FOE_WARNING_NEAR_1",
+    "en": "Whoa, whoa!{SAUT}That thing's still comin'!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_FOE_WARNING_NEAR_2",
+    "en": "Damn, that thing won't quit!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_FOE_WARNING_NEAR_3",
+    "en": "That FOE's still around.{SAUT}Don't let it sneak up on you!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_1PERSON_HPTP10_1",
+    "en": "Damn, I'm done...",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_1PERSON_HPTP10_2",
+    "en": "Man... I'm beat...",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_1PERSON_HPTP10_3",
+    "en": "Ugh... I can't keep this up...",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_1PERSON_HP10_1",
+    "en": "Damn... This is rough...",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_1PERSON_HP10_2",
+    "en": "I need healin'...",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_1PERSON_HP10_3",
+    "en": "Damn... I'm ready to pass out.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_1PERSON_TP10_1",
+    "en": "I can't keep goin' like this...",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_1PERSON_TP10_2",
+    "en": "Too hungry... Can't go on...",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_1PERSON_TP10_3",
+    "en": "I'm way too tired...",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_1PERSON_HP80_1",
+    "en": "Heh, piece of cake!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_1PERSON_HP80_2",
+    "en": "Let's keep it goin'!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_1PERSON_HP80_3",
+    "en": "All right! Let's get a move on!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_DUNGEON_START_1",
+    "en": "Okay, let's get goin'!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_DUNGEON_START_2",
+    "en": "We're all set! Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_DUNGEON_START_3",
+    "en": "Let's get goin'!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_QUEST_START_1",
+    "en": "Let's get started!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_QUEST_START_2",
+    "en": "Let's wrap this up quick!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_QUEST_START_3",
+    "en": "Just like always, right!?",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_TOUHA_25_1",
+    "en": "We still got a lot more explorin'{SAUT}to do...",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_TOUHA_25_2",
+    "en": "One step at a time!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_TOUHA_50_1",
+    "en": "Halfway, huh?",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_TOUHA_50_2",
+    "en": "This is where the real fun begins!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_TOUHA_75_1",
+    "en": "Dude, we've gone pretty far!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_TOUHA_75_2",
+    "en": "Hey, looks pretty good!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_TOUHA_100_1",
+    "en": "Aaand done! Looks perfect!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_TOUHA_100_2",
+    "en": "This floor's ours!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_MAPPING_ICON_ALL_1",
+    "en": "Nice!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_MAPPING_ICON_ALL_2",
+    "en": "Looks good, man!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_MAPPING_ICON_KAIDA",
+    "en": "Yeah, that's it!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_MAPPING_ICON_KAIDA#2",
+    "en": "Perfect!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_MAPPING_CHANGE_COL",
+    "en": "Hey, not bad!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_MAPPING_CHANGE_COL#2",
+    "en": "Badass!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_MAPPING_ICON_DEL_1",
+    "en": "Heh, I knew you'd do that.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_MAPPING_ICON_DEL_2",
+    "en": "We can toss that.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_MAPPING_MEMO_1",
+    "en": "Kind of a stickler, ain't ya?",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_MAPPING_MEMO_2",
+    "en": "Whoa, nice.",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_DOOR_OPEN_1",
+    "en": "All right! Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_DOOR_OPEN_2",
+    "en": "Heheh, let's go, guys!",
+    "fr": ""
+  },
+  {
+    "id": "RYUJI_DOOR_OPEN_3",
+    "en": "Way ahead of ya!",
+    "fr": ""
+  }
+]

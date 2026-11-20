@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "Man, what a sight... There're robots{SAUT}everywhere you look.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Hey, that reminds me. Everyone here's{SAUT}from a different time, right?{PAGE}Then, does that mean there's a chance{SAUT}that future Japan looks just like this?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Of course not.{OPTION}Pretty much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Wait, seriously!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Of course not.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "Considering they know who Rise is,{SAUT}wouldn't that mean that our times{SAUT}aren't that far apart?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Figures...{PAGE}*sigh* I knew that'd be the case... Kinda{SAUT}disappointing, honestly. I was hoping{SAUT}for something with a little more mystery.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukari",
+    "en": "Well, if it's mystery you want, I think{SAUT}Aigis's existence is pretty fascinating.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "Yeah, but I'm talking more about, you{SAUT}know... a futuristic city sort of thing.{PAGE}I want a full-fledged sci-fi world that{SAUT}calls out to the little kid inside.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ken",
+    "en": "I get that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_1",
+    "locuteur": "Ken",
+    "en": "Oh, um... I meant that I'm interested in{SAUT}the latest technology, not the little kid{SAUT}thing.{PAGE}I'm talking about things like giant{SAUT}mechs and mass-produced robots!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Naoto",
+    "en": "Oh, I can understand that as well.{SAUT}I'm... well... somewhat interested in{SAUT}machinery...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Ooh, everyone's interests may differ a{SAUT}little, but it sounds like you're all pretty{SAUT}passionate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011_1",
+    "locuteur": "Futaba",
+    "en": "I bet it'd be fun if all the sci-fi fan{SAUT}Persona-users had a little get-together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Makoto",
+    "en": "I feel like that'd be a pretty intense.{SAUT}I don't think I'd be able to keep up with{SAUT}the conversation...{PAGE}More importantly, this seems to be a{SAUT}dead end. Let's try another path.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0000",
+    "locuteur": "Yosuke",
+    "en": "Man, what a sight... There're robots{SAUT}everywhere you look.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0001",
+    "locuteur": "Junpei",
+    "en": "Hey, that reminds me. Everyone here's{SAUT}from a different time, right?{PAGE}Then, does that mean there's a chance{SAUT}that future Japan looks just like this?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_0002",
+    "choix": true,
+    "en": "Of course not.{OPTION}Pretty much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0003",
+    "locuteur": "Junpei",
+    "en": "Wait, seriously!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0004",
+    "locuteur": "Makoto",
+    "en": "Of course not.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0005",
+    "locuteur": "P4 Hero",
+    "en": "Considering they know who Rise is,{SAUT}wouldn't that mean that our times{SAUT}aren't that far apart?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0006",
+    "locuteur": "Junpei",
+    "en": "Figures...{PAGE}*sigh* I knew that'd be the case... Kinda{SAUT}disappointing, honestly. I was hoping{SAUT}for something with a little more mystery.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0007",
+    "locuteur": "Yukari",
+    "en": "Well, if it's mystery you want, I think{SAUT}Aigis's existence is pretty fascinating.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0008",
+    "locuteur": "Junpei",
+    "en": "Yeah, but I'm talking more about, you{SAUT}know... a futuristic city sort of thing.{PAGE}I want a full-fledged sci-fi world that{SAUT}calls out to the little kid inside.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0009",
+    "locuteur": "Ken",
+    "en": "I get that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0009_1",
+    "locuteur": "Ken",
+    "en": "Oh, um... I meant that I'm interested in{SAUT}the latest technology, not the little kid{SAUT}thing.{PAGE}I'm talking about things like giant{SAUT}mechs and mass-produced robots!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0010",
+    "locuteur": "Naoto",
+    "en": "Oh, I can understand that as well.{SAUT}I'm... well... somewhat interested in{SAUT}machinery...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0011",
+    "locuteur": "Futaba",
+    "en": "Ooh, everyone's interests may differ a{SAUT}little, but it sounds like you're all pretty{SAUT}passionate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0011_1",
+    "locuteur": "Futaba",
+    "en": "I bet it'd be fun if all the sci-fi fan{SAUT}Persona-users had a little get-together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0012",
+    "locuteur": "Makoto",
+    "en": "I feel like that'd be a pretty intense.{SAUT}I don't think I'd be able to keep up with{SAUT}the conversation...{PAGE}More importantly, this seems to be a{SAUT}dead end. Let's try another path.",
+    "fr": ""
+  }
+]

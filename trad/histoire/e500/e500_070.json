@@ -1,0 +1,236 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Whew... It looks like we've still got quite{SAUT}a ways to go. Are you holding up all right,{SAUT}Hikari-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "I'm okay, thanks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akihiko",
+    "en": "The more we walk on this film floor,{SAUT}the more I feel like it's draining my{SAUT}energy.{PAGE}Hmh... So this is what Enlil calls{SAUT}\"salvation.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "If reality's too painful for someone,{SAUT}she offers them the option to escape it.{SAUT}I suppose that's a kind of salvation...{PAGE}But I wouldn't have anything to do with{SAUT}it, myself. If I only ran from my problems,{SAUT}none of them would ever be solved.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "Now that I've seen the edited versions{SAUT}of the movies, I agree with you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "But man, to think Nagi-san turned out{SAUT}to be the baddie causing all of this...{PAGE}She seemed so nice, and caring, and{SAUT}gorgeous... Totally the ideal older-sister{SAUT}type!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukari",
+    "en": "Ugh... That kind of talk totally grosses{SAUT}me out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "Aw c'mon, it's a man's dream! You get it,{SAUT}right {f 6 1 16 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Hero",
+    "en": "...Huh? Sorry, I wasn't listening.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Junpei",
+    "en": "How could you blow me off like that!?{SAUT}Don't make me invoke the \"Have Pity{SAUT}Ordinance\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Hero",
+    "en": "What's a \"Have Pity Ordinance\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Aigis",
+    "en": "I am able to recall Junpei-san teaching{SAUT}me about this ordinance previously...{PAGE}It is a command forbidding anyone{SAUT}from treating Junpei-san lower than{SAUT}a grasshopper.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, he does that in this world too?{SAUT}The Junpei in my world tries to pull{SAUT}the same move.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Junpei",
+    "en": "Haha, I'm impressed with the other me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "Uh, but doesn't that mean you get{SAUT}treated lower than a grasshopper{SAUT}in any reality?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "I think I've finally deduced the true{SAUT}hierarchy of SEES...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Mitsuru",
+    "en": "Moving on from grasshopper talk―the{SAUT}woman we knew as Nagi showed us{SAUT}great kindness while in the theater...{PAGE}Was that all to deceive us as well?{SAUT}It seems awfully counterintuitive,{SAUT}considering the amount of support.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Fuuka",
+    "en": "Even after ruining her plans for{SAUT}Hikari-chan, she didn't exactly bear{SAUT}any ill will towards us...{PAGE}To be honest, she sort of just brushed{SAUT}us off and let us go on our way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Hikari",
+    "en": "I have a feeling she's got some reason{SAUT}for letting us go...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Fem Protag",
+    "en": "Me too―not only that, I think she wasn't{SAUT}actually lying about trying to save{SAUT}Hikari-chan, either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Shinjiro",
+    "en": "Well, whatever her deal is, it doesn't{SAUT}change what we've gotta do...{PAGE}We've gotta bust up this bullshit{SAUT}\"salvation\" she's runnin' here―{SAUT}for good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Hero",
+    "en": "In that case, we know what our next{SAUT}mission is...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "Let's put a stop to Enlil's scheme.{OPTION}Let's set those people free.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ryuji",
+    "en": "Hell yeah! Here come the Phantom{SAUT}Thieves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "The Investigation Team is on the case!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says, \"SEES will do its best{SAUT}as well.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Hikari",
+    "en": "So... I think I finally understand what{SAUT}a companion really is, now.{PAGE}It's not just getting along or having fun{SAUT}with another person.{PAGE}Everyone has an ending to their own{SAUT}story that they want to see, and they{SAUT}strive to reach with all their heart...{PAGE}So when you look beside you, and there{SAUT}are others proudly fighting to reach{SAUT}the same ending as you...{PAGE}Even though you might misunderstand{SAUT}or disagree with each other sometimes,{SAUT}you support each other along the way...{PAGE}And that is what makes someone{SAUT}your companion.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P3 Hero",
+    "en": "Right―we're all going to fight back{SAUT}together, as companions.{PAGE}We're following our own beliefs{SAUT}to the end, just like you are.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ken",
+    "en": "That's right. I hope we can all do our{SAUT}best together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Junpei",
+    "en": "Face it―this one's in the bag! We've got{SAUT}the Investigation Team, the Phantom{SAUT}Thieves, and even SEES on the job.{PAGE}This group is more than impressive―it's{SAUT}downright insane! I mean, what is this,{SAUT}some kinda all-star show?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Hikari",
+    "en": "*giggle* That sounds like a crossover{SAUT}movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Aigis",
+    "en": "So, we are within a crossover movie{SAUT}comprised of humanoid companions{SAUT}and a grasshopper... I comprehend.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Junpei",
+    "en": "Wait a sec―even Aigis is classifying me{SAUT}as some kinda grasshopper now!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yukari",
+    "en": "Geez, would you drop the grasshopper{SAUT}thing already? C'mon, let's bug off{SAUT}without this bug.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Yukiko",
+    "en": "Don't be so down, Grass―{PAGE}―Junpei-kun... Ah, why don't we hurry{SAUT}along so we don't get left behind?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Junpei",
+    "en": "Oh no―even YOU!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Mitsuru",
+    "en": "Good heavens. How long do you intend{SAUT}to continue this subpar routine?{PAGE}We've rested here for long enough.{SAUT}Let's prepare ourselves and be{SAUT}on our way!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "It's nice to meet you all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Some sort of fate must have led our{SAUT}paths to cross―it's a pleasure meeting{SAUT}you as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "So, um, there's something I've been{SAUT}curious about since I first saw you all...{PAGE}It's not just your masks, but all your{SAUT}outfits―they kinda make me think of{SAUT}phantom thieves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Ohhh shit, this is bad! Did she figure{SAUT}out who we are!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "Who you are?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Skull, you moron! Stop digging our{SAUT}graves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "This isn't good... How should we explain{SAUT}our attire?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "We're all just cosplaying.{OPTION}These are our uniforms for work.{OPTION}We're THE Phantom Thieves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Is that what's popular right now? Or, are{SAUT}they for some kind of costume party?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "Y-Yeah... something like that! We're all{SAUT}like, \"Par-tay, woot wooooot!\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Woot...? I don't really get what you{SAUT}mean, but it sounds fun!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "So your jobs are to cosplay as phantom{SAUT}thieves, or you're all thieves that were{SAUT}hired to cosplay...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Umm, yeah... Don't think too much{SAUT}about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012_5",
+    "locuteur": "Ann",
+    "en": "Phantom thieves are big right now, so{SAUT}we kinda just... went with the flow? Or{SAUT}some crap?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Don't call our cover \"crap\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ooh, really? I don't totally get it, but it{SAUT}sounds fun!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "\"The\" Phantom Thieves?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "You CORRECTED her!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "But... she doesn't seem to fully{SAUT}comprehend.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Akechi",
+    "en": "Could you possibly be unaware{SAUT}of the Phantom Thieves?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ann",
+    "en": "No way! It's been all over the news{SAUT}and the internet every day lately...{PAGE}You really haven't heard of the{SAUT}\"Phantom Thieves of Hearts\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "Sorry, no clue―I watch the news{SAUT}pretty regularly, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Whoa, she really doesn't know! Maybe{SAUT}the Phantom Thieves aren't nationally{SAUT}famous yet?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akechi",
+    "en": "The news can differ based on{SAUT}prefecture. But, even still...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "Well, doesn't this only work to our{SAUT}convenience?{PAGE}I believe that we should prioritize{SAUT}escaping from here at the moment,{SAUT}anyway.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Akechi",
+    "en": "Oh, right... Those citizens we hid from{SAUT}were likely referring to her when they{SAUT}were talking about \"another criminal.\"{PAGE}If that's the case, we oughtn't chat here{SAUT}any longer―we should go back to{SAUT}the theater where it's safer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P3 Fem Protag",
+    "en": "Theater? I'm sorry, but I have no idea{SAUT}where one is around here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Morgana",
+    "en": "Looks like we know more than she does{SAUT}about what's going on right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P3 Fem Protag",
+    "en": "Whoa! The cat talked!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "I am NOT a cat!{PAGE}And NOW you're reacting to this!?{SAUT}We were fighting next to each other{SAUT}just a second ago!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh yeah, you're right... So, he's a{SAUT}Persona-user too, I'm guessing?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_031",
+    "choix": true,
+    "en": "That's right.{OPTION}He's just a lil' meow-meow.{OPTION}It's a long story...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Morgana",
+    "en": "Hell no! I don't care how adorable{SAUT}you make it sound―just, HELL NO!{PAGE}...Now I'm exhausted.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Morgana",
+    "en": "That's right. I take on this form because{SAUT}of the distortion from Mementos,{SAUT}where―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mementos?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ryuji",
+    "en": "Yeah, yeah―we'll talk about all that{SAUT}later.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Yusuke",
+    "en": "That may be the case with Morgana, but{SAUT}shouldn't we explain ourselves as well?{PAGE}We're all Persona-users... I'm certain{SAUT}she'd understand our circumstances.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_037",
+    "choix": true,
+    "en": "That's true.{OPTION}Let's get out of this movie first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yusuke",
+    "en": "We can talk about it while we return{SAUT}to the theater.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ann",
+    "en": "I agree. We should reunite her with{SAUT}Theodore as soon as possible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P3 Fem Protag",
+    "en": "If you can take me to Theo, then please,{SAUT}let me join you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Ryuji",
+    "en": "Then it's decided―let's get back to{SAUT}the theater.",
+    "fr": ""
+  }
+]

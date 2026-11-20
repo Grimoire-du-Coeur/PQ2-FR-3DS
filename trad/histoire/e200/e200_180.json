@@ -1,0 +1,296 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Wait! Everyone―stop, stop!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "What's wrong, Panther!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Look, over there―it's a herd{SAUT}of dinosaurs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Whoa, you're right! Should we run,{SAUT}or are we gonna fight 'em!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "Hold on―that herd... They look like{SAUT}the dinosaurs from the movie trailer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "As I recall, Crow said that the key to{SAUT}changing this movie lies with{SAUT}those dinosaurs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "Right. Just as we did before with{SAUT}Kamoshidaman, it seems that we{SAUT}need to change their mentality.{PAGE}Now, as for how exactly to do that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "Uhhh, guys―one of 'em is coming{SAUT}this way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Dinosaur with headphones",
+    "en": "*munch munch* Fresh grass is just{SAUT}the best!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "Y-YOSUKE!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "Huh!? Are you referring to your missing{SAUT}companion?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Makoto",
+    "en": "THAT'S Hanamura-kun? He has{SAUT}a human head, but―his body...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Wait, did we even see a dino that looks{SAUT}like him in the trailer?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "No way! We wouldn't have forgotten{SAUT}something like THAT.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Teddie",
+    "en": "Yosuke, nooooo! Have you been{SAUT}turned into a dino in the short time{SAUT}we were apart?{PAGE}Well... I won't let something like this{SAUT}ruin our friendship!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kanji",
+    "en": "Uhhh, that dude's just munchin' away{SAUT}on grass. I don't think he's noticed us{SAUT}at all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P4 Hero",
+    "en": "If he loves greens that much, maybe{SAUT}I should give him a head of cabbage{SAUT}next time I get a chance...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "So, that dinosaur is Yosuke?{OPTION}I'm more of a lettuce man myself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P4 Hero",
+    "en": "That face is definitely his, but...{SAUT}I have no idea why he turned{SAUT}into a dinosaur.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Haru",
+    "en": "Maybe he returned to his true self{SAUT}after spending enough time on this{SAUT}island.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Makoto",
+    "en": "Come now, he's not some kind of pet{SAUT}that ran away and grew feral. That's{SAUT}impossible... right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "True, cabbage doesn't evoke the same{SAUT}grasslike imagery as lettuce does...{PAGE}And, while delicious, if you buy a whole{SAUT}head of cabbage when it's on sale, it's{SAUT}difficult to finish before it spoils.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "I know someone with that exact same{SAUT}problem!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ann",
+    "en": "Uh, we don't really care about this{SAUT}cabbage convo.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Naoto",
+    "en": "Back to the matter at hand, what{SAUT}exactly could that dinosaur be?{PAGE}Considering the striking similarities,{SAUT}it seems foolish to think they're{SAUT}unrelated.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Akechi",
+    "en": "Your team, these dinosaurs, and this{SAUT}movie... I feel like there must be some{SAUT}kind of connection.{PAGE}If only we could speak with that{SAUT}dinosaur...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_026",
+    "choix": true,
+    "en": "Let's give it a shot.{OPTION}I can't speak dinosaur.{OPTION}Go for it, Skull.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Haru",
+    "en": "Well, he spoke our language when he{SAUT}was talking to himself, so it very well{SAUT}may work.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Chie",
+    "en": "Why don't you just try stuff like, \"Raaar,\"{SAUT}or \"Groooo\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Haru",
+    "en": "Well, he spoke our language when he{SAUT}was talking to himself, so I think we'll{SAUT}be fine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ryuji",
+    "en": "Why me!? If you want a conversation{SAUT}between animals, I can think of{SAUT}someone better...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Morgana",
+    "en": "Did you just shoot me a look!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Haru",
+    "en": "Well, he spoke our language when he{SAUT}was talking to himself, so I think we'll{SAUT}be fine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ann",
+    "en": "What was that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Nervous herbivore",
+    "en": "Look out! Predators are coming!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Loud herbivore",
+    "en": "Aaaaaaah! R-Run for it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Dinosaur with headphones",
+    "en": "Crap, I better run too...{PAGE}Hup... Whoa―Whoaaaa!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yukiko",
+    "en": "...Oh, he tripped.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Dinosaur with headphones",
+    "en": "H-Hnnnnnnghhhh!!!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ryuji",
+    "en": "Wow, he really ate it, didn't he? Look{SAUT}at him, all writhin' in pain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P4 Hero",
+    "en": "That sight... It's truly the spitting image{SAUT}of Yosuke.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Sulky herbivore",
+    "en": "It's coming! Everyone, we gotta get{SAUT}out of here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Stubborn herbivore",
+    "en": "Yeah, hurry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Morgana",
+    "en": "Hey, they're all running away and{SAUT}abandoning him!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Haru",
+    "en": "Isn't he supposed to be their{SAUT}companion!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Dinosaur with headphones",
+    "en": "Hnnnnghhh... Hrgh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "P3 Fem Protag",
+    "en": "At this rate, he's going to get attacked{SAUT}by the enemy! What should we do!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Chie",
+    "en": "We can't just leave him like that―he's{SAUT}got Yosuke's face! We gotta save him!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "P4 Hero",
+    "en": "Right―let's go!",
+    "fr": ""
+  }
+]

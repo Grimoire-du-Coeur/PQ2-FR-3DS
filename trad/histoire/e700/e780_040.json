@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1607}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Gemori{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1608}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Ammut{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1609}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Hare of Inaba{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1610}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Mayahuel{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1611}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Vivian{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1612}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Dzelarhons{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1613}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Fenrir{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1614}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Hathor{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1615}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Longinus{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1616}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Jeanne d'Arc{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1617}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Vouivre{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1618}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Kudlak{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1619}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Kresnik{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1620}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Seraph{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1621}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Huang Di{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1622}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Black Frost{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1623}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Alice{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1624}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Michael{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1625}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Norn{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1626}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Pale Rider{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1627}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Shiva{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1628}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Beelzebub{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1629}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Lucifer{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1630}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Special Persona 24{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Caroline",
+    "en": "Hey! That's a {f 4 4 3 0 1631}!{PAGE}We'll make it so you can summon{SAUT}{f 0 1 2}Special Persona 25{f 0 1 0} through special fusion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_090",
+    "locuteur": "Justine",
+    "en": "Hm...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_091",
+    "locuteur": "Justine",
+    "en": "Caroline... Do you sense anything from{SAUT}the prisoner yet?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_092",
+    "locuteur": "Justine",
+    "en": "Wait, Inmate.",
+    "fr": ""
+  }
+]

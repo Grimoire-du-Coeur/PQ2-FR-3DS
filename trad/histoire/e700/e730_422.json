@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Hey, we can't go that way. It looks like{SAUT}we're gonna have to find some other{SAUT}path.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "It's a pain in the butt, but there's not{SAUT}much we can do about it. Why don't{SAUT}we get going?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Wait, that door won't open.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "Eheheh, I guess we gotta use the duct{SAUT}again... Too bad there isn't any other{SAUT}way around it.",
+    "fr": ""
+  }
+]

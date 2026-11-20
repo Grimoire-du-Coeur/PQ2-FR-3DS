@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "Boy, these carnivores... It truly is scary{SAUT}to have no idea when you may{SAUT}encounter them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosukesaurus",
+    "en": "Right!? If they came after us, we'd be{SAUT}done for...{PAGE}Cornered and eaten―and not a thing{SAUT}we could do about it... It's super scary.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "But, you're a dinosaur too, right? You{SAUT}could at least put up a fight and―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ferocious cry",
+    "en": "GYAAAAAAAAAAH!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Wh-What was that sound!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosukesaurus",
+    "en": "A-Ah... Aaahhh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kanji",
+    "en": "Hey, what's up? Your legs are all{SAUT}wobbly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Sulky herbivore",
+    "en": "I-It's a carnivore!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Nervous herbivore",
+    "en": "*shriek* It's coming!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosukesaurus",
+    "en": "If we don't get outta here, we'll be{SAUT}spotted! Run!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Kanji",
+    "en": "Wha―!? Those guys just ditched us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Chie",
+    "en": "Crap, we better hurry after them!",
+    "fr": ""
+  }
+]

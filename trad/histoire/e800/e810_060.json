@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kanji",
+    "en": "This is the spot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "But we can't start fishing without any{SAUT}bait.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "We'll need some bugs.{PAGE}I'm sure we'll find more than enough if{SAUT}we look among the leaves. Let's go see.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "This is it! I can sense them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "Well, we got our bait. Let's find that fish!{PAGE}You got this, Senpai!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Bet Joker catches it first!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kanji",
+    "en": "What's that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Fine, then, it's a duel! Show 'em what{SAUT}you got, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "Leave it to me.{OPTION}Time to finish what we started.{OPTION}Don't drag me into this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P4 Hero",
+    "en": "Hm. Let's do it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "C'mon, it'll be fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "You can do it, Sensei!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Go, Joker! Show us your brilliance!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Makoto",
+    "en": "I knew this would happen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "All right. Ready... Go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P4 Hero",
+    "en": "Hm!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Guess we'll have to wait. It usually{SAUT}takes a while from this point...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P4 Hero",
+    "en": "...I've got a bite!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "Are you kidding me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "The way the line's pulling, it's gonna{SAUT}be a big one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P4 Hero",
+    "en": "Ugh... This thing's about to take me{SAUT}down with it...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_021",
+    "choix": true,
+    "en": "I've got your back.{OPTION}We'll do it together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "Joker... Right!{PAGE}Ready? One... Two...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "Three!{OPTION}Got you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Kanji",
+    "en": "Whoa! That's hella huge...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Makoto",
+    "en": "Judging by the size, I'm sure this is the{SAUT}fish we're looking for.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P4 Hero",
+    "en": "Whew... Thanks. It was supposed to be a{SAUT}duel, but you still stepped in to help me.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_027",
+    "choix": true,
+    "en": "I did what any leader would do.{OPTION}We're a team.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P4 Hero",
+    "en": "Our leader...{PAGE}You're right. I would've done the same{SAUT}thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P4 Hero",
+    "en": "A team... Yeah, you're right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Futaba",
+    "en": "There was like, a clashing of powers,{SAUT}and a fusion thing that was so intense!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Haru",
+    "en": "You two were able to catch the fish{SAUT}because you worked together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Yusuke",
+    "en": "Yes, it was quite the battle.{PAGE}Well now, I'd say we're done here.{SAUT}Let's head back.",
+    "fr": ""
+  }
+]

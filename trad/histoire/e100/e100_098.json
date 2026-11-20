@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Hm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Uh, what the hell is this!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "A Kamoshidaman sign... This wasn't{SAUT}here earlier, right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Did this pop up while we were watchin'{SAUT}the Kamoshidaman trailer?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Remember what Nagi said?{PAGE}She said the movie's details changed{SAUT}when we came to this place.{PAGE}So, perhaps...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "There could be a correlation, but I don't{SAUT}think we'll reach an answer at this point,{SAUT}no matter how long we hypothesize.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "That's true. Nagi-san's waiting for us{SAUT}at the concession stand anyway―let's{SAUT}head over there.",
+    "fr": ""
+  }
+]

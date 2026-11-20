@@ -1,0 +1,82 @@
+[
+  {
+    "id": "BTL_MES_024_000",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_001",
+    "en": "Same as always...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_003",
+    "en": "An FOE... We best avoid it.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_005",
+    "en": "We may be able to win.{SAUT}Do we stay and fight?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_006",
+    "en": "Hmm... This must be a rare{SAUT}Shadow...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_011",
+    "en": "This Shadow may be tough...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_013",
+    "en": "We haven't seen this before.{SAUT}Let's uncover its weakness.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_015",
+    "en": "These shouldn't present us{SAUT}with any trouble.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_017",
+    "en": "This one's not a threat.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_019",
+    "en": "Hm! The Shadow has changed!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_022",
+    "en": "A most unfortunate situation...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_053",
+    "en": "You will die by my sword!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_055",
+    "en": "Hm... I believe I'll be able to{SAUT}exploit its weakness.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_056",
+    "en": "A Baton Pass, hm?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_057",
+    "en": "Leave the rest to me!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_024_086",
+    "en": "I'll show them just how{SAUT}graceful I can be.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Huh? The hell's this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Hmm... It looks like they're...{SAUT}coordinates?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "But why would they be in a treasure{SAUT}chest?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "C'mon guys! Am I the only one here{SAUT}with a working brain?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Morgana",
+    "en": "It could only be a treasure map!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Yeah, it's gotta be! Smart, Mona!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Is it all that smart, though?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Of course not; he's just guessing!{OPTION}He's on to something!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "I agree. It's not like we know for sure if{SAUT}it's actually a treasure map...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "But we shouldn't rule it out! Let's have{SAUT}Oracle take a look.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "So you're taking his side.{PAGE}Fine, whatever. It ain't like I can figure{SAUT}out what it is.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, maybe it's real. Let's have Oracle{SAUT}take a look.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Hm... Looking at these coordinates...{SAUT}It's here, here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "...And here! Hell yeah, we gotta{SAUT}check all three spots!",
+    "fr": ""
+  }
+]

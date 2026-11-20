@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "I am most unsatisfied with your results.{PAGE}Your goal was to \"gather\" the{SAUT}ingredients, but it appears you went{SAUT}ahead and cooked them...{PAGE}Thanks to your selfishness, I sat here{SAUT}half-starved.{PAGE}Now my hunger is so intense, I'm{SAUT}fraught with an ever-swelling urge to{SAUT}DESTROY EVERYTHING!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "We've got leftover ingredients. Shinji{SAUT}can probably make something for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Shinjiro",
+    "en": "The hell!? Don't volunteer me{SAUT}like that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "I suppose it can be arranged.{PAGE}Very well. I'll wait for this feast until the{SAUT}end of days if I must!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_05",
+    "locuteur": "Shinjiro",
+    "en": "Sheesh... This ain't gonna be easy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "It's rather peculiar, but I feel{SAUT}significantly more powerful after eating{SAUT}Aragaki-san's cooking.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Shinjiro",
+    "en": "It's probably because you're full.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Indeed. Full of inspiration! What an{SAUT}uplifting sensation!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akihiko",
+    "en": "You know what they say: you can't{SAUT}fight on an empty stomach.{PAGE}The only way to take on the really{SAUT}tough opponents is with training{SAUT}and a proper diet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Shinjiro",
+    "en": "Said it once, I'll say it twice: can it{SAUT}with the protein, will ya?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "Giving us protein's like giving wings{SAUT}to a tiger. It's a match made in{SAUT}heaven.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Shinjiro",
+    "en": "You little... What did I just say!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "Hmm, he has a point. That meal was{SAUT}absolute perfection!{PAGE}Perhaps I can channel this feeling into{SAUT}my combat routine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akihiko",
+    "en": "Yeah! We'll take some protein alongside{SAUT}Shinji's meal and go in for the kill! It'll{SAUT}be great!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Shinjiro",
+    "en": "These two are somethin' else...{PAGE}Well, if you guys're hungry, I don't{SAUT}mind cooking for you again...{PAGE}But if I catch you puttin' that protein{SAUT}shit on everything, there'll be hell to{SAUT}pay, got it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "Understood... We'll just have to eat it on{SAUT}our own time. Very well, then! Good{SAUT}food and protein it is!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akihiko",
+    "en": "Sounds like a plan!",
+    "fr": ""
+  }
+]

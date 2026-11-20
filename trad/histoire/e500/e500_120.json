@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Heh! That ain't gonna stop us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Enlil",
+    "en": "It's true that you're all quite strong.{SAUT}You even have the power to resist me.{PAGE}However, expecting such strength from{SAUT}every person is nothing but arrogance...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "What do you mean by that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Enlil",
+    "en": "It's quite easy to say aloud, \"Stand up{SAUT}for yourselves.\"{PAGE}However, actually expecting everyone{SAUT}to be as strong and brave as yourselves?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "Are you trying to tell us we're wrong{SAUT}for wanting to help these people?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Enlil",
+    "en": "I understand that you are doing your{SAUT}best to change the hearts of those{SAUT}in the theaters...{PAGE}But is that truly what they desire?{PAGE}Look for yourselves―these are the true{SAUT}feelings of the feeble creatures called{SAUT}\"human beings\"...",
+    "fr": ""
+  }
+]

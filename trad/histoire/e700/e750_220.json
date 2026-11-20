@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "Joker, look here. This part of the floor{SAUT}seems to have some special function...{PAGE}Do you think... we're supposed to{SAUT}step on it?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Let's hop on and find out.{OPTION}I don't know about that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akihiko",
+    "en": "Yeah, let's do it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "Stop, Akihiko.{PAGE}Don't meddle with things that we{SAUT}don't understand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mitsuru",
+    "en": "That seems wise. There's no need to{SAUT}meddle with something that has{SAUT}unknown effects.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Hmm... But I'm still awfully curious.{SAUT}Maybe this has something to do with{SAUT}that device we saw earlier.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_5",
+    "locuteur": "Yukiko",
+    "en": "Hey, Chie―why don't we try jumping{SAUT}on this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Chie",
+    "en": "Huh!? Uhhhh... Doesn't that seem like{SAUT}a bad idea?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "And weren't we just told not to do{SAUT}that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukiko",
+    "en": "Yeah, but... doesn't that just make you{SAUT}want to do it even more? Or is it only{SAUT}me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "Ah, well, uh... If we find no other path,{SAUT}then I suppose we could give it a try.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Mitsuru",
+    "en": "That's a good point. Joker, we'll leave{SAUT}the testing up to you.",
+    "fr": ""
+  }
+]

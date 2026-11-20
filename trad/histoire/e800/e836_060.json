@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Lab security",
+    "en": "UNAUTHORIZED PRESENCE DETECTED.{SAUT}UNAUTHORIZED PRESENCE DETECTED.{SAUT}ALL UNITS, CONVERGE ON INTRUDERS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "Dammit, more!? They just keep comin'!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "We're doomed... I see a light at the{SAUT}end of the tunnel...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Hang in there, Teddie! Don't go into{SAUT}the light!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Rise",
+    "en": "We're back! The analysis is complete!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Fuuka",
+    "en": "The security systems have activated.{SAUT}It's sending multiple enemies to your{SAUT}position.{PAGE}There's no point trying to stop the{SAUT}security system, so we prioritized{SAUT}getting you safely out of there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Mitsuru",
+    "en": "Do we have an escape route?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Of course! We'll guide you out!{SAUT}This way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "All right! Let's get outta here!",
+    "fr": ""
+  }
+]

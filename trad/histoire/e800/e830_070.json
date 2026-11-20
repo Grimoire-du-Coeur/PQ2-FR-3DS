@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "So you managed to root out the{SAUT}truth of the complex labyrinth, and{SAUT}made it to safety.{PAGE}Just as the word \"GROW\" guided you,{SAUT}the path you followed was indeed one{SAUT}of self-betterment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "Uh huh. I had a feeling you'd bring{SAUT}that up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "Heh... Sounds familiar.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "It's weird, though. The entire labyrinth{SAUT}really did change somehow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Hero",
+    "en": "Maybe there's some hidden meaning{SAUT}to it... or maybe I'm overthinking it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "The heart of a labyrinth is allowed to{SAUT}change! Just like the heart of a fair{SAUT}bear maiden!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Rise",
+    "en": "Ahaha! Whatever you say.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Shinjiro",
+    "en": "You still hangin' out way over here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Hahaha... You're one to talk.{PAGE}Sorry, I don't mean to worry you.{SAUT}You needn't feel obligated to talk{SAUT}to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Shinjiro",
+    "en": "Nah, that ain't it.{PAGE}Kinda feels like we're the same, is all.{SAUT}Nice to talk to another guy who{SAUT}doesn't fit in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "You and I...? The same?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Shinjiro",
+    "en": "Besides, I can tell you're―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akihiko",
+    "en": "Shinji, give me a hand! I got you a{SAUT}mitt, so help me do some drills!{PAGE}Hey, Shinji! Where'd you go?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "Sounds like you're needed elsewhere.{SAUT}Go on, don't worry about me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akechi",
+    "en": "I suspect... we're not as similar{SAUT}as you think.{PAGE}I've chosen my own path. That's all{SAUT}there is to it, I'm afraid.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Shinjiro",
+    "en": "......{PAGE}Look, I don't know your life, but{SAUT}let me just say this.{PAGE}I've done a lot of bad shit. Wish I{SAUT}could undo some of it. But since I{SAUT}can't, I try to live with no regrets.{PAGE}That's all. See ya.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "......{PAGE}I really am sorry... but I just don't{SAUT}understand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "...\"Regrets,\" indeed.",
+    "fr": ""
+  }
+]

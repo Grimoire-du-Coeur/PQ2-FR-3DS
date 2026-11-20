@@ -1,0 +1,122 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Good job, guys! That's the second one!{PAGE}Just one more to go! You've got this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "You know now that I think about it,{SAUT}the navigators are amazing.{PAGE}It's not just about scanning enemies.{SAUT}They have to keep track of all our{SAUT}health, our positions, our powers...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Yeah. Without the navigation, we'd be{SAUT}screwed... Guess we'd better be{SAUT}thankful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Y'know, I kinda want to try navigating.{PAGE}I could totally shout advice. Like,{SAUT}\"The enemy's coming from behind!{SAUT}Never give up! Trust your instincts!\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Is that... navigating? I feel like{SAUT}advice should be more...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Precise?{OPTION}Fun?{OPTION}Passionate?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "Right. It's about quick thinking,{SAUT}analysis, AND communication.{PAGE}They might not have combat abilities,{SAUT}but they need a lot of techniques.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "Well, yes... But just focusing on having{SAUT}fun isn't going to help a field team.{PAGE}What's important is quick thinking,{SAUT}analysis, AND communication.{PAGE}They might not have combat abilities,{SAUT}but they need a lot of techniques.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "Well, yes... But just focusing on being{SAUT}passionate isn't going to help a field{SAUT}team.{PAGE}What's important is quick thinking,{SAUT}analysis, AND communication.{PAGE}They might not have combat abilities,{SAUT}but they need a lot of techniques.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "That's not all! Like Sensei said,{SAUT}they're all special in their own way!{PAGE}Fuu-chan is so kind and polite!{SAUT}It makes my bear heart go all{SAUT}fluttery...{PAGE}But Oracle is always pumped up!{SAUT}I'm always hyped when she's around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Junpei",
+    "en": "Yeah, I know what you mean... Still,{SAUT}out of all of them, Risette's probably{SAUT}the biggest surprise.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Yeah. We've got an idol backing us up!{SAUT}We're totally like VIPs over here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Oh yeah? Well as long as you two{SAUT}have your idols, I guess you don't{SAUT}need my help, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "Uh―just kidding, Ms. Oracle! Sir!{SAUT}Uh, ma'am! We're counting on you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akihiko",
+    "en": "It's thanks to our navigators that{SAUT}we can fight as hard as we do.{PAGE}As long as we keep moving forward,{SAUT}we should remember that we{SAUT}couldn't do without them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Fuuka",
+    "en": "Oh no, I-I think that's a little much...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Rise",
+    "en": "But when I hear that from you guys,{SAUT}it makes me glad I've been trying{SAUT}my best for you.{PAGE}I mean, we want you guys to do{SAUT}your best in battles!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Junpei",
+    "en": "You're definitely motivating us!{SAUT}Keep up the good work, ladies!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Rise",
+    "en": "You got it! We'll back you up with{SAUT}all we've got!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "Okay, enough with the lovefest here.{SAUT}Chop chop! You guys got a part to find!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "The manhole is just through here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "That's great, but I'm sensing a ton of{SAUT}Shadows up ahead...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Sorry to say it, but that's the only way{SAUT}through.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Uhh, what would a phantom thief do{SAUT}in this situation?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Fight.{OPTION}We're going in.{OPTION}Everyone ready?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Cautious yet bold... That's what being{SAUT}a phantom thief is all about.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "We can do this! Let's go!",
+    "fr": ""
+  }
+]

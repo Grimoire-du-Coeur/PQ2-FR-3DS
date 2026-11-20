@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "What could this be?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Hmm... I can't get a good reading from{SAUT}where I am. Ergo, no idea! It's a mystery.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Hey, animal noses are useful for this{SAUT}kind of stuff―Mona, can't you tell{SAUT}what it is by smelling it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "I―AM―A―HUMAN! Not some... police{SAUT}dog!{PAGE}...Even still, it does have a pretty shine{SAUT}to it. It reminds me of a Treasure.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "A Treasure, hm...? Then, for our own{SAUT}convenience, why don't we call this{SAUT}a \"Treasure Spot\"?{PAGE}It's possible that they provide highly{SAUT}lucrative goods.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Sounds good to me. That'll make it{SAUT}easy to understand, for all of us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "So, that shine disappears once you{SAUT}gather things from it...{PAGE}Such transience has a pleasing quality{SAUT}to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "...Anyway, we should check places that{SAUT}have a shining light. Keep your eyes{SAUT}peeled, Joker!",
+    "fr": ""
+  }
+]

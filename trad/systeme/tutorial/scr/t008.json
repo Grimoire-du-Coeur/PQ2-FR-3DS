@@ -1,0 +1,12 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "There are {f 0 1 2}treasure chests that only open{SAUT}after a floor is 100% explored{f 0 1 0}.{PAGE}But if that condition isn't met, there is{SAUT}one other option: {f 0 1 2}spend Play Coins{f 0 1 0}!{PAGE}The chests contain {f 0 1 2}very useful items{f 0 1 0}, so{SAUT}you should strive to open them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "See how much floor you've explored in the{SAUT}{f 0 1 2}upper right corner of the bottom screen{f 0 1 0}.",
+    "fr": ""
+  }
+]

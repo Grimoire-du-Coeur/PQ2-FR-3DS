@@ -1,0 +1,377 @@
+[
+  {
+    "id": "MONA_FOE_FOLLOW_START_1",
+    "en": "The FOE's spotted us!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_FOE_FOLLOW_START_2",
+    "en": "That big one's spotted us!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_FOE_FOLLOW_START_3",
+    "en": "Uh-oh, it's chasing us!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_FOE_NEAR_1",
+    "en": "There's an FOE close by!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_FOE_NEAR_2",
+    "en": "Hey, it's an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_FOE_NEAR_3",
+    "en": "FOE! Get back!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_FOE_FOLLOW_END_1",
+    "en": "All right, we got away.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_FOE_FOLLOW_END_2",
+    "en": "Whew, looks like we managed to{SAUT}escape.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_FOE_FOLLOW_END_3",
+    "en": "Phew, that got me on my toes...",
+    "fr": ""
+  },
+  {
+    "id": "MONA_KANSI_REACTION_1",
+    "en": "Pay attention to how it moves.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_KANSI_REACTION_2",
+    "en": "Stay calm as you make your way{SAUT}though.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_KANSI_REACTION_3",
+    "en": "Listen up. We need to go about this{SAUT}carefully.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_DENKISAKU_REACTION_",
+    "en": "Mew... It's singing my fur...",
+    "fr": ""
+  },
+  {
+    "id": "MONA_DENKISAKU_REACTION_#2",
+    "en": "What do we do about this?",
+    "fr": ""
+  },
+  {
+    "id": "MONA_DENKISAKU_REACTION_#3",
+    "en": "Don't touch it, okay? This thing's{SAUT}dangerous.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_KYOUHU_REACTION_1",
+    "en": "Mrowf!?",
+    "fr": ""
+  },
+  {
+    "id": "MONA_KYOUHU_REACTION_2",
+    "en": "Whoa! This wind!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_KYOUHU_REACTION_3",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_STAIR_FIND_1",
+    "en": "A path's opened up!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_STAIR_FIND_2",
+    "en": "All right, a new path!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_STAIR_FIND_3",
+    "en": "We're gonna keep going, right, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "MONA_TREASURE_FIND_1",
+    "en": "Ooh, treasure!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_TREASURE_FIND_2",
+    "en": "Hey, I see treasure!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_TREASURE_FIND_3",
+    "en": "Mrowroooow! Treasure!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_CHECK_WALL_1",
+    "en": "This looks suspicious.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_CHECK_WALL_2",
+    "en": "There must something here.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_CHECK_WALL_3",
+    "en": "There's something off here...",
+    "fr": ""
+  },
+  {
+    "id": "MONA_SWITCH_FIND_1",
+    "en": "Don't switches just make you wanna{SAUT}push 'em?",
+    "fr": ""
+  },
+  {
+    "id": "MONA_SWITCH_FIND_2",
+    "en": "Look, a switch.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_SWITCH_FIND_3",
+    "en": "A switch, hm? Be careful!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_SHORTCUT_FIND_1",
+    "en": "Looks like we can take a shortcut{SAUT}through there.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_SHORTCUT_FIND_2",
+    "en": "Ooh, I think we can take a shortcut!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_SHORTCUT_FIND_3",
+    "en": "Do you think we can pass through{SAUT}here?",
+    "fr": ""
+  },
+  {
+    "id": "MONA_FOE_WARNING_NEAR_1",
+    "en": "The FOE's still after us!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_FOE_WARNING_NEAR_2",
+    "en": "FOE! Here it comes!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_FOE_WARNING_NEAR_3",
+    "en": "Don't let your guard down. It's still{SAUT}coming!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_1PERSON_HPTP10_1",
+    "en": "Don't count me out yet... Nngh...",
+    "fr": ""
+  },
+  {
+    "id": "MONA_1PERSON_HPTP10_2",
+    "en": "Hey, why don't we take a break...?",
+    "fr": ""
+  },
+  {
+    "id": "MONA_1PERSON_HPTP10_3",
+    "en": "This is bad...",
+    "fr": ""
+  },
+  {
+    "id": "MONA_1PERSON_HP10_1",
+    "en": "I don't think I can last much longer...",
+    "fr": ""
+  },
+  {
+    "id": "MONA_1PERSON_HP10_2",
+    "en": "I'm starting to get tired...",
+    "fr": ""
+  },
+  {
+    "id": "MONA_1PERSON_HP10_3",
+    "en": "Can anybody heal me...?",
+    "fr": ""
+  },
+  {
+    "id": "MONA_1PERSON_TP10_1",
+    "en": "I don't think I can go any further...",
+    "fr": ""
+  },
+  {
+    "id": "MONA_1PERSON_TP10_2",
+    "en": "We need to make sure we don't{SAUT}overdo it, okay...?",
+    "fr": ""
+  },
+  {
+    "id": "MONA_1PERSON_TP10_3",
+    "en": "This is pretty tough...",
+    "fr": ""
+  },
+  {
+    "id": "MONA_1PERSON_HP80_1",
+    "en": "Don't forget to heal, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MONA_1PERSON_HP80_2",
+    "en": "Okay, let's keep at it.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_1PERSON_HP80_3",
+    "en": "Let's go, guys.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_DUNGEON_START_1",
+    "en": "Just leave it to me!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_DUNGEON_START_2",
+    "en": "Okay, let's head in.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_DUNGEON_START_3",
+    "en": "Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_QUEST_START_1",
+    "en": "Lookin' forward to this!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_QUEST_START_2",
+    "en": "Let's get going.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_QUEST_START_3",
+    "en": "Time to get to work.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_TOUHA_25_1",
+    "en": "The map's starting to come together.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_TOUHA_25_2",
+    "en": "Ooh, we're finally starting to get an{SAUT}idea of this place.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_TOUHA_50_1",
+    "en": "We're halfway there.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_TOUHA_50_2",
+    "en": "We're halfway done.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_TOUHA_75_1",
+    "en": "We'll really need to make it count from{SAUT}here on.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_TOUHA_75_2",
+    "en": "Just a little more to go.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_TOUHA_100_1",
+    "en": "Route complete!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_TOUHA_100_2",
+    "en": "We're done here.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_MAPPING_ICON_ALL_1",
+    "en": "Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_MAPPING_ICON_ALL_2",
+    "en": "Hmhm, good work.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_MAPPING_ICON_KAIDAN",
+    "en": "Now we've got a clear path forward.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_MAPPING_ICON_KAIDAN#2",
+    "en": "That's it for our route!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_MAPPING_CHANGE_COLO",
+    "en": "Changing colors, hm?",
+    "fr": ""
+  },
+  {
+    "id": "MONA_MAPPING_CHANGE_COLO#2",
+    "en": "Oho, impressive.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_MAPPING_ICON_DEL_1",
+    "en": "It's important to keep organized.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_MAPPING_ICON_DEL_2",
+    "en": "You sure you don't need that?",
+    "fr": ""
+  },
+  {
+    "id": "MONA_MAPPING_MEMO_1",
+    "en": "Ooh, good job.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_MAPPING_MEMO_2",
+    "en": "We don't want to forget that!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_DOOR_OPEN_1",
+    "en": "Over here.",
+    "fr": ""
+  },
+  {
+    "id": "MONA_DOOR_OPEN_2",
+    "en": "Now, follow me!",
+    "fr": ""
+  },
+  {
+    "id": "MONA_DOOR_OPEN_3",
+    "en": "Let's go.",
+    "fr": ""
+  }
+]

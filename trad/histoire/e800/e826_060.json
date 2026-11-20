@@ -1,0 +1,308 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "This is it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "I don't really see anything here,{SAUT}though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Yeah. It doesn't help that we don't even{SAUT}know what the treasure looks like.{PAGE}Maybe take a look around over there.{SAUT}There should be something that fits the{SAUT}bill.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "I don't think any of this fits any bill...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Word... It's just a buncha plants...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "WOOOAH! There it is! It's here! And I{SAUT}found it first!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "What!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Yes, this is it! It's beautiful, alluring and{SAUT}would make a great gift!{PAGE}Here you are, ladies. From me to you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Um... I wouldn't call this beautiful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukari",
+    "en": "Sorry, but... Yeah, no way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "Put that back where you found it right{SAUT}now, Teddie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "Wh-What!? What could possibly be{SAUT}wrong with this perfectly fine{SAUT}golden rhinoceros beetle!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "Bugs are no good.{OPTION}I'll take it.{OPTION}I think only you like it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Mitsuru",
+    "en": "Most people, men and women alike,{SAUT}hold a shared disdain for insects.{PAGE}Common sense dictates that they're not{SAUT}the most suitable gifts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "I agree. A creature of both size and color{SAUT}such as this is absolutely remarkable.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Mitsuru",
+    "en": "Sure, but common sense dictates that{SAUT}they're not the most suitable gifts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Mitsuru",
+    "en": "Right. You might view it as a good gift,{SAUT}but not many people would be happy to{SAUT}receive this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yosuke",
+    "en": "It's definitely not what we're looking{SAUT}for.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Teddie",
+    "en": "Nooo... It can't be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "Found it!{PAGE}Something as beautiful and as colorful{SAUT}as this is sure to win the heart of any girl.{PAGE}Not only that, but, as an added bonus,{SAUT}it's edible too. It's a gift that―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Yeah, yeah, just show us already.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Morgana",
+    "en": "Feast your eyes on... this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021_02",
+    "locuteur": "Morgana",
+    "en": "I've got a pretty good eye for beauty,{SAUT}don't you think?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_022",
+    "choix": true,
+    "en": "That's beautiful?{OPTION}Looks poisonous.{OPTION}Put that back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Morgana",
+    "en": "Of course it's beautiful! Right, ladies!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "Yeah, that color screams \"dangerous\"{SAUT}to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Fuuka",
+    "en": "I saw a frog that looked like this in a{SAUT}book once. I believe it was extremely{SAUT}poisonous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "B-But this isn't a poisonous frog!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "Why!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Naoto",
+    "en": "This color... For some reason, it sends{SAUT}shivers up my spine...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yukari",
+    "en": "...Gross.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Morgana",
+    "en": "It doesn't even LOOK nice!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Aigis",
+    "en": "Scan complete. I detect toxic{SAUT}compounds in a concentration far{SAUT}exceeding the lethal threshold.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Morgana",
+    "en": "Urrrrrrgh...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ann",
+    "en": "We're never gonna find this thing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Koromaru",
+    "en": "Bark, bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Chie",
+    "en": "Hm? Is there something in the{SAUT}bushes?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Koromaru",
+    "en": "Awooo.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Yusuke",
+    "en": "Oho... Now, this is beautiful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Haru",
+    "en": "Oh, and it smells wonderful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Fuuka",
+    "en": "I've never seen this type of flower{SAUT}before. It might even be a new species.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Teddie",
+    "en": "B-B-But it's just a flower. That doesn't{SAUT}count as a treasure...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Morgana",
+    "en": "Y-Yeah, that's true. That might not be{SAUT}it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Yosuke",
+    "en": "Says the guys that picked a bug and a{SAUT}poisonous fruit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Naoto",
+    "en": "Hm? There's something buried{SAUT}here.{PAGE}It's some kind of plaque; it looks like{SAUT}there's something etched into it...{PAGE}\"I offer this flower to you, my love.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Mitsuru",
+    "en": "I see. So the researcher placed all of his{SAUT}feelings into this single flower.{PAGE}There's no doubt this is the treasure he{SAUT}left behind.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_047",
+    "choix": true,
+    "en": "Guess we have our winner.{OPTION}Well done, Koromaru.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Koromaru",
+    "en": "Awooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Teddie",
+    "en": "Grraaaaahhh...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Morgana",
+    "en": "Mrowwwww...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Futaba",
+    "en": "Okay, never mind those two crybabies...{PAGE}Come on back, everyone!",
+    "fr": ""
+  }
+]

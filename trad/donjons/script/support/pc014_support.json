@@ -1,0 +1,77 @@
+[
+  {
+    "id": "P5_HERO_FOE_FOLLOW_START",
+    "en": "【FOEが追尾開始】{SAUT}ダミーメッセージ１",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_FOE_FOLLOW_START#2",
+    "en": "【FOEが追尾開始】{SAUT}ダミーメッセージ２",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_FOE_FOLLOW_START#3",
+    "en": "【FOEが追尾開始】{SAUT}ダミーメッセージ３",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_FOE_NEAR_1",
+    "en": "【FOEが近い】{SAUT}ダミーメッセージ１",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_FOE_NEAR_2",
+    "en": "【FOEが近い】{SAUT}ダミーメッセージ２",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_FOE_NEAR_3",
+    "en": "【FOEが近い】{SAUT}ダミーメッセージ３",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_FOE_FOLLOW_END_1",
+    "en": "【FOEの追尾がきれた】{SAUT}ダミーメッセージ１",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_FOE_FOLLOW_END_2",
+    "en": "【FOEの追尾がきれた】{SAUT}ダミーメッセージ２",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_FOE_FOLLOW_END_3",
+    "en": "【FOEの追尾がきれた】{SAUT}ダミーメッセージ３",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_FOE_WARNING_NEAR",
+    "en": "【追尾状態のFOEが近い】{SAUT}ダミーメッセージ１",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_FOE_WARNING_NEAR#2",
+    "en": "【追尾状態のFOEが近い】{SAUT}ダミーメッセージ２",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_FOE_WARNING_NEAR#3",
+    "en": "【追尾状態のFOFが近い】{SAUT}ダミーメッセージ３",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_DOOR_OPEN_1",
+    "en": "Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_DOOR_OPEN_2",
+    "en": "Over here.",
+    "fr": ""
+  },
+  {
+    "id": "P5_HERO_DOOR_OPEN_3",
+    "en": "Let's keep going.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Yes, bones. It's just like you said,{SAUT}Koromaru-kun.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Mind taking a look?{OPTION}Isn't this dangerous?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Certainly. Let's see...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Haha, don't worry. Let me take a closer{SAUT}look...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Yes, this is definitely one of its meals. It's{SAUT}fairly old, though.{PAGE}If we stay on the trail, I'm sure we'll find{SAUT}the beast eventually.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Chie",
+    "en": "Wow, you're amazing, Koro-chan...{SAUT}Muku would never be able to do that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Koromaru",
+    "en": "*sniff* *sniff* *sniff*{PAGE}Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ken",
+    "en": "Koromaru looks really enthusiastic.{SAUT}He says the trail leads north.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "Very well. North it is, then.",
+    "fr": ""
+  }
+]

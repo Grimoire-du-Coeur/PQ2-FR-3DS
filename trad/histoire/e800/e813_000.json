@@ -1,0 +1,174 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Oh! Welcome back!{PAGE}Listen up, everyone. Theodore's made a{SAUT}new kind of popcorn!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Popcorn... Just hearing the word is{SAUT}making my stomach rumble.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "I've been waiting, everyone.{PAGE}I believe I've outdone myself on this{SAUT}latest creation. By all means, please try{SAUT}some.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "Wow, it's so colorful! You don't see{SAUT}food that looks like that everyday.{PAGE}Mmm, and it smells amazing too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Well then, don't mind if I do...{PAGE}......!?{PAGE}Wh-What is this...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Wha―What's wrong!? Why'd you freeze{SAUT}up all of a sudden!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "The moment it greeted my taste buds, I{SAUT}felt a sort of charged explosion... It was{SAUT}as though I'd been struck by lightning...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "Could it be poisonous!? Spit it out,{SAUT}quickly!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Is it really that dangerous!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "Yes, it is indeed dangerous...{SAUT}Dangerously delicious!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "Oh wow, you're right about it being{SAUT}charged. I could eat this all day.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "...Seriously?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukiko",
+    "en": "Hmm, this sounds interesting. Let me try{SAUT}some, Theodore!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Oh, me too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "en": "Everyone's trying the new popcorn...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "Girls are always more adventurous in{SAUT}times like this...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Let's try some.{OPTION}Let's wait and see.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Y-Yeah. Us guys need to step it up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "I know how you feel, but us guys should{SAUT}step it up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Theodore",
+    "en": "Ah, {f 6 1 30 0 0 0}...{PAGE}My apologies, but I've just run out of{SAUT}popcorn.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "Already!? That was barely any!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Theodore",
+    "en": "I am truly sorry for the inconvenience.{PAGE}I had some slight difficulty obtaining the{SAUT}ingredients to produce that flavor...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "Difficulty?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Theodore",
+    "en": "Yes. I discovered a secret deep within{SAUT}the jungle...{PAGE}There, I was able to make use of a{SAUT}certain something that helped give the{SAUT}final product its charge.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Rise",
+    "en": "I'm not sure what you're talking about,{SAUT}but it sounds like a lot of work...{PAGE}Well, we've got plenty here, so we can{SAUT}split it between everyone once we get{SAUT}back to the lobby.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yusuke",
+    "en": "Could I have some as well,{SAUT}Kujikawa-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ann",
+    "en": "Haven't you had some already!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Theodore",
+    "en": "I will need to restock the ingredients at{SAUT}some point...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "en": "A new special screening:{SAUT}\"Theodore's Special Popcorn\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

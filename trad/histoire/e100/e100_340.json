@@ -1,0 +1,206 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Hmm, looks like the square you're{SAUT}searching for is down the left path.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Okay, so, what about the right one?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "That one's too dangerous―it's infested{SAUT}with FOEs. Definitely don't go that way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Seriously? Well, we better not go near{SAUT}it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Infested... Infested, hm? ...Infested.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Stop that! Are you castin' a spell{SAUT}or something!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Oh, I was merely curious as to why{SAUT}they're gathered there. Could they{SAUT}be... guarding something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "You think there might be treasure?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "I understand the curiosity, but rescuing{SAUT}Queen and Noir comes first right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "He's right. If we go needlessly poking{SAUT}around, who knows what unexpected―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "Quiet―someone's coming!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Serious policeman",
+    "en": "We'd better set up flashier lighting{SAUT}for the exhibition.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Fat policeman",
+    "en": "Yeah, that'll really do a number for{SAUT}Kamoshidaman's power and his{SAUT}control over the city!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Serious policeman",
+    "en": "For the sake of Kamo City's safety and{SAUT}peace, we must have the best lighting{SAUT}possible!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "They seem to be discussing the{SAUT}exhibition. It sounds like it'll be{SAUT}quite the production...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "What are they talking about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "It's that awful punishment exhibition...{SAUT}They're planning to publicly execute{SAUT}our friends.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Looks like they haven't spotted us yet...{SAUT}What should we do, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Let's get the jump on them.{OPTION}Let's eavesdrop on them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Oh yeah! Time to go wild!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akechi",
+    "en": "Wait a moment...{PAGE}We may be able to pick up some clues{SAUT}from them. Let's just see what happens{SAUT}for a bit longer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "But...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "I agree with Joker. We might be able{SAUT}to pick up some clues from them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Serious policeman",
+    "en": "Hey, so... Kamoshidaman IS doin' the{SAUT}right thing here, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Fat policeman",
+    "en": "Don't be stupid! Are you questioning{SAUT}his judgment? You'd better watch{SAUT}what you say...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Serious policeman",
+    "en": "I mean, yeah, those criminals deserve{SAUT}punishment, but do we really hafta{SAUT}make a show out of it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Fat policeman",
+    "en": "It's thanks to those public executions{SAUT}that we're able to maintain the peace!{PAGE}Witnessing the punishment for{SAUT}evildoing sets the citizens straight,{SAUT}which means less work for us, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Serious policeman",
+    "en": "Yeah, I guess so... If we get to live{SAUT}peacefully, sacrificing criminals{SAUT}is a cheap price to pay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Fat policeman",
+    "en": "All right, let's get to prepping the{SAUT}lightwork so Kamoshidaman's{SAUT}show will be a big success!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Akechi",
+    "en": "Lightwork, huh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ann",
+    "en": "Uh, what's the deal with that total{SAUT}nonsense!?{PAGE}Queen and Noir aren't even criminals!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yusuke",
+    "en": "Sacrifices can't be helped if they're{SAUT}for justice, eh? I can't say I agree{SAUT}with that argument...{PAGE}Any form of justice built on sacrifice{SAUT}will ring hollow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Ryuji",
+    "en": "Yeah, talk about a load of bullshit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Morgana",
+    "en": "At the very least, it's awfully different{SAUT}from the justice that we believe in.{PAGE}So, let's keep pushing forward and{SAUT}prove 'em wrong!",
+    "fr": ""
+  }
+]

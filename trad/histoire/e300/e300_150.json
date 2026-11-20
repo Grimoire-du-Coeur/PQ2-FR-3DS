@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Look―there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Huh? What's happening?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Robot with a ribbon",
+    "en": "AFTER CONDUCTING AN INTERNAL{SAUT}ANALYSIS, I HAVE IDENTIFIED{SAUT}A TECHNICAL ERROR.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mass-produced robot A",
+    "en": "ALL ERRORS MUST BE ELIMINATED.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mass-produced robot B",
+    "en": "COME WITH US. WE WILL RESET YOUR{SAUT}AI TO FACTORY CONDITIONS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Robot with a ribbon",
+    "en": "UNDERSTOOD.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Is that the robot from the trailer!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukari",
+    "en": "Wow, she really does look like Aigis...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Fuuka",
+    "en": "Um, more importantly―they said{SAUT}they're going to format her!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Let's rescue her.{OPTION}Let's wait and see what happens.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Right! We can't let that happen to her!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "Wait―we need to go about this{SAUT}with more caution.{PAGE}They haven't noticed us yet. Let's see{SAUT}what happens first, then―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "I agree. Thankfully, they haven't noticed{SAUT}us yet, so―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akihiko",
+    "en": "No way, this is an opportunity! We can{SAUT}get the jump on 'em right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Shinjiro",
+    "en": "You just wanna beat the shit outta them.{SAUT}Stop chargin' into things without tryin'{SAUT}to use your two brain cells first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akihiko",
+    "en": "What was that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Mitsuru",
+    "en": "Will you two stop!? We don't have{SAUT}the time for this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Fem Protag",
+    "en": "Then, let's make it a competition!{SAUT}How quickly do you think you could{SAUT}take down those robots?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Akihiko",
+    "en": "It wouldn't take me three minutes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Shinjiro",
+    "en": "I'd do it in one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akihiko",
+    "en": "Then, I'm gonna do it in 30 seconds!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Shinjiro",
+    "en": "Hm! Your mouth better not be writin'{SAUT}checks that your fists can't cash!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akihiko",
+    "en": "Get back here, Shinji! I'm not letting you{SAUT}get a headstart!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Junpei",
+    "en": "Wow! You sure know how to play them{SAUT}like a fiddle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Fem Protag",
+    "en": "Heheheh, yep! It happens all the time,{SAUT}so I know exactly how to handle their{SAUT}competitiveness!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Mitsuru",
+    "en": "Good heavens... They act like children{SAUT}in your world as well?{PAGE}Well, in any case: thank you for defusing{SAUT}that situation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Makoto",
+    "en": "We can't fall behind, either. Let's back{SAUT}them up!",
+    "fr": ""
+  }
+]

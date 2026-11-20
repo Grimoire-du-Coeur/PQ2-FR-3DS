@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "Yeah! We did it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Woohoo! Meat! Meat! Meat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "Might we be forgetting the real reason{SAUT}we came here...? It was to defeat the FOE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "No use sweatin' the details, Naoto-kun!{SAUT}All's well that ends well!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Now, without further ado, let us begin the{SAUT}feast...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "Hm? What's this!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "It's hard as a rock... Whatever it is, it's{SAUT}definitely not meat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "Whaaat!? What do you mean!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "It appears to be a realistic imitation.{PAGE}Though it may look like meat on the{SAUT}outside, it's actually made of wood.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "Well... I had a feeling that might be the{SAUT}case seeing as how the FOE was using it as{SAUT}a weapon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Chie",
+    "en": "So we can't eat it? Then, where did that{SAUT}amazing meat smell come from!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "I get the feeling it probably came from{SAUT}that nearby hamburger place.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "S-Seriously...? ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "Ngh... Once again, I was prepared for a{SAUT}feast, and once again, you tell me I can't{SAUT}eat? How terribly disappointing.{PAGE}Still... it wasn't all for nothing!{PAGE}The construction, the coloring technique...{SAUT}It's barely distinguishable from the real{SAUT}thing! I mustn't forget this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Oh... There he goes again...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "Well, if we can't eat it, we can't eat it.{PAGE}I'd say we're done here. Let's head back{SAUT}to the theater for now.",
+    "fr": ""
+  }
+]

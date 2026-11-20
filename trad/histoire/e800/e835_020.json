@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Well, we're here! Man, this place{SAUT}screams sci-fi everywhere you look.{PAGE}So we gotta find an egg, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Hey, look over there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "The picture on the monitor changed?{SAUT}It's an arrow now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Oh, yeah, I remember this from when I{SAUT}was little.{PAGE}During Easter egg hunts, there would be{SAUT}signs like those to help you find the{SAUT}hiding spots.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Ooh, leave it to Panther to school us on{SAUT}some overseas bidness!{PAGE}You're sayin' we just gotta follow the{SAUT}arrows, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Hmm, so there's an Easter egg hidden at{SAUT}the end of the path?{PAGE}Aaaaall right, Joker. Keep your eyes on{SAUT}the monitors and follow those arrows!",
+    "fr": ""
+  }
+]

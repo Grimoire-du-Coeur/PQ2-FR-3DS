@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Hey, so are Easter eggs, like... real eggs?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Sometimes they're hard-boiled eggs,{SAUT}but they can also be egg-shaped{SAUT}containers filled with candy and stuff.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "I think there's also really famous ones{SAUT}too―like the ones from Imperial Russia.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "I've heard of those. You're referring to{SAUT}Faberg〒 eggs, yes?{PAGE}They come in many different colors and{SAUT}designs. They're worth several hundred{SAUT}million yen at least.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Millions!? Seriously!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "Perhaps that's what's waiting for us at{SAUT}the end of this screening... I suppose we{SAUT}can dream. *chuckle*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Rrraaaaah! That thing's gonna make us{SAUT}zillionaires! Here comes Junpei, Ace{SAUT}Det-egg-tive!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Remember where we are, though.{SAUT}I don't think we're gonna find anything{SAUT}like that here.{PAGE}...Aaand he's not listening.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "Just you wait, little egg! We're on our{SAUT}way!",
+    "fr": ""
+  }
+]

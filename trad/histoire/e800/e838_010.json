@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Eff, eff, F-O-E. If you read it backwards,{SAUT}E-O-F...{PAGE}...That's enough of that, Theo.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Theodore",
+    "en": "M-Me...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "Uh, could you get to the point?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "Ahem! Now then...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "ALL OCCUPANTS: HELLO. HELLO.{SAUT}NEW TICKET AVAILABLE.{PAGE}EXTERMINATE FOE: SCM-8801.{SAUT}LOCATION: A.I.G.I.S.{PAGE}EXTERMINATE FOE: SCM-8801.{SAUT}EXTERMINATE FOE: SCM-8801...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "What's with the robot-speak...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akihiko",
+    "en": "\"SCM-8801,\" huh? That's the{SAUT}executioner robot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "The FOE presented a deadly threat{SAUT}to you before, but I believe it should{SAUT}now be a more reasonable challenge.{PAGE}Why don't you all test your strength{SAUT}against it?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "Let's do it.{OPTION}I don't know...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "Yeah, it's got my attention. There's{SAUT}nothing like a powerful opponent{SAUT}to help you get stronger.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akihiko",
+    "en": "What's wrong? It's unlike you to{SAUT}hesitate. I don't think it'll give us{SAUT}a hard time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Junpei",
+    "en": "Uh-oh, I know that look on his face...{SAUT}He never changes, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukari",
+    "en": "Hahah, well, this is Akihiko-senpai{SAUT}we're talking about. Maybe he can{SAUT}help you toughen up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akihiko",
+    "en": "What do you think, Junpei? With my{SAUT}training, we could push you to your{SAUT}limits.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Junpei",
+    "en": "Huh!? Wait, where did THAT come{SAUT}from!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akihiko",
+    "en": "Don't hold back. There are some{SAUT}places where only intense, painful{SAUT}training can bring you to...{PAGE}Let's push ourselves, Junpei! We'll{SAUT}reach those heights together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "Crap, he's totally in the zone{SAUT}right now...{PAGE}You'll pay for this, Yuka-tan! Well,{SAUT}now that there's no escape... uh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Kanji",
+    "en": "You okay, Junpei-san? You're lookin'{SAUT}awfully shifty.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Junpei",
+    "en": "Ah! Kanji! Perfect timing!{PAGE}Look, buddy, nothing personal...{SAUT}I got nothing against you, but if{SAUT}I go down, I'm takin' you with me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Kanji",
+    "en": "Wh-What're you talkin' about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Junpei",
+    "en": "This guy's way too hot for me to{SAUT}handle! But you're pretty buff,{SAUT}right? C'mon, help me out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Kanji",
+    "en": "H-Hot? Buff?{PAGE}What, I gotta \"handle\" hot and{SAUT}sweaty guys!? This look like a{SAUT}goddamn sauna to you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Junpei",
+    "en": "Wh-Where did that come from?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Kanji",
+    "en": "Uh, nothin'. My bad.{PAGE}It was somethin' about FOEs and{SAUT}training and that kinda crap, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Junpei",
+    "en": "Yeah! That's the one. Come on,{SAUT}we're bros, right? We can both train!{SAUT}Go for the gold! Reach for the stars!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Kanji",
+    "en": "Look, I dunno what you're talkin'{SAUT}about, but I wouldn't mind training...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Junpei",
+    "en": "Phew, you're a standup guy...!{SAUT}Akihiko-senpai! We got another{SAUT}one in the club!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Kanji",
+    "en": "Man, how do I always get roped{SAUT}into this crap...?",
+    "fr": ""
+  }
+]

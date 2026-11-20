@@ -1,0 +1,242 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Whew! We can rest easy now. Are you{SAUT}two okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ken",
+    "en": "...Aigis-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "U-Umm... Earth to Ai-chan?{PAGE}You've been awfully quiet all this time...{SAUT}Uhhh... This seems bad!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "Don't tell me―is she broken?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Nooo, did we fail to make it in time!?{SAUT}How do we fix her up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Boy with earphones",
+    "en": "Don't worry. She used a special power{SAUT}earlier, so she's just overheated at{SAUT}the moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "A special power, you say?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mitsuru",
+    "en": "It's called Orgia Mode. She'll recover{SAUT}on her own over time. There's no need{SAUT}to worry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "I see―thank goodness! What a relief.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akihiko",
+    "en": "I don't mean to rush you, but what{SAUT}happened to you two when we got{SAUT}here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Boy with earphones",
+    "en": "Aigis and I were captured by a robot{SAUT}called the \"Overseer\" only a few{SAUT}moments after we arrived.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "You're talkin' about the one that looks{SAUT}like Ikutsuki-san, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Boy with earphones",
+    "en": "Yeah. He said that he was going to{SAUT}\"dispose of us,\" so we waited for{SAUT}our chance, then escaped...{PAGE}But, eventually we were overwhelmed{SAUT}with pursuers, and we had to fight while{SAUT}fleeing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukari",
+    "en": "And that's around the time you lost{SAUT}your Evoker?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Boy with earphones",
+    "en": "I guess so... By the time I realized it was{SAUT}gone, there was no way that we could{SAUT}turn around and look for it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Mitsuru",
+    "en": "I see. I commend you for standing your{SAUT}ground in the meantime with no one but{SAUT}Aigis at your side.{PAGE}We were searching for you two all this{SAUT}time... I apologize for taking so long.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Boy with earphones",
+    "en": "No, thanks to you all coming, we were{SAUT}rescued at the right time. I'm grateful.{PAGE}By the way, I've been wondering...{SAUT}Uh, who are those people with you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukari",
+    "en": "Oh―right, we need to explain{SAUT}everything. It'll take a while,{SAUT}though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Naoto",
+    "en": "Then why don't we use this opportunity{SAUT}to return to the movie theater?{PAGE}I believe it'd be best for those two to{SAUT}take a break somewhere more peaceful.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_021",
+    "choix": true,
+    "en": "That would be for the best.{OPTION}Let's keep pushing forward.{OPTION}I want to learn more about him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Makoto",
+    "en": "But they won't be able to rest properly{SAUT}here, and who knows when another{SAUT}wave of robots may arrive?{PAGE}I agree with Naoto that it would be{SAUT}best to return to the theater.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yusuke",
+    "en": "I must agree, but rather than converse{SAUT}here, it'd be best to return to the theater{SAUT}and do so there, as it's less dangerous.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Morgana",
+    "en": "Well, that settles that. We'll explain{SAUT}what's going on along the way.{PAGE}*sigh* I can't even count how many{SAUT}times we've already gone over this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "That's just what our lives are now.{SAUT}Nuthin' we can do about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Boy with earphones",
+    "en": "Sorry for the trouble. So, we need to{SAUT}go to some movie theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Akechi",
+    "en": "It's definitely helpful that you can grasp{SAUT}such a strange situation so quickly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Ryuji",
+    "en": "C'mon, let's head back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yukari",
+    "en": "Wait―going back to the movie theater{SAUT}is fine for us, but what about Ribbon?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yukiko",
+    "en": "Now that you mention it―can{SAUT}Ribbon-chan leave this movie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Mitsuru",
+    "en": "I have no idea whether or not there{SAUT}would be any ill effects for her...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Futaba",
+    "en": "Precision machinery is very delicate.{SAUT}We shouldn't bring her around any{SAUT}setting that she's not designed for.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Chie",
+    "en": "So should we try to hide her{SAUT}somewhere? Oh, but what if she{SAUT}got caught by those security robots?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ribbon",
+    "en": "IF THIS CONCERNS YOU, I BELIEVE{SAUT}THERE IS A SOLUTION.{PAGE}I SHOULD NOT BE IDENTIFIABLE TO{SAUT}THE SECURITY ROBOTS' SENSORS{SAUT}IF I SUSPEND MY OPERATIONS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Naoto",
+    "en": "Suspend your operations? Do you mean{SAUT}power down?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Ribbon",
+    "en": "NO. I HAVE A SLEEP MODE. I AM ABLE{SAUT}TO TEMPORARILY AND HARMLESSLY{SAUT}SUSPEND OPERATIONS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yusuke",
+    "en": "Oh? That sounds useful. Then, I shall{SAUT}go ahead and activate―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ann",
+    "en": "Hey! Don't go fiddling with her settings{SAUT}without her permission!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Makoto",
+    "en": "Even if you're able to avoid their sensors,{SAUT}I'm concerned about just leaving you{SAUT}here in the open.{PAGE}Why don't you take cover somewhere{SAUT}before engaging sleep mode?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "P4 Hero",
+    "en": "I agree. That definitely sounds like it{SAUT}would be safer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Yosuke",
+    "en": "Alright, let's get Ribbon-chan in{SAUT}sleep mode and head back to the{SAUT}movie theater!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "Well, at least we took care of that lock{SAUT}without any issues...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "We're down to the last lock...{PAGE}Now's not the time to think about that,{SAUT}though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "That's right! We need to hurry and find{SAUT}Hikari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "That buzzer...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Theater intercom",
+    "en": "We have an announcement for{SAUT}our customers.{PAGE}A new movie will begin showing in{SAUT}Theater 4 momentarily. I repeat...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Theater intercom",
+    "en": "A new movie... will begin... showing in...{SAUT}Theater 4...{PAGE}Please... come see the movie...{SAUT}no matter what...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "Wait, wasn't that last line...?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "It's from that invitation letter.{OPTION}I can't recall where it's from...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "...I see.{PAGE}It was the same request as the one{SAUT}written on that invitation letter{SAUT}Hikari-san discovered.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "That's right... What's going on here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Hikari, please be safe...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Arrrgh! There's no point runnin' our{SAUT}mouths here!{PAGE}That thing said Theater 4, right? Let's{SAUT}get in there and save Hikari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Rise",
+    "en": "Hey, another theater door's opened up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Hero",
+    "en": "That announcement just now...{SAUT}It means another movie's started{SAUT}playing, right? ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Wait! What about Hikari!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Fuuka",
+    "en": "We couldn't find her anywhere,{SAUT}though... I'm not even sure she's{SAUT}still here in the theater.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P4 Hero",
+    "en": "Same here―we couldn't find her either.{SAUT}That means, the only place left is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Fem Protag",
+    "en": "...Inside the movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Kanji",
+    "en": "Heh, I had a feelin' we were gonna get{SAUT}in there. We're ready to go whenever.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "Let's go, everyone! No one better let{SAUT}their guards down!",
+    "fr": ""
+  }
+]

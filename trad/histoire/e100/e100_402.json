@@ -1,0 +1,37 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "We've returned above ground...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "*sigh* We're finally outta there...{SAUT}Sweet, fresh air!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "It's too early to celebrate―now comes{SAUT}the important part.{PAGE}Since we've secured our route to the{SAUT}switchboard, we can turn off the lights{SAUT}whenever we please.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "All that's left is to determine how we'll{SAUT}steal the statue from the square.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Let's head back to work out the details{SAUT}of the operation.{PAGE}If we stick around here, some backup{SAUT}for our unconscious friend might{SAUT}show up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "Well then, shall we return to the theater,{SAUT}Joker?",
+    "fr": ""
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "SANADA_FOE_FOLLOW_START_",
+    "en": "Looks like the FOE's following us...",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_FOE_FOLLOW_START_#2",
+    "en": "An FOE... Should we fight it?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_FOE_FOLLOW_START_#3",
+    "en": "An FOE's coming after us...",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_FOE_NEAR_1",
+    "en": "An FOE's nearby... Watch out.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_FOE_NEAR_2",
+    "en": "I know that feeling... It's an FOE.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_FOE_NEAR_3",
+    "en": "An FOE!",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_FOE_FOLLOW_END_1",
+    "en": "Looks like it's not following{SAUT}us anymore...",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_FOE_FOLLOW_END_2",
+    "en": "It already gave up? Hah.{SAUT}You'd think it'd have more guts.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_FOE_FOLLOW_END_3",
+    "en": "We're not gonna fight it...?{SAUT}That's a shame.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_KANSI_REACTION_1",
+    "en": "We'd better be cautious.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_KANSI_REACTION_2",
+    "en": "If we get caught, then{SAUT}we'll just fight it.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_KANSI_REACTION_3",
+    "en": "Stealth isn't usually my style...",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_DENKISAKU_REACTIO",
+    "en": "An electric gate... We'll just{SAUT}have to go around it.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_DENKISAKU_REACTIO#2",
+    "en": "No pain, no gain, I figure...{SAUT}But this isn't good.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_DENKISAKU_REACTIO#3",
+    "en": "Ugh... I hate these traps.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_KYOUHU_REACTION_1",
+    "en": "Agh, dammit!",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_KYOUHU_REACTION_2",
+    "en": "What the―",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_KYOUHU_REACTION_3",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_STAIR_FIND_1",
+    "en": "Stairs... Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_STAIR_FIND_2",
+    "en": "Let's see what kind of challenges{SAUT}are waiting...",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_STAIR_FIND_3",
+    "en": "Looks like we can keep going{SAUT}from there.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_TREASURE_FIND_1",
+    "en": "Hey, a treasure box.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_TREASURE_FIND_2",
+    "en": "A treasure box...{SAUT}Want to crack it open?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_TREASURE_FIND_3",
+    "en": "Wonder what's inside...{SAUT}You think it's protein?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_CHECK_WALL_1",
+    "en": "Looks strange. Let's check it out.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_CHECK_WALL_2",
+    "en": "There's something there...{SAUT}Wonder what it is.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_CHECK_WALL_3",
+    "en": "What is that? Should we{SAUT}check it out?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_SWITCH_FIND_1",
+    "en": "A switch... Any idea what it does?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_SWITCH_FIND_2",
+    "en": "Looks like that's a switch.{SAUT}What're we gonna do?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_SWITCH_FIND_3",
+    "en": "We gonna press it?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_SHORTCUT_FIND_1",
+    "en": "I think we can go through this.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_SHORTCUT_FIND_2",
+    "en": "Looks like we can take{SAUT}a shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_SHORTCUT_FIND_3",
+    "en": "A shortcut... Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_FOE_WARNING_NEAR_",
+    "en": "It's not over yet!",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_FOE_WARNING_NEAR_#2",
+    "en": "See that FOE...?{SAUT}It's still following us.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_FOE_WARNING_NEAR_#3",
+    "en": "An FOE, huh...? Well, I'm{SAUT}all warmed up. ",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_1PERSON_HPTP10_1",
+    "en": "Was that a... ringside bell...?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_1PERSON_HPTP10_2",
+    "en": "I might have to tap out...",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_1PERSON_HPTP10_3",
+    "en": "Ngh... hah... Is this as far{SAUT}as I can go...?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_1PERSON_HP10_1",
+    "en": "At this rate, I'll be KO'ed...{SAUT}I need healing.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_1PERSON_HP10_2",
+    "en": "I thought I was good on stamina...",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_1PERSON_HP10_3",
+    "en": "This is getting bad...{SAUT}Can someone heal me?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_1PERSON_TP10_1",
+    "en": "Dammit! My body won't{SAUT}listen to me!",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_1PERSON_TP10_2",
+    "en": "I can't get knocked out now...{SAUT}Not here!",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_1PERSON_TP10_3",
+    "en": "Phew... hah... Ugh, I'm pathetic...",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_1PERSON_HP80_1",
+    "en": "This won't even be enough{SAUT}for a warm up.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_1PERSON_HP80_2",
+    "en": "I'd rather fight someone stronger.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_1PERSON_HP80_3",
+    "en": "Nice tactics! We did it!",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_DUNGEON_START_1",
+    "en": "All right, let's go.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_DUNGEON_START_2",
+    "en": "I'm all set. Let's do this.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_DUNGEON_START_3",
+    "en": "Hurry up. I gotta stay{SAUT}in workout mode.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_QUEST_START_1",
+    "en": "Where's the target?{SAUT}Let's finish this.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_QUEST_START_2",
+    "en": "This is perfect for training.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_QUEST_START_3",
+    "en": "Time to see how strong{SAUT}I've gotten.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_TOUHA_25_1",
+    "en": "Can this floor get any bigger...?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_TOUHA_25_2",
+    "en": "We've just gotten started.{SAUT}Everyone stay on your toes.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_TOUHA_50_1",
+    "en": "Are we about halfway?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_TOUHA_50_2",
+    "en": "Just about halfway done.{SAUT}How's everyone doing?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_TOUHA_75_1",
+    "en": "We're just about done{SAUT}with this floor.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_TOUHA_75_2",
+    "en": "You tired? Take some protein.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_TOUHA_100_1",
+    "en": "Hm. Let's keep up the pace!",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_TOUHA_100_2",
+    "en": "That was a good workout!",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_MAPPING_ICON_ALL_",
+    "en": "Yeah, that seems about right.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_MAPPING_ICON_ALL_#2",
+    "en": "That's some detailed work.{SAUT}I'm impressed.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_MAPPING_ICON_KAID",
+    "en": "It was definitely in that area.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_MAPPING_ICON_KAID#2",
+    "en": "Hm. That's about how I{SAUT}remember it.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_MAPPING_CHANGE_CO",
+    "en": "It's a relief to see it so organized.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_MAPPING_CHANGE_CO#2",
+    "en": "Oh, huh. That makes it{SAUT}pretty clear.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_MAPPING_ICON_DEL_",
+    "en": "Throwing it away, huh?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_MAPPING_ICON_DEL_#2",
+    "en": "Nothing wrong with dropping{SAUT}dead weight.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_MAPPING_MEMO_1",
+    "en": "Now we won't forget.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_MAPPING_MEMO_2",
+    "en": "Want me to include our{SAUT}training program?",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_DOOR_OPEN_1",
+    "en": "This way.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_DOOR_OPEN_2",
+    "en": "Let's move on.",
+    "fr": ""
+  },
+  {
+    "id": "SANADA_DOOR_OPEN_3",
+    "en": "Hah. Can't wait...",
+    "fr": ""
+  }
+]

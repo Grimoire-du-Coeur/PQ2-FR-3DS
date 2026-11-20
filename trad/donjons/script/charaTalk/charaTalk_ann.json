@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Hey! It looks like we can gather some{SAUT}stuff here! What's the plan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Okay! Let's keep our eyes open for{SAUT}any Shadows!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Sounds good! Let's focus on gathering!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Looks risky. Maybe we should come{SAUT}back later.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Looks like that's everything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "This is ours!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "All right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Yay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Th-That was creepy. Let's stop here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Pretty cool, yeah!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Things are heating up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Nice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Oh! I see a shortcut! Should we go{SAUT}through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Doesn't look like we can go through.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "H-Hey, I've got bad feeling about this{SAUT}place.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ann",
+    "en": "R-Right... Got it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ann",
+    "en": "Yeah, we probably should do that now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ann",
+    "en": "Phew... I thought that was it for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ann",
+    "en": "Aren't there, like, a ton of Shadows here?{SAUT}What should we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ann",
+    "en": "Okay! Let's be careful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ann",
+    "en": "Yeah, we probably should do that now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ann",
+    "en": "Phew... That was close.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ann",
+    "en": "This way takes us back to the theater,{SAUT}right? You wanna go?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

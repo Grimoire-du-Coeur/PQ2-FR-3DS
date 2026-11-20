@@ -1,0 +1,464 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Margaret",
+    "en": "Well, well. Elizabeth, speechless?{SAUT}Wonders never cease.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "Considering the sheer power we all{SAUT}witnessed, I suppose I cannot{SAUT}blame her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "We govern power...{PAGE}To overcome all of us―together,{SAUT}no less―is no simple feat...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "It's proof of our growth.{OPTION}Felt pretty simple to me.{OPTION}Honestly, it was rough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "Yes... We have witnessed that{SAUT}ourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Elizabeth",
+    "en": "My, so calm and composed... What{SAUT}could one call that knowing smile?{SAUT}\"Irritatingly, ferociously smug\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "Well, these things happen when we{SAUT}unleash our full power.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Theodore",
+    "en": "This fire in my heart, this thrill{SAUT}coursing through me... A battle of{SAUT}such magnitude is quite rare.{PAGE}Indeed... you have all grown{SAUT}magnificently.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elizabeth",
+    "en": "I feel as if I've finally glimpsed the{SAUT}true reason we were summoned{SAUT}here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Margaret",
+    "en": "Yes, I must agree. Perhaps this is{SAUT}the form our own journey must take.{PAGE}You may see this as a mere diversion,{SAUT}a byroad branching from your{SAUT}ordinary lives...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_1",
+    "locuteur": "Margaret",
+    "en": "However... whatever road you walk,{SAUT}the path you take brings change upon{SAUT}you and all those you affect.{PAGE}As we clashed, I felt the proof of{SAUT}your growth... and felt my own{SAUT}understanding deepen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Justine",
+    "en": "Inmate. Seeing you acquire and{SAUT}control such superb power is...{SAUT}vindicating, as your wardens.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Caroline",
+    "en": "Hmph... That was pretty satisfying.{SAUT}Nothing else here could ever be{SAUT}a threat to you now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Elizabeth",
+    "en": "Well then, here is your due reward.{SAUT}Please accept it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Theodore",
+    "en": "It may be that we cannot do much{SAUT}else to aid you here...{PAGE}But as ones bound to support you{SAUT}in your journeys, we will continue{SAUT}to serve your needs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Caroline",
+    "en": "Yeah. And not just Persona fusions,{SAUT}either.{PAGE}If you ever want to fight us again,{SAUT}go to the box office.{PAGE}We'll take a rematch anytime.{SAUT}You better be thankful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Justine",
+    "en": "Don't think it will go so well for you{SAUT}next time. Take that to heart,{SAUT}Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Margaret",
+    "en": "Either way, I owe you my gratitude.{SAUT}Thank you for showing us such a{SAUT}magnificent glimmer of life.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Elizabeth",
+    "en": "As you have overcome this final test,{SAUT}we shall postpone judgment of your{SAUT}hot dog heist for another time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Junpei",
+    "en": "Now that I think about it... you give{SAUT}us hot dogs all the time, Elizabeth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Elizabeth",
+    "en": "Gulp.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Rise",
+    "en": "Oh yeah, you're right... She's the one{SAUT}who keeps giving us hot dogs.{PAGE}I've seen her taking some out from{SAUT}behind the Kamoshidaman sign.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Elizabeth",
+    "en": "Double gulp!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Caroline",
+    "en": "W-Wait, that's where I was hiding{SAUT}my own hot dogs! Don't tell me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Elizabeth",
+    "en": "Heheheh... So, the truth finally{SAUT}comes out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024_1",
+    "locuteur": "Elizabeth",
+    "en": "The true mastermind was actually{SAUT}with you all along...! Or so it goes.{SAUT}These stories always require a twist.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ken",
+    "en": "Well, I guess so... but that means{SAUT}he was falsely accused for stealing―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Caroline",
+    "en": "W-Well! At least it means we got a{SAUT}good sense of your power!{PAGE}Let's just put this hot dog case{SAUT}behind us. Better be grateful,{SAUT}Inmate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Justine",
+    "en": "About that. Assuming the prisoners{SAUT}are innocent of grand hot dog{SAUT}larceny...{PAGE}Does this mean... Elizabeth was the{SAUT}one who robbed us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Elizabeth",
+    "en": "Indeed, I was the one who raided{SAUT}Caroline's secret stash.{PAGE}However, I cannot account for Justine's{SAUT}missing share.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Caroline",
+    "en": "Uh, well... I mean, that's...!{PAGE}I-It must be the Persona-users!{SAUT}I know nothing!{PAGE}I-I mean, if you hide them in an{SAUT}easy-to-find place like the projection{SAUT}room, of course they'll get stolen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Justine",
+    "en": "...Caroline, you have ketchup on{SAUT}your cheek.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Caroline",
+    "en": "Wh-What!? Why didn't you tell me{SAUT}sooner!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Justine",
+    "en": "I lied.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Caroline",
+    "en": "Gah! H-How dare you, Justine!?{SAUT}That's not fair!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Justine",
+    "en": "I see. And so the truth becomes clear.{PAGE}Caroline, you had been snacking on{SAUT}my share of hot dogs behind my{SAUT}back.{PAGE}When all the hot dogs disappeared...{SAUT}you seized the opportunity to force{SAUT}all the blame onto the prisoner.{PAGE}...Perhaps he's not alone in needing{SAUT}rehabilitation?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Caroline",
+    "en": "That's not true! I only snacked on{SAUT}a little of yours!{PAGE}But then all of my hot dogs suddenly{SAUT}disappeared, so I... I had no choice...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_039",
+    "choix": true,
+    "en": "You're the culprit!{OPTION}Just admit it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Caroline",
+    "en": "Th-This would've never happened{SAUT}if my share hadn't disappeared!{SAUT}If she hadn't...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Elizabeth",
+    "en": "...Well! I'm a very busy woman,{SAUT}and I have many things to do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041_1",
+    "locuteur": "Elizabeth",
+    "en": "Everyone, I bid you farewell.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Margaret",
+    "en": "...And off she goes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Theodore",
+    "en": "Elizabeth...{PAGE}So, that WAS ketchup I spotted{SAUT}around your mouth...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Justine",
+    "en": "Inmate, you already have power{SAUT}beyond all reasonable limits.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Caroline",
+    "en": "I don't think anyone here can rival{SAUT}your power anymore. Good work.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Theodore",
+    "en": "Such perfectly coordinated attack{SAUT}and defense! A superb showing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Margaret",
+    "en": "Thank you once again. I welcome{SAUT}each chance to witness that unique,{SAUT}glorious spark of life within you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Elizabeth",
+    "en": "Well then, I hope we can continue{SAUT}to be of assistance to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Caroline",
+    "en": "Phew... You put up more of a fight{SAUT}than I expected, Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Justine",
+    "en": "Indeed. You should be proud you{SAUT}were able to push us so far.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Margaret",
+    "en": "However, I'm certain this is not the{SAUT}end. There is yet further power{SAUT}within you, sleeping dormant...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Theodore",
+    "en": "Here is your promised reward.{SAUT}Please use it well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Elizabeth",
+    "en": "You are free to challenge us again{SAUT}whenever you please. This is a{SAUT}true ordeal, after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053_1",
+    "locuteur": "Elizabeth",
+    "en": "Please excuse us, then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Caroline",
+    "en": "Phew... You put up more of a fight{SAUT}than I expected, Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Justine",
+    "en": "Indeed. You should be proud you{SAUT}were able to push us so far, Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Margaret",
+    "en": "However, I'm certain this is not the{SAUT}end. There is yet further power{SAUT}within you, sleeping dormant...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Theodore",
+    "en": "We will look forward to the day{SAUT}that you reach new heights.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Elizabeth",
+    "en": "Please feel free to speak to me{SAUT}again whenever you please.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058_1",
+    "locuteur": "Elizabeth",
+    "en": "Please excuse us, then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Caroline",
+    "en": "Hm... Meh. I guess you pass.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Justine",
+    "en": "Really? I am left rather unsatisfied.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Margaret",
+    "en": "But our guests have shown us the{SAUT}extent of their power. Shouldn't they{SAUT}be compensated for their efforts?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Theodore",
+    "en": "True, I suppose. Then please{SAUT}accept this token.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Elizabeth",
+    "en": "We encourage you to challenge us{SAUT}again whenever you please. This{SAUT}is a true ordeal, after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063_1",
+    "locuteur": "Elizabeth",
+    "en": "Please excuse us, then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Caroline",
+    "en": "Hm... Meh. I guess you pass.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Justine",
+    "en": "Really? I am left rather unsatisfied.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Margaret",
+    "en": "However, we have a measure of{SAUT}their current strength.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Theodore",
+    "en": "I'm certain you still have greater{SAUT}potential slumbering within you.{SAUT}I hope one day to see it realized.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Elizabeth",
+    "en": "We encourage you to challenge us{SAUT}again whenever you please. This{SAUT}is a true ordeal, after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068_1",
+    "locuteur": "Elizabeth",
+    "en": "Please excuse us, then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Caroline",
+    "en": "*sigh* Completely unacceptable.{SAUT}What's the matter with you, Inmate?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Justine",
+    "en": "Yes. Disappointing, at best.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Margaret",
+    "en": "Did we misjudge your skills?{SAUT}Then again, the results speak for{SAUT}themselves...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Theodore",
+    "en": "Well then, please accept this. A token{SAUT}of our appreciation for the bout.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Elizabeth",
+    "en": "Everyone, you are free to challenge{SAUT}us again whenever you please.{SAUT}This is a true ordeal, after all.{PAGE}Until the time comes, and you gain{SAUT}the power to overcome us... we{SAUT}shall patiently await you here.",
+    "fr": ""
+  }
+]

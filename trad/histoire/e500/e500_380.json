@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Languid man",
+    "en": "Can we really... be like the characters{SAUT}in that movie?{PAGE}If I'm actually not powerless... If I can{SAUT}change...{PAGE}Then, I want to change!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Despondent woman",
+    "en": "M-Me too... Honestly... I wanted to live{SAUT}and laugh like them...{PAGE}Can I still change? If I can redo it all,{SAUT}then I... I don't want to give up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Listless man",
+    "en": "I was so scared... All I thought about{SAUT}was running from my problems...{PAGE}But, I don't really want to be like this...{SAUT}I want to move on!",
+    "fr": ""
+  }
+]

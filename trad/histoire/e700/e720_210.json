@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "Queen, about that battle a moment{SAUT}ago...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "Queen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "Huh? Oh, Noir―what is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "Oh no, it's nothing serious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_5",
+    "locuteur": "Haru",
+    "en": "Is something on your mind?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "Well, I was just recalling when we were{SAUT}both captured.{PAGE}It's times like these that I really{SAUT}need to get my act together...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "I see. You sure are responsible, Queen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "No, this isn't responsibility―it's only{SAUT}because I'm ashamed of myself for{SAUT}getting captured like that.{PAGE}Oh―Sorry, that sounded harsh. I don't{SAUT}feel the same about your capture, I'm{SAUT}just, um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "Don't worry, I understand―plus, I feel{SAUT}the same way.{PAGE}So, don't try taking on all of these{SAUT}burdens yourself, okay? We're friends,{SAUT}so we help each other with problems.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "Yes, thank you.{PAGE}It's time for us to push ourselves to{SAUT}even greater heights so we can redeem{SAUT}ourselves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "Yeah! If only we could figure out{SAUT}something in particular we could{SAUT}do...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Heeey, guys! I've got some pipin' hot{SAUT}intel for ya!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "What's up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "I don't know the whole story, but{SAUT}apparently, the ticket machine in{SAUT}the theater suddenly lit up!{PAGE}Looks like Zabby wants to give us{SAUT}a spiel about it.{PAGE}Stop by the box office when you guys{SAUT}get back―don't forget, now!",
+    "fr": ""
+  }
+]

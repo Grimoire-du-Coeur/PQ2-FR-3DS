@@ -1,0 +1,78 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "This container's busted. Looks like it's{SAUT}open too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "It's too dark to see anything, but it's{SAUT}certainly big enough for a person to{SAUT}fit inside.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "...Hellooo!{PAGE}Yosukeee! If you're in there, come on{SAUT}out! It's us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "......{PAGE}There's no response...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukiko",
+    "en": "I don't think he's here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "Hm, Yosuke is shy... Maybe he's too{SAUT}embarrassed to come out.{PAGE}Yosukeee! Come ouuut!{PAGE}We got a super sexy panther, a masked{SAUT}beauty, and a spike lady with us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Super sexy panther...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "Masked beauty...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "Spike lady...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Hm... Still nothing...{PAGE}Would you come out if we had some{SAUT}sexy nurses waiting for you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "...Why would you say that out loud?{SAUT}Now he'll never come out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P4 Hero",
+    "en": "It doesn't look like he's in there. Let's{SAUT}keep looking.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "en": "It's a broken container... There's no one{SAUT}inside.",
+    "fr": ""
+  }
+]

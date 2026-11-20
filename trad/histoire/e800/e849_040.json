@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "What a gloriously fiery clash!{SAUT}As I witnessed your battle, I could{SAUT}feel my very soul heating up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "locuteur": "Elizabeth",
+    "en": "I was moments away from abandoning{SAUT}my post and diving into the fray myself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Hero",
+    "en": "Ahaha, uh... When you say it like{SAUT}that, it doesn't sound like a joke...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Now then! It seems you've obtained{SAUT}yet another piece of film.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Elizabeth",
+    "en": "We're finally closing in on the truth{SAUT}behind them. Please, leave it to me.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "We'll prepare ourselves.{OPTION}So who's next?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* You can barely contain{SAUT}your excitement, I see.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "My, there's no need to be so hasty.{SAUT}I'm sure you'll find out soon enough.{SAUT}Hmhmhm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Elizabeth",
+    "en": "Well then. I suppose the usual{SAUT}formalities come first...{PAGE}Please accept your reward for{SAUT}completing this special screening.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006_1",
+    "locuteur": "Elizabeth",
+    "en": "Once you are all fully prepared{SAUT}for a new battle, I ask that you{SAUT}come speak to me again.",
+    "fr": ""
+  }
+]

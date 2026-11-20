@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Joker! Wait! Stop, stoooop!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Ah―What is it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Is there a trap ahead?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "No, it's about something back here,{SAUT}in the movie theater!{PAGE}Remember that door we found that had{SAUT}\"Authorized Personnel Only\" on it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Oh, you mean that locked one? What{SAUT}about it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "I suddenly picked up a bizarre, super-{SAUT}strong reading beyond that door.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "A reading? You mean an enemy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "No, it's totally new to me―some strange{SAUT}presence, and even Nagi doesn't know{SAUT}what it could be...{PAGE}It's highly unlikely to be Queen and{SAUT}Noir, but I still think we should{SAUT}check it out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "If so, then we'll need to return to the{SAUT}movie theater... It's your call.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Let's head back now.{OPTION}Let's go check it out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Okay, come back as quick as you can!{SAUT}I'll be waiting!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "A mysterious presence, eh? I'm curious{SAUT}as to what it could be...",
+    "fr": ""
+  }
+]

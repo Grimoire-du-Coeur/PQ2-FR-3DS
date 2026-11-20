@@ -1,0 +1,463 @@
+[
+  {
+    "id": "WSHOP_HELLO_NAGI_0",
+    "locuteur": "Nagi",
+    "en": "Oh my, you're here.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_NAGI_1",
+    "locuteur": "Nagi",
+    "en": "Welcome.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_THEODORE_0",
+    "locuteur": "Theodore",
+    "en": "Hello and welcome.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_THEODORE_1",
+    "locuteur": "Theodore",
+    "en": "Welcome. It is good to see you.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_THEODORE_2",
+    "locuteur": "Theodore",
+    "en": "I've been waiting for you.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_NANAKO",
+    "locuteur": "Nanako",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_DISCOUNT1_P1",
+    "locuteur": "Theodore",
+    "en": "Ah, welcome.{PAGE}Oh...? I see you're carrying a{SAUT}{f 4 4 3 0 1636}.{PAGE}Congratulations! That is one of my{SAUT}handmade coupons!{PAGE}This will grant a {f 0 1 2}10% discount on{SAUT}all products{f 0 1 0}.{PAGE}May you all continue to have a{SAUT}satisfactory shopping experience.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_DISCOUNT1_P2",
+    "locuteur": "Theodore",
+    "en": "Ah, welcome.{PAGE}Oh...? I see you're carrying a{SAUT}{f 4 4 3 0 1637}.{PAGE}Congratulations! That is one of my{SAUT}handmade coupons!{PAGE}This will grant a {f 0 1 2}10% discount on{SAUT}all products{f 0 1 0}.{PAGE}May you all continue to have a{SAUT}satisfactory shopping experience.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_DISCOUNT1_P3",
+    "locuteur": "Theodore",
+    "en": "Ah, welcome.{PAGE}Oh...? I see you're carrying a{SAUT}{f 4 4 3 0 1638}.{PAGE}Congratulations! That is one of my{SAUT}handmade coupons!{PAGE}This will grant a {f 0 1 2}10% discount on{SAUT}all products{f 0 1 0}.{PAGE}May you all continue to have a{SAUT}satisfactory shopping experience.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_DISCOUNT2_P1",
+    "locuteur": "Theodore",
+    "en": "Ah, welcome.{PAGE}Ohh... I see that you are carrying both a{SAUT}{f 4 4 3 0 1637} and a {f 4 4 3 0 1638}.{PAGE}Congratulations! Each of those will give{SAUT}you a 10% discount.{PAGE}This will grant a {f 0 1 2}20% discount on all{SAUT}products{f 0 1 0}.{PAGE}I thank you for your continued{SAUT}patronage.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_DISCOUNT2_P2",
+    "locuteur": "Theodore",
+    "en": "Ah, welcome.{PAGE}Ohh... I see that you are carrying both a{SAUT}{f 4 4 3 0 1636} and a {f 4 4 3 0 1638}.{PAGE}Congratulations! Each of those will give{SAUT}you a 10% discount.{PAGE}This will grant a {f 0 1 2}20% discount on all{SAUT}products{f 0 1 0}.{PAGE}I thank you for your continued{SAUT}patronage.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_DISCOUNT2_P3",
+    "locuteur": "Theodore",
+    "en": "Ah, welcome.{PAGE}Ohh... I see that you are carrying both a{SAUT}{f 4 4 3 0 1636} and a {f 4 4 3 0 1637}.{PAGE}Congratulations! Each of those will give{SAUT}you a 10% discount.{PAGE}This will grant a {f 0 1 2}20% discount on all{SAUT}products{f 0 1 0}.{PAGE}I thank you for your continued{SAUT}patronage.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_DISCOUNT3_P1",
+    "locuteur": "Theodore",
+    "en": "Ah, welcome.{PAGE}My goodness... It seems you've{SAUT}collected all of the coupons!{PAGE}This will grant a {f 0 1 2}30% discount to all{SAUT}products{f 0 1 0}!{PAGE}I pray you will continue to do business{SAUT}here as you always have.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_NO_SHOP",
+    "locuteur": "Theodore",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_CONSUMPTION_OPEN",
+    "locuteur": "Theodore",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EQUIPMENT_OPEN",
+    "locuteur": "Theodore",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_ADD_PRODUCT",
+    "locuteur": "Theodore",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_DISCOUNT_PQ2",
+    "locuteur": "Theodore",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_TALK_DUMMY_MARGARE",
+    "locuteur": "Margaret",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_TALK_DUMMY_THEODOR",
+    "locuteur": "Theodore",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_OUT_NAGI_0",
+    "locuteur": "Nagi",
+    "en": "Come again.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_OUT_NAGI_1",
+    "locuteur": "Nagi",
+    "en": "Take care out there.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_OUT_THEODORE_0",
+    "locuteur": "Theodore",
+    "en": "Thank you for stopping by.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_OUT_THEODORE_1",
+    "locuteur": "Theodore",
+    "en": "Do be careful out there.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_OUT_THEODORE_2",
+    "locuteur": "Theodore",
+    "en": "I await your next visit.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_OUT_NANAKO",
+    "locuteur": "Nanako",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_THEO_SHOP_1ST_IN_M",
+    "en": "\"Increasing Shop Inventory\"{SAUT}　{SAUT}By {f 0 1 2}selling materials{f 0 1 0} obtained in the labyrinths,{SAUT}Theodore will be able to use his popcorn machine{SAUT}to {f 0 1 2}create new products{f 0 1 0}.{PAGE}\"Filling Orders For New Products\"{SAUT}　{SAUT}Some new products may require {f 0 1 2}multiple units of{SAUT}the same material{f 0 1 0}.{SAUT}　{SAUT}Any materials that are still{SAUT}needed will be marked with a {f 0 1 2}WANTED{f 0 1 0} tag.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_THEO_SHOP_1ST_IN_M#2",
+    "en": "Press the {f 0 1 2}Y Button{f 0 1 0} to see the item in more detail.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_THEO_SHOP_1ST_IN_M#3",
+    "en": "\"Insufficient Materials\"{SAUT}　{SAUT}You can view information on different materials{SAUT}such as their locations and how to obtain them. Be{SAUT}sure to make good use of this feature if you'd like{SAUT}to add a specific product to the shop.{PAGE}Not only will you receive money from a{SAUT}sale, but a new product may be{SAUT}manufactured as well.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_TUTORIAL_UNKNOWN",
+    "en": "\"Appraisal\"{SAUT}　{SAUT}When you use the {f 0 1 2}Appraise{f 0 1 0} function on an{SAUT}unidentified item, you will obtain {f 0 1 2}an accessory{SAUT}which may carry a variety of benefits{f 0 1 0}.{SAUT}　{SAUT}Try to appraise items whenever you can.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_NEWYEAR",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_RAIN",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_THUNDER",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_SNOW",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_SELL_RAIN",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_HELLO_SELL_THUNDER",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_00_000",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_00_010",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_02_001",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "SEL_WSHOP_QUSET_02_010",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_02_021",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_02_000",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_02_020",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_02_030",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_02_040",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_02_050",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_10_000",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_10_010",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_12_001",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "SEL_WSHOP_QUSET_12_010",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_12_021",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_12_000",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_12_020",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_12_030",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_12_040",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_12_050",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_20_000",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_20_010",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_22_001",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "SEL_WSHOP_QUSET_22_010",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_22_021",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_22_000",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_22_020",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_22_030",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_22_040",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "MSG_WSHOP_QUSET_22_050",
+    "locuteur": "だいだら．のオヤジ",
+    "en": "Not used",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_EFFECT_T",
+    "locuteur": "Theodore",
+    "en": "As long as you purchase weapons high{SAUT}in attack power and armor high in{SAUT}defense, you should be fine.{PAGE}Certain equipment, however, might{SAUT}possess some interesting properties.{PAGE}For example, some may inflict status{SAUT}ailments, while others will increase your{SAUT}strength and magic... You get the idea.{PAGE}There is even equipment that will allow{SAUT}you to increase the amount of money{SAUT}obtained from battling Shadows.{PAGE}By assessing the situation, you can{SAUT}choose equipment that will give you an{SAUT}advantage before a battle even begins.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_DLC_ITEM_0",
+    "locuteur": "Theodore",
+    "en": "A packaged addressed to you arrived{SAUT}while you were away.{PAGE}I've no doubt its contents will prove{SAUT}useful on your adventure. Please accept{SAUT}them.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_DLC_ITEM_1",
+    "locuteur": "Theodore",
+    "en": "Oh dear, it seems there's no room in{SAUT}your bag.{PAGE}Please drop by again once you've made{SAUT}some space.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_DLC_ITEM_2",
+    "locuteur": "Theodore",
+    "en": "Please accept this.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_DLC_ITEM_3",
+    "locuteur": "Theodore",
+    "en": "This is a temporary implementation.{SAUT}Please accept it.{PAGE}Received {f 2 5 3 65535 0}!",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_DLC_ITEM_4",
+    "locuteur": "Theodore",
+    "en": "This is a temporary implementation.{SAUT}Please accept it.{PAGE}Received {f 2 5 3 65535 0}!",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_DLC_ITEM_5",
+    "locuteur": "Theodore",
+    "en": "This is a temporary implementation.{SAUT}Please accept it.{PAGE}Received {f 2 5 3 65535 0}!",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_HELLO_THEODORE",
+    "locuteur": "Theodore",
+    "en": "Is there something I can help you with?",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_HELLO_NAGI",
+    "locuteur": "Nagi",
+    "en": "Did you have a question?",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_ITEM_ADD_ABOUT",
+    "choix": true,
+    "en": "Selling materials{OPTION}Obtaining special materials{OPTION}Go back",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_NEW_ITEM_T",
+    "locuteur": "Theodore",
+    "en": "Selling the materials you find in the{SAUT}labyrinths may allow me to create new{SAUT}products from them.{PAGE}However, depending on the product,{SAUT}I may require a rather generous amount{SAUT}of specific materials.{PAGE}These materials will be marked as{SAUT}\"WANTED\" in the product list.{PAGE}If you'd like to know which materials I{SAUT}lack, please select \"Materials.\"{PAGE}This information should prove useful if{SAUT}you ever find yourself lacking a specific{SAUT}material.",
+    "fr": ""
+  },
+  {
+    "id": "WSHOP_EXP_RARE_MATERIAL_",
+    "locuteur": "Theodore",
+    "en": "Some Shadows are capable of dropping{SAUT}\"rare materials.\"{PAGE}In order to obtain these materials, you{SAUT}must defeat these Shadows under very{SAUT}\"specific conditions.\"{PAGE}Perhaps you could try finishing them off{SAUT}by striking at their weaknesses or{SAUT}initiating an all-out attack.{PAGE}If you bring me \"rare materials,\" I may{SAUT}be able to use them to create powerful{SAUT}equipment.{PAGE}I recommend you try defeating{SAUT}Shadows with a variety of methods and{SAUT}see what comes of it.",
+    "fr": ""
+  }
+]

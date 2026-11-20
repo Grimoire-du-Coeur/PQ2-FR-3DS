@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "This is a spot where we can gather{SAUT}items. Lucky break for us, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Indeed. We should be doing everything{SAUT}while looking over our shoulder...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "Right. Let's begin.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "Perhaps later.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Is the search complete?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Excellent!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "That will be of great benefit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Perfect.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "They caught us asleep at the wheel. We{SAUT}oughta rest to avoid a repeat of that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Looks good!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Wow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "That one is exceedingly rare!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Makoto",
+    "en": "What do you plan on doing with this{SAUT}shortcut?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Makoto",
+    "en": "We can't go through this way. Let's{SAUT}check the other side.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "This way is perilous. I hope you have a{SAUT}plan, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "I agree. It's imperative we stay focused.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Makoto",
+    "en": "You're right; safety first!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Makoto",
+    "en": "That was quite a battle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Makoto",
+    "en": "There are so many Shadows here. Think{SAUT}we can take them?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Makoto",
+    "en": "I'm feeling brave as well. Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Makoto",
+    "en": "You're right: safety first!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Makoto",
+    "en": "That was a copious amount of{SAUT}Shadows... Surely there aren't anymore?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Makoto",
+    "en": "We may return to the theater from{SAUT}here. What's your call?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

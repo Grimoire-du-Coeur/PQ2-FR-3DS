@@ -1,0 +1,377 @@
+[
+  {
+    "id": "ARAGAKI_FOE_FOLLOW_START",
+    "en": "Tch, it's comin' after us...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_FOE_FOLLOW_START#2",
+    "en": "Looks like the FOE's spotted us.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_FOE_FOLLOW_START#3",
+    "en": "Be careful. An FOE's tailing us.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_FOE_NEAR_1",
+    "en": "There's an FOE right by us...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_FOE_NEAR_2",
+    "en": "Well well, looks like an FOE's shown{SAUT}up.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_FOE_NEAR_3",
+    "en": "An FOE... Be careful not to get spotted.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_FOE_FOLLOW_END_1",
+    "en": "Looks like it finally gave up.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_FOE_FOLLOW_END_2",
+    "en": "Looks like it went the other way.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_FOE_FOLLOW_END_3",
+    "en": "We left that FOE in the dust.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_KANSI_REACTION_1",
+    "en": "Tch, this is going to make movin' a{SAUT}pain.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_KANSI_REACTION_2",
+    "en": "Be careful. It'll suck if we get caught.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_KANSI_REACTION_3",
+    "en": "What a pain-in-the-ass trap.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_DENKISAKU_REACTI",
+    "en": "An electric gate, huh... This sucks, but{SAUT}let's take the longer route.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_DENKISAKU_REACTI#2",
+    "en": "Better look for the switch to turn{SAUT}the current off...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_DENKISAKU_REACTI#3",
+    "en": "Looks like we'd better focus on getting{SAUT}rid of the electricity.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_KYOUHU_REACTION_",
+    "en": "Whoa!?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_KYOUHU_REACTION_#2",
+    "en": "Seriously...!?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_KYOUHU_REACTION_#3",
+    "en": "Tch...!",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_STAIR_FIND_1",
+    "en": "Hey, some stairs...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_STAIR_FIND_2",
+    "en": "Looks like we can keep going.{SAUT}Should we?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_STAIR_FIND_3",
+    "en": "There's more to go, huh. What's your{SAUT}call here?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_TREASURE_FIND_1",
+    "en": "There's a treasure box... Wanna open{SAUT}it?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_TREASURE_FIND_2",
+    "en": "A treasure box, huh... Hope there's{SAUT}somethin' good in it.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_TREASURE_FIND_3",
+    "en": "Hey, there's a treasure box.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_CHECK_WALL_1",
+    "en": "I'm sensing somethin' suspicious...{SAUT}Should we open it?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_CHECK_WALL_2",
+    "en": "Hey, what's that?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_CHECK_WALL_3",
+    "en": "There's somethin' over there.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_SWITCH_FIND_1",
+    "en": "A switch, huh... Should we use it?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_SWITCH_FIND_2",
+    "en": "Hey, that over there―ain't that a{SAUT}switch?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_SWITCH_FIND_3",
+    "en": "A switch, huh... What do you wanna{SAUT}do?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_SHORTCUT_FIND_1",
+    "en": "Can't we go through there?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_SHORTCUT_FIND_2",
+    "en": "Look, we might be able to use that{SAUT}as a shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_SHORTCUT_FIND_3",
+    "en": "Wouldn't that work as a shortcut?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_FOE_WARNING_NEAR",
+    "en": "Looks like that one's still tailin' us.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_FOE_WARNING_NEAR#2",
+    "en": "I had a feeling it wasn't lettin' us go{SAUT}that easily...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_FOE_WARNING_NEAR#3",
+    "en": "Looks like this ain't over yet.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_1PERSON_HPTP10_1",
+    "en": "Tch, I'm reaching my limit...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_1PERSON_HPTP10_2",
+    "en": "Hey, why don't we start headin' back?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_1PERSON_HPTP10_3",
+    "en": "I feel like I'm gonna fall flat on my{SAUT}face...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_1PERSON_HP10_1",
+    "en": "Tch, I'm gettin' dizzy...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_1PERSON_HP10_2",
+    "en": "Sorry, but I need healing.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_1PERSON_HP10_3",
+    "en": "My health's low...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_1PERSON_TP10_1",
+    "en": "I'm runnin' low on energy here...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_1PERSON_TP10_2",
+    "en": "My energy's starting to run low.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_1PERSON_TP10_3",
+    "en": "Out of energy, huh... Tch, what a{SAUT}shame.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_1PERSON_HP80_1",
+    "en": "Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_1PERSON_HP80_2",
+    "en": "Some solid moves there.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_1PERSON_HP80_3",
+    "en": "Let's hope the next one goes like that{SAUT}too.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_DUNGEON_START_1",
+    "en": "Let's hurry up and finish this.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_DUNGEON_START_2",
+    "en": "Alright, let's go.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_DUNGEON_START_3",
+    "en": "Better give it your all.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_QUEST_START_1",
+    "en": "...Let's finish this quick.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_QUEST_START_2",
+    "en": "Don't slack off, alright?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_QUEST_START_3",
+    "en": "Well, let's get it started.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_TOUHA_25_1",
+    "en": "This place looks pretty spread-out.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_TOUHA_25_2",
+    "en": "No point worryin' over this. Let's just{SAUT}go about it calmly.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_TOUHA_50_1",
+    "en": "Halfway, huh... Looks like we've still{SAUT}got a ways to go.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_TOUHA_50_2",
+    "en": "I felt like we were closin' in on our{SAUT}goal...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_TOUHA_75_1",
+    "en": "This map's startin' to come together.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_TOUHA_75_2",
+    "en": "We're goin' at a pretty good pace,{SAUT}yeah?",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_TOUHA_100_1",
+    "en": "So, the map's all filled in. Good job.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_TOUHA_100_2",
+    "en": "You really got that finished...{SAUT}I'm impressed.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_MAPPING_ICON_ALL",
+    "en": "You're really keepin' at it there.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_MAPPING_ICON_ALL#2",
+    "en": "Yeah, it was around there.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_MAPPING_ICON_KAI",
+    "en": "I think that's right.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_MAPPING_ICON_KAI#2",
+    "en": "I'd say knowing where our entrance is{SAUT}is a pretty big deal.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_MAPPING_CHANGE_C",
+    "en": "You changed colors, huh? Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_MAPPING_CHANGE_C#2",
+    "en": "Huh, lookin' pretty good.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_MAPPING_ICON_DEL",
+    "en": "I coulda sworn Aki said somethin'{SAUT}about losing weight and whatnot...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_MAPPING_ICON_DEL#2",
+    "en": "Keepin' things in order can make a real{SAUT}difference―especially out here.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_MAPPING_MEMO_1",
+    "en": "Taking notes is important.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_MAPPING_MEMO_2",
+    "en": "Oh? Well, I'm impressed.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_DOOR_OPEN_1",
+    "en": "Let's hurry up and go.",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_DOOR_OPEN_2",
+    "en": "C'mon, over here...",
+    "fr": ""
+  },
+  {
+    "id": "ARAGAKI_DOOR_OPEN_3",
+    "en": "Be careful out there.",
+    "fr": ""
+  }
+]

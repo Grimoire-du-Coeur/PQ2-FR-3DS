@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kamoshidaman",
+    "en": "Allow me to teach you the workings{SAUT}of justice and peace!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "I don't care to learn something{SAUT}so presumptuous as that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kamoshidaman",
+    "en": "Insolent evildoers... Nevertheless,{SAUT}Kamoshidaman won't lose!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_5",
+    "locuteur": "Kamoshidaman",
+    "en": "I forgive none who disrupt the peace{SAUT}of Kamo City!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kamoshidaman",
+    "en": "Ngh... Impossible!{PAGE}I am absolute justice! How could I be{SAUT}toppled by such scoundrels!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kamoshidaman",
+    "en": "You fools! Why can't you understand!?{PAGE}I am the arbiter of justice! All you have{SAUT}to do is shut up and obey me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Kamoshidaman",
+    "en": "Ngh―to think you'd entrap me like this!{SAUT}Damn evildoers, cursing Kamo City!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Tch, they just keep comin'... We'll just{SAUT}take 'em out one at a time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Wait, Skull―I've got a better idea...{PAGE}Don'tcha think we've gotten used to{SAUT}fighting in this world by now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Indeed―my movement has become{SAUT}much more fluid than before.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "But we're forgetting an important part{SAUT}of how the Phantom Thieves fight, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Ohhh, you mean Baton Passes!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Correct―impressive, Panther! If we use{SAUT}Baton Pass, we'll gain the advantage!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "That's right, our fighting style should{SAUT}work for us in this world too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Yep! It's business as usual for us. Let us{SAUT}know when you're ready for one, Joker!",
+    "fr": ""
+  }
+]

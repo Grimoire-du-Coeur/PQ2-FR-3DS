@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Singing flower",
+    "en": "Sweet passion! Like the burst of juice at{SAUT}the first bite of fruit...{PAGE}Let it drown your heart...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Marie",
+    "en": "Beating wildly... with swirls of love,{SAUT}with kisses of sugar,{SAUT}with sighs of longing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "What's next, \"with eye of newt\"? She{SAUT}sounds like she's chanting a curse...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Marie",
+    "en": "...No. This isn't right. It needs an air of{SAUT}the forbidden!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "The forbidden?{OPTION}Sounds saucy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Marie",
+    "en": "Yes, saucy. A dark sauce that bubbles{SAUT}forth and sweetly washes you away...{PAGE}*gasp* F-Forget what I just said. I don't{SAUT}even know what saucy means... except,{SAUT}like, in food! I was talking about food!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "All right, then. Let's go check out the{SAUT}other flower.",
+    "fr": ""
+  }
+]

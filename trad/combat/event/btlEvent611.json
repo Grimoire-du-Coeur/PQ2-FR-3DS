@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Mass-produced robot",
+    "en": "SUSPICIOUS INDIVIDUALS DETECTED!{SAUT}SUSPICIOUS INDIVIDUALS DETECTED!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "We may be competing here, but you'd{SAUT}better not let your guard down, Shinji!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Shinjiro",
+    "en": "Ha, who do you think you're talkin' to?{SAUT}Let's hurry up and trash these things!",
+    "fr": ""
+  }
+]

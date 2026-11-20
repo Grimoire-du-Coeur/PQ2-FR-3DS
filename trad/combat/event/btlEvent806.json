@@ -1,0 +1,205 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "What's that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "He's wrapped in film?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mitsuru",
+    "en": "So, Hikari told us she created this being.{SAUT}Is it really okay for us to attack him?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "But if we don't, Hikari will be in{SAUT}danger! We've gotta protect her!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Doe",
+    "en": "Hikari... Hikari...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Haru",
+    "en": "Hikari-chan, leave this to us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Doe",
+    "en": "Hikari... Hikari! Hikari! Hikari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "Tch, we ain't lettin' you lay a finger on{SAUT}her! Here we come, dammit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008_00",
+    "locuteur": "Doe",
+    "en": "Hrrghh... Aaaaagh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "Hey, could those eyes be...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "Yes, that seems to be his weak point.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Shinjiro",
+    "en": "In that case, all we gotta do is{SAUT}pummel the hell outta his eyes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Aigis",
+    "en": "Understood. We will finish this at{SAUT}once!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "...Did we do it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "Wait, something's not right...{SAUT}What the...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "Is something wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Rise",
+    "en": "No way! The enemy's reading―it's{SAUT}growing stronger than before!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "Oh crap―for real!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Fuuka",
+    "en": "H-Here he comes, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ken",
+    "en": "Ah, my body's―!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "I can't... move!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "Ngh! We're gonna end up―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Hikari",
+    "en": "Everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akihiko",
+    "en": "This should be... ngh! Why can't I{SAUT}move!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Teddie",
+    "en": "Oh, this smarts... but we'll definitely...{SAUT}rescue you, Hikarin...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Hikari",
+    "en": "No! If this keeps up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Doe",
+    "en": "Hikari... Why... are you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Hikari",
+    "en": "No, this isn't right...{PAGE}Hang in there, everyone... I'll...{SAUT}do something about this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Haru",
+    "en": "You can't! It's too dangerous!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Futaba",
+    "en": "Hey! Hikari!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Hikari",
+    "en": "All of you saved me... So, this time...{SAUT}It's my turn to save you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029_05",
+    "en": "The Support Skill {f 0 1 2}Hikari's Cheer{f 0 1 0}{SAUT}has been added.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Chie",
+    "en": "Hey, the film's back again!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Kanji",
+    "en": "Tch, we'll just hafta destroy it again!{SAUT}Let's do this, dammit!",
+    "fr": ""
+  }
+]

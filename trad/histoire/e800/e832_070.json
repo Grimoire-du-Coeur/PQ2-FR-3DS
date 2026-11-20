@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Things turned out rather differently than{SAUT}I had envisioned... Nonetheless, I see{SAUT}you've fulfilled your objective.{PAGE}I must say, though... I have a mild{SAUT}interest in this girl talk myself.{PAGE}Someday, I would like to host girl talk{SAUT}between the residents of the Velvet{SAUT}Room.{PAGE}When that time comes, Theo shall be{SAUT}included as Theoko... or perhaps{SAUT}Theobeth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Ahaha... Will Theodore end up like{SAUT}Teddie, then?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "Nuh-uh-uh. You can't mimic such{SAUT}prettiness so easily.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "So, why exactly do you wanna join in on{SAUT}the girl talk so much, Teddie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "Well... Everyone always looks like{SAUT}they're having so much fun.{PAGE}I thought, if I joined, I'd be able to learn{SAUT}more about you guys. And not only{SAUT}that...{PAGE}But I thought maybe we'd become{SAUT}better friends too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Teddie...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Rise",
+    "en": "Aww, you should've just said so.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "Yeah. If that's the case, then it doesn't{SAUT}have to just be us girls. We could all chat{SAUT}together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Teddie",
+    "en": "Really!? You're gonna let me join!?{PAGE}I can come into your secret girl's{SAUT}paradise and talk about this and that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukiko",
+    "en": "Sure you can. But if you get any funny{SAUT}ideas, I'll roast you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Teddie",
+    "en": "Eek... But then paradise will roast with{SAUT}me...!{PAGE}N-No matter! As a member of the beauty{SAUT}brigade, I'm gonna keep giving it all I've{SAUT}got!{PAGE}Ai-chan, Rise-chan, Haru-chan! Let's{SAUT}steal everyone's hearts together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "Yeah, let's do it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Rise",
+    "en": "You got it! Just don't think I'm ever{SAUT}gonna let you beat me as far as cuteness{SAUT}is concerned!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Aigis",
+    "en": "I shall follow your example and pierce{SAUT}everyone's hearts, Teddie!",
+    "fr": ""
+  }
+]

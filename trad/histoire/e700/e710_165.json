@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Whew... We finally made it to those{SAUT}stairs from earlier.{PAGE}Looks like we can go downstairs with{SAUT}these―what should we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "What's your call? Should we head{SAUT}on down?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Let's do it.{OPTION}Not yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Yeah! Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Hm? We still got somethin' to do first?",
+    "fr": ""
+  }
+]

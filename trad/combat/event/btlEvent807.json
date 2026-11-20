@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Enlil",
+    "en": "My presence is necessary to those who{SAUT}flee reality. Defying me is so foolish...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Enlil",
+    "en": "You are but puny, pitiful children to me.{SAUT}Give up now, and cast yourselves away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "Everyone, hold out as long as you can!{SAUT}We have to keeping playing that movie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "We need the minds of the theatergoers{SAUT}to change! Please!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "C'mon, you've gotta hang in there!{SAUT}We'll do our best over here too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Enlil",
+    "en": "Innumerable humans have come here,{SAUT}craving structure and safety.{PAGE}Your resistance to my salvation is{SAUT}nothing but utter conceitedness.",
+    "fr": ""
+  }
+]

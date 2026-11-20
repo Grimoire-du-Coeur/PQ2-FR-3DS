@@ -1,0 +1,25 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "There's a ticket station here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Looks like it's functional... I wonder{SAUT}what sort of tickets it prints?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "We may be able to find out if we insert{SAUT}some money into it... Not that I have any{SAUT}on me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Hmm, looks like there's no clues here.{SAUT}Let's keep moving.",
+    "fr": ""
+  }
+]

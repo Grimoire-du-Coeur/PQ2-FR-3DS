@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Hey, look out! There's a carnivore{SAUT}right by you―!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Gaudy carnivore",
+    "en": "GREEEEEEEEE!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Timid herbivore",
+    "en": "Aaaaaah...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "O-Oh no! What do we do!?",
+    "fr": ""
+  }
+]

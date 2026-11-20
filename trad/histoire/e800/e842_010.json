@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "This special screening this time is a{SAUT}bit fanciful, a bit ethereal, like a{SAUT}fairy tale...{PAGE}I'd like for you to find a butterfly in{SAUT}Hikari's movie, and bring it here.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Sounds easy.{OPTION}I don't like bugs...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari",
+    "en": "Now that I think about it, there were{SAUT}a lot in my movie. They were all so{SAUT}beautiful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "S-Same here... But I think I can{SAUT}handle butterflies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "So we have to go catch a butterfly?{SAUT}A specific one, or any of them?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "If we're going through the trouble{SAUT}anyway, I'd prefer you catch a real{SAUT}lunker.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Can butterflies be \"lunkers\"?{SAUT}Isn't that a fish thing?{PAGE}I better not see you trying to eat{SAUT}one, Inari. I don't care how much{SAUT}protein they have!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "Insects? Even I have my limits.{PAGE}Though... Perhaps if there was no{SAUT}other choice...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "I-Is it too late to raise objections?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "Interesting. You said they're full of{SAUT}protein?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukari",
+    "en": "How about you stop right there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "*giggle* It sounds almost like a{SAUT}picnic, doesn't it? Surrounded by{SAUT}flowers, looking for butterflies...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "With all those Shadows around, we{SAUT}can't let our guards down... but{SAUT}I guess we can relax a little.{PAGE}Okay... Once we're ready, let's go.",
+    "fr": ""
+  }
+]

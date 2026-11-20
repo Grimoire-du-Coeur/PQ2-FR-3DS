@@ -1,0 +1,71 @@
+[
+  {
+    "id": "town_sel",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "town_warning_quest",
+    "locuteur": "Rise",
+    "en": "You haven't taken on any special{SAUT}screenings. Are you sure?",
+    "fr": ""
+  },
+  {
+    "id": "town_warning_persona",
+    "locuteur": "Rise",
+    "en": "Senpai, be careful. There's someone{SAUT}in your party who hasn't taken on a{SAUT}Sub-Persona.",
+    "fr": ""
+  },
+  {
+    "id": "town_warning_both",
+    "locuteur": "Rise",
+    "en": "Senpai, be careful. There's someone{SAUT}in your party who hasn't taken on a{SAUT}Sub-Persona.{PAGE}And it looks like you don't even have{SAUT}any {f 4 4 3 0 1333}s with you. Are you{SAUT}sure you're ready to go?",
+    "fr": ""
+  },
+  {
+    "id": "town_goukon_event_p3",
+    "locuteur": "Fuuka",
+    "en": "Leader, let's hold off on going back{SAUT}to that labyrinth. We should go check{SAUT}the next one for now.",
+    "fr": ""
+  },
+  {
+    "id": "town_goukon_event_p4",
+    "locuteur": "Rise",
+    "en": "Senpai, we can go back to that labyrinth{SAUT}later. Let's go check the next one first.",
+    "fr": ""
+  },
+  {
+    "id": "town_odekake_alone",
+    "en": "Nothing of interest is going on{SAUT}in the school. Perhaps you should{SAUT}check again later...",
+    "fr": ""
+  },
+  {
+    "id": "town_1st_warning_p4",
+    "locuteur": "Rise",
+    "en": "Senpai, we can go back to that labyrinth{SAUT}later. Let's go check the next one first.",
+    "fr": ""
+  },
+  {
+    "id": "town_warning_dungeon_p4",
+    "locuteur": "Rise",
+    "en": "Senpai, do you have any Goho-Ms{SAUT}with you?{PAGE}If you use a Goho-M in the labyrinth,{SAUT}you should be able to get back here.{PAGE}Don't push yourself too hard, okay?{SAUT}If it ever gets too rough in there,{SAUT}just use it and get out.{PAGE}You can heal up and change your{SAUT}equipment back here, so let's take{SAUT}our time and do this right!",
+    "fr": ""
+  },
+  {
+    "id": "town_warning_dungeon_p3",
+    "locuteur": "Fuuka",
+    "en": "Leader, do you have the Goho-M that{SAUT}Theo gave you?{PAGE}If you use a Goho-M in the labyrinth,{SAUT}it will allow you to return here.{PAGE}It might get really dangerous in there.{SAUT}If you get into trouble, just use it and{SAUT}get to safety.{PAGE}You can heal your party and change{SAUT}equipment here, so just remember{SAUT}you've always got a backup plan!",
+    "fr": ""
+  },
+  {
+    "id": "town_quest_find",
+    "en": "A new special screening has begun.{SAUT}Visit the box office for more info.",
+    "fr": ""
+  },
+  {
+    "id": "town_party_ng",
+    "en": "Your party is missing the necessary{SAUT}characters for this special screening.",
+    "fr": ""
+  }
+]

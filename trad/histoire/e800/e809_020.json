@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "So where should we start looking for{SAUT}this new street art?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "I think we've seen graffiti in a number{SAUT}of places already.{PAGE}See? It's there too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Actually, seeing this reminds me...{PAGE}...There was a lot more of it here, here,{SAUT}and here. I think there was some in{SAUT}other places too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Now that you mention it, I did see an{SAUT}unfinished drawing in a back alley{SAUT}earlier.{PAGE}If we're looking for a drawing that was{SAUT}changed, I would think that one would{SAUT}be easy to overwrite.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Good point. Let's go see.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh! I just remembered!{PAGE}I saw some unfinished graffiti in a back{SAUT}alley when I was walking around the{SAUT}city by myself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Unfinished...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah. If we're looking for graffiti that{SAUT}was changed, wouldn't something like{SAUT}that be easy to overwrite?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "I see. You have a point... Shall we take a{SAUT}look, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "A back alley, huh? Okay let's move out,{SAUT}Joker!",
+    "fr": ""
+  }
+]

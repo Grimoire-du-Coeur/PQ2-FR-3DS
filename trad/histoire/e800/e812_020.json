@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Our goal here is to obtain some{SAUT}Cinnamon Ferns.{PAGE}You marked their locations on the map,{SAUT}right? Go out and get 'em.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "It looks pretty far from here. We'll have{SAUT}to go through some of those cages too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "There're three of them, aren't there?{SAUT}Let's go to the closest one first.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "Alright! No more locks in our way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "We can go home now, right? That was{SAUT}a long journey, but it's finally over.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Hrmm... Now that we're done, I'm{SAUT}starting to get hungry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Me too! I can't wait to get back home{SAUT}and eat as much as possible!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P4 Hero",
+    "en": "Then you should come by my place.{SAUT}I'm sure it'd make Nanako happy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Rise",
+    "en": "Yay! Let's go, let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "We should have a celebration too!{SAUT}You know, in the dorm lobby!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mitsuru",
+    "en": "We don't have the time to squander.{SAUT}Once we've returned, we'll resume{SAUT}our mission immediately.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "Whaaaat!? You're workin' us to death!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "If you rest too much, your technique{SAUT}will get sloppy.{PAGE}Once we're at the dorm, it's right back{SAUT}to training―got it, Shinji?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Shinjiro",
+    "en": "Why the hell're you ropin' me into it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "Hey, gang! We need to continue with{SAUT}our own operation when we get back,{SAUT}too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "I know, I know... By the way, where are{SAUT}we gonna end up once we go through{SAUT}these doors?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Haru",
+    "en": "Maybe... Mementos?{PAGE}But, aren't we all trying to return{SAUT}to different places?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Hmm, I don't know... Maybe we'll just{SAUT}end up in the right places once we leave?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Makoto",
+    "en": "Th-That's a rather large assumption...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "Still, this is our only exit. We have{SAUT}no choice but to go this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan... I guess that makes this{SAUT}our goodbye.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "Mm-hm...{PAGE}-chan, thank you{SAUT}so much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Hikari",
+    "en": "Even after you were separated from{SAUT}your companions and stuck all alone{SAUT}here, you stayed strong.{PAGE}You were always cheerful, and tried{SAUT}your best, like you refused to lose...{SAUT}It was really encouraging.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "Heheh... I see. I guess there was a reason{SAUT}for me to come here after all, right?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_022",
+    "choix": true,
+    "en": "Of course there was.{OPTION}No way there wouldn't be one.{OPTION}Finally figured it out, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ann",
+    "en": "Geez, could you phrase it any ruder{SAUT}than that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "Remember what the Blue Brigade said?{PAGE}\"There's definitely a reason for everyone{SAUT}coming here.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Hero",
+    "en": "The reason we all met, huh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025_1",
+    "locuteur": "Hikari",
+    "en": "I guess you could say our meeting{SAUT}in itself was a form of casting.{PAGE}If it weren't for all of you, I never{SAUT}would've considered leaving this{SAUT}movie theater.{PAGE}If there really is someone who gathered{SAUT}all of us here, I think that's one skilled{SAUT}director.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025_2",
+    "locuteur": "P3 Fem Protag",
+    "en": "A director?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025_3",
+    "locuteur": "Hikari",
+    "en": "Sorry, I guess that's a bit of a stretch...{SAUT}It's a habit of mine to tie everything{SAUT}to movies, and I just couldn't help it.{PAGE}Maybe I'm more relaxed now that those{SAUT}locks are gone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Naoto",
+    "en": "Honestly, I still have some questions{SAUT}about all of this, but you know what{SAUT}they say... All's well that ends well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Nagi",
+    "en": "Everyone... Do you truly intend to leave?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Fuuka",
+    "en": "Nagi-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Nagi",
+    "en": "Oh, ah... I apologize for being{SAUT}so forward.{PAGE}It's truly fabulous that the doors are{SAUT}open―however, I've grown concerned...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Hikari",
+    "en": "Why? We can finally leave now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Nagi",
+    "en": "Hikari-san, when you return to reality,{SAUT}you may end up facing the same{SAUT}hardships as before...{PAGE}In fact, you could be hurt even further―{SAUT}if that's the case, wouldn't you{SAUT}prefer to...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Hikari",
+    "en": "You might be right, Nagi-san...{PAGE}But, everyone's given me courage. I've{SAUT}decided that I'm going to try my best...{SAUT}That's why it's time for me to leave.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Nagi",
+    "en": "I see... So you're determined to go{SAUT}through with this.{PAGE}I apologize for the interjection. I won't{SAUT}keep you any longer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Morgana",
+    "en": "Seems like it's unanimous then.{SAUT}Let's step outside.",
+    "fr": ""
+  }
+]

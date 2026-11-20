@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Theodore",
+    "en": "Ah, you have something that needs{SAUT}appraising?{PAGE}Please wait a moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Theodore",
+    "en": "Here it is. By all means, take it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "Here it is. By all means, take―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Theodore",
+    "en": "...Oh. Well, I suppose you can't.{SAUT}You don't have room to.{PAGE}My apologies, but could you make{SAUT}some space in your bag?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_2",
+    "locuteur": "Theodore",
+    "en": "I'll be happy to provide it as soon as{SAUT}you've got the space to carry it.{SAUT}Simply alert me when you're ready.",
+    "fr": ""
+  }
+]

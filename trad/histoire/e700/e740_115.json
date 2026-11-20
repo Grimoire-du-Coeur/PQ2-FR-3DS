@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "Oh! This hole is so deep... I can't even{SAUT}see the bottom.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "This would be awfully dangerous to{SAUT}fall into―Whoa... Just looking into it{SAUT}is making me sorta dizzy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Ooh, are you trying to say, \"I hope{SAUT}nobody comes along and accidentally{SAUT}pushes me from behind\"? Wink wink?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "Wha―!? No! You better not even try!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Um, more importantly... Please take{SAUT}a look at this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukari",
+    "en": "Oh, sorry for Stupei causing such{SAUT}a scene. What did you find?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "Oh, it's fine... So, this tree stump's nose{SAUT}seems like it functions as a switch{SAUT}after all.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "That round nose?{OPTION}That long nose?{OPTION}That Teddie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P4 Hero",
+    "en": "Nose?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Aaaand... Teddie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Hero",
+    "en": "Nose?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "Aaaand... Teddie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Teddie",
+    "en": "That's me! What can I do for you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "We're done with that joke already,{SAUT}dammit!{PAGE}And you've got nothin' to do with this,{SAUT}Teddie! Get outta here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Teddie",
+    "en": "Oh nooo! Skull's being a grumpy-pants...{SAUT}You should increase your calcium intake{SAUT}to lower the grumpiness of your pants.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "Argh! That ain't it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Teddie",
+    "en": "Well, I'm feeling a bit tired. Ahhh, this{SAUT}would make a comfy seat...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Naoto",
+    "en": "Oh―hey, Teddie!? Don't go near that{SAUT}stump!{PAGE}We haven't figured out what it―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "...Wait, what's that sound!?",
+    "fr": ""
+  }
+]

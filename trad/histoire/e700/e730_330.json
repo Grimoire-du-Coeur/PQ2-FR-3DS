@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukiko",
+    "en": "Hey, what do you think that is?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "It looks like some kind of machine, but...{SAUT}Uhh, I have no idea.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Hrmmm... I can't really tell from here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "We might be able to get closer to it{SAUT}if we find a different path. Why don't we{SAUT}try to find one?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Good idea, Yukari! I swear there's{SAUT}something to that thing... Hrghhh...{SAUT}My curiosity's reached its level cap!",
+    "fr": ""
+  }
+]

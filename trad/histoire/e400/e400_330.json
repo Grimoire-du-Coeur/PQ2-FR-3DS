@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Girl holding camera",
+    "en": "Oh, Auntie... When did you get here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari's aunt",
+    "en": "Hikari-chan, what were you doing out{SAUT}so late?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "High school Hikari",
+    "en": "I was just shooting a movie, that's all...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari's uncle",
+    "en": "A movie? Great, looks like we know{SAUT}who to blame...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari's aunt",
+    "en": "*sigh* This is getting old...{PAGE}Movies have nothing to do with your{SAUT}future.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "High school Hikari",
+    "en": "My future?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari's uncle",
+    "en": "You know, things like higher education{SAUT}and finding a job.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "High school Hikari",
+    "en": "Um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari's aunt",
+    "en": "Well, it's not surprising that you can't{SAUT}think of something smart to do yet.{PAGE}We're just concerned for you―after all,{SAUT}you only have one parent.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "High school Hikari",
+    "en": "...A director.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Hikari's uncle",
+    "en": "What'd you say?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "High school Hikari",
+    "en": "I'll be a director...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Hikari's aunt",
+    "en": "You have got to be kidding me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari's uncle",
+    "en": "Don't tell me―you're not serious about{SAUT}this, are you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "High school Hikari",
+    "en": "You're saying... I can't?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Hikari's aunt",
+    "en": "Now, listen here: normal people devote{SAUT}themselves to attending a prestigious{SAUT}college and getting a reputable job.{PAGE}Don't talk like some foolish dreamer.{SAUT}I'm sure your father wouldn't tolerate{SAUT}it, either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "High school Hikari",
+    "en": "But, Dad told me that I can try to be{SAUT}whatever I want.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari's uncle",
+    "en": "Well, he's busy with his work. He{SAUT}probably doesn't have enough time{SAUT}to have a real conversation about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Hikari's aunt",
+    "en": "That's why we're here, get it?{PAGE}It's bad enough that she doesn't have{SAUT}a mother... That fact alone will get{SAUT}people talking behind her back.{PAGE}That's why we've got to make this girl{SAUT}be normal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Hikari's uncle",
+    "en": "That's right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020_5",
+    "locuteur": "Hikari's uncle",
+    "en": "Well, first we need to first get rid of this{SAUT}hunk of junk.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "High school Hikari",
+    "en": "S-Stop! This is Dad's camera...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Hikari's uncle",
+    "en": "Are you fighting me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari's aunt",
+    "en": "Seriously! Why do you have to be like{SAUT}that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Hikari's aunt",
+    "en": "Just―act normal for once! Nobody can{SAUT}say anything about you if you at least{SAUT}pretend to be normal.{PAGE}All you need to do is match what{SAUT}everyone else is doing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "High school Hikari",
+    "en": "Just do what everyone else does...{PAGE}I... I...",
+    "fr": ""
+  }
+]

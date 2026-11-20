@@ -1,0 +1,204 @@
+[
+  {
+    "id": "MSG_000_0",
+    "en": "It's a dead end...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "...I only know, like, the regular places,{SAUT}y'know? Just take her to some small{SAUT}ramen shop and you're good, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "You idiots. Girls like places that are{SAUT}romantic!{PAGE}Somewhere like a hill or a lighthouse,{SAUT}a place where you can see the stars and{SAUT}stuff!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "A hill? We ain't got any.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "How 'bout a mountain?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Don't be stupid! That's totally{SAUT}overdoing it!{PAGE}I mean a place where it gets a little{SAUT}cold at night, and the two of you{SAUT}naturally get closer... You know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Kanji",
+    "en": "Uh, no... Not really.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "It looks like they're having a lot of fun{SAUT}over there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "Hmm, hills and stars? I wonder what{SAUT}they're talking about.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "Oh, you heard all that?{PAGE}We're trying to see who can come up{SAUT}with the best date plan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "You can't just ask someone what their{SAUT}ideal date would be...{PAGE}I mean, can't you just go where you{SAUT}wanna go? Like a gym or somethin'?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosuke",
+    "en": "Don't you think the best place to take{SAUT}a girl for a date is gonna be super{SAUT}different from where you wanna go?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Kanji",
+    "en": "Not sure about your hill, Yosuke-senpai.{SAUT}I feel like there'd be a buncha bugs 'n'{SAUT}shit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Wouldn't it be easier to just ask?{PAGE}Hey! Ramen or a hill, whaddya feelin'?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Haru",
+    "en": "Hm? Do I only get those two choices?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "It should be about who you go with, not{SAUT}where you go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Teddie",
+    "en": "If we're together, Yuki-chan, we can{SAUT}have fun no matter where we go!{PAGE}And maybe you can finally score{SAUT}with a―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yukiko",
+    "en": "Burn it all, Konohana Sakuya!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Teddie",
+    "en": "Aaah! It was just a joke!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "Man... Yukiko's ruthless. To think she's{SAUT}so ladylike when she's quiet... ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Speaking of ladies, Noir's quite a lady{SAUT}herself.{PAGE}I mean, she's the heiress to that{SAUT}huge-ass company.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Haru",
+    "en": "I... I'm no different from anyone else.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yosuke",
+    "en": "C'mon. That elegance? That noble aura?{SAUT}That's like your thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yukiko",
+    "en": "Yeah, the way you carry yourself is{SAUT}always so beautiful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Haru",
+    "en": "Thank you. My parents were really strict{SAUT}about things like that, so I suppose it's{SAUT}just second nature at this point.{PAGE}But you're just as lovely, Yukiko-chan.{SAUT}You're graceful, and your mannerisms{SAUT}are so majestic.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yukiko",
+    "en": "Th-Thank you.{PAGE}I'm just doing what I was taught...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Haru",
+    "en": "Oh... So it's the same for you too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yusuke",
+    "en": "That may be true, but when Noir fights,{SAUT}she's the epitome of the word \"bold.\"{PAGE}And that unpredictability only enhances{SAUT}her elegance.{PAGE}Both ladies are refined, but within them{SAUT}lie passionate hearts. Perhaps they have{SAUT}something in common.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Kanji",
+    "en": "...So, ramen or a hill?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Haru",
+    "en": "Hm? We're still talking about this? It's{SAUT}kind of pointless, don't you think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yukiko",
+    "en": "Yes. Incredibly pointless.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yosuke",
+    "en": "Haha... I thought so...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "Man, those two'd make one hell of a{SAUT}team...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "en": "A new special screening:{SAUT}\"The Ties that Bind\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

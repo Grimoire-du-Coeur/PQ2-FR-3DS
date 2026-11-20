@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Now, for this special screening...{PAGE}You are to go to Junessic Land and end{SAUT}the unchecked tyranny of the{SAUT}Ravenous Beast.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "Carnivorous... Wait, so it's not one of{SAUT}those FOEs?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Correct... It's a much more malicious{SAUT}menace than any ordinary dinosaur.{PAGE}Devouring everything in sight, it's{SAUT}the definition of B-E-A-S-T.{PAGE}It's currently running amok, doing{SAUT}whatever it pleases, wherever it{SAUT}pleases...{PAGE}If something is not done soon, it is sure{SAUT}to prey on you sooner or later... or so I{SAUT}fear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Shinjiro",
+    "en": "The shit you're sayin' sure doesn't{SAUT}match your expression...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "Wow, that sounds like one terrifying{SAUT}opponent.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Shinjiro",
+    "en": "Same with you...{PAGE}So, how do we find this thing? Can the{SAUT}navigators spot it for us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Rise",
+    "en": "Hmm, it's moving around so much, I{SAUT}don't think we can pinpoint its exact{SAUT}location...{PAGE}If only we had some kinda hint as to{SAUT}where it might be...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "Let's look for bones.{OPTION}Near its prey.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Good idea. All we have to do is look for{SAUT}the tracks left behind by this{SAUT}Ravenous Beast.{PAGE}If it's attacking and eating everything it{SAUT}lays eyes on, then we can follow its{SAUT}feeding trail...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Shinjiro",
+    "en": "And eventually we'll come face to face{SAUT}with the bastard, huh? Pretty gruesome.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "So we'll need to find traces of its latest{SAUT}meal... In other words, fresh dinosaur{SAUT}bones.{PAGE}Sound good, {f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "I'll leave it to you.{OPTION}Whatever you want.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "Me...?{PAGE}Haha, very well. I suppose I should pull{SAUT}some weight every now and then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "Haha, are you saying you want me to{SAUT}handle this?{PAGE}Very well, then. I was curious about this{SAUT}Ravenous Beast anyhow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akihiko",
+    "en": "Whatever it is, it's definitely tough.{SAUT}I can't wait to meet it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akechi",
+    "en": "Haha, I'm glad I can count on you. I'll{SAUT}try to meet expectations as well.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Hero",
+    "en": "Looks like something's here.{SAUT}Want to take a closer look?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Hero",
+    "en": "Yeah, best to be careful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Hero",
+    "en": "Sure. We might as well{SAUT}do it right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Hero",
+    "en": "We can always come back{SAUT}if we change our minds.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Hero",
+    "en": "Looks like we're done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Phew...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Nice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Hero",
+    "en": "Whew... That takes care of that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Great!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "That's rare.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Congrats!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Hero",
+    "en": "That might work as a shortcut.{SAUT}Should we go through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Hero",
+    "en": "Looks like we can't go{SAUT}through here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Hero",
+    "en": "Something bad's lurking in the{SAUT}shadows here. What'll we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Hero",
+    "en": "All right. Let's stay on guard.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Hero",
+    "en": "Yeah. Let's back off for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Hero",
+    "en": "That was a pretty tough{SAUT}opponent...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Hero",
+    "en": "I'm sensing a lot of Shadows{SAUT}close by...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Hero",
+    "en": "All right. Let's stay on guard.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Hero",
+    "en": "Yeah. Let's back off for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Hero",
+    "en": "I think that's it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P3 Hero",
+    "en": "We can get back through here.{SAUT}Is that the plan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

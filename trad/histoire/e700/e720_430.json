@@ -1,0 +1,14 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "The electric gate's switch is northeast{SAUT}from your current location!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "Remember that gate that was left open?{SAUT}It's just beyond that!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "The FOE is tracking us down!{SAUT}Get ready to battle!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "Got it! It's about time!{PAGE}Junpei! Kanji! Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "Guh... hah... Uh, could you―{PAGE}...Phew... hah... hold on a sec...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "I see it... I can see it...{PAGE}A beautiful sky... chirping birds...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Do your best.{OPTION}That all you got?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "This is... Junpei... Iori's...{SAUT}last... stand...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukari",
+    "en": "Ahaha... Now I feel a little bad for{SAUT}getting him into this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akihiko",
+    "en": "Yeah, you're wide open. Pull it{SAUT}together! The enemy's right there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kanji",
+    "en": "You guys... are monsters...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "Eyes up, you two! We've got an{SAUT}opponent to beat before we can{SAUT}call ourselves the strongest!",
+    "fr": ""
+  }
+]

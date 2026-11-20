@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Mass-produced robot",
+    "en": "ERRORS MUST BE ELIMINATED.{SAUT}ERRORS MUST BE ELIMINATED.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Whoa! Too bad, buddy, but you're not{SAUT}getting even one step closer to them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  }
+]

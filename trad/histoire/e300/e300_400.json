@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Aigis",
+    "en": "Thank you for tending to me earlier.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "Aigis-san... You're going with everyone{SAUT}too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "Of course. I shall fight alongside{SAUT}everyone as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "B-But... what if you get hurt again,{SAUT}like before?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Hero",
+    "en": "It's kind of you to be worried about{SAUT}Aigis. Thanks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Aigis",
+    "en": "As you can see, I am fully recovered.{SAUT}I can resume my duties at this time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Hero",
+    "en": "Then, can you go on ahead and prep{SAUT}with everyone else? I'll be right there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Aigis",
+    "en": "Understood.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "-kun, you're the leader of{SAUT}Aigis-san, Koro-chan, and the others,{SAUT}right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Hero",
+    "en": "Yeah, that's right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Hikari",
+    "en": "Isn't it hard to keep them all together?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Hero",
+    "en": "Hmm... Not really? It's actually pretty{SAUT}fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Hikari",
+    "en": "But, everyone's got such unique{SAUT}personalities... They're not really{SAUT}the norm, are they?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Hero",
+    "en": "The norm... I wonder what normal{SAUT}actually is.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Hikari",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Hero",
+    "en": "My companions are a bit―no, a lot,{SAUT}I guess―all unique in their own way...{PAGE}But that's never bothered me. It's only{SAUT}natural for everyone to be different.{PAGE}I mean, even I'm different sometimes.{SAUT}Junpei calls me a \"total mood killer\"{SAUT}when I don't play along with his jokes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Hikari",
+    "en": "But, if you're different from everyone{SAUT}else... they look at you like you're weird.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Hero",
+    "en": "I don't think you should change yourself{SAUT}for someone else if they don't accept you{SAUT}for who you really are.{PAGE}There are always people out there{SAUT}who'll accept you, even when you're{SAUT}different from them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Hikari",
+    "en": "But... still, I...{PAGE}...I'm sorry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Junpei",
+    "en": "Hey, c'mon! Let's get back in that{SAUT}movie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Aigis",
+    "en": "We are all waiting for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "Yosuke says we're gonna leave you{SAUT}behind if you don't hurry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "I did not!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Hero",
+    "en": "Okay, be right there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Hero",
+    "en": "I can't find the exact words for what{SAUT}I mean...{PAGE}But, we're going to change that movie.{SAUT}Once you've seen the ending... let's talk{SAUT}again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Hikari",
+    "en": "Mm, I understand... Be careful in there.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosukesaurus",
+    "en": "Crap, crap, crap, it's here! We'd better{SAUT}run―fast!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Wh-What is that!? It's huuuge!{PAGE}We won't last a minute if that thing{SAUT}gets us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Um, uh, c-calm down... There's some{SAUT}distance between it and us―we should{SAUT}be okay... for now.{PAGE}Plus, uhh... Look how scraggly its arms{SAUT}and legs are, compared to the rest of it!{SAUT}I bet it's really slow―just watch.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Oh, okay then...{PAGE}I was thinking about playing dead if we{SAUT}were spotted, but maybe it's possible for{SAUT}us to just run away instead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Ooh, impressive! I guess we gotta ask{SAUT}an animal when it comes to strategies{SAUT}against other animals, eh...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Don't you start! Look where we are―{SAUT}either we stop fussing about here, or{SAUT}we get ourselves eaten.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "If we were caught by such a ferocious{SAUT}FOE, we'd be dinosaur chow in no time.{PAGE}Looks like we ought to proceed even{SAUT}more cautiously than before.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Let's try to prevent ourselves from{SAUT}panicking. Rational decision-making skills{SAUT}are especially vital to us right now.{PAGE}Joker, let's {f 0 1 2}progress with a roundabout{SAUT}path so that FOE can't catch up to us{f 0 1 0}.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "P3_HERO2_FOE_FOLLOW_STAR",
+    "en": "Looks like the FOE noticed us!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_FOE_FOLLOW_STAR#2",
+    "en": "An FOE's coming after us!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_FOE_FOLLOW_STAR#3",
+    "en": "Careful! An FOE's after us!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_FOE_NEAR_1",
+    "en": "There's an FOE close by!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_FOE_NEAR_2",
+    "en": "The FOE saw us!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_FOE_NEAR_3",
+    "en": "Drat, there's an FOE...",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_FOE_FOLLOW_END_",
+    "en": "Looks like the FOE gave up on us.",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_FOE_FOLLOW_END_#2",
+    "en": "The FOE's not coming anymore!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_FOE_FOLLOW_END_#3",
+    "en": "We got away... What a relief.",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_KANSI_REACTION_",
+    "en": "Whoa, everyone's on high alert!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_KANSI_REACTION_#2",
+    "en": "It'll be trouble if we're found. Be{SAUT}careful!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_KANSI_REACTION_#3",
+    "en": "You can't catch us!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_DENKISAKU_REACT",
+    "en": "If we don't shut off the electricity, we'll{SAUT}be burnt to a crisp.",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_DENKISAKU_REACT#2",
+    "en": "An electric gate, huh... Looks like we{SAUT}need to turn off the electricity first!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_DENKISAKU_REACT#3",
+    "en": "Look out! There's an electric gate!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_KYOUHU_REACTION",
+    "en": "Aaaaaaaaahhhh!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_KYOUHU_REACTION#2",
+    "en": "Eek!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_KYOUHU_REACTION#3",
+    "en": "No way!?",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_STAIR_FIND_1",
+    "en": "Looks like we can move on!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_STAIR_FIND_2",
+    "en": "Well, we gotta go to the next area!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_STAIR_FIND_3",
+    "en": "I think we can move on.",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_TREASURE_FIND_1",
+    "en": "Look! A treasure box!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_TREASURE_FIND_2",
+    "en": "There's a treasure box. Let's open it!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_TREASURE_FIND_3",
+    "en": "Ooh, a treasure box. What's inside it!?",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_CHECK_WALL_1",
+    "en": "Something about this area is bothering{SAUT}me...",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_CHECK_WALL_2",
+    "en": "There's gotta be something here. Let's{SAUT}look around!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_CHECK_WALL_3",
+    "en": "Isn't there something odd about this{SAUT}place...?",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_SWITCH_FIND_1",
+    "en": "Ooh, a switch! Let's give a heave-ho!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_SWITCH_FIND_2",
+    "en": "I found a switch! Onward!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_SWITCH_FIND_3",
+    "en": "Isn't that a switch?",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_SHORTCUT_FIND_1",
+    "en": "You think we can pass through there?",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_SHORTCUT_FIND_2",
+    "en": "I think that there's a shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_SHORTCUT_FIND_3",
+    "en": "All right, a shortcut!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_FOE_WARNING_NEA",
+    "en": "There's still an FOE nearby! Caution!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_FOE_WARNING_NEA#2",
+    "en": "Looks like that FOE is still around.",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_FOE_WARNING_NEA#3",
+    "en": "FOE hurtling toward us!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_1PERSON_HPTP10_",
+    "en": "Yep, this is rough!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_1PERSON_HPTP10_#2",
+    "en": "Why don't we go back to our base?",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_1PERSON_HPTP10_#3",
+    "en": "*pant* *gasp* I'm more tired than I{SAUT}thought...",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_1PERSON_HP10_1",
+    "en": "Hrrgh... Someone, please heal me!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_1PERSON_HP10_2",
+    "en": "I think my health's floundering...",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_1PERSON_HP10_3",
+    "en": "I-I can't go on... My health's too low...",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_1PERSON_TP10_1",
+    "en": "So exhausted... Can we rest a bit?",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_1PERSON_TP10_2",
+    "en": "My stamina's been stretched too far...",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_1PERSON_TP10_3",
+    "en": "No more... I'm out of energy...",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_1PERSON_HP80_1",
+    "en": "I hope the next one is like this, too!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_1PERSON_HP80_2",
+    "en": "Easy-peasy!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_1PERSON_HP80_3",
+    "en": "That was a piece of cake!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_DUNGEON_START_1",
+    "en": "Let us march forth!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_DUNGEON_START_2",
+    "en": "Let me handle it!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_DUNGEON_START_3",
+    "en": "We're an amazing squad; let's keep it{SAUT}that way!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_QUEST_START_1",
+    "en": "Okay, this'll be over in no time,{SAUT}hopefully!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_QUEST_START_2",
+    "en": "We got our orders, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_QUEST_START_3",
+    "en": "I'm pretty excited, now.",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_TOUHA_25_1",
+    "en": "Looks like we've got a ways to go...{SAUT}Are we good on health?",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_TOUHA_25_2",
+    "en": "This seems all spread out... Let's{SAUT}exercise caution as we continue.",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_TOUHA_50_1",
+    "en": "The map is filling out nicely!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_TOUHA_50_2",
+    "en": "I think we're just about halfway done?",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_TOUHA_75_1",
+    "en": "Let's keep this up and plow through!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_TOUHA_75_2",
+    "en": "I think we only have a bit more to go?",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_TOUHA_100_1",
+    "en": "What a sense of accomplishment!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_TOUHA_100_2",
+    "en": "Perfect! We did it.",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_MAPPING_ICON_AL",
+    "en": "I love it!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_MAPPING_ICON_AL#2",
+    "en": "Well, we certainly won't forget that{SAUT}now!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_MAPPING_ICON_KA",
+    "en": "Okay, we can go to another floor from{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_MAPPING_ICON_KA#2",
+    "en": "Now we can move on without getting{SAUT}lost!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_MAPPING_CHANGE_",
+    "en": "Nice, that color's easy to see!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_MAPPING_CHANGE_#2",
+    "en": "This makes me want to try mapping,{SAUT}too!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_MAPPING_ICON_DE",
+    "en": "Way to improve readability.",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_MAPPING_ICON_DE#2",
+    "en": "Yes, let's ditch anything we don't need!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_MAPPING_MEMO_1",
+    "en": "We gotta make sure not to forget that!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_MAPPING_MEMO_2",
+    "en": "Maybe I should doodle on that...?{SAUT}Haha, just joking!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_DOOR_OPEN_1",
+    "en": "C'mon, let's move!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_DOOR_OPEN_2",
+    "en": "Let's launch on outta here!",
+    "fr": ""
+  },
+  {
+    "id": "P3_HERO2_DOOR_OPEN_3",
+    "en": "Over here!",
+    "fr": ""
+  }
+]

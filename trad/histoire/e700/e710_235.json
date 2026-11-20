@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "*sigh* That was exhausting! How much{SAUT}surveillance do they really need!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "You have a point―they should be{SAUT}conserving electricity. Such utility costs{SAUT}should never be taken lightly.{PAGE}In fact, the fear I felt when I saw last{SAUT}month's electric bill... Ngh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Uh, that has nothing to do with this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Then again, evading the searchlights{SAUT}was indeed fun. It's one of the pleasures{SAUT}of being a phantom thief.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "It worked out since we managed to slip{SAUT}past them, but who knows what could{SAUT}have happened if we got busted...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Well, good job, folks.{PAGE}By the way, I took a look around and{SAUT}it seems there aren't any more{SAUT}searchlights!{PAGE}...In this area, at least.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Ack... That means there's more in{SAUT}the next area...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "This is for Queen and Noir's sakes, Skull!{SAUT}Show some guts!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Okay, okay! C'mon then, let's get{SAUT}ourselves psyched up and keep on{SAUT}moving!",
+    "fr": ""
+  }
+]

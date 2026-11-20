@@ -1,0 +1,7 @@
+[
+  {
+    "id": "MSG_TUTORIAL_ENEMY_UI",
+    "en": "The {f 0 1 2}proximity gauge{f 0 1 0} displays the {f 0 1 2}risk of a{SAUT}battle occurring{f 0 1 0}.{PAGE}Gray means you are {f 0 1 2}safe{f 0 1 0}. As you move, it{SAUT}goes green, then yellow, and finally red.{PAGE}Red means {f 0 1 2}a battle is imminent{f 0 1 0}, so keep{SAUT}an eye on this gauge!",
+    "fr": ""
+  }
+]

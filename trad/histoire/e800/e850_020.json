@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "Incoming enemy Shadow! It's just as{SAUT}powerful as we heard!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "...Okay.{PAGE}Help me take this thing down, Joker.{SAUT}I swear I won't lose.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "You've got this.{OPTION}Don't fall behind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, I'm not worried at all. I mean,{SAUT}I've got you guys on my side!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "I know. I'll fight it with everything{SAUT}I've got!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Fuuka",
+    "en": "Here comes the enemy Shadow!{SAUT}Good luck, {f 6 1 27 0 0 0}-chan!",
+    "fr": ""
+  }
+]

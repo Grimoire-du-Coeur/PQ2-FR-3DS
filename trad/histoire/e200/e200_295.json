@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "Hey, are you two alright!? I mean...{SAUT}You guys just did something totally{SAUT}insane!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "There was, like, a kinda clashing{SAUT}of powers, and some fusion thing...{SAUT}It was so intense!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "Senpai and Joker were both amazin'{SAUT}out there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Hold on! As impressive as it was, we{SAUT}need to get this turned on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "He's right; the carnivore is barely{SAUT}being held back right now.{PAGE}If we don't hurry, their efforts will have{SAUT}been for nothing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "...Hm? There's a panel with a button{SAUT}on the opposite side of the panel.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "It's hard to imagine that's a pointless{SAUT}feature. It's likely worth trying out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "There's no time for discussion―let's{SAUT}press it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "Yes! The power's on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008_05",
+    "locuteur": "Gaudy carnivore",
+    "en": "GYAAAAAAAH!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Roar all you want―the ball's in our{SAUT}court now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Joker, flip the switch! It better work{SAUT}this time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "I-It worked...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Mission complete, you guys! The target{SAUT}has been captured.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "Whew... What a relief!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "*sigh* We did it, everyone. I was really{SAUT}concerned for a moment that it{SAUT}wouldn't work.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Naoto",
+    "en": "Looks like this was the emergency{SAUT}power supply after all.{PAGE}I believe we'll be safe for the time being.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Teddie",
+    "en": "Let's hurry back to Yosuke!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P4 Hero",
+    "en": "Teddie's right―let's go!",
+    "fr": ""
+  }
+]

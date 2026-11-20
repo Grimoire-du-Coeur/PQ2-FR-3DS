@@ -1,0 +1,822 @@
+[
+  {
+    "id": "id_0_0",
+    "en": "Increases money gained in battle by 10%{SAUT}{f 0 1 2}[Next Lv: Money acquired increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_0_1",
+    "en": "Increases money gained in battle by 20%{SAUT}{f 0 1 2}[Next Lv: Money acquired increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_0_2",
+    "en": "Increases money gained in battle by 30%{SAUT}{f 0 1 2}[Next Lv: Money acquired increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_0_3",
+    "en": "Increases money gained in battle by 40%{SAUT}{f 0 1 2}[Next Lv: Money acquired increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_0_4",
+    "en": "Increases money gained in battle by 50%",
+    "fr": ""
+  },
+  {
+    "id": "id_0_0_0",
+    "en": "{f 0 1 2}Set [No.05] to Lv3.{f 0 1 0}{SAUT}Increases money gained in battle by 10%",
+    "fr": ""
+  },
+  {
+    "id": "id_0_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Increases money gained in battle by 10%",
+    "fr": ""
+  },
+  {
+    "id": "id_1_0",
+    "en": "Increases EXP gained in battle by 10%{SAUT}{f 0 1 2}[Next Lv: EXP gained increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_1_1",
+    "en": "Increases EXP gained in battle by 20%{SAUT}{f 0 1 2}[Next Lv: EXP gained increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_1_2",
+    "en": "Increases EXP gained in battle by 30%{SAUT}{f 0 1 2}[Next Lv: EXP gained increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_1_3",
+    "en": "Increases EXP gained in battle by 40%{SAUT}{f 0 1 2}[Next Lv: EXP gained increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_1_4",
+    "en": "Increases EXP gained in battle by 50%.",
+    "fr": ""
+  },
+  {
+    "id": "id_1_0_0",
+    "en": "{f 0 1 2}Set [No.06] to Lv4.{f 0 1 0}{SAUT}Increases EXP gained in battle by 10%.",
+    "fr": ""
+  },
+  {
+    "id": "id_1_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Increases EXP gained in battle by 10%.",
+    "fr": ""
+  },
+  {
+    "id": "id_2_0",
+    "en": "Increases preemptive attack chance by 10%{SAUT}{f 0 1 2}[Next Lv: Chance increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_2_1",
+    "en": "Increases preemptive attack chance by 20%{SAUT}{f 0 1 2}[Next Lv: Chance increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_2_2",
+    "en": "Increases preemptive attack chance by 30%{SAUT}{f 0 1 2}[Next Lv: Chance increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_2_3",
+    "en": "Increases preemptive attack chance by 40%{SAUT}{f 0 1 2}[Next Lv: Chance increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_2_4",
+    "en": "Increases preemptive attack chance by 50%",
+    "fr": ""
+  },
+  {
+    "id": "id_2_0_0",
+    "en": "{f 0 1 2}Set [No.14] to Lv1.{f 0 1 0}{SAUT}Increases preemptive attack chance by 10%",
+    "fr": ""
+  },
+  {
+    "id": "id_2_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Increases preemptive attack chance by 10%",
+    "fr": ""
+  },
+  {
+    "id": "id_3_0",
+    "en": "Displays FOEs, chests, hidden passages, doors, stairs on the map within a 3x3 grid centered around you.{SAUT}{f 0 1 2}[Next Lv: Displayed area increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_3_1",
+    "en": "Displays FOEs, chests, hidden passages, doors, stairs on the map within a 5x5 grid centered around you.{SAUT}{f 0 1 2}[Next Lv: Displayed area increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_3_2",
+    "en": "Displays FOEs, chests, hidden passages, doors, stairs on the map within a 7x7 grid centered around you.{SAUT}{f 0 1 2}[Next Lv: Displayed area increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_3_3",
+    "en": "Displays FOEs, chests, hidden passages, doors, stairs on the map within a 9x9 grid centered around you.{SAUT}{f 0 1 2}[Next Lv: Displayed area increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_3_4",
+    "en": "Displays FOEs, chests, hidden passages, doors, stairs on the map within a 11x11 grid centered around you.",
+    "fr": ""
+  },
+  {
+    "id": "id_3_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Displays FOEs, chests, hidden passages, doors, stairs on the map within a 3x3 grid centered around you.",
+    "fr": ""
+  },
+  {
+    "id": "id_4_0",
+    "en": "1 HP restore for every 10 steps taken in labyrinth.{SAUT}{f 0 1 2}[Next Lv: Steps until restore decreases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_4_1",
+    "en": "1 HP restore for every 8 steps taken in labyrinth.{SAUT}{f 0 1 2}[Next Lv: Steps until restore decreases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_4_2",
+    "en": "1 HP restore for every 6 steps taken in labyrinth.{SAUT}{f 0 1 2}[Next Lv: Steps until restore decreases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_4_3",
+    "en": "1 HP restore for every 4 steps taken in labyrinth.{SAUT}{f 0 1 2}[Next Lv: Steps until restore decreases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_4_4",
+    "en": "1 HP restore for every 2 steps taken in labyrinth.{SAUT}{f 0 1 2}[Next Lv: Steps until restore decreases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_4_0_0",
+    "en": "{f 0 1 2}Set [No.04] to Lv3.{f 0 1 0}{SAUT}1 HP restore for every 10 steps taken in labyrinth.",
+    "fr": ""
+  },
+  {
+    "id": "id_4_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}1 HP restore for every 10 steps taken in labyrinth.",
+    "fr": ""
+  },
+  {
+    "id": "id_5_0",
+    "en": "1 SP restore for every 15 steps taken in labyrinth.{SAUT}{f 0 1 2}[Next Lv: Steps until restore decreases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_5_1",
+    "en": "1 SP restore for every 12 steps taken in labyrinth.{SAUT}{f 0 1 2}[Next Lv: Steps until restore decreases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_5_2",
+    "en": "1 SP restore for every 9 steps taken in labyrinth.{SAUT}{f 0 1 2}[Next Lv: Steps until restore decreases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_5_3",
+    "en": "1 SP restore for every 6 steps taken in labyrinth.{SAUT}{f 0 1 2}[Next Lv: Steps until restore decreases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_5_4",
+    "en": "1 SP restore for every 3 steps taken in labyrinth.",
+    "fr": ""
+  },
+  {
+    "id": "id_5_0_0",
+    "en": "{f 0 1 2}Set [No.22] to Lv2, [No.01] to Lv3.{f 0 1 0}{SAUT}1 SP restore for every 15 steps taken in labyrinth.",
+    "fr": ""
+  },
+  {
+    "id": "id_5_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}1 SP restore for every 15 steps taken in labyrinth.",
+    "fr": ""
+  },
+  {
+    "id": "id_6_0",
+    "en": "Increases Party Meter by 50% at the start of battle.{SAUT}{f 0 1 2}[Next Lv: Party Meter increase up]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_6_1",
+    "en": "Increases Party Meter by 100% at the start of battle.{SAUT}{f 0 1 2}[Next Lv: Party Meter increase up]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_6_2",
+    "en": "Increases Party Meter by 150% at the start of battle.{SAUT}{f 0 1 2}[Next Lv: Party Meter increase up]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_6_3",
+    "en": "Increases Party Meter by 200% at the start of battle.{SAUT}{f 0 1 2}[Next Lv: Party Meter increase up]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_6_4",
+    "en": "Increases Party Meter by 300% at the start of battle.{SAUT}{f 0 1 2}[Next Lv: Party Meter increase up]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_6_0_0",
+    "en": "{f 0 1 2}Set [No.02] to Lv5, [No.15] to Lv1.{f 0 1 0}{SAUT}Increases Party Meter by 50% at the start of battle.",
+    "fr": ""
+  },
+  {
+    "id": "id_6_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Increases Party Meter by 50% at the start of battle.",
+    "fr": ""
+  },
+  {
+    "id": "id_7_0",
+    "en": "Increases all-out attack damage by 10%.{SAUT}{f 0 1 2}[Next Lv: All-out attack damage increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_7_1",
+    "en": "Increases all-out attack damage by 20%.{SAUT}{f 0 1 2}[Next Lv: All-out attack damage increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_7_2",
+    "en": "Increases all-out attack damage by 30%.{SAUT}{f 0 1 2}[Next Lv: All-out attack damage increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_7_3",
+    "en": "Increases all-out attack damage by 40%.{SAUT}{f 0 1 2}[Next Lv: All-out attack damage increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_7_4",
+    "en": "Increases all-out attack damage by 50%.",
+    "fr": ""
+  },
+  {
+    "id": "id_7_0_0",
+    "en": "{f 0 1 2}Set [No.10] to Lv3.{f 0 1 0}{SAUT}Increases all-out attack damage by 10%.",
+    "fr": ""
+  },
+  {
+    "id": "id_7_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Increases all-out attack damage by 10%.",
+    "fr": ""
+  },
+  {
+    "id": "id_8_0",
+    "en": "Be able to gather at Treasure Spots 4 times.{SAUT}{f 0 1 2}[Next Lv: Gathering count increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_8_1",
+    "en": "Be able to gather at Treasure Spots 5 times.{SAUT}{f 0 1 2}[Next Lv: Gathering count increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_8_2",
+    "en": "Be able to gather at Treasure Spots 6 times.{SAUT}{f 0 1 2}[Next Lv: Gathering count increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_8_3",
+    "en": "Be able to gather at Treasure Spots 7 times.{SAUT}{f 0 1 2}[Next Lv: Gathering count increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_8_4",
+    "en": "Be able to gather at Treasure Spots 8 times.",
+    "fr": ""
+  },
+  {
+    "id": "id_8_0_0",
+    "en": "{f 0 1 2}Set [No.13] to Lv1, [No.24] to Lv1.{f 0 1 0}{SAUT}Be able to gather at Treasure Spots 4 times.",
+    "fr": ""
+  },
+  {
+    "id": "id_8_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Be able to gather at Treasure Spots 4 times.",
+    "fr": ""
+  },
+  {
+    "id": "id_9_0",
+    "en": "Increases chance of obtaining accessories at Treasure Spots by 10%{SAUT}{f 0 1 2}[Next Lv: Chance increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_9_1",
+    "en": "Increases chance of obtaining accessories at Treasure Spots by 20%{SAUT}{f 0 1 2}[Next Lv: Chance increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_9_2",
+    "en": "Increases chance of obtaining accessories at Treasure Spots by 30%{SAUT}{f 0 1 2}[Next Lv: Chance increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_9_3",
+    "en": "Increases chance of obtaining accessories at Treasure Spots by 40%{SAUT}{f 0 1 2}[Next Lv: Chance increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_9_4",
+    "en": "Increases chance of obtaining accessories at Treasure Spots by 50%",
+    "fr": ""
+  },
+  {
+    "id": "id_9_0_0",
+    "en": "{f 0 1 2}Set [No.09] to Lv4.{f 0 1 0}{SAUT}Increases chance of obtaining accessories at Treasure Spots by 10%",
+    "fr": ""
+  },
+  {
+    "id": "id_9_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Increases chance of obtaining accessories at Treasure Spots by 10%",
+    "fr": ""
+  },
+  {
+    "id": "id_10_0",
+    "en": "Be able to carry 65 items in your inventory.{SAUT}{f 0 1 2}[Next Lv: Number carriable increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_10_1",
+    "en": "Be able to carry 70 items in your inventory.{SAUT}{f 0 1 2}[Next Lv: Number carriable increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_10_2",
+    "en": "Be able to carry 75 items in your inventory.{SAUT}{f 0 1 2}[Next Lv: Number carriable increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_10_3",
+    "en": "Be able to carry 80 items in your inventory.{SAUT}{f 0 1 2}[Next Lv: Number carriable increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_10_4",
+    "en": "Be able to carry 99 items in your inventory.",
+    "fr": ""
+  },
+  {
+    "id": "id_10_0_0",
+    "en": "{f 0 1 2}Set [No.22] to Lv3, [No.01] to Lv2.{f 0 1 0}{SAUT}Be able to carry 65 items in your inventory.",
+    "fr": ""
+  },
+  {
+    "id": "id_10_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Be able to carry 65 items in your inventory.",
+    "fr": ""
+  },
+  {
+    "id": "id_11_0",
+    "en": "Increase Persona stock count to 8{SAUT}{f 0 1 2}[Next Lv: Persona stock count increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_11_1",
+    "en": "Increase Persona stock count to 10{SAUT}{f 0 1 2}[Next Lv: Persona stock count increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_11_2",
+    "en": "Increase Persona stock count to 12{SAUT}{f 0 1 2}[Next Lv: Persona stock count increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_11_3",
+    "en": "Increase Persona stock count to 14{SAUT}{f 0 1 2}[Next Lv: Persona stock count increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_11_4",
+    "en": "Increase Persona stock count to 16",
+    "fr": ""
+  },
+  {
+    "id": "id_11_0_0",
+    "en": "{f 0 1 2}Set [No.13] to Lv1, [No.24] to Lv2.{f 0 1 0}{SAUT}Increase Persona stock count to 8",
+    "fr": ""
+  },
+  {
+    "id": "id_11_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Increase Persona stock count to 8",
+    "fr": ""
+  },
+  {
+    "id": "id_12_0",
+    "en": "Max Party Meter increases to 3",
+    "fr": ""
+  },
+  {
+    "id": "id_12_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Max Party Meter increases to 3",
+    "fr": ""
+  },
+  {
+    "id": "id_13_0",
+    "en": "Max Party Meter increases to 4",
+    "fr": ""
+  },
+  {
+    "id": "id_13_0_0",
+    "en": "{f 0 1 2}Set [No.09] to Lv2.{f 0 1 0}{SAUT}Max Party Meter increases to 4",
+    "fr": ""
+  },
+  {
+    "id": "id_13_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Max Party Meter increases to 4",
+    "fr": ""
+  },
+  {
+    "id": "id_14_0",
+    "en": "Max Party Meter increases to 5",
+    "fr": ""
+  },
+  {
+    "id": "id_14_0_0",
+    "en": "{f 0 1 2}Set [No.03] to Lv4.{f 0 1 0}{SAUT}Max Party Meter increases to 5",
+    "fr": ""
+  },
+  {
+    "id": "id_14_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Max Party Meter increases to 5",
+    "fr": ""
+  },
+  {
+    "id": "id_15_0",
+    "en": "Start sale of expendable items",
+    "fr": ""
+  },
+  {
+    "id": "id_15_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Sale of Medicine and Goho-M started",
+    "fr": ""
+  },
+  {
+    "id": "id_16_0",
+    "en": "Status buff items will be stocked.{SAUT}{f 0 1 2}[Next Lv: Further effective expendable items stocked{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_16_1",
+    "en": "Revival, affinity adding items will be stocked.{SAUT}{f 0 1 2}[Next Lv: Further effective expendable items stocked{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_16_2",
+    "en": "Retreat items will be stocked.{SAUT}{f 0 1 2}[Next Lv: Further effective expendable items stocked{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_16_3",
+    "en": "HP healing and affinity attack items will be stocked.{SAUT}{f 0 1 2}[Next Lv: Further effective expendable items stocked{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_16_4",
+    "en": "Area HP healing and status ailment recovery items will be stocked.",
+    "fr": ""
+  },
+  {
+    "id": "id_16_0_0",
+    "en": "{f 0 1 2}Set [No.16] to Lv1.{f 0 1 0}{SAUT}Status buff items will be stocked.",
+    "fr": ""
+  },
+  {
+    "id": "id_16_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Status buff items will be stocked.",
+    "fr": ""
+  },
+  {
+    "id": "id_17_0",
+    "en": "SP healing and revival items will be stocked.{SAUT}{f 0 1 2}[Next Lv: Further effective expendable items stocked{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_17_1",
+    "en": "HP healing and HP/SP healing items will be stocked.{SAUT}{f 0 1 2}[Next Lv: Further effective expendable items stocked{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_17_2",
+    "en": "SP healing and stair retreat items will be stocked.{SAUT}{f 0 1 2}[Next Lv: Further effective expendable items stocked{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_17_3",
+    "en": "Affinity attack items will be stocked.{SAUT}{f 0 1 2}[Next Lv: Further effective expendable items stocked{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_17_4",
+    "en": "SP healing and scapegoat items will be stocked.",
+    "fr": ""
+  },
+  {
+    "id": "id_17_0_0",
+    "en": "{f 0 1 2}Set [No.11] to Lv4.{f 0 1 0}{SAUT}SP healing and revival items will be stocked.",
+    "fr": ""
+  },
+  {
+    "id": "id_17_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}SP healing and revival items will be stocked.",
+    "fr": ""
+  },
+  {
+    "id": "id_18_0",
+    "en": "Start sale of equipment.",
+    "fr": ""
+  },
+  {
+    "id": "id_18_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Start sale of equipment.",
+    "fr": ""
+  },
+  {
+    "id": "id_19_0",
+    "en": "{f 0 1 2}[Next Lv: High level weapons/armor/accessories for everyone will be stocked.]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_19_1",
+    "en": "{f 0 1 2}[Next Lv: High level weapons/armor/accessories for everyone will be stocked.]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_19_2",
+    "en": "Currently being set and increasing level will not add any items being sold.",
+    "fr": ""
+  },
+  {
+    "id": "id_19_3",
+    "en": "Currently being set and increasing level will not add any items being sold.",
+    "fr": ""
+  },
+  {
+    "id": "id_19_4",
+    "en": "Currently being set and sale will not be added.",
+    "fr": ""
+  },
+  {
+    "id": "id_19_0_0",
+    "en": "{f 0 1 2}Set [No.19] to Lv1.{f 0 1 0}{SAUT}High level weapons/armor/accessories for everyone will be stocked.",
+    "fr": ""
+  },
+  {
+    "id": "id_19_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}High level weapons/armor/accessories for everyone will be stocked.",
+    "fr": ""
+  },
+  {
+    "id": "id_20_0",
+    "en": "Currently being set and increasing level will not add any items being sold.",
+    "fr": ""
+  },
+  {
+    "id": "id_20_1",
+    "en": "Currently being set and increasing level will not add any items being sold.",
+    "fr": ""
+  },
+  {
+    "id": "id_20_2",
+    "en": "Currently being set and increasing level will not add any items being sold.",
+    "fr": ""
+  },
+  {
+    "id": "id_20_3",
+    "en": "Currently being set and increasing level will not add any items being sold.",
+    "fr": ""
+  },
+  {
+    "id": "id_20_4",
+    "en": "Currently being set and sale will not be added.",
+    "fr": ""
+  },
+  {
+    "id": "id_20_0_0",
+    "en": "{f 0 1 2}Set [No.11] to Lv4.{f 0 1 0}{SAUT}Currently being set and increasing level will not add any items being sold.",
+    "fr": ""
+  },
+  {
+    "id": "id_20_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Currently being set and increasing level will not add any items being sold.",
+    "fr": ""
+  },
+  {
+    "id": "id_21_0",
+    "en": "10% OFF prices of items in the shop.{SAUT}{f 0 1 2}[Next Lv: Discount rate increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_21_1",
+    "en": "20% OFF prices of items in the shop.{SAUT}{f 0 1 2}[Next Lv: Discount rate increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_21_2",
+    "en": "30% OFF prices of items in the shop.{SAUT}{f 0 1 2}[Next Lv: Discount rate increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_21_3",
+    "en": "40% OFF prices of items in the shop.{SAUT}{f 0 1 2}[Next Lv: Discount rate increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_21_4",
+    "en": "50% OFF prices of items in the shop.",
+    "fr": ""
+  },
+  {
+    "id": "id_21_0_0",
+    "en": "{f 0 1 2}Set [No.17] to Lv3, [No.20] to Lv3.{f 0 1 0}{SAUT}10% OFF prices of items in the shop.",
+    "fr": ""
+  },
+  {
+    "id": "id_21_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}10% OFF prices of items in the shop.",
+    "fr": ""
+  },
+  {
+    "id": "id_22_0",
+    "en": "5% bonus added to EXP when strengthening Personas.{SAUT}{f 0 1 2}[Next Lv: Persona strengthening bonus EXP increases{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_22_1",
+    "en": "10% bonus added to EXP when strengthening Personas.{SAUT}{f 0 1 2}[Next Lv: Persona strengthening bonus EXP increases{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_22_2",
+    "en": "20% bonus added to EXP when strengthening Personas.{SAUT}{f 0 1 2}[Next Lv: Persona strengthening bonus EXP increases{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_22_3",
+    "en": "30% bonus added to EXP when strengthening Personas.{SAUT}{f 0 1 2}[Next Lv: Persona strengthening bonus EXP increases{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_22_4",
+    "en": "50% bonus added to EXP when strengthening Personas.",
+    "fr": ""
+  },
+  {
+    "id": "id_22_0_0",
+    "en": "{f 0 1 2}Set [No.12] to Lv3.{f 0 1 0}{SAUT}5% bonus added to EXP when strengthening Personas.",
+    "fr": ""
+  },
+  {
+    "id": "id_22_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}5% bonus added to EXP when strengthening Personas.",
+    "fr": ""
+  },
+  {
+    "id": "id_23_0",
+    "en": "+1 level to Persona born through Persona fusion{SAUT}{f 0 1 2}[Next Lv: Bonus level through Persona fusion increases{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_23_1",
+    "en": "+2 levels to Persona born through Persona fusion{SAUT}{f 0 1 2}[Next Lv: Bonus level through Persona fusion increases{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_23_2",
+    "en": "+3 levels to Persona born through Persona fusion{SAUT}{f 0 1 2}[Next Lv: Bonus level through Persona fusion increases{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_23_3",
+    "en": "+4 levels to Persona born through Persona fusion{SAUT}{f 0 1 2}[Next Lv: Bonus level through Persona fusion increases{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_23_4",
+    "en": "+5 levels to Persona born through Persona fusion",
+    "fr": ""
+  },
+  {
+    "id": "id_23_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{SAUT}{f 0 1 2}[Next Lv: Bonus level through Persona fusion increases",
+    "fr": ""
+  },
+  {
+    "id": "id_24_0",
+    "en": "10% OFF cost of Persona possession{SAUT}{f 0 1 2}[Next Lv: Discount rate increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_24_1",
+    "en": "20% OFF cost of Persona possession{SAUT}{f 0 1 2}[Next Lv: Discount rate increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_24_2",
+    "en": "30% OFF cost of Persona possession{SAUT}{f 0 1 2}[Next Lv: Discount rate increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_24_3",
+    "en": "40% OFF cost of Persona possession{SAUT}{f 0 1 2}[Next Lv: Discount rate increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_24_4",
+    "en": "50% OFF cost of Persona possession",
+    "fr": ""
+  },
+  {
+    "id": "id_24_0_0",
+    "en": "{f 0 1 2}Set [No.23] to Lv3.{f 0 1 0}{SAUT}10% OFF cost of Persona possession",
+    "fr": ""
+  },
+  {
+    "id": "id_24_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}10% OFF cost of Persona possession",
+    "fr": ""
+  },
+  {
+    "id": "id_25_0",
+    "en": "10% OFF cost of summoning Personas from Compendium{SAUT}{f 0 1 2}[Next Lv: Discount rate increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_25_1",
+    "en": "20% OFF cost of summoning Personas from Compendium{SAUT}{f 0 1 2}[Next Lv: Discount rate increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_25_2",
+    "en": "30% OFF cost of summoning Personas from Compendium{SAUT}{f 0 1 2}[Next Lv: Discount rate increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_25_3",
+    "en": "40% OFF cost of summoning Personas from Compendium{SAUT}{f 0 1 2}[Next Lv: Discount rate increases]{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "id_25_4",
+    "en": "50% OFF cost of summoning Personas from Compendium",
+    "fr": ""
+  },
+  {
+    "id": "id_25_0_0",
+    "en": "{f 0 1 2}Set [No.23] to Lv3.{f 0 1 0}{SAUT}10% OFF cost of Persona possession",
+    "fr": ""
+  },
+  {
+    "id": "id_25_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}10% OFF cost of Persona possession",
+    "fr": ""
+  },
+  {
+    "id": "id_26_0",
+    "en": "Be able to summon Persona that is 2 levels higher than the leader through Persona fusion{SAUT}{f 0 1 2}[Next Lv: Be able to create higher level Personas]",
+    "fr": ""
+  },
+  {
+    "id": "id_26_1",
+    "en": "Be able to summon Persona that is 4 levels higher than the leader through Persona fusion{SAUT}{f 0 1 2}[Next Lv: Be able to create higher level Personas]",
+    "fr": ""
+  },
+  {
+    "id": "id_26_2",
+    "en": "Be able to summon Persona that is 6 levels higher than the leader through Persona fusion{SAUT}{f 0 1 2}[Next Lv: Be able to create higher level Personas]",
+    "fr": ""
+  },
+  {
+    "id": "id_26_3",
+    "en": "Be able to summon Persona that is 8 levels higher than the leader through Persona fusion{SAUT}{f 0 1 2}[Next Lv: Be able to create higher level Personas]",
+    "fr": ""
+  },
+  {
+    "id": "id_26_4",
+    "en": "Be able to summon Persona that is 10 levels higher than the leader through Persona fusion",
+    "fr": ""
+  },
+  {
+    "id": "id_26_0_0",
+    "en": "{f 0 1 2}Set [No.26] to Lv4.{f 0 1 0}{SAUT}Be able to summon Persona that is 2 levels higher than the leader through Persona fusion",
+    "fr": ""
+  },
+  {
+    "id": "id_26_0_1",
+    "en": "{f 0 1 1}Unlocked. Level up to activate effect.{f 0 1 0}{SAUT}Be able to summon Persona that is 2 levels higher than the leader through Persona fusion",
+    "fr": ""
+  }
+]

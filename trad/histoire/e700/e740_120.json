@@ -1,0 +1,91 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ken",
+    "en": "Um... Could I say something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "Hm? What's up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ken",
+    "en": "So, ah... About this floor...{PAGE}If we hit the switch while standing on{SAUT}the lift, {f 0 1 2}wouldn't it take us to the next{SAUT}floor down{f 0 1 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "That's a great idea.{OPTION}Do you think we'd be safe?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "True, we could use it like we do{SAUT}the stairs. I think it's worth a try.{PAGE}Well, that is IF it stops at the floor below{SAUT}us. We could just end up descending{SAUT}forever instead...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "True, it'd be great IF it connected to the{SAUT}next floor down―but we may just end up{SAUT}descending forever instead...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "Wha―Huh!? Noooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "...Haha, I'm just joking. If it seems{SAUT}suspicious, we should just ask our{SAUT}navigators.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Rise",
+    "en": "I had a feeling you were gonna say that,{SAUT}so we've already checked! No worries―{SAUT}it stops at the next floor down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ken",
+    "en": "Really? Oh, thank goodness!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosuke",
+    "en": "Well then, let's hop on and―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Whoa, wait a sec there! You'd better{SAUT}mark this on your map before you go{SAUT}flippin' any tree noses.{PAGE}Moving up and down on these will most{SAUT}likely complicate your map-making.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "In that case, it'd be best if we had{SAUT}a symbol specifically for these.{SAUT}Allow me to design one for you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yosuke",
+    "en": "Thanks! Now that that's covered―let's{SAUT}try it out, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_ICON_SERI_OPEN",
+    "en": "A {f 0 1 2}Stage Lift{f 0 1 0} icon has been added{SAUT}to the map on the bottom screen.{PAGE}If you wish to check how to use{SAUT}this icon once more...{PAGE}Press {f 0 1 2}HELP{f 0 1 0} at the bottom right of{SAUT}the map and check the {f 0 1 2}Icon Types{f 0 1 0}.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "When a boosted ally is {f 0 1 2}hit by an attack{f 0 1 0},{SAUT}the Boost is lost.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "To prevent this, use {f 0 1 2}skills that protect allies{f 0 1 0},{SAUT}or afflict foes with {f 0 1 2}status ailments{f 0 1 0}.",
+    "fr": ""
+  }
+]

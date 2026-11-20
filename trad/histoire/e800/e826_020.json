@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Is everyone ready? Do you remember{SAUT}the treasure's location?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "You betcha!{PAGE}This is nothing. We'll be there in bear-ly{SAUT}any time at all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Oh? What's this...?{PAGE}There's something blocking the path to{SAUT}the target; it doesn't look like we're{SAUT}gonna be able to get through...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "A snag already!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Hah, amateurs.{PAGE}At times like this, you gotta remain{SAUT}calm and search for an alternate{SAUT}route.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "Grrr... Yeah, yeah.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Koromaru",
+    "en": "Woof...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "\"It's going to be a long day...\"{OPTION}\"I'm tired already.\"{OPTION}Woof...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Aigis",
+    "en": "Joker-san! You can understand{SAUT}Koromaru-san too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosuke",
+    "en": "No, that one was obvious...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san said, \"I'm tired already,\"{SAUT}and you responded with, \"Me too...\"{PAGE}Joker-san! I wasn't aware you possessed a{SAUT}translation function as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "Uh, I don't think he was saying{SAUT}anything in particular... Wait, did{SAUT}you just woof!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Fuuka",
+    "en": "It's a longer path, but there is another{SAUT}route to the south.{PAGE}They say slow and steady wins the race.{SAUT}There's no need to rush.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "And Teddie takes the lead! Here I gooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "Hey! Don't run ahead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "I don't think he can hear you...",
+    "fr": ""
+  }
+]

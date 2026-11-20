@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Well, here we are. I'm sure we'll find{SAUT}one this time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Right! I'll find an ammonite no matter{SAUT}what it takes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Dude, I can't find crap... I mean, what{SAUT}the hell even is an ammonite anyways?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "No idea.{OPTION}It's like a conch shell.{OPTION}A creature from outer space.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "You mean you've been looking for it{SAUT}without actually knowing what it is!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "*sigh* An ammonite is a type of shelled{SAUT}sea creature.{PAGE}More specifically, it's like a squid or an{SAUT}octopus that lives inside a shell.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "Correct, an ammonite is a type of{SAUT}shelled sea creature.{PAGE}More specifically, it's like a squid or an{SAUT}octopus that lives inside a shell.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "No foolin'!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "It might look like it, but it's actually{SAUT}not! It's a type of shelled sea creature.{PAGE}More specifically, it's like a squid or an{SAUT}octopus that lives inside a shell.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "Squid and octopus... I'm getting hungry{SAUT}just hearing about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "You know, Fox, your attachment to{SAUT}food is really amazing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "I lost my parents when I was young and,{SAUT}as a result, had a difficult time with{SAUT}money.{PAGE}There was a man who once looked after{SAUT}me, but for many reasons, I've found{SAUT}myself alone once again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukiko",
+    "en": "Oh... I'm sorry to hear that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "No, it's quite all right. Currently, art{SAUT}supplies are my biggest expense...{PAGE}Those I cannot do without. Even if it{SAUT}were to mean eating grass again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "You sure are passionate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "Well, I wouldn't be this way if I were{SAUT}truly by myself.{PAGE}I've had a lot support from my friends.{SAUT}They saved me and gave me a place to{SAUT}belong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yukiko",
+    "en": "I think I understand now.{PAGE}The reason I can be myself is because{SAUT}I'm surrounded by people who accept{SAUT}me for who I am.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "That's right. Passion or not, I can't do it{SAUT}alone.{PAGE}I don't know how many times I've been{SAUT}fed by the caf〒 Joker's staying at...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yukiko",
+    "en": "I feel like that's a little different...{PAGE}Oh, but if you're short on food, why{SAUT}don't I make you something to say{SAUT}thanks?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "What!? Are you sure!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Heeey! You two find anything?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yukiko",
+    "en": "No, not yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Naoto",
+    "en": "Then, perhaps we should change{SAUT}location.{PAGE}Rise-san said she sensed more{SAUT}water west of here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yukiko",
+    "en": "Then, that's where we'll head next!{SAUT}Let's go, Fox!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "Yes, let's!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Chie",
+    "en": "Hey, wait up, you two! Don't tell me{SAUT}Yukiko's all art-crazy now too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "I guess Fox's really made an impression{SAUT}on her...{PAGE}Either way, we've got more water to the{SAUT}west. Let's go check it out!",
+    "fr": ""
+  }
+]

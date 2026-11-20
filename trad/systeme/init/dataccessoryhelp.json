@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "accessory_401",
+    "en": "Merchandise from \"The Gentleman{SAUT}Thief Returns.\" {f 0 1 3}Slightly raise accuracy{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_402",
+    "en": "Ring that fends off Fire attacks.{SAUT}{f 0 1 3}Slightly raise Fire evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_403",
+    "en": "Ring that fends off Ice attacks.{SAUT}{f 0 1 3}Slightly raise Ice evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_404",
+    "en": "Ring that fends off Electric attacks.{SAUT}{f 0 1 3}Slightly raise Elec evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_405",
+    "en": "Ring that fends off Wind attacks.{SAUT}{f 0 1 3}Slightly raise Wind evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_406",
+    "en": "Mysterious ring that promotes health{SAUT}and strength. {f 0 1 3}Max HP +5% / St +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_407",
+    "en": "Enigmatic bangle that raises energy and{SAUT}strength. {f 0 1 3}Max SP +5% / St +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_408",
+    "en": "Mysterious ring that promotes health{SAUT}and magic. {f 0 1 3}Max HP +5% / Ma +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_409",
+    "en": "Enigmatic bangle that raises energy and{SAUT}magic. {f 0 1 3}Max SP +5% / Ma +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_40A",
+    "en": "Mysterious ring that promotes health{SAUT}and endurance. {f 0 1 3}Max HP +5% / En +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_40B",
+    "en": "Enigmatic bangle that raises energy and{SAUT}endurance. {f 0 1 3}Max SP +5% / En +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_40C",
+    "en": "Mysterious ring that promotes health{SAUT}and agility. {f 0 1 3}Max HP +5% / Ag +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_40D",
+    "en": "Enigmatic bangle that raises energy and{SAUT}agility. {f 0 1 3}Max SP +5% / Ag +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_40E",
+    "en": "Mysterious ring that promotes health{SAUT}and luck. {f 0 1 3}Max HP +5% / Lu +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_40F",
+    "en": "Enigmatic bangle that raises energy and{SAUT}luck. {f 0 1 3}Max SP +5% / Lu +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_411",
+    "en": "Mysterious ring that promotes health{SAUT}and strength. {f 0 1 3}Max HP +5% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_412",
+    "en": "Enigmatic bangle that raises energy and{SAUT}strength. {f 0 1 3}Max SP +5% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_413",
+    "en": "Mysterious ring that promotes health{SAUT}and magic. {f 0 1 3}Max HP +5% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_414",
+    "en": "Enigmatic bangle that raises energy and{SAUT}magic. {f 0 1 3}Max SP +5% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_415",
+    "en": "Mysterious ring that promotes health{SAUT}and endurance. {f 0 1 3}Max HP +5% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_416",
+    "en": "Enigmatic bangle that raises energy and{SAUT}endurance. {f 0 1 3}Max SP +5% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_417",
+    "en": "Mysterious ring that promotes health{SAUT}and agility. {f 0 1 3}Max HP +5% / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_418",
+    "en": "Enigmatic bangle that raises energy and{SAUT}agility. {f 0 1 3}Max SP +5% / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_419",
+    "en": "Mysterious ring that promotes health{SAUT}and luck. {f 0 1 3}Max HP +5% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_41A",
+    "en": "Enigmatic bangle that raises energy and{SAUT}luck. {f 0 1 3}Max SP +5% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_41C",
+    "en": "Healthful ring that also fends off Fire.{SAUT}{f 0 1 3}Max HP +5% / Slightly raise Fire evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_41D",
+    "en": "Invigorating bangle that fends off Fire.{SAUT}{f 0 1 3}Max SP +5% / Slightly raise Fire evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_41E",
+    "en": "Healthful ring that also fends off Ice.{SAUT}{f 0 1 3}Max HP +5% / Slightly raise Ice evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_41F",
+    "en": "Invigorating bangle that fends off Ice.{SAUT}{f 0 1 3}Max SP +5% / Slightly raise Ice evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_420",
+    "en": "Healthful ring that fends off Wind.{SAUT}{f 0 1 3}Max HP +5% / Slightly raise Wind evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_421",
+    "en": "Invigorating bangle that fends off Wind.{SAUT}{f 0 1 3}Max SP +5%/Slightly raise Wind evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_422",
+    "en": "Healthful ring that fends off Electricity.{SAUT}{f 0 1 3}Max HP +5% / Slightly raise Elec evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_423",
+    "en": "Invigorating bangle that fends off Elec.{SAUT}{f 0 1 3}Max SP +5% / Slightly raise Elec evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_425",
+    "en": "Peculiar circlet that boosts health{SAUT}and strength. {f 0 1 3}Max HP +10% / St +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_426",
+    "en": "Preternatural pin that increases energy{SAUT}and strength. {f 0 1 3}Max SP +10% / St +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_427",
+    "en": "Peculiar circlet that boosts health{SAUT}and magic. {f 0 1 3}Max HP +10% / Ma +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_428",
+    "en": "Preternatural pin that increases energy{SAUT}and magic. {f 0 1 3}Max SP +10% / Ma +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_429",
+    "en": "Peculiar circlet that boosts health{SAUT}and endurance. {f 0 1 3}Max HP +10% / En +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_42A",
+    "en": "Preternatural pin that increases energy{SAUT}and endurance. {f 0 1 3}Max SP +10% / En +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_42B",
+    "en": "Peculiar circlet that boosts health{SAUT}and agility. {f 0 1 3}Max HP +10% / Ag +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_42C",
+    "en": "Preternatural pin that increases energy{SAUT}and agility. {f 0 1 3}Max SP +10% / Ag +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_42D",
+    "en": "Peculiar circlet that boosts health{SAUT}and luck. {f 0 1 3}Max HP +10% / Lu +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_42E",
+    "en": "Preternatural pin that increases energy{SAUT}and luck. {f 0 1 3}Max SP +10% / Lu +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_430",
+    "en": "Peculiar circlet that boosts health{SAUT}and strength. {f 0 1 3}Max HP +10% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_431",
+    "en": "Preternatural pin that increases energy{SAUT}and strength. {f 0 1 3}Max SP +10% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_432",
+    "en": "Peculiar circlet that boosts health{SAUT}and magic. {f 0 1 3}Max HP +10% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_433",
+    "en": "Preternatural pin that increases energy{SAUT}and magic. {f 0 1 3}Max SP +10% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_434",
+    "en": "Peculiar circlet that boosts health{SAUT}and endurance. {f 0 1 3}Max HP +10% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_435",
+    "en": "Preternatural pin that increases energy{SAUT}and endurance. {f 0 1 3}Max SP +10% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_436",
+    "en": "Peculiar circlet that boosts health{SAUT}and agility. {f 0 1 3}Max HP +10% / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_437",
+    "en": "Preternatural pin that increases energy{SAUT}and agility. {f 0 1 3}Max SP +10% / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_438",
+    "en": "Peculiar circlet that boosts health{SAUT}and luck. {f 0 1 3}Max HP +10% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_439",
+    "en": "Preternatural pin that increases energy{SAUT}and luck. {f 0 1 3}Max SP +10% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_43B",
+    "en": "Healthful circlet that fends off Fire.{SAUT}{f 0 1 3}Max HP +10% / Slightly raise Fire evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_43C",
+    "en": "Invigorating pin that also fends off Fire.{SAUT}{f 0 1 3}Max SP +10% / Slightly raise Fire evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_43D",
+    "en": "Healthful circlet that fends off Ice.{SAUT}{f 0 1 3}Max HP +10% / Slightly raise Ice evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_43E",
+    "en": "Invigorating pin that also fends off Ice.{SAUT}{f 0 1 3}Max SP +10% / Slightly raise Ice evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_43F",
+    "en": "Healthful circlet that fends off Wind.{SAUT}{f 0 1 3}Max HP +10% / Slightly raise Wind evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_440",
+    "en": "Invigorating pin that also fends off Wind.{SAUT}{f 0 1 3}Max SP +10% / Slightly raise Wind evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_441",
+    "en": "Healthful circlet that fends off Elec.{SAUT}{f 0 1 3}Max HP +10% / Slightly raise Elec evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_442",
+    "en": "Invigorating pin that also fends off Elec.{SAUT}{f 0 1 3}Max SP +10% / Slightly raise Elec evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_444",
+    "en": "Fine woven sash that brings out health{SAUT}and strength. {f 0 1 3}Max HP +15% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_445",
+    "en": "Unusual charm that escalates energy{SAUT}and strength. {f 0 1 3}Max SP +15% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_446",
+    "en": "Fine woven sash that brings out health{SAUT}and magic. {f 0 1 3}Max HP +15% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_447",
+    "en": "Unusual charm that escalates energy{SAUT}and magic. {f 0 1 3}Max SP +15% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_448",
+    "en": "Fine woven sash that brings out health{SAUT}and endurance. {f 0 1 3}Max HP +15% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_449",
+    "en": "Unusual charm that escalates energy{SAUT}and endurance. {f 0 1 3}Max SP +15% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_44A",
+    "en": "Fine woven sash that brings out health{SAUT}and agility. {f 0 1 3}Max HP +15% / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_44B",
+    "en": "Unusual charm that escalates energy{SAUT}and agility. {f 0 1 3}Max SP +15% / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_44C",
+    "en": "Fine woven sash that brings out health{SAUT}and luck. {f 0 1 3}Max HP +15% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_44D",
+    "en": "Unusual charm that escalates energy{SAUT}and luck. {f 0 1 3}Max SP +15% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_44F",
+    "en": "Fine woven sash that brings out health{SAUT}and strength. {f 0 1 3}Max HP +15% / St +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_450",
+    "en": "Unusual charm that escalates energy{SAUT}and strength. {f 0 1 3}Max SP +15% / St +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_451",
+    "en": "Fine woven sash that brings out health{SAUT}and magic. {f 0 1 3}Max HP +15% / Ma +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_452",
+    "en": "Unusual charm that escalates energy{SAUT}and magic. {f 0 1 3}Max SP +15% / Ma +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_453",
+    "en": "Fine woven sash that brings out health{SAUT}and endurance. {f 0 1 3}Max HP +15% / En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_454",
+    "en": "Unusual charm that escalates energy{SAUT}and endurance. {f 0 1 3}Max SP +15% / En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_455",
+    "en": "Fine woven sash that brings out health{SAUT}and agility. {f 0 1 3}Max HP +15% / Ag +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_456",
+    "en": "Unusual charm that escalates energy{SAUT}and agility. {f 0 1 3}Max SP +15% / Ag +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_457",
+    "en": "Fine woven sash that brings out health{SAUT}and luck. {f 0 1 3}Max HP +15% / Lu +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_458",
+    "en": "Unusual charm that escalates energy{SAUT}and luck. {f 0 1 3}Max SP +15% / Lu +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_45A",
+    "en": "Eyepatch that bestows visionary health{SAUT}and strength. {f 0 1 3}Max HP +20% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_45B",
+    "en": "Rarefied ankh that confers energy and{SAUT}strength. {f 0 1 3}Max SP +20% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_45C",
+    "en": "Eyepatch that bestows visionary health{SAUT}and magic. {f 0 1 3}Max HP +20% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_45D",
+    "en": "Rarefied ankh that confers energy and{SAUT}magic. {f 0 1 3}Max SP +20% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_45E",
+    "en": "Eyepatch that bestows visionary health{SAUT}and endurance. {f 0 1 3}Max HP +20% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_45F",
+    "en": "Rarefied ankh that confers energy and{SAUT}endurance. {f 0 1 3}Max SP +20% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_460",
+    "en": "Eyepatch that bestows visionary health{SAUT}and agility. {f 0 1 3}Max HP +20% / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_461",
+    "en": "Rarefied ankh that confers energy and{SAUT}agility. {f 0 1 3}Max SP +20% / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_462",
+    "en": "Eyepatch that bestows visionary health{SAUT}and luck. {f 0 1 3}Max HP +20% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_463",
+    "en": "Rarefied ankh that confers energy and{SAUT}luck. {f 0 1 3}Max SP +20% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_465",
+    "en": "Eyepatch that bestows visionary health{SAUT}and strength. {f 0 1 3}Max HP +20% / St +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_466",
+    "en": "Rarefied ankh that confers energy and{SAUT}strength. {f 0 1 3}Max SP +20% / St +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_467",
+    "en": "Eyepatch that bestows visionary health{SAUT}and magic. {f 0 1 3}Max HP +20% / Ma +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_468",
+    "en": "Rarefied ankh that confers energy and{SAUT}magic. {f 0 1 3}Max SP +20% / Ma +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_469",
+    "en": "Eyepatch that bestows visionary health{SAUT}and endurance. {f 0 1 3}Max HP +20% / En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_46A",
+    "en": "Rarefied ankh that confers energy and{SAUT}endurance. {f 0 1 3}Max SP +20% / En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_46B",
+    "en": "Eyepatch that bestows visionary health{SAUT}and agility. {f 0 1 3}Max HP +20% / Ag +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_46C",
+    "en": "Rarefied ankh that confers energy and{SAUT}agility. {f 0 1 3}Max SP +20% / Ag +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_46D",
+    "en": "Eyepatch that bestows visionary health{SAUT}and luck. {f 0 1 3}Max HP +20% / Lu +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_46E",
+    "en": "Rarefied ankh that confers energy and{SAUT}luck. {f 0 1 3}Max SP +20% / Lu +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_470",
+    "en": "Ceremonial magatama granting health{SAUT}and strength. {f 0 1 3}Max HP +25% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_471",
+    "en": "Ethereal orb that radiates energy and{SAUT}strength. {f 0 1 3}Max SP +25% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_472",
+    "en": "Ceremonial magatama granting health{SAUT}and magic. {f 0 1 3}Max HP +25% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_473",
+    "en": "Ethereal orb that radiates energy and{SAUT}magic. {f 0 1 3}Max SP +25% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_474",
+    "en": "Ceremonial magatama granting health{SAUT}and endurance. {f 0 1 3}Max HP +25% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_475",
+    "en": "Ethereal orb that radiates energy and{SAUT}endurance. {f 0 1 3}Max SP +25% / En +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_476",
+    "en": "Ceremonial magatama granting health{SAUT}and agility. {f 0 1 3}Max HP +25% / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_477",
+    "en": "Ethereal orb that radiates energy and{SAUT}agility. {f 0 1 3}Max SP +25% / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_478",
+    "en": "Ceremonial magatama granting health{SAUT}and luck. {f 0 1 3}Max HP +25% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_479",
+    "en": "Ethereal orb that radiates energy and{SAUT}luck. {f 0 1 3}Max SP +25% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_47B",
+    "en": "Ceremonial magatama granting health{SAUT}and strength. {f 0 1 3}Max HP +25% / St +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_47C",
+    "en": "Ethereal orb that radiates energy and{SAUT}strength. {f 0 1 3}Max SP +25% / St +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_47D",
+    "en": "Ceremonial magatama granting health{SAUT}and magic. {f 0 1 3}Max HP +25% / Ma +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_47E",
+    "en": "Ethereal orb that radiates energy and{SAUT}magic. {f 0 1 3}Max SP +25% / Ma +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_47F",
+    "en": "Ceremonial magatama granting health{SAUT}and endurance. {f 0 1 3}Max HP +25% / En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_480",
+    "en": "Ethereal orb that radiates energy and{SAUT}endurance. {f 0 1 3}Max SP +25% / En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_481",
+    "en": "Ceremonial magatama granting health{SAUT}and agility. {f 0 1 3}Max HP +25% / Ag +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_482",
+    "en": "Ethereal orb that radiates energy and{SAUT}agility. {f 0 1 3}Max SP +25% / Ag +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_483",
+    "en": "Ceremonial magatama granting health{SAUT}and luck. {f 0 1 3}Max HP +25% / Lu +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_484",
+    "en": "Ethereal orb that radiates energy and{SAUT}luck. {f 0 1 3}Max SP +25% / Lu +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_486",
+    "en": "Healthful ring that fends off Nuke skills.{SAUT}{f 0 1 3}Max HP +5% / Slightly raise Nuke evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_487",
+    "en": "Healthful ring that fends off Psy skills.{SAUT}{f 0 1 3}Max HP +5% / Slightly raise Psy evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_488",
+    "en": "Bangle that fends off Nuke skills.{SAUT}{f 0 1 3}Max SP +5% / Slightly raise Nuke evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_489",
+    "en": "Bangle that fends off Psy skills.{SAUT}{f 0 1 3}Max SP +5% / Slightly raise Psy evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_48A",
+    "en": "Circlet that fends off Nuke skills.{SAUT}{f 0 1 3}Max HP +10% / Slightly raise Nuke evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_48B",
+    "en": "Circlet that fends off Psy skills.{SAUT}{f 0 1 3}Max HP +10% / Slightly raise Psy evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_48C",
+    "en": "Sturdy pin that fends off Nuke skills.{SAUT}{f 0 1 3}Max SP +10% / Slightly raise Nuke evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_48D",
+    "en": "Sturdy pin that fends off Psy skills.{SAUT}{f 0 1 3}Max SP +10% / Slightly raise Psy evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_48F",
+    "en": "Toy drum that calls forth a primitive{SAUT}power. {f 0 1 3}St +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_490",
+    "en": "A beautiful ornament rumored to be the{SAUT}handiwork of a real witch. {f 0 1 3}Ma +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_491",
+    "en": "A cross once worn by a guardian whose{SAUT}defenses never faltered. {f 0 1 3}En +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_492",
+    "en": "Adornment for a pegasus who can soar{SAUT}around the world in a single day. {f 0 1 3}Ag +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_493",
+    "en": "Welcoming statue carved from the{SAUT}aromatic wood of an ancient tree. {f 0 1 3}Lu +5{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_494",
+    "en": "Simple amulet whose uncomplicated{SAUT}dignity gives one courage. {f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_495",
+    "en": "Aromatic resin that, when burned,{SAUT}soothes the mind and soul. {f 0 1 3}Max SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_496",
+    "en": "Strange wooden carving that bequeaths{SAUT}stolid perseverance. {f 0 1 3}Max HP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_497",
+    "en": "Incense with an intoxicating smoke that{SAUT}puts your mind at ease. {f 0 1 3}Max SP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_498",
+    "en": "Accelerator that can slow down time{SAUT}itself. {f 0 1 3}Critical rate +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_499",
+    "en": "Badge with the power to strengthen{SAUT}every fiber of your being. {f 0 1 3}All stats +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_49A",
+    "en": "Badge with power to greatly strengthen{SAUT}every fiber of your being. {f 0 1 3}All stats +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_49B",
+    "en": "(DLC) Crystal that proves your treasure-{SAUT}hunting skill. {f 0 1 3}Double encounter rate{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_49C",
+    "en": "(DLC) Crystal that proves you just want{SAUT}peace and quiet. {f 0 1 3}Eliminate encounters{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_49D",
+    "en": "Specs that convert any battle within view{SAUT}into EXP. {f 0 1 3}Allies in reserve get 25% EXP{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_49E",
+    "en": "Specs that convert any battle within view{SAUT}into EXP. {f 0 1 3}Allies in reserve get 50% EXP{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_49F",
+    "en": "Specs that convert any battle within view{SAUT}into EXP. {f 0 1 3}Allies in reserve get 100% EXP{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4A0",
+    "en": "(DLC) Gloves that allow greater{SAUT}efficiency in battle. {f 0 1 3}Triple combat EXP{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4A1",
+    "en": "(DLC) Gloves that multiply the spoils of{SAUT}war. {f 0 1 3}Triple the money gained in combat{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4A2",
+    "en": "Orb that bends the laws of the universe.{SAUT}{f 0 1 3}Nullifies all damage except Almighty{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4A3",
+    "en": "Black-rimmed glasses with a glint as{SAUT}sharp as the brainiac who wears them.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4A4",
+    "en": "Suspenders for the days when a belt{SAUT}just won't do.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4A5",
+    "en": "Simple, classic hair ornament.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4A6",
+    "en": "Elegant silver keyring, so that you'll{SAUT}never lose your keys in a labyrinth.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4A7",
+    "en": "Tie that manages to be formal, yet fun.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4A8",
+    "en": "Waist pouch for storing small items{SAUT}wherever you go.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4A9",
+    "en": "The latest and greatest portable music{SAUT}player.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4AA",
+    "en": "Polka-dot tights imported from the{SAUT}trendiest and cutest of all nations.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4AB",
+    "en": "Black tights that go with anything.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4AC",
+    "en": "Men's watch that makes your arm{SAUT}muscles look good. It tells the time, too!",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4AD",
+    "en": "Metal pin featuring a cute character.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4AE",
+    "en": "Fancy hair accessory, just in case your{SAUT}hair wasn't already the envy of everyone.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4AF",
+    "en": "Fuzzy ears that, thankfully, look{SAUT}nothing like Teddie's.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4B0",
+    "en": "Beautiful locket, with a chain that's{SAUT}tough as hell. A perfect symbol of you!",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4B1",
+    "en": "Classy earrings you can wear anywhere.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4B2",
+    "en": "Ring that may look plain, but for you,{SAUT}it's your precious.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4B3",
+    "en": "The latest and greatest portable music{SAUT}player.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4B4",
+    "en": "Choker with a heart-shaped design.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4B5",
+    "en": "Faux fingernails encrusted with gems.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4B6",
+    "en": "Wristband to absorb sweat during all{SAUT}your heavy fighting.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4B7",
+    "en": "Beanie knit from locally sourced, fair-{SAUT}trade, humanely raised wool.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4B8",
+    "en": "Bountiful, fashion-forward ribbon.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4B9",
+    "en": "Gloves of delicate, thin leather.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4BA",
+    "en": "Necklace whose classic simplicity{SAUT}echoes through the ages.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4BB",
+    "en": "Accessory that is truly heavenly,{SAUT}complete with angel wings.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4BC",
+    "en": "State-of-the-art headphones for true{SAUT}audiophiles.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4BD",
+    "en": "Small pink pearl earrings.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4BE",
+    "en": "Beaded necklace for when jewels{SAUT}would be too much.",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4C1",
+    "en": "Ornament possessed of the power of{SAUT}healing. {f 0 1 3}Acquire the Dia skill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4C2",
+    "en": "Ornament possessed of the power of{SAUT}fire. {f 0 1 3}Acquire the Agi skill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4C3",
+    "en": "Ornament possessed of the power of{SAUT}psychokinesis. {f 0 1 3}Acquire the Psi skill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4C4",
+    "en": "Cat figurine that brings good fortune.{SAUT}{f 0 1 3}Get 10% more money in battle{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4C5",
+    "en": "Amulet with a trapped god of fire and{SAUT}ice. {f 0 1 3}Low chance to nullify Fire and Ice{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4C6",
+    "en": "Amulet with a trapped god of storms.{SAUT}{f 0 1 3}Low chance to nullify Elec and Wind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4C7",
+    "en": "Cat figure that brings great wealth and{SAUT}luck. {f 0 1 3}Get 15% more money in battle / Lu +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4C8",
+    "en": "Deflector of particles and mind waves.{SAUT}{f 0 1 3}Low chance to nullify Nuke and Psy{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4C9",
+    "en": "Poultice invented by a respected doctor.{SAUT}{f 0 1 3}Recover SP each turn{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4CA",
+    "en": "Ring in which is trapped the power of a{SAUT}roaring god. {f 0 1 3}Halves HP cost{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4CB",
+    "en": "Ring that harnesses the energy of{SAUT}higher dimensions. {f 0 1 3}Halves SP cost{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4CC",
+    "en": "Ring so powerful it alters the essence of{SAUT}the wearer. {f 0 1 3}Swap St and Ma stats{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4CD",
+    "en": "Ring so powerful it alters the essence of{SAUT}the wearer. {f 0 1 3}Swap St and En stats{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4CE",
+    "en": "Ring so powerful it alters the essence of{SAUT}the wearer. {f 0 1 3}Swap St and Ag stats{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4CF",
+    "en": "Ring so powerful it alters the essence of{SAUT}the wearer. {f 0 1 3}Swap St and Lu stats{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4D0",
+    "en": "Ring so powerful it alters the essence of{SAUT}the wearer. {f 0 1 3}Swap Ma and En stats{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4D1",
+    "en": "Ring so powerful it alters the essence of{SAUT}the wearer. {f 0 1 3}Swap Ma and Ag stats{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4D2",
+    "en": "Ring so powerful it alters the essence of{SAUT}the wearer. {f 0 1 3}Swap Ma and Lu stats{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4D3",
+    "en": "Ring so powerful it alters the essence of{SAUT}the wearer. {f 0 1 3}Swap En and Ag stats{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4D4",
+    "en": "Ring so powerful it alters the essence of{SAUT}the wearer. {f 0 1 3}Swap En and Lu stats{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4D5",
+    "en": "Ring so powerful it alters the essence of{SAUT}the wearer. {f 0 1 3}Swap Ag and Lu stats{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4E2",
+    "en": "Orb that bends the laws of the universe.{SAUT}{f 0 1 3}Nullifies all damage except Almighty{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4E4",
+    "en": "Ring so powerful it alters the essence of{SAUT}the wearer. {f 0 1 3}Swap Max HP and Max SP{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4EA",
+    "en": "Bracer enabling use of Holy Blessing.{SAUT}{f 0 1 3}Nullifies 1 ailment and 1 Bind{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4EB",
+    "en": "Bracer enabling the use of Magic Charge.{SAUT}{f 0 1 3}Triple the power of magic skills{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4EC",
+    "en": "Bracer enabling the use of Power Charge.{SAUT}{f 0 1 3}Triple the power of Phys skills{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "accessory_4ED",
+    "en": "Bracer enabling the use of Dragon Cry.{SAUT}{f 0 1 3}Greatly raise attack / Act first{f 0 1 0}",
+    "fr": ""
+  }
+]

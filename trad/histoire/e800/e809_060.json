@@ -1,0 +1,121 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "It says \"FOOL KAMOSHIDAMAN\" on{SAUT}the wall...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Whoa! Hey, check it out! Isn't this one{SAUT}different from the others?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, the others say \"COOL,\" but this{SAUT}one says \"FOOL.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "\"FOOL\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "\"COOL\" and \"FOOL.\" It's only a one{SAUT}letter difference, yet they carry almost{SAUT}opposite meanings.{PAGE}So a graffiti drawing that once praised{SAUT}Kamoshidaman has now been changed{SAUT}to deny him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "What do you make of this, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "The people's opinion changed.{OPTION}It's a pretty big turnaround.{OPTION}Nothing really.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "Yes, I'd say so too.{PAGE}It may look like nothing more than{SAUT}mockery, but I believe it shows that the{SAUT}people are starting to think differently.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "Hmm... I suppose that's one way to{SAUT}look at it.{PAGE}But I believe this is proof that the{SAUT}people are starting to think differently.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "I see... If it was just ordinary street art,{SAUT}I may have said the same.{PAGE}But I believe this is proof that the{SAUT}people are starting to think differently.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Starting to think differently?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "Notice how wet the paint is. This was{SAUT}written not too long ago.{PAGE}This is a testament to the fall of{SAUT}Kamoshidaman's power. It tells us the{SAUT}people have come to their senses.{PAGE}Slowly but surely, they are beginning{SAUT}to change, just as the movie did.{PAGE}I've no doubt that this street art is just{SAUT}one of those changes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Makoto",
+    "en": "Even if they don't speak out, they have{SAUT}other ways to express their feelings.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "Art is far more than just something to{SAUT}look at.{PAGE}A person can assert their existence{SAUT}through art―shout with the voice deep{SAUT}inside their soul.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "I thought it was just some annoying{SAUT}scribbles at first, but it's pretty cool if{SAUT}that's the message it's trying to send.{PAGE}It means they're not letting themselves{SAUT}get pushed around anymore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Yeah, things didn't just end with us{SAUT}beating Kamoshidaman.{PAGE}The people actually started thinking{SAUT}for themselves afterwards.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "Wow... If Fox hadn't explained all that{SAUT}about the graffiti, I never would've{SAUT}realized what it really meant.{PAGE}So, in a way, Fox, I guess I'm thankful{SAUT}that you're a weirdo just this once.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "What do you mean, \"weirdo\"!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "Uhh, well... I guess this means we've{SAUT}fulfilled the request, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Haru",
+    "en": "Mhm, I think so. Let's head back to the{SAUT}theater.",
+    "fr": ""
+  }
+]

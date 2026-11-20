@@ -1,0 +1,7 @@
+[
+  {
+    "id": "MSG_TUTORIAL_BASE_RECOVE",
+    "en": "Whenever you return to the theater,{SAUT}you'll {f 0 1 2}fully recover your HP and SP{f 0 1 0}.{SAUT}　{SAUT}So when your HP and SP get too low, play{SAUT}it safe and return to the theater.",
+    "fr": ""
+  }
+]

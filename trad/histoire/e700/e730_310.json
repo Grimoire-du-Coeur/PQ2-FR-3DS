@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Ooh, I spy the stairs! I bet we can make it{SAUT}to the next floor real soon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukiko",
+    "en": "But, isn't that lattice in front of it{SAUT}pretty much a wall?{PAGE}It seems that we can't go straight there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Then, how about...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Ooh, I spy a door up ahead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Rise",
+    "en": "Wait a sec―I'm getting an enemy reading{SAUT}beyond that door. Be careful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "O-Oh...{PAGE}...I spy no other way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Hmm, this level of disappointment...{SAUT}It reminds me of somebody else...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "You rang?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Not at all!{PAGE}*sigh* So, there's an enemy through this{SAUT}door? We can at least get ready for it!",
+    "fr": ""
+  }
+]

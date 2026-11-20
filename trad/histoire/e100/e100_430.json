@@ -1,0 +1,119 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "The concession stand...{PAGE}Ann and Ryuji are explaining the plan{SAUT}to Theodore...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "...And that's why we need so many.{SAUT}Would you be able to prepare them{SAUT}for us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "Dear me, this is quite the bold request...{PAGE}But it's also a very exciting plan.{SAUT}I shall prepare them for you at once.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Thanks, Theodore!{PAGE}...Oh hey, didn't see you there,{SAUT}{f 6 1 30 0 0 0}. Did you come to{SAUT}check up on us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "*giggle* Looks like our part's going to{SAUT}work out. It was a pretty tall order,{SAUT}though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Theodore",
+    "en": "Please, think nothing of it―I will fill this{SAUT}order of great stature immediately.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "We've gotta surprise the hell outta that{SAUT}fake hero, so we better make this look{SAUT}good!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Right! I mean, I know that he's someone{SAUT}else, but he still has that bastard's face...{SAUT}It only pisses me off more.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Huh... Then, how would you've reacted{SAUT}if Kamoshidaman was super hot?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Evil is evil, no matter how hot.{OPTION}I might cut him some slack then...{OPTION}I'd hate his guts even more.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Yeah, I gotta agree with that. No matter{SAUT}what face he has, what he's doin'{SAUT}is unforgivable.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "He's treated Makoto and Haru so{SAUT}horribly... Either way, we won't let him{SAUT}get away with what he's done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Dude, for real!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Well, if I hate Kamoshida 100-fold,{SAUT}it might go down to about 99-fold...{PAGE}But he's treated Makoto and Haru so{SAUT}horribly... Either way, he's definitely{SAUT}unforgivable!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "O-Okay... I wasn't asking you, though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "He's treated Makoto and Haru so{SAUT}horribly... Either way, he's definitely{SAUT}unforgivable!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Anyways, looks like we've locked things{SAUT}down on our end...{PAGE}If you haven't checked on everybody{SAUT}else yet, go right ahead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "en": "It seems things are okay here. I should{SAUT}head back for the time being...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "en": "It seems things are okay here. Maybe{SAUT}I should go check on the others...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "Akechi and Elizabeth{OPTION} and Yusuke{OPTION}Morgana and Futaba",
+    "fr": ""
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Justine",
+    "en": "Everyone seems to be present{SAUT}and accounted for.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "So, what is this Persona fusion you{SAUT}speak of?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Caroline",
+    "en": "Oh, you don't know about it, do you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "I do―Theo does it for me pretty often.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Caroline",
+    "en": "What's this? A new face?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Justine",
+    "en": "This feeling... Could it be...?{PAGE}It's the same power of the wild card as{SAUT}our prisoner's―the one we sensed{SAUT}when we arrived...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Caroline",
+    "en": "Impossible! Two with the power of{SAUT}the wild card!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Justine",
+    "en": "It may not just be the two, either. For all{SAUT}that we know, there could be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Um... What's this about me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Justine",
+    "en": "...No, it's nothing. We were discussing{SAUT}Persona fusions, yes?{PAGE}Just as it sounds, this is the act of merging{SAUT}together Personas.{PAGE}These fused Personas will be reborn as{SAUT}a new Persona.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Caroline",
+    "en": "You can choose which Personas to fuse{SAUT}yourself, or we can perform{SAUT}a result-based fusion.{PAGE}We will show you the Persona to be{SAUT}formed, and all you must do is make{SAUT}your selection from the list.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "So, we can get new Personas, huh?{SAUT}Looks like we're finally gaining{SAUT}an advantage here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "If we keep doin' these fusions, can we{SAUT}make super-strong ones?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Justine",
+    "en": "No. To wield powerful Personas,{SAUT}potential users must reach a level{SAUT}of power befitting them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akechi",
+    "en": "In other words, we'll need to train{SAUT}ourselves as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Caroline",
+    "en": "Differences in power may arise due to{SAUT}your individual training regimens, but{SAUT}there's no cause for concern...{PAGE}The upper limit of a Persona's power{SAUT}will be based on the strongest one{SAUT}amongst you all.{PAGE}At the same time, if you are all weak,{SAUT}you will only be able to utilize weak{SAUT}Personas.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Justine",
+    "en": "Currently, only two Personas can be{SAUT}used in your fusions...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Caroline",
+    "en": "But, soon you will have access to special{SAUT}fusions, wherein we fuse three or more{SAUT}Personas.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Justine",
+    "en": "Also, we will be accepting requests to{SAUT}resummon any previously obtained{SAUT}Personas.{PAGE}However, every resummoning will come{SAUT}at a price―\"give and take\" remains the{SAUT}law of the land here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Caroline",
+    "en": "That concludes our list of offered duties.{SAUT}Did you get all that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "Well, I definitely heard you, but it sure{SAUT}doesn't feel like I get it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Caroline",
+    "en": "Then learn how it works firsthand.{SAUT}We're ready at any time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "This is a bit different from the way I'm{SAUT}used to doing it, but why don't we{SAUT}give it a try?{PAGE}Ah―that reminds me! I picked up this{SAUT}shining film earlier when I was fighting{SAUT}Shadows.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ann",
+    "en": "Oh, hey! That's what we need for taking{SAUT}on new Sub-Personas!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Fem Protag",
+    "en": "Looks like there are already Personas{SAUT}on this film―you can have them, if you{SAUT}want.",
+    "fr": ""
+  },
+  {
+    "id": "GET_P3PHERO_PERSONA_MSG",
+    "en": "Received Persona x{f 0 1 2}{f 2 4 1}{f 0 1 0} from{SAUT}{f 6 1 28 0 0 0}. Also, with{SAUT}the addition of a new companion{SAUT}with the power of the wild card,{SAUT}your Persona stock count has{SAUT}increased to {f 0 1 2}{f 2 4 0}{f 0 1 0}.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "Oracle! How is she!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Sh-She's... still not moving... Her lights{SAUT}are out, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "No... She tried to save us, even if it{SAUT}meant sacrificing herself...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukiko",
+    "en": "Ribbon-chan was completely different{SAUT}from when we first met her―she{SAUT}changed so much...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah... She didn't just do what she was{SAUT}ordered. She thought for herself, and{SAUT}acted on her own desires...{PAGE}She finally gained an identity... It can't{SAUT}end like this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Shinjiro",
+    "en": "Tch... Isn't there anything we can do!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "We have to at least try.{OPTION}But what, exactly?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Yes... I refuse to let this happen to her!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Fuuka",
+    "en": "Aigis, could you take a look, too? Your{SAUT}design configurations are similar,{SAUT}so maybe...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Aigis",
+    "en": "Understood. I will give it my all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Fuuka",
+    "en": "Aigis, could you take a look, too? Your{SAUT}design configurations are similar,{SAUT}so maybe...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Aigis",
+    "en": "Roger that. I will give it my all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Thank you!{PAGE}Hang in there, Ribbon... You're going{SAUT}to be just fine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Kanji",
+    "en": "Oracle... I didn't know she cared{SAUT}so much...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "She's been through a lot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Makoto",
+    "en": "Yes―she stood out from the crowd{SAUT}because of all the things she could do{SAUT}that others couldn't...{PAGE}I think Ribbon's troubles with her{SAUT}individuality really resonated with{SAUT}Oracle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ken",
+    "en": "Oh, I get it now...{PAGE}The reason she came along with us into{SAUT}the movie was because she sympathized{SAUT}with Ribbon-san in the trailer...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "Please wake up, Ribbon!{PAGE}I'm sure it'll be a great world from{SAUT}here on...{PAGE}You worked so hard... I'm positive{SAUT}the world will change...{PAGE}That's why you need to see it for{SAUT}yourself! So just... just wake up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "Yeah... She's right. I just know it! This is{SAUT}going to be a world where everyone{SAUT}can live however they want.{PAGE}It'll be a wonderful place...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Aigis",
+    "en": "Ribbon-san!",
+    "fr": ""
+  }
+]

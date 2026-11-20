@@ -1,0 +1,216 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Well done in transporting the music{SAUT}such a long way.{PAGE}So this is the melody that plays within{SAUT}the musical world... Without further{SAUT}ado, allow me to take a listen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Oh! I love this song!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "My...! I can feel this wonderful melody{SAUT}coursing through my very heart...{PAGE}Perhaps its emotional power reflects{SAUT}the strength of your friends' desire{SAUT}to help you, Ann.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* Ah, but it would be rude{SAUT}of me to meddle any further.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_1",
+    "locuteur": "Elizabeth",
+    "en": "In any case, the song has left me{SAUT}feeling satisfied indeed. Thank you{SAUT}very much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "Also... allow me to commend you on{SAUT}returning faster than expected.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_1",
+    "locuteur": "Elizabeth",
+    "en": "For your efforts... I would like to{SAUT}present a small prize...{PAGE}Please accept this bonus, along with{SAUT}your standard reward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Received a Soma Droplet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "Also... allow me to commend you on{SAUT}such a swift return to the theater.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_1",
+    "locuteur": "Elizabeth",
+    "en": "What a stellar performance... I would{SAUT}like to present a small prize...{PAGE}Please accept this bonus, along with{SAUT}your standard reward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "en": "Received a Soma Tear!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elizabeth",
+    "en": "Now, you are free to use this music{SAUT}box however you see fit.{PAGE}It seems that now the box is here,{SAUT}there is no more danger of the music{SAUT}fading, so you need not fear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Thanks for letting me be a little{SAUT}selfish, Elizabeth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_1",
+    "locuteur": "P3 Fem Protag",
+    "en": "Surprise, Ann! We got you a present!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Huh? For me? Why!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "To cheer you up.{OPTION}Why do you think?{OPTION}Just take it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Wait... This isn't cause of all that{SAUT}stuff with Shiho, is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Fuuka",
+    "en": "We just thought you looked kind of{SAUT}lonely, Ann-chan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "We were hoping we could help{SAUT}cheer you up, that's all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "Uh, I'm drawing a blank here.{SAUT}It's not even my birthday...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Fuuka",
+    "en": "Um... Ann-chan, do you remember{SAUT}how you were talking about your{SAUT}best friend?{PAGE}It seemed like you felt really lonely...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "We were thinking of some way to{SAUT}cheer you up a little, and we decided{SAUT}we'd get you a little present.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ann",
+    "en": "Wait, what? Now I'm really curious!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Fuuka",
+    "en": "Um... Ann-chan, do you remember{SAUT}how you were talking about your{SAUT}best friend?{PAGE}It seemed like you felt really lonely...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "We were thinking of some way to{SAUT}cheer you up a little, and we decided{SAUT}we'd get you a little present.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ann",
+    "en": "Oh... I see...{PAGE}......{PAGE}Geez... I was fine, you guys. You{SAUT}didn't have to do all that for me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Fuuka",
+    "en": "Oh, um... sorry. Did we just make{SAUT}things worse?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ann",
+    "en": "Of course not! You caught me a little{SAUT}off guard, but... no, I'm really happy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024_1",
+    "locuteur": "Ann",
+    "en": "And, well... thanks to that, I just{SAUT}remembered something important.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "A good something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ann",
+    "en": "Shiho told me once that I always{SAUT}look positive... She said it's part of{SAUT}what kept her going.{PAGE}If she saw me right now, she'd{SAUT}probably be really disappointed{SAUT}in me.{PAGE}I promised her I would stay strong.{SAUT}For her sake...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026_1",
+    "locuteur": "Ann",
+    "en": "...No. Not just for her sake.{PAGE}Now I've got all these great friends{SAUT}trying to cheer me up. I have to{SAUT}be strong for them too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Fuuka",
+    "en": "Ann-chan... I'm glad you're feeling{SAUT}better.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ann",
+    "en": "Thank you so much, guys.{SAUT}You're the best!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* Friends forever!",
+    "fr": ""
+  }
+]

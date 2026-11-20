@@ -1,0 +1,109 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Mitsuru",
+    "en": ", it seems you're{SAUT}fitting in quite well with everyone here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "*chuckle* I almost feel like I'm back{SAUT}home.{PAGE}It's not hard to get along with everyone{SAUT}when they act just like they always do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akihiko",
+    "en": "Oh? So there isn't much difference{SAUT}between us here and us in your world?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "That's right! Mitsuru-senpai is always{SAUT}super mature and reliable.{PAGE}Shinjiro-senpai is always very kind and{SAUT}often sneaks off to pet Koromaru and{SAUT}make him food.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Shinjiro",
+    "en": "Huh...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "And whenever I try to hang out with{SAUT}Akihiko-senpai, it always turns into{SAUT}some kind of training routine...{PAGE}So I end up jogging back to the dorm,{SAUT}drenched in sweat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Shinjiro",
+    "en": "*sigh* Damn, Aki, you're a pain in the{SAUT}ass in that world too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akihiko",
+    "en": "Who're you calling a pain in the ass!?{SAUT}It's important that you train daily.{PAGE}I'm sure the other me is only doing it{SAUT}because he cares about you,{SAUT}{f 6 1 27 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh? Sure... Ahaha...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "If you can keep up with my routine,{SAUT}then you're in good shape.{PAGE}All right, then, maybe we should go{SAUT}work out later. We're gonna get weak if{SAUT}we slack off too much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Shinjiro",
+    "en": "This is what I'm talkin' about. You{SAUT}don't need to listen to what Aki{SAUT}says if you don't want to.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, no! It's not that I don't want to!{PAGE}I was feeling the urge to move around{SAUT}anyway!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akihiko",
+    "en": "See? You hear that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Shinjiro",
+    "en": "Tch... If you leave the routine up to{SAUT}Aki, who knows what you'll end up{SAUT}doing.{PAGE}...Hey. If you plan on trainin', let me{SAUT}know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akihiko",
+    "en": "Are you finally gonna work out with{SAUT}me, Shinji!?{PAGE}Heh, all right... I'll come up with an{SAUT}awesome routine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Shinjiro",
+    "en": "That's not what I'm sayin', dumbass.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Mitsuru",
+    "en": "Ugh... Frankly, I'd be too concerned to{SAUT}leave {f 6 1 26 0 0 0} with just the{SAUT}two of you.{PAGE}Both of you better control your{SAUT}tempers. Understood?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "en": "A new special screening:{SAUT}\"Transcendental Trust\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

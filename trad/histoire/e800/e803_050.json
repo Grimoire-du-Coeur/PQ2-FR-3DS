@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "That's all of them! Mission complete!{SAUT}Good work, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "That was easy. Come on! Who's next!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "Heh! Barely breakin' a sweat! Keep 'em{SAUT}comin'!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Dude, we're unstoppable!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "Hell yeah, we are! Let's fight our way{SAUT}through the rest of the mov―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Kanji",
+    "en": "Er...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Uhh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "You guys are still at it? Just accept that you{SAUT}have things in common and work together!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "We need your strength.{OPTION}Stop fighting.{OPTION}Let your fists do the talking.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Y-Yeah... I know that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "I-It ain't a fight...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Ooh! I've seen this in some of the manga{SAUT}I've read! Two guys, speaking through{SAUT}their fists!{PAGE}Kinda clich〒, isn't it? Super old school too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Protag",
+    "en": "O-Oh, yeah...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "......{PAGE}Yo, I wanna get to know you better.{SAUT}Let's talk man-to-man.{PAGE}I guess I'm sorry for pickin' on everything{SAUT}you say.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "S-Skull's apologizing!? Is this a dream!?{SAUT}Am I hearing things!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Shut up, cat! Can't you see I've been{SAUT}worryin' about you...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Kanji",
+    "en": "......!?{PAGE}Haaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "Ugh...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "Mrow!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "The hell was that for...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Kanji",
+    "en": "Both of you better stay focused, or{SAUT}you're dead meat!{PAGE}Ugh. Damn...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "A Shadow!? Looks like there's another one!{SAUT}It's right on top of us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022_02",
+    "locuteur": "Futaba",
+    "en": "A Shadow!? Looks like there's another one!{SAUT}It's right on top of us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Morgana",
+    "en": "Kanji! You okay!?{PAGE}He did that to protect us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ryuji",
+    "en": "Bastard... Get out here!{PAGE}Let's bring 'im down, Joker! No one attacks{SAUT}our friends and gets away with it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Futaba",
+    "en": "Here it comes!",
+    "fr": ""
+  }
+]

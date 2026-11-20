@@ -1,0 +1,48 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Hero",
+    "en": "Looks like we managed.{SAUT}You all did great, guys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "We finished it with grace. Now,{SAUT}does that complete our task?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Hero",
+    "en": "Oh, hey...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "There's something on the ground...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Hero",
+    "en": "Knew it. It's just like the one{SAUT}you and {f 6 1 13 0 0 0} found.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Obtained Sooty Film!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Hero",
+    "en": "This is what, our third one?{SAUT}It's about time we find out what they{SAUT}really are...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006_1",
+    "locuteur": "P3 Hero",
+    "en": "In any case, let's head back.{SAUT}We'd better report to Elizabeth.",
+    "fr": ""
+  }
+]

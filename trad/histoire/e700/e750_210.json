@@ -1,0 +1,37 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Hm? Hold on a sec...{PAGE}There's not any wind blowing where{SAUT}you are, but the reading I'm getting{SAUT}tells me that there is. I wonder why?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Hero",
+    "en": "Is it possible that this film's blocking{SAUT}it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "I think you're right. That film's acting{SAUT}as a windbreaker right now.{PAGE}That would mean you could end up{SAUT}blasted away by the wind here if not{SAUT}for that barrier...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Film that shields us from the wind, eh?{SAUT}It may be best for us to draw this on{SAUT}the map, just in case.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Then I'll come up with a symbol for it.{SAUT}Something along the lines of...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_ICON_BLOCKWALL_OPEN",
+    "en": "A {f 0 1 2}Wind Shield{f 0 1 0} icon has been added{SAUT}to the map on the bottom screen.{PAGE}If you wish to check how to use{SAUT}this icon once more...{PAGE}Press {f 0 1 2}HELP{f 0 1 0} at the bottom right of{SAUT}the map and check the {f 0 1 2}Icon Types{f 0 1 0}.",
+    "fr": ""
+  }
+]

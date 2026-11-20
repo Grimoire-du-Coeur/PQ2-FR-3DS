@@ -1,0 +1,49 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "It seems that we can use our Personas{SAUT}here without any issues after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Yeah, but somethin' still feels off...{SAUT}It's like I'm not as strong or as fast{SAUT}as I used to be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Well, we are in a different world now―{SAUT}perhaps we have to start over here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "By the way, what should we do with{SAUT}this stuff? They're some shards of{SAUT}those Shadows we defeated...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Hm, I haven't the faintest idea of their{SAUT}worth. If only we could somehow{SAUT}use them...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Uh, Nagi says she'll buy them at the{SAUT}concession stand when you guys get{SAUT}back here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "For real? Then we'll be able to afford{SAUT}all sorts of things at the stand! Let's{SAUT}keep taking down Shadows!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Perhaps I should sell these shards next{SAUT}time I'm at the concession stand...",
+    "fr": ""
+  }
+]

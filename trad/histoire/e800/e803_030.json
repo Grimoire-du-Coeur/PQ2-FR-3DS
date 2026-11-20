@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Sweet! One down!{PAGE}Heh, guy was nothin' but a big, stinkin'{SAUT}ape!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "...Well, sooorry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Huh? Wasn't talkin' about...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "...Hmph.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "...Tsk.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Hey... Don't you think things are looking{SAUT}kinda tense over there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Oh, I know what this is. They're{SAUT}probably doing what they call a{SAUT}\"turf war.\"{PAGE}Only the strong survive. It's a{SAUT}bear-eat-bear world!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "Sheesh... I don't know what's going on,{SAUT}but we can't let them keep butting{SAUT}heads, can we?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "We should trust them.{OPTION}Let's keep an eye on them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P4 Hero",
+    "en": "You're right. Let's see how things turn{SAUT}out. The enemy's our priority right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Rise",
+    "en": "Ugh... Kanji's such a kid... I'm sorry, guys.{PAGE}Onto the next one, Joker. Be sure to{SAUT}check the map.",
+    "fr": ""
+  }
+]

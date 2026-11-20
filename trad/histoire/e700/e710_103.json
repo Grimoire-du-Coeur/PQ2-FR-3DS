@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Whew... We managed to defeat them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Ugh! my body seriously feels so sluggish{SAUT}right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "While there's nothing we can do but{SAUT}get used to it... it's still frustrating.{PAGE}Joker, considering the condition we're{SAUT}in, we must avoid doing anything{SAUT}reckless. Let's proceed with caution.",
+    "fr": ""
+  }
+]

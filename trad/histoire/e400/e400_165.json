@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Calm man's voice",
+    "en": "...Hikari, aren't you going to play{SAUT}superhero today?{PAGE}That's the only thing you've wanted to{SAUT}do until lately―you love superheroes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Young girl",
+    "en": "No... I think I'm done. I got bored{SAUT}playing superhero.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Calm man's voice",
+    "en": "I see... Are you sure you won't be{SAUT}bored today?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Young girl",
+    "en": "I'll be fine. Even if I'm by myself... I'll just{SAUT}watch movies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Calm man's voice",
+    "en": "Ah! I see...{PAGE}Then, why don't we go see a movie{SAUT}together next Sunday?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Young girl",
+    "en": "Really!? What about your work, though?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Calm man's voice",
+    "en": "Oh, I'll work hard and make sure{SAUT}to finish everything beforehand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Young girl",
+    "en": "But, then won't you be too tired?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Calm man's voice",
+    "en": "Even if I come home tired, it'll be fine―{SAUT}seeing you will perk me right up.{PAGE}You're my hero, Hikari.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Young girl",
+    "en": "*giggle* Yay!{PAGE}And... um... I made up my mind!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Calm man's voice",
+    "en": "Hm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Young girl",
+    "en": "When I grow up, I'm gonna make{SAUT}movies!{PAGE}You love movies, right Dad? I love them{SAUT}too...{PAGE}That's why I'm gonna make tons of them{SAUT}for you to watch.{PAGE}When I finish one, come see it, okay?{SAUT}Promise me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Calm man's voice",
+    "en": "Well, that's something I really look{SAUT}forward to.{PAGE}I wonder what kind of movie you'll{SAUT}make... I can't wait to see it.",
+    "fr": ""
+  }
+]

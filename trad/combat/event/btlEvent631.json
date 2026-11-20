@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Caroline",
+    "en": "We'll see how long you last.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Justine",
+    "en": "Now, raise your weapons.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Justine",
+    "en": "Whew... Caroline? Your appraisal?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Caroline",
+    "en": "It's not enough. Hey, Inmate!{SAUT}Keep up if you can!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Caroline",
+    "en": "H-Hmph, not bad... What do you{SAUT}think, Justine?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Justine",
+    "en": "Not even close yet... Inmate, you're{SAUT}not finished either, are you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Justine",
+    "en": "...Now, the true game begins.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Caroline",
+    "en": "Fight back until the very end!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Justine",
+    "en": "Well... done...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Caroline",
+    "en": "I'm... impressed...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Caroline",
+    "en": "Hmph, not bad...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Justine",
+    "en": "Yes, I suppose I must commend you...",
+    "fr": ""
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "It's finally time, you guys!{PAGE}If that statue is Kamoshidaman's{SAUT}weakness, this should interfere{SAUT}with his powers!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Well then, let's get into our positions.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Hell yeah! C'mon, Panther!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "You got it! Just like we planned it,{SAUT}Skull!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_5",
+    "locuteur": "Ann",
+    "en": "Just hang on, ladies... We're comin' for{SAUT}you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "Leave the switchboard to me. I'll do{SAUT}my part when the time's right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "I can prepare my prop immediately.{SAUT}I'll send word when it's ready to go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Mm, then all we have to do is wait for{SAUT}the right moment!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Loudspeaker",
+    "en": "Citizens of Kamo City, this is a public{SAUT}announcement...{PAGE}The exhibition at Kamoshida Square for{SAUT}punishing the evildoers will finally{SAUT}begin.{PAGE}I repeat...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Excited man",
+    "en": "Looks like those folks who defied{SAUT}Kamoshidaman are finally getting{SAUT}punished!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Young woman",
+    "en": "If Kamoshidaman says they're evil,{SAUT}then it was bound to happen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA! As you all know, I am{SAUT}the absolute justice of this city!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Fanatic man",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Middle-aged man",
+    "en": "If we just follow Kamoshidaman,{SAUT}our city will be peaceful, right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Kamoshidaman",
+    "en": "Indeed! It is only through my existence{SAUT}that Kamo City's peace is maintained!{PAGE}However, violators of that peace have{SAUT}appeared. Anyone who opposes me is{SAUT}evil and a criminal!{PAGE}And I shall punish this evil disrupting{SAUT}our peace with my own justice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Pleading woman",
+    "en": "We're begging you, take care of{SAUT}the criminals―for our sake!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Young boy",
+    "en": "Kamoshidaman is justice, right?{SAUT}That's what everyone's saying...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Old man",
+    "en": "We believe in you, Kamoshidaman!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "Psh, \"my own justice\" my ass! What an{SAUT}effin' load of selfish bullshit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "He can make it sound as good as he{SAUT}wants―all he's doing is suppressing{SAUT}everyone with his power!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "My apologies for the delay―the{SAUT}setup's complete.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "We're ready, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "I'm so nervous that I'm sweating{SAUT}daggers...{PAGE}Wait, or is it supposed to be bullets?{SAUT}Anyway―we've got no choice but to{SAUT}do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "Looks like everyone's in position...{PAGE}So, let's kick this heist off! Joker, you do{SAUT}the honors!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "Everyone―let's go!{OPTION}We're taking that statue!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "We'll take him down for sure this time{SAUT}and rescue Queen and Noir!",
+    "fr": ""
+  }
+]

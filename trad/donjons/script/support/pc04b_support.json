@@ -1,0 +1,467 @@
+[
+  {
+    "id": "MARGARET_FOE_FOLLOW_STAR",
+    "en": "That's... a Film Ob...",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_FOE_FOLLOW_STAR#2",
+    "en": "There is an FOE in pursuit.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_FOE_FOLLOW_STAR#3",
+    "en": "You are being followed.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_FOE_NEAR_1",
+    "en": "Stay calm, it's an FOE.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_FOE_NEAR_2",
+    "en": "It is quite large, but of course,{SAUT}everything looks large to you.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_FOE_NEAR_3",
+    "en": "Be warned that there is an FOE{SAUT}nearby.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_FOE_FOLLOW_END_",
+    "en": "Well done. You've evaded the FOE.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_FOE_FOLLOW_END_#2",
+    "en": "Your escape was a successful one.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_FOE_FOLLOW_END_#3",
+    "en": "Thankfully, it gave up its pursuit of you.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_KANSI_REACTION_",
+    "en": "If those lights manage to touch you,{SAUT}you'll most certainly be seen.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_KANSI_REACTION_#2",
+    "en": "Spotlights have been set up here.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_KANSI_REACTION_#3",
+    "en": "Exercise caution once you're past{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_DENKISAKU_REACT",
+    "en": "To continue, it will be necessary to{SAUT}deactivate the electric gate.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_DENKISAKU_REACT#2",
+    "en": "That gate is an unfortunate obstacle.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_DENKISAKU_REACT#3",
+    "en": "There is likely a switch to turn off the{SAUT}power. Hopefully you can locate it.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_KYOUHU_REACTION",
+    "en": "What a strong wind.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_KYOUHU_REACTION#2",
+    "en": "Mind your footing, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_KYOUHU_REACTION#3",
+    "en": "That's quite a breeze!",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_STAIR_FIND_1",
+    "en": "Well done. You've found the stairs.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_STAIR_FIND_2",
+    "en": "Remarkable progress. Now, are you{SAUT}ready to go further?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_STAIR_FIND_3",
+    "en": "At last, you've located the stairs.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_TREASURE_FIND_1",
+    "en": "That appears to be a treasure box. You{SAUT}plan on opening it, I hope?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_TREASURE_FIND_2",
+    "en": "Oh, a treasure box. What could be{SAUT}inside, I wonder?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_TREASURE_FIND_3",
+    "en": "I do hope that you will find something{SAUT}worthwhile in that treasure box.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_CHECK_WALL_1",
+    "en": "You may very well wish to take a closer{SAUT}look there.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_CHECK_WALL_2",
+    "en": "Hm, what could that be?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_CHECK_WALL_3",
+    "en": "I cannot discern what it is, but there is{SAUT}something ahead.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_SWITCH_FIND_1",
+    "en": "There is a switch up ahead.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_SWITCH_FIND_2",
+    "en": "I wager there is a switch nearby.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_SWITCH_FIND_3",
+    "en": "Do you think you should see what this{SAUT}switch does?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_SHORTCUT_FIND_1",
+    "en": "That wall is a traversable one.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_SHORTCUT_FIND_2",
+    "en": "There is a hidden passage in the{SAUT}vicinity.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_SHORTCUT_FIND_3",
+    "en": "That wall... There is something{SAUT}significant about it.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_PARTY_DEAD_1",
+    "en": "You're undeniably very injured.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_PARTY_DEAD_2",
+    "en": "I agree. Perhaps you should head back{SAUT}for now?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_PARTY_DEAD_3",
+    "en": "I can't recommend proceeding any{SAUT}further.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_FOE_WARNING_NEA",
+    "en": "The FOE is back. You should remain{SAUT}alert.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_FOE_WARNING_NEA#2",
+    "en": "That is correct, so best keep an eye on{SAUT}your surroundings.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_FOE_WARNING_NEA#3",
+    "en": "An FOE is coming near. Be on guard.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_PARTY_HPTP10_1",
+    "en": "I suggest you withdraw for now.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_PARTY_HPTP10_2",
+    "en": "Unfortunately, the whole team is on{SAUT}the verge of collapse...",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_PARTY_HPTP10_3",
+    "en": "Yes, it would be unwise to proceed any{SAUT}further as is.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_PARTY_HP10_1",
+    "en": "Everyone's health is fast approaching{SAUT}a dangerous level.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_PARTY_HP10_2",
+    "en": "Truly, you should take a look at the{SAUT}health of your party.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_PARTY_HP10_3",
+    "en": "You should make healing everyone{SAUT}your first priority.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_1PERSON_HPTP10_",
+    "en": "Your health and energy are woefully{SAUT}depleted.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_1PERSON_HPTP10_#2",
+    "en": "Healing really ought to be your first{SAUT}order of business.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_1PERSON_HPTP10_#3",
+    "en": "Alas, you've lost significant health and{SAUT}energy.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_PARTY_TP10_1",
+    "en": "There's a dearth of energy in the party.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_PARTY_TP10_2",
+    "en": "I'm growing concerned about your{SAUT}large losses of energy.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_PARTY_TP10_3",
+    "en": "It would seem the party is suffering a{SAUT}lack of energy.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_1PERSON_HP10_1",
+    "en": "You should prioritize healing yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_1PERSON_HP10_2",
+    "en": "May I suggest restoring your health?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_1PERSON_HP10_3",
+    "en": "Would you consider restoring your{SAUT}health first?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_1PERSON_TP10_1",
+    "en": "Is there anything you can do to{SAUT}recover?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_1PERSON_TP10_2",
+    "en": "I agree. It wouldn't do to be reckless.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_1PERSON_TP10_3",
+    "en": "Hm, you are wholly out of stamina.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_ITEM_90_BATTLE_",
+    "en": "Some clean-up on your part is{SAUT}necessary.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_ITEM_90_BATTLE_#2",
+    "en": "You're holding a surplus of items.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_ITEM_90_BATTLE_#3",
+    "en": "Are you aware that you may leave{SAUT}some items with Theodore?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_1PERSON_HP80_1",
+    "en": "You seem to be doing well.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_1PERSON_HP80_2",
+    "en": "There is still someone who appears to{SAUT}be in fine condition.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_1PERSON_HP80_3",
+    "en": "You should move on while you still{SAUT}can.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_ITEM_90_DUNGEON",
+    "en": "Consider cleaning up your superfluous{SAUT}collection of items.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_ITEM_90_DUNGEON#2",
+    "en": "You're holding a surplus of items.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_ITEM_90_DUNGEON#3",
+    "en": "Are you aware that you may leave{SAUT}some items with Theodore?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_DUNGEON_START_1",
+    "en": "I shall support you from \"behind{SAUT}the camera,\" as they'd say here.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_DUNGEON_START_2",
+    "en": "Have you finished your preparations?{SAUT}Then let's be off.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_DUNGEON_START_3",
+    "en": "Are you prepared?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_QUEST_START_1",
+    "en": "Both of us will provide you{SAUT}support, come what may.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_QUEST_START_2",
+    "en": "If everyone is ready, let us begin.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_QUEST_START_3",
+    "en": "Let's begin the special screening.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_TOUHA_25_1",
+    "en": "You're getting quite adept at this.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_TOUHA_25_2",
+    "en": "In truth, you've only just begun.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_TOUHA_50_1",
+    "en": "It looks like you're about halfway.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_TOUHA_50_2",
+    "en": "You're exploring at a good pace.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_TOUHA_75_1",
+    "en": "There's not much left of this floor.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_TOUHA_75_2",
+    "en": "You've nearly completed this floor. I{SAUT}wish you the best of luck in finishing.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_TOUHA_100_1",
+    "en": "You probably know this floor like the{SAUT}back of your hand by now.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_TOUHA_100_2",
+    "en": "Well done. You've mastered this floor.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_MAPPING_ICON_AL",
+    "en": "It looks like your map is exceedingly{SAUT}accurate.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_MAPPING_ICON_AL#2",
+    "en": "You're exercising sound judgment.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_MAPPING_ICON_KA",
+    "en": "With that level of skill, you ought to{SAUT}have no fear of getting lost.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_MAPPING_ICON_KA#2",
+    "en": "Let us mark these stairs down.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_MAPPING_CHANGE_",
+    "en": "I approve of your artistic sensibility.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_MAPPING_CHANGE_#2",
+    "en": "I look forward to seeing the map when{SAUT}it's done.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_MAPPING_ICON_DE",
+    "en": "Doing some clean-up?",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_MAPPING_ICON_DE#2",
+    "en": "Of course, it's wise to correct mistakes{SAUT}wherever possible.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_MAPPING_MEMO_1",
+    "en": "You mustn't forget important details.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_MAPPING_MEMO_2",
+    "en": "Writing notes for later reference is an{SAUT}excellent habit.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_KARITORU_ENCOUN",
+    "en": "The Reaper is here! Stay on guard!",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_KARITORU_ENCOUN#2",
+    "en": "Remain alert. A powerful enemy is{SAUT}approaching.",
+    "fr": ""
+  },
+  {
+    "id": "MARGARET_KARITORU_ENCOUN#3",
+    "en": "The Reaper is close. Stay vigilant.",
+    "fr": ""
+  }
+]

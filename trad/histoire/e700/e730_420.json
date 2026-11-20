@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "I-I'm sorry, but... I don't know where{SAUT}to go next.{PAGE}I mean, there is a path, but it has{SAUT}a locked door, so it won't do you{SAUT}any good...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Aigis",
+    "en": "Then, shall I decimate this wall?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "It's all yours.{OPTION}Please―don't.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Huh? Wait, decim―Stop, stop!{PAGE}No, no, definitely no! It'd be super bad{SAUT}if this place exploded, right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "You heard him! It'd be super bad if this{SAUT}place exploded, right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ribbon",
+    "en": "IT WOULD BE ESPECIALLY DANGEROUS{SAUT}SINCE ELECTRICAL CONDUITS RUN{SAUT}THROUGH THESE WALLS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Hero",
+    "en": "Aigis, go easy on them―they can't tell{SAUT}you're kidding.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Aigis",
+    "en": "Yes, it seems that is the case.{SAUT}I apologize...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Wh-Whoa, she's got jokes!? Talk about{SAUT}being high-specced! Daaaamn...{PAGE}But, in all honesty... My blood totally{SAUT}ran cold for a second there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ribbon",
+    "en": "A... JOKE? A ROBOT... MADE A JOKE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_5",
+    "locuteur": "Ribbon",
+    "en": "YOU ARE VERY DIFFERENT FROM{SAUT}NORMAL ROBOTS, AIGIS-SAN...{SAUT}WHY IS THAT?{PAGE}IS IT BECAUSE YOU WERE NOT CREATED{SAUT}IN THIS WORLD, AS I WAS?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Aigis",
+    "en": "I currently know very little about what{SAUT}comprises a \"normal\" robot... However,{SAUT}no matter where I am, I am myself.{PAGE}Does this not describe yourself as well,{SAUT}Ribbon-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ribbon",
+    "en": "HOW SO?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Aigis",
+    "en": "I was told that you came with us because{SAUT}you wanted to learn about the emotions{SAUT}you have attained.{PAGE}That feeling was born from within you.{SAUT}It is your own.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ribbon",
+    "en": "I HAD... MY OWN FEELING...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Mitsuru",
+    "en": "Well, let's wrap this conversation up{SAUT}for now and resume our exploration.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014_5",
+    "locuteur": "Mitsuru",
+    "en": "While there may be no clear path for us{SAUT}to take, there must be a hidden passage{SAUT}somewhere. Let's try looking for one.",
+    "fr": ""
+  }
+]

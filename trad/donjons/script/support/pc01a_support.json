@@ -1,0 +1,527 @@
+[
+  {
+    "id": "FUTABA_FOE_FOLLOW_START_",
+    "en": "FOE approaching!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FOE_FOLLOW_START_#2",
+    "en": "Ugh, it's following us!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FOE_FOLLOW_START_#3",
+    "en": "The FOE's close!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FOE_NEAR_1",
+    "en": "It's dead ahead! Be careful!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FOE_NEAR_2",
+    "en": "Whoa! Little too close!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FOE_NEAR_3",
+    "en": "It's close! Careful!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FOE_FOLLOW_END_1",
+    "en": "We can relax now. It's gone!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FOE_FOLLOW_END_2",
+    "en": "All right, we made it.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FOE_FOLLOW_END_3",
+    "en": "Whew... We lost it!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_KANSI_REACTION_1",
+    "en": "There's a pattern!{SAUT}Watch closely!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_KANSI_REACTION_2",
+    "en": "Stay calm and you guys'll{SAUT}be just fine!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_KANSI_REACTION_3",
+    "en": "Okay, be careful...",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_DENKISAKU_REACTIO",
+    "en": "We gotta do something about{SAUT}the gate first!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_DENKISAKU_REACTIO#2",
+    "en": "Don't touch that! Bad idea!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_DENKISAKU_REACTIO#3",
+    "en": "Should be able to go through{SAUT}if you stop the electricity.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_KYOUHU_REACTION_1",
+    "en": "Heeey!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_KYOUHU_REACTION_2",
+    "en": "You guys were flying!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_KYOUHU_REACTION_3",
+    "en": "You guys okay!?",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_STAIR_FIND_1",
+    "en": "Check it out! A staircase!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_STAIR_FIND_2",
+    "en": "Closing in on the stairs!{SAUT}Just a little further!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_STAIR_FIND_3",
+    "en": "All right! On to the next floor!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_TREASURE_FIND_1",
+    "en": "Hm? I'm sensing treasure{SAUT}up ahead!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_TREASURE_FIND_2",
+    "en": "You see that? Treasure!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_TREASURE_FIND_3",
+    "en": "There it is! Treasure, dead{SAUT}ahead!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_CHECK_WALL_1",
+    "en": "Right there! See anything?",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_CHECK_WALL_2",
+    "en": "There's something over there.{SAUT}Mind checking it out?",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_CHECK_WALL_3",
+    "en": "Something's fishy here.{SAUT}Better take a look.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_SWITCH_FIND_1",
+    "en": "A switch, huh...?",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_SWITCH_FIND_2",
+    "en": "Oh, look! A switch!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_SWITCH_FIND_3",
+    "en": "And... Bingo! Off goes{SAUT}the switch!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_SHORTCUT_FIND_1",
+    "en": "Oh! Looks like we can go{SAUT}through here!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_SHORTCUT_FIND_2",
+    "en": "A hidden pathway! Nice!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_SHORTCUT_FIND_3",
+    "en": "Looks like we can go through{SAUT}here!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_PARTY_DEAD_1",
+    "en": "We can't keep going like this!{SAUT}Run for it!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_PARTY_DEAD_2",
+    "en": "Crap! Might be a good idea{SAUT}to pull back!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_PARTY_DEAD_3",
+    "en": "Get out of there! It's too{SAUT}dangerous!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FOE_WARNING_NEAR_",
+    "en": "FOE nearby! Stay alert!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FOE_WARNING_NEAR_#2",
+    "en": "We're not out yet! Stay sharp!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FOE_WARNING_NEAR_#3",
+    "en": "It's coming, guys!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_PARTY_HPTP10_1",
+    "en": "We can't work like this...",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_PARTY_HPTP10_2",
+    "en": "Don't sweat it! Come on back!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_PARTY_HPTP10_3",
+    "en": "Hey, don't overdo it!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_PARTY_HP10_1",
+    "en": "You guys look beat...Maybe take a{SAUT}break.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_PARTY_HP10_2",
+    "en": "Heal up or head back!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_PARTY_HP10_3",
+    "en": "Avoid getting wiped out at all costs!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_1PERSON_HPTP10_1",
+    "en": "Everyone okay?",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_1PERSON_HPTP10_2",
+    "en": "We better get ready!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_1PERSON_HPTP10_3",
+    "en": "We're in big trouble if we{SAUT}don't heal up fast!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_PARTY_TP10_1",
+    "en": "You guys are really goin'{SAUT}for it!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_PARTY_TP10_2",
+    "en": "Your stamina's getting low!{SAUT}Don't push it!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_PARTY_TP10_3",
+    "en": "Stooop! You're pushing{SAUT}yourselves too hard!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_1PERSON_HP10_1",
+    "en": "You're losing health! Are you{SAUT}able to heal?",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_1PERSON_HP10_2",
+    "en": "It wouldn't hurt to rest a bit!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_1PERSON_HP10_3",
+    "en": "It's dangerous fighting like{SAUT}that!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_1PERSON_TP10_1",
+    "en": "You're out of stamina...{SAUT}You gonna make it?",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_1PERSON_TP10_2",
+    "en": "Don't push yourself too hard,{SAUT}all right?",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_1PERSON_TP10_3",
+    "en": "Be sure to rest when you can!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_ITEM_90_BATTLE_1",
+    "en": "Looks like your inventory's{SAUT}almost full!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_ITEM_90_BATTLE_2",
+    "en": "You're carrying a lot...{SAUT}Maybe you should head back.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_ITEM_90_BATTLE_3",
+    "en": "Maybe you should organize{SAUT}your stuff.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_1PERSON_HP80_1",
+    "en": "Not bad, guys.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_1PERSON_HP80_2",
+    "en": "Good work! Let's keep at it!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_1PERSON_HP80_3",
+    "en": "We're doing good! Keep it up!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FUTABA_MAKASETA_1",
+    "en": "It's all you now, Oracle!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FUTABA_MAKASETA_2",
+    "en": "You're up, Oracle! Go get 'em!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FUTABA_MAKASETA_3",
+    "en": "Get ready for a Baton Pass, Oracle!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FUTABA_ANSWER_1",
+    "en": "Thanks, Rise! I got it from{SAUT}here!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FUTABA_ANSWER_2",
+    "en": "Switching from Rise!{SAUT}Oracle on the mic!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FUTABA_ANSWER_3",
+    "en": "All right, I got this! Let's go,{SAUT}guys!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FUTABA_MAKASETA_1",
+    "en": "I'll leave the rest to you now, Oracle!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FUTABA_MAKASETA_2",
+    "en": "Time to switch out! I'm hoping{SAUT}to learn a lot from you!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FUTABA_MAKASETA_3",
+    "en": "Now I'll turn it over to Oracle!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FUTABA_ANSWER_1",
+    "en": "All right, Fuuka, I'll take it{SAUT}from here!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FUTABA_ANSWER_2",
+    "en": "That was great, Fuuka!{SAUT}Leave the rest to me!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FUTABA_ANSWER_3",
+    "en": "Coverin' for Fuuka! Keep at{SAUT}it, guys!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_ITEM_90_DUNGEON_1",
+    "en": "Looks like your inventory's{SAUT}almost full!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_ITEM_90_DUNGEON_2",
+    "en": "You're carrying a lot...{SAUT}Maybe you should head back.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_ITEM_90_DUNGEON_3",
+    "en": "Maybe you should organize{SAUT}your stuff.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_DUNGEON_START_1",
+    "en": "Navigation is go!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_DUNGEON_START_2",
+    "en": "Onward!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_DUNGEON_START_3",
+    "en": "All right! Let's get started!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_QUEST_START_1",
+    "en": "Let's get going!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_QUEST_START_2",
+    "en": "Leave the support to me!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_QUEST_START_3",
+    "en": "Don't let your guard down!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_TOUHA_25_1",
+    "en": "Let's fill out that map!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_TOUHA_25_2",
+    "en": "How's the map coming along?",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_TOUHA_50_1",
+    "en": "Halfway there!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_TOUHA_50_2",
+    "en": "This is where it gets tough!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_TOUHA_75_1",
+    "en": "Looks like it's almost done!{SAUT}Cool!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_TOUHA_75_2",
+    "en": "Where else can we go?",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_TOUHA_100_1",
+    "en": "Sweet! The map's all done!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_TOUHA_100_2",
+    "en": "Hm! Good work!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_MAPPING_ICON_ALL_",
+    "en": "That's not bad at all! ",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_MAPPING_ICON_ALL_#2",
+    "en": "Good job!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_MAPPING_ICON_KAID",
+    "en": "There we go.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_MAPPING_ICON_KAID#2",
+    "en": "Perfectly placed!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_MAPPING_CHANGE_CO",
+    "en": "You've got good taste.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_MAPPING_CHANGE_CO#2",
+    "en": "Ooh. That looks fun.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_MAPPING_ICON_DEL_",
+    "en": "You're such a neat freak.",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_MAPPING_ICON_DEL_#2",
+    "en": "Wha―!? You're throwing it{SAUT}away?",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_MAPPING_MEMO_1",
+    "en": "Make a note!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_MAPPING_MEMO_2",
+    "en": "Hey, what're you writin'?",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_KARITORU_ENCOUNT_",
+    "en": "It's the Reaper... This one's{SAUT}gonna be tough!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_KARITORU_ENCOUNT_#2",
+    "en": "I know this feeling... It's the{SAUT}Reaper!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_KARITORU_ENCOUNT_#3",
+    "en": "Tough one on the way!{SAUT}Get ready! ",
+    "fr": ""
+  }
+]

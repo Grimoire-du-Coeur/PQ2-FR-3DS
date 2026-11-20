@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Whoa―the hell is that!? It's huge!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "It seems to be a type of FOE, different{SAUT}from what we've previously seen...{PAGE}It doesn't seem to be on any sort of{SAUT}patrol, but that doesn't mean it's not{SAUT}dangerous.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "It even has more searchlights around it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_5",
+    "locuteur": "Morgana",
+    "en": "We'd better take extra care around{SAUT}that thing―make sure you proceed{SAUT}carefully, Joker!",
+    "fr": ""
+  }
+]

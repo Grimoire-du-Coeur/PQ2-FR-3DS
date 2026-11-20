@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Caroline",
+    "en": "You here again, Inmate!? I told you{SAUT}we're not ready yet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Justine",
+    "en": "Is there something else?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Just here to make small talk.{OPTION}Tell me about Sub-Personas.{OPTION}No, I'll leave.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Caroline",
+    "en": "Hmph! Like you have time for small{SAUT}talk, Inmate.{PAGE}If you think you can relax just because{SAUT}you're not in your cell, you're wrong!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Justine",
+    "en": "It is our duty to rehabilitate you.{PAGE}If necessary, we can accommodate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Caroline",
+    "en": "You better be thankful, Inmate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Caroline",
+    "en": "Sheesh, you're needy. Fine, listen up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Justine",
+    "en": "It seems to be that the way things work{SAUT}in this world is quite different from that{SAUT}of our own.{PAGE}Your power of the wild card that{SAUT}allows you to switch Personas during{SAUT}battle is no longer available.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Caroline",
+    "en": "Still, it looks like things aren't all bad!{SAUT}So cheer up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Justine",
+    "en": "Here, everyone will be able to equip{SAUT}{f 0 1 2}one additional Persona{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Caroline",
+    "en": "Not just you, Inmate. Everyone. You{SAUT}hear me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Justine",
+    "en": "We will call everyone's standard{SAUT}Persona their {f 0 1 2}\"Main Persona\"{f 0 1 0}...{PAGE}And those you obtain from the film,{SAUT}we will call {f 0 1 2}\"Sub-Personas\"{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Caroline",
+    "en": "In other words, all of you can use{SAUT}{f 0 1 2}two Personas{f 0 1 0}, one \"Main\" and one \"Sub.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Justine",
+    "en": "I am uncertain as to why the power of{SAUT}the wild card has changed. However...{PAGE}There may be other things we can assist{SAUT}with as far as Sub-Personas are{SAUT}concerned.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Caroline",
+    "en": "Until then, all of you better keep doing{SAUT}what needs to be done! Got it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Justine",
+    "en": "You're heading back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Caroline",
+    "en": "Your current mission is to escape this{SAUT}world!{PAGE}This is part of your rehabilitation. Don't{SAUT}forget it, Inmate!",
+    "fr": ""
+  }
+]

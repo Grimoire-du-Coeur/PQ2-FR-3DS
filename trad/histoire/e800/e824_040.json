@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Heads up, guys! We've got two FOEs{SAUT}nearby!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Shinjiro",
+    "en": "Tch, they here 'cause of the security{SAUT}change?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Looks like we got a little more{SAUT}investigating to do.{PAGE}We'll have to beat those FOEs if we{SAUT}wanna get through here. That or find{SAUT}another way around.{PAGE}Whether we take down the FOEs or{SAUT}search for an alternate route is up{SAUT}to you, Joker!",
+    "fr": ""
+  }
+]

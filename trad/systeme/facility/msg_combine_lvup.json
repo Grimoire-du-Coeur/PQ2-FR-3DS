@@ -1,0 +1,78 @@
+[
+  {
+    "id": "FCL_PERSONA_YN",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_LVUP",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has leveled up!",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_PARAMUP",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0}'s level has increased by {f 0 1 1}{f 2 4 1}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_GETSKILL",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has learned{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_RMSKILL",
+    "en": "All skill slots are currently full.{SAUT}Please select a skill to erase.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_RMSKILL_Q",
+    "en": "Erase {f 0 1 1}{f 2 4 0}{f 0 1 0}?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_RMSKILL0",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} forgot{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_RMSKILL1",
+    "en": "{f 0 1 1}{f 2 4 1}{f 0 1 0} has replaced{SAUT}{f 0 1 1}{f 2 4 0}{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_RMSKILL2",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has been upgraded to{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_SKILLSHIFTCH",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has been upgraded to{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_SKILLSHIFTUP",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has changed to to{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "FCL_SKILL_FRAME",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0}'s skill slots{SAUT}increased!",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_EVOLUTION_PR",
+    "en": "It seems a hidden potential has{SAUT}awakened in {f 0 1 1}{f 2 4 0}{f 0 1 0}...!",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_EVOLUTION_NO",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} retained its form,{SAUT}but has become more powerful!",
+    "fr": ""
+  },
+  {
+    "id": "FCL_PERSONA_EVOLUTION_SK",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has been upgraded!",
+    "fr": ""
+  }
+]

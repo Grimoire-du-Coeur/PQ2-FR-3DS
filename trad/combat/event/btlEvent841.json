@@ -1,0 +1,47 @@
+[
+  {
+    "id": "MSG_BTL_TUTORIAL_841_ENC",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_841_101",
+    "en": "\"Analyze\"{SAUT}You can view further information about{SAUT}enemy Shadows by pressing the {f 0 1 2}L Button{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_841_102",
+    "en": "When deciding what to do during a turn,{SAUT}you might consider using skills or items.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_841_103",
+    "en": "*For Proto Version 2, controls to the{SAUT}switch lists are not implemented.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_841_104",
+    "en": "\"Items\"{SAUT}Instead of a skill or physical attack, you{SAUT}may use an item, such as one that heals.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_841_HP_",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_841_HP_#2",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_841_HP_#3",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_841_BTL",
+    "en": "Reserve",
+    "fr": ""
+  }
+]

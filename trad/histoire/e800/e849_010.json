@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Well, I imagine you're all used to this:{SAUT}I have another special screening!{PAGE}You've made good use of the{SAUT}resources here. As the proprietor,{SAUT}I must say I'm proud.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "locuteur": "Elizabeth",
+    "en": "And now, the time has come to raise{SAUT}the curtain on a very special screening!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Oh, one of those specific-cast ones?{SAUT}So we're fighting a big one again, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* I see this is routine for you{SAUT}by now. Yes, you're correct.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Elizabeth",
+    "en": "This time, your brutal deathmatch is{SAUT}against a villain who has appeared{SAUT}in the depths of \"A.I.G.I.S.\"{PAGE}Please crush the living hell out of it{SAUT}and then return to me.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Consider it crushed.{OPTION}This is getting old.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "My, you're brimming with confidence.{PAGE}Or perhaps you're more focused on{SAUT}the bout beyond this task...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Well, it's true this is just an opener{SAUT}for the real battle. But we can't{SAUT}let our guard down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Hero",
+    "en": "Yeah. Doesn't matter who we're up{SAUT}against. We'll fight with all we've got.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "Grrr... Then again, this would be{SAUT}the third one. I suppose anyone{SAUT}might be losing their zeal by now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "C'mon, don't be like that. The{SAUT}Phantom Thieves have to take on{SAUT}anyone in their way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Hero",
+    "en": "Haha... That's just your style, huh?{SAUT}Guess I've got to step up my game.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elizabeth",
+    "en": "Your chance may come sooner than{SAUT}you think, {f 6 1 16 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_1",
+    "locuteur": "Elizabeth",
+    "en": "As it happens, your name is the one{SAUT}written on this ticket.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Hero",
+    "en": "Huh. Well, okay. Guess that means{SAUT}I'm up for the next battle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Hero",
+    "en": "Let's do this, Leader. Sounds like a{SAUT}pretty big responsibility, but I'll{SAUT}give it a shot.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "Show me your best.{OPTION}I know you can do it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Hero",
+    "en": "Of course. I owe you, anyway.{SAUT}Gotta repay you for saving my life.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014_1",
+    "locuteur": "P3 Hero",
+    "en": "Well, it's going to be as tough as{SAUT}the last ones were. Let's work together{SAUT}and take it out.",
+    "fr": ""
+  }
+]

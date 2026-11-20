@@ -1,0 +1,231 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Caroline",
+    "en": "Ngh... Looks like he actually beat us.{SAUT}I'm impressed, Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Justine",
+    "en": "What a surprise... I didn't know{SAUT}you had amassed such power.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Same to you.{OPTION}It's thanks to my team.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Caroline",
+    "en": "Heh... Well, you're bold, I'll give{SAUT}you that. I guess you really have{SAUT}proven yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Justine",
+    "en": "That was an earnest appraisal of{SAUT}his opponents, too. I'd say his{SAUT}rehabilitation is going well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Justine",
+    "en": "I see... Yes, you've proven that you{SAUT}have many fine confidants at your{SAUT}side.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Caroline",
+    "en": "Hmph. So you've been taking our{SAUT}advice to heart, then. I guess you{SAUT}haven't just been playing around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "That was a splendid bout. Both sides{SAUT}gave a splendid showing of power.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_1",
+    "locuteur": "Elizabeth",
+    "en": "Now then, as for the film...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "en": "The film that looked sooty is now{SAUT}glowing faintly...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "All right! There it goes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "......!{PAGE}The three pieces of film are shining{SAUT}even brighter together...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "Whoa, I think all three of them are{SAUT}resonating... There's something really{SAUT}mystic about all this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "en": "The shine quietly ebbed away...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "Hunh? It went back to how it was.{SAUT}Was that still not enough?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "But from the looks of it, we're only{SAUT}one step away from the truth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elizabeth",
+    "en": "Indeed, I shall look forward to the{SAUT}next ticket specifying a cast.{PAGE}Now, you are due a reward.{SAUT}I have prepared something for{SAUT}your troubles...{PAGE}...A splendid item that will be useful{SAUT}in fierce battles, provided to you by{SAUT}this impertinent duo.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Thank you.{OPTION}I'll treasure it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Caroline",
+    "en": "D-Don't get the wrong idea, Inmate!{PAGE}It's just that we can't have you{SAUT}dying out in those movies! It'd be{SAUT}too anticlimactic!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Justine",
+    "en": "This is no gift... merely clutter we{SAUT}no longer have the space for.{SAUT}Use or discard it as you please.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "Mweheheh, they're still keeping up{SAUT}the act... One day they're gonna go{SAUT}full dere, and it's gonna be awesome.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Elizabeth",
+    "en": "Oh, I almost forgot.{PAGE}I also have your hot dog prepared{SAUT}here. It shall go to the victor,{SAUT}{f 6 1 30 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Caroline",
+    "en": "Grrr... How humiliating!{PAGE}Of all people, the prisoner gets one!?{SAUT}That was supposed to be our prize!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Makoto",
+    "en": "Wow, she seems pretty worked up.{SAUT}I didn't know she liked these{SAUT}so much.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Fuuka",
+    "en": "I almost feel kind of bad taking it...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "You two can have it...{OPTION}It's all ours.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Caroline",
+    "en": "What!? Do you mean it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Justine",
+    "en": "...Ahem.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Caroline",
+    "en": "Oh, uhh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Caroline",
+    "en": "O-Of course it is! You won! And{SAUT}it's not like I need it or anything...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Kanji",
+    "en": "Man, {f 6 1 30 0 0 0}-san, do ya have to be{SAUT}so tough on kids...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Justine",
+    "en": "You are embarrassing us, Caroline.{PAGE}To begin with, we've already secured{SAUT}our share.{PAGE}And we made sure to hide where{SAUT}would-be thieves could never find it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Caroline",
+    "en": "Well, um... that's...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Caroline",
+    "en": "R-R-Right! And we've still got a{SAUT}mountain left for us, anyway!{SAUT}Hahaha!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Ryuji",
+    "en": "What was that about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Junpei",
+    "en": "Beats me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Elizabeth",
+    "en": "Now then, everyone. Thank you for{SAUT}your hard work.{PAGE}It seems we're barely a step away{SAUT}from uncovering the film's secret.{PAGE}Perhaps the next special screening{SAUT}with a specified cast will present the{SAUT}climax of this mystery.{PAGE}I will be waiting, heart aflutter in{SAUT}anticipation. Until then, I bid you{SAUT}adieu.",
+    "fr": ""
+  },
+  {
+    "id": "PERSONA_STOCK_UP_MSG",
+    "en": "Overcoming this ordeal has strengthened the{SAUT}power of the wild card. Your Persona{SAUT}stock has increased by {f 0 1 2}{f 2 4 0}{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "SYS_MES_000",
+    "en": "The effect of {f 4 4 3 0 1595} allows{SAUT}for Boost state to carry over into the{SAUT}next battle through Finish Bonuses.",
+    "fr": ""
+  }
+]

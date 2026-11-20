@@ -1,0 +1,242 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Aigis",
+    "en": "We have reached our destination. Will{SAUT}this location suffice?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Yes. It looks like there's a lot of people{SAUT}here, so it should work out okay... This'll{SAUT}definitely take some courage, though.{PAGE}Oh, do we need permission from the{SAUT}police? Or can we just get started?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "Hmm, I think we'll be all right?{SAUT}Remember, this is for the special{SAUT}screening.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Hrm, hrm, hrm... It's finally time for my{SAUT}big debut!{PAGE}So, how do we draw a crowd?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "Oh, um... We still need to figure that out,{SAUT}don't we?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Rise",
+    "en": "Leave that to the one and only Risette!{SAUT}I'll support you the whole way!{PAGE}First, we'll wanna hammer out your{SAUT}opening lines.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Aigis",
+    "en": "Opening lines?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Rise",
+    "en": "Yeah. Let everyone know who you are{SAUT}and hype them up for the main event!{PAGE}Then, once the crowd's warmed up,{SAUT}we'll move on to your acts! That oughta{SAUT}really get things moving!{PAGE}And this way, I can participate too, even{SAUT}though I'm not physically there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Teddie",
+    "en": "I get it now! Okay, I'm ready!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Rise",
+    "en": "All right, let's practice! I'll try and lead{SAUT}everyone, so just listen for when I call{SAUT}your name!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Aigis",
+    "en": "Understood. I will stand by for your cue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Rise",
+    "en": "Introducing, the beauty brigade! First up{SAUT}is the mysterious masked beauty, Noir!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Haru",
+    "en": "Beauty Thief takes the stage! I've come{SAUT}to steal your hearts!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Rise",
+    "en": "Next, we have the mechanical{SAUT}beauty herself, Aigis!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Aigis",
+    "en": "I am going full-auto on all of your{SAUT}hearts!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Rise",
+    "en": "And moving on, we have this mysterious{SAUT}bear costume! Who could be inside!?{SAUT}Take it away, Teddie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Teddie",
+    "en": "Adorable bear on the outside, but on{SAUT}the inside...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Teddie",
+    "en": "Ta-da! Gimme your hearts!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Rise",
+    "en": "Yeah, I'm likin' the diversity here. You{SAUT}guys look great!{PAGE}Now if we can just take this to the main{SAUT}stage and get the people's attention...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Excited boy",
+    "en": "Hey, look! Someone popped out of that{SAUT}bear suit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Curious girl",
+    "en": "Hey, Daddy! What's that teddie bear{SAUT}doing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Middle-aged garbage man",
+    "en": "What's goin' on here? That bear{SAUT}costume for some kind of event?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "Huh? We're already drawing a crowd?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Haru",
+    "en": "Looks like you caught their attention,{SAUT}Teddie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Rise",
+    "en": "Sheesh, you stand out too much,{SAUT}Teddie! I guess your act really does draw{SAUT}people in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "Oho, really now...? In that case, have{SAUT}I got a treat for you!{PAGE}I give you a present from the beauty{SAUT}brigade! Snacks for everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Teddie",
+    "en": "And awaaay they gooo! Wooohooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Curious girl",
+    "en": "Wow! This is amazing! It's raining{SAUT}snacks!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Calm man",
+    "en": "Wow, is there a festival today?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Happy lady",
+    "en": "Ahaha, I can't remember the last time I{SAUT}had fun like this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Rise",
+    "en": "Wow, a ton of people are showing up!{PAGE}Those snacks just keep coming... Teddie,{SAUT}how much do you have in there!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Haru",
+    "en": "*giggle* They all look so happy.{PAGE}Let's help hand out the snacks,{SAUT}Aigis-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Aigis",
+    "en": "Understood. I will take the snacks and{SAUT}go full-auto on the townspeople.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Rise",
+    "en": "Wait, don't do that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Haru",
+    "en": "Phew... It's finally over. Everyone looked{SAUT}like they had a really good time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Teddie",
+    "en": "Everyone was so happy! Do you think{SAUT}they're all cheered up now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Rise",
+    "en": "Yeah, it didn't turn out exactly how I{SAUT}pictured it, but... I think this one was all{SAUT}thanks to Teddie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Teddie",
+    "en": "Yeees! Does that mean I'm one of you{SAUT}now? Is it time for girl talk?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Rise",
+    "en": "Sure, sure, we'll get to that later.{SAUT}Head on back to the theater, guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Aigis",
+    "en": "Understood, beginning return journey.",
+    "fr": ""
+  }
+]

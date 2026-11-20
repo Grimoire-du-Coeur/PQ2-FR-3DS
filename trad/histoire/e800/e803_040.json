@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kanji",
+    "en": "Hah! Two down! Gonna need to do a lot{SAUT}better than that if you wanna beat us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Hmhm, he's got a lot of spirit. It's almost{SAUT}like having another Skull on the team.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Hey, I'm nothin' like him... I ain't some{SAUT}thug.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "He's actually the serious type.{OPTION}A delinquent, then?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Wha―? I ain't serious!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "He may not look it, but it's true...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Who you callin' a delinquent!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "Well, he is pretty violent, I can see how{SAUT}people would misjudge him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "He really does care about his friends.{SAUT}He just gets angered a little too easily.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Sh-Shut up! Let's just get this crap over{SAUT}with!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Rise",
+    "en": "Haha, aw, are you embarrassed?{PAGE}It looks like you two have more in{SAUT}common than we thought. Right, Kanji?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Kanji",
+    "en": "......{PAGE}I ain't nothin' like him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Kanji",
+    "en": "Let's just drop it and keep movin'. Lead{SAUT}the way, Joker.{PAGE}I'll floor the next one in no time!{SAUT}Just watch!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Huh? Like hell you will! That's my job! ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "C'mon, guys! Quit wasting time! At this{SAUT}rate, the Shadow's gonna catch a cold{SAUT}out here in his skivvies!{PAGE}Either way, this one'll be the last of 'em!{SAUT}Check the map and get going!",
+    "fr": ""
+  }
+]

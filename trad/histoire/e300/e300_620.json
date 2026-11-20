@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "The credits? Does that mean...{SAUT}the movie's over?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "Well, that was the case with the others...{SAUT}but... this ending was...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Nagi",
+    "en": "Hikari-san... What did you think{SAUT}of the movie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "I... figured out that I'm just like{SAUT}Ribbon-chan.{PAGE}I've had to blend in with everyone{SAUT}around me... I believed it was bad{SAUT}to be different.{PAGE}That's why I thought I had to deny{SAUT}who I really am...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Nagi",
+    "en": "Is that so?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "That's how the robots thought, too...{SAUT}Individuality was only a problem{SAUT}to them.{PAGE}You're supposed to be the same as{SAUT}everyone else―that's what I kept{SAUT}telling myself.{PAGE}Ribbon-chan chose to change...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "But, because she changed, she...{PAGE}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "...Doe.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Fuuka",
+    "en": "Eek!? R-Rise-chan! What's that behind{SAUT}you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Rise",
+    "en": "Oh, right―this is your first time seeing{SAUT}him.{PAGE}Well, that's Doe... He's the one playing{SAUT}all the weird movies.{PAGE}He doesn't talk, and we don't get any{SAUT}sort of Shadow reading from him, so{SAUT}it seems like he's not an enemy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Nagi",
+    "en": "Doe is indeed a mystery to us, but...{PAGE}Just to be safe, it's a good idea to{SAUT}maintain your distance from him{SAUT}so you don't provoke him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Fuuka",
+    "en": "O-Okay... I can do that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Rise",
+    "en": "Hey, look! The movie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Fuuka",
+    "en": "Huh...? Oh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Rise",
+    "en": "It's not really over yet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Hikari",
+    "en": "Huh!?",
+    "fr": ""
+  }
+]

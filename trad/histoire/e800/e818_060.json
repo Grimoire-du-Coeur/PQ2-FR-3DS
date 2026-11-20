@@ -1,0 +1,146 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "Looks like we have everything we need!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "Good job, everyone!{PAGE}Let's head back to the theater and{SAUT}report to Elizabeth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "You did a good job too,{SAUT}{f 6 1 27 0 0 0}. Are you doing{SAUT}okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha, yep. Doing just fine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "Oh, I mean like... I know you've had a{SAUT}hard time since you were first brought{SAUT}here...{PAGE}You've got it harder than everyone else{SAUT}here, but you're also the brightest and{SAUT}most uplifting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Well, right now, I have no role as a{SAUT}leader, so it's really all I can do.{PAGE}I'd have nothing if you took that away.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "It's helping a lot.{OPTION}That's really important.{OPTION}You're the life of the party.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Junpei",
+    "en": "F'sho. If you're feelin' depressed, then{SAUT}the rest of us are gonna feel down too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukari",
+    "en": "Mm-hm. Unlike someone else I know,{SAUT}you actually do a good job.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Fuuka",
+    "en": "I think keeping the party lively is very{SAUT}important.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "You're going to make me blush...{PAGE}I'm just trying to do my part for the{SAUT}team...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akihiko",
+    "en": "Hey, {f 6 1 27 0 0 0}, you got a sec?{SAUT}Mitsuru's calling for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Be right there.{PAGE}I'll leave the materials to you guys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "Still feels like there's some distance{SAUT}between us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Fuuka",
+    "en": "It sounded like she was being modest{SAUT}earlier too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Junpei",
+    "en": "Isn't there some kinda magic item or{SAUT}somethin' that brings hearts closer{SAUT}together?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Magic item?{OPTION}How about a present?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Junpei",
+    "en": "Uh, that was just an example...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yukari",
+    "en": "Oh, that's it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Fuuka",
+    "en": "What is it, Yukari-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukari",
+    "en": "It's good to show your teammates you{SAUT}appreciate them every once in a while,{SAUT}right?{PAGE}Huddle up, guys... I say we... Then we...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Junpei",
+    "en": "Uh-huh, okay... You're quite the{SAUT}schemer, Yuka-tan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Fuuka",
+    "en": "*giggle* I can't wait to see her{SAUT}reaction.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yukari",
+    "en": "We should hurry up and give these to{SAUT}Theodore.{PAGE}C'mon, everyone, let's go.",
+    "fr": ""
+  }
+]

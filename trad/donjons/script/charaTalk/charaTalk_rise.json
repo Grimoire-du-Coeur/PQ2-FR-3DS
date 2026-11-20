@@ -1,0 +1,169 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "A Treasure Spot! You gonna check it out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "Yeah! Better safe than sorry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "Yeah, let's get all the stuff we can carry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "Backing off, got it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Rise",
+    "en": "That's all, folks!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "We got something!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Awesome!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Yay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Rise",
+    "en": "That last Shadow didn't know what hit{SAUT}it! At least, I hope it was the last one...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Oooh, a rarity!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "That one's nice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "There we go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Rise",
+    "en": "I've spotted a shortcut! Are you going{SAUT}through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Rise",
+    "en": "I've spotted a shortcut! Are you going{SAUT}through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Rise",
+    "en": "Can't go through that way. But check{SAUT}the other side!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Rise",
+    "en": "Wait! Be careful, there's something{SAUT}really dangerous there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Rise",
+    "en": "All right. I'll do everything I can to{SAUT}provide support!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Rise",
+    "en": "All right, then. Back it up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Rise",
+    "en": "Are you guys okay!? That was one{SAUT}strong Shadow. Well done, though!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Rise",
+    "en": "I'm picking up multiple Shadows here!{SAUT}If you insist on searching it, stay alert!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Rise",
+    "en": "All right, but please be careful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Rise",
+    "en": "Roger that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Rise",
+    "en": "Nice work, guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Rise",
+    "en": "That leads back to the movie theater!{SAUT}Are you coming back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

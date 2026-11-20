@@ -1,0 +1,206 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh? Was I sleeping?{PAGE}Oh, right, I was studying. I guess I{SAUT}ended up falling asleep...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "I feel like I just had some dream, but...{SAUT}Hm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari's voice",
+    "en": ", you in there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, uh―yeah! What is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "Oh, you ARE here! Great!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": ", did you zone out{SAUT}enough to drool on yourself?{PAGE}Hahaha, you're such a Space Detective!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "Say what!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Junpei",
+    "en": "Just kidding!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukari",
+    "en": "Are you stupid or something?{PAGE}...Seriously, are you THAT stupid?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "Man, Yuka-tan, your riposte is as sharp{SAUT}as ever!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ken",
+    "en": "Were you really napping in here? That's{SAUT}kind of surprising.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akihiko",
+    "en": "Hey, what's the holdup?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Shinjiro",
+    "en": "This guy wouldn't shut up about findin'{SAUT}you... So we came to get you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Fuuka",
+    "en": "Everyone, our drinks are going to get{SAUT}cold if we don't get back downstairs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Mitsuru",
+    "en": "Takeba, have you prepared the{SAUT}snacks?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukari",
+    "en": "Oh yeah. You know it!{PAGE}I've got cookies, chocolate, and{SAUT}a whole bunch of popcorn.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "I never took you for the popcorn type,{SAUT}Yuka-tan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yukari",
+    "en": "Shut it. I get a craving sometimes―so{SAUT}what!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Aigis",
+    "en": "It seems that we are all ready.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Koromaru",
+    "en": "Bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Fuuka",
+    "en": "-chan? What's wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Shinjiro",
+    "en": "You seem pretty out of it... You got{SAUT}a fever or somethin'?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh no, it's just... I feel like I'm finally{SAUT}home...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Aigis",
+    "en": "Hm? Whatever do you mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha... I dunno.{PAGE}But, I do wonder... I feel like I've been{SAUT}wanting to see you guys for a long time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yukari",
+    "en": "Did you have a bad dream{SAUT}or something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P3 Fem Protag",
+    "en": "Umm, I don't think that's it...{PAGE}Anyways―what's going on, everyone?{SAUT}Did you need something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Fuuka",
+    "en": "Mmhm. We've all been talking about{SAUT}watching a movie together downstairs...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Aigis",
+    "en": "Our Boss has given us the greenlight to{SAUT}do so. You go, girl!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Mitsuru",
+    "en": "...I've been wondering this for quite{SAUT}some time now, but where in the world{SAUT}do you learn such language?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ken",
+    "en": "You'll watch it with us, won't you?{SAUT}It's a sci-fi movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P3 Fem Protag",
+    "en": "Watch a movie? A... sci-fi movie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yukari",
+    "en": "Yep! C'mon, let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "P3 Fem Protag",
+    "en": "...Sure!",
+    "fr": ""
+  }
+]

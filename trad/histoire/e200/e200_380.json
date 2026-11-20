@@ -1,0 +1,379 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Junessic Land, Isle's End...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "We finally caught up with 'em!{SAUT}Hey, dinos!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "Geez, what's their deal?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "Hrmm, their bearhavior is quite{SAUT}unusual... Is something wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosukesaurus",
+    "en": "...It's not here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "Huh? You're all depressed because{SAUT}you lost something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Sulky herbivore",
+    "en": "Of course not. It's the paradise for{SAUT}herbivores... It was all made up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "Hold on a moment―this is where your{SAUT}paradise is supposed to be!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "It appears to be an empty, walled-in lot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "Well, did you guys look at the directions{SAUT}again? Maybe this is the wrong place...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosukesaurus",
+    "en": "I checked the book when we got here!{SAUT}This is the exact spot they wrote about!{PAGE}We've been everywhere on this island,{SAUT}and still haven't found our paradise...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "Maybe there's a hidden path.{OPTION}Did you try the secret password?{OPTION}I guess it's time to give up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "Yeah, what he said. Maybe there's{SAUT}a hidden passage that takes you{SAUT}somewhere else.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "So there's a secret word that we have{SAUT}to guess? Do we get any hints?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yukiko",
+    "en": "No, Chie―the secret password's always,{SAUT}\"open sesame\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "Um... Not to rain on your parade, but{SAUT}it seems there isn't anything here for us{SAUT}to provide a password.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "What's wrong with you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Rise",
+    "en": "It's no use... We checked all over{SAUT}the area, but it looks like this is{SAUT}nothing but a dead end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Even when we expanded our range,{SAUT}we didn't see anything like a paradise.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Loud herbivore",
+    "en": "What a \"paradise\" this is... Don't make{SAUT}me laugh! We've been tricked―we've{SAUT}all been had!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Sulky herbivore",
+    "en": "...Aren't you the one who sold us{SAUT}on this \"quest\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosukesaurus",
+    "en": "Wha―Me!?{PAGE}But, all I did was read about it in some{SAUT}human book...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Sulky herbivore",
+    "en": "You dragged us all into this mess, and{SAUT}now you're trying to pass the blame!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yosukesaurus",
+    "en": "None of you exactly shot down the idea!{SAUT}You said, \"If there's a paradise for us,{SAUT}we'll go!\"{PAGE}That's why we've all been risking our{SAUT}lives to―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Stubborn herbivore",
+    "en": "That's right! The life of the entire herd{SAUT}is at risk out here, and it's your fault!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yosukesaurus",
+    "en": "But that's―That's because I thought{SAUT}it'd be best for us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Sulky herbivore",
+    "en": "Let's begin the vote!{PAGE}All those who believe it's his fault that{SAUT}we were put in danger, raise your hand!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Nervous herbivore",
+    "en": "So, uh... How should we vote?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Timid herbivore",
+    "en": "I-If you're all saying it's his fault... then{SAUT}I guess I think so, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yosukesaurus",
+    "en": "No... But I―You gotta hear me out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Sulky herbivore",
+    "en": "Looks like it's unanimous. So...{PAGE}All those who think we should kick him{SAUT}out for endangering the herd, raise your{SAUT}hand!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Loud herbivore",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Nervous herbivore",
+    "en": "Yes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Timid herbivore",
+    "en": "...Y-Yes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Yosukesaurus",
+    "en": "W-Wait a sec!{PAGE}If you all kick me out... what am I{SAUT}supposed to do!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Loud herbivore",
+    "en": "This herd has always followed the{SAUT}majority rule. Don't you remember?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Nervous herbivore",
+    "en": "Wh-When we were attacked by that{SAUT}carnivore, you went along with the vote{SAUT}that time...{PAGE}And... this isn't any different... right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Ryuji",
+    "en": "Back off the guy! What're you all{SAUT}baggin' on him for, anyways!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "P4 Hero",
+    "en": "I can't believe this... There's no way{SAUT}this is how they should handle their{SAUT}problems.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_042",
+    "choix": true,
+    "en": "We need to intervene.{OPTION}This is wrong.{OPTION}Let's just leave them be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Yosuke",
+    "en": "Yeah, let's hurry up and stop them―he's{SAUT}about to get kicked outta the herd!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Naoto",
+    "en": "I agree with Joker―let's jump in and{SAUT}put a stop to this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Yosuke",
+    "en": "A-Are you kidding?{PAGE}Sorry, but... I just can't ignore this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Yosuke",
+    "en": "Hang on a second! Aren't you guys all{SAUT}part of the same group?{PAGE}All you're doing is voting based on{SAUT}what others might think―THAT'S how{SAUT}you decide your majority rule!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Timid herbivore",
+    "en": "W-Well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Sulky herbivore",
+    "en": "We're defenseless prey! We'll never{SAUT}survive if we don't stick together and{SAUT}act together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Loud herbivore",
+    "en": "Can you even understand what it feels{SAUT}like to live in constant fear of carnivores?{PAGE}Those who behave selfishly need to be{SAUT}kicked out. That's the only way we can{SAUT}survive!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Naoto",
+    "en": "We understand what you're saying...{PAGE}However, you are capable of more{SAUT}methods of self-preservation besides{SAUT}casting out your troublemakers.{PAGE}Wouldn't it be better to choose a means{SAUT}of survival in which no one is sacrificed?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Loud herbivore",
+    "en": "Okay, and what means are those!?{PAGE}It's not like we want to do it... This is the{SAUT}only way we can protect ourselves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Sulky herbivore",
+    "en": "Y-Yeah! If we obey the majority decision,{SAUT}then we know we've done the right{SAUT}thing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Nervous herbivore",
+    "en": "A-Also... weren't you pretty friendly{SAUT}with those humans?{PAGE}All this happened because you believed{SAUT}in a human book, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Yosukesaurus",
+    "en": "I... I didn't mean for this to happen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Loud herbivore",
+    "en": "That doesn't matter―it's already{SAUT}decided. We took a vote, and the{SAUT}majority says to kick you out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Yosukesaurus",
+    "en": "N-No, please! I don't wanna be alone...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Sulky herbivore",
+    "en": "If you're so adamant on not being{SAUT}kicked out, then prove that you're{SAUT}really on our side here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Loud herbivore",
+    "en": "Humans are the ones who deceived us{SAUT}into coming here, with that awful book!{PAGE}If you're of the same opinion, then{SAUT}shouldn't you be able to make those{SAUT}humans there pay for it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Yosukesaurus",
+    "en": "Wha―Make them... make them pay!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Ann",
+    "en": "Hey, where'd you get that idea!? That{SAUT}book has nothing to do with us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Sulky herbivore",
+    "en": "If you want to rejoin our herd, you have{SAUT}to prove that you fit in with us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Yosuke",
+    "en": "Dammit, this is so stupid!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Yosukesaurus",
+    "en": "I... I, ah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Morgana",
+    "en": "Hey, keep it together―don't just make{SAUT}yourself agree with them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Yosukesaurus",
+    "en": "No... I don't wanna be abandoned...{PAGE}I didn't do anything wrong! It's―{SAUT}It's all because you humans went and{SAUT}stuck your stupid noses into this!",
+    "fr": ""
+  }
+]

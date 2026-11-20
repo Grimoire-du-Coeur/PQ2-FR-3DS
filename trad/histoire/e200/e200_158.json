@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "Those two seem so dependable. I was{SAUT}rather surprised at first with their...{SAUT}divergent personalities.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Yes, I appreciate their support. It{SAUT}should really improve our odds in{SAUT}combat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "Alright, that means the exploration's{SAUT}only gonna go better from here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Mmhm! It'll make searching for Yosuke{SAUT}easier too, so why don't we pop back{SAUT}in there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P4 Hero",
+    "en": "Hang on... I have a suggestion first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Hm? What is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "It seems like you all know more about{SAUT}this world than we do...{PAGE}Would it be all right if we asked your{SAUT}leader, {f 6 1 30 0 0 0}, to command us{SAUT}as well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "Confusion about the chain of command{SAUT}is a common cause of defeat. I think such{SAUT}a decision would be very wise.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P4 Hero",
+    "en": "How about it? Won't you accept the{SAUT}leader role?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "All right.{OPTION}Leave it to me.{OPTION}I don't know...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "Thanks for your help. We'll do our{SAUT}best out there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Chie",
+    "en": "Ohhh! He's just as dependable{SAUT}as our leader!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "What's there to think about? I know{SAUT}you'd crush it as our overall leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Makoto",
+    "en": "I think you're best suited as well.{SAUT}There's no need for concern.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "That settles the matter.{PAGE}From here on, we leave the commands{SAUT}to you, {f 6 1 30 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Teddie",
+    "en": "Now that we've wrapped that up, let us{SAUT}venture forth into the movie! Here we{SAUT}gooooo!",
+    "fr": ""
+  }
+]

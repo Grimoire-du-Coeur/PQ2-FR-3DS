@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "This place seems to have been left intact.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Indeed. However, I suspect it's only{SAUT}a matter of time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Congratulations, everyone.{PAGE}My word, that was truly a breathtaking{SAUT}finale. Bravo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "M-Miss Elizabeth!? Your clothes are{SAUT}back to normal?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Theodore",
+    "en": "The roles we have filled here will be{SAUT}reaching their conclusions quite soon.{PAGE}More importantly, I must share how{SAUT}impressed I am with you all. You've seen{SAUT}this film festival through to the end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Caroline",
+    "en": "Tell me about it... Finally, we can return{SAUT}to our usual duties.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Justine",
+    "en": "That's right. We must make up for the{SAUT}lost time...{PAGE}But for now, I will make a one-time{SAUT}exception and praise you, Inmate:{SAUT}well done.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "It wasn't anything special.{OPTION}I guess it was pretty impressive.{OPTION}More praise, please.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Caroline",
+    "en": "Hmph, a respectable reply... Keep{SAUT}that attitude up while you focus on{SAUT}your rehabilitation, Inmate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Caroline",
+    "en": "Hmph, don't get cocky! Know your{SAUT}place, Inmate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Caroline",
+    "en": "Don't press your luck, Inmate!{SAUT}Even a pig can fly if heated up{SAUT}enough!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Junpei",
+    "en": "\"E-Even a pig can fly\"? Is that supposed{SAUT}to be some kinda threat?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akihiko",
+    "en": "Pork is a source of protein that's chock-{SAUT}full of Vitamin B1. Doesn't that mean{SAUT}she's actually praising him?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Justine",
+    "en": "Caroline, isn't the proper expression,{SAUT}\"Even a pig can climb a tree if cheered{SAUT}on enough?\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Caroline",
+    "en": "Sh-Shut up! You know what I mean!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukari",
+    "en": "So, can we really, really go home this{SAUT}time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Shinjiro",
+    "en": "How are we doin' that, anyway? There{SAUT}ain't any other exits here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Theodore",
+    "en": "There's no cause for concern―over here,{SAUT}please.",
+    "fr": ""
+  }
+]

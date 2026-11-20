@@ -1,0 +1,139 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Ch-Chie-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Whoa! Y-You scared me...{PAGE}What's up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Er, um... This might sound kinda weird,{SAUT}asking this out of nowhere, but...{PAGE}Can you teach me kung fu!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Kung fu? I guess I could... Wait!{PAGE}Ann-chan, are you a kung fu movie buff{SAUT}too!?{PAGE}Oh, oh, oh! What's your favorite Trial of{SAUT}the Dragon? It's hard to choose, but... I{SAUT}think mine's the first one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "...Trial of the Dragon? Sorry, I don't{SAUT}really know what that is.{PAGE}I was just watching you fight,{SAUT}and I thought you looked really cool...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "C-Cool!? Me!?{PAGE}No way! You're way cooler than me,{SAUT}Ann-chan. How do I get a body like{SAUT}yours? Is it your diet?{PAGE}Do you eat meat? Please tell me you eat{SAUT}meat and not just a bunch of leaves...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Leaves...?{PAGE}Well, I guess diet is important, but I also{SAUT}really like stuff with whipped cream...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "Then, do you work out?{PAGE}Oh, I get it! Yeah, you Phantom Thieves{SAUT}are always zipping around like crazy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Yeah, that's true. I guess I do get pretty{SAUT}worn out from that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "I knew it!{PAGE}Okay, how about you teach me to move{SAUT}like you do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Huh!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Chie",
+    "en": "And, in return, I'll teach you kung fu.{PAGE}That way, we'll both learn each other's{SAUT}secrets to being cool. What do you think?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "Sounds like fun.{OPTION}It's a deal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "-kun!? When did you get{SAUT}here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Umm, he's been here the whole time...{PAGE}Anyway, if that's all you want to know,{SAUT}then I'd be happy to teach you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "Ooh, that sounds so phantom thief-y...{SAUT}So cool...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "Hehe. Looks like we're both getting{SAUT}what we want.{PAGE}If that's all you want to know, then I'd{SAUT}be happy to teach you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "All right, so in exchange for me teaching{SAUT}you kung fu...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "I'll teach you how to move like a{SAUT}phantom thief. It's a deal!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Chie",
+    "en": "Okay, where should we practice?{SAUT}The only real way to learn this stuff is{SAUT}to go out and do it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yosuke",
+    "en": "Heyyy! Elizabeth says she's got a new{SAUT}special screening.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Chie",
+    "en": "Got iiit! We'll be right over!{PAGE}We can figure the rest out later, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "en": "A new special screening:{SAUT}\"Kung Fu Catwalk!\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

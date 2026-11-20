@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "We really CAN use our Personas here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Since we're still in phantom thief attire,{SAUT}does that mean this place is still inside{SAUT}Mementos?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Except, we couldn't use our guns.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Right, they turned into ordinary{SAUT}model guns.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "For real? Maybe it's just yours―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Wait, what―mine too!?{PAGE}So we can use our Personas, but not our{SAUT}guns? What the hell's up with this place?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "There's no cognitive effect here?{OPTION}We're still in Mementos.{OPTION}I'm not sure...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "That appears to be the case―but if so,{SAUT}where exactly have we gone?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "But, since our guns don't work, doesn't{SAUT}that mean we're not somewhere{SAUT}in Mementos?{PAGE}Could this place possibly be unaffected{SAUT}by cognition?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Hey―I'm sensing another Shadow!{SAUT}It's headed this way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "There are more here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "That's not all―this one's a lot different{SAUT}from those scrubs... It seems way more{SAUT}dangerous.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "What the―What's going on here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "I dunno, but we should avoid contact{SAUT}with it.{PAGE}I'll navigate―here, head in the direction{SAUT}where there aren't any Shadows!",
+    "fr": ""
+  }
+]

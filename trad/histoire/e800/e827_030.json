@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Hero",
+    "en": "Doesn't look like there are a lot{SAUT}around here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, not here either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "Excuse me, but I was wondering...{PAGE}Are you two really such big eaters?{SAUT}I would never have guessed...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, I don't know. I've never thought{SAUT}of myself as one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Whoa, whoa, man. Anyone who can{SAUT}finish Aiya's Mega Beef Bowl is{SAUT}definitely some kind of monster...{PAGE}That thing's loaded with five times{SAUT}the beef, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "The only ones who can finish it are{SAUT}{f 6 1 13 0 0 0}-kun, or maybe Chie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "Now that was a battle...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Hero",
+    "en": "Huh. Sounds pretty impressive.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "Hey, look who's talking! You eat{SAUT}like a horse too, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukari",
+    "en": "Extra noodles in your ramen, speed-{SAUT}eating takoyaki... I think you've got a{SAUT}reputation at Paulownia Mall.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Aigis",
+    "en": "Your intake exceeds your body's{SAUT}estimated capacity, yet your vitals{SAUT}and expression indicate no difficulty.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Those two really are amazing...{SAUT}No wonder the blue crew's all over{SAUT}them.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "They're unbeatable.{OPTION}I'm on their level.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Huh? But you actually beat the{SAUT}Big Bang Challenge, didn't you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "Wait, you too!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "Now that I think about it, you did beat{SAUT}the Big Bang Challenge...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Haru",
+    "en": "I'd say it takes quite a bit of guts{SAUT}to finish that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Kanji",
+    "en": "Huh. So your leader's the same way?{PAGE}I guess if you wanna be the boss,{SAUT}you gotta eat tons of food?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "C'mon, no way... Eating's just about{SAUT}how big your stomach is, right?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "It's about guts.{OPTION}It's about knowledge.{OPTION}It's about proficiency.{OPTION}It's about kindness.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P4 Hero",
+    "en": "Right. To eat well, you need{SAUT}understanding of your limits,{SAUT}knowledge to control your pace...{PAGE}The courage to face an unrelenting tide{SAUT}of food, and the diligence to persevere{SAUT}against a colossal challenge.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Aigis",
+    "en": "Those are precisely the skills necessary{SAUT}to be a leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yosuke",
+    "en": "Oh. Uh... okay. Sorry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P4 Hero",
+    "en": "Don't worry about it. Let's find the{SAUT}parts we need.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Hero",
+    "en": "Yeah. Let's keep moving.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Mitsuru",
+    "en": "So a ravenous appetite is the key{SAUT}to true leadership...? Fascinating...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Junpei",
+    "en": "Uh, I dunno if you wanna use these{SAUT}guys as reference for that...",
+    "fr": ""
+  }
+]

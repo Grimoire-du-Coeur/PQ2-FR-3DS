@@ -1,0 +1,247 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukiko",
+    "en": "We're back with some herbs. Hang on{SAUT}just little bit longer, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Young herbivore",
+    "en": "*whimper*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "en": "We ground the herbs and treated the{SAUT}young dinosaur...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "There we go. He should feel better soon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Young herbivore",
+    "en": "Kyu!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Hehe, looks like you're all better now.{SAUT}Way to hang in there, Kyubei.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Young herbivore",
+    "en": "Kyu, kyu, kyu!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "When did you name him!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P4 Hero",
+    "en": "I still don't see his mother though.{PAGE}We could ask Margaret to look after{SAUT}him, but...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Let's keep looking.{OPTION}Let's pull back for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "Right, we can't just leave him here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "I don't want to leave him here. I say we{SAUT}look around a little more.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Hey, wait a sec! That voice...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "It's faint, but I hear it as well. Could it{SAUT}be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Young herbivore",
+    "en": "Kyuuu!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Mother herbivore",
+    "en": "Rrrr!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Makoto",
+    "en": "That must be his mother... I'm glad they{SAUT}found each other.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yukiko",
+    "en": "They look so happy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Haru",
+    "en": "Mhm, Kyu-chan seems much better{SAUT}now. It looks like all he really wanted{SAUT}was to be near his mother.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "......{PAGE}In reality, I guess every parent worries{SAUT}about their child...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Haru",
+    "en": "Yukiko-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yukiko",
+    "en": "Oh, um... I'm sorry.{PAGE}I just got this strange feeling watching{SAUT}them...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Haru",
+    "en": "Strange feeling?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yukiko",
+    "en": "When I was little, I never had a hard{SAUT}time being honest about my feelings.{PAGE}I didn't worry about anything, and{SAUT}I was able to have fun everyday.{PAGE}But, one day, things got complicated{SAUT}between my family and...{PAGE}I wasn't able to be honest with my{SAUT}feelings anymore―like how Kyubei's{SAUT}being right now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Haru",
+    "en": "Oh... You know, Yukiko-chan, I'm just{SAUT}like you.{PAGE}I hated being tied down to the house{SAUT}rules. I would tell myself I wasn't going{SAUT}to let my parents push me around...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yukiko",
+    "en": "You too, Noir? I had no idea...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Haru",
+    "en": "But I noticed something.{PAGE}Perhaps tying me down was their way{SAUT}of showing that they loved me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yukiko",
+    "en": "You really think so?{PAGE}But... I still want to make my own{SAUT}decisions.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Haru",
+    "en": "Of course. I think that's great. You{SAUT}shouldn't have to lie to yourself and give{SAUT}in to what everyone says.{PAGE}Even if you think differently than them,{SAUT}I'm sure they'd be happy to see you{SAUT}follow what you believe in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yukiko",
+    "en": "Yeah... You're right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Young herbivore",
+    "en": "Kyu!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yukiko",
+    "en": "Hm? What is it, Kyubei?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Haru",
+    "en": "It looks like he's carrying something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yukiko",
+    "en": "A stone? It's beautiful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Chie",
+    "en": "Maybe it's to say thanks for all the help?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yukiko",
+    "en": "Oh... Thank you, Kyubei.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Young herbivore",
+    "en": "Kyu, kyu!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Haru",
+    "en": "Don't get lost anymore, all right? Take{SAUT}good care of yourself, Kyu-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Young herbivore",
+    "en": "Kyu!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Chie",
+    "en": "Wow, they actually understand him!{SAUT}Those two are amazing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Morgana",
+    "en": "Guess that's it for now. Let's head back.",
+    "fr": ""
+  }
+]

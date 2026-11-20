@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Kanji",
+    "en": "Awesome. They really were hidin'{SAUT}under the leaves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "*giggle* Pretty surprising, actually.{SAUT}I've never seen ones this big before.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "Ahh! Don't bring it any closer with{SAUT}that pretty smile on your face!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "The hell, Teddie? You can't handle a{SAUT}little worm?{PAGE}Wait a sec, what's wrong with you guys?{SAUT}Yer all so far away...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "Ahaha... I'm not the biggest fan of{SAUT}those things...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Y'know, there are others here who'd{SAUT}be better for this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "I get it. They are kind of gross when you{SAUT}see them up close.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "I'm on it.{OPTION}I don't like bugs either...{OPTION}Want a bite, Mona?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Nice, Joker. You didn't hesitate one bit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "You can depend on someone who's{SAUT}quick to act like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "But you still put your hand in that pile{SAUT}of leaves. That was pretty brave...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "Of course. He is the leader of the{SAUT}Phantom Thieves, after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "No way! Don't treat me like some stray!{SAUT}Hey, get that thing away from me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "Always the first to act... I'd expect{SAUT}nothing less.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "Hm? What's up, partner?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P4 Hero",
+    "en": "Nothing... Well, it looks like we found{SAUT}some, but is this enough?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Haru",
+    "en": "Hmm... It looks like less than what we{SAUT}hoped for.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Kanji",
+    "en": "No problem! Senpai could catch a fish{SAUT}using nothin' but his will if he really{SAUT}wanted to!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Really?{OPTION}They're counting on you.{OPTION}So can I!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P4 Hero",
+    "en": "I appreciate the vote of confidence,{SAUT}but I don't think it's possible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P4 Hero",
+    "en": "I'm glad to hear that, but I don't think{SAUT}it's possible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "What...? To think they've both become{SAUT}such incredible fishermen...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "I appreciate the sentiment, but I{SAUT}don't think it's possible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Haru",
+    "en": "Well then, perhaps we can continue the{SAUT}search somewhere else.{PAGE}I'm sure there are other places with{SAUT}leaves like this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "Right, then let's keep looking.{PAGE}We'll find more leaves at the other{SAUT}Treasure Spots. Let's go!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Caroline",
+    "en": "There you are, Inmate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Justine",
+    "en": "Is something the matter?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Something seems off...{OPTION}Did you redecorate in here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Caroline",
+    "en": "What are you talking about? It's the{SAUT}same as always in here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Margaret",
+    "en": "Perhaps it's due to Marie not being{SAUT}present?{PAGE}She's running a small errand at{SAUT}the moment, but she should be{SAUT}back shortly.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "An errand?{OPTION}Where did she go?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Margaret",
+    "en": "Oh, it's nothing at all important.{PAGE}She seemed rather bored, so I sent her{SAUT}to assist Theo with some shopping.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "......?{PAGE}There's something lying on the floor...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Caroline",
+    "en": "Hm? What's that paper you have there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Justine",
+    "en": "Is that... some stationery?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Margaret",
+    "en": "Oh, is that Marie's? She does that every{SAUT}now and then... *chuckle*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "It seems this stationery belongs to{SAUT}Marie...{PAGE}Something's been vigorously{SAUT}scrawled on it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Marie",
+    "en": "\"To the Heartless\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Marie",
+    "en": "Crisis births opportunity!{SAUT}(DO YA GET ME!?){PAGE}Hate the odds? That's how it works!{SAUT}(BUY INTO IT!){PAGE}You hesitate? For what?{SAUT}(FOR WHOM!?){PAGE}Damned if you do!{SAUT}Damned if you don't!{SAUT}(DAMN IT ALL!){PAGE}But...{SAUT}You still better take care of yourself.{PAGE}Got it? (L-O-V-E)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "en": "......{PAGE}What exactly... is this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Marie",
+    "en": "Waaaaaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Marie",
+    "en": "*pant* *pant*{PAGE}Did―Did you read it!? Well!?{SAUT}DID YOU!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "I did.{OPTION}I didn't.{OPTION}I'm rather touched.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Marie",
+    "en": "ARE YOU FOR REAL?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Marie",
+    "en": "Oh no, you did read it! It's written on{SAUT}your face! L-I-A-R!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Marie",
+    "en": "YA MEAN IT!?{PAGE}Ah―That smirk on your face! I knew it,{SAUT}you L-I-A-R!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Marie",
+    "en": "It-It's not what you think! These are{SAUT}just words popping out of my head.{SAUT}They're not poems or anything like that!{PAGE}Why are you reading other people's{SAUT}stuff, anyway!? For what!? For whom!?{PAGE}C-Crisis births opportunity! Yeah, MY{SAUT}opportunity! MINE!{PAGE}......{PAGE}StupidnosyheartlessjerkDAMNYOU!{SAUT}If you go snooping through my pathos{SAUT}again, you'll be sorry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "en": "Marie is blushing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Caroline",
+    "en": "\"You still better take care of yourself\"?{PAGE}Or else what? Do you know, Justine?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Justine",
+    "en": "\"Damned if you do...\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Marie",
+    "en": "STOOOOOOP! Stop quoting, stop{SAUT}quoting, stop quoting!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Margaret",
+    "en": "*chuckle*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Marie",
+    "en": "Everyone's... so mean...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "en": "It looks like she really didn't want{SAUT}anyone to read that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Marie",
+    "en": "How did this even end up there...{SAUT}I don't understand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "en": "Marie returned to her usual spot,{SAUT}noticeably unsettled...",
+    "fr": ""
+  }
+]

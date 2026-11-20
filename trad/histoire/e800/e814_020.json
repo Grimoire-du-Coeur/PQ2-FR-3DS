@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "First, let's locate the dinosaur. Who{SAUT}knows what'll happen to it if we don't.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "Rise, do you sense it nearby?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "Hmm... One sec.{PAGE}Oh! I'm getting something small near{SAUT}here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "I just hope we don't run into some kinda{SAUT}carnivore...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "If that happens, you're the decoy.{SAUT}We'll help the dino.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "I don't wanna be a bear-ger and fries{SAUT}combo! You're coming with me,{SAUT}Yosuke!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "Good point. A dish does need a little{SAUT}something to add color―like parsley.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "So I'm just a garnish...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "That's a good idea. Not everyone likes{SAUT}the way animals smell either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Are you saying I stink!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "And if the dinosaur is wounded, we'll{SAUT}need to heal it as well.{PAGE}I'm not sure if medicine for humans will{SAUT}work, though... It's probably best if we{SAUT}use something else.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Makoto",
+    "en": "That's true. Hopefully we can find some{SAUT}herbs somewhere around here...{PAGE}But, first things first: we need to rescue{SAUT}that dinosaur.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Haru",
+    "en": "Let's hurry. I want to reunite it with its{SAUT}mom.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukiko",
+    "en": "Right, we can't leave it alone. Let's find{SAUT}it ASAP.",
+    "fr": ""
+  }
+]

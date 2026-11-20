@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "You guys! You found me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Is he with that herbivore we were trying{SAUT}to find!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Gaudy carnivore",
+    "en": "GRRRROOOOOOOAR!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Aaaaaah! Yosuke's gonna be swallowed{SAUT}whole if we don't do something!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "Senpai! We're comin' for ya!{PAGE}Hey―meat-eating chicken! Come and{SAUT}get us, dammit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Wait! That carnivore's insanely strong!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kanji",
+    "en": "Then what're we supposed to do!?{SAUT}Senpai's gonna get eaten!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P4 Hero",
+    "en": "If only we could lure that carnivore{SAUT}away from them...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, I know! Couldn't we use that thing?{PAGE}You know, the thing we found on our{SAUT}way here... It ought to take care of{SAUT}that carnivore!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "You mean the gate?{OPTION}You mean the rope?{OPTION}You mean the trap?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "That's right! We saw one that was left{SAUT}open!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "What are you, a dino wrangler!?{SAUT}We ain't got any rope!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukiko",
+    "en": "Hmm, a dino wrangler...{PAGE}Oh―maybe she meant that we could{SAUT}lead the carnivore to that electric gate?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Makoto",
+    "en": "That's right! We saw one that was left{SAUT}open!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Trap? I don't remember a trap...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akechi",
+    "en": "I believe {f 6 1 26 0 0 0}-san was{SAUT}referring to that electric gate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Makoto",
+    "en": "Oh, that's right! We saw one that was{SAUT}left open!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "So, all we gotta do is go there and{SAUT}trap it!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Let's go with that plan.{OPTION}How do we do that, though?{OPTION}You've got this, Skull.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Haru",
+    "en": "But how are we going to drive{SAUT}the carnivore beyond the gate?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "How? Well, we'll just... How ARE we{SAUT}gonna trap it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Yeah, I'll just―wait, don'tcha think{SAUT}that's a bit out of my league!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "Leave this to me! I've got a nice-sized{SAUT}rock right here, so I'll just take aim,{SAUT}and...{PAGE}Hey―eat THIS!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ann",
+    "en": "Wahhh! Did he just whip a rock at{SAUT}a carnivore!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Teddie",
+    "en": "And that's a perfect pitch! Did you all{SAUT}see my flawless technique!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Gaudy carnivore",
+    "en": "GWOOOOOOOOO!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Chie",
+    "en": "Aah! Didn't that just make it angrier!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Teddie",
+    "en": "I ticked it off on purpose so it'll come{SAUT}after us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yukiko",
+    "en": "Ah, so we're going with a decoy strategy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Rise",
+    "en": "Everyone, head back the way you just{SAUT}came! Run as fast as you can―past that{SAUT}gate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P4 Hero",
+    "en": "Looks like our mission's begun. Let's{SAUT}keep going until we rescue Yosuke!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Chie",
+    "en": "Gotcha! We have more important things{SAUT}to do than heading back to the movie{SAUT}theater, anyway!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Futaba",
+    "en": "Right―but you don't have much time!{SAUT}You have to run for it!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Great, another movie that leaves{SAUT}a bad taste in your mouth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Right? It was just the same as it was{SAUT}with Kamoshidaman―like it's making{SAUT}me feel kinda empty inside...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "It appears to be based on the principle{SAUT}of majority rule.{PAGE}The movie makes it pretty clear that{SAUT}whatever most people agree with is{SAUT}correct, and no other opinions are valid.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Whatever most people agree with, huh?{SAUT}That's not really our kinda thing.{PAGE}I mean, we USED to choose our targets{SAUT}based on their rep in society...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "Ryuji...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "But now, we know better.{PAGE}We exact our justice without being{SAUT}influenced by society's whims―that's{SAUT}how the Phantom Thieves do things.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_05",
+    "locuteur": "Yusuke",
+    "en": "Our methods aside―Hikari, is this{SAUT}movie the one that you need to see?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "...I don't know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "How about you, Nagi-san? Do you{SAUT}have any knowledge of this film?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Nagi",
+    "en": "No, none whatsoever.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hm... Hmmm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "What's up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh―well, it's not that big a deal...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011_5",
+    "locuteur": "P3 Fem Protag",
+    "en": "But, aren't normal dinosaur movies{SAUT}more like―BLAAAAM! Or, something{SAUT}like that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Yeah, yeah!{PAGE}And they're all like, GRAAAAAAAARH!{SAUT}And KA-BOOOOM!!! Right?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "GRAAAAAAAARH?{OPTION}KA-BOOOOM?{OPTION}They're also ROOOOOAAAAAAR.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "Ooh, yeah! And then it's all like,{SAUT}BOOMBOOMBOOMBOOM!!!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Makoto",
+    "en": "While I won't comment on the{SAUT}explanation, I get your meaning.{PAGE}A dinosaur that wants to save her{SAUT}companion, but can't speak up because{SAUT}of the majority opinion...{PAGE}This is supposed to be a dinosaur movie,{SAUT}but it's too realistic―as if we're watching{SAUT}the painful difficulties of human life.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Haru",
+    "en": "Mmhm―how anyone disrupting the{SAUT}peace is evil and everyone constantly{SAUT}worries how others feel and think...{PAGE}The same could be said about the{SAUT}Kamoshidaman movie too―why are{SAUT}the stories like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "This doesn't only apply to films, but{SAUT}creators include messages of some kind{SAUT}in their work quite often.{PAGE}In this case, I suppose the filmmakers{SAUT}are saying, \"Cast aside who you are and{SAUT}conform to what everyone else does...\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "What? Giving up on what you actually{SAUT}want to do for some bullshit like that?{SAUT}That's no different from just bein' dead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "I agree. No matter what those around{SAUT}me may say, I have no intention of ever{SAUT}giving up on art.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Haru",
+    "en": "Then again... I can kind of understand{SAUT}the feeling of having to go along with{SAUT}others...{PAGE}Had I not met you all, I would've just{SAUT}gone with what my company and{SAUT}the adults demanded of me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Hikari",
+    "en": "Was that movie... that odd?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Haru",
+    "en": "Huh? You didn't think anything was{SAUT}off about it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari",
+    "en": "I'm just curious why you're...{PAGE}Why do you feel so angry... or sad{SAUT}about it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ryuji",
+    "en": "Deep down, that dinosaur wants to save{SAUT}her bud, but no one's willing to help,{SAUT}so she can't... That's a real bummer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Hikari",
+    "en": "But her companions were opposed to{SAUT}the idea. If they tried to rescue that one,{SAUT}everyone else would be put in danger...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "Still, it's possible that they could get{SAUT}rescued―then everyone would be safe,{SAUT}right?{PAGE}I think it's nonsense to make decisions{SAUT}without even trying first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Hikari",
+    "en": "That's...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Nagi",
+    "en": "Hikari-san, if you believe the movie{SAUT}should remain as is, then I'm fine{SAUT}with it as well...{PAGE}However, I'd only support that decision{SAUT}if you truly want it. I don't want you to{SAUT}repress your true self.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Hikari",
+    "en": "My... true self? That movie... I...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_030",
+    "choix": true,
+    "en": "You're okay with how it is now?{OPTION}Don't you want a different ending?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Hikari",
+    "en": "At first, I thought it was fine as is...{SAUT}But, now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Hikari",
+    "en": "A different ending? I hadn't even{SAUT}thought of that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yusuke",
+    "en": "Well then, for example―if you were{SAUT}that dinosaur, what would you want{SAUT}to do, Hikari?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Hikari",
+    "en": "Me?{PAGE}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034_5",
+    "locuteur": "Hikari",
+    "en": "But... the other dinosaurs...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Futaba",
+    "en": "B-But i-if you lie to your own{SAUT}feelings... I-It'll just make things{SAUT}more painful!{PAGE}Ah... Um, I mean... That's how I was, so...{SAUT}S-Sorry...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Hikari",
+    "en": "Lie...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Futaba",
+    "en": "You saw how Kamoshidaman ended{SAUT}and you were glad how that went, right?{PAGE}So, um... Basically...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Hikari",
+    "en": "If it'll change again... If there's a different{SAUT}ending to this...{PAGE}I think―I do want to see that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Futaba",
+    "en": "Really!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Ryuji",
+    "en": "Alright! Then, leave it to us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040_5",
+    "locuteur": "Ryuji",
+    "en": "Hey, {f 6 1 30 0 0 0}? Let's change this{SAUT}movie, just like the first one!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_041",
+    "choix": true,
+    "en": "Yeah.{OPTION}We need to prioritize our escape.{OPTION}What does everyone else say?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Akechi",
+    "en": "I agree as well.{PAGE}I believe changing these movies will{SAUT}lead to our escape from here in the end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Akechi",
+    "en": "No, I think that changing these movies{SAUT}will be our fastest way to escape from{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Akechi",
+    "en": "Well, I agree with that plan, at least.{PAGE}I believe changing these movies will lead{SAUT}to our escape from here in the end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Morgana",
+    "en": "When we changed it, a key came out of{SAUT}Doe... You're banking on the same{SAUT}happening this time too, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Makoto",
+    "en": "That pattern hasn't been confirmed{SAUT}yet, but I think it's likely.{PAGE}Even more so when you consider how{SAUT}Doe is the one playing these bizarre{SAUT}movies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Futaba",
+    "en": "Then that settles that! Let's go explore{SAUT}that movie, {f 6 1 30 0 0 0}!",
+    "fr": ""
+  }
+]

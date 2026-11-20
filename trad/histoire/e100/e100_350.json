@@ -1,0 +1,230 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Did we find Kamoshida Square?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "I bet we did―check that out...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "It just screams, \"This is it\"... as tastelessly{SAUT}as possible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Kamoshida's Palace was effin' gross, but{SAUT}this is pretty far up there, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Blugh...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "What's wrong!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "I-It's horrible... That statue is utterly{SAUT}reprehensible!{PAGE}No, even more than that―it's nothing{SAUT}less than a sacrilege against beauty!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "Seriously...{OPTION}It's garbage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Heroic voice?",
+    "en": "YOU are the ones who are{SAUT}reprehensible!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "Wha―!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA! Well done in making it this{SAUT}far, evildoers of my Kamo City!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Queen! Noir!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Haru",
+    "en": "Everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Kamoshidaman",
+    "en": "I shall now punish the trash of society{SAUT}before me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "\"Trash of society\"!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA! That's right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015_5",
+    "locuteur": "Kamoshidaman",
+    "en": "Not only do you disobey me, the head{SAUT}of this city...{PAGE}But you sow discord amongst the{SAUT}citizens and bring only chaos to{SAUT}our peaceful society.{PAGE}How else should I refer to such trash?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "You bastard―I don't buy one bit{SAUT}of this self-centered shit you're{SAUT}spewing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Kamoshidaman",
+    "en": "Self-centered? I wouldn't be too{SAUT}confident about that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Brazen man",
+    "en": "Those are the criminals, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Weary woman",
+    "en": "If Kamoshidaman says so, then they{SAUT}have to be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Agitated man",
+    "en": "If you say they're criminals, then{SAUT}take 'em down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ann",
+    "en": "The people are supporting him...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA! That's right!{PAGE}You may be criminals, but still, I must{SAUT}praise you for not abandoning your{SAUT}companions like cowards.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022_5",
+    "locuteur": "Kamoshidaman",
+    "en": "However―you have defied me! You're{SAUT}nothing but garbage, contaminating{SAUT}all of society!{PAGE}Such rebels will be punished through{SAUT}my judgment!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ryuji",
+    "en": "What!? A power-hungry bastard like{SAUT}you has no right to judge us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "All you do is suppress the citizens{SAUT}with your authority... It's quite{SAUT}pathetic.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ann",
+    "en": "And the same goes for all the people{SAUT}in this city that are blindly following{SAUT}you, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Kamoshidaman",
+    "en": "Hmph, it seems that this trash doesn't{SAUT}even have the brains necessary to{SAUT}comprehend their misdeeds.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Akechi",
+    "en": "Oh dear, I don't think talking this{SAUT}through is getting us anywhere.{SAUT}What should we do now?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_028",
+    "choix": true,
+    "en": "Use brute force on him.{OPTION}Win over the citizens.{OPTION}Save Queen and Noir.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yusuke",
+    "en": "Ha, no wasting time in that plan. It{SAUT}would surely snap the citizens out{SAUT}of their stupor.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ann",
+    "en": "Yeah, let's teach him a lesson and{SAUT}rescue our friends!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "Looks like we've gotta make him{SAUT}understand like we did with{SAUT}Kamoshida...{PAGE}I'm sure that'll get the people to snap{SAUT}out of it, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Ann",
+    "en": "Yeah! Let's take him down and save{SAUT}those two!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ryuji",
+    "en": "Right, this is goin' nowhere. We gotta{SAUT}take him down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yusuke",
+    "en": "That should also bring the citizens to{SAUT}their senses in due time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Kamoshidaman",
+    "en": "HAHAHA! I am invincible! I am justice!{SAUT}You simple children cannot defeat me!",
+    "fr": ""
+  }
+]

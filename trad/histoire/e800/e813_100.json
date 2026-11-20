@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Theodore",
+    "en": "Phew... Thank you for waiting,{SAUT}everyone.{PAGE}The popcorn is ready now. Please help{SAUT}yourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Thank you.{PAGE}Also, if it's not too much to ask, we'd{SAUT}appreciate it if you kept this new batch{SAUT}a secret.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "Of course.{PAGE}I swear on the popcorn, I won't tell a{SAUT}soul. You have my word.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "Now then, all we have to do is leave{SAUT}Teddie's costume in front of the{SAUT}screening room.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Right. Let's put our plan into action.",
+    "fr": ""
+  }
+]

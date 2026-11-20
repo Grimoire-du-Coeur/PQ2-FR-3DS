@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Mother Computer",
+    "en": "Why are you incapable of functioning{SAUT}like those around you?{PAGE}Why do you insist on maintaining{SAUT}individuality?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_5",
+    "locuteur": "Mother Computer",
+    "en": "UIY-2249! You shall be erased along{SAUT}with these other irregularities!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Mitsuru",
+    "en": "It healed itself!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "It seems to automatically heal itself{SAUT}when its health decreases enough!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukiko",
+    "en": "What!? Does that mean we can't{SAUT}finish this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ribbon",
+    "en": "ORACLE―I HAVE A SUGGESTION.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Huh? What's up, Ribbon?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ribbon",
+    "en": "...IF THE PLAN SUCCEEDS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Ohhh, I see!{PAGE}Sweet! Just leave it to me, then!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "Oracle, what're you planning!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Mweheheh... Imma hack it!{PAGE}Ribbon's circuits are connected to the{SAUT}Mother Computer―that's the ticket!{PAGE}Ribbon and I are gonna team up and try{SAUT}to disable that auto-recovery function!{PAGE}In the meantime, I need you guys{SAUT}to keep that thing's attention.{PAGE}I'll issue the attack order when ready!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Gotcha―leave it to us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "I see... You got this, Oracle!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Mother Computer",
+    "en": "Irregularities must... must... eliminate...{SAUT}Irre...gu... Irr... re...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "What!? Again!?{PAGE}Welp, we'll just keep at it! C'mon,{SAUT}Ribbon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Mother Computer",
+    "en": "Irrerererererererererrrreeeerrrroooo...{SAUT}TU9H5AY8OU@$%＆*******************",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Mother Computer",
+    "en": "WARNING! WARNING! CEASE RESISTANCE,{SAUT}OR COUNTERMEASURES WILL BE TAKEN!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Mother Computer",
+    "en": "DAMAGE CRITICAL... DANGER... DANGER{SAUT}OF A WORLD WITHOUT INDIVIDUALITY{SAUT}ENDING...",
+    "fr": ""
+  }
+]

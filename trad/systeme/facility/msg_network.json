@@ -1,0 +1,256 @@
+[
+  {
+    "id": "FCL_NETWORK_MSG_YN",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_SUBPERSONA_C",
+    "choix": true,
+    "en": "This will do{OPTION}Let's start over",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_SETTING",
+    "en": "Activating StreetPass will allow you{SAUT}to exchange P-Books with people.{PAGE}Activate Persona Q2's StreetPass feature{SAUT}on this Nintendo 3DS system?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_SETTING_SUCC",
+    "en": "Persona Q2's StreetPass feature has been{SAUT}activated on this Nintendo 3DS system.{PAGE}StreetPass exchanges will happen{SAUT}automatically, even during Sleep Mode.{PAGE}To deactivate StreetPass, from the{SAUT}HOME Menu, select System Settings >{SAUT}Data Management > StreetPass Management.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_SETTING_EXIS",
+    "en": "Persona Q2's StreetPass feature is{SAUT}already activated.{PAGE}To deactivate it, select{SAUT}System Settings from the HOME Menu.{PAGE}Once there, select Data Management{SAUT}and then deactivate it with the{SAUT}StreetPass Management option.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_SETTING_FULL",
+    "en": "Your Nintendo 3DS system already{SAUT}reached the maximum number of{SAUT}StreetPass registrations.{PAGE}To register this title for use with StreetPass,{SAUT}go to StreetPass Management in the System{SAUT}Settings and deactivate another title.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_SETTING_EULA",
+    "en": "In order to activate StreetPass, you{SAUT}must agree to the most recently updated{SAUT}Nintendo 3DS Service User Agreement.{PAGE}Select Internet Settings -> Other{SAUT}Information -> User Agreement and{SAUT}agree to the newest User Agreement.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_SETTING_PARE",
+    "en": "The StreetPass feature in this game{SAUT}cannot be used, since StreetPass is{SAUT}restricted in Parental Controls.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_ALERT",
+    "en": "Please do not write offensive material,{SAUT}violate copyrights, or reveal personal{SAUT}information in your messages.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_MAKE",
+    "en": "Outputting P-Book QR Code{SAUT}to the SD card. If data already{SAUT}exists, it will be overwritten.{PAGE}Output to the SD card?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_SD_WRITIN",
+    "en": "Saving to SD card...",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_SD_NONE",
+    "en": "There is no SD card present.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_SD_SHORTA",
+    "en": "There is unsufficient free space on{SAUT}the SD card.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_SD_PHOTO_",
+    "en": "There are too many pictures on the{SAUT}SD card. Save failed.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_SD_ERROR",
+    "en": "The SD card could not be recognized.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_MAKE_SUCC",
+    "en": "QR Code image data has been output{SAUT}to DCIM/100NINO3.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_LOAD",
+    "en": "Use the camera to scan a{SAUT}Persona Q2 QR Code.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_LOAD_SUCC",
+    "en": "Register the P-Book?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_SAVING",
+    "en": "Saving scanned P-Book...",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_INVALID_D",
+    "en": "This QR Code is not for Persona Q2.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_QR_DECODE_ER",
+    "en": "The QR Code could not be recognized.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_INBOX_RECEIV",
+    "en": "Receive new P-Books?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_INBOX_CHECKI",
+    "en": "Checking StreetPass data...",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_DELE",
+    "locuteur": "Marie",
+    "en": "Are you sure that you want to discard{SAUT}this P-Book?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_DELE#2",
+    "locuteur": "Elizabeth",
+    "en": "Do you wish to discard this{SAUT}P-Book?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_SUMM",
+    "locuteur": "Marie",
+    "en": "It'll cost {f 2 4 0} yen to summon{SAUT}this Persona. Are you sure?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_SUMM#2",
+    "locuteur": "Elizabeth",
+    "en": "It will cost {f 2 4 0} yen to summon{SAUT}this Persona. Would you like to{SAUT}summon it?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_SUMM#3",
+    "en": "The Persona {f 0 1 1}{f 2 4 0}{f 0 1 0}{SAUT}has been summoned.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_EXIS",
+    "locuteur": "Marie",
+    "en": "You already have this Persona.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_EXIS#2",
+    "locuteur": "Elizabeth",
+    "en": "It seems you already have this Persona.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_MONE",
+    "locuteur": "Marie",
+    "en": "Hey, cheapskate! You don't have enough{SAUT}money to summon this Persona.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_MONE#2",
+    "locuteur": "Elizabeth",
+    "en": "It seems you lack the funds to{SAUT}summon this Persona...",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_STOC",
+    "locuteur": "Marie",
+    "en": "You can't hold any more Personas.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_STOC#2",
+    "locuteur": "Elizabeth",
+    "en": "You cannot possess any more Personas.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_LV_M",
+    "locuteur": "Marie",
+    "en": "Your level isn't high enough to let{SAUT}you summon this Persona.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_PERSONA_LV_E",
+    "locuteur": "Elizabeth",
+    "en": "It seems you lack the experience{SAUT}to summon this Persona.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_ATTACH_M",
+    "locuteur": "Marie",
+    "en": "You're okay with this Persona?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_ATTACH_E",
+    "locuteur": "Marie",
+    "en": "You're okay with this Persona?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_INPUT_ATTENT",
+    "en": "Do not enter personal details{SAUT}or offensive language.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_INPUT_NGWORD",
+    "en": "This text contains offensive language,{SAUT}and cannot be used. Enter a new name.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_INPUT_NUMBER",
+    "en": "You may only input up to five numbers.{SAUT}Enter a new name.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_NAME_OPEN",
+    "en": "Will you allow your protagonists'{SAUT}names to be made public?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_NAME_OPEN_SE",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_EDIT_SAVE",
+    "en": "The P-Book information has{SAUT}been changed.{PAGE}Save the updates to the StreetPass?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_EDIT_CANCEL",
+    "en": "Would you like to finish editing{SAUT}without updating the StreetPass?",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_NOT_EDIT_PER",
+    "locuteur": "Marie",
+    "en": "That Persona belongs only to you.{SAUT}I guess you can't use it to{SAUT}communicate with other worlds.{PAGE}You'll have to choose another Persona.",
+    "fr": ""
+  },
+  {
+    "id": "FCL_NETWORK_NOT_EDIT_PER#2",
+    "locuteur": "Marie",
+    "en": "That Persona belongs only to you.{SAUT}I guess you can't use it to{SAUT}communicate with other worlds.{PAGE}You'll have to choose another Persona.",
+    "fr": ""
+  }
+]

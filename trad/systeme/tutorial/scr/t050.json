@@ -1,0 +1,7 @@
+[
+  {
+    "id": "MSG_TUTORIAL_TREASURE_MA",
+    "en": "You might find {f 0 1 2}treasure maps{f 0 1 0} inside{SAUT}the treasure chests.{PAGE}Looking at a {f 0 1 2}treasure map{f 0 1 0} drops an icon{SAUT}like the one above onto your own map.{PAGE}Reach the spot indicated by the icon{SAUT}and you'll net some fabulous items!{PAGE}So don't forget to look at any and all{SAUT}{f 0 1 2}treasure maps{f 0 1 0} that fall into your hands!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Another brilliant victory, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Mementos...{PAGE}So, this place was formed by society's{SAUT}collective unconscious? That makes it{SAUT}the entire population's Palace...{PAGE}This seems to be another, different{SAUT}form of the cognitive world.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Who knows what lies within its depths?{SAUT}It strikes at the heart of my intellectual{SAUT}curiosity.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "On the other hand, it's pretty frightening{SAUT}as well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "I still remember hating this place when{SAUT}we first started coming here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "If we keep dallying like this, we're{SAUT}gonna end up meeting some mobs.{SAUT}Mona, you oughta transform.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Monaaa?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "What's the matter, Mona-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "Oh! Sorry. It's just that Mementos feels...{SAUT}different than usual.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "Different how?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "...Ain't this what it's always like? Hey,{SAUT}Joker, what do you think?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "Same Mementos as always.{OPTION}It does seem different.{OPTION}No clue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "I think so, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "Oh? It seems I lack the training{SAUT}necessary to sense it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "It feels the same as always to me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "I, too, have no idea.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Hmm... guess it's just my imagination.{PAGE}Anyways, it's transformation time!{SAUT}Back up, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Akechi",
+    "en": "I can't believe this cat turns into a car...{SAUT}What a fascinating world this is.  ",
+    "fr": ""
+  }
+]

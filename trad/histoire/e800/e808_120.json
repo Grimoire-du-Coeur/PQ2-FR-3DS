@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Naoto",
+    "en": "Here's the searchlight terminal.{SAUT}Oracle, would you please?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Let's see...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Sorry, I wasn't expecting this, but it's{SAUT}not connected to the network...{PAGE}Even if I did hack in here, I still wouldn't{SAUT}be able to find those cars.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "Hmm, that is a problem. I suppose we'll{SAUT}have to find them on our own.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "We have to do something.{OPTION}Is there another way?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Hm? Wait a second... There was another{SAUT}terminal, wasn't there?{PAGE}Maybe I can access that one. Yeah, let's{SAUT}give it a try.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "Then, in order to find the police cars,{SAUT}we'll have to find the other terminal.{PAGE}That or we switch to looking for the cars{SAUT}on our own. We'll leave the decision to{SAUT}you, Joker.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "This terminal isn't gonna cut it. We'll{SAUT}have to hack the other one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Looks like we don't need this anymore.{SAUT}We already know where the cars are.",
+    "fr": ""
+  }
+]

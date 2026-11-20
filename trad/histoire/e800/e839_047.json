@@ -1,0 +1,140 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Alrighty! Now that we've made it{SAUT}through the door, let's find the house.{PAGE}Wait a minute... There are a bunch of{SAUT}houses here! How're we supposed to{SAUT}know which one it is?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "It's at the end of a blocked path. Then{SAUT}again, we could just search them all and{SAUT}use the process of elimination.{PAGE}Of course, I forgot there are scary{SAUT}Shadows waiting for us. So... don't freak{SAUT}out, anyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Tsh, who do you think I am? Don't{SAUT}undersell the charge commander{SAUT}of the Phantom Thieves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "What's wrong, Hikari-chan? You nervous?{PAGE}Don't be. Ace Junpei's got you covered.{SAUT}Those Shadows don't have a prayer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "I was just wondering, how do you all{SAUT}stay so strong?{PAGE}You're always so confident, no matter{SAUT}what enemies you face, no matter how{SAUT}scary they are...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "You know, for me, I never really{SAUT}thought about it.{PAGE}I guess... I just figure if I go at them with{SAUT}everything I got, then... well, my friends{SAUT}will back me up somehow.{PAGE}Seems like a rare thing, don't it? Plus,{SAUT}we've got Joker. You know how{SAUT}amazing he is, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "I know what you mean about how rare{SAUT}it is. Seriously, once I teamed up with{SAUT}my partner here, I felt unbeatable.{PAGE}But that's exactly why I fight so hard.{SAUT}I don't wanna drag him down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Got that right. I can't be embarrassing{SAUT}myself in front of my leader, ya know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "Hell, I can't think of anyone that makes{SAUT}me feel that way except {f 6 1 16 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "You all really trust your leaders.{SAUT}*chuckle* I'm kind of jealous.{PAGE}You're not just ordinary friends. You{SAUT}love each other so much that you all{SAUT}want to stand together as equals.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "L-Love!?{PAGE}I mean, you're not wrong, but... did you{SAUT}have to phrase it in such an{SAUT}embarrassing way?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Junpei",
+    "en": "Yeah, how about calling it... a fiery{SAUT}friendship among men!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Let's just not bring this up to the others,{SAUT}agreed?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "Hehe, sure. I won't tell anyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "Do you think they know that we can{SAUT}hear everything they're saying?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "No, they don't realize how loud their{SAUT}voices are, the goofballs.{PAGE}But how does it make you feel, what{SAUT}they're saying?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "It's a little embarrassing.{OPTION}It's no big deal...{OPTION}I love them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Hero",
+    "en": "Haha. Yeah, it kind of is. It makes me{SAUT}glad, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "*giggle* You're trying to deflect, but{SAUT}your face looks pretty happy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Hero",
+    "en": "Well, it is kind of embarrassing to hear.{SAUT}Who's used to talking about that stuff?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ann",
+    "en": "Whoa! Uh, maybe you should be saying{SAUT}that to them, not me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Hero",
+    "en": "Haha, I think it's really nice, in the end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P4 Hero",
+    "en": "We better not let all that goodwill go to{SAUT}waste, that's all I can say!{PAGE}Especially when the house we're{SAUT}looking for is so close. Let's stay sharp{SAUT}out there.",
+    "fr": ""
+  }
+]

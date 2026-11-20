@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "Whew, we've covered a lot of ground.{SAUT}I think a break would do us good―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "W-What!? An earthquake? Are we{SAUT}under attack?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Here goes! The Satonaka-style secret{SAUT}art... Dragon Kiiick!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "Not bad! But too slow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "You're amazing, Master! You were so{SAUT}fast, I didn't even see you move!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akihiko",
+    "en": "You've got a pretty amazing kick{SAUT}yourself, Chie. If I'd taken that head-{SAUT}on, I would've been sent flying.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "What are you two doing!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akihiko",
+    "en": "Nothing to worry about! Just doing{SAUT}some training. A little mock battle{SAUT}to get the blood pumping.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "Someone'll get hurt...{OPTION}Now that's diligence.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "Don't sweat it. We're used to this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "You may be used to this, but I'M not...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Makoto",
+    "en": "I'm glad to see you so proactive,{SAUT}but do you really need to train{SAUT}all the way out here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akihiko",
+    "en": "Huh... Maybe we overdid it a little,{SAUT}but I just couldn't contain myself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "Heheh, I know what you mean. You{SAUT}gotta eat well, and fight well. That's{SAUT}how you become the strongest!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Makoto",
+    "en": "Is this all you two ever―I mean,{SAUT}do you always train this hard?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "Hmm, my usual routine is to do some{SAUT}running, then I practice my kicks...{SAUT}Finally, I wrap up with a beef bowl!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akihiko",
+    "en": "Yeah. You gotta launch your body{SAUT}into a tough workout, then seal the{SAUT}deal with a healthy bite of protein.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Makoto",
+    "en": "*sigh*{PAGE}Recklessly swinging at each other{SAUT}isn't training. You have to think about{SAUT}training your mind, too.{PAGE}The same applies to your diet. You{SAUT}can't just eat protein and nothing else.{SAUT}You have to think about balance.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Akihiko",
+    "en": "Oh, that's right! You practice aikido,{SAUT}right, Queen? Well, I can't deny the{SAUT}insight of a fellow fistfighter...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "So I'm part of this now, too, am I...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "...Oh! I just had a totally great idea!{SAUT}What if Queen comes up with a{SAUT}new training course for us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akihiko",
+    "en": "Good point. If we train the same way{SAUT}all the time, we'll get too used to it.{SAUT}Can you help us, Queen?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_022",
+    "choix": true,
+    "en": "Give it a try.{OPTION}You can do it.{OPTION}Sounds like fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Makoto",
+    "en": "I suppose I could...{PAGE}But if I'm going to do that, I need to{SAUT}gauge everyone's strength so I can{SAUT}come up with realistic milestones...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Makoto",
+    "en": "Oh, not you too... Though I suppose{SAUT}I wouldn't mind teaching you.{PAGE}But if I'm going to do that, I need to{SAUT}gauge everyone's strength so I can{SAUT}come up with realistic milestones...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Makoto",
+    "en": "Is this really the time to say that?{SAUT}Well, I suppose I don't mind teaching{SAUT}you...{PAGE}But if I'm going to do that, I need to{SAUT}gauge everyone's strength so I can{SAUT}come up with realistic milestones...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Haru",
+    "en": "Oh, Queen! Mitsuru-san says we{SAUT}should head out soon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Makoto",
+    "en": "Okay, we should get going for now.{SAUT}We can discuss your regimen{SAUT}another time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Chie",
+    "en": "You got it, Coach!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Makoto",
+    "en": "...Coach?{PAGE}Um, okay then... Let's go.",
+    "fr": ""
+  }
+]

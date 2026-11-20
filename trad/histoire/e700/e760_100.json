@@ -1,0 +1,194 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Naoto",
+    "en": "It appears to be a dead end. We should{SAUT}turn back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "One more step, and my back's done{SAUT}for... It's time for a break.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "You know, if you're tiring out this fast,{SAUT}your hourly wage's never gonna go up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "I'm tired of working, I'm tired of going{SAUT}to the gym, and this is something that{SAUT}I definitely can not handle!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Sheesh... It'd be nice to find a part-timer{SAUT}who's actually willing to work for once.{PAGE}There are plenty of robots around here.{SAUT}Maybe Junes could hire one of them...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "W-Wait, Yosuke! You're... You're not{SAUT}gonna abandon me, are you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_1",
+    "locuteur": "Teddie",
+    "en": "Ohhh, how cruel... You've toyed with{SAUT}me all this time and now you're{SAUT}dumping me...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "Don't phrase it like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Fuuka",
+    "en": "*giggle* Honestly, I'm curious about the{SAUT}robots too.{PAGE}Such detailed actions would require{SAUT}some truly impressive technology.{SAUT}I wonder what their AI is like...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Y-You like that kinda stuff?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Fuuka",
+    "en": "Mhm. I quite enjoy tinkering with{SAUT}machines and whatnot...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Ooh, you're a hardware specialist!{SAUT}I'm more of a software girl myself...{PAGE}I bet, if we worked together, we'd be{SAUT}able to create a life-sized Featherman{SAUT}Robot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Fuuka",
+    "en": "That sounds fun! I'm sure we could{SAUT}work in plenty of neat gimmicks...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Mmmhm, the first thing we'll wanna{SAUT}shoot for is 100,000 horse power! I say{SAUT}we add in a transformation function too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Makoto",
+    "en": "Looks like they've hit it off.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "If we leave 'em be, they're gonna be{SAUT}talkin' forever. Let's find a good place{SAUT}to stop 'em, and keep going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0000",
+    "locuteur": "Naoto",
+    "en": "It appears to be a dead end. We should{SAUT}turn back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0001",
+    "locuteur": "Teddie",
+    "en": "One more step, and my back's done{SAUT}for... It's time for a break.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0002",
+    "locuteur": "Yosuke",
+    "en": "You know, if you're tiring out this fast,{SAUT}your hourly wage's never gonna go up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0003",
+    "locuteur": "Teddie",
+    "en": "I'm tired of working, I'm tired of going{SAUT}to the gym, and this is something that{SAUT}I definitely can not handle!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0004",
+    "locuteur": "Yosuke",
+    "en": "Sheesh... It'd be nice to find a part-timer{SAUT}who's actually willing to work for once.{PAGE}There are plenty of robots around here.{SAUT}Maybe Junes could hire one of them...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0005",
+    "locuteur": "Teddie",
+    "en": "W-Wait, Yosuke! You're... You're not{SAUT}gonna abandon me, are you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0005_1",
+    "locuteur": "Teddie",
+    "en": "Ohhh, how cruel... You've toyed with{SAUT}me all this time and now you're{SAUT}dumping me...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0006",
+    "locuteur": "Yosuke",
+    "en": "Don't phrase it like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0007",
+    "locuteur": "Fuuka",
+    "en": "*giggle* Honestly, I'm curious about the{SAUT}robots too.{PAGE}Such detailed actions would require{SAUT}some truly impressive technology.{SAUT}I wonder what their AI is like...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0008",
+    "locuteur": "Futaba",
+    "en": "Y-You like that kinda stuff?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0009",
+    "locuteur": "Fuuka",
+    "en": "Mhm. I quite enjoy tinkering with{SAUT}machines and whatnot...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0010",
+    "locuteur": "Futaba",
+    "en": "Ooh, you're a hardware specialist!{SAUT}I'm more of a software girl myself...{PAGE}I bet, if we worked together, we'd be{SAUT}able to create a life-sized Featherman{SAUT}Robot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0011",
+    "locuteur": "Fuuka",
+    "en": "That sounds fun! I'm sure we could{SAUT}work in plenty of neat gimmicks...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0012",
+    "locuteur": "Futaba",
+    "en": "Mmmhm, the first thing we'll wanna{SAUT}shoot for is 100,000 horse power! I say{SAUT}we add in a transformation function too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0013",
+    "locuteur": "Makoto",
+    "en": "Looks like they've hit it off.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0014",
+    "locuteur": "Ryuji",
+    "en": "If we leave 'em be, they're gonna be{SAUT}talkin' forever. Let's find a good place{SAUT}to stop 'em, and keep going.",
+    "fr": ""
+  }
+]

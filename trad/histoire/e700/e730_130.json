@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "Whaaa!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "Oh, the door opened.{PAGE}...Wait, why did you freak out over that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Th-That's not it! It's the door behind us―{SAUT}{f 0 1 2}it suddenly slammed shut{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "Oh, hey―you're right. I'm getting{SAUT}the feeling that there's some kind{SAUT}of pattern to this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "You're wondering about that too, huh?{SAUT}Well, we should probably keep moving{SAUT}for now, at least.",
+    "fr": ""
+  }
+]

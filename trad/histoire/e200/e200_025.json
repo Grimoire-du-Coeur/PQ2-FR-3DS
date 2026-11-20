@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "Well, it's time for us to get back into{SAUT}the action. Add us into the front line{SAUT}when you'd like to change up the party.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "I apologize for the trouble we've caused.{SAUT}We'll continue to do our best from here{SAUT}on out.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "We're glad to have you back.{OPTION}You really owe us a favor now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "Thanks. I swear to help make up for{SAUT}our mistake.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "Mmhm, I'll put myself to use so I can{SAUT}repay everyone's kindness.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "I know. I swear I'll help make up for it,{SAUT}so please give us just a bit of time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "Mmhm, I'll do everything I can too―{SAUT}just you watch.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "quest_hint_001",
+    "en": "Reach Area 2 of Junessic Land.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_003",
+    "en": "Investigate Area 4 of Junessic Land.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_004",
+    "en": "Head over to the box office.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_006",
+    "en": "Head over to the box office.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_007",
+    "en": "Investigate Area 4 of Junessic Land.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_008",
+    "en": "Investigate Area 3 of Junessic Land.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_009",
+    "en": "Head over to the theater.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_010",
+    "en": "Reach Isle's End in Junessic Land.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_011",
+    "en": "Reach Zone 1 in A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_012",
+    "en": "Reach Area 2 of Junessic Land.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_013",
+    "en": "Head over to the theater.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_014",
+    "en": "Investigate Zone 1 of A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_015",
+    "en": "Investigate Zone 2 of A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_016",
+    "en": "Head over to the box office.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_017",
+    "en": "Investigate Zone 2 of A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_018",
+    "en": "Investigate Lab Floor 2 of A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_019",
+    "en": "Reach the Central Server in A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_021",
+    "en": "Investigate Lab Floor 1 of A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_022",
+    "en": "Investigate Lab Floor 2 of A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_023",
+    "en": "After completing a special screening,{SAUT}investigate Lab Floor 2 of A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_024",
+    "en": "Investigate Act 2 of {f 6 1 40 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_025",
+    "en": "Reach Act 2 of {f 6 1 40 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_026",
+    "en": "Head over to the box office.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_027",
+    "en": "Head over to the box office.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_028",
+    "en": "After completing a special screening,{SAUT}head over to the box office.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_029",
+    "en": "Investigate Act 1 of {f 6 1 40 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_030",
+    "en": "Reach Act 4 of {f 6 1 40 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_031",
+    "en": "Reach Act 5 of {f 6 1 40 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_032",
+    "en": "Head to the concession stand.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_033",
+    "en": "Investigate Act 6 of {f 6 1 40 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_035",
+    "en": "Investigate Act 5 of {f 6 1 40 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_036",
+    "en": "Head to the concession stand.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_037",
+    "en": "Investigate Act 6 of {f 6 1 40 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_038",
+    "en": "Reach Block 1 of the Theater District.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_039",
+    "en": "Head over to the box office.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_040",
+    "en": "Reach Block 3 of the Theater District.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_041",
+    "en": "Reach Block 2 of the Theater District.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_042",
+    "en": "Investigate Block 2 of the Theater{SAUT}District.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_043",
+    "en": "Investigate Block 3 of the Theater{SAUT}District.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_045",
+    "en": "Reach Block 3 of the Theater District.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_046",
+    "en": "Investigate Block 4 of the Theater{SAUT}District.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_047",
+    "en": "Complete multiple special screenings.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_048",
+    "en": "Complete multiple special screenings.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_049",
+    "en": "Complete multiple special screenings.",
+    "fr": ""
+  },
+  {
+    "id": "quest_hint_050",
+    "en": "Complete multiple special screenings.",
+    "fr": ""
+  }
+]

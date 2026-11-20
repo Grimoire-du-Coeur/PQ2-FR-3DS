@@ -1,0 +1,506 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Man's voice",
+    "en": "Umm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Caroline",
+    "en": "Listen here: you all better make certain{SAUT}to keep a close eye on our prisoner{SAUT}for us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Yeah, yeah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Caroline",
+    "en": "What insolence! Do you wish to be{SAUT}executed as well!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "She's so tough... A little girl AND{SAUT}militaristic? I feel like I'm discovering{SAUT}a new obsession!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Man's voice",
+    "en": "Pardon me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Yusuke, did you say something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "No, not I.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "I thought I heard someone's voice...{SAUT}Maybe I'm imagining things?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Man's voice",
+    "en": "Um―just a moment of your time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "Ann, behind you―who's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Man in blue",
+    "en": "Ah, finally, someone noticed―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Aaaaaaaaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Man in blue",
+    "en": "Waaaaaaaaaah!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "Why're you surprised too!? And more{SAUT}importantly, who ARE you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Woman in blue",
+    "en": "I can hear them call for me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "A-A-ANOTHER ONE!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Caroline",
+    "en": "Hey, Justine...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Justine",
+    "en": "Are those two...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Woman in blue",
+    "en": "Everyone, we are most pleased to make{SAUT}your acquaintance.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Who the hell are you guys!? And why{SAUT}are you all blue!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Woman in blue",
+    "en": "I am Elizabeth. This here is my younger{SAUT}brother, Theodore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Theodore",
+    "en": "Pleased to meet you―my name is{SAUT}Theodore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akechi",
+    "en": "How long have you two been standing{SAUT}there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Elizabeth",
+    "en": "*chuckle* We are always by your side,{SAUT}any time, anywhere.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "Oh great, more mind-warping shit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Morgana",
+    "en": "I don't get what's going on here...{SAUT}All of this is so weird.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yusuke",
+    "en": "This world is full of mysteries. My own{SAUT}comprehension cannot keep up{SAUT}in the least, either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ann",
+    "en": "Y'know, they're wearing similar clothes{SAUT}to the twins. Could they be, like,{SAUT}coworkers?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Theodore",
+    "en": "Well... Maybe it's best to say that we are{SAUT}all \"attendants of the Velvet Room.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Elizabeth",
+    "en": "Indeed―however, let's omit the details{SAUT}for now, and instead cut to the chase.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Theodore",
+    "en": "A-Ah, that's right!{PAGE}While coming to this world, I was{SAUT}separated from my guest...{PAGE}I've searched everywhere in this movie{SAUT}theater, but I've found nary a trace{SAUT}of her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Ryuji",
+    "en": "Your guest? Does she wear all blue{SAUT}too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Theodore",
+    "en": "No, that isn't the case. She's a high-{SAUT}school girl, wearing headphones...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Yusuke",
+    "en": "Headphones?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Futaba",
+    "en": "I've got headphones, but I'm not{SAUT}a high-schooler.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Ann",
+    "en": "I dunno... We haven't seen anyone like{SAUT}that, right {f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_048",
+    "choix": true,
+    "en": "We have not.{OPTION}So she's lost too, then...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Nagi",
+    "en": "I haven't a clue either...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049_5",
+    "locuteur": "Nagi",
+    "en": "How about you, Hikari-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Hikari",
+    "en": "No, I don't...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Theodore",
+    "en": "I see. This is troubling...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Yusuke",
+    "en": "Could this girl be inside the movie, like{SAUT}how we were separated from our{SAUT}friends?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Theodore",
+    "en": "Inside the movie? Whatever do you―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Elizabeth",
+    "en": "Theo, don't ask such frivolous questions.{SAUT}You must simply perceive their meaning.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Theodore",
+    "en": "Ah, forgive me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Ryuji",
+    "en": "Okay, Theodore―I guess if we find this{SAUT}girl, we'll go ahead and bring her back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Theodore",
+    "en": "Oh, thank you so much! It would be{SAUT}most helpful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Elizabeth",
+    "en": "Theo, it takes more than attitude to{SAUT}express one's gratitude.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Theodore",
+    "en": "More than attitude? So you mean...{SAUT}I need to bow deeply as well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Elizabeth",
+    "en": "Not in the least. According to my{SAUT}intuition...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Elizabeth",
+    "en": "I believe these people have slipped into{SAUT}this world out of the blue and are now{SAUT}trapped here.{PAGE}And, mayhap, their only exit is secured{SAUT}with numerous intimidating locks...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Ryuji",
+    "en": "How'd you know all that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Theodore",
+    "en": "Much happens in the course of life.{SAUT}We've experienced quite a bit of it{SAUT}ourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Elizabeth",
+    "en": "Our arrival here was inevitable as well...{SAUT}We have been delivered here by fate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064_5",
+    "locuteur": "Elizabeth",
+    "en": "That is why my foolish younger brother{SAUT}Theodore will be providing you with{SAUT}all the assistance you need.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Theodore",
+    "en": "Huh? S-Sister!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Elizabeth",
+    "en": "\"Good company on the road is the{SAUT}shortest cut to one's grave,\" I believe{SAUT}is the saying.{PAGE}In any case, we must uphold the spirit{SAUT}of helping those in need.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_067",
+    "choix": true,
+    "en": "That would be great.{OPTION}This sounds too fishy to me.{OPTION}What kind of help, exactly?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Ann",
+    "en": "I'm still lost here, but they don't seem{SAUT}to be enemies...{PAGE}The more people we've got helping us,{SAUT}the better, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Akechi",
+    "en": "So, how specifically would you be{SAUT}aiding us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Ryuji",
+    "en": "Yeah, right? First we thought they were{SAUT}with those twins, but it seems like{SAUT}they're not.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Ann",
+    "en": "But they don't look like enemies. Maybe{SAUT}we'll be fine trusting them?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Akechi",
+    "en": "So, how specifically would you be{SAUT}aiding us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Elizabeth",
+    "en": "Well, is there any place nearby where{SAUT}we can set up shop and fleece you―{PAGE}...I mean, please you with our fine{SAUT}wares, perchance?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_074",
+    "locuteur": "Futaba",
+    "en": "She totally just said \"fleece you.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_075",
+    "locuteur": "Elizabeth",
+    "en": "I didn't hear that, laaalalaaa...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_076",
+    "locuteur": "Futaba",
+    "en": "I've been downvoted!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_077",
+    "locuteur": "Ryuji",
+    "en": "There's a concession stand in the{SAUT}lobby. How 'bout there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_078",
+    "locuteur": "Nagi",
+    "en": "If that would serve you properly,{SAUT}I'll gladly show you the way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Theodore",
+    "en": "...Hm? Sister―those two, over there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Elizabeth",
+    "en": "Oh my, what have we here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Caroline",
+    "en": "Hmph...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Elizabeth",
+    "en": "Hm, I see...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031_5",
+    "locuteur": "Elizabeth",
+    "en": "Now listen here, Theo: It would be{SAUT}uncouth to meddle in things beyond{SAUT}necessity.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Theodore",
+    "en": "But, Sister...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Elizabeth",
+    "en": "Nothing meaningless happens. There{SAUT}must be a reason for our summoning{SAUT}to this place...{PAGE}And searching for that reason may be{SAUT}another necessity.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Caroline",
+    "en": "Justine, who do you think they are?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Justine",
+    "en": "I feel as if... they are related to the{SAUT}core of our existence.{PAGE}Who knows what our master will have{SAUT}to say about this... Let's not delve any{SAUT}further for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Caroline",
+    "en": "Hmph, you're right... so long as they{SAUT}don't interfere with the prisoner's{SAUT}rehabilitation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_079",
+    "locuteur": "Caroline",
+    "en": "Now listen up, Inmate! Until we escape{SAUT}this theater, we'll allow you to move{SAUT}about freely.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_080",
+    "locuteur": "Justine",
+    "en": "In other words, you're on parole. Do not{SAUT}forget about your rehabilitation, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_081",
+    "locuteur": "Elizabeth",
+    "en": "Now then, everyone, let us all skedaddle{SAUT}to the concession stand...",
+    "fr": ""
+  }
+]

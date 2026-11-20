@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "Allies will suggest {f 0 1 2}Unison Skills{f 0 1 0} when{SAUT}they get a critical hit or strike a weakness.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "Along with heavy damage, Unison{SAUT}Skills have a high chance of knocking{SAUT}down the enemy. Definitely use them{SAUT}when you get the chance!",
+    "fr": ""
+  }
+]

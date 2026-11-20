@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "...A cage? What's somethin' like that{SAUT}doin' in this old jungle?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Remember the movie trailer? This seems{SAUT}to be a theme park where one can{SAUT}observe dinosaurs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Then, it follows that these cages are for{SAUT}keeping the dinosaurs under control.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Would it be possible to move this?{SAUT}The base looks like it's built to be{SAUT}rotated. But, more importantly...{PAGE}The story mentioned how humans have{SAUT}long abandoned this place, and it looks{SAUT}like it hasn't been used recently...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Th-Then―are you saying... up ahead,{SAUT}there'll be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "There could be tons of dinosaurs{SAUT}runnin' around―both herbivores and{SAUT}carnivores.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Holy shit, for real!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Don't worry. I'll let you know if there's{SAUT}any incoming danger.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "Please do so, Oracle. We'll be counting{SAUT}on you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Yeah! Just leave it to me!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Well done. You managed to defeat all{SAUT}eight Basalts.{PAGE}My palms were sweating so intensely,{SAUT}I nearly lost hold of both my popcorn{SAUT}and my cola...{PAGE}Watching Makoto and Haru steadfastly{SAUT}mow down their enemies was truly{SAUT}exhilarating.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Did we really mow them down...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Well, with the way you two were{SAUT}kickin' ass and takin' names, I{SAUT}believe it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Hey, Makoto. You said you had{SAUT}something on your mind earlier.{SAUT}What was it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "I wasn't going to say anything, but since{SAUT}you already know this much...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Haru",
+    "en": "...I'm sorry we didn't tell you{SAUT}sooner. Now's probably a good time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "You know how we got captured in the{SAUT}Kamoshidaman movie?{PAGE}We wanted to do something to make{SAUT}up for all the trouble we caused you{SAUT}back there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "Now that we're with everyone again,{SAUT}we thought we'd try to help with the{SAUT}special screening...{PAGE}If we clear it, we'll get equipment that{SAUT}will make us stronger, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "I see. So your eagerness stemmed from{SAUT}a desire to help everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "I guess that's it...{PAGE}I wanted to keep it a secret, so... I'm a{SAUT}little embarrassed now that it's all out in{SAUT}the open.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Thank you.{OPTION}You slipped up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "No, we're the ones who should be{SAUT}thanking you.{PAGE}If you hadn't come for us, we never{SAUT}would have escaped.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "You have a point. Makoto may seem{SAUT}perfect, but she can get careless every{SAUT}now and then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Makoto",
+    "en": "Ngh... W-Well...{PAGE}I guess it does happen on occasion...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Ahaha! But you're still super reliable!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "Mako-chan and I simply wanted to{SAUT}show our gratitude to everyone.{PAGE}If you hadn't come for us, we never{SAUT}would have escaped.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Well, you guys don't gotta get all{SAUT}worked up about it.{PAGE}I mean, we only managed to save you{SAUT}'cause of that tip you gave us about the{SAUT}statue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "Indeed. You helped us as well.{PAGE}Besides, it's natural for friends to help{SAUT}one another. There's no need to repay{SAUT}us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "Whoa... I'm proud of you, Inari.{SAUT}I thought you'd want payment more{SAUT}than anyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "How rude...{PAGE}I may not say no to free meals, but I'm{SAUT}not that petty of an individual... I think.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "You think!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Haru",
+    "en": "Hm, hm... Thank you again, everyone.{SAUT}We're glad to be here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Makoto",
+    "en": "And we don't just mean as part of the{SAUT}Phantom Thieves.{PAGE}That goes for {f 6 1 26 0 0 0}-san and{SAUT}the Investigation Team too. We're in{SAUT}this together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah! Count me in!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P4 Hero",
+    "en": "Likewise, we're glad to be here too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Elizabeth",
+    "en": "Ahh, what a beautiful and happy ending!{SAUT}I'm so emotional, I'm on the verge of{SAUT}tears.{PAGE}Now then, here is your reward.{SAUT}Please accept it.{PAGE}Also, don't forget to visit Theo's shop{SAUT}and sell the materials you've gathered...",
+    "fr": ""
+  }
+]

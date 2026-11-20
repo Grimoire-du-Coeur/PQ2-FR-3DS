@@ -1,0 +1,146 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "I see... That's essentially the same{SAUT}experience we had that led to our{SAUT}arrival here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "So, there are other places that are like{SAUT}Mementos... Color me surprised.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Well, spaces like that are born from{SAUT}people's hearts―it wouldn't be all that{SAUT}strange if there were others elsewhere.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "A space born from people's hearts, eh?{PAGE}Is that why they're able to connect to{SAUT}other, similar spaces?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "Most likely, such a deduction does not{SAUT}solely apply to the realms within{SAUT}the movies...{PAGE}I believe the movie theater that we now{SAUT}stand within is yet another world that{SAUT}has been born for a specific reason.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "I see―that would explain why I've been{SAUT}stuck in this form, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Person in bear costume",
+    "en": "I don't get what you're saying, but{SAUT}because of all this stuff going on,{SAUT}Yosuke's...{PAGE}Yosuke's all alone noooooow!{SAUT}Waaaaaaaaaaaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "Yosuke-kun? Is he the friend you{SAUT}mentioned when we first met?{SAUT}The one who got separated?{PAGE}...All right, um, hold on. Please―Please{SAUT}let me go... I-I can't breathe!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Reserved girl",
+    "en": "I understand how you feel, but calm{SAUT}down, Teddie.{PAGE}Even if you bear-hug that extra glitzy{SAUT}person, Yosuke-kun won't come out{SAUT}of him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "Eheheh... \"Extra glitzy\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Person in bear costume",
+    "en": "*gasp* I smelled something nice from{SAUT}him for a moment there, but she's right!{PAGE}Plus, I'd rather go for this beautiful{SAUT}lady...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elizabeth",
+    "en": "Here, this Megidolaon is for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Person in bear costume",
+    "en": "Gyaaaaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "...So, you've been separated from your{SAUT}friend named Yosuke-kun, right?{PAGE}He might still be in the movie. I got{SAUT}separated from my own friends and{SAUT}ended up in a movie. Maybe he did too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Intelligent-looking boy",
+    "en": "I see. I hope Yosuke-senpai makes it out{SAUT}safely, like you did...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Energetic girl",
+    "en": "Anyway―let's think positive! Nothing{SAUT}good can come from panicking at{SAUT}a time like this!{PAGE}Rise-chan and Yosuke will both be{SAUT}fine! After all, they're in the{SAUT}Investigation Team, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Composed boy",
+    "en": "Right―Yosuke would never go down{SAUT}so easily.{PAGE}Still, he must feel lonely being separated{SAUT}from us. We need to hurry and rescue{SAUT}him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Person in bear costume",
+    "en": "S-Sensei...{PAGE}Teddie is back and better than ever!{SAUT}Rescuing Yosuke'll be the only thing{SAUT}on my mind!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Composed boy",
+    "en": "I'm sorry, we're a bit rowdy.{PAGE}I know it's a bit late for it, but we{SAUT}haven't introduced ourselves. I'd love{SAUT}to learn more about you all as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Oh yeah, that's right. Welp, time for{SAUT}introductions...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Energetic girl",
+    "en": "Huh? So, what should we do? Who goes{SAUT}first?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Person in bear costume",
+    "en": "Obviously, it should be Sensei! Who{SAUT}could be better?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Reserved girl",
+    "en": "True, he is our leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Composed boy",
+    "en": "Got it. My name is...",
+    "fr": ""
+  }
+]

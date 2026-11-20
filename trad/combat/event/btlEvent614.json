@@ -1,0 +1,54 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Gaudy carnivore",
+    "en": "GYAAAAAAAAH!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Gaudy carnivore",
+    "en": "GLEEEEEEEEELCH!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Woah, the herbivores' attacks are{SAUT}working! Now's our chance!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "That's pretty damn impressive of them!{PAGE}No way we can lose now―we have to{SAUT}pay them back for their efforts!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "Watching the herbivores fight gave{SAUT}everyone renewed strength...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004#2",
+    "en": "Watching the herbivores fight gave{SAUT}everyone renewed strength...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Gaudy carnivore",
+    "en": "GRUUUUUUTCH...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Rise",
+    "en": "It's gotten a lot weaker! Just hang in{SAUT}there a bit longer, guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Gaudy carnivore",
+    "en": "GYAAAAAAAAH!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Welcome back, everyone.{PAGE}It appears you had a successful hunt.{SAUT}Congratulations.{PAGE}This is the reward for this time. Please{SAUT}accept it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Mitsuru",
+    "en": "Thanks for your help,{SAUT}{f 6 1 26 0 0 0}.{PAGE}I'm sure the versions of us in your{SAUT}world can rest easy knowing you're{SAUT}in charge.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hehe... I hope so.{PAGE}It helps when everyone here is just as{SAUT}supportive!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "All I can really do is train and keep{SAUT}fighting... Still, I'll do my best to help{SAUT}out.{PAGE}And, Shinji, I won't force you, but if{SAUT}you're ever interested in training, just{SAUT}let me know, and I'll make us a routine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Shinjiro",
+    "en": "Yeah, yeah. When the time comes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* We're counting on you guys!",
+    "fr": ""
+  }
+]

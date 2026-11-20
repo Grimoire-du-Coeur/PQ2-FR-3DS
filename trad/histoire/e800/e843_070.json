@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "An out-of-control cart careens toward{SAUT}the doomed workers! But at the last{SAUT}moment, {f 6 1 30 0 0 0} decides their fate!{PAGE}...Perhaps it was only two questions,{SAUT}but they may have shown great{SAUT}insight into your hearts.{PAGE}While this was a bit of a departure{SAUT}from the usual special screenings,{SAUT}I enjoyed it nonetheless.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "But who made those signs in the{SAUT}first place? And what about the{SAUT}spooky announcer lady?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Actually, now that I think of it, that{SAUT}sexy voice was kinda familiar...{PAGE}Ring any bells for you, {f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "No idea.{OPTION}Elizabeth?{OPTION}It WAS familiar...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Man, but my Babe Radar is going{SAUT}wild!{PAGE}Someone real sexy, real mature,{SAUT}with that kinda sophisticated aura{SAUT}to her...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "Most unfortunately, it was not me.{PAGE}I am more likely to be found in my seat{SAUT}during screenings, devouring popcorn{SAUT}and hot dogs with wild abandon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "I'm glad you enjoyed the show,{SAUT}as usual.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Junpei",
+    "en": "Nah, I get the feeling it's someone{SAUT}older and more mature than{SAUT}Elizabeth...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "I know, right? And it felt like it{SAUT}was someone super recent, like{SAUT}just after we got to this theater.{PAGE}Someone real sexy, real mature,{SAUT}with that kinda sophisticated aura{SAUT}to her...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elizabeth",
+    "en": "We may never know the truth.{SAUT}But as for my speculation on the{SAUT}orchestrator's motives...{PAGE}I believe she was intrigued by you,{SAUT}and was driven by a desire to better{SAUT}understand you all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "Well, I can only hope she got what{SAUT}she wanted out of it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Elizabeth",
+    "en": "Who can say?{PAGE}I expect she will continue observing{SAUT}your exploits in the trials to come.{PAGE}In any case, it was a most entertaining{SAUT}show. Please continue to keep up the{SAUT}good work.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "Wait!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Huh? Whaddaya want!? If we don't{SAUT}hurry up―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Look over there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "...You mean those lights?{PAGE}What're those doing here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "They're most likely {f 0 1 2}searchlights{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Ack―seriously?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "They may be for spotting us...{PAGE}Or, they could be using them to keep{SAUT}a close watch on all of the citizens...{PAGE}All for the sake of not letting this \"evil\"{SAUT}they speak about escape.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Ugh, talk about being effin' disgusting...{SAUT}It makes me wanna destroy the things!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "I get you, but be cautious! It'll be a real{SAUT}hassle if you get caught by the enemy...{PAGE}Make sure you {f 0 1 2}avoid the searchlights{SAUT}while proceeding{f 0 1 0}, okay?",
+    "fr": ""
+  }
+]

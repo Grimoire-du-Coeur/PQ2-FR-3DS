@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ribbon",
+    "en": "...INITIALIZATION COMPLETE. GOOD{SAUT}MORNING, EVERYONE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Ooh! Looks like you held up just fine,{SAUT}Ribbon! What a relief...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ribbon",
+    "en": "YES, I AM FINE. THERE WERE NO ISSUES.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "Hm, she should be able to use this{SAUT}feature whenever we need to return{SAUT}to the movie theater.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Yes. Ribbon-chan will be safe and{SAUT}we'll be able to prep for the next{SAUT}venture without any worry.{PAGE}Now that we've put that concern to rest,{SAUT}shall we proceed onward, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0000",
+    "locuteur": "Robot with a ribbon",
+    "en": "...INITIALIZATION COMPLETE. GOOD{SAUT}MORNING, EVERYONE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0001",
+    "locuteur": "Futaba",
+    "en": "Ooh! Looks like you held up just fine!{SAUT}What a relief...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0002",
+    "locuteur": "Robot with a ribbon",
+    "en": "YES, I AM FINE. THERE WERE NO ISSUES.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0003",
+    "locuteur": "Mitsuru",
+    "en": "Hm, she should be able to use this{SAUT}feature whenever we need to return{SAUT}to the movie theater.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0004",
+    "locuteur": "Makoto",
+    "en": "Yes. she will be safe and we'll be able{SAUT}to prep for the next venture without{SAUT}any worry.{PAGE}Now that we've put that concern to rest,{SAUT}shall we proceed onward, Joker?",
+    "fr": ""
+  }
+]

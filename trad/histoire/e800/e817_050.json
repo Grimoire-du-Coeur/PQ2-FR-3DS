@@ -1,0 +1,350 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "This is the last one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "All right, let's see what we can{SAUT}find out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "*sigh* I didn't learn anything...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Junpei",
+    "en": "Lemme just take a quick break...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Quit slacking off!{OPTION}Junpei!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Wha―!? Y-You've got it all wrong!{SAUT}I wasn't slacking or nothin'...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_1",
+    "locuteur": "Junpei",
+    "en": "Oh, it's just you, Joker. Don't scare me{SAUT}like that, man, I thought you were{SAUT}Mitsuru-senpai.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Mitsuru",
+    "en": "Oh...? Is there a problem with me being{SAUT}here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Ack!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006_1",
+    "locuteur": "Junpei",
+    "en": "N-Not at all! Y'know, I think I missed a{SAUT}few people, so I'm gonna do a little{SAUT}more askin' around...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mitsuru",
+    "en": "Hmph...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "Well, he's on his feet again, so I guess it{SAUT}worked out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mitsuru",
+    "en": "I'm sorry you had to see yet another{SAUT}shameful display of leadership.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_1",
+    "locuteur": "Mitsuru",
+    "en": "It was a lack of communication on my{SAUT}part. Seeing you only makes that{SAUT}more clear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "Me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Mitsuru",
+    "en": "You're a student council president and{SAUT}an elder among your peers...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011_1",
+    "locuteur": "Mitsuru",
+    "en": "And, unlike me, you've built a proper{SAUT}foundation of trust with the younger{SAUT}members of your group.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "Now she has...{OPTION}She was pretty scary at first.{OPTION}She really loosened up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Mitsuru",
+    "en": "...It wasn't always like this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Makoto",
+    "en": "Well, no. For a long time, I felt separated{SAUT}from everyone else just like you do now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014_1",
+    "locuteur": "Makoto",
+    "en": "But since meeting everyone, I think{SAUT}I've changed somewhat...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014_2",
+    "locuteur": "Makoto",
+    "en": "If anything, I'm envious of you,{SAUT}Kirijo-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Mitsuru",
+    "en": "Envious? Of me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Makoto",
+    "en": "In my case, I wouldn't say I was good at{SAUT}making friends or anything. I think I just{SAUT}didn't have a sense of seniority.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016_1",
+    "locuteur": "Makoto",
+    "en": "Truthfully, I sort of respect that{SAUT}commanding presence of yours...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Mitsuru",
+    "en": "...So that's how you see it?{PAGE}Hah, it seems we both have our{SAUT}weaknesses.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yukari",
+    "en": "Oh, Mitsuru-senpai!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Mitsuru",
+    "en": "How are things? Any useful{SAUT}information?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukari",
+    "en": "Same story―someone was jumped by{SAUT}multiple attackers and had their{SAUT}valuables stolen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Junpei",
+    "en": "These guys are pretty pathetic to only{SAUT}target young ladies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Mitsuru",
+    "en": "All of the victims are women?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Junpei",
+    "en": "It was a girl about the same age as us,{SAUT}just like the last place.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Makoto",
+    "en": "Just like last place, you say...{SAUT}What about the first victim?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ryuji",
+    "en": "Oh, you know, I think I did hear{SAUT}somethin' about it being a young girl...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yusuke",
+    "en": "Yes, it likely raises their chances of{SAUT}success when compared with targeting{SAUT}muscular men.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026_1",
+    "locuteur": "Yusuke",
+    "en": "Regardless, these thieves are the scum{SAUT}of the earth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Makoto",
+    "en": "Agreed. But knowing their usual target{SAUT}may be useful to us...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_028",
+    "choix": true,
+    "en": "Useful?{OPTION}We can bait them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Makoto",
+    "en": "If we know they only target girls, then{SAUT}we can set a trap for them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Morgana",
+    "en": "I see. We're going to lure them in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Makoto",
+    "en": "Right. If we know they only target girls,{SAUT}then we can set a trap for them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Ken",
+    "en": "But won't it be dangerous for whoever{SAUT}plays the bait?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Makoto",
+    "en": "I think I'd be able to defend myself, but{SAUT}with my appearance...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yukari",
+    "en": "Ahaha... Yeah, I doubt they'd wanna{SAUT}target a phantom thief...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034_1",
+    "locuteur": "Yukari",
+    "en": "Should I go?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Mitsuru",
+    "en": "No, I'll do it. As an elder of the group,{SAUT}it's my job to take the risk.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "Please do.{OPTION}Don't let your guard down.{OPTION}Want me to cross-dress?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Makoto",
+    "en": "Yeah, we'll be ready to jump in at{SAUT}anytime, so you won't have to worry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Mitsuru",
+    "en": "I know. That was my intention from the{SAUT}start.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ryuji",
+    "en": "Don't think that's gonna work, dude...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Mitsuru",
+    "en": "I appreciate your concern, but I'll be{SAUT}fine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Mitsuru",
+    "en": "Yamagishi!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Fuuka",
+    "en": "Y-Yes, ma'am!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Mitsuru",
+    "en": "Can you find us a good location to lure{SAUT}in the thieves?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Fuuka",
+    "en": "Let me see... How about the back alley{SAUT}near the center of the map?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044_1",
+    "locuteur": "Fuuka",
+    "en": "Mitsuru-senpai will wait there on{SAUT}standby. The rest of you will cover the{SAUT}exits and attack them from both sides.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Mitsuru",
+    "en": "Thank you. I'll mark the location{SAUT}on the map.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Makoto",
+    "en": "We can't let them get away with any{SAUT}more thefts. Let's make our way to the{SAUT}alley.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Hey, what's happened!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Nagi",
+    "en": "Everyone―Hikari-san's been kidnapped{SAUT}by Doe!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "She got kidnapped!? Wh-What are you{SAUT}talking about!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Fuuka",
+    "en": "Hikari-chan was watching the end of{SAUT}the movie right here with us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Rise",
+    "en": "Then, Doe came and spit out the{SAUT}third key.{PAGE}Fuuka-chan went to pick it up, and I was{SAUT}trying to contact you guys to tell you{SAUT}about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Fuuka",
+    "en": "We looked away for just a moment...{SAUT}and Doe took Hikari-chan away!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Dammit... That spongy sack of shit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Nagi",
+    "en": "I deeply apologize for this. It happened{SAUT}when I had stepped away to address{SAUT}another matter...{PAGE}I searched everywhere immediately{SAUT}upon hearing what happened, but{SAUT}she's nowhere to be found...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "To think Doe would do such a thing...{SAUT}We had left our guard down ourselves.{PAGE}And on top of that, Doe's true identity{SAUT}has remained a mystery all this time...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "He must be our enemy.{OPTION}He's Hikari's stalker.{OPTION}He's a mischievous mascot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "If Hikari-san's been kidnapped, then{SAUT}that seems like a strong possibility{SAUT}at this point...{PAGE}But none of us felt a shred of malice{SAUT}from him until now, and that especially{SAUT}bothers me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yukiko",
+    "en": "Now that I think about it, he was{SAUT}staring at Hikari-chan a little too{SAUT}much, and...{PAGE}That type of look isn't normal at all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "True, he did seem to have some sort of{SAUT}fixation with her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "If he wants to be a mascot, he needs to{SAUT}be adorably mischievous like me, not{SAUT}some... some ruffian!{PAGE}He was disqualified from being a mascot{SAUT}the moment he kidnapped Hikarin!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "But... But I... did my best...{PAGE}S-So, why!? The movie turned out so{SAUT}nice, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Aigis",
+    "en": "Futaba-san...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "All I wanted was to show Hikari a nice{SAUT}movie!{PAGE}One that shows her individuality isn't{SAUT}bad... That it's actually a good thing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "Futaba... I can understand how you feel,{SAUT}but you should try to calm down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P4 Hero",
+    "en": "He's right. It's frightening, but we need{SAUT}to keep our wits about us now more{SAUT}than ever.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Rise",
+    "en": "Um, let me give you guys this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akechi",
+    "en": "The key to the third lock... Let's go{SAUT}work on our escape route.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "But―You're just gonna leave{SAUT}Hikari to Doe!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "Well, we do have quite a sizable group.{SAUT}Why don't we allocate different tasks?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Shinjiro",
+    "en": "...He's got a point. Runnin' around in{SAUT}one big pack won't do us much good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Chie",
+    "en": "Okay―we'll go look for Hikari-chan!{PAGE}Can you and your friends go and open{SAUT}the lock, {f 6 1 30 0 0 0}-kun?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_025",
+    "choix": true,
+    "en": "Alright.{OPTION}I don't really feel up for it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ann",
+    "en": "Hey! No griping!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Akihiko",
+    "en": "We'll go search around the theater too.{SAUT}Good luck with the lock.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P4 Hero",
+    "en": "Okay, let's meet up right here{SAUT}in a little bit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "Come on, {f 6 1 30 0 0 0}―let's go check{SAUT}out the locks.",
+    "fr": ""
+  }
+]

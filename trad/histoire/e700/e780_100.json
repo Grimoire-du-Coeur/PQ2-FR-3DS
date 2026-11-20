@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Margaret",
+    "en": "Well now, what's this...? I sense a{SAUT}mysterious power among you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh? You mean this shining card?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Margaret",
+    "en": "This is... a Persona's...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "We got it off of a Shadow.{SAUT}Do you know what it is?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Margaret",
+    "en": "I certainly didn't expect to see this{SAUT}outside the bounds of film...{SAUT}*chuckle* Intriguing indeed.{PAGE}Would you mind waiting a moment?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Margaret",
+    "en": "Your patience is appreciated.{PAGE}It would seem this card can impart{SAUT}the power of a Persona.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "Impart... power?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Margaret",
+    "en": "Yes. Putting it another way, it allows{SAUT}you to draw out a single ability{SAUT}from a Persona.{PAGE}...However, this power is unstable.{SAUT}Ephemeral as it is, it may only last{SAUT}for a brief instant.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "It's that short? That's not gonna{SAUT}do much for us, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Margaret",
+    "en": "Not necessarily. If you use it in a{SAUT}sacrifice fusion, you can pass its{SAUT}power to another.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Naoto",
+    "en": "I see. That does seem convenient...{SAUT}assuming we can use it correctly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Margaret",
+    "en": "Yes. It's a fascinating find. Do try it...{SAUT}at your leisure, of course.{PAGE}I've made the preparations, so you{SAUT}can attempt it whenever you please.{SAUT}Come by if you feel so inclined.",
+    "fr": ""
+  }
+]

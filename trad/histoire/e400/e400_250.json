@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Hell yeah! Wrapped that one up{SAUT}real nice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "It was just as we suspected, though...{PAGE}\"Junessic Land\" was also based on a{SAUT}distorted version of Hikari-san's{SAUT}memories.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari",
+    "en": "Yeah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "So that's why the dinosaurs in that{SAUT}movie were all girls―well, uh, most{SAUT}of them. But anyways...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "That herd of herbivores was based on{SAUT}the circle of classmates that Hikari-chan{SAUT}used to associate with...{PAGE}And the carnivores were the bullies that{SAUT}went after Hikari-chan's friend group.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "It seems that one of Hikari-san's friends{SAUT}became the target of some bullies.{PAGE}The other classmates feared that they{SAUT}would suffer the same grief, so they{SAUT}tried to kick the girl out of their group.{PAGE}However, Hikari-san was opposed to{SAUT}that, which caused the discord in the{SAUT}group that led to her own exile.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kanji",
+    "en": "So, that's where all that \"majority rule\"{SAUT}shit in the movie came from, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukiko",
+    "en": "They said that the majority is who makes{SAUT}the right decision, and any less popular{SAUT}opinions are simply dismissed...{PAGE}They never really thought about solving{SAUT}their problems―they just decided what{SAUT}to do based on arbitrary numbers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "But, why did Yosukesaurus have{SAUT}Yosuke's head?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Their personalities were similar.{OPTION}He's great at cross-dressing?{OPTION}Just a coincidence, I guess.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yukiko",
+    "en": "That's what I think too.{PAGE}Even Yosuke-kun said that the dinosaur{SAUT}reminded him of himself, back when he{SAUT}had just transferred to Inaba.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "...Oh, right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yosuke",
+    "en": "Why are you buyin' that!? There's no{SAUT}crossdressing to that dinosaur―it just{SAUT}had my head on its body!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "I think it's probably because he was{SAUT}similar to Yosuke-kun, back when he{SAUT}first transferred to Inaba.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P4 Hero",
+    "en": "There's an old saying that there are three{SAUT}other people in the world who look{SAUT}exactly like you at any given time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosuke",
+    "en": "C'mon, what are the odds that one{SAUT}of mine is a human-faced dinosaur!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yukiko",
+    "en": "I think it's probably because he was{SAUT}similar to Yosuke-kun, back when he{SAUT}first transferred to Inaba.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "Putting all your effort into reading the{SAUT}room so you can always go along with{SAUT}what everyone else is saying...{PAGE}This focus was the common ground{SAUT}between the two, so Yosuke-senpai{SAUT}was cast into the role of Yosukesaurus.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "It's the same reason that Kamoshida{SAUT}became the authority figure in{SAUT}\"Kamoshidaman.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Teddie",
+    "en": "Basically, Yosuke was picked as the{SAUT}very best person at rolling over for{SAUT}the crowd! Congratulations!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yosuke",
+    "en": "That's not really a compliment...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Makoto",
+    "en": "Well, reading the crowd isn't the real{SAUT}issue―the problem is when that{SAUT}approach is taken too far.{PAGE}I still think any environment that{SAUT}oppresses people into hiding their{SAUT}beliefs is totally wrong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Mitsuru",
+    "en": "I agree. Their treatment of Hikari was{SAUT}nothing but a kangaroo court hiding{SAUT}behind the pretense of majority rule.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Hikari",
+    "en": "All I wanted to do was stay friends with{SAUT}Miyuki-chan...{PAGE}Was that wrong? Was I really just{SAUT}causing trouble for everyone else?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_025",
+    "choix": true,
+    "en": "Don't be silly.{OPTION}You didn't do anything wrong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Hikari",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Haru",
+    "en": "Had I been in your situation, I think{SAUT}I would've done the same thing,{SAUT}Hikari-chan...{PAGE}Your desire to support your friend,{SAUT}resulting in something that terrible...{SAUT}It's so sad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ken",
+    "en": "Obsessing over reactions and hiding{SAUT}your true feelings, or insisting on your{SAUT}own stance and being cast away...{PAGE}Either way, you still have to endure{SAUT}so much pain...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yusuke",
+    "en": "Indeed, it's the very same as killing{SAUT}your own heart.{PAGE}But, the Hikari of now ought to be{SAUT}capable of...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Hikari",
+    "en": "Yes, I need to keep going. I have to see{SAUT}what waits for me further along.",
+    "fr": ""
+  }
+]

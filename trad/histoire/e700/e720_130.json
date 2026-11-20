@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Joker―wait a sec! I'm getting an enemy{SAUT}reading just beyond your location.{PAGE}Can you handle it?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Of course.{OPTION}Give me a moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "Very well then, let's keep going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "He raises a good point. We have nothing{SAUT}to lose by preparing for the worst.{SAUT}We should regroup before entering.",
+    "fr": ""
+  }
+]

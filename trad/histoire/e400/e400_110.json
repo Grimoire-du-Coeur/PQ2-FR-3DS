@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Hmm!? Hey! Hold up, stoooop!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "Aaah! What is it!? You scared me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "S-Sorry―but, Hikari-chan's reading{SAUT}just came up, close to your current{SAUT}location!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Really!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Rise",
+    "en": "Mmhm. She should definitely be nearby!{SAUT}Try looking around!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "Um, you say that, but... There doesn't{SAUT}seem to be anyone around here?",
+    "fr": ""
+  }
+]

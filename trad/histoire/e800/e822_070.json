@@ -1,0 +1,320 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Welcome back, everyone.{PAGE}What a thrill it was to see you{SAUT}annihilate your enemies; I was on{SAUT}the edge of my seat the whole time.{PAGE}Now then, here is your reward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ken",
+    "en": "We did it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Yeah! Having come this far, I'd say{SAUT}you're basically a Junior Phantom Thief.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "Junior...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "I don't blame you―I wouldn't wanna be{SAUT}trained by a cat either. Y'know, you can{SAUT}always be my apprentice, Ken.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "As if you'd be a better teacher,{SAUT}skull-for-brains!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "That does it! And what the hell does{SAUT}that even mean!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "There they go again... and in front of{SAUT}Ken-kun too. Maybe you should say{SAUT}something, {f 6 1 30 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "You're embarrassing us.{OPTION}They're just good friends.{OPTION}He's MY apprentice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "Seriously.{PAGE}Would it kill you two to act a little bit{SAUT}more your age?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Urgh... Sorry... I got carried away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "What!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Like hell we are!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "They're two of a kind...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "You're in on this too!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "All right then, why don't we just say{SAUT}he's the Phantom Thieves' apprentice{SAUT}and leave it at that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ken",
+    "en": "*snicker*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Ken-kun?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ken",
+    "en": "Oh, forgive me... I was just thinking{SAUT}about how you all get along so well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "I dunno 'bout that... but we do all sorta{SAUT}trust each other...{PAGE}The Phantom Thieves are a team,{SAUT}y'know.{PAGE}We'd never get anything done if we{SAUT}were always running off on our own.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "Oho, Ryuji, I guess you can say{SAUT}something nice every once in a while.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Whaddya mean, \"every once in a{SAUT}while\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ken",
+    "en": "...I think I'm beginning to understand{SAUT}what it means to be a Phantom Thief.{PAGE}You've got a lot more conviction than{SAUT}the thieves I've seen in manga and{SAUT}anime.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ryuji",
+    "en": "Say, Ken...{PAGE}Why're you so interested in the{SAUT}Phantom Thieves anyways? Is it{SAUT}because...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "You want to change your heart?{OPTION}You have a request for us?{OPTION}You want a costume?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ken",
+    "en": "Huh!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "C'mon, that ain't it.{PAGE}There somebody whose heart you{SAUT}wanna change?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ken",
+    "en": "Well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ryuji",
+    "en": "...Maybe someone you can't forgive?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ryuji",
+    "en": "We told you why we became{SAUT}phantom thieves, right?{PAGE}It was because we all had someone who{SAUT}screwed us over. We were basically out{SAUT}for revenge...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ken",
+    "en": "Revenge...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Ann",
+    "en": "We definitely don't deserve any praise{SAUT}for it.{PAGE}But I don't think we made the wrong{SAUT}choice either.{PAGE}There are people out there who're{SAUT}much better off because of us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Morgana",
+    "en": "We use our power for others not for{SAUT}ourselves.{PAGE}That's our form of justice, the Phantom{SAUT}Thieves' form of justice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Ken",
+    "en": "For others... The Phantom Thieves really{SAUT}are amazing.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_035",
+    "choix": true,
+    "en": "You can do the same, Ken.{OPTION}You'll understand in time.{OPTION}That's our code.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Ann",
+    "en": "That's right. You've got the power to{SAUT}save others too, Ken-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Morgana",
+    "en": "Yeah. It might be tough at first, but you{SAUT}can definitely do it.{PAGE}You've got the potential to be one of us.{SAUT}I guarantee it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Morgana",
+    "en": "Make sure to keep up your studies as{SAUT}well, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ryuji",
+    "en": "I dunno what happened to you... but{SAUT}you don't gotta rush it, do ya?{PAGE}You can decide what to do once you{SAUT}figure out your own sense of justice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Ken",
+    "en": "My own sense of justice...{PAGE}I see... I need some time to think.{SAUT}I'll decide what to do after that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Morgana",
+    "en": "Heh, that's the spirit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Ken",
+    "en": "Um, thank you very much, everyone!{PAGE}I've never had anyone I could discuss{SAUT}this kind of stuff with before...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Ryuji",
+    "en": "Hey, remember what I said? You'll{SAUT}never get anything done if you run off{SAUT}on your own.{PAGE}What I mean is, uh... you remind me a{SAUT}bit of myself when I was your age...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_044",
+    "choix": true,
+    "en": "How?{OPTION}You're nothing alike.{OPTION}You looked in a mirror lately?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Ryuji",
+    "en": "I'm not talkin' about looks! It's more{SAUT}like... his aura or somethin'.{PAGE}Like he refuses to depend on anyone, or{SAUT}he thinks the world is against him―that{SAUT}kinda thing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Ann",
+    "en": "Wow...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Morgana",
+    "en": "Ryuji actually picked up on something{SAUT}like that...? Is it gonna snow tomorrow{SAUT}too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Ryuji",
+    "en": "Arrrgh! What's with you guys!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Ken",
+    "en": "*chuckle* I know I still have a lot to{SAUT}learn.{PAGE}But I hope that someday I'll be able to{SAUT}use my power for a sense of justice I{SAUT}believe in, just like all of you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Morgana",
+    "en": "Ken...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Ann",
+    "en": "I know you can do it, Ken-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Ryuji",
+    "en": "Yeah, lookin' forward to it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Ken",
+    "en": "Thank you!",
+    "fr": ""
+  }
+]

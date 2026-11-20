@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "So, this is the right floor, yeah? Let's go{SAUT}find those dinosaurs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "Hmm... Hey guys, hold on a sec.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "What's the matter?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "I'm getting multiple readings on this{SAUT}floor...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "Ain't that the dino that got taken away?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Hmm... I can't tell for sure myself, but it{SAUT}seems like there are others here, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "There are all sorts of lifeforms here.{SAUT}We have no idea what could suddenly{SAUT}appear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "That's right―everyone, make sure you{SAUT}keep yourselves on guard as we{SAUT}move on!",
+    "fr": ""
+  }
+]

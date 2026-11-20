@@ -1,0 +1,212 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Well done, everyone. I have confirmation{SAUT}that the FOE was indeed defeated.{PAGE}However... there is one thing I am{SAUT}dissatisfied with.{PAGE}I had been restlessly waiting for you to{SAUT}bring back some chicken as a souvenir,{SAUT}and yet you've brought nothing!{PAGE}My desire for chicken shall remain{SAUT}unfulfilled, leaving these tears of despair{SAUT}to flow forever more. *sniffle* *sniffle*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "You're not really cryin', are ya?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Sorry, Elizabeth. It wasn't real chicken...{PAGE}But I get that knowing you can't eat it{SAUT}probably makes you want it even more.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Got that right...{PAGE}*sigh* The only reason I was trying so hard{SAUT}was because I thought I'd get to dig into{SAUT}some fried chicken once we were done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Agreed. Fried chicken is the only thing that{SAUT}could possibly fill the void that is now my{SAUT}stomach...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "Wow, those two look really depressed...{PAGE}Okay, you know what? Once all this is{SAUT}over, I'll treat you guys at Junes, so just{SAUT}hold out till then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Chie",
+    "en": "Really!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "How much do you plan to treat us to?{SAUT}Will this be an all-you-can-eat affair?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "It's just fried chicken. Eat as much as{SAUT}you want.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "Yaaay! Mind adding some steaks to that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "Chicken and beef don't create a good{SAUT}balance. We'd best include some pork{SAUT}as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "Arrgh! Don't just start ordering whatever{SAUT}you want!{PAGE}Sheesh... How 'bout creating a good{SAUT}balance for my wallet first!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "You're really good at looking out for{SAUT}others, aren't you, Yosuke-kun? That's so{SAUT}cool!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Protag",
+    "en": "Yeah, Yosuke always keeps an eye on the{SAUT}people he cares about and helps put{SAUT}everyone in a good mood.{PAGE}Although, he often does too good of a job,{SAUT}and his wallet suffers for it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "Haha... It's 'cause these guys don't have{SAUT}any self-control...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P4 Hero",
+    "en": "...Still, you should take it easy every now{SAUT}and then, Yosuke.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosuke",
+    "en": "Huh? Whaddya mean, partner?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P4 Hero",
+    "en": "You don't always have to be the one to{SAUT}depend on.{PAGE}If anything's ever got you down, you can{SAUT}lean on us too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "......{PAGE}Heheh, is it that obvious? Nothin' gets{SAUT}past you, eh, partner? ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P4 Hero",
+    "en": "You're still bothered by how you got{SAUT}separated from us in Junessic Land,{SAUT}aren't you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yosuke",
+    "en": "I don't know if everyone was trying to{SAUT}avoid touching on it for my sake or not,{SAUT}but I guess I do feel kinda guilty...{PAGE}I just couldn't shake the feeling that I{SAUT}needed to make up for that somehow...{SAUT}Sorry, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Chie",
+    "en": "You were worried about that, Yosuke?{SAUT}You always get so serious about the{SAUT}weirdest things.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Kanji",
+    "en": "Guess you're softer than you look,{SAUT}Yosuke-senpai.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "Aw, lay off! I'm sensitive, all right!?{SAUT}I think about these things!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yukiko",
+    "en": "*giggle* But that's one of your strong{SAUT}points, Yosuke-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "Yeah, Yosuke, if you want someone to{SAUT}lean on, you can always lean on me!{PAGE}Here, Teddie's gotcha! Come lean!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosuke",
+    "en": "Uh, no thanks. You're all sticky from the{SAUT}ice cream.{PAGE}*sigh* You know, somehow, after talking{SAUT}with you guys, all my worries just kinda{SAUT}fade away.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_027",
+    "choix": true,
+    "en": "You've got good friends.{OPTION}People really like you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yosuke",
+    "en": "Heheh, I know, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yosuke",
+    "en": "That or they just like free food...{SAUT}Sometimes it's hard to tell.{PAGE}They are good friends, though, aren't{SAUT}they?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Naoto",
+    "en": "True, Yosuke-senpai always manages to{SAUT}lighten the mood when he's around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ann",
+    "en": "Yeah, I'm starting to see why everyone{SAUT}likes you, Yosuke-kun.{PAGE}I'm glad you made it back to your{SAUT}friends.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, we couldn't have done it without{SAUT}your help.{PAGE}Thanks for helping us save him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yosuke",
+    "en": "Wait! If we're giving out thanks, then let{SAUT}me give mine too!{PAGE}Thanks for coming after me, guys. I'm glad{SAUT}to be here with everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Elizabeth",
+    "en": "Oh my, we've somehow gone from talk{SAUT}of fake chicken to a touching exchange on{SAUT}the beauty of friendship...{PAGE}Though the matter of the chicken is still{SAUT}quite regrettable...{PAGE}Nevertheless, I suppose this outcome is{SAUT}satisfactory.{PAGE}Here is your reward. Please accept it.",
+    "fr": ""
+  }
+]

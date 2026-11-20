@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Hm? There's a lever of some kind on this{SAUT}machine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Oh? ...This seems to be related to that{SAUT}cage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "If that's true, then it would be helpful.{SAUT}We'll be able to proceed further if we{SAUT}can rotate it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "The decision's up to you, Joker...{PAGE}But, if there's no other way forward,{SAUT}this switch may be worth a try.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "You did it!{PAGE}You made it back without the music{SAUT}fading away!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Whew... We did it, somehow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "Yes. We definitely cut it close, but{SAUT}what matters is that we're done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Fuuka",
+    "en": "Okay, I'll see you back in the theater!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay, now all we gotta do is deliver{SAUT}this to Elizabeth!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Fuuka",
+    "en": "Looks like you finished with a few{SAUT}steps to spare! Good job.{PAGE}Okay, I'll see you back in the theater!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay, now all we gotta do is deliver{SAUT}this to Elizabeth!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Fuuka",
+    "en": "You finished with steps to spare!{SAUT}Great work.{PAGE}Okay, I'll see you back in the theater!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay, now all we gotta do is deliver{SAUT}this to Elizabeth!",
+    "fr": ""
+  }
+]

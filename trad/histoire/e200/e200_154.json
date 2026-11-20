@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Margaret",
+    "en": "I've been waiting for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "What's going on?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Margaret",
+    "en": "Since I've also been summoned here,{SAUT}I wished to aid you all in some way...{PAGE}And what came to mind is \"Persona{SAUT}sacrificing\"―it's a means of{SAUT}strengthening your Personas.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Strengthening?{OPTION}Sacrificing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "You can strengthen our Personas?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Margaret",
+    "en": "Yes. By merging Personas together,{SAUT}your Persona will be able to grow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "That has a rather ominous ring to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Margaret",
+    "en": "*chuckle* I won't ask you to offer one{SAUT}of your own as a sacrifice or anything,{SAUT}so please take solace in that.{PAGE}This involves merging Personas together{SAUT}to strengthen your Persona.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Is that different from Persona fusion?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Margaret",
+    "en": "Persona fusion is the means of creating{SAUT}a new Persona from multiple Personas.{PAGE}A sacrifice is performed on a single{SAUT}Persona, wherein other Personas are{SAUT}merged with it to assist in its growth.{PAGE}The original Persona will grow, and{SAUT}those merged will disappear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "One becomes stronger, while the others{SAUT}are lost... That would definitely be{SAUT}considered a sacrifice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "Can that be done with both Main and{SAUT}Sub-Personas?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Margaret",
+    "en": "Yes. It's possible to help both of them{SAUT}grow...{PAGE}Although, naturally, you will be unable{SAUT}to sacrifice your main Persona.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "But wait―isn't there more? Like, at a{SAUT}really high cost?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Margaret",
+    "en": "Of course, I will ask for compensation―{SAUT}a reasonable amount. However, since{SAUT}this is for my own research as well...{PAGE}If the Persona to disappear is being{SAUT}sacrificed for the first time, it shall be{SAUT}free of charge.{PAGE}When that Persona is sacrificed again,{SAUT}though, I will ask to be compensated.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "So, essentially, all Personas can be{SAUT}sacrificed for free the first time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Margaret",
+    "en": "That is correct.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "Ooh... This is an awesome way for us{SAUT}to grow stronger!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P4 Hero",
+    "en": "Thanks, Margaret. I appreciate your{SAUT}cooperation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Margaret",
+    "en": "...No, my part here is destiny's doing{SAUT}as well.{PAGE}With your coming, a change has{SAUT}occurred within the movies―the{SAUT}distorted programs are being corrected.{PAGE}You all may have been cast into roles{SAUT}as Persona-users to accomplish this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019_1",
+    "locuteur": "P4 Hero",
+    "en": "We were cast into such roles?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019_2",
+    "locuteur": "Margaret",
+    "en": "Yes, and I believe we were called here{SAUT}to watch over this... So, Marie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Marie",
+    "en": "Ugh... Do I really have to?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Margaret",
+    "en": "You'll have plenty of time to write your{SAUT}poems, so don't concern yourself with{SAUT}that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Marie",
+    "en": "Th-That's not―They're not just my{SAUT}poems, they're my pathos!{PAGE}StupidterribleMargaretyou'retheworst!{SAUT}Just drop it, alright!?",
+    "fr": ""
+  }
+]

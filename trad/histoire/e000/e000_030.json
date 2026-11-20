@@ -1,0 +1,155 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "...That makes it unanimous! We're{SAUT}infiltrating Mementos today!{PAGE}Sound good, Futaba?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Yessir! Navigator at the ready!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "en": "Codename: Oracle.{PAGE}Foster daughter of the Boss who is{SAUT}currently providing my lodgings.{PAGE}Hacker extraordinaire and former{SAUT}shut-in. Very shy around strangers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "Compared to the rest of you, I'm still{SAUT}rather inexperienced... But I'm not{SAUT}going to let you down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "Codename: Noir.{PAGE}Third-year at Shujin High and{SAUT}senpai to the rest of the gang.{PAGE}The only daughter of the Okumura{SAUT}Foods corporation president.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "You're doing totally fine, Haru. You've{SAUT}been improving so fast!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Codename: Panther.{PAGE}Second-year classmate,{SAUT}one-quarter American, and{SAUT}part-time magazine model.{PAGE}Bright and cheerful; cares{SAUT}deeply for her friends.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Hey, Makoto―Mementos action{SAUT}is fine and all, but are we okay{SAUT}on the Palace infiltration front?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "No issues there. It'd be best for us to{SAUT}hone our skills in Mementos so we can{SAUT}be prepared for the Palace.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Codename: Queen.{PAGE}Third-year senpai and student{SAUT}council president. Accomplished{PAGE}in both literary and martial arts.{SAUT}Very moral and upstanding,{SAUT}but a bit socially awkward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "I enjoy exploring Mementos...{SAUT}There's so much inspiration{SAUT}to take away from there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Codename: Fox.{PAGE}Second-year student at Kosei High{SAUT}with mature, distinct aesthetic{PAGE}sensibilities; his future as an artist{SAUT}is foreseeable to all who meet{SAUT}him. A unique individual.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "I've gotta say, I'm really curious{SAUT}about that place too. I can just tell{SAUT}something odd is going on there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "en": "Codename: Mona.{PAGE}An outspoken, mysterious cat who{SAUT}we met within the Metaverse.{PAGE}He can take various forms, from an{SAUT}ordinary black cat to a full-sized,{SAUT}drivable vehicle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Well, Palace or Mementos, we're just{SAUT}gonna do what we always do!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "en": "Codename: Skull.{PAGE}Second-year and former top{SAUT}runner for the track team.{PAGE}Hot-blooded, yet compassionate{SAUT}and caring. Often rushes into{SAUT}things without thinking first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Oh, but where's that guy... This is his{SAUT}first time heading into Mementos, right?{PAGE}I guess we could always ditch him...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "Sorry for the wait.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "Hup...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "Speak of the devil.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akechi",
+    "en": "Again, my apologies for being late.{SAUT}Work's been keeping my hands{SAUT}quite full.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "en": "Codename: Crow.{PAGE}A third-year high school student{SAUT}who is often referred to as the{PAGE}next \"Detective Prince\" due to{SAUT}his sharp deductive skills and{SAUT}fastidious appearance.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "So, I overheard that we're going to{SAUT}some place called Mementos?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "That's the gist of it.{OPTION}We sure are.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akechi",
+    "en": "Roger that, {f 6 1 30 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "en": "My codename is \"Joker.\" I'm a second-{SAUT}year at Shujin High and the leader of{SAUT}the Phantom Thieves.{PAGE}I'm currently living above Cafe Leblanc.{SAUT}I've been put on probation due to{SAUT}a false accusation leveled against me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "Well, that's everyone!",
+    "fr": ""
+  }
+]

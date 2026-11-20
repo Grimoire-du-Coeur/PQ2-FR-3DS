@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Where do you think that fish is at?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "What about that spot where we cooked{SAUT}up that meat?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "All right! Then, let's head over that{SAUT}way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "...Hold on. Before we head out, aren't{SAUT}we forgetting something important?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Something important?{OPTION}Bait.{OPTION}Bread crumbs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Oh! I know! Bait for the fish!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kanji",
+    "en": "Bread crumbs? Why, in case we get{SAUT}hungry?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukiko",
+    "en": "Oh! I know! Bait for the fish!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P4 Hero",
+    "en": "Right. If we're going fishing, we'll need{SAUT}some bait. Bread crumbs would've been{SAUT}perfect...{PAGE}I guess we'll have to find something{SAUT}there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosuke",
+    "en": "Bait for the fish? You mean, like,{SAUT}worms...? Where we gonna get those?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "Oh, I've heard that worms tend to hide{SAUT}beneath piles of damp leaves...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Chie",
+    "en": "Eeek!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Y-You just had to go there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "Hm... Damp leaves...?{PAGE}All right, let's find some and gather up{SAUT}some bait.",
+    "fr": ""
+  }
+]

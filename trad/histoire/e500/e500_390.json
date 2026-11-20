@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Enlil",
+    "en": "What's this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Look! Are they all really leaving{SAUT}their theaters!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "I-It worked! Wow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "W-We did it? Did I get through{SAUT}to everybody?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "That's right. Your film has moved{SAUT}the people's hearts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah! Hikari-chan's message is{SAUT}reaching them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Koromaru",
+    "en": "Grrrrr...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Fuuka",
+    "en": "Look out! I'm sensing incredible power{SAUT}from Enlil!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Enlil",
+    "en": "A heart that doesn't give up? That's{SAUT}nothing but an inability to determine{SAUT}one's own limits...{PAGE}If you thrash upon a bed of nails, isn't it{SAUT}only natural that you become wounded?{PAGE}Humans, endlessly duplicating their{SAUT}miseries... What a foolish, pathetic{SAUT}existence!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Humans aren't that weak.{OPTION}Stay out of our business.{OPTION}Anything is possible for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, that's right.{PAGE}No matter how many times we may fail,{SAUT}we can get back up and try again just as{SAUT}often.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "Well said!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012_5",
+    "locuteur": "Morgana",
+    "en": "Even if we fall, we get back on our feet.{SAUT}Take it from a human―that's how we{SAUT}work!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "That's right. If we gave up on everything{SAUT}from the start, there'd be no reason for{SAUT}us to even exist!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Enlil",
+    "en": "Oh... Then you'll have to prove it to me.{PAGE}If you cannot overcome this turmoil,{SAUT}you'll only fall to fate eventually―isn't{SAUT}that true?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Enlil",
+    "en": "In that case... show me this power{SAUT}you claim to possess!",
+    "fr": ""
+  }
+]

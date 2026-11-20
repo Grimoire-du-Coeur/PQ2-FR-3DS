@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Thank you all for waiting.{PAGE}I would like to let you know that the{SAUT}special screening you all requested{SAUT}is now ready.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Wait, what request?{OPTION}I don't remember...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Hm? How curious...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Elizabeth",
+    "en": "I was sure I heard you all wanted{SAUT}to fight an FOE in Hikari's movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "The FOE in my movie...? You mean{SAUT}the cute teddie bear?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "Oh, over here! You were looking for{SAUT}a beary adorable Teddie bear?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "Oh, not you, Teddie... It is a bear, but{SAUT}it's the bear from my movie, so...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Awww... How can Hikarin bear that{SAUT}unbearable ab-bearation, but still{SAUT}think I'm overbearing...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P4 Hero",
+    "en": "Just grin and bear it, Teddie.{SAUT}That bear bear-ly has the bearlike{SAUT}bearing you bear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Aigis",
+    "en": "Approaching speeds of fifteen{SAUT}bears per minute.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosuke",
+    "en": "Look, jokes aside... Are we seriously{SAUT}fighting this bear? Who even put in{SAUT}that request...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elizabeth",
+    "en": "Why, Teddie here assured me that{SAUT}everyone already agreed to this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "Hrmm... I guess I did say that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosuke",
+    "en": "It was you!? You can't just make{SAUT}these decisions on your own!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "Aw, c'mon! Don't you guys want to{SAUT}find out who's the bearest of them{SAUT}all?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "Don't drag us into your weird{SAUT}bear complex!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P4 Hero",
+    "en": "Don't get too worked up, Yosuke.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015_1",
+    "locuteur": "P4 Hero",
+    "en": "It'll be a powerful opponent, but it's{SAUT}always good when we can learn{SAUT}from a tough fight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosuke",
+    "en": "Well, yeah... I guess so, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Aigis",
+    "en": "Right. Teddie-san, you aim to{SAUT}prepare yourself for even greater{SAUT}battles ahead, do you not?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Teddie",
+    "en": "Absolutely, positively! Sensei, Ai-chan,{SAUT}you two totally get me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yosuke",
+    "en": "*sigh* ...You seriously need to learn{SAUT}when to stop talking.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yosuke",
+    "en": "A fight against that bear FOE, huh...?{SAUT}What do you say, {f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_021",
+    "choix": true,
+    "en": "Let's take it on.{OPTION}Might as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "Yaaay! That settles it! This bear's{SAUT}all hyped up and ready to go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yosuke",
+    "en": "Sorry about this. We didn't mean{SAUT}to drag you into our dumb bear's{SAUT}shenanigans.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Elizabeth",
+    "en": "Has it been decided?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024_1",
+    "locuteur": "Elizabeth",
+    "en": "Let us begin! It's time for a Teddie{SAUT}Showdown! Double bear-relled{SAUT}battle! Lights, camera, action!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "Action!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Aigis",
+    "en": "23 bears-per-minute action!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P4 Hero",
+    "en": "Uh, are we making this a thing...?{SAUT}Action!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Hikari",
+    "en": "You're going up against a pretty{SAUT}tough bear. It sure will be action!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yosuke",
+    "en": "Ugh... now \"bear\"'s lost all meaning...",
+    "fr": ""
+  }
+]

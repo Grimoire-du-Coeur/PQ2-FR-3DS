@@ -1,0 +1,73 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "Wow, so many locks...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "You had told us that we were locked in,{SAUT}but this is so far beyond any standard{SAUT}security measure, it's bizarre...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Yeah, even my picking skills were no{SAUT}match for them.{PAGE}We've been hoping that unlocking them{SAUT}all will get us out of here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Nagi",
+    "en": "Are you truly going to test it out? What{SAUT}if... the worst were to happen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "If that happens, then we'll deal with it.{SAUT}Now, try using that key, {f 6 1 30 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Roger that.{OPTION}This is scary, though...{OPTION}Who wants to open the door?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "Bravery like that is just what we'd expect{SAUT}from you, Leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "If we go down, we'll all go down{SAUT}together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Oh, are we doing this by a show{SAUT}of hands?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "Agh, come on! This is obviously calling{SAUT}for our leader to do it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Don't worry. If we go down, we'll all{SAUT}go down together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "en": "I should try using the key...",
+    "fr": ""
+  }
+]

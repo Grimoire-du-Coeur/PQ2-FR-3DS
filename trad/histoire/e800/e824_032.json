@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Huh!? She changed the story!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "I'm not sure why I'm even asking this,{SAUT}but... how does the story end?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukiko",
+    "en": "The girl learns the basics of cooking{SAUT}from the puppet and becomes a{SAUT}professional chef.{PAGE}Then the two of them start a little{SAUT}restaurant in the city and live happily{SAUT}ever after.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Happily!? Why happily!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "*sigh* This is exhausting.{PAGE}And, Junpei, would you give the stupid{SAUT}storytelling a rest? You're wasting our{SAUT}time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "What!? But I got shut down before I{SAUT}could even get to the good part!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "And there you have it, folks. Tune in{SAUT}next week for another exciting episode{SAUT}of \"Yukiko's Believe It, or Don't.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "Huh? Another episode?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "*sigh* Come on, that's enough chatter.{SAUT}Let's get going already.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "Eeek!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Junpei",
+    "en": "Huh? Scared just like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "I know it's a rare treat to see Queen be{SAUT}the scaredy-cat, but we don't have time{SAUT}to stand around.{PAGE}That sound was either a Shadow or a{SAUT}robot... Whatever it is, it isn't friendly, so{SAUT}be on your guard.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Makoto",
+    "en": "I-I know. We need to stay focused with{SAUT}enemies around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukari",
+    "en": "Ngh, it'd be nice if we could just avoid{SAUT}them... Guess we'd better keep moving.",
+    "fr": ""
+  }
+]

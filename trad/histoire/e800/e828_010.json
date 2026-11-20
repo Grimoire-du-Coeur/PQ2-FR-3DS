@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "The stage for this next special screening{SAUT}will be A.I.G.I.S.{PAGE}The lead role will be played by a lone,{SAUT}broken robot. It seems it has lost a{SAUT}certain component...{PAGE}Your task is to locate said component{SAUT}and return the robot to normal in a{SAUT}touching finale...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "A broken robot, huh...? I hope we can{SAUT}fix it soon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says he would like to go{SAUT}with {f 6 1 27 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh? Me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "Koromaru did say he was interested in{SAUT}you, {f 6 1 27 0 0 0}-san.{PAGE}I'm sure that's one reason why he wants{SAUT}to come along.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* I guess I'm sort of happy to{SAUT}hear that.{PAGE}All right, let's go, Koromaru! Oh, you're{SAUT}welcome to join us, Ken-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ken",
+    "en": "Huh!? Uh... Sure!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Aigis",
+    "en": "I will go too. Please allow me to{SAUT}accompany you as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elizabeth",
+    "en": "I believe finding the robot will prove{SAUT}rather easy... The difficult part will be{SAUT}locating its missing component.{PAGE}I'm looking forward to a most{SAUT}satisfactory conclusion. Good luck to{SAUT}you all.",
+    "fr": ""
+  }
+]

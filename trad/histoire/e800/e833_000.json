@@ -1,0 +1,151 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "How long have we been going back{SAUT}and forth like this? I can't take it{SAUT}any more...{PAGE}C'mon, Joker, please! Can't we take{SAUT}a break!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Keep walking.{OPTION}Fine.{OPTION}Just a little one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Dang, Joker, why you gotta be like{SAUT}that? I'm beggin' you here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "That's what I like to hear, Joker!{SAUT}You da man!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "Is that all you've got, Junpei? You{SAUT}might need to work on your stamina.{PAGE}Training when you're already tired{SAUT}can teach you about your limits.{SAUT}Stand up! I'll train with you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "No way! I'd die mid-jumping-jack!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Mitsuru",
+    "en": "Hold on, Akihiko. Iori's fatigue is{SAUT}perfectly understandable.{PAGE}Not only is this a complicated maze,{SAUT}we're facing more and more vicious{SAUT}enemies. Anyone would get tired.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Junpei",
+    "en": "Y-Yeah, see!?{PAGE}I was just worried about everyone{SAUT}else, see? My heart's aching, thinking{SAUT}about everyone's poor feet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukari",
+    "en": "I don't know about that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mitsuru",
+    "en": "Either way, it's best not to force{SAUT}ourselves. Let's take a break and{SAUT}replenish our energy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "But it feels like we've been goin'{SAUT}nowhere this whole time! It's getting{SAUT}annoying.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "Either way, if we stay calm and keep{SAUT}moving, I'm sure we'll get there.{PAGE}Even if it's a dead end, we can still{SAUT}enter that in the map. And that'll{SAUT}bring us one step closer anyway!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "Hah... That's optimistic, at least.{SAUT}I suppose you have a point.{PAGE}Let's take a break.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "Hmm... Mitsuru and Noir are always{SAUT}so calm. And when they speak,{SAUT}everyone listens.{PAGE}They're both so regal, too. Is this{SAUT}what it means to be \"nobility\"?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "We should be like that.{OPTION}I'm calm too.{OPTION}I don't know...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "Haha... I don't know if you can just{SAUT}pick it up. You've gotta be born with{SAUT}it, I think.{PAGE}But they're both so beautiful, too...{SAUT}I'd probably do anything they asked...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Chie",
+    "en": "If all you wanted was a powerful girl{SAUT}to step on you, I could make that{SAUT}happen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yosuke",
+    "en": "Haha. I mean, you are a leader, and{SAUT}you do have a weird kinda dignity...{PAGE}But both of them are so gorgeous...{SAUT}I'd do anything they asked me to...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Chie",
+    "en": "If all you wanted was a powerful girl{SAUT}to step on you, I could make that{SAUT}happen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yosuke",
+    "en": "I mean... They're so calm, it makes{SAUT}you feel like they know exactly what{SAUT}they're doing.{PAGE}But on top of that, they're both so{SAUT}beautiful... I'd do anything they{SAUT}asked me to...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "If all you wanted was a powerful girl{SAUT}to step on you, I could make that{SAUT}happen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Shinjiro",
+    "en": "Well, I guess it's true that people{SAUT}with authority tend to carry themselves{SAUT}a certain way.{PAGE}They're just used to controlling{SAUT}people. That's how Mitsuru is.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yusuke",
+    "en": "Hm... Noir has a similar bearing.{SAUT}It's a bit more subtle than Kirijo-san's,{SAUT}though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Morgana",
+    "en": "I see... It might be because they're{SAUT}both heiresses. Guess that's where{SAUT}the charisma comes from.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "en": "A new special screening:{SAUT}\"Heir Pressure\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

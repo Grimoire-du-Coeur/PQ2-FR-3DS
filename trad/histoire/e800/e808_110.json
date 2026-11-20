@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Welcome back! You did great,{SAUT}Naoto-kun, Futaba-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Yes, I was very impressed with both{SAUT}Futaba's memory and Shirogane-san's{SAUT}analysis skills.{PAGE}Thanks to you two, we were able to{SAUT}solve the crime.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Good work!{OPTION}A perfect pair.{OPTION}It's all thanks to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Ohh! You sound like a police chief!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Thank you. It makes me happy to hear{SAUT}you say that.{PAGE}Of course, we mustn't forget we had{SAUT}your help as well, {f 6 1 30 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Yeah! Maybe we can make it a thing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "*chuckle* You were a great partner,{SAUT}Futaba-san. I would very much enjoy{SAUT}working with you again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "C'mon... Let them have their moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "*chuckle* Of course, we couldn't have{SAUT}done it without your leadership,{SAUT}{f 6 1 30 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Haru",
+    "en": "But detectives are so cool! I was{SAUT}absolutely amazed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Teddie",
+    "en": "Me too! I wanna see more!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Rise",
+    "en": "Oh, maybe Akechi-san can go next{SAUT}time. It'll be the old Detective Prince{SAUT}versus the new one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukiko",
+    "en": "Wow! That would be great! I bet they'd{SAUT}solve the crime in no time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "Haha. Hopefully, I can be of some{SAUT}help.{PAGE}By the way, what I saw today was{SAUT}great. It truly helped broaden my{SAUT}horizons.{PAGE}Should we ever get the chance,{SAUT}allow me to assist you, Detective Prince.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "I'd be honored. If the time comes,{SAUT}please do.",
+    "fr": ""
+  }
+]

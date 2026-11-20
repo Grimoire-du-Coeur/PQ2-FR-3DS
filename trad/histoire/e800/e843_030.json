@@ -1,0 +1,49 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Oh, this's gotta be one of the signs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "The voice said there'd be a question{SAUT}on it, right? Let's see...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "\"You stand beside a railroad track.\"{PAGE}\"You see a speeding cart on the track.{SAUT}Its brakes are failing.\"{PAGE}\"Ahead of the cart, you see five{SAUT}workers. If the cart isn't stopped,{SAUT}their lives will be in danger.\"{PAGE}\"Straight ahead, you see a lever that{SAUT}can change the cart's course to{SAUT}another track.\"{PAGE}\"If you change its course, you can{SAUT}save the five workers, but there is{SAUT}one worker on the other track.\"{PAGE}\"In this situation, would you pull the{SAUT}lever? If yes, turn right. If no,{SAUT}turn left.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Cart? Track? I don't see any of{SAUT}those around here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "No, the sign proposes a thought{SAUT}experiment. A classic one, at that.{SAUT}We just need to provide an answer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Mitsuru",
+    "en": "Either we do nothing, and endanger{SAUT}five people by our inaction, or kill{SAUT}one to save the five...{PAGE}Hm... The parameters are simple{SAUT}enough, but the answer is less so.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "Yeah, there's no clear-cut right{SAUT}answer here. We're just being{SAUT}asked what we would do.{PAGE}If we pull the lever, we go right,{SAUT}but if we don't do anything, we{SAUT}go left...{PAGE}It's up to you, Joker. We'll go{SAUT}whichever way you go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "There's a question written on the{SAUT}sign...{PAGE}\"You stand beside a railroad track.\"{PAGE}\"You see a speeding cart on the track.{SAUT}Its brakes are failing.\"{PAGE}\"Ahead of the cart, you see five{SAUT}workers. If the cart isn't stopped,{SAUT}their lives will be in danger.\"{PAGE}\"Straight ahead, you see a lever that{SAUT}can change the cart's course to{SAUT}another track.\"{PAGE}\"If you change its course, you can{SAUT}save the five workers, but there is{SAUT}one worker on the other track.\"{PAGE}\"In this situation, would you pull the{SAUT}lever? If yes, turn right. If no,{SAUT}turn left.\"",
+    "fr": ""
+  }
+]

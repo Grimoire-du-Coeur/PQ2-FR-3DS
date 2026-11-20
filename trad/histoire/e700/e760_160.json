@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "It's a dead end. Looks like a good time{SAUT}for a break!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Awright...{PAGE}Y'know, I've been thinkin' about this{SAUT}for a while now, but isn't it insane that{SAUT}we're gettin' comms from Risette?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "It is insane.{OPTION}You think?{OPTION}I'm used to it already.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Right? I'm so glad I'm a Persona-user...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Whaddya mean, \"You think!?\" This is{SAUT}super idol Risette we're talkin' about!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "As if! We're talkin' about super idol{SAUT}Risette!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kanji",
+    "en": "Don't you think yer goin' a little{SAUT}overboard here? It's nothin' out of the{SAUT}ordinary.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "There's nothin' ordinary about it! How{SAUT}the hell can you feel that way?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "I can understand how you feel, Skull,{SAUT}but your fanboying's starting to get{SAUT}creepy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Shuddup! At least lemme enjoy this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Hey, Skull! We already have the{SAUT}supermodel Panther on our team! You{SAUT}haven't forgotten about her, have you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Uh, it's not like I forgot or anythin'. I've{SAUT}just known her since middle school, so{SAUT}that's nothin' new...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosuke",
+    "en": "Ohh, I get you. It's important to keep it{SAUT}fresh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "...Hey, Skull. I think you and I need to{SAUT}have a little talk.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Rise",
+    "en": "Same goes for you, Yosuke-senpai.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "Huh!? Oh, uh, I was just kiddin'...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosuke",
+    "en": "Y-Yeah, we didn't mean it like that...{SAUT}Hahaha...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Good grief... These two really are{SAUT}hopeless.",
+    "fr": ""
+  }
+]

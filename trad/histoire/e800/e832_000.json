@@ -1,0 +1,163 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "...So that enzyme drink is really popular{SAUT}in the industry. They say it makes your{SAUT}skin silky smooth!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Wow. I actually worry about my skin{SAUT}all the time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "I've been looking into fasting too. You{SAUT}know, where you go a period of time{SAUT}without eating anything?{PAGE}I hear a lot of models and actresses do it{SAUT}overseas, so I'd like to try it when I get{SAUT}a little older!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "F-Fasting!? Just thinking about it{SAUT}stresses me out... I could never do that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukiko",
+    "en": "If it's smooth skin you want, you can{SAUT}always use the hot springs at my{SAUT}family's inn. That works really well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Rise",
+    "en": "You do have really beautiful skin,{SAUT}Yukiko-senpai.{PAGE}I wish my family owned a hot spring{SAUT}inn. I'd be able to detox every day.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Aigis",
+    "en": "I have a question: Do robots benefit{SAUT}from the effects of hot springs too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "Um, I don't think that's a good idea...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Aigis",
+    "en": "I see. That is unfortunate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Hey there, ladies! What are we talking{SAUT}about~?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Rise",
+    "en": "Huh? Not telling! It's girl talk... Just{SAUT}kidding.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "Girl talk!? I heard about this from{SAUT}Yosuke!{PAGE}He said it's a secret safe haven where{SAUT}girls share their thoughts about love{SAUT}and infatuation and romance!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "Those are all basically the same thing.{SAUT}Also, what the hell has Yosuke been{SAUT}telling you...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "I want to talk like a girl! Let me join in!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "Huh? Aren't you an alpha male, Teddie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Teddie",
+    "en": "Are you sayin' I'm an animal!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Chie",
+    "en": "Well, you're definitely not a girl, right?{SAUT}You always call yourself a \"lonely boy\"{SAUT}or whatever.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Teddie",
+    "en": "Erk! That's right...{PAGE}But aren't I as pretty as a girl? That{SAUT}should be enough... right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Rise",
+    "en": "That's not the same! Only girls can have{SAUT}girl talk.{PAGE}Well, I guess you can join in this time.{SAUT}We were just talking about beauty and{SAUT}skincare.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Teddie",
+    "en": "That's not girl talk! I want GIRL talk!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Haru",
+    "en": "Wha―!? But...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Teddie",
+    "en": "I will enter this secret realm of ladyhood,{SAUT}even if it kills me!{PAGE}So, how about this? If I can become{SAUT}prettier than the rest of you, I get to join{SAUT}you for some REAL girl talk.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Haru",
+    "en": "W-Wow, you sure are determined. You{SAUT}want to join in that much?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Aigis",
+    "en": "I am interested in this girl talk as well.{SAUT}I will be recording data for future{SAUT}reference.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Rise",
+    "en": "As a member of the idol world, I'm not{SAUT}gonna let you show me up so easily.{PAGE}All right, Teddie, you're on. Let's see just{SAUT}how pretty you can be!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "Rrrrraaaahh, challenge accepted! I'll{SAUT}show you my girl power!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "en": "A new special screening:{SAUT}\"The Secret to Beauty\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Let's see, this is near where the mark on{SAUT}the map was... right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "And there are flowers here! All right,{SAUT}let's shake 'em down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Hey, we're looking for a \"black thing.\"{SAUT}Any of you seen it around here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Shrill Flower",
+    "en": "Oh my my my, look at all of you. You're{SAUT}looking for the \"black thing,\" you say?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Smiling Flower",
+    "en": "Yes, yes, we know it oh-so-well.{SAUT}Listen close, and I will tell...{PAGE}Along a dark, blocked path, a house{SAUT}stands a-swirl in wrath. Seen through{SAUT}a door, infused with evil long ignored.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Okay, somewhere in that silly muddle I{SAUT}heard about a house through a door?{SAUT}On a blocked path?{PAGE}Like one of those dead ends that only{SAUT}appear in special screenings?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "All right, let's keep going! No time to{SAUT}stop and smell the roses!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Shrill Flower",
+    "en": "Oh, but you must take care, great care.{PAGE}They want it all to themselves, all to{SAUT}themselves... And they wait... Lurking in{SAUT}the dark recesses of that house.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Smiling Flower",
+    "en": "They won't let you have it. Never ever...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Wha...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "This isn't going to be as easy as we{SAUT}hoped.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Hero",
+    "en": "Or as safe, it sounds like. Are they{SAUT}talking about Shadows waiting for us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "...Maybe we should just leave...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "Are you giving up?{OPTION}Are you scared?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "Yes... I don't want to put everyone in{SAUT}danger for my sake.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Hikari",
+    "en": "No. I'm fine, as long as you're all here.{PAGE}But I don't want to put everyone in{SAUT}danger just for my sake.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "Hikari, dickory, dock, don't worry 'bout{SAUT}this petal-talk! Seriously... we'll protect{SAUT}you; the flowers are just scaredy-plants.{PAGE}Just leave it all to Junpei Iori and seeds.{SAUT}Uh, SEES!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yosuke",
+    "en": "That's right. We made you a promise,{SAUT}didn't we?{PAGE}The customer is always right! That's the{SAUT}mentality I learned at Junes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "Iori-kun, Hanamura-kun...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Heck, with this many people, we'll send{SAUT}those Shadows home crying to their{SAUT}Shadow mommies.{PAGE}The Phantom Thieves don't abandon{SAUT}anyone.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_020",
+    "choix": true,
+    "en": "That's right.{OPTION}All for one and one for all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Yeah! We can't turn down a request{SAUT}from a friend, after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Hell yeah! We can't turn down a{SAUT}request from a friend, after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari",
+    "en": "Friends...{PAGE}Thank you... I'm so happy you're here for me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Junpei",
+    "en": "Then let's leave this music show and get{SAUT}OUR show on the road!{PAGE}Follow my lead, Pollen-hair and{SAUT}Grump-face!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ryuji",
+    "en": "Who put you in charge, Mister{SAUT}Inappropriate-to-Flowers?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosuke",
+    "en": "Yeah, you offended them almost as{SAUT}much as you offend us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Junpei",
+    "en": "I mean, they were being delicate little{SAUT}flowers... literally!{PAGE}Let's just go! Come on, you gotta keep{SAUT}up, Hikari-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Hikari",
+    "en": "Okay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yukari",
+    "en": "*sigh* Well, they're in good spirits.{SAUT}Were those three always that close?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ann",
+    "en": "I think they just click because they're{SAUT}all such goofballs!{PAGE}At least it keeps them motivated, haha.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Chie",
+    "en": "Hopefully they don't get too carried{SAUT}away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P4 Hero",
+    "en": "Don't worry. Yosuke always comes{SAUT}through when he needs to.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "P3 Hero",
+    "en": "We can count on Junpei as well. I think{SAUT}things will work out.{PAGE}Now then, we're looking for something{SAUT}in a house, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Futaba",
+    "en": "A house that's through a door. Let's get{SAUT}house-hunting!",
+    "fr": ""
+  }
+]

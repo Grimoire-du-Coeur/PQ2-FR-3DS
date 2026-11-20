@@ -1,0 +1,377 @@
+[
+  {
+    "id": "YUKIKO_FOE_FOLLOW_START_",
+    "en": "It looks like the FOE's after us!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_FOE_FOLLOW_START_#2",
+    "en": "It's an FOE! Look out!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_FOE_FOLLOW_START_#3",
+    "en": "An FOE's heading our way!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_FOE_NEAR_1",
+    "en": "It's an FOE! Be careful,{SAUT}everyone!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_FOE_NEAR_2",
+    "en": "An FOE's close. We should be{SAUT}careful!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_FOE_NEAR_3",
+    "en": "Isn't that an FOE?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_FOE_FOLLOW_END_1",
+    "en": "Looks like it gave up on us.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_FOE_FOLLOW_END_2",
+    "en": "Thank goodness we got away.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_FOE_FOLLOW_END_3",
+    "en": "Phew... It went away.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_KANSI_REACTION_1",
+    "en": "Quietly... Quietly...",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_KANSI_REACTION_2",
+    "en": "This is pretty nerve-racking.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_KANSI_REACTION_3",
+    "en": "We should be careful not to{SAUT}get caught.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_DENKISAKU_REACTIO",
+    "en": "This trap's proving to be quite an{SAUT}obstacle.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_DENKISAKU_REACTIO#2",
+    "en": "Couldn't we just destroy this{SAUT}gate?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_DENKISAKU_REACTIO#3",
+    "en": "It would be a lot easier if I could just{SAUT}burn this down...",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_KYOUHU_REACTION_1",
+    "en": "Ahahahaha!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_KYOUHU_REACTION_2",
+    "en": "Huh!?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_KYOUHU_REACTION_3",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_STAIR_FIND_1",
+    "en": "Do you think we can go on{SAUT}from here?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_STAIR_FIND_2",
+    "en": "Looks like we can go on to the next{SAUT}floor.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_STAIR_FIND_3",
+    "en": "I think we can keep going. Why don't{SAUT}we check it out?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_TREASURE_FIND_1",
+    "en": "Look, it's a treasure chest!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_TREASURE_FIND_2",
+    "en": "It's a treasure chest.{SAUT}Should we open it?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_TREASURE_FIND_3",
+    "en": "I wonder what's inside.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_CHECK_WALL_1",
+    "en": "Oh, look over there!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_CHECK_WALL_2",
+    "en": "Hmm... I feel like there's something{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_CHECK_WALL_3",
+    "en": "Why don't we take a look{SAUT}around here?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_SWITCH_FIND_1",
+    "en": "Oh, a switch.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_SWITCH_FIND_2",
+    "en": "Ooh, we're going to have to press the{SAUT}switch, aren't we?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_SWITCH_FIND_3",
+    "en": "Doesn't that look like a switch?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_SHORTCUT_FIND_1",
+    "en": "I think we can pass through there.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_SHORTCUT_FIND_2",
+    "en": "Do you think we can use that as a{SAUT}shortcut?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_SHORTCUT_FIND_3",
+    "en": "Hey, I think we can go{SAUT}through there.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_FOE_WARNING_NEAR_",
+    "en": "The FOE's still coming!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_FOE_WARNING_NEAR_#2",
+    "en": "We're being followed.{SAUT}Let's be careful.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_FOE_WARNING_NEAR_#3",
+    "en": "The FOE's still chasing us!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_1PERSON_HPTP10_1",
+    "en": "I'm sorry, I can't go on...",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_1PERSON_HPTP10_2",
+    "en": "This isn't good. I think I'm at{SAUT}my limits...",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_1PERSON_HPTP10_3",
+    "en": "Do you think we could take a break...?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_1PERSON_HP10_1",
+    "en": "Someone, please heal me...",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_1PERSON_HP10_2",
+    "en": "My health's getting too low...",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_1PERSON_HP10_3",
+    "en": "Please, someone heal me...",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_1PERSON_TP10_1",
+    "en": "Nnh... I don't think I have any more{SAUT}energy...",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_1PERSON_TP10_2",
+    "en": "*sigh* I'm getting tired...",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_1PERSON_TP10_3",
+    "en": "It's no good... I don't think I can move{SAUT}another inch...",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_1PERSON_HP80_1",
+    "en": "Hehe! This is nothing for us!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_1PERSON_HP80_2",
+    "en": "I can keep going. Just leave it{SAUT}to me.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_1PERSON_HP80_3",
+    "en": "I think we can keep going at{SAUT}this rate.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_DUNGEON_START_1",
+    "en": "Don't push yourselves too hard,{SAUT}everyone.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_DUNGEON_START_2",
+    "en": "We didn't forget anything, did we?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_DUNGEON_START_3",
+    "en": "We should be prepared for anything.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_QUEST_START_1",
+    "en": "Let's do our best to succeed.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_QUEST_START_2",
+    "en": "Let's go about this carefully!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_QUEST_START_3",
+    "en": "Don't worry, I'm sure we can do it.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_TOUHA_25_1",
+    "en": "I feel like we still have a lot more{SAUT}exploring to do...",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_TOUHA_25_2",
+    "en": "We still have a way to go, but let's{SAUT}keep doing our best.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_TOUHA_50_1",
+    "en": "I think we're about halfway there.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_TOUHA_50_2",
+    "en": "Mm, we're on a roll. Let's keep it up!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_TOUHA_75_1",
+    "en": "Phew... We've walked quite a long way.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_TOUHA_75_2",
+    "en": "Just a little more and this floor's all{SAUT}done.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_TOUHA_100_1",
+    "en": "We've walked every inch of this floor.{SAUT}Well done.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_TOUHA_100_2",
+    "en": "We've walked every last inch of this{SAUT}floor!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_MAPPING_ICON_ALL_",
+    "en": "The map's looking really nice, thanks{SAUT}to you.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_MAPPING_ICON_ALL_#2",
+    "en": "Wow, this map's really precise!",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_MAPPING_ICON_KAID",
+    "en": "I'm sure it will help if we know where{SAUT}the stairs are.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_MAPPING_ICON_KAID#2",
+    "en": "It's good to mark down points of{SAUT}interest.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_MAPPING_CHANGE_CO",
+    "en": "Ah, you're using that color!?",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_MAPPING_CHANGE_CO#2",
+    "en": "You have a keen eye for art. Maybe I'll{SAUT}try it too.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_MAPPING_ICON_DEL_",
+    "en": "It's best to throw away things we don't{SAUT}need.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_MAPPING_ICON_DEL_#2",
+    "en": "Mmhm, much cleaner now.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_MAPPING_MEMO_1",
+    "en": "It's important to take notes.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_MAPPING_MEMO_2",
+    "en": "Make sure you write it down so you{SAUT}don't forget.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_DOOR_OPEN_1",
+    "en": "I guess we're going this way.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_DOOR_OPEN_2",
+    "en": "Let's keep going.",
+    "fr": ""
+  },
+  {
+    "id": "YUKIKO_DOOR_OPEN_3",
+    "en": "What do you think is on the{SAUT}other side?",
+    "fr": ""
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Where will you start from?{SAUT}*This debug is for mission confirmation.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "From the beginning{OPTION}From Ch.1{OPTION}From Ch.2{OPTION}From Ch.3{OPTION}From Ch.4{OPTION}From Ch.5",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "en": "Starting gameplay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "Skipping the prologue and starting{SAUT}from Ch.1.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "Starting gameplay from Ch.2.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Starting gameplay from Ch.3.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Starting gameplay from Ch.4.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Starting gameplay from Ch.5.",
+    "fr": ""
+  }
+]

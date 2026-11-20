@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Be careful in there, guys. I'll start{SAUT}navigating as hard as I can!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "*sigh* This movie though―it's{SAUT}seriously depressing, no matter where{SAUT}I look...{PAGE}Who would even make something like{SAUT}this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "The plot's all effed up too. That{SAUT}Kamoshida-wannabe gets{SAUT}treated like a hero...  {PAGE}Plus, the enemies here ain’t the Shadows{SAUT}we've seen before... Seriously, the effin’{SAUT}hell is goin’ on here?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Don't lose it on me here.{OPTION}Enemies are still enemies.{OPTION}All we have to do is beat them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Ohh... Uh, sorry. Was I makin' you{SAUT}nervous?{PAGE}I haven’t forgotten about rescuin’ Queen{SAUT}and Noir, though. I'm good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Yes, this is not an occasion for panic.{SAUT}Let's all attempt to remain calm.{PAGE}It’s true that there’s a lot we don’t know{SAUT}about this world. However, what we{SAUT}must do now is quite clear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "That’s true―all we have to do is take{SAUT}out Shadows and accomplish our{SAUT}mission.{PAGE}So it's really not any different from{SAUT}what we do in Palaces...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Yes, this is not an occasion for panic.{SAUT}Let's all attempt to remain calm.{PAGE}It’s true that there’s a lot we don’t know{SAUT}about this world. However, what we{SAUT}must do now is quite clear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Dude... You sound like a real meathead{SAUT}sometimes, y’know that?{PAGE}Then again, I guess fighting's all we can{SAUT}do right now. Ain’t like me to complain{SAUT}about that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "Yes, this is not an occasion for panic.{SAUT}Let's all attempt to remain calm.{PAGE}It’s true that there’s a lot we don’t know{SAUT}about this world. However, what we{SAUT}must do now is quite clear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Right. First we need to explore this{SAUT}movie and find Kamoshidaman.{PAGE}After all, we don't know if he’s gonna{SAUT}harm Queen or Noir.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "Yeah, seriously! He may or may not{SAUT}be the real guy, but just looking like{SAUT}Kamoshida's enough to worry me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Let's go―we need to rescue them{SAUT}as soon as possible.",
+    "fr": ""
+  }
+]

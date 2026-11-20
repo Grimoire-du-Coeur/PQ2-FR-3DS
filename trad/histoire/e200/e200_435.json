@@ -1,0 +1,236 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "Alright! Is it just me, or did we nail that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "You sure did! Everyone had such{SAUT}happy smiles in the end!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari",
+    "en": "Welcome back, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Thanks! Did you make sure to watch{SAUT}the whole movie to the end?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "Mmhm, I did.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "H-Hey, Hikari―what did you think{SAUT}of it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "Um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Nagi",
+    "en": "It's all right... You can tell them how you{SAUT}truly felt, in your own words.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "Mm... Well...{PAGE}The movie was really... wonderful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "F-For real!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "Mmhm... For real.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "I see. I'm glad to hear that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hey, Hikari-chan―what did you like{SAUT}about it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Hikari",
+    "en": "He stood up to the carnivore...{SAUT}Even though he was on his own...{PAGE}Everyone else was against the idea, but...{SAUT}he summoned the courage to do it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "You mean Yosukesaurus, yeah?{SAUT}And? And?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Hikari",
+    "en": "And then, the other herbivores were{SAUT}really scared... but they also found{SAUT}their courage.{PAGE}He acted on how he truly felt... but he{SAUT}wasn't left alone because of it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosuke",
+    "en": "That's because friends can say what{SAUT}they're really feeling―right, partner?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P4 Hero",
+    "en": "Right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "Up until now, I thought that I had to go{SAUT}along with what my friends did and said.{PAGE}Otherwise, I wouldn't be able to be with{SAUT}them... I thought it was only natural to go{SAUT}along with the crowd...{PAGE}But, that wasn't true. It's exactly like{SAUT}you said, Futaba-chan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "Hikari, did... did you just call me{SAUT}by my name?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Nagi",
+    "en": "Just as with the previous movie,{SAUT}the ending to which you guided{SAUT}this film was simply magnificent.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Hikari",
+    "en": "You thought so too, Nagi-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Nagi",
+    "en": "Yes. Violence by numbers always occurs{SAUT}when living in a group...{PAGE}I can only surmise that many individuals{SAUT}must have been mistreated in that movie{SAUT}until you all entered and altered it.{PAGE}It's undeniable that such issues may also{SAUT}take place within the world we know...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Nagi",
+    "en": "However, thanks to all of you, we were{SAUT}able to witness a new outcome today.{PAGE}Just as Hikari-san and the dinosaurs that{SAUT}appeared in that movie felt... I too feel{SAUT}overjoyed.{PAGE}Please allow me to express my gratitude{SAUT}as well...{PAGE}Thank you so much for that wonderful{SAUT}movie.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_025",
+    "choix": true,
+    "en": "We just did what we always do.{OPTION}There's no need for thanks.{OPTION}Of course we crushed it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Chie",
+    "en": "Aw man, he just treated that whole{SAUT}nightmare like it was a piece of cake!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Teddie",
+    "en": "*whistle* So cool!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "Man, what a show-off...{PAGE}Then again, we really did crush it{SAUT}in there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Chie",
+    "en": "Aaaaaaah!? Man, you surprised me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "P4 Hero",
+    "en": "Doe...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P4 Hero",
+    "en": "So, that's Doe...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Doe",
+    "en": "Nghh... Nnnnghhh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Haru",
+    "en": "His expression... Is he about to produce{SAUT}another key!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Hikari",
+    "en": "A-Ah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan, come here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Doe",
+    "en": "Ngh... Nghhhhh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yosuke",
+    "en": "Wha―! I know you told me about this,{SAUT}but did a key really just pour out of{SAUT}his eyes!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Yukiko",
+    "en": "Could it be a key to the front door?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Naoto",
+    "en": "Yes, I believe it's the second one.{SAUT}Let's give it a try.",
+    "fr": ""
+  }
+]

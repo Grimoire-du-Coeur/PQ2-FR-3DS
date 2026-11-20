@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "Aw, a dead end!?{PAGE}Why's this place so complicated?{SAUT}All these movie theaters are making{SAUT}me feel like we're lost!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Even as we speak, those theaters are{SAUT}filled with people watching negative{SAUT}films...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Y'know, there's something I've been{SAUT}wondering since we ended up in this{SAUT}theater district...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "What's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "Considering how many theaters there{SAUT}are... Do you think one of 'em could be{SAUT}showing a kung fu flick?{PAGE}And, if I went in that movie, would I be{SAUT}able to pull off some kickass stunts!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "Oh... I've actually wondered the same{SAUT}thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "You too!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "So, do you think there's another movie{SAUT}out there that's got a bunch of, uh...{SAUT}fluffy, cute shit?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Shinjiro",
+    "en": "Ooh―Uh, I mean, hmm, I wonder...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "Haha, busted! I can't believe THAT'S{SAUT}the movie you wanna go inside!{PAGE}In my case, I wanna go in a sports movie!{SAUT}I'd play the super-good-looking major{SAUT}leaguer so I could show off my skills!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "In that case, I wish to enter a movie{SAUT}overflowing with beautiful artwork{SAUT}and delicious food.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "Haha, you're all so open with your{SAUT}desires...{PAGE}But, considering how the films work{SAUT}here, even if we managed to find them,{SAUT}I doubt we'd get what we want.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Hero",
+    "en": "While we're on the subject, what kind{SAUT}of movie would you want to go inside,{SAUT}Crow?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "I think I'd want to go into a mystery.{PAGE}As a Detective Prince, I'm interested in{SAUT}solving difficult cases, even in a movie...{SAUT}Don't you agree, Shirogane-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "Yes―I'm curious about the ruses and{SAUT}schemes that could only occur in a film.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "You'd be perfect as the star, Naoto.{SAUT}A lady detective disguised as a man{SAUT}is perfect for a story like that.{PAGE}And then, you fall for a forbidden love―{SAUT}the outlaw with a shocking past! How's{SAUT}that float your boat?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Naoto",
+    "en": "I... I'd never fall for someone like that!{SAUT}I would arrest any and all outlaws!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Hikari",
+    "en": "*giggle* It'd be so fun to watch{SAUT}the movies you all want to be in.{PAGE}Even if it's not made into a wild genre{SAUT}flick, I think turning everyday life into{SAUT}a movie would be interesting too.{PAGE}Just watching people live their lives to{SAUT}the fullest can be really encouraging.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Junpei",
+    "en": "Oh man, you hit the nail on the head,{SAUT}Hikari-chan!{PAGE}I've really gotta step my game up even{SAUT}further to strike Hikari-chan's heart{SAUT}as a major leaguer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "C'mon, everybody―let's keep this{SAUT}energy up as we get moving!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Hikari",
+    "en": "Yeah!",
+    "fr": ""
+  }
+]

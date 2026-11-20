@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "Ack! Another robot!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "And we're at a dead end! What're we{SAUT}gonna do!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mitsuru",
+    "en": "The gate that alternates between open{SAUT}and closed states is just up ahead...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Let's destroy the FOE.{OPTION}Let's lead the FOE there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "What, we're destroying it with our fists?{SAUT}In that case, leave it to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Shinjiro",
+    "en": "Hey moron, there's no way you or{SAUT}anybody is punching that thing{SAUT}and living to talk about it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "U-Um...{PAGE}Wouldn't the closed door open up if we{SAUT}led the pursuing FOE through the gate?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Ah, that's a great idea.{PAGE}If we have the pursuing FOE go through{SAUT}the gate, the currently closed door will{SAUT}open for us... Is that your plan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "I can definitely see that working. Let's{SAUT}give it a try, Joker!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Theodore",
+    "en": "Welcome, everyone! I've been waiting{SAUT}for you! Please, this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Theodore",
+    "en": "Now, I hear you picked up a most{SAUT}interesting find in the movie world!{PAGE}If you don't mind, may I see it{SAUT}for myself?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "en": "I show the {f 0 1 2}unidentified item{f 0 1 0}{SAUT}to Theodore...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Theodore",
+    "en": "Good heavens, the craftsmanship...!{SAUT}Like an artisan's last masterpiece...{PAGE}Such elegance in simplicity...! Truly, it is{SAUT}a work of art, and nothing less.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Theodore",
+    "en": "Now, curiosities like these usually contain{SAUT}hidden power, but... it feels oddly empty.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "You can tell?{OPTION}Can you fix it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Theodore",
+    "en": "Yes. I can usually sense a vestige of{SAUT}its energy remaining...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Theodore",
+    "en": "A work of this quality, well... I fear{SAUT}I can't craft one myself...{PAGE}But at the very least, I could reawaken{SAUT}the power within it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006_1",
+    "locuteur": "Theodore",
+    "en": "If you happen to find any more,{SAUT}could you bring them here?{PAGE}If you'll allow me, I can reveal its true{SAUT}value and {f 0 1 2}draw out its full power{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_05",
+    "en": "I told him how we threw the rest{SAUT}away, not knowing their value...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_06",
+    "locuteur": "Theodore",
+    "en": "What...? How could you be so terribly,{SAUT}tragically wasteful...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_06_1",
+    "locuteur": "Theodore",
+    "en": "From what I know, they are all crafted{SAUT}with skill and care. True masterpieces!{PAGE}They are elegant, yet simple... Truly,{SAUT}works of art in their own right.{PAGE}I hear they are often vessels for hidden{SAUT}power, though it has faded from some...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002_07",
+    "choix": true,
+    "en": "You can tell?{OPTION}Can you fix them?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_08",
+    "locuteur": "Theodore",
+    "en": "Yes. I can usually sense a vestige of{SAUT}its energy remaining...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_09",
+    "locuteur": "Theodore",
+    "en": "A work of that quality, well... I fear{SAUT}I can't craft one myself...{PAGE}But at the very least, I could reawaken{SAUT}the power within one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_09_1",
+    "locuteur": "Theodore",
+    "en": "If you happen to find any more,{SAUT}could you bring them here?{PAGE}If you'll allow me, I can reveal its true{SAUT}value and {f 0 1 2}draw out its full power{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "You are now able to {f 0 1 2}appraise{f 0 1 0} unidentified{SAUT}items and restore their original power.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Theodore",
+    "en": "I am at your service.",
+    "fr": ""
+  }
+]

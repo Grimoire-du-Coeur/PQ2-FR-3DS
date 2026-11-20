@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "This island seems to be quite large.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "True... It may have been necessary,{SAUT}considering how large dinosaurs often{SAUT}are.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "...Hm? Hmmm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "What's the matter, Oracle? Did you{SAUT}find something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Well... I'm getting readings of something{SAUT}here that's a lot stronger than the ones{SAUT}from earlier...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "Are they FOEs?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "Oh no, could they actually be the{SAUT}T-Rexes that we were discussing{SAUT}a moment ago!?  ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Holy shit... Just hearin' it could be{SAUT}a T-Rex is one thing, but them being{SAUT}FOEs is even more insane.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "It's insane all right.{OPTION}We'll be fine.{OPTION}Let's run.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Right? Those guys are classic movie{SAUT}monsters.{PAGE}Like, a ferocious T-Rex chompin' down{SAUT}headfirst on whoever's runnin' away{SAUT}from it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Sheesh, are you all seriously freaking{SAUT}out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Oh, but we've got a tasty lookin' cat{SAUT}here―maybe he'll be the first course.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "N-Noooo―wait, I mean, I'm not tasty!{SAUT}OR a cat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "You say that, but those guys are classic{SAUT}movie monsters.{PAGE}Like, a ferocious T-Rex chompin' down{SAUT}headfirst on whoever's runnin' away{SAUT}from it...  ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "What's this? Are you freaking out,{SAUT}Skull?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "Oh, but we've got a tasty lookin' cat{SAUT}here―maybe he'll be the first course.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "N-Noooo―wait, I mean, I'm not tasty!{SAUT}OR a cat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "Wait a sec, there!{PAGE}If you start runnin' from a T-Rex right{SAUT}away, you're just gonna end up in{SAUT}even more danger!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Akechi",
+    "en": "Ah, the classic movie clich〒... The first{SAUT}to flee is the first to be eaten.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "It's true that carnivorous dinosaurs are{SAUT}dreadful... but I'm sure we'll be okay{SAUT}if we all stick together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Haru",
+    "en": "Mmhm! If worse comes to worst,{SAUT}I'll chop it in half with my axe!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ann",
+    "en": "Ahaha, then I'll roast it alive with my{SAUT}hottest flames!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Makoto",
+    "en": "I wonder if its eyes are a weak point.{SAUT}I could try striking there to test it out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Morgana",
+    "en": "I-I feel like the girls are more courageous{SAUT}than us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ryuji",
+    "en": "We can't let 'em show us up here...{SAUT}Let's step up our game too, Joker!",
+    "fr": ""
+  }
+]

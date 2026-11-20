@@ -1,0 +1,265 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Oh? Looks like a good place to gather{SAUT}some materials. What're you gonna do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "locuteur": "Futaba",
+    "en": "Oh? Looks like a good place to gather{SAUT}some materials. What're you gonna do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Sounds good. Just be careful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "locuteur": "Futaba",
+    "en": "Sounds good. Just be careful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Sweet! Search all you want!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Futaba",
+    "en": "Sweet! Search all you want!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "OK. Then, let's not.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Futaba",
+    "en": "OK. Then, let's not.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Sweet! Mission accomplished!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004_1",
+    "locuteur": "Futaba",
+    "en": "Sweet! Mission accomplished!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Oh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Oho.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Oooh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "That was close! Let's finish this up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008_1",
+    "locuteur": "Futaba",
+    "en": "That was close! Let's finish this up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Whoa, awesome!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Hey, a rare one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Sweetdiculous!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "It's a shortcut. We goin' through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012_1",
+    "locuteur": "Futaba",
+    "en": "It's a shortcut. We goin' through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "Bummer. Can't go this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015_1",
+    "locuteur": "Futaba",
+    "en": "Bummer. Can't go this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "That Treasure Spot seems kinda{SAUT}dangerous... What's the plan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018_1",
+    "locuteur": "Futaba",
+    "en": "That Treasure Spot seems kinda{SAUT}dangerous... What's the plan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "Got it! Just be careful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019_1",
+    "locuteur": "Futaba",
+    "en": "Got it! Just be careful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Yeah, it looks dangerous. Prolly better{SAUT}to play it safe.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020_1",
+    "locuteur": "Futaba",
+    "en": "Yeah, it looks dangerous. Prolly better{SAUT}to play it safe.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "Damn... That was a tough one.{SAUT}No thanks...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021_1",
+    "locuteur": "Futaba",
+    "en": "Damn... That was a tough one.{SAUT}No thanks...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "Lotta Shadows here! Be on the look out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022_1",
+    "locuteur": "Futaba",
+    "en": "Lotta Shadows here! Be on the look out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "Okay! Stay alert!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023_1",
+    "locuteur": "Futaba",
+    "en": "Okay! Stay alert!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "Right! It could be dangerous!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024_1",
+    "locuteur": "Futaba",
+    "en": "Right! It could be dangerous!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Futaba",
+    "en": "Looks like we made it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025_1",
+    "locuteur": "Futaba",
+    "en": "Looks like we made it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "That'll take you to the theater! You{SAUT}gonna come back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026_1",
+    "locuteur": "Futaba",
+    "en": "That'll take you to the theater! You{SAUT}gonna come back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

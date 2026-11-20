@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Now then, allow me to watch over{SAUT}this battle as well.{PAGE}I rarely get to witness my sister's{SAUT}full power... The very thought{SAUT}gives me chills.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Margaret",
+    "en": "*chuckle* Hopefully we'll have the{SAUT}chance for a bout ourselves,{SAUT}one day.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Oh man, they'd tear this place up...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Futaba",
+    "en": "But forget that―you guys better be{SAUT}careful. She's gonna give you a{SAUT}hell of a fight!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Margaret",
+    "en": "Ever since I first arrived here...{SAUT}I've been watching you all{SAUT}very closely.{PAGE}Even at the mercies of fate, engulfed{SAUT}in despair, you still shine bright...{SAUT}It has been most fascinating.{PAGE}And somewhere in my heart, I confess{SAUT}I have been waiting for an excuse to{SAUT}test you myself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_2",
+    "locuteur": "Margaret",
+    "en": "So... let us begin. Let me see your{SAUT}souls ablaze with light!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Margaret",
+    "en": "*chuckle* I hope you give me a little longer{SAUT}to enjoy it this time. I'm certain you can{SAUT}give me a challenge.",
+    "fr": ""
+  }
+]

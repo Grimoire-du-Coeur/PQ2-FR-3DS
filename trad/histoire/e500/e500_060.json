@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "So, I've been wondering about these{SAUT}paths we're walking on―are they made{SAUT}of some kind of film?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Hero",
+    "en": "Yeah. No matter where we look,{SAUT}everything here's been fabricated{SAUT}by her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Man, she went from the boss of one{SAUT}movie theater to the being that created{SAUT}a whole world full of them... How crazy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "The being that created this world, huh...{PAGE}I guess that means identifying herself as{SAUT}the theater's curator wasn't exactly a lie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "I wonder if those people we saw earlier{SAUT}are stuck watching nothing but distorted{SAUT}movies, like I'd been.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "Considering what Enlil had told us,{SAUT}they're most likely stuck with{SAUT}those movies...{PAGE}Nothing but collections of nasty{SAUT}memories cut from their own lives.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Cutting and pasting their memories...{SAUT}In a way, they're similar to real movies.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "You mean they've been edited?{OPTION}What do you mean by that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "Mmhm, that's what it reminds me of{SAUT}too...{PAGE}It's an outdated method nowadays, but{SAUT}I can remember my dad physically{SAUT}connecting pieces of film, long ago.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Movies are edited by cutting and{SAUT}pasting together segments of film.{PAGE}It's an outdated method nowadays, but{SAUT}I can remember my dad physically{SAUT}connecting pieces of film, long ago.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "True, movies are products of edited{SAUT}material... One could even edit them{SAUT}with malicious intent.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Hikari",
+    "en": "No, you can't just do something like that!{SAUT}That's not what movies are meant to be!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "Oh... I'm sorry. I didn't mean to yell{SAUT}like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Shinjiro",
+    "en": "Go on... Obviously there's something{SAUT}you feel like getting off your chest, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "I... I want movies to be a source of hope{SAUT}for their audiences.{PAGE}Even if you're feeling tired or down,{SAUT}movies can give you the strength to{SAUT}keep on trying.{PAGE}It's all because I loved movies like those{SAUT}ones that I...{PAGE}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "What's up, Hikari?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Hikari",
+    "en": "Oh, it's nothing. Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "Huh? Uh... Wait!",
+    "fr": ""
+  }
+]

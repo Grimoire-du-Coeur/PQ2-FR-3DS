@@ -1,0 +1,387 @@
+[
+  {
+    "id": "item_500",
+    "en": "Blank",
+    "fr": ""
+  },
+  {
+    "id": "item_504",
+    "en": "A mysterious bead that emits a healing{SAUT}light. {f 0 1 4}Restore all HP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_505",
+    "en": "Mysterious candy that invigorates the{SAUT}soul. {f 0 1 4}Restore 30 SP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_506",
+    "en": "A treat made from invigorating ingredients.{SAUT}{f 0 1 4}Restore 60 SP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_507",
+    "en": "A mysterious gum that enriches the{SAUT}soul. {f 0 1 4}Restore 100 SP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_509",
+    "en": "A droplet of the \"drink of the gods.\"{SAUT}{f 0 1 4}Restore 100 HP and 25 SP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_50A",
+    "en": "Crystallized \"drink of the gods.\"{SAUT}{f 0 1 4}Restore 200 HP and 50 SP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_50C",
+    "en": "A bead that can recall a fallen soul.{SAUT}{f 0 1 4}Revive and restore half HP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_50D",
+    "en": "Incense that can recall a fallen soul.{SAUT}{f 0 1 4}Revive and restore all HP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_510",
+    "en": "Medicine to unseal one's strength.{SAUT}{f 0 1 4}Cure Binds{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_512",
+    "en": "Spring water consecrated in a holy ritual.{SAUT}{f 0 1 4}Remove buffs{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_513",
+    "en": "Coarse salt consecrated in a holy ritual.{SAUT}{f 0 1 4}Remove debuffs{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_514",
+    "en": "A ward with Rasetsu's divine blessing.{SAUT}{f 0 1 4}Raise attack for 3 turns{f 0 1 0}. (1 Row)",
+    "fr": ""
+  },
+  {
+    "id": "item_515",
+    "en": "A ward with the Kongou's divine blessing.{SAUT}{f 0 1 4}Raise defense for 3 turns{f 0 1 0}. (1 Row)",
+    "fr": ""
+  },
+  {
+    "id": "item_516",
+    "en": "A ward with Idaten's blessing. {f 0 1 4}Raise{f 0 1 0}{SAUT}{f 0 1 4}accuracy/evasion for 3 turns{f 0 1 0}. (1 Row)",
+    "fr": ""
+  },
+  {
+    "id": "item_517",
+    "en": "Liquid styled after the drink of the gods.{SAUT}{f 0 1 4}Cure ailments and Binds{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_519",
+    "en": "Conjures mist that drowns out flames.{SAUT}{f 0 1 4}Grant Fire resistance for 3 turns{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_51A",
+    "en": "Conjures mist that reduces chill.{SAUT}{f 0 1 4}Grant Ice resistance for 3 turns{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_51B",
+    "en": "Conjures mist that dampens electricity.{SAUT}{f 0 1 4}Grant Elec resistance for 3 turns{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_51C",
+    "en": "Conjures mist that lessens wind.{SAUT}{f 0 1 4}Grant Wind resistance for 3 turns{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_51D",
+    "en": "Conjures mist that negates nuclear energy.{SAUT}{f 0 1 4}Grant Nuke resistance for 3 turns{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_51E",
+    "en": "Conjures mist that muddles ESP.{SAUT}{f 0 1 4}Grant Psy resistance for 3 turns{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_521",
+    "en": "Bursts with a fiery blast when thrown.{SAUT}{f 0 1 4}Light Fire damage{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_522",
+    "en": "A bullet that explodes into flame.{SAUT}{f 0 1 4}Medium Fire damage{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_523",
+    "en": "Bursts with crackling frost when thrown.{SAUT}{f 0 1 4}Light Ice damage{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_524",
+    "en": "A bullet that explodes into a blizzard.{SAUT}{f 0 1 4}Medium Ice damage{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_525",
+    "en": "Bursts with high voltage when thrown.{SAUT}{f 0 1 4}Light Elec damage{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_526",
+    "en": "A bullet that explodes into electricity.{SAUT}{f 0 1 4}Medium Elec damage{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_527",
+    "en": "Bursts with galeforce winds when thrown.{SAUT}{f 0 1 4}Light Wind damage{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_528",
+    "en": "A bullet that explodes into a whirlwind.{SAUT}{f 0 1 4}Medium Wind damage{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_529",
+    "en": "Blessed rice that can purify a target.{SAUT}{f 0 1 4}Instant kill Bless attack{f 0 1 0}. (1 Enemy)",
+    "fr": ""
+  },
+  {
+    "id": "item_52A",
+    "en": "A forbidden sutra used as a death curse.{SAUT}{f 0 1 4}Instant kill Curse attack{f 0 1 0}. (1 Enemy)",
+    "fr": ""
+  },
+  {
+    "id": "item_52B",
+    "en": "Bursts with kinetic power when thrown.{SAUT}{f 0 1 4}Light Psy damage{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_52C",
+    "en": "A bullet that explodes with telekinetic{SAUT}power. {f 0 1 4}Medium Psy damage{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_52D",
+    "en": "Bursts with nuclear energy when thrown.{SAUT}{f 0 1 4}Light Nuke damage{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_52E",
+    "en": "A bullet that explodes with nuclear{SAUT}energy. {f 0 1 4}Medium Nuke damage{f 0 1 0}. (All Enemies)",
+    "fr": ""
+  },
+  {
+    "id": "item_532",
+    "en": "This effigy oddly resembles its bearer.{SAUT}{f 0 1 4}Protect user from 1 Bless/Curse instant kill{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_533",
+    "en": "Playing this pipe repels Shadows.{SAUT}{f 0 1 4}Reduce encounter rate{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_534",
+    "en": "Playing this pipe attracts Shadows.{SAUT}{f 0 1 4}Raise encounter rate{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_535",
+    "en": "Instantly teleports user to safety.{SAUT}{f 0 1 4}Escape from current labyrinth{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_536",
+    "en": "Instantly teleports user to the staircase.{SAUT}{f 0 1 4}Return to floor entrance{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_538",
+    "en": "A tool that can amplify FOE frequencies.{SAUT}{f 0 1 4}Display FOE locations on current floor{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_539",
+    "en": "Known as the drink of the gods.{SAUT}{f 0 1 4}Restore all HP and SP{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_53A",
+    "en": "A chain of beads with a healing light.{SAUT}{f 0 1 4}Restore all HP{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_53B",
+    "en": "A mysterious Goho-M that doesn't vanish{SAUT}after use. {f 0 1 4}Escape from current labyrinth{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_53C",
+    "en": "A mysterious Goba-K that doesn't vanish{SAUT}after use. {f 0 1 4}Return to floor entrance{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_53D",
+    "en": "Sounding this horn attracts Shadows.{SAUT}{f 0 1 4}Greatly raise encounter rate{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_53E",
+    "en": "Sounding this horn drives Shadows away.{SAUT}{f 0 1 4}Eliminates random encounters{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_53F",
+    "en": "Exploits the dungeon's volatility.{SAUT}{f 0 1 4}Refresh Treasure Spots for current floor{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_541",
+    "en": "Only usable in battle. Doesn't vanish{SAUT}after use. {f 0 1 4}Restore 30 HP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_542",
+    "en": "A ball that deploys a smokescreen.{SAUT}{f 0 1 4}Guaranteed escape (in escapable battles){f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_543",
+    "en": "A spicy, deep-fried thigh of a phoenix.{SAUT}{f 0 1 4}Revive and restore 30% HP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_544",
+    "en": "Popcorn that is seasoned with salt.{SAUT}{f 0 1 4}Restore 30 HP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_545",
+    "en": "Fries made with healthy potatoes.{SAUT}{f 0 1 4}Revive and restore 10% HP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_547",
+    "en": "Only usable in battle. Doesn't vanish after{SAUT}use. {f 0 1 4}Revive and restore 10% HP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_549",
+    "en": "Sweet popcorn infused with honey.{SAUT}{f 0 1 4}Restore 80 HP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_54A",
+    "en": "A hot dog long enough to feed three.{SAUT}{f 0 1 4}Restore 60 HP{f 0 1 0}. (1 Row)",
+    "fr": ""
+  },
+  {
+    "id": "item_54B",
+    "en": "Refreshing drink that cleanses impurities.{SAUT}{f 0 1 4}Cure status ailments{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_54C",
+    "en": "Popcorn with a tropical flavor.{SAUT}{f 0 1 4}Restore 120 HP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_54D",
+    "en": "Popcorn bursting with savory juices.{SAUT}{f 0 1 4}Restore 180 HP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_54E",
+    "en": "Mysterious seven-flavor popcorn.{SAUT}{f 0 1 4}Restore 250 HP{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_550",
+    "en": "A Persona's power can be copied onto this{SAUT}card. {f 0 1 4}Special effect in Sacrifice Fusion{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_551",
+    "en": "A Persona's power can be copied onto this{SAUT}card. {f 0 1 4}Special effect in Sacrifice Fusion{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "item_552",
+    "en": "Specialty of a ramen place in Iwatodai{SAUT}Station. {f 0 1 4}Restore 50% HP{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_553",
+    "en": "Specialty of a Chinese diner in Inaba.{SAUT}{f 0 1 4}Restore all HP{f 0 1 0}. (1 Row)",
+    "fr": ""
+  },
+  {
+    "id": "item_554",
+    "en": "Specialty of an alleyway caf〒 in Yongen-{SAUT}Jaya. {f 0 1 4}Restore 50% SP{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_555",
+    "en": "Incense that unifies mind and memory.{SAUT}{f 0 1 4}Raise level to Wild Level{f 0 1 0}. (1 Ally)",
+    "fr": ""
+  },
+  {
+    "id": "item_557",
+    "en": "Two long hot dogs combined into one.{SAUT}{f 0 1 4}Restore 120 HP{f 0 1 0}. (1 Row)",
+    "fr": ""
+  },
+  {
+    "id": "item_558",
+    "en": "A extra-long, extra-thick hot dog.{SAUT}{f 0 1 4}Restore 180 HP{f 0 1 0}. (1 Row)",
+    "fr": ""
+  },
+  {
+    "id": "item_559",
+    "en": "Water that purges bodily impurities.{SAUT}{f 0 1 4}Cure status ailments{f 0 1 0}. (1 Row)",
+    "fr": ""
+  },
+  {
+    "id": "item_55A",
+    "en": "Vat of water that purges bodily impurities.{SAUT}{f 0 1 4}Cure status ailments{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_55B",
+    "en": "A multi-pack of unbinding medicine.{SAUT}{f 0 1 4}Cure Binds{f 0 1 0}. (1 Row)",
+    "fr": ""
+  },
+  {
+    "id": "item_55C",
+    "en": "A jumbo pack of unbinding medicine.{SAUT}{f 0 1 4}Cure Binds{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_55D",
+    "en": "A long arrangement of pastries. Can feed{SAUT}up to 3. {f 0 1 4}Restore 30 HP{f 0 1 0}. (1 Row)",
+    "fr": ""
+  },
+  {
+    "id": "item_5FD",
+    "en": "Specialty of a ramen place in Iwatodai{SAUT}Station. {f 0 1 4}Restore 50% HP{f 0 1 0}. (Party)",
+    "fr": ""
+  },
+  {
+    "id": "item_5FE",
+    "en": "Specialty of a Chinese diner in Inaba.{SAUT}{f 0 1 4}Restore all HP{f 0 1 0}. (1 Row)",
+    "fr": ""
+  },
+  {
+    "id": "item_5FF",
+    "en": "Specialty of an alleyway caf〒 in Yongen-{SAUT}Jaya. {f 0 1 4}Restore 50% SP{f 0 1 0}. (Party)",
+    "fr": ""
+  }
+]

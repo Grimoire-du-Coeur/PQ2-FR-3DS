@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "The request this time is to \"gather{SAUT}parts for a communication device.\"{PAGE}Defeat the Roaring Turret within{SAUT}the A.I.G.I.S. movie, and...{PAGE}Gather three Futuristic Gizmos from{SAUT}its remains.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "This is for some \"communication{SAUT}device\"? The hell's that supposed{SAUT}to mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "This request specifically comes from{SAUT}the three navigatrices of your team.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "Navigatrices...? You mean Rise and{SAUT}the others?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Rise",
+    "en": "Yeah! So, the thing is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Mitsuru",
+    "en": "That's familiar. A communication device{SAUT}that'll increase your navigational{SAUT}abilities...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Fuuka",
+    "en": "Right. We don't want to ask the{SAUT}impossible, so... What do you all{SAUT}think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "What do ya think, {f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "We're on it.{OPTION}Sounds kind of hard.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Yeah! Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Aw, man... We can at least try,{SAUT}right?{PAGE}If we can pull this off, it'll make{SAUT}battles easier too, dontcha think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Mitsuru",
+    "en": "Indeed. It seems like a fine pursuit―{SAUT}for the practical advantages, if{SAUT}nothing else.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Really!? You guys'll take it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "Of course! Even if it wasn't gonna{SAUT}make us stronger, it's a request{SAUT}from our friends!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "I agree. There seems little sense{SAUT}in denying the request. I shall help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Rise",
+    "en": "Thanks so much, everyone!{SAUT}I'm counting on you guys!",
+    "fr": ""
+  }
+]

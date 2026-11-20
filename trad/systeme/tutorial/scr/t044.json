@@ -1,0 +1,17 @@
+[
+  {
+    "id": "msg000_MSG",
+    "en": "With {f 0 1 2}Special Fusion{f 0 1 0}, you can create{SAUT}particularly unique Personas.",
+    "fr": ""
+  },
+  {
+    "id": "msg001_MSG",
+    "en": "The caveat is that {f 0 1 2}these unique Personas{SAUT}require certain others for their fusions{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "msg002_MSG",
+    "en": "While difficult, {f 0 1 2}every Special Fusion will{SAUT}result in a Persona that is quite strong{f 0 1 0}.{PAGE}Special Fusions can be a huge asset to{SAUT}your party!",
+    "fr": ""
+  }
+]

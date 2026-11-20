@@ -1,0 +1,377 @@
+[
+  {
+    "id": "YUSUKE_FOE_FOLLOW_START_",
+    "en": "It appears we've been discovered.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_FOE_FOLLOW_START_#2",
+    "en": "Watch out, the FOE is drawing near.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_FOE_FOLLOW_START_#3",
+    "en": "It seems we're being followed...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_FOE_NEAR_1",
+    "en": "Hngh... There it is!",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_FOE_NEAR_2",
+    "en": "FOEs... Such mysterious creatures...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_FOE_NEAR_3",
+    "en": "That's a little too close for comfort...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_FOE_FOLLOW_END_1",
+    "en": "Hm, I believe we're all right now.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_FOE_FOLLOW_END_2",
+    "en": "Well then, let's change it up.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_FOE_FOLLOW_END_3",
+    "en": "It seems we managed to escape.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_KANSI_REACTION_1",
+    "en": "We're being watched...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_KANSI_REACTION_2",
+    "en": "We'll be fine if we tread carefully.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_KANSI_REACTION_3",
+    "en": "Let's choose our next move wisely.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_DENKISAKU_REACTIO",
+    "en": "This is a rather dangerous trap...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_DENKISAKU_REACTIO#2",
+    "en": "We'll need to find some way to resolve{SAUT}this...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_DENKISAKU_REACTIO#3",
+    "en": "A troublesome obstacle...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_KYOUHU_REACTION_1",
+    "en": "Nng!",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_KYOUHU_REACTION_2",
+    "en": "Time to fly!",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_KYOUHU_REACTION_3",
+    "en": "What a pleasant breeze!",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_STAIR_FIND_1",
+    "en": "That must be the way to the{SAUT}next floor.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_STAIR_FIND_2",
+    "en": "Hm, that's it.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_STAIR_FIND_3",
+    "en": "It appears we've found our way{SAUT}through.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_TREASURE_FIND_1",
+    "en": "It appears there's treasure ahead.{SAUT}Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_TREASURE_FIND_2",
+    "en": "Hm... I hope that's food...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_TREASURE_FIND_3",
+    "en": "Let's not forget the treasure.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_CHECK_WALL_1",
+    "en": "Hm? There's something there...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_CHECK_WALL_2",
+    "en": "Is there something over there?",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_CHECK_WALL_3",
+    "en": "I wonder what that could be...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_SWITCH_FIND_1",
+    "en": "It's a switch.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_SWITCH_FIND_2",
+    "en": "Let's press it...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_SWITCH_FIND_3",
+    "en": "Are you going to press it?",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_SHORTCUT_FIND_1",
+    "en": "It's a shortcut. Let's commit this to{SAUT}memory.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_SHORTCUT_FIND_2",
+    "en": "It looks we can go through.{SAUT}Shall we?",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_SHORTCUT_FIND_3",
+    "en": "Is it a shortcut?",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_FOE_WARNING_NEAR_",
+    "en": "Film Obscurit〒 ※tendeu... It's heading{SAUT}our way!",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_FOE_WARNING_NEAR_#2",
+    "en": "I'm sensing an FOE nearby...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_FOE_WARNING_NEAR_#3",
+    "en": "It doesn't seem to know when to{SAUT}give up.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_1PERSON_HPTP10_1",
+    "en": "My health and stamina are running{SAUT}low...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_1PERSON_HPTP10_2",
+    "en": "I'm fading fast...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_1PERSON_HPTP10_3",
+    "en": "I can't fight on an empty stomach...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_1PERSON_HP10_1",
+    "en": "I require assistance...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_1PERSON_HP10_2",
+    "en": "I'm not sure I'll last much longer...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_1PERSON_HP10_3",
+    "en": "I'll need more than water if I'm to keep{SAUT}going...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_1PERSON_TP10_1",
+    "en": "My stomach... It's too empty for me to{SAUT}continue...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_1PERSON_TP10_2",
+    "en": "It appears I was somewhat{SAUT}overindulgent...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_1PERSON_TP10_3",
+    "en": "Do you mind if I rest awhile?",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_1PERSON_HP80_1",
+    "en": "We're doing well. Let's keep moving.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_1PERSON_HP80_2",
+    "en": "Hm, that went surprisingly well.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_1PERSON_HP80_3",
+    "en": "Let's keep moving.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_DUNGEON_START_1",
+    "en": "Now then, let's begin.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_DUNGEON_START_2",
+    "en": "We're ready. Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_DUNGEON_START_3",
+    "en": "Perhaps, here, I'll find some{SAUT}inspiration!",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_QUEST_START_1",
+    "en": "Let's get to work.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_QUEST_START_2",
+    "en": "How shall we traverse this place...?",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_QUEST_START_3",
+    "en": "No time to waste.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_TOUHA_25_1",
+    "en": "I'm eager to see this map finished.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_TOUHA_25_2",
+    "en": "Not a bad start.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_TOUHA_50_1",
+    "en": "It seems we're starting to see the{SAUT}bigger picture.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_TOUHA_50_2",
+    "en": "Good. We're halfway there.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_TOUHA_75_1",
+    "en": "We're just about done.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_TOUHA_75_2",
+    "en": "Now for the finishing touches.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_TOUHA_100_1",
+    "en": "Map complete... I must say it's quite{SAUT}excellent.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_TOUHA_100_2",
+    "en": "Hm... This map turned out to be quite{SAUT}magnificent.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_MAPPING_ICON_ALL_",
+    "en": "Good choice.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_MAPPING_ICON_ALL_#2",
+    "en": "That's it.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_MAPPING_ICON_KAID",
+    "en": "There, that's the spot.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_MAPPING_ICON_KAID#2",
+    "en": "That will do.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_MAPPING_CHANGE_CO",
+    "en": "How artistic...",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_MAPPING_CHANGE_CO#2",
+    "en": "Hm, so that's the color you'd use?",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_MAPPING_ICON_DEL_",
+    "en": "Minimalism is important too.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_MAPPING_ICON_DEL_#2",
+    "en": "Hm, nice and clean.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_MAPPING_MEMO_1",
+    "en": "Memos are quite helpful.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_MAPPING_MEMO_2",
+    "en": "What did you write?",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_DOOR_OPEN_1",
+    "en": "Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_DOOR_OPEN_2",
+    "en": "Over here.",
+    "fr": ""
+  },
+  {
+    "id": "YUSUKE_DOOR_OPEN_3",
+    "en": "Let's be on our way!",
+    "fr": ""
+  }
+]

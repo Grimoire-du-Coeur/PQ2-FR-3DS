@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Who's that girl!? She's gettin' attacked{SAUT}by Shadows!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Isn't that... a Persona? Who could{SAUT}she be?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Maybe she's the girl Theodore had{SAUT}mentioned to us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "If I recall correctly, he's looking for{SAUT}a high schooler―a female who wears{SAUT}headphones...{PAGE}All the details he provided us{SAUT}match up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "If that's the case, then let's help her out!{SAUT}C'mon, everyone!",
+    "fr": ""
+  }
+]

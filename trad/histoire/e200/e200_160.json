@@ -1,0 +1,530 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Makoto",
+    "en": "Whew... It seems there's still a ways for{SAUT}us to go. Is everyone's health okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukiko",
+    "en": "Mmhm, this is nothing so far.{PAGE}But wow―your clothes really do{SAUT}change! It's so amazing, is there{SAUT}some kind of trick behind it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "I know it's amazing and all, but it's a bit{SAUT}embarrassing to be stared at like that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "I agree that your attire is intriguing,{SAUT}but your nicknames―Joker and the{SAUT}like...{PAGE}Could they be codenames?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "*chuckle* Has the detective found a{SAUT}working theory?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "W-Well, no... It's simply my own{SAUT}curiosity.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Considering how we rile up society{SAUT}to such a degree, we're all but required{SAUT}to perform our work incognito.{PAGE}That's the reason we decided to use{SAUT}codenames for each other during{SAUT}our missions.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Oooooh! That sounds so cool!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukiko",
+    "en": "Hey―I want a codename too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "Wha―Yukiko!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "I mean, it's so cool. Don't you want one{SAUT}too, Naoto-kun?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "Huh!? I-I... Um... I was only thinking{SAUT}how useful they could be if we had{SAUT}them too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukiko",
+    "en": "Chie, we'd better hurry and decide our{SAUT}codenames. What are they going to be?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "How'd I get roped into this!?{PAGE}I mean, coming up with a codename so{SAUT}suddenly... We're not experts on that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "I guess there's no way around it then―{SAUT}leave it to us pros!{PAGE}Joker, come up with a cool phantom{SAUT}thief name for Yukiko.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_015",
+    "choix": true,
+    "en": "Scarlet Princess.{OPTION}Black Fire.{OPTION}Hostess.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "I see, a codename derived from her{SAUT}appearance and her demeanor. It's{SAUT}fitting... although, also a bit too long.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Then, how about Princess Scarlet? Isn't{SAUT}that cuter?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "All you did was flip the words! That's{SAUT}still way too much crammed into one{SAUT}codename.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "Ooh, I like it. It sounds strong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "You like it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "But why black? She's wearing red.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "Could it be... Has he seen right through{SAUT}Yuki-chan to her true nature?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yukiko",
+    "en": "Did you say something, Teddie?{SAUT}*giggle* Do you want to be burnt?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "I... see. Black Fire... It embodies her{SAUT}true nature after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ryuji",
+    "en": "Are you even trying!? That's so boring!{SAUT}At least spruce it up some!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025_5",
+    "locuteur": "Ryuji",
+    "en": "Hey, how about Okami? The Japanese{SAUT}word for a hotel boss lady sounds way{SAUT}more intimidating than \"Hostess,\" right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ann",
+    "en": "You're so stupid―Actually, considering{SAUT}foreign hotel guests love using terms{SAUT}like sushi and geisha, Okami's not bad...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Chie",
+    "en": "It feels like they're just gonna start{SAUT}spouting Japanese words like teriyaki{SAUT}and tempura for our codenames...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yukiko",
+    "en": "Okay, you're next, Naoto-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Naoto",
+    "en": "Huh? We're really going to do this{SAUT}for everyone...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yusuke",
+    "en": "Let's see... How about Platinum Lady?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ryuji",
+    "en": "What? Why \"Lady,\" though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Ann",
+    "en": "True, I think \"Lady\" is a bit prudish.{SAUT}Wouldn't Platinum Girl be better?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ryuji",
+    "en": "Wait, no! I mean, why are you guys{SAUT}using \"Lady\" and \"Girl\" for Naoto!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Haru",
+    "en": "Why not? Naoto-kun's a girl.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ryuji",
+    "en": "Wha―Huhhh? For real!? Did you know,{SAUT}Joker!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "Of course I knew.{OPTION}I had no idea...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Ryuji",
+    "en": "Seriously? When did you figure that{SAUT}out!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Ryuji",
+    "en": "Right!? There's no way I should've{SAUT}known, yeah!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ann",
+    "en": "Maybe it's because you're so dense.{SAUT}I thought everyone knew.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Ryuji",
+    "en": "This has nothing to do with me being{SAUT}dense! I just... didn't have a clue.{SAUT}I mean―I can't believe it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Naoto",
+    "en": "L-Let's stop talking about this, shall{SAUT}we!? Rise-san, you're next!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Rise",
+    "en": "Me? Ooh, what kind of name do you{SAUT}think would be good for me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Ryuji",
+    "en": "For Risette, huh... Idol? But that{SAUT}seems so obvious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Teddie",
+    "en": "Plus that could confuse others into{SAUT}thinking of myself―I'm an idol too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Chie",
+    "en": "Yeah, yeah―moving on...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Rise",
+    "en": "I guess Kung Fu for you, Chie-senpai?{SAUT}Or, maybe, something meat related...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Haru",
+    "en": "Meat... Hmm... Sirloin?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Yukiko",
+    "en": "Oh, that's totally Chie! And it's easier to{SAUT}say than Filet Mignon, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Chie",
+    "en": "What's with these codenames!? They're{SAUT}just cuts of meat! Aw, man...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Ann",
+    "en": "Welp, next is Kanji-kun... Since you're{SAUT}wearing a skeleton shirt, maybe{SAUT}Skull, Part 2?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Kanji",
+    "en": "Wha―!? Why're you treatin' me like{SAUT}some kinda sequel!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Yukiko",
+    "en": "Hm... Well, he's always yelling{SAUT}\"dammit,\" so... Dammit Skull?{PAGE}Snrk...! That sounds so ridiculous...{SAUT}*snort* Heeheehee... Ahahahahahaha!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Kanji",
+    "en": "I don't even care anymore... I mean,{SAUT}how much longer are we gonna do this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Teddie",
+    "en": "Oh, mine hasn't been decided yet!{SAUT}Maybe something like Pretty Boy,{SAUT}or Cutie Bear...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Ryuji",
+    "en": "Yours is just Ted. Done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Teddie",
+    "en": "Grrrrr! We're nowhere near done!{PAGE}There are so many for me to choose from,{SAUT}like Everyone's Idol, or Beloved Lad...{SAUT}I just can't pick one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Yusuke",
+    "en": "Even still, it's Ted.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Makoto",
+    "en": "Mmhm. Ted.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Teddie",
+    "en": "H-How cruel... At this rate, all I can do{SAUT}is hope for Sensei to avenge me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "locuteur": "Ann",
+    "en": "A codename for {f 6 1 13 0 0 0}, huh...{SAUT}What do you think would be good,{SAUT}Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_061",
+    "choix": true,
+    "en": "Kingpin.{OPTION}Sensei.{OPTION}Yasogami Wolf.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "P4 Hero",
+    "en": "Kingpin...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Yusuke",
+    "en": "That's surprisingly fitting, for some{SAUT}reason.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "Ryuji",
+    "en": "It's gotta be because of that one-on-one{SAUT}bout with Joker when we first met.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Teddie",
+    "en": "Now that's our Sensei! A codename{SAUT}with some real dignity!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "P4 Hero",
+    "en": "Sensei, huh? It feels a bit weird to be{SAUT}called that by someone other than{SAUT}Teddie...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Teddie",
+    "en": "I get to call him Sensei because we have{SAUT}a special relationship with each other!{SAUT}That codename's for Teddie use only!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "P4 Hero",
+    "en": "Yasogami Wolf!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Yusuke",
+    "en": "Aha... That's rather impressive. It has{SAUT}a strong and dignified ring to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Ryuji",
+    "en": "Oh, c'mon... Isn't that a bit too extreme?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "P4 Hero",
+    "en": "Yasogami Wolf... Interesting...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Naoto",
+    "en": "Oh! Surprising as it may be, he seems{SAUT}to like it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Yukiko",
+    "en": "If this is for {f 6 1 13 0 0 0}-kun, it may be{SAUT}a good idea to mention Nanako-chan{SAUT}somehow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_074",
+    "locuteur": "Kanji",
+    "en": "Like... Nanako's Bro?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_075",
+    "locuteur": "P4 Hero",
+    "en": "Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_076",
+    "locuteur": "Haru",
+    "en": "Um... Who's Nanako-chan? Is she family,{SAUT}{f 6 1 12 0 0 0}-kun?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_077",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, she's my cousin in elementary{SAUT}school. I live with her and her father.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_078",
+    "locuteur": "Ryuji",
+    "en": "Ah, so it's kinda like Joker and Oracle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_079",
+    "locuteur": "Futaba",
+    "en": "Hey! I'm bigger than a schoolgirl,{SAUT}Skull!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_080",
+    "locuteur": "Ryuji",
+    "en": "THAT'S what pissed you off!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_081",
+    "locuteur": "Morgana",
+    "en": "*sigh* I have no idea what's even{SAUT}happening anymore...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_082",
+    "locuteur": "Naoto",
+    "en": "Why don't we stop giving codenames{SAUT}to each other? I don't think we're doing{SAUT}ourselves any good at this rate...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_083",
+    "choix": true,
+    "en": "That's true.{OPTION}What a bummer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_084",
+    "locuteur": "Yukiko",
+    "en": "Ah, that was fun. Let's think up more{SAUT}codenames later.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_085",
+    "locuteur": "Chie",
+    "en": "Fine... all we ended up doing here{SAUT}was run our mouths, anyway.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_086",
+    "locuteur": "Morgana",
+    "en": "Well, since you guys don't need secret{SAUT}identities, I don't think you need any{SAUT}codenames, either.{PAGE}Let's just focus on getting out of here.",
+    "fr": ""
+  }
+]

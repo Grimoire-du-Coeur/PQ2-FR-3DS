@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "And that makes three! Good job,{SAUT}everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Phew... We should be able to make{SAUT}plenty with all of these!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "I can't wait for some nice, hot churros!{PAGE}Let's hurry back. I'm sure Elizabeth's{SAUT}waiting for us.",
+    "fr": ""
+  }
+]

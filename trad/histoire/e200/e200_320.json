@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "So, to change this movie, we've got to{SAUT}find that... Yosukesaurus... right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_5",
+    "locuteur": "Yosuke",
+    "en": "I'm sorry, does anybody have any other{SAUT}ideas for what to call him besides{SAUT}Yosukesaurus!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "What else would we call him? He looks{SAUT}exactly like you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Agh, why did it have to be my head{SAUT}on the dinosaur?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Yosukesaurus is the one who most likely{SAUT}holds the key to changing this movie.{PAGE}The herd had said they were headed to{SAUT}a \"paradise with no carnivores\" at the{SAUT}island's furthest reaches...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "In that case, I'm sure we'll eventually{SAUT}reunite with them if we head in the{SAUT}direction of this paradise.  ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "Great! Let's just get this over with as fast{SAUT}as possible!",
+    "fr": ""
+  }
+]

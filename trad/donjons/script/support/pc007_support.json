@@ -1,0 +1,377 @@
+[
+  {
+    "id": "KANJI_FOE_FOLLOW_START_1",
+    "en": "Shit! We've been spotted!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_FOE_FOLLOW_START_2",
+    "en": "That FO-thing's headin'{SAUT}our way!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_FOE_FOLLOW_START_3",
+    "en": "That thing's tailin' us!?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_FOE_NEAR_1",
+    "en": "FOE's gettin' way too close!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_FOE_NEAR_2",
+    "en": "Watch it. We got an FOE nearby.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_FOE_NEAR_3",
+    "en": "Tch... An FOE.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_FOE_FOLLOW_END_1",
+    "en": "The thing stopped chasin' us.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_FOE_FOLLOW_END_2",
+    "en": "Heh, got away!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_FOE_FOLLOW_END_3",
+    "en": "Hell yeah! We lost it!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_KANSI_REACTION_1",
+    "en": "This shit's makin' it hard{SAUT}to get around...",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_KANSI_REACTION_2",
+    "en": "I ain't too good at sneakin'{SAUT}around...",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_KANSI_REACTION_3",
+    "en": "If they spot us, we're screwed.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_DENKISAKU_REACTION",
+    "en": "Touchin' this is a bad idea...",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_DENKISAKU_REACTION#2",
+    "en": "How do we stop this thing?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_DENKISAKU_REACTION#3",
+    "en": "If electricity's the problem{SAUT}I can easily... Nah, never mind.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_KYOUHU_REACTION_1",
+    "en": "Ack!?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_KYOUHU_REACTION_2",
+    "en": "Whoa!!!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_KYOUHU_REACTION_3",
+    "en": "Hey! The hell!?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_STAIR_FIND_1",
+    "en": "Looks like we can move on!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_STAIR_FIND_2",
+    "en": "Yo, we can keep goin'.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_STAIR_FIND_3",
+    "en": "Stairs up ahead.{SAUT}Should we use 'em?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_TREASURE_FIND_1",
+    "en": "All right! Treasure!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_TREASURE_FIND_2",
+    "en": "Treasure box, up ahead!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_TREASURE_FIND_3",
+    "en": "Let's crack open that{SAUT}treasure box!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_CHECK_WALL_1",
+    "en": "That thing look kinda fishy{SAUT}to you?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_CHECK_WALL_2",
+    "en": "Somethin's gotta be here!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_CHECK_WALL_3",
+    "en": "What's that up there?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_SWITCH_FIND_1",
+    "en": "Hey, ain't that a switch?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_SWITCH_FIND_2",
+    "en": "Yo, I found a switch!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_SWITCH_FIND_3",
+    "en": "Do we push the switch?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_SHORTCUT_FIND_1",
+    "en": "I bet we can go through here.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_SHORTCUT_FIND_2",
+    "en": "Hey, ain't that a shortcut?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_SHORTCUT_FIND_3",
+    "en": "Hey, a shortcut!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_FOE_WARNING_NEAR_1",
+    "en": "Damn, that thing won't quit!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_FOE_WARNING_NEAR_2",
+    "en": "That F-whatever's still comin'!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_FOE_WARNING_NEAR_3",
+    "en": "The FOE thing's still after us!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_1PERSON_HPTP10_1",
+    "en": "S-Sorry... Mind if we take{SAUT}a break?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_1PERSON_HPTP10_2",
+    "en": "Tch, I can't be dyin' now...",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_1PERSON_HPTP10_3",
+    "en": "Ugh... I can't keep this up...",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_1PERSON_HP10_1",
+    "en": "I can barely walk...",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_1PERSON_HP10_2",
+    "en": "Uh, can I get some help{SAUT}over here...?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_1PERSON_HP10_3",
+    "en": "I can't stop here... Urgh...",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_1PERSON_TP10_1",
+    "en": "Shit, I'm wiped...",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_1PERSON_TP10_2",
+    "en": "Runnin' on fumes here...",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_1PERSON_TP10_3",
+    "en": "Dammit! This ain't the time{SAUT}to be worn out...",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_1PERSON_HP80_1",
+    "en": "This is nothin'!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_1PERSON_HP80_2",
+    "en": "I'm still itchin' for a fight.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_1PERSON_HP80_3",
+    "en": "Heh, who's next?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_DUNGEON_START_1",
+    "en": "Lookin' forward to this!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_DUNGEON_START_2",
+    "en": "Bring it on!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_DUNGEON_START_3",
+    "en": "Hell yeah! Let's do it!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_QUEST_START_1",
+    "en": "Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_QUEST_START_2",
+    "en": "Bring on the special showing!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_QUEST_START_3",
+    "en": "Let's get this over with.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_TOUHA_25_1",
+    "en": "Looks like we still got a{SAUT}long way to go.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_TOUHA_25_2",
+    "en": "The map's lookin' pretty{SAUT}empty. Let's keep at it!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_TOUHA_50_1",
+    "en": "I'm thinkin' we're about{SAUT}halfway through.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_TOUHA_50_2",
+    "en": "Finally half way there.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_TOUHA_75_1",
+    "en": "We've done a lot of walkin',{SAUT}yeah?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_TOUHA_75_2",
+    "en": "Just a little further, huh?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_TOUHA_100_1",
+    "en": "Hell yeah! We got through{SAUT}the entire floor!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_TOUHA_100_2",
+    "en": "That's it for this floor.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_MAPPING_ICON_ALL_1",
+    "en": "Your mappin's on point.{SAUT}Nice goin'!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_MAPPING_ICON_ALL_2",
+    "en": "Yo, that's one detailed map.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_MAPPING_ICON_KAIDA",
+    "en": "Yeah, good call!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_MAPPING_ICON_KAIDA#2",
+    "en": "Knowin' where the stairs are{SAUT}will help us avoid gettin' lost.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_MAPPING_CHANGE_COL",
+    "en": "Kinda stylish, ain't it?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_MAPPING_CHANGE_COL#2",
+    "en": "Ooh, you changin' colors?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_MAPPING_ICON_DEL_1",
+    "en": "Gotta stay organized!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_MAPPING_ICON_DEL_2",
+    "en": "It's good to get rid of stuff{SAUT}we don't need.",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_MAPPING_MEMO_1",
+    "en": "Detail's important, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_MAPPING_MEMO_2",
+    "en": "We'll forget this if we don't{SAUT}write it down, y'know?",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_DOOR_OPEN_1",
+    "en": "Let's keep goin', dammit!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_DOOR_OPEN_2",
+    "en": "Here we go!",
+    "fr": ""
+  },
+  {
+    "id": "KANJI_DOOR_OPEN_3",
+    "en": "This way?",
+    "fr": ""
+  }
+]

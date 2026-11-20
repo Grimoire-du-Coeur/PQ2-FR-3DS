@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "The objective of this special screening{SAUT}is to deactivate A.I.G.I.S.'s new{SAUT}security system and escape.{PAGE}The technology found there certainly is{SAUT}surprising―dare I say, out of this world{SAUT}or perhaps O.M.G.{PAGE}In light of this change in security, I'd{SAUT}like you to investigate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Ohh, it sounds like it's time for part{SAUT}two of \"Junpei's Believe It, or Don't\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "Wha―? Don't do that!{PAGE}I'm serious! You better not!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Hey, hey, I gotcha! I'll make sure the{SAUT}mood's right and everything!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "You \"got\" nothing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "I-It's okay. It may be creepy there, but{SAUT}at least it's not too dark... right?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "I'm here for you.{OPTION}I've got a bad feeling...{OPTION}Worst comes to worst, we fight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "Thanks. I feel a lot safer hearing you say{SAUT}that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "S-Stop that. Nothing's going to happen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "Hopefully, it's an enemy we can actually{SAUT}hit...{PAGE}Please don't let it be anything{SAUT}non-corporeal...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "*giggle* I can't wait to see what's in{SAUT}store. Let's go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Chie",
+    "en": "Er... Yukiko's having fun.{PAGE}Come to think of it, I don't wanna see{SAUT}any G-words either, got it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akihiko",
+    "en": "What are you all so afraid of?{PAGE}I dunno what kind of security system{SAUT}they've got, but if any Shadows show{SAUT}up, we beat 'em down. Simple as that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "Well, we're not talkin' about Shadows,{SAUT}but... they're kinda close, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukari",
+    "en": "They're nowhere near close! Look, can{SAUT}we just hurry and get this over with?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Makoto",
+    "en": "Well, the security system's been{SAUT}changed, so we'll need to proceed{SAUT}carefully.{PAGE}Watch your step out there,{SAUT}{f 6 1 29 0 0 0}-kun.",
+    "fr": ""
+  }
+]

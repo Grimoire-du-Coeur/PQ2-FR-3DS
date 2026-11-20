@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Guess we can't go this way.{PAGE}Man... There's drawings all over the{SAUT}walls. What's that called again?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "I believe the word you're looking for is{SAUT}\"graffiti.\" It's often been labeled an{SAUT}indicator for the decline of public safety.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "locuteur": "Akechi",
+    "en": "However, lately, some have recognized{SAUT}it as an art. I've heard there's even{SAUT}been exhibitions held for it.{PAGE}Supposedly, when an artist finds{SAUT}artwork they consider worse than their{SAUT}own, they'll paint over it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "So, this is art too? I don't really get it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Regardless of what one's art looks like,{SAUT}painting over another's piece without{SAUT}their permission seems disrespectful...{PAGE}But perhaps that's how they pit their{SAUT}skills against one another...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Ah, yes, I suppose that's one way to look{SAUT}at it. I'd imagine it's somewhat of an{SAUT}unspoken rule among such artists.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "That would certainly make others eager{SAUT}to demonstrate their skills. Well then,{SAUT}maybe I, too, should―",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Don't do it.{OPTION}Let's get going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "He's right, Inari. We don't have time,{SAUT}so rein it in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "Hrgh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "Very well, then... I suppose I'll have to{SAUT}save it for another time.",
+    "fr": ""
+  }
+]

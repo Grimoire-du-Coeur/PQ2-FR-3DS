@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Oooh! Th-This is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukiko",
+    "en": "Oh, it's that machine we saw earlier.{SAUT}What could it be?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Hmm... After a quick once-over, it seems{SAUT}to be spatially connected to another{SAUT}location.{PAGE}Simply put: it's a {f 0 1 2}warp device{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Can you tell where it goes?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Fuuka",
+    "en": "No, I'm sorry. All I know is that it's{SAUT}somewhere on this floor... I can't{SAUT}give a more precise location.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Haru",
+    "en": "If there's no alternative, then we'll just{SAUT}have to try stepping into it...{PAGE}But, we should leave that decision{SAUT}to you, Joker.{PAGE}You've been the one mapping all this{SAUT}time, so I think you'd be most familiar{SAUT}with the area's layout.",
+    "fr": ""
+  }
+]

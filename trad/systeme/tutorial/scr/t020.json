@@ -1,0 +1,17 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "In battle, if you {f 0 1 2}knock down all enemies{f 0 1 0},{SAUT}you'll have the option of an {f 0 1 2}All-out Attack{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "This is when every one of your allies{SAUT}{f 0 1 2}damages every enemy{f 0 1 0} at the same time.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes03",
+    "en": "All-out Attacks are influenced by how{SAUT}strong everyone in your party is, so equip{SAUT}your friends with fierce weaponry to{SAUT}watch them devastate your foes!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ribbon",
+    "en": "I HAVE A QUESTION FOR EVERYONE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "What's the matter?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ribbon",
+    "en": "THERE IS SOMETHING I CANNOT{SAUT}UNDERSTAND IN REGARDS TO{SAUT}YOUR ACTIONS.{PAGE}WHY DO YOU RECOGNIZE AIGIS-SAN{SAUT}AS AN \"INDIVIDUAL\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "Why...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ribbon",
+    "en": "AIGIS-SAN IS A ROBOT. SHE IS NOT{SAUT}AN ORGANIC BEING, LIKE THE REST{SAUT}OF YOU.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Hero",
+    "en": "That's an easy one...{PAGE}It's because she's our companion.{SAUT}No other reason besides that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ribbon",
+    "en": "YOUR COMPANION...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mitsuru",
+    "en": "When it comes to recognizing somebody{SAUT}as one of our own, it doesn't matter{SAUT}whether they're organic or inorganic.{PAGE}We fight together and push forward{SAUT}together. Those reasons are more{SAUT}than enough for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ribbon",
+    "en": "BUT, MY \"COMPANIONS\" RECOGNIZE{SAUT}ME AS AN ERROR. THEY WILL NOT{SAUT}HELP ME.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hey, Ribbon-chan―how would you{SAUT}describe a \"companion\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ribbon",
+    "en": "I RECOGNIZE THE TERM AS DEFINING{SAUT}THOSE WITH THE SAME APPEARANCE,{SAUT}ABILITIES, AND LACK OF ERRORS.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Your use of that word... \"Error\"... I can't{SAUT}explain why, but I sure don't like it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ribbon",
+    "en": "THEN, A DISQUALIFICATION, OR{SAUT}A DEFECTIVE―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "None of that either!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Man, all those words sound like the shit{SAUT}some high'n'mighty asshole would say.{PAGE}It's bullshit how they're forcing these{SAUT}selfish rules on the whole society!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ribbon",
+    "en": "BUT, RULES ARE MEANT TO BE{SAUT}FOLLOWED...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "You don't have to follow them.{OPTION}You're not an error, Ribbon.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ribbon",
+    "en": "I AM... NOT AN ERROR?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "Say, Ribbon. Why don't you try going{SAUT}along with our own beliefs while you're{SAUT}with us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ann",
+    "en": "That sounds like a great idea.{PAGE}You don't have to keep following some{SAUT}self-centered Overseer's nonsense!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Mmhm. And if those bots try something{SAUT}again, we'll protect you with everything{SAUT}we got!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ribbon",
+    "en": "YOU'LL PROTECT ME? BUT, WHY HELP{SAUT}A UNIT SUCH AS MYSELF?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* Remember what we said{SAUT}earlier? The answer to this one's{SAUT}simple, too...{PAGE}It's because you're just as much{SAUT}of a companion to us as Aigis,{SAUT}Ribbon-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ribbon",
+    "en": "I... AM A COMPANION?{PAGE}......{PAGE}SO, THIS IS WHAT BEING{SAUT}A COMPANION IS LIKE...{SAUT}I COMPREHEND.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Aigis",
+    "en": "I comprehend.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ken",
+    "en": "Heheh, their speech patterns are{SAUT}syncing up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Aigis",
+    "en": "I'm sorry. I could not help myself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* Oh, Aigis...{PAGE}Well then, let's start over. Are you ready{SAUT}to go, Ribbon-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ribbon",
+    "en": "YES. I AM YOUR COMPANION. I SHALL{SAUT}PROCEED ONWARD WITH YOU!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Akihiko",
+    "en": "Heh, that's the spirit. Keep it up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P3 Hero",
+    "en": "Then, shall we get back on track? I hope{SAUT}we can stick together, Ribbon.",
+    "fr": ""
+  }
+]

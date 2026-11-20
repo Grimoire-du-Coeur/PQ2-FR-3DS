@@ -1,0 +1,242 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Alright! Let's hurry up and save Makoto{SAUT}and Haru!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "The inside of this movie seems pretty{SAUT}complex, though. I hope we don't{SAUT}get lost...{PAGE}Futaba, can you navigate us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Hmm... I've been doing some testing,{SAUT}and it seems I can't do it like usual.{PAGE}It seems somewhat unstable, or...{SAUT}like I can't get a clear grasp of any{SAUT}location info.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Perhaps you're suffering from some{SAUT}form of interference?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "It's possible that whoever brought about{SAUT}this anomaly is tampering with her{SAUT}readings.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Although, it's not like we can ditch our{SAUT}friends. We gotta go, with or without{SAUT}navigation.{PAGE}Don't worry, I'm pretty in tune with my{SAUT}sixth sense. It's my wild side's intuition!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "I don't trust that in the least!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "Um―would this help you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "Hm? Is that... a notebook?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Mmhm... Could you use this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Ooh, awesome! We can do it the{SAUT}old-fashioned way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "I see, we won't have to worry about{SAUT}getting lost if we draw our own map{SAUT}in the notebook.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": ", as you proceed through{SAUT}the movie, map out your route and{SAUT}surroundings.{PAGE}As long as you keep that thing{SAUT}updated, you definitely won't{SAUT}get lost... I hope!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "Are you sure we can use this, Hikari?{SAUT}Do you need it for anything?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Hikari",
+    "en": "I, uh... I had that when I woke up here...{PAGE}I don't know what I was doing with it,{SAUT}so I guess you can use it... Actually...{SAUT}I want you to use it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Then, don't mind if we do! Thanks{SAUT}a bunch!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": ", I believe that we should{SAUT}leave the map creation up to you.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Alright, I'll handle it.{OPTION}You're more qualified, though.{OPTION}You'll be so great at it, Ryuji.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "Yes, such a task would be best suited{SAUT}for our leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yusuke",
+    "en": "True, I'm certain I would render{SAUT}a beautiful map for us, but if{SAUT}you entrusted that to me... {PAGE}I believe that I'd use up the whole{SAUT}notebook in a matter of a few{SAUT}minutes―is that fine with you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Of course not! The hell were you{SAUT}plannin' on drawing!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021_5",
+    "locuteur": "Ryuji",
+    "en": "Y'know what, it's better to leave this up{SAUT}to you, since you're our leader and all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "No way, I can't do that kind of thing!{SAUT}I swear, I get stuff like east and west{SAUT}mixed up all the time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Morgana",
+    "en": "*sigh* We can't afford to get lost in{SAUT}this movie... This job's best suited for{SAUT}our leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Nagi",
+    "en": "You still intend to go in there... Please{SAUT}be sure that you don't push yourselves{SAUT}too hard.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ryuji",
+    "en": "Heh, don't misunderestimate us!{SAUT}This'll be a cinch.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ann",
+    "en": "I-If we jump into this screen, we'll enter{SAUT}the movie... right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yusuke",
+    "en": "This is quite a different process from{SAUT}how we enter Palaces.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ryuji",
+    "en": "Alright! Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Ann",
+    "en": "...Aren't you gonna go in?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ryuji",
+    "en": "Wha―Why do I have to go first?{SAUT}Yusuke!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yusuke",
+    "en": "We humans seem to have difficulty{SAUT}steeling ourselves in the face of{SAUT}the unknown.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Morgana",
+    "en": "Sheesh... Really, you guys? {f 6 1 30 0 0 0},{SAUT}you should take the first leap. Make us{SAUT}proud!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_033",
+    "choix": true,
+    "en": "Leave it to me.{OPTION}After you, Morgana.{OPTION}Let's all do it together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Ann",
+    "en": "Now that's our leader! You really are{SAUT}great at this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Morgana",
+    "en": "Oh, okay, I'll go ahead and―{PAGE}More like, hell no!{PAGE}You've gotta take the leap of faith as{SAUT}the leader of the Phantom Thieves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Ann",
+    "en": "Then, should we hold hands and step in{SAUT}all at once?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Ryuji",
+    "en": "Why make it so mushy!? This ain't{SAUT}the end of some children's movie!{PAGE}Sorry, {f 6 1 30 0 0 0}, you gotta take{SAUT}the leap of faith as our leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Futaba",
+    "en": "Then it's decided. Take it away,{SAUT}{f 6 1 30 0 0 0}!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Hikari",
+    "en": "Everyone... Be careful...",
+    "fr": ""
+  }
+]

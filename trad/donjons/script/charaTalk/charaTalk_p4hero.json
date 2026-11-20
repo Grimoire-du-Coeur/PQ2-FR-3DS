@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Hero",
+    "en": "Looks like we can gather items here.{SAUT}What do you think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "Got it. We'll take a look,{SAUT}but stay on guard.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "All right. Let's focus on searching.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "Got it. We'll leave it alone for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P4 Hero",
+    "en": "Looks like that's all we can get.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Hm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "We'll take it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P4 Hero",
+    "en": "We probably shouldn't push our luck.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Now that's good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Nice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "That's a shortcut. Want to open it up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P4 Hero",
+    "en": "Guess we can't get through here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P4 Hero",
+    "en": "This feels really dangerous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P4 Hero",
+    "en": "Okay. Be ready for anything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, let's back off for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P4 Hero",
+    "en": "That was one tough opponent...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "I can sense Shadows in the area.{SAUT}What's the plan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P4 Hero",
+    "en": "All right. Let's check it out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, let's back off for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P4 Hero",
+    "en": "Is that all of them?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "P4 Hero",
+    "en": "Looks like this goes back to the theater.{SAUT}What's the plan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

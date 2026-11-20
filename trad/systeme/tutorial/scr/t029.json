@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "Escape from a battle by {f 0 1 2}holding down the{SAUT}B Button{f 0 1 0} on the main combat screen.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes_RISKY",
+    "en": "However, if your difficulty is set to RISKY,{SAUT}attempts to escape an {f 0 1 2}FOE battle{f 0 1 0} will fail.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "There's a strong reading just beyond{SAUT}that door! Multiple enemies at that...{SAUT}Be extra careful!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Let's go.{OPTION}Let's not go just yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akihiko",
+    "en": "A bunch of strong enemies, huh?{SAUT}I'm itching for a fight. I can't wait{SAUT}to see what they've got!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Yessir! We have to be totally ready{SAUT}for battle before we do that!",
+    "fr": ""
+  }
+]

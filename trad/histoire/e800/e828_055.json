@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Koromaru",
+    "en": "Bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, is this what we're looking for?{SAUT}The, uh... whatchamacallit thingy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Don't you think it's kinda important to{SAUT}know the name of the thing we're{SAUT}looking for!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "It is called a motor driver, and, yes, this{SAUT}does seem to be what we were{SAUT}searching for.{PAGE}It doesn't appear to be damaged. All{SAUT}that is left is to take this to the robot in{SAUT}need and we can begin the repairs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "That's great news! Let's head back right{SAUT}away!",
+    "fr": ""
+  }
+]

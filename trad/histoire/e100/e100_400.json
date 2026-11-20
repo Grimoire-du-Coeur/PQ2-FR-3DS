@@ -1,0 +1,443 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Tch... There's a cop here, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Look! Over there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "...Is that a switchboard?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Our prediction was correct. If those{SAUT}switches are for the statue's lighting...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "We can turn the lights off from down{SAUT}here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "With the statue shrouded in darkness,{SAUT}we'd be able to steal it much more{SAUT}easily.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Well, let's hurry up and take out that{SAUT}cop―then the switchboard'll be all ours!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "Wait―considering how dark and narrow{SAUT}this place is, it'd be best to avoid using{SAUT}force.{PAGE}If we were to cause a ruckus, we'd{SAUT}definitely end up getting cornered{SAUT}down here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Not only that, it would be useless to{SAUT}turn off the statue's lights right now.{PAGE}It'd only allow Kamoshidaman to{SAUT}catch on to our presence.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "So we're gonna trick that cop to make{SAUT}him go away? How're we pullin' that{SAUT}off?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Time for some sex appeal.{OPTION}Time for the disguise.{OPTION}Time for a lil' meow-meow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "So... Panther?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "No, we can't leave this whole operation{SAUT}up to her acting skills...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "That's what I thought too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Hey! What's that supposed to mean!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "Wouldn't now be the time to make use{SAUT}of that uniform?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yusuke",
+    "en": "Right. Now's the time to make use{SAUT}of that uniform.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "Ohhh, like, he might let his guard down{SAUT}if a cute animal walks up to him?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "Who're you calling an animal!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ann",
+    "en": "It's too dangerous to go alone, even for{SAUT}Mona―plus, there's no guarantee he's{SAUT}a cat lover.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "Wouldn't now be the time to make use{SAUT}of that uniform?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "Ah, yes, the police uniform we{SAUT}reappropriated.{PAGE}So, should someone in disguise order{SAUT}a fake shift change to get rid of that{SAUT}policeman?{PAGE}That would secure our route to{SAUT}the switchboard with the least{SAUT}amount of trouble.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "So, that means it's my turn?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ann",
+    "en": "Won't it be dangerous? I mean, you're{SAUT}not exactly used to this kinda thing,{SAUT}right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "I'll be fine! I've gotten through some{SAUT}pretty tough scrapes before.{PAGE}I may not be a full-fledged phantom{SAUT}thief, but I can pull this off! Don't{SAUT}worry about me, okay?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_026",
+    "choix": true,
+    "en": "By all means.{OPTION}We've got your back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P3 Fem Protag",
+    "en": "Thanks! Well, I'm gonna go change{SAUT}over there real quick...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ta-daaah! Whaddaya think? Does it{SAUT}suit me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "Ohhh, not bad at all! You look pretty{SAUT}cute in that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ryuji",
+    "en": "But... is that really how a cop looks?{SAUT}She's pretty obviously cosplayi―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh, it'll be fine! I'll go over to{SAUT}the switchboard now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Ann",
+    "en": "Don't do anything reckless, alright?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yusuke",
+    "en": "Give us a signal if anything goes awry.{SAUT}We'll come back you up immediately.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "P3 Fem Protag",
+    "en": "Great! Now, watch this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "en": "Fully disguised, {f 6 1 27 0 0 0} walked{SAUT}over to address the cop...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P3 Fem Protag",
+    "en": "Sir! I've been assigned to take over{SAUT}this area, sir!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Tall policeman",
+    "en": "...Hmm? But, I was assigned this sector{SAUT}just the other day?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "P3 Fem Protag",
+    "en": "Um, I was informed that it's a relocation{SAUT}of personnel! I mean... That's what{SAUT}Kamoshidaman-san told me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Tall policeman",
+    "en": "\"Kamoshidaman-san\"? Why're you{SAUT}referring to him like that?{PAGE}......{PAGE}Well, fine... Just give me the{SAUT}password.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P3 Fem Protag",
+    "en": "Eh? The password?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Ryuji",
+    "en": "Oh shit―she's already in trouble!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Ann",
+    "en": "What do we do? Should we jump in?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Morgana",
+    "en": "No, let's watch a bit longer―if push{SAUT}comes to shove, we'll jump in there{SAUT}right away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Tall policeman",
+    "en": "What's the matter? C'mon, password...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahh―I'm sorry. I'm so anxious, I totally{SAUT}forgot it!{PAGE}Well, this is Kamoshidaman's city, and{SAUT}we're policemen, so...{PAGE}Kamo... Kamo...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Tall policeman",
+    "en": "Wha―\"Kamo Kamo\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "P3 Fem Protag",
+    "en": "Wait―Kamo City's police... Police...{SAUT}Kamo Police... Police Kamo... Kamo{SAUT}Kamo...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Akechi",
+    "en": "Oh dear. She's just spinning in circles...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Tall policeman",
+    "en": "...Fine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Akechi",
+    "en": "Wha―!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "P3 Fem Protag",
+    "en": "No way, I was right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Tall policeman",
+    "en": "Of course not! I meant it like, \"Fine,{SAUT}I'm through dealing with your nonsense.\"{PAGE}There is no password! It was a trick{SAUT}question, stupid!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hey, no fair! My disguise was perfect{SAUT}and everything!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Tall policeman",
+    "en": "I'm turning you in right now. Looks like{SAUT}you're gonna be part of the punishment{SAUT}exhibition!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Morgana",
+    "en": "This is bad―let's move!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "P3 Fem Protag",
+    "en": "Too slow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Tall policeman",
+    "en": "AWGH―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "en": "She just knocked out the cop with{SAUT}a chop to the neck!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "P3 Fem Protag",
+    "en": "Phew, that was close...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059_5",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay, better do this before he wakes{SAUT}up―where are his handcuffs? Oh,{SAUT}here we go...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_060",
+    "en": " cuffs and gags{SAUT}the unconscious cop...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Ryuji",
+    "en": "Hoooly shit... She went to town on{SAUT}that guy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Morgana",
+    "en": "She's way too good at that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "P3 Fem Protag",
+    "en": "And there―we―go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "P3 Fem Protag",
+    "en": "Sorry for the wait, but the mission{SAUT}was a success!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Ryuji",
+    "en": "Uh, no!? That wasn't our plan at all!{SAUT}We wanted him to walk away, not go{SAUT}comatose on us!{PAGE}And that chop―what are you, some{SAUT}kinda hitman!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha, oh, that? I saw it in a movie{SAUT}once, so I figured I'd give it a try.{PAGE}Looks like it turned out okay―I mean,{SAUT}I still pulled it off, right?{PAGE}That was my first time tricking an{SAUT}enemy before taking them out. It{SAUT}was so fun!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "Yusuke",
+    "en": "But, you didn't succeed at tricking him{SAUT}in the least...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Ann",
+    "en": "Well, she didn't get hurt, so let's just{SAUT}call it a success. Thanks for the assist,{SAUT}{f 6 1 27 0 0 0}-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* No problem at all.{SAUT}Glad to help!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Morgana",
+    "en": "Now that we've got our route to the{SAUT}switchboard, we can turn off the lights{SAUT}whenever we please.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Akechi",
+    "en": "All that's left is to determine how we'll{SAUT}steal the statue from the square.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Morgana",
+    "en": "Let's head back to work out the details{SAUT}of the operation.{PAGE}After all, this place smells horrible...{SAUT}Urp...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Yusuke",
+    "en": "Well then, shall we return to the theater,{SAUT}Joker?",
+    "fr": ""
+  }
+]

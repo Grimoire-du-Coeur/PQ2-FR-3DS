@@ -1,0 +1,146 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Kamoshidaman!? What's HE doing{SAUT}here!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "He's from a different film reel.{OPTION}It's a rerun.{OPTION}That's his twin brother.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "That's most likely the case. He's different{SAUT}from the one in the film we edited.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "No, I'm certain we corrected that movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "He's most likely from a different film{SAUT}than the one we edited.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "WHAT!? That ain't funny at all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "No, this one is most likely from{SAUT}a different film than the one we{SAUT}edited.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "The first film changed along with{SAUT}Hikari's consciousness...{PAGE}But the people that are watching now{SAUT}are still trapped in that distorted way{SAUT}of thinking.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "As it is now, everyone will be stuck{SAUT}watching that horrible movie...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Then, we'll just edit it as many times{SAUT}as we gotta!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Kamoshidaman",
+    "en": "I am the hero of justice, Kamoshidaman!{PAGE}I shall punish you undesirable criminals!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Makoto",
+    "en": "Undesirable, huh? That may be accurate{SAUT}at the moment...{PAGE}But we know we're doing the right thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "We're bringing hope back to the{SAUT}hopeless... It's clear who here is{SAUT}in the right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Kamoshidaman",
+    "en": "Dutifully obeying those of absolute{SAUT}power is what makes one right.{PAGE}Everyone agrees with my form of justice.{SAUT}Isn't it about time you did as well!?{PAGE}To find the truth, one must simply{SAUT}follow me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "So, like, black would be white if you{SAUT}just said so? What are you, stupid?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akechi",
+    "en": "Even children know that such rationale{SAUT}is deeply flawed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Kamoshidaman",
+    "en": "Nothing will change, no matter what{SAUT}you say!{PAGE}I am the hero of love and peace, feared{SAUT}by all―in other words, I am in the right!{PAGE}Love and peace: Kamoshidaman!{SAUT}HAHAHAHAHA!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Hah! You couldn't be more wrong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Haru",
+    "en": "Indeed. By definition, heroes help the{SAUT}weak by standing up to the strong...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Basically, the total effin' opposite of you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Kamoshidaman",
+    "en": "Shut up! You're nothing but a gang of{SAUT}undesirables rebelling against society!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_021",
+    "choix": true,
+    "en": "You're the undesirable here.{OPTION}Come and get us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Kamoshidaman",
+    "en": "Grrrr... It's time for you to grasp{SAUT}the power of justice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "Here he comes! Get ready...",
+    "fr": ""
+  }
+]

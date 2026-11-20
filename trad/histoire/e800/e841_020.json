@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": "Okay, so our quarry are singing{SAUT}flowers?{PAGE}I recall there are a lot of flowers{SAUT}here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Marie",
+    "en": "I already put a mark on your map for{SAUT}the location of a flower I liked.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Thank you so much.{OPTION}How thoughtful of you.{OPTION}You're really motivated.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Marie",
+    "en": "I-It's not like I like you or anything!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Ooh, now THERE'S an endangered{SAUT}species of a clich〒!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Marie",
+    "en": "I-I just don't want to get lost; I assume{SAUT}that's true of everyone?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Rise",
+    "en": "Hey, stop teasing Marie-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukiko",
+    "en": "So let's make our way to those marks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Marie",
+    "en": "Okay. I'll be right behind you... hoping{SAUT}this goes well.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "id": "MSG_TUTORIAL_FOE3_1",
+    "en": "Some FOEs {f 0 1 2}will start pursuing you as{SAUT}soon as they see you{f 0 1 0}.{PAGE}The {f 0 1 2}color of the circle's outline turns{SAUT}red{f 0 1 0} if an FOE is after you.{PAGE}The safest (but least rewarding) plan is{SAUT}to just avoid bumping into FOEs.",
+    "fr": ""
+  }
+]

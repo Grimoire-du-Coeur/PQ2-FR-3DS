@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": "Hey, is it me, or is Teddie missing?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Did he get lost?{OPTION}Did he run away?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Haha, are you trying to pull our leg{SAUT}or something? There's no way―{PAGE}Wait, you're right. Where is he!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "I noticed that it had grown rather quiet{SAUT}earlier... Teddie being missing would{SAUT}explain that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Sheesh, that idiot! Where'd he―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "There he is!{PAGE}What're you doing over there!? You{SAUT}had us all worried!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Hrm? Why are you yelling, Yosuke?{SAUT}Is something wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "...Uhhh, why are you rubbing up against{SAUT}that container like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Teddie",
+    "en": "This world is so hot... I felt like I was{SAUT}about to start melting away!{PAGE}Just then, I found this refreshingly{SAUT}chilly and comfortable box. Ahhh, this{SAUT}is truly heaven...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "Is that some sort of freezer storage unit{SAUT}that Teddie is... sprawled upon?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "I never would've imagined we'd find{SAUT}something like this out here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "The cool air seeping out must feel nice.{SAUT}I can only imagine how tough it is{SAUT}wearing a costume in this heat...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Teddie",
+    "en": "That long nose of yours looks pretty{SAUT}heated to me, Crow. Wanna hop up{SAUT}here next to me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "U-Um... My outfit has better ventilation{SAUT}than it appears. I'll pass this time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "If you're so hot, how about I incinerate{SAUT}you, Teddie?{PAGE}You know how the old saying goes...{SAUT}Clear your mind of all mundane{SAUT}thoughts and you'll find even fire cool.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Teddie",
+    "en": "Nooooo! Please don't make any{SAUT}roast bear!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Chie",
+    "en": "Oh, would you stop!? We need to keep{SAUT}moving here!",
+    "fr": ""
+  }
+]

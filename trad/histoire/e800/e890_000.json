@@ -1,0 +1,242 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Everyone, I apologize deeply for the{SAUT}long wait.{PAGE}I've studied that film you discovered,{SAUT}and come up with some theories.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Let's hear it.{OPTION}What did you find out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Well, please keep in mind that this{SAUT}is mostly speculation, but...{PAGE}In the special screening in question,{SAUT}{f 6 1 30 0 0 0} engaged in battle, as{SAUT}requested on its ticket.{PAGE}The film was left behind by the Shadow{SAUT}defeated by {f 6 1 30 0 0 0}'s might.{SAUT}In other words...{PAGE}I hypothesize that his power is{SAUT}directly responsible for the film's{SAUT}appearance.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Which power?{OPTION}I don't get it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "I refer to your limitless possibilities.{SAUT}What we call the power of the{SAUT}wild card.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "My, have you still not realized?{PAGE}I refer to the limitless possibilities{SAUT}slumbering within you. We know it{SAUT}as the power of the wild card.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Elizabeth",
+    "en": "And those with the power of the wild{SAUT}card never gain such power without{SAUT}reason.{PAGE}In other words, that film is a key―{SAUT}one meant to draw out further{SAUT}possibilities from within you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Hmm... That seems like a bit of a{SAUT}reach to me, but let's suppose this{SAUT}film actually is a \"key\" to his power.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_1",
+    "locuteur": "Akechi",
+    "en": " himself doesn't seem{SAUT}to have changed much... How do you{SAUT}explain that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008_1",
+    "locuteur": "Elizabeth",
+    "en": "For the sake of answering this query,{SAUT}allow me to offer an idea of my own.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elizabeth",
+    "en": "Theo! Theo! Come here at once!{PAGE}Theo! Theooooo! Don't make me{SAUT}get the soybean powder―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Theodore",
+    "en": "Th-That's enough, Sister!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_1",
+    "locuteur": "Theodore",
+    "en": "Even the mere mention of it...{SAUT}I can feel my tongue shriveling,{SAUT}drying into lifeless dust...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "The hell kinda PTSD is that...?{SAUT}What did she do to you, man?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Theodore",
+    "en": "Goodness! What a pleasant surprise{SAUT}to see you all gathered here.{PAGE}So, Sister? What did you need of me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Elizabeth",
+    "en": "Theo, surely you have not forgotten{SAUT}that you are one who governs power?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Theodore",
+    "en": "Why, certainly not.{PAGE}However I may be dressed, I take{SAUT}pride in performing my duties.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elizabeth",
+    "en": "Well then. Have a bout with them{SAUT}right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Theodore",
+    "en": "...Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016_1",
+    "locuteur": "Theodore",
+    "en": "A bout...? You want me to fight{SAUT}{f 6 1 30 0 0 0} and his companions!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Elizabeth",
+    "en": "Indeed! Naturally, there's no need{SAUT}to hold back.{PAGE}Of course, I ask the same of you all{SAUT}as well. Please fight as if you wish{SAUT}to kill him.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "This makes no sense.{OPTION}I'm totally lost.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Theodore",
+    "en": "Yes, this is ridiculous. Look, they're{SAUT}all struggling to keep up with you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Elizabeth",
+    "en": "Oh...?{PAGE}Are you back-sassing me? I didn't know{SAUT}you had such an attitude problem, Theo.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Theodore",
+    "en": "O-Oh, no... Believe me, there was{SAUT}no variety of sass intended...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Elizabeth",
+    "en": ", I truly apologize if{SAUT}this suggestion is too sudden or{SAUT}brash...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022_1",
+    "locuteur": "Elizabeth",
+    "en": "However, I believe this battle will{SAUT}bear fruitful results indeed.{PAGE}This is but a step to solving the{SAUT}mystery of that film, and delving into{SAUT}the possibilities of the wild card.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Theodore",
+    "en": "This is for the power of the{SAUT}wild card...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Makoto",
+    "en": "How is fighting Theodore going to{SAUT}solve anything?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Elizabeth",
+    "en": "I shall happily explain further once{SAUT}you've beaten the crap out of Theo.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025_1",
+    "locuteur": "Elizabeth",
+    "en": "Come now, and I shall witness it all!{SAUT}Theo VS. everyone! Round 1! FIGHT!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "Whoa, Zabby's hyped.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Theodore",
+    "en": "...Well, I'm sure you know by now.{SAUT}Once my sister seizes on an idea,{SAUT}there is little point resisting.{PAGE}Would you do as my sister says,{SAUT}and have a bout with me?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_028",
+    "choix": true,
+    "en": "Bring it on.{OPTION}I'll need a moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Theodore",
+    "en": "Understood.{PAGE}I shall go prepare myself as well.{SAUT}Let us meet in the Velvet Room.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Theodore",
+    "en": "Of course. Please speak to me{SAUT}again once you are prepared.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Theodore",
+    "en": "Ah, welcome. Are you ready{SAUT}for our bout?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_032",
+    "choix": true,
+    "en": "We're ready.{OPTION}Not yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Theodore",
+    "en": "Understood.{PAGE}I shall go prepare myself as well.{SAUT}Let us meet in the Velvet Room.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Theodore",
+    "en": "In that case, please speak to me{SAUT}again once you are prepared.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "For this next task, you will be required to{SAUT}find what are known as \"ammonites.\"{PAGE}It has been rumored that these{SAUT}long-extinct creatures have recently been{SAUT}spotted somewhere in Junessic Land.{PAGE}I would very much like to have a playful{SAUT}rendezvous with this \"ammonite\"{SAUT}and its superbly tentacle-like legs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Where's Elizabeth learn about this kinda{SAUT}stuff...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "*giggle* I have a gift for sensing these{SAUT}sorts of things!{PAGE}It is somewhat of a cure for boredo―{SAUT}I mean... I'm just naturally talented.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "...We can hear you, you know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Well, we do seem to benefit from{SAUT}completing these requests.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "Ammonites...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Hm? What's up Inari?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": ", I want to accept this quest!{SAUT}Is that fine?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "Not a problem.{OPTION}I'll leave it to you.{OPTION}Why's that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "Thank you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "What's got you so excited?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "I wish to move Amagi-san's heart.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Teddie",
+    "en": "By giving her an ammonite!? That's{SAUT}nonsense!{PAGE}Girls want things that are shiny and{SAUT}expensive!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "That's not how you do it, but, uh...{SAUT}Since when were you two a thing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "It's not like that. Yusuke-kun's{SAUT}teaching me how to draw.{PAGE}He wants to help me find something{SAUT}I'll like, something I can be passionate{SAUT}about.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "Amagi-san has no idea of the incredible{SAUT}artistic potential she possesses.{PAGE}I must find this ammonite in order to{SAUT}see what she's truly capable of!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "Yusuke's getting all worked up.{SAUT}We'd better get this done quick.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "...Yukiko's art wasn't that special, was{SAUT}it? I feel like I've seen the same sort of{SAUT}stuff in art class...",
+    "fr": ""
+  }
+]

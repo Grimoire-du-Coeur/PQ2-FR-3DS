@@ -1,0 +1,42 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "This place is just as creepy{SAUT}as last time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "Indeed. I feel as if a spirit could{SAUT}appear at any moment...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "en": "Cut it out, Inari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "Hey! Someone's in here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "Did I truly sense a spirit!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Eeeeek!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "en": "Wh-Who the hell are you two!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Stay on guard...",
+    "fr": ""
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "This is the place.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "This is a crime scene...? I don't see{SAUT}anything unusual around here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "Maybe they finished their investigation{SAUT}and cleaned up already...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Seriously!? We didn't find a single{SAUT}clue...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Junpei",
+    "en": "*sigh* Welp, there goes my motivation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "You're giving up way too fast.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Hey, is it just me, or are there a lot of{SAUT}people here?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "There's something to see.{OPTION}It's a crime scene.{OPTION}We've become famous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Yeah, I guess a crime scene would draw{SAUT}people's attention.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukari",
+    "en": "Uh, I'm pretty sure they're not here to{SAUT}see us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "Oh, I get it. They probably want to see{SAUT}the crime scene.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "Someone here might know what{SAUT}happened.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Mitsuru",
+    "en": "Let's ask around, then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Makoto",
+    "en": "Okay, Skull, you and the boys head over{SAUT}that way. Panther, you take the girls{SAUT}over there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012_1",
+    "locuteur": "Makoto",
+    "en": "We'll split up and see what we can learn.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Got it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Leave it to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ken",
+    "en": "Mitsuru-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Mitsuru",
+    "en": "Oh, forgive me. Yes, we should ask{SAUT}around as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "We're all finished up on our end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "It seems a theft occurred here;{SAUT}someone had their wallet stolen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ann",
+    "en": "It sounds like there were multiple perps{SAUT}too. They surrounded the victim and{SAUT}charged in all at once.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020_1",
+    "locuteur": "Ann",
+    "en": "The victim didn't even have time to{SAUT}react.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yukari",
+    "en": "We heard pretty much the same story.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akihiko",
+    "en": "Ganging up on someone like that...{SAUT}That's real low! They won't get away{SAUT}with this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Junpei",
+    "en": "But we didn't get any clues to where the{SAUT}culprits are or what they look like... So,{SAUT}now what?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "It's too early to give up.{OPTION}Let's check another crime scene.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Makoto",
+    "en": "Yes. Elizabeth marked some other{SAUT}locations for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025_1",
+    "locuteur": "Makoto",
+    "en": "We may learn something that will serve{SAUT}as a clue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "Okay then, let's head over to another{SAUT}crime scene.",
+    "fr": ""
+  }
+]

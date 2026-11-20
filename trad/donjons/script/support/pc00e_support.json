@@ -1,0 +1,527 @@
+[
+  {
+    "id": "FUKA_FOE_FOLLOW_START_1",
+    "en": "An FOE is approaching!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FOE_FOLLOW_START_2",
+    "en": "Oh no! An FOE spotted you!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FOE_FOLLOW_START_3",
+    "en": "That FOE is on your tail!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FOE_NEAR_1",
+    "en": "There's an FOE nearby... Keep your{SAUT}guard up!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FOE_NEAR_2",
+    "en": "The FOE is right next to you!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FOE_NEAR_3",
+    "en": "I'm detecting an FOE. Be careful!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FOE_FOLLOW_END_1",
+    "en": "Whew... It looks like you shook off{SAUT}that FOE.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FOE_FOLLOW_END_2",
+    "en": "The FOE gave up the chase!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FOE_FOLLOW_END_3",
+    "en": "Oh, good! We've lost the FOE!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_KANSI_REACTION_1",
+    "en": "Watch your step!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_KANSI_REACTION_2",
+    "en": "Don't let anything see you!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_KANSI_REACTION_3",
+    "en": "Careful going through there...",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_DENKISAKU_REACTION_",
+    "en": "An electric gate... Maybe it can be{SAUT}turned off?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_DENKISAKU_REACTION_#2",
+    "en": "There's no way around the gate. We{SAUT}have to turn it off.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_DENKISAKU_REACTION_#3",
+    "en": "Don't touch it, that gate is electric!{SAUT}Our only hope is to find its switch.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_KYOUHU_REACTION_1",
+    "en": "Eeep! That's a nasty squall!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_KYOUHU_REACTION_2",
+    "en": "Careful!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_KYOUHU_REACTION_3",
+    "en": "Such a strong wind!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_STAIR_FIND_1",
+    "en": "The stairs are up ahead!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_STAIR_FIND_2",
+    "en": "The stairs are right here. Time to head{SAUT}to another floor?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_STAIR_FIND_3",
+    "en": "Huh? What's that up ahead? Oh! It's a{SAUT}staircase!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_TREASURE_FIND_1",
+    "en": "There's a treasure box around there!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_TREASURE_FIND_2",
+    "en": "A treasure box? Let's see what's inside.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_TREASURE_FIND_3",
+    "en": "How exciting! What could possibly be{SAUT}inside?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_CHECK_WALL_1",
+    "en": "There's something curious about that{SAUT}wall...",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_CHECK_WALL_2",
+    "en": "Hm... Would you mind checking that{SAUT}wall?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_CHECK_WALL_3",
+    "en": "That wall... Could you take a closer{SAUT}look at it?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_SWITCH_FIND_1",
+    "en": "I detect a switch nearby.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_SWITCH_FIND_2",
+    "en": "There's a switch near you. Want to try{SAUT}flipping it?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_SWITCH_FIND_3",
+    "en": "I think there's a switch in your vicinity.{SAUT}Look around!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_SHORTCUT_FIND_1",
+    "en": "It looks like you might be able to pass{SAUT}through there.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_SHORTCUT_FIND_2",
+    "en": "Look, that could be a shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_SHORTCUT_FIND_3",
+    "en": "I think there's a shortcut in that area.{SAUT}See anything?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_PARTY_DEAD_1",
+    "en": "Do you see how low your health is?{SAUT}This is dangerous!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_PARTY_DEAD_2",
+    "en": "What if you got attacked in this state?{SAUT}Do some healing!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_PARTY_DEAD_3",
+    "en": "It's so risky to continue like this! How{SAUT}about heading back?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FOE_WARNING_NEAR_1",
+    "en": "The FOE is still after you!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FOE_WARNING_NEAR_2",
+    "en": "That FOE is still in the area!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_FOE_WARNING_NEAR_3",
+    "en": "Brace yourselves! The FOE is heading{SAUT}your way!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_PARTY_HPTP10_1",
+    "en": "I'm worried about all of you pressing{SAUT}on in such a state!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_PARTY_HPTP10_2",
+    "en": "Everyone is suffering from low health{SAUT}and energy!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_PARTY_HPTP10_3",
+    "en": "Some of you are very beat up. Can{SAUT}anyone do some healing?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_PARTY_HP10_1",
+    "en": "Please keep an eye on your health!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_PARTY_HP10_2",
+    "en": "You're in danger! You need healing!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_PARTY_HP10_3",
+    "en": "The whole team needs healing!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_1PERSON_HPTP10_1",
+    "en": "Are you all right? You should patch{SAUT}yourself up!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_1PERSON_HPTP10_2",
+    "en": "Careful! Health and energy are low!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_1PERSON_HPTP10_3",
+    "en": "You're in critical condition. You need{SAUT}to heal!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_PARTY_TP10_1",
+    "en": "Some of you are barely limping along!{SAUT}Please, rest!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_PARTY_TP10_2",
+    "en": "Everyone's running out of energy...",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_PARTY_TP10_3",
+    "en": "Now might be a good time to come{SAUT}back and rest up.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_1PERSON_HP10_1",
+    "en": "Can you replenish any health?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_1PERSON_HP10_2",
+    "en": "Look at your health. It's not wise to{SAUT}push yourself like this!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_1PERSON_HP10_3",
+    "en": "Watch out! Your health is low!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_1PERSON_TP10_1",
+    "en": "I'd feel much less anxious if you took{SAUT}a break to recover.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_1PERSON_TP10_2",
+    "en": "You look so worn out. Do you think{SAUT}it's safe to keep going?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_1PERSON_TP10_3",
+    "en": "I'm worried about you all pressing on{SAUT}in this state.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_ITEM_90_BATTLE_1",
+    "en": "Is your inventory starting to weigh{SAUT}you down?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_ITEM_90_BATTLE_2",
+    "en": "It seems you're close to carrying{SAUT}your maximum load.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_ITEM_90_BATTLE_3",
+    "en": "Maybe you should return and put{SAUT}some items in storage?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_1PERSON_HP80_1",
+    "en": "That was amazing!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_1PERSON_HP80_2",
+    "en": "Let's keep this up!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_1PERSON_HP80_3",
+    "en": "Wow, everyone looked so awesome{SAUT}during that fight!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FUKA_MAKASETA_1",
+    "en": "You take it from here, Fuuka-chan!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FUKA_MAKASETA_2",
+    "en": "Here you go, Fuuka-chan! Go get 'em!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FUKA_MAKASETA_3",
+    "en": "Let's see what you've got, Fuuka-chan!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FUKA_ANSWER_1",
+    "en": "Understood! I'll do my best!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FUKA_ANSWER_2",
+    "en": "I'll take it from here, Rise-chan! ...Let's{SAUT}go, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FUKA_ANSWER_3",
+    "en": "That was some impressive navigation.{SAUT}I've got some big shoes to fill!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FUKA_MAKASETA_1",
+    "en": "Leavin' it to you, Fuuka!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FUKA_MAKASETA_2",
+    "en": "Fuuka is on the scene!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FUKA_MAKASETA_3",
+    "en": "Switching to Fuuka!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FUKA_ANSWER_1",
+    "en": "You can go take a well-deserved rest.{SAUT}I got this!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FUKA_ANSWER_2",
+    "en": "I'll be doing support from here on out.{SAUT}Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_FUKA_ANSWER_3",
+    "en": "Great job, Oracle! I'll take over from{SAUT}here!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_ITEM_90_DUNGEON_1",
+    "en": "Is your inventory starting to weigh{SAUT}you down?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_ITEM_90_DUNGEON_2",
+    "en": "It seems you're close to carrying{SAUT}your maximum load.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_ITEM_90_DUNGEON_3",
+    "en": "Maybe you should return and put{SAUT}some items in storage?",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_DUNGEON_START_1",
+    "en": "Good luck, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_DUNGEON_START_2",
+    "en": "Remember, no need to run yourselves{SAUT}into the ground!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_DUNGEON_START_3",
+    "en": "I'll be right here, doing my absolute{SAUT}best to support you!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_QUEST_START_1",
+    "en": "Let's do our best!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_QUEST_START_2",
+    "en": "I'll do my best to provide you support!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_QUEST_START_3",
+    "en": "You can do it, guys!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_TOUHA_25_1",
+    "en": "There's still a ways to go. Don't push{SAUT}yourself too hard.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_TOUHA_25_2",
+    "en": "Keep an eye on your health.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_TOUHA_50_1",
+    "en": "The map is halfway done. Don't stop{SAUT}now!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_TOUHA_50_2",
+    "en": "The map's looking great. You are such{SAUT}an intrepid explorer!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_TOUHA_75_1",
+    "en": "Just a bit more, and this floor is{SAUT}mapped!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_TOUHA_75_2",
+    "en": "You're just a few steps away from{SAUT}finishing your map!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_TOUHA_100_1",
+    "en": "Consider this floor done!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_TOUHA_100_2",
+    "en": "Now you know this floor like the back{SAUT}of your hand!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_MAPPING_ICON_ALL_1",
+    "en": "Nice placement!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_MAPPING_ICON_ALL_2",
+    "en": "I have to say... You're one great{SAUT}cartographer!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_MAPPING_ICON_KAIDAN",
+    "en": "Good idea... It's important to know{SAUT}where the stairs are.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_MAPPING_ICON_KAIDAN#2",
+    "en": "Now we'll never get lost when we're{SAUT}looking for the stairs!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_MAPPING_CHANGE_COLO",
+    "en": "We're filling in the map fast! And{SAUT}quite colorfully, too!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_MAPPING_CHANGE_COLO#2",
+    "en": "Oh wow, you're even color-coding!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_MAPPING_ICON_DEL_1",
+    "en": "You certainly pay attention to{SAUT}the details!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_MAPPING_ICON_DEL_2",
+    "en": "Nice thinking... We don't want our{SAUT}map all cluttered up.",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_MAPPING_MEMO_1",
+    "en": "You read my mind!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_MAPPING_MEMO_2",
+    "en": "It's always wise to take notes!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_KARITORU_ENCOUNT_1",
+    "en": "I'm picking up a signal... Look out,{SAUT}it's the Reaper!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_KARITORU_ENCOUNT_2",
+    "en": "The Reaper is coming! Be careful!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_KARITORU_ENCOUNT_3",
+    "en": "This reading... Eek, it's the Reaper!{SAUT}Watch out!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Hm? Is that...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "As I thought―they're stairs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Looks like they advance to the next{SAUT}floor.{PAGE}We haven't spotted Queen and Noir yet,{SAUT}so it's best to keep on going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "So, we're supposed to head over there?{SAUT}...I-I feel like we're going to lose sight{SAUT}of it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Then, what if I do this... and put a mark{SAUT}on the map?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Thanks.{OPTION}Stop it.{OPTION}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "You're welcome. I'm glad if I was able{SAUT}to be of use.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "Indeed, it'll be easier to see that way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Come now, we know where to head{SAUT}next. Let's look for a path that leads to{SAUT}those stairs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "Oh... Should I have minded my own{SAUT}business? Sorry.{PAGE}I won't go drawing things without your{SAUT}permission from here on, so won't you{SAUT}forgive me?{PAGE}I'll erase it when we reach our{SAUT}destination.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Ugh! C'mon, let's hurry up and get to{SAUT}those stairs so that we can keep going!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "What's the matter?{PAGE}Oh... Should I have minded my own{SAUT}business?{PAGE}I'm sorry. I'll erase it when we reach{SAUT}our destination.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "...At any rate, we've determined our{SAUT}next destination. Let's first find a path{SAUT}that leads to those stairs.",
+    "fr": ""
+  }
+]

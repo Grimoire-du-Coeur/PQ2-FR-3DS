@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosukesaurus",
+    "en": "A-ANOTHER ONE!? C'mon, partner!{SAUT}We've gotta run for it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Tch, again? If we have to go through this{SAUT}every time a carnivore shows up, it's{SAUT}really gonna slow us down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Well, this time, perhaps we should{SAUT}make use of that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Oh, it's that gate―the electric one!{PAGE}...Ah, I gotcha! Wait―we have to trap{SAUT}that huge carnivore by ourselves!?{SAUT}But, how?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Unfortunately, that wouldn't do us any{SAUT}good at the moment anyway, unless we{SAUT}were to open up the gate as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "Maaan, we're just stuck here!? What was{SAUT}the point of suggesting the gate, then?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "Well, if we can find a way to manipulate{SAUT}the gate, it should work to our{SAUT}advantage.{PAGE}That's why we have to find the switch{SAUT}for it... then we can search for the proper{SAUT}path to follow.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "That guy just now―don't tell me, was{SAUT}that Hikari's...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Hero",
+    "en": "Yeah. She had said that Doe was a being{SAUT}created by the feelings she couldn't{SAUT}get rid of.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "As for the movie we just saw, that{SAUT}first segment was exactly the same{SAUT}as what we'd seen earlier...{PAGE}However, the feelings expressed toward{SAUT}Hikari-san were completely different{SAUT}this time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Hey, hey! Forget all that for{SAUT}now―how's Hikari-chan!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Aigis",
+    "en": "No issues with her pulse or blood{SAUT}pressure. I believe she has only{SAUT}lost consciousness temporarily.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "Thank goodness... She's okay then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Doe",
+    "en": "Ngh... Nngh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Well then, what should we do with{SAUT}him? There's still a danger of him{SAUT}going berserk again.{PAGE}I suppose we could at least tie him up,{SAUT}to be safe...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Mm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Fuuka",
+    "en": "Oh! It looks like Hikari-chan's coming{SAUT}around!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Hikari",
+    "en": "Doe's... not an enemy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "...Ah. Do you remember now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Hikari",
+    "en": "I know that movie. It's been filming{SAUT}for such a long time...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "What movie?{OPTION}Is that so?{OPTION}Did you shoot it, Hikari?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ken",
+    "en": "Movie...? Do you mean that black-and-{SAUT}white footage we keep seeing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosuke",
+    "en": "Well, now that you mention it, it did{SAUT}seem a lot like a home video...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Hikari",
+    "en": "Mmhm... Ever since I was little...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Hikari",
+    "en": "No, just the opposite. I'm the one{SAUT}who was always filmed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Naoto",
+    "en": "Then... does that mean the movie was{SAUT}shot by your family?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Hikari",
+    "en": "That's right... The one who's always{SAUT}watched over me, standing right by{SAUT}my side...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Doe",
+    "en": "Hikari...",
+    "fr": ""
+  }
+]

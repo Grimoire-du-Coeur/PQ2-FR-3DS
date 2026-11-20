@@ -1,0 +1,527 @@
+[
+  {
+    "id": "RISE_FOE_FOLLOW_START_1",
+    "en": "An FOE spotted you!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FOE_FOLLOW_START_2",
+    "en": "That FOE is coming closer!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FOE_FOLLOW_START_3",
+    "en": "Watch out for that FOE!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FOE_NEAR_1",
+    "en": "Dodge that FOE!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FOE_NEAR_2",
+    "en": "Enemy FOE spotted! Careful!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FOE_NEAR_3",
+    "en": "FOE approaching!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FOE_FOLLOW_END_1",
+    "en": "Nice! You lost that FOE!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FOE_FOLLOW_END_2",
+    "en": "Looks like you got away from that FOE!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FOE_FOLLOW_END_3",
+    "en": "Phew, it gave up.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_KANSI_REACTION_1",
+    "en": "Watch your step going forward!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_KANSI_REACTION_2",
+    "en": "Take it slow. We don't want to be seen.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_KANSI_REACTION_3",
+    "en": "Let's stay calm and collected, okay?",
+    "fr": ""
+  },
+  {
+    "id": "RISE_DENKISAKU_REACTION_",
+    "en": "We need to turn off the power to get{SAUT}through there!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_DENKISAKU_REACTION_#2",
+    "en": "Careful around that electric gate!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_DENKISAKU_REACTION_#3",
+    "en": "There should be an off switch{SAUT}somewhere! You gotta find it!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_KYOUHU_REACTION_1",
+    "en": "Whoa, that wind is strong!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_KYOUHU_REACTION_2",
+    "en": "Whoa! Look out, guys!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_KYOUHU_REACTION_3",
+    "en": "What!? We got blown away!?",
+    "fr": ""
+  },
+  {
+    "id": "RISE_STAIR_FIND_1",
+    "en": "We can head to the next floor!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_STAIR_FIND_2",
+    "en": "We can move to the next area.{SAUT}What do you think?",
+    "fr": ""
+  },
+  {
+    "id": "RISE_STAIR_FIND_3",
+    "en": "I've spotted some stairs! Should we{SAUT}check them out?",
+    "fr": ""
+  },
+  {
+    "id": "RISE_TREASURE_FIND_1",
+    "en": "It's a treasure box!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_TREASURE_FIND_2",
+    "en": "Ooh, lucky! I see a treasure box!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_TREASURE_FIND_3",
+    "en": "A treasure box! Just imagine what{SAUT}could be inside.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_CHECK_WALL_1",
+    "en": "There's something up ahead.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_CHECK_WALL_2",
+    "en": "There's something interesting there...",
+    "fr": ""
+  },
+  {
+    "id": "RISE_CHECK_WALL_3",
+    "en": "Can you check what's in front of you?",
+    "fr": ""
+  },
+  {
+    "id": "RISE_SWITCH_FIND_1",
+    "en": "I think there's a switch nearby.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_SWITCH_FIND_2",
+    "en": "I bet there's a switch here somewhere.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_SWITCH_FIND_3",
+    "en": "There's a switch nearby, I can feel it!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_SHORTCUT_FIND_1",
+    "en": "That looks like a shortcut!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_SHORTCUT_FIND_2",
+    "en": "I think I've spotted a shortcut!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_SHORTCUT_FIND_3",
+    "en": "Look! We can pass through there!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_PARTY_DEAD_1",
+    "en": "Multiple party members out of action!{SAUT}You might want to head back!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_PARTY_DEAD_2",
+    "en": "This isn't good! You need to regroup!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_PARTY_DEAD_3",
+    "en": "Oh my gosh! It's way too dangerous to{SAUT}continue like this!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FOE_WARNING_NEAR_1",
+    "en": "That FOE's still following you!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FOE_WARNING_NEAR_2",
+    "en": "Look out, that FOE is chasing you!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_FOE_WARNING_NEAR_3",
+    "en": "It's still after you. Don't relax just yet!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_PARTY_HPTP10_1",
+    "en": "You're in trouble! You should head{SAUT}back for now!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_PARTY_HPTP10_2",
+    "en": "You all look really bad! Stop being so{SAUT}reckless!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_PARTY_HPTP10_3",
+    "en": "You're going to get wiped out! Can't{SAUT}you do something?",
+    "fr": ""
+  },
+  {
+    "id": "RISE_PARTY_HP10_1",
+    "en": "The party's health isn't looking good!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_PARTY_HP10_2",
+    "en": "You're low on health, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_PARTY_HP10_3",
+    "en": "You need to recover your health, guys!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_1PERSON_HPTP10_1",
+    "en": "You're in really bad shape!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_1PERSON_HPTP10_2",
+    "en": "You're gonna collapse at this rate.{SAUT}You need to heal!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_1PERSON_HPTP10_3",
+    "en": "Your health and stamina are critical!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_PARTY_TP10_1",
+    "en": "Careful, guys! Your stamina's low!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_PARTY_TP10_2",
+    "en": "Everyone looks fatigued! Are you{SAUT}okay?",
+    "fr": ""
+  },
+  {
+    "id": "RISE_PARTY_TP10_3",
+    "en": "Keep an eye on your stamina, guys!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_1PERSON_HP10_1",
+    "en": "Can you restore your health?",
+    "fr": ""
+  },
+  {
+    "id": "RISE_1PERSON_HP10_2",
+    "en": "Someone needs healing!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_1PERSON_HP10_3",
+    "en": "Be careful about your health!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_1PERSON_TP10_1",
+    "en": "Hey, you look exhausted. Not good...",
+    "fr": ""
+  },
+  {
+    "id": "RISE_1PERSON_TP10_2",
+    "en": "Your stamina's almost out!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_1PERSON_TP10_3",
+    "en": "Are you running out of steam?",
+    "fr": ""
+  },
+  {
+    "id": "RISE_ITEM_90_BATTLE_1",
+    "en": "Managing your inventory is important,{SAUT}really.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_ITEM_90_BATTLE_2",
+    "en": "You should probably sort your items!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_ITEM_90_BATTLE_3",
+    "en": "You're gonna be full up on items soon.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_1PERSON_HP80_1",
+    "en": "Wow, you're making this look easy!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_1PERSON_HP80_2",
+    "en": "Let's keep up this pace!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_1PERSON_HP80_3",
+    "en": "You're still going strong!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_RISE_MAKASETA_1",
+    "en": "I'll leave it to you now, Rise-chan!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_RISE_MAKASETA_2",
+    "en": "I'm looking forward to Rise-chan's{SAUT}navigation!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_RISE_MAKASETA_3",
+    "en": "I'll hand it over to Rise-chan now!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_RISE_ANSWER_1",
+    "en": "Thanks, Fuuka-chan! Time for some{SAUT}rock star navigation!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_RISE_ANSWER_2",
+    "en": "Good work, Fuuka-chan! I'm lucky to{SAUT}take over from you!",
+    "fr": ""
+  },
+  {
+    "id": "FUKA_RISE_ANSWER_3",
+    "en": "Subbing in for Fuuka-chan... the one{SAUT}and only Risette!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_RISE_MAKASETA_1",
+    "en": "Switching to Rise! Good luck!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_RISE_MAKASETA_2",
+    "en": "Oracle signing off! It's all you, Rise!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_RISE_MAKASETA_3",
+    "en": "All right! Passing the baton to Rise!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_RISE_ANSWER_1",
+    "en": "OK! Got it, Oracle!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_RISE_ANSWER_2",
+    "en": "I'll be providing support in Oracle's{SAUT}place from here on out!",
+    "fr": ""
+  },
+  {
+    "id": "FUTABA_RISE_ANSWER_3",
+    "en": "Good job, Oracle! I'll take over from{SAUT}here!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_ITEM_90_DUNGEON_1",
+    "en": "Managing your inventory is important,{SAUT}really.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_ITEM_90_DUNGEON_2",
+    "en": "You should probably sort your items!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_ITEM_90_DUNGEON_3",
+    "en": "You're gonna be full up on items soon.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_DUNGEON_START_1",
+    "en": "I'll give you my best support!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_DUNGEON_START_2",
+    "en": "If the going gets tough, head back{SAUT}right away, 'kay?",
+    "fr": ""
+  },
+  {
+    "id": "RISE_DUNGEON_START_3",
+    "en": "Everybody ready? All right, let's go!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_QUEST_START_1",
+    "en": "Let's be like a band and do our best{SAUT}work together!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_QUEST_START_2",
+    "en": "Okay, let's get to this special{SAUT}screening!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_QUEST_START_3",
+    "en": "Special screening, begin!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_TOUHA_25_1",
+    "en": "Still got a ways to go. Stay focused!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_TOUHA_25_2",
+    "en": "We've still got a lot of ground to cover.{SAUT}Stay vigilant!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_TOUHA_50_1",
+    "en": "We're about halfway there! We got{SAUT}this!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_TOUHA_50_2",
+    "en": "Making good progress! Let's keep it{SAUT}up!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_TOUHA_75_1",
+    "en": "We're almost done with this floor.{SAUT}Don't stop now!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_TOUHA_75_2",
+    "en": "We've come a long way. You guys are{SAUT}awesome!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_TOUHA_100_1",
+    "en": "We've covered every inch of this floor!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_TOUHA_100_2",
+    "en": "We've seen all there is to see here.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_MAPPING_ICON_ALL_1",
+    "en": "That map's coming along nicely!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_MAPPING_ICON_ALL_2",
+    "en": "Perfect placement!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_MAPPING_ICON_KAIDAN",
+    "en": "Best to always know where the{SAUT}stairs are.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_MAPPING_ICON_KAIDAN#2",
+    "en": "With this map, we'll never get lost!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_MAPPING_CHANGE_COLO",
+    "en": "Ooh, a color change! Looks stylish!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_MAPPING_CHANGE_COLO#2",
+    "en": "That map will look beautiful when{SAUT}it's done!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_MAPPING_ICON_DEL_1",
+    "en": "Yeah, looks tidier now!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_MAPPING_ICON_DEL_2",
+    "en": "Gotta do a touch-up, so we don't get{SAUT}lost!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_MAPPING_MEMO_1",
+    "en": "You're really diligent!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_MAPPING_MEMO_2",
+    "en": "Yeah, jot it down.",
+    "fr": ""
+  },
+  {
+    "id": "RISE_KARITORU_ENCOUNT_1",
+    "en": "Uh oh, I'm picking up a Reaper nearby!{SAUT}Watch out!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_KARITORU_ENCOUNT_2",
+    "en": "I've got a reading there's a Reaper near{SAUT}you! Be careful!",
+    "fr": ""
+  },
+  {
+    "id": "RISE_KARITORU_ENCOUNT_3",
+    "en": "Picking up a signal from the Reaper!{SAUT}It's coming this way!",
+    "fr": ""
+  }
+]

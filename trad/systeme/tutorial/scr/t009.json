@@ -1,0 +1,17 @@
+[
+  {
+    "id": "MSG_TUTORIAL_QUEST_MAP_0",
+    "en": "If you enter a movie via a special{SAUT}screening, the {f 0 1 2}labyrinth will change{f 0 1 0}...{SAUT}Some doors and shortcuts will be sealed{SAUT}up. Some areas will be inaccessible, as if{SAUT}they never existed. {f 0 1 2}New Treasure Spots,{SAUT}chests, and FOEs will be in the labyrinth{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_QUEST_MAP_1",
+    "en": "Inaccessible areas will be {f 0 1 2}colored red{f 0 1 0} and{SAUT}{f 0 1 2}marked with a special icon{f 0 1 0}.{PAGE}Make sure to look at the bottom screen{SAUT}when exploring a special screening!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_QUEST_MAP_2",
+    "en": "You'll also see a {f 0 1 2}special screening palette{f 0 1 0}.{PAGE}Icons from this palette {f 0 1 2}can only be placed{SAUT}during special screenings{f 0 1 0}.{PAGE}You should use these to indicate any{SAUT}{f 0 1 2}changes caused by the special screening{f 0 1 0}.{PAGE}However, a word of caution:{PAGE}These palette icons can't be placed on{SAUT}top of any previously-placed icons.{PAGE}Be sure to make use of the palette to get{SAUT}the most out of the special screenings!",
+    "fr": ""
+  }
+]

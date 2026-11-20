@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Look! There's an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "locuteur": "Ann",
+    "en": "I, uh... don't want it coming anywhere{SAUT}near us. Can we get out of here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "It is not a problem, Panther.{PAGE}Koromaru-san says, \"{f 0 1 2}It is too big to fit{SAUT}through this passage. There's no need{SAUT}to worry{f 0 1 0}.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Ah, what a relief! I was gonna really{SAUT}freak out for a second there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Don't worry, Panther. If anything comes{SAUT}after you, I'll protect you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Oh, no worries. Thanks, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "Whoa, she blew you off so effortlessly...{SAUT}That was actually kinda impressive.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "Ah, I do have one concern about that{SAUT}FOE...{PAGE}Moving forward may not be an issue{SAUT}here, but won't we have to dodge it{SAUT}eventually?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Koromaru",
+    "en": "Arf arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says, \"{f 0 1 2}Use the lay of the{SAUT}land to our advantage{f 0 1 0}.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Naoto",
+    "en": "Since Joker's handling the map, we'll{SAUT}leave the FOE-dodging strategy to him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_5",
+    "locuteur": "Naoto",
+    "en": "Are you ready to keep going?",
+    "fr": ""
+  }
+]

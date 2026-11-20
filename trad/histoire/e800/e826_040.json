@@ -1,0 +1,140 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "This path is a bit of a detour, but it'll{SAUT}definitely take us to the treasure.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Koro-chan!? What is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "He seems to be saying, \"I smell treasure.{SAUT}Follow me.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "Treasure? Hmm... It definitely doesn't{SAUT}smell like meat...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "Why are you so sure the treasure is{SAUT}meat? Where's the beauty and/or allure{SAUT}in that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Mmm, rich ruby flesh complimented by{SAUT}snow-white lines of fat... I would argue{SAUT}that meat has a beauty all its own!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Hmph, that won't please the ladies!{PAGE}You think you've got it all figured out,{SAUT}huh? Well, you're no match for this{SAUT}bear's nose...{PAGE}*sniff sniff* *sniff sniff* Hrmmm!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "Don't tell me...{OPTION}Treasure?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "This tantalizing sensation tickling my{SAUT}Teddie senses... It has to be treasure!{PAGE}And I'm not talkin' a measly one or two{SAUT}pieces. I'm talkin' a whole trove!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Hey, looks like those two are about to{SAUT}show you up. You gonna be all right?{PAGE}...Mona? Hey...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "Mrrroooow... Treasuuure...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Not you too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "Treasure is essentially his catnip.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Well, it's not the same as the Treasure in{SAUT}a Palace, but I guess he got kinda{SAUT}triggered by Teddie and Koro-chan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "This path is longer, but it looks like{SAUT}there's treasure along the way.{PAGE}Whaddya thinkin', Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "We keep going this way.{OPTION}I'll trust my instincts.{OPTION}The short path is better.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "Yeah, we can't turn back now that we{SAUT}know there's treasure.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "Then, let's go get it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Hell yeah! We wouldn't be phantom{SAUT}thieves if we passed up treasure sittin'{SAUT}right in front of us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ann",
+    "en": "Yeah! That treasure is ours!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Wha―? We're not gonna go get the{SAUT}treasure?{PAGE}Oh well, you're the boss.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ann",
+    "en": "Then, do you want to turn back?",
+    "fr": ""
+  }
+]

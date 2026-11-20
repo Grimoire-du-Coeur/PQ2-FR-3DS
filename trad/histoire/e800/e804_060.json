@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "Hwataaa!{PAGE}...You're already dead. Just kidding.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "Hell yeah, Senpai! That last move was{SAUT}badass!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Nah, it was nothing special.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "If anyone was special, it was Panther.{SAUT}Where'd you learn how to do that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Uh, I dunno. I just went with the flow{SAUT}and tried to copy Chie-chan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "No, no, you've definitely got what it{SAUT}takes for kung fu! I'm sure of it!{PAGE}You just need to put a little more heart{SAUT}into it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "L-Like this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "You gotta twist your hips more! Try to{SAUT}picture the Rising Dragon in your mind!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Y-Yes, Master!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosuke",
+    "en": "Since when did those two become{SAUT}master and student...?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "That's one passionate friendship.{OPTION}She's been converted.{OPTION}Take care of Panther.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. Picturesque as an ocean sunset.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosuke",
+    "en": "No comment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yosuke",
+    "en": "Yeah... Sorry about that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P4 Hero",
+    "en": "Leave it to us. She'll be a kung fu master{SAUT}in no time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "Dude, we're not running a dojo here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "Hey, how long do you guys plan on{SAUT}standing around?{PAGE}Our mission's complete. Save it for after{SAUT}we get back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "Oh yeah, good call.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "Whoops, sorry. Okay, let's go!",
+    "fr": ""
+  }
+]

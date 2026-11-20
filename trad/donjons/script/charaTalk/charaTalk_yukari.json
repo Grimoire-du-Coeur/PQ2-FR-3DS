@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "Oh, a Treasure Spot. Shall we?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "So we should keep an eye out while{SAUT}we search... Got it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "Got it, we'll put all of our energy into{SAUT}searching. Focus on the task at hand!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "Oh, not right now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "I think that's everything...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Pretty decent, eh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Yay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "That's the stuff.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukari",
+    "en": "Whew, that was too close for comfort.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "My, my, my!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Ooh, a rare one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Hooray for us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukari",
+    "en": "A shortcut? Is it useful to us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukari",
+    "en": "Oh, we can't go through?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yukari",
+    "en": "There's something coming... I can tell,{SAUT}there's a chill going down my spine!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukari",
+    "en": "Really? All right, then...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukari",
+    "en": "Yeah, I think that's for the best.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yukari",
+    "en": "What in the world... I've never seen{SAUT}an enemy that strong before...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yukari",
+    "en": "There's no shortage of Shadows here.{SAUT}What's the plan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yukari",
+    "en": "Okay. Let's be careful, now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yukari",
+    "en": "Oh, backing off? That's probably wise.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yukari",
+    "en": "THAT certainly was a challenge...{SAUT}Maybe we should wrap up here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yukari",
+    "en": "What a relief, we can head back to{SAUT}the theater from here. Shall we?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

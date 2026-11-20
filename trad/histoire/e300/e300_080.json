@@ -1,0 +1,254 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Boy with baseball cap",
+    "en": "Whoa, you weren't kidding about{SAUT}this being a movie theater!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Spirited girl",
+    "en": "It's still hard to believe, but... we really{SAUT}were inside a movie that whole time,{SAUT}huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Well-dressed girl",
+    "en": "Good heavens. What's all the{SAUT}commotion here?{PAGE}We really don't have the time to waste{SAUT}on something as nonsensical as this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Boy with baseball cap",
+    "en": "Come on, Senpai. There's no point in{SAUT}getting all irritated...{PAGE}What we really need to do is find our{SAUT}leader and Ai-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Well-dressed girl",
+    "en": "Yes, I know...{PAGE}So, where is this movie theater curator?{SAUT}I'd like to pay her my respects.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "Ah, of course―I'll introduce you{SAUT}to them...{PAGE}This is Nagi-san the curator, and{SAUT}Hikari-chan. They're both trapped{SAUT}here as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Nagi",
+    "en": "It's nice to meet you. My name is Nagi.{PAGE}As she just mentioned, everyone{SAUT}here is in a similar circumstance...{PAGE}I too will do what I can to assist you,{SAUT}so please feel free to call on me{SAUT}whenever the occasion arises.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Well-dressed girl",
+    "en": "Thank you. I apologize for the trouble,{SAUT}but we're extremely grateful for your{SAUT}assistance.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Quiet girl",
+    "en": "Are you Hikari-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "Yes... Nice to meet you.{PAGE}Um... Are you all {f 6 1 26 0 0 0}-san's...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "They're your companions―right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm. At least, that's what I had{SAUT}figured, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Aggressive boy",
+    "en": "But none of us know her―myself{SAUT}included.{PAGE}On the other hand, she knows all{SAUT}about us... This is bizarre.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Quiet girl",
+    "en": "I don't think she's lying...{PAGE}Her Evoker and armband seem to be{SAUT}real, and she even knows about Aigis.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Could they be cognitive beings{SAUT}of {f 6 1 27 0 0 0}-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "No, that's very unlikely. This place is{SAUT}different from Palaces or Mementos.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "Hrgh, I'm totally lost now. What does{SAUT}all of this mean―in basic terms?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "Well... This is a pickle. As Junpei would{SAUT}put it, \"This sounds like a case even an{SAUT}Ace Detective like myself can't solve!\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Boy with baseball cap",
+    "en": "Whoa! You know my trademark gag!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_020",
+    "choix": true,
+    "en": "What's that supposed to mean?{OPTION}\"Ace Detective\"?{OPTION}That's pretty lame...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Spirited girl",
+    "en": "Ah, never mind him. It'd be a big waste{SAUT}of time and energy for a whole lot of{SAUT}nothing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Boy with baseball cap",
+    "en": "Listen, it's a catchphrase that's more{SAUT}useful now than ever.{PAGE}Such a wet blanket... even an Ace{SAUT}Detective like me could never figure{SAUT}you out, Yuka-tan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Boy with baseball cap",
+    "en": "Nooo... Don't tell me you're a mood{SAUT}killer too!?{PAGE}From one cold shoulder to the next...{SAUT}even an Ace Detective like me can't{SAUT}figure you guys out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Spirited girl",
+    "en": "Ugh, such a try-hard...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Boy with baseball cap",
+    "en": "Anyway, she's definitely mastered my{SAUT}Ace Detective gag―looks like she knows{SAUT}about us after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Teddie",
+    "en": "But, has everyone else forgotten this{SAUT}charming lady?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Somber child",
+    "en": "I'm sorry... I really am trying my best{SAUT}to remember.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Dog",
+    "en": "*whine*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Boy with baseball cap",
+    "en": "Sorry... I really don't know what to say.{SAUT}You even went out of your way to save{SAUT}us, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P3 Fem Protag",
+    "en": "Oh no, it's okay! Don't worry about it!{SAUT}I mean, this whole place seems to be{SAUT}really crazy!{PAGE}I mean, think about it. We've helped{SAUT}a dinosaur with a bizarre human head,{SAUT}and there's even a talking cat here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yosuke",
+    "en": "What do you mean a bizarre head!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Morgana",
+    "en": "And I am NOT a cat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Somber child",
+    "en": "U-Um...!{PAGE}I don't think {f 6 1 27 0 0 0}-san{SAUT}is a bad person.{PAGE}I mean, I can't explain why, and this is{SAUT}supposed to be our first time meeting,{SAUT}but still...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Dog",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Somber child",
+    "en": "See! Even Koromaru agrees!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "P3 Fem Protag",
+    "en": "Haha... Thanks, Ken-kun, Koromaru.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Boy with beanie",
+    "en": "Well, don't let it get to you too much.{PAGE}Bitin' off more than you can chew'll{SAUT}only tire you out. No point in rushin'{SAUT}things. I'm sure we'll figure this all out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "P3 Fem Protag",
+    "en": "Shinjiro-senpai...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Hikari",
+    "en": "-san... I'm sure it'll be{SAUT}okay...{PAGE}U-Um, I don't know how to put it...{SAUT}That's just how I feel right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P3 Fem Protag",
+    "en": "Thanks, Hikari-chan!{PAGE}Yeah... I'm sure it'll work out. Let's just{SAUT}keep trying our best!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "P4 Hero",
+    "en": "By the way, how did you all end up{SAUT}in this world?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Quiet girl",
+    "en": "Oh yeah... Well...",
+    "fr": ""
+  }
+]

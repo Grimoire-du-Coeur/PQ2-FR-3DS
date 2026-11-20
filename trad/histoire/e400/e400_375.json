@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Hikari",
+    "en": "Ah! A-Ahhh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Whoa, are you alright!? You've gone{SAUT}so pale!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari",
+    "en": "Why... Why...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Hey, Hikari!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Aigis",
+    "en": "Hikari-san's rejection of her memory{SAUT}has grown stronger than ever before.{PAGE}I believe it would be best to let her rest{SAUT}for a time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "I-I'm sorry... I'm okay now.{PAGE}More importantly, I want to keep going.{SAUT}Please, while I still can...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan...{PAGE}...Well, alright. But don't push yourself{SAUT}too hard, okay? You have to promise.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "Okay, I won't... Thank you.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Theodore",
+    "en": "Eff, eff, FOE. Now that it's crushed,{SAUT}ex-FOE...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Elizabeth",
+    "en": "...I'm terribly sorry. It appears my{SAUT}brother is overcome with delirium.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "You're the one who told me to do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "You have successfully executed the{SAUT}executioner! Scrapped it to scrap{SAUT}metal!{PAGE}It appears you can take on any{SAUT}obstacle the enemy throws{SAUT}at you...{PAGE}Hm...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Grrrraah! Junpei Iori's not outta the{SAUT}game yet!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Kanji",
+    "en": "Ngaaahhh! I ain't gonna lose!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "Wh-Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Yikes, that was a pretty bad fall...{SAUT}Rest in peace, guys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "Hah! Careful there. Even when you're{SAUT}at your limits, you gotta stay focused.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Kanji",
+    "en": "Guh, hah... Not bad... Junpei-san.{PAGE}Thought you... dropped out...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Junpei",
+    "en": "Phew... I, uh... I'm not sure, but...{PAGE}I've got... someone... I gotta protect.{PAGE}So... I still... gotta get stronger.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Kanji",
+    "en": "Man, Junpei-san...{PAGE}Maybe I was wrong about you.{SAUT}You got some real grit after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "Huh...? Maybe that was too serious...{PAGE}Bah, nevermind! I better get back to{SAUT}the jokes. Can't just be Junpei, the{SAUT}Straight-faced Detective!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Kanji",
+    "en": "Man, don't get embarrassed by that!{SAUT}You got something you wanna{SAUT}protect, right?{PAGE}Then let's get even stronger!{SAUT}Akihiko-san can help us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Junpei",
+    "en": "Uh, well... Maybe that can wait until{SAUT}next time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akihiko",
+    "en": "I heard it all!{PAGE}Already made you a training regimen.{SAUT}I've got it covered!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Junpei",
+    "en": "I said next time! Didn't you hear{SAUT}THAT part!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Kanji",
+    "en": "Junpei-san... You got this! I'm{SAUT}cheerin' for ya!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akihiko",
+    "en": "Don't worry, Kanji. I've made you a{SAUT}training regimen too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Kanji",
+    "en": "...What?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akihiko",
+    "en": "Now, let's start with warmups!{PAGE}One thousand squats! Go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Junpei",
+    "en": "Noooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Kanji",
+    "en": "Wh-Why meeee!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yukiko",
+    "en": "They're having so much fun. I guess{SAUT}this is what they call \"teen spirit\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Hero",
+    "en": "And off they go into the sunset.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "I'm not sure being a teenager usually{SAUT}involves this much screaming...",
+    "fr": ""
+  }
+]

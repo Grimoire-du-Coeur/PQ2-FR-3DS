@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Teddie",
+    "en": "So this zappy gate will let us recreate{SAUT}that flavor?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Well, the gate's open at the moment.{SAUT}Let's come back after it's closed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "So this zappy gate will let us recreate{SAUT}that flavor?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "Yes. Let's not waste any time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "It's done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "Allow me to taste it...{PAGE}Hm? Mmm!?{PAGE}HWOOOOOOAAA!!!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "Huh? You sound like an actual bear!{SAUT}Are you okay, Teddie!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "There it is! That feeling of a lightning{SAUT}bolt bear-reling right through my skull!{SAUT}It tastes just like Theodore's popcorn!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "Alriiight! Let's get this over to{SAUT}Theodore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "Okay, let's go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Teddie",
+    "en": "Say...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "Hm? What is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Teddie",
+    "en": "Who was the culprit? Is it one of us...?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "Yes.{OPTION}No.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "No, it's not one of us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akechi",
+    "en": "And while we're on the subject, the{SAUT}navigators are clean too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Naoto",
+    "en": "Oh, so you noticed?{PAGE}That's right. None of us are guilty.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "And while we're on the subject, the{SAUT}navigators are clean too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Teddie",
+    "en": "R-Really!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Naoto",
+    "en": "Considering the culprit was after the{SAUT}popcorn, I'd say that rules us out{SAUT}because we could just ask for our own.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akechi",
+    "en": "And while it's true some of us didn't get{SAUT}any, or finished our portion, we were{SAUT}all willing to share amongst ourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Naoto",
+    "en": "Let's go over the rest of what we know.{PAGE}The culprit went out of their way to{SAUT}steal popcorn they could have easily{SAUT}asked for.{PAGE}At the time of the incident, the culprit{SAUT}was disguised as Teddie and was seen{SAUT}stumbling around.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Akechi",
+    "en": "Now then, Joker. Do you know who{SAUT}was disguising themselves as Teddie?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "Elizabeth.{OPTION}Theodore.{OPTION}Margaret.{OPTION}Marie.{OPTION}Caroline.{OPTION}Justine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akechi",
+    "en": "I see. So that's who you had in mind.{PAGE}Well, you'll know if you're right soon{SAUT}enough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Naoto",
+    "en": "Shall we head back, then?",
+    "fr": ""
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Naoto",
+    "en": "Here, this must be what Theodore{SAUT}found.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "Oho? Let's see... *sniff* *sniff*{PAGE}...Hrrrm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "What's the matter?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "How bear-y strange... It doesn't have{SAUT}any of that tantalizingly charged smell{SAUT}from before.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "What!?{PAGE}Let me see... *sniff*{PAGE}You're right... It's not there―the smell{SAUT}that shot straight through my nose and{SAUT}into my head!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "What are you, a dog?{PAGE}But this is definitely what we came here{SAUT}for, right? What else can we do...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "Oh, that's right. Theodore said he used{SAUT}a \"certain something\" to give the final{SAUT}product its charge.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "I see... Culinary techniques like dry{SAUT}roasting can be used to strengthen the{SAUT}flavor of nuts and seeds.{PAGE}Perhaps the same must be done here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukiko",
+    "en": "Should I burn it, then? That might{SAUT}bring out the smell.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "No, we don't want the smell of{SAUT}charcoal...{PAGE}It needs to be more... unique―almost{SAUT}electrifying.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "An electrifying flavor... What would{SAUT}you have to do to get something like{SAUT}that?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "Crush it.{OPTION}Freeze it.{OPTION}Actually electrify it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "True. Crushing pepper is the way to{SAUT}bring out its flavor.{PAGE}But will that give us the electrifying property{SAUT}we need?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Haru",
+    "en": "...What if we actually electrify it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "I don't think freezing it will give us the{SAUT}electrifying property that we need.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "...What if we actually electrify it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosuke",
+    "en": "Using electricity to get an electrifying{SAUT}taste? No way it's that simple...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "That's it! The first time I ate that{SAUT}popcorn, that was the effect I felt!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "Are you kidding me...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "Theodore did say he used a \"certain{SAUT}something\" to give it its charge, so it's{SAUT}possible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Kanji",
+    "en": "Time for me to step in?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Naoto",
+    "en": "No. We can't be sure of the power{SAUT}level, or should I say charge level, we{SAUT}need.{PAGE}We only have a limited supply of{SAUT}kernels. We can't just burn them all...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Futaba",
+    "en": "Theodore did mention using a \"certain{SAUT}something,\" like he was really clever{SAUT}for figuring it out...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akechi",
+    "en": "I see...{PAGE}Have you any idea of what that{SAUT}\"certain something\" might be?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "A Persona.{OPTION}A lightning bolt.{OPTION}An electric gate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yosuke",
+    "en": "We already ruled that out, didn't we?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Akechi",
+    "en": "It's likely something that produces an{SAUT}electric shock but isn't typically used{SAUT}for cooking. It must be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Naoto",
+    "en": "One of the electrified gates here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "How would he know where lightning is{SAUT}going to strike?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Akechi",
+    "en": "It's likely something that produces an{SAUT}electric shock but isn't typically used{SAUT}for cooking. It must be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Naoto",
+    "en": "One of the electrified gates here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Akechi",
+    "en": "You're right. That would certainly{SAUT}produce an electric shock.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Morgana",
+    "en": "Well, we won't know until we try. Let's{SAUT}go find one of those gates.",
+    "fr": ""
+  }
+]

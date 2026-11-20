@@ -1,0 +1,284 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "That sound... Is this gonna be another{SAUT}Overseer announcement?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Shinjiro",
+    "en": "Ugh, what's his deal now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Overseer",
+    "en": "Malfunctioning unit UIY-2249 has{SAUT}circumvented standard formatting{SAUT}procedure and is evading capture...{PAGE}Dispose of it immediately upon{SAUT}discovery. The same fate awaits any unit{SAUT}who does not share our dispose-sition!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "This guy keeps dropping the lamest{SAUT}jokes in his speeches...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Robot with a ribbon",
+    "en": "WE ARE ALL PROGRAMMED TO LAUGH{SAUT}AT THEM.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Oh, that really sucks―wait, aren't you{SAUT}supposed to be laughin' it up and{SAUT}disposin' us too, then?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Robot with a ribbon",
+    "en": "MY CIRCUITS HAVE BLOCKED HIS{SAUT}ORDERS.{PAGE}ALSO, I WAS NEVER PROVIDED WITH{SAUT}ANY COMBAT FUNCTIONS, SO I AM{SAUT}INCAPABLE OF ATTACKING ANYONE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ken",
+    "en": "By the way, he said something about{SAUT}UIY-whatever... What was that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Robot with a ribbon",
+    "en": "UIY-2249. THIS IS MY UNIT{SAUT}IDENTIFICATION NUMBER.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "So, it's the same as what was assigned{SAUT}to us―TK-something, and YS-something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "UIY-2249",
+    "en": "THE SYSTEM MANAGES EACH UNIT{SAUT}THROUGH THE COMBINATION OF{SAUT}MODEL TYPE AND ID NUMBER.{PAGE}NO TWO UNITS CAN BE ASSIGNED THE{SAUT}SAME UNIT IDENTIFICATION NUMBER.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "Numeric identification, eh? That would{SAUT}certainly help to oppress individuality{SAUT}within a society.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "So, does that mean you don't have{SAUT}a name besides the UIY-thingy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "UIY-2249",
+    "en": "I DO NOT.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "Aww... Why don't we give her a name,{SAUT}then? Calling her an ID number seems{SAUT}somewhat rude―and boring.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "Yeah, great idea! Do you have any{SAUT}suggestions, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "Robogirl.{OPTION}Aigis Jr.{OPTION}Becky.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Kanji",
+    "en": "Uh, I guess that's pretty easy to get,{SAUT}but, ehhh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Chie",
+    "en": "Let's see, what would sound cuter? We{SAUT}could use Robomi, Roboe, Roboko...{SAUT}Robomaru?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "Shouldn't we try to stay away from{SAUT}the word \"robot\"? I mean, you wouldn't{SAUT}name a person \"Human\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukiko",
+    "en": "Then, how about some princess names...{SAUT}Like Oichi, Komatsu-hime, or... Ooh,{SAUT}how about Nene?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Shinjiro",
+    "en": "Those are all so random. And why're you{SAUT}going straight to the Sengoku Period{SAUT}for princess names?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Junpei",
+    "en": "Shouldn't we come up with a stronger{SAUT}name to scare away the robots? Like{SAUT}Aigis Z, or somethin'.{PAGE}Hmm... Is that really strong enough?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ken",
+    "en": "Then how about... Grand Aigis Zeta{SAUT}Unleashed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Junpei",
+    "en": "Ah, perfect! Someone with a name like{SAUT}that would have a totally insane ultimate{SAUT}attack.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yukari",
+    "en": "No. Also, why are you choosing macho-{SAUT}sounding robot names when she's{SAUT}clearly a girl?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "Dude, what...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Mitsuru",
+    "en": "Becky? Is there some origin to that{SAUT}name?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "N-No no no! Nope! No, let's just...{SAUT}not use that name!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Ann",
+    "en": "Let's make it sound cuter, too. Oh,{SAUT}how about Pudding?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yusuke",
+    "en": "I prefer Almond Jelly over Pudding.{SAUT}It's also a white dessert, which is{SAUT}much more fitting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Yosuke",
+    "en": "I don't mean to shut down the convo{SAUT}here, but can't we just agree on a single{SAUT}regular, fitting name!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Futaba",
+    "en": "...Ribbon. How about Ribbon?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_033",
+    "choix": true,
+    "en": "I'm a fan.{OPTION}It's nice and easy to understand.{OPTION}We should be asking her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Futaba",
+    "en": "For real?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ribbon-chan, huh? Sounds pretty!{SAUT}What do you think about it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Makoto",
+    "en": "I agree. It's easy to remember, too...{PAGE}But what matters most is if she likes it{SAUT}herself. So, what do you think about{SAUT}Ribbon?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "P3 Fem Protag",
+    "en": "You're right. So, how do you feel about{SAUT}the name Ribbon, then?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "UIY-2249",
+    "en": "RIBBON... THERE ARE NO ISSUES.{SAUT}I LIKE IT.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Futaba",
+    "en": "Yes! You really like it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Mitsuru",
+    "en": "If she finds the name agreeable, then it's{SAUT}decided. From here on out, you are now{SAUT}\"Ribbon.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "UIY-2249",
+    "en": "I AM... RIBBON?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Futaba",
+    "en": "Yeah, Ribbon! That name's in a way{SAUT}higher tier than some lame code is,{SAUT}right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Ribbon",
+    "en": "YES. THANK YOU VERY MUCH.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Futaba",
+    "en": "We'll never let them dispose of you,{SAUT}alright, Ribbon? Just come with us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Akechi",
+    "en": "But for her to truly be safe in this movie,{SAUT}we probably need to do something{SAUT}about that Overseer...{PAGE}In any case, let's head to the lab next.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "P3 Fem Protag",
+    "en": "You're right. Let's pick up the pace!",
+    "fr": ""
+  }
+]

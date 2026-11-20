@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "It seems that a new special screening{SAUT}has been added.{PAGE}The task this time is to catch an ancient{SAUT}fish in Junessic Land.{PAGE}We'll be fishing in ancient times.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Fishing? I don't have a lotta experience{SAUT}with fishing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "Well, it's not like you care much about{SAUT}fish, right, Chie-senpai?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Aw, c'mon, you make it sound like all{SAUT}I ever want is meat.{PAGE}Now that I think about it, fishing's{SAUT}not exactly something I'd expect from{SAUT}a phantom thief.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "I mean, we do go to fishing ponds{SAUT}every now 'n' then, don't we,{SAUT}{f 6 1 30 0 0 0}?{PAGE}You're good at this stuff, aren't ya?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Kinda.{OPTION}Leave it to me.{OPTION}Not as good as Ms. Kawakami.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Ngh... These city boys can do anything...{PAGE}But Sensei can do so much more!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "So much confidence...{PAGE}But Sensei can do so much more!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Yeah, she gets a bite the moment it hits{SAUT}the water. She's a friggin' pro...{PAGE}So you're not that good, but you're still{SAUT}pretty confident, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Hoho... But our Sensei can do so much{SAUT}more!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "I've got some fishing experience myself.{SAUT}I'm sure I can help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "Really? What kind of fish have you{SAUT}caught, {f 6 1 12 0 0 0}-kun?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Let's see... Everything from a bus stop{SAUT}sign to the legendary Sea Guardian.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Haru",
+    "en": "A bus stop sign...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elizabeth",
+    "en": "We have two fishing rods here...{PAGE}Therefore, we'll entrust this to the two{SAUT}who wield the power of the wild card,{SAUT}given their loads of fishing experience.{PAGE}Fish, fish, fish all the fish you wish.",
+    "fr": ""
+  }
+]

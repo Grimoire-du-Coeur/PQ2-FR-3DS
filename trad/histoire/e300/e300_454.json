@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "Hmm...{PAGE}This door seems to be locked. I don’t{SAUT}think you can go through there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "But, there’s no other path to take...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says, “There was that{SAUT}air duct.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "Ugh... Do we really have to go through{SAUT}that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Makoto",
+    "en": "Once you get used to ductwork, it’s{SAUT}surprisingly not that bad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Ahaha... Getting used to something like{SAUT}that is a bit unsettling as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "If we've got our plan figured out, then{SAUT}let’s do it. Get ready for some air duct{SAUT}infiltration!",
+    "fr": ""
+  }
+]

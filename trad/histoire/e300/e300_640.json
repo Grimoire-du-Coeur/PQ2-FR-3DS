@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Yessss! Now THAT'S a happy ending!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "I feel like I'm tearing up... How was it{SAUT}for you, Hikari-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari",
+    "en": "Mm... That was nice. I think it really was{SAUT}a wonderful ending.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "Right, right? A story's gotta end happy,{SAUT}like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "If you expose who you really are,{SAUT}you might get hurt...{PAGE}So, if you hide yourself and just copy{SAUT}the others around you, you won't get{SAUT}hurt, and life will be easier.{PAGE}But, eventually your true self will{SAUT}fade away... and you'll lose sight of{SAUT}what even keeps you alive.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Fuuka",
+    "en": "I can understand that, too.{PAGE}I always lacked any confidence in{SAUT}myself and worried about how{SAUT}people saw me...{PAGE}But after meeting my current{SAUT}companions, being accepted{SAUT}by them...{PAGE}And even being needed by them,{SAUT}I eventually came to like who I am.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "I see... Do you think... I could ever{SAUT}make companions like that too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Rise",
+    "en": "Geez! Why don'tcha just tell us what{SAUT}you really think of us, then!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Fuuka",
+    "en": "I'm sure every one of us already{SAUT}considers you a companion.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "But I can't fight or help like everyone{SAUT}else... And, we only just met, so...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Rise",
+    "en": "None of that matters.{PAGE}We're all friends headed for the same{SAUT}goal together, supporting each other...{SAUT}Isn't that enough of a reason?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "Friends...{PAGE}I see, thanks...{PAGE}I want to be able to hold my head up{SAUT}high too. I need to get stronger...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Rise",
+    "en": "Oh, here he comes... Is it time for{SAUT}the key!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Doe",
+    "en": "Ngh... Nnnngh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Fuuka",
+    "en": "Wh-Whaaat!? It came out of his eyes!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Rise",
+    "en": "Oh, right―it's your first time seeing{SAUT}this, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Fuuka",
+    "en": "Someone mentioned it to me earlier,{SAUT}but that was a lot more disturbing than{SAUT}what I'd imagined...{PAGE}It's okay to pick up that key... right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Rise",
+    "en": "Mmhm, no problems with that so far.{SAUT}It should go to the third lock.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Fuuka",
+    "en": "Oh, then we should keep it safe for{SAUT}when everyone returns!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Rise",
+    "en": "Could you grab it, Fuuka-chan?{SAUT}I'm going to contact Senpai and{SAUT}the others!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Fuuka",
+    "en": "Yes, of course!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Doe",
+    "en": "Hikari...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Doe",
+    "en": "You cannot... remain part of{SAUT}the audience forever...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Hikari",
+    "en": "Ah... I...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Hikari",
+    "en": "Nnh―Ahhh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Fuuka",
+    "en": "Huh!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Rise",
+    "en": "Ah!",
+    "fr": ""
+  }
+]

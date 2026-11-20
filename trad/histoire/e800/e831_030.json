@@ -1,0 +1,158 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "It doesn't look like there are any{SAUT}nightclubs around here... I wonder if{SAUT}we can get some kind of hint.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ken",
+    "en": "Elizabeth said only VIPs can get in, so{SAUT}maybe the entrance is hidden.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "VIPs, huh...? Think we'll see any monks?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "As if, man...{PAGE}The late night brings out sexy women{SAUT}and...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Journalists.{OPTION}Non-conformists.{OPTION}Creeps.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Shinjiro",
+    "en": "Huh... That where you get your intel?{SAUT}Not bad...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Oh, like Lala Escargot? She's quite a{SAUT}character...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akihiko",
+    "en": "Escargot? Is she French?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "I can only imagine...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Yeah, man. There's all kinds of weirdos{SAUT}runnin' around at night.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Kanji",
+    "en": "I guess the city's just as crazy as{SAUT}people say...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P4 Hero",
+    "en": "It can be... You just have to be careful...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ken",
+    "en": "You must know a lot of people too,{SAUT}Joker.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "As the leader of the Phantom Thieves,{SAUT}it's his job to make connections.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Thanks to this guy, we're able to{SAUT}strategize and get better weapons.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ken",
+    "en": "Even if you have a duty to fulfill, walking{SAUT}the city at night...?{PAGE}You must have a lot of guts to do{SAUT}something like that.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "It's scary at first.{OPTION}It's exciting.{OPTION}Things tend to work out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "I'm still iffy about that airsoft shop guy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "Yeah, some people can be pretty{SAUT}intimidating.{PAGE}But you guys are good now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Hero",
+    "en": "They might seem scary in the beginning,{SAUT}but you learn pretty quickly that there's{SAUT}more to people than meets the eye.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Hero",
+    "en": "Yeah, it can be pretty exciting to learn{SAUT}about a world so different from your{SAUT}own.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Hero",
+    "en": "Yeah, sometimes. You just have to be{SAUT}willing to take a chance.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Shinjiro",
+    "en": "Man, you guys ain't scared of nothin'.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Koromaru",
+    "en": "Woof, woof!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ken",
+    "en": "Something up ahead, Koromaru?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Junpei",
+    "en": "Oh? Did he get a whiff of the nightclub?{SAUT}Let's check it out!",
+    "fr": ""
+  }
+]

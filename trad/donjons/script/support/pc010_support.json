@@ -1,0 +1,377 @@
+[
+  {
+    "id": "AMADA_FOE_FOLLOW_START_1",
+    "en": "Whoa! That FOE is still following us!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_FOE_FOLLOW_START_2",
+    "en": "FOE coming this way! Should we run!?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_FOE_FOLLOW_START_3",
+    "en": "It's still chasing us!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_FOE_NEAR_1",
+    "en": "There's an FOE close by...",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_FOE_NEAR_2",
+    "en": "Is that an FOE?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_FOE_NEAR_3",
+    "en": "There! An FOE!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_FOE_FOLLOW_END_1",
+    "en": "Wait, is the FOE just letting us go...?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_FOE_FOLLOW_END_2",
+    "en": "Looks like we got away.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_FOE_FOLLOW_END_3",
+    "en": "Lucky us! The FOE gave up.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_KANSI_REACTION_1",
+    "en": "We need to make sure it doesn't see{SAUT}us.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_KANSI_REACTION_2",
+    "en": "We need to be careful!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_KANSI_REACTION_3",
+    "en": "Are we going to be okay...?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_DENKISAKU_REACTION",
+    "en": "An electric gate, and no way through{SAUT}it.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_DENKISAKU_REACTION#2",
+    "en": "We have to look for another path,{SAUT}maybe.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_DENKISAKU_REACTION#3",
+    "en": "We have to stop the electricity first.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_KYOUHU_REACTION_1",
+    "en": "Aahh!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_KYOUHU_REACTION_2",
+    "en": "The wind is... Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_KYOUHU_REACTION_3",
+    "en": "Wha!?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_STAIR_FIND_1",
+    "en": "There are some stairs! Up or down?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_STAIR_FIND_2",
+    "en": "Okay, with this we can move on.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_STAIR_FIND_3",
+    "en": "We can go on now, but... what do you{SAUT}think?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_TREASURE_FIND_1",
+    "en": "A real treasure chest. It could be{SAUT}anything inside...",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_TREASURE_FIND_2",
+    "en": "Come on, let's open the treasure{SAUT}chest!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_TREASURE_FIND_3",
+    "en": "Treasure!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_CHECK_WALL_1",
+    "en": "I saw something over there, did you?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_CHECK_WALL_2",
+    "en": "I saw something! Let's go look!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_CHECK_WALL_3",
+    "en": "What's that over there...? Is it time to{SAUT}investigate?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_SWITCH_FIND_1",
+    "en": "I saw a switch!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_SWITCH_FIND_2",
+    "en": "It's a switch... Should we press it?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_SWITCH_FIND_3",
+    "en": "Look, a switch!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_SHORTCUT_FIND_1",
+    "en": "Look! Maybe we can go through it{SAUT}now!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_SHORTCUT_FIND_2",
+    "en": "Doesn't that look like a shortcut{SAUT}maybe?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_SHORTCUT_FIND_3",
+    "en": "I think I found a shortcut!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_FOE_WARNING_NEAR_1",
+    "en": "Ah! The FOE is still here!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_FOE_WARNING_NEAR_2",
+    "en": "The FOE's coming for us!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_FOE_WARNING_NEAR_3",
+    "en": "The FOE's still here!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_1PERSON_HPTP10_1",
+    "en": "*pant pant* I'm sorry, but can we{SAUT}stop?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_1PERSON_HPTP10_2",
+    "en": "*gasp* *pant* I'll be okay. I'm no{SAUT}wimp.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_1PERSON_HPTP10_3",
+    "en": "Th-This is nothing. I could keep going{SAUT}all day.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_1PERSON_HP10_1",
+    "en": "I don't like admitting it, but I can't go{SAUT}on...",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_1PERSON_HP10_2",
+    "en": "Okay, I'm a bit nervous... Could{SAUT}someone heal me?",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_1PERSON_HP10_3",
+    "en": "Well... I've finally hit my limit.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_1PERSON_TP10_1",
+    "en": "Ugh... I can't believe this is my limit.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_1PERSON_TP10_2",
+    "en": "Sorry, but I'm out of energy...",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_1PERSON_TP10_3",
+    "en": "I'm low on energy... *sigh* I hope my{SAUT}stamina is better when I'm older.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_1PERSON_HP80_1",
+    "en": "That was awesome!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_1PERSON_HP80_2",
+    "en": "Let's keep going just like that!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_1PERSON_HP80_3",
+    "en": "I'm gonna do those moves again!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_DUNGEON_START_1",
+    "en": "I can be helpful, too. Just you watch!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_DUNGEON_START_2",
+    "en": "Let's not mess up by pushing{SAUT}ourselves too hard.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_DUNGEON_START_3",
+    "en": "I won't let any of you down!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_QUEST_START_1",
+    "en": "Now this is getting exciting.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_QUEST_START_2",
+    "en": "If we work together, I know we'll be{SAUT}okay!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_QUEST_START_3",
+    "en": "Let's do our best!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_TOUHA_25_1",
+    "en": "There's probably more to come.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_TOUHA_25_2",
+    "en": "This floor is huge.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_TOUHA_50_1",
+    "en": "Finally! We're half way done!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_TOUHA_50_2",
+    "en": "We're not done yet!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_TOUHA_75_1",
+    "en": "Just a little bit more.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_TOUHA_75_2",
+    "en": "It's fun to fill in the blanks.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_TOUHA_100_1",
+    "en": "Thank you for being on map duty!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_TOUHA_100_2",
+    "en": "Whoa... We did it!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_MAPPING_ICON_ALL_1",
+    "en": "Oh right, that's where it was.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_MAPPING_ICON_ALL_2",
+    "en": "Nothing gets past you!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_MAPPING_ICON_KAIDA",
+    "en": "Now we won't get lost!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_MAPPING_ICON_KAIDA#2",
+    "en": "That matches what I remember.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_MAPPING_CHANGE_COL",
+    "en": "Oh! I like that color.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_MAPPING_CHANGE_COL#2",
+    "en": "You're good at that.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_MAPPING_ICON_DEL_1",
+    "en": "That really declutters the map.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_MAPPING_ICON_DEL_2",
+    "en": "I'm learning a lot from your top-notch{SAUT}mapping!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_MAPPING_MEMO_1",
+    "en": "Yeah, jotting it down is a good idea.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_MAPPING_MEMO_2",
+    "en": "So many details.",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_DOOR_OPEN_1",
+    "en": "Now, let's go!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_DOOR_OPEN_2",
+    "en": "This way!",
+    "fr": ""
+  },
+  {
+    "id": "AMADA_DOOR_OPEN_3",
+    "en": "See you in the next room!",
+    "fr": ""
+  }
+]

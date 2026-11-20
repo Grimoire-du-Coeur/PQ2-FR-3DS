@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Alright guys, you're safe! The reading{SAUT}of that FOE is gone now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "*gasp* *pant* What the hell happened{SAUT}back there!? That totally freaked me out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "That was rather odd...{PAGE}{f 0 1 2}The large robot pursued us{f 0 1 0}, but{SAUT}the {f 0 1 2}small one didn't even budge{f 0 1 0}...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "...The {f 0 1 2}small one may be performing{SAUT}surveillance{f 0 1 0}. Maybe it sends out orders{SAUT}when it sights an enemy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Wait a sec―you're saying those FOEs{SAUT}are partnered up!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Mitsuru",
+    "en": "Well, it does seem to make sense.{PAGE}{f 0 1 2}If we're discovered by the small FOE,{SAUT}the large FOE will pursue us{f 0 1 0}.{PAGE}This is rather troublesome...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "But, think of it the other way―we should{SAUT}be fine as long as we prevent being{SAUT}spotted.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "Yeah! Although, wouldn't it be even{SAUT}easier if we just {f 0 1 2}beat up{f 0 1 0} the small one?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Rise",
+    "en": "You have a point―I'm not getting{SAUT}a very strong reading from the small{SAUT}one, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mitsuru",
+    "en": "Let's leave that decision to Joker.{PAGE}However, I will say that it'd be wise to{SAUT}avoid any unnecessary fighting―even{SAUT}more so if we're up against FOEs.",
+    "fr": ""
+  }
+]

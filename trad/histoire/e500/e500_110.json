@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Enlil",
+    "en": "Why have you remained here? Why do{SAUT}you fight?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Enlil",
+    "en": "Ah... Do you still have business with me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Shinjiro",
+    "en": "Yeah, there's somethin' we gotta take{SAUT}care of before we head out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "Sorry to trouble you, but we're going to{SAUT}need you to release everyone in the{SAUT}theaters.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "You told us we could leave, but there's{SAUT}no way we can just abandon the other{SAUT}people here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Enlil",
+    "en": "Hikari-san, your presence can't mean{SAUT}you actually agree with them, could it?{PAGE}Aren't you just forcing yourself to do{SAUT}this despite how you truly feel because{SAUT}you're following the others?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "That's not true. I'm here of my own{SAUT}will.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Enlil",
+    "en": "*sigh* All this, after I kindly permitted{SAUT}everyone to leave?{PAGE}Then you can no longer be helped.{SAUT}Allow me to show you a glimpse of{SAUT}the real world...",
+    "fr": ""
+  }
+]

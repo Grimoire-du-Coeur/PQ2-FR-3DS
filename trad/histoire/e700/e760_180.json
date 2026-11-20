@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "It's a dead end... Just a bunch of movie{SAUT}posters.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "Oh, this movie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "You recognize it, Hikari? Is that a{SAUT}famous one?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "Not really―I was just reminded of this{SAUT}one movie I love...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Oh yeah? What makes it so good?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "It's hard to explain, but you can tell it's{SAUT}full of the director's care.{PAGE}The music and art direction are{SAUT}wonderful, too. The movie is really{SAUT}heartwarming.{PAGE}There aren't any famous stars or{SAUT}expensive effects in it...{PAGE}But that movie showed me how you{SAUT}don't need to rely on those things{SAUT}to touch the audiences' hearts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "Wow, it must be really good! I kinda{SAUT}wanna see it too, now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "Movies are supposed to be nice―like{SAUT}how Hikari-chan described that one...{PAGE}But the only ones playing here are{SAUT}all negative... It's a real bummer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "I want to hurry up and make all the{SAUT}theatergoers remember that movies{SAUT}aren't supposed to be like those ones.{PAGE}We have to stop Enlil before it's{SAUT}too late.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Mmhm. I know firsthand that watching{SAUT}movies is easier than dealing with{SAUT}reality...{PAGE}But every person should still make{SAUT}an effort towards leaving here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Including us. Let's keep going!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "We really got through! ...Wait, is this{SAUT}right by where we entered?{PAGE}I can't believe it took us this far―looks{SAUT}like it's gonna be super useful!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Yeah, I bet if we go through an area{SAUT}and drop a ladder, we won't have to{SAUT}go through the same path twice...{PAGE}It's like a... What's it called... Y'know,{SAUT}a short, uh... Not \"shortcat\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Um, could you mean \"shortcut\"?{PAGE}That is accurate, though―using this will{SAUT}make our exploration much easier.{PAGE}If we find ourselves in a similar situation{SAUT}again, let's try proactively searching{SAUT}the area.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Also, it'd be best to mark this on the{SAUT}map for next time.",
+    "fr": ""
+  }
+]

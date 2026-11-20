@@ -1,0 +1,14 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "Hey {f 6 1 30 0 0 0}. Got a sec?{PAGE}I've done my warm-ups already, so I'm{SAUT}feeling pretty pumped.{PAGE}I'm ready to beat the crap outta{SAUT}anything! ...Y'know what I mean?{PAGE}I think I could really shine if you put{SAUT}me at the front!{PAGE}Sorry if I seem overeager. I'm just... in{SAUT}really great condition today!{PAGE}I'll leave it at that, {f 6 1 30 0 0 0}.{SAUT}Thanks in advance!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Chie's pulling out all the stops. I bet{SAUT}she'll kill it in combat today. Literally!{PAGE}Winning a battle is sometimes all about{SAUT}the formation. Remember that!",
+    "fr": ""
+  }
+]

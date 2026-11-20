@@ -1,0 +1,174 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Whew... Looks like we're managing{SAUT}to make some progress.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Don't go lookin' down on the Phantom{SAUT}Thieves! I don't wear out THAT easily!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Please, dial back the testosterone...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Just looking at him's starting to tire me{SAUT}out...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Are you all right, Panther? Sheesh, why'd{SAUT}you have to go and upset her like that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Wha―!? That's such bullshit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "Shh! Someone's coming.{PAGE}Let's hide until they pass by.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "I can hear the voices of nearby{SAUT}citizens...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Brazen man's voice",
+    "en": "Did you hear? Seems like yet another{SAUT}criminal's slipped into the city, besides{SAUT}those thieves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Weary woman's voice",
+    "en": "That's so scary... What kind of criminal?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Brazen man's voice",
+    "en": "I don't know the details...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Weary woman's voice",
+    "en": "Well, if they're defying Kamoshidaman,{SAUT}they've gotta be criminals... right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Brazen man's voice",
+    "en": "That's what Kamoshidaman's saying,{SAUT}so I guess they have to be.{PAGE}I mean, even if I said I didn't think so,{SAUT}that'd just be painting a target on{SAUT}my own back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Weary woman's voice",
+    "en": "True―I'm pretty sure everyone else{SAUT}feels the same, anyway...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "en": "The chatting voices grow fainter{SAUT}and trail off...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akechi",
+    "en": "They're gone...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Dude, what the hell!? You can get{SAUT}called a criminal just cuz Kamoshidaman{SAUT}said so!?{PAGE}They were all behind this punishment{SAUT}thing, but they're not even thinkin' for{SAUT}themselves!  ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "\"What Kamoshidaman is saying...\"{SAUT}\"Everyone else feels the same...\"{PAGE}It seems as if they're just going along{SAUT}with whatever those around them{SAUT}are doing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "More importantly, it's clearer that{SAUT}Kamoshidaman's not like the real{SAUT}Kamoshida.{PAGE}It didn't seem like those two people{SAUT}were exactly superfans of his, either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "Yeah, it seems to me like they're just{SAUT}supporting him because he's in{SAUT}a position of power...{PAGE}Some kind of hero HE is! Might as well{SAUT}be that emperor who paraded around{SAUT}in his \"new\" clothes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akechi",
+    "en": "They mentioned something else that{SAUT}I found curious...{PAGE}Do you remember how they said{SAUT}someone else slipped into the city{SAUT}besides ourselves?  {PAGE}Who could that be?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "They didn't seem to be talking about{SAUT}Queen or Noir...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Well, whoever they are, we just gotta{SAUT}keep moving for now. Right, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "Let's get going.{OPTION}I'm curious about who it is too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "Yeah, I'm really worried about those{SAUT}two. Let's hurry up and find them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Morgana",
+    "en": "I can understand how you feel, but we{SAUT}need to prioritize rescuing Queen and{SAUT}Noir first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "Hell yeah! Let's blast our way through!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ann",
+    "en": "Hey, don't go rushing ahead by{SAUT}yourself!{PAGE}...Then again, I guess all his energy{SAUT}is doing the heavy lifting for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yusuke",
+    "en": "Ha―we oughtn't fall behind him, then.{SAUT}Let's move out.",
+    "fr": ""
+  }
+]

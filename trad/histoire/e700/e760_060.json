@@ -1,0 +1,196 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "There's some red fruit growing here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Oh? You noticed it too, Joker? They look{SAUT}edible enough... What do you think?{PAGE}I'd say it's worth trying... I think I'll take{SAUT}a bite.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Whoa, Fox, what are you doing? That{SAUT}looks like it'll give you a stomach ache!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "There's no need to worry! I've already{SAUT}tasted it!{PAGE}It's crispy and bursting with juices...{SAUT}Even a gourmet like myself thinks it's{SAUT}delicious!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Teddie",
+    "en": "Sooo, I'm gonna go for seconds.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Hrm!? Wait, leave some for me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Oh, sheesh! Say something, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Enjoy.{OPTION}Hey, stop!{OPTION}Let's eat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "You're gonna let them eat it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_1",
+    "locuteur": "Makoto",
+    "en": "Some poisons are slow-acting. Teddie's{SAUT}taste test doesn't guarantee that it's safe{SAUT}to―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "You heard him. We're asking for trouble{SAUT}at this point, so we shouldn't―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "*sigh* You too, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_1",
+    "locuteur": "Makoto",
+    "en": "It's dangerous to just carelessly{SAUT}consume something we know nothing{SAUT}about.{PAGE}Some poisons are slow-acting. As our{SAUT}leader, you should try having a better{SAUT}sense of danger, and―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "Mm... That was delicious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Makoto",
+    "en": "No way! You're finished already?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Underneath the refreshing acidity lies a{SAUT}thick, honey-like sweetness... I give it{SAUT}three stars!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "See, I told you! C'mon, everyone, eat up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013_1",
+    "locuteur": "Teddie",
+    "en": "...Wait, hragh!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013_2",
+    "locuteur": "Teddie",
+    "en": "Owww, oww! My tummy huuurts!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "Hgh... It... My stomach's...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "We tried to stop you! You've got to go{SAUT}throw up right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Teddie",
+    "en": "Hraaaarghhh... I... I think I see a field{SAUT}of beautiful flowers...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "Me too... I'm seeing a mountain of{SAUT}expensive sushi... Might this be heaven?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P4 Hero",
+    "en": "Hang in there, you two! We'll head back{SAUT}and have Margaret make an antidote...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Teddie",
+    "en": "...Hrm? Now I feel strangely awake.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yusuke",
+    "en": "...Hm? Yes, I feel the same.{PAGE}It's as if I'm being reborn on the inside...{SAUT}What is this sensation?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_DAMAGE_KUMA",
+    "en": "Teddie lost some HP!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_DAMAGE_YUSUKE",
+    "en": "Yusuke lost some HP!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_CURE_SP",
+    "en": "Yusuke and Teddie recovered some SP!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akechi",
+    "en": "I see. That fruit seems to have some sort{SAUT}of awakening effect.{PAGE}Still, it's too dangerous to eat. There's{SAUT}clearly some side effects as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yusuke",
+    "en": "True. However, it's better than being{SAUT}hungry. That stomach pain was too{SAUT}much to bear...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022_1",
+    "locuteur": "Yusuke",
+    "en": "Furthermore, that refreshing feeling is{SAUT}somewhat addictive. Perhaps I'll have{SAUT}another...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Makoto",
+    "en": "Stop that!{PAGE}*sigh* It's dangerous to stick around{SAUT}here any longer. Let's go, Joker.",
+    "fr": ""
+  }
+]

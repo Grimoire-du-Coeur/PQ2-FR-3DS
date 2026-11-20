@@ -1,0 +1,122 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "All right! We beat him!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "He was awfully quick to reveal himself.{SAUT}I thought he'd try to play dumb.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "Normally, that's what they would do.{SAUT}However, this is a special screening.{PAGE}It's essentially a movie, so I imagined{SAUT}the Shadow would follow some sort of{SAUT}rule for how the ending plays out.{PAGE}I surmised that if we found the right{SAUT}one, it would be forced to reveal its{SAUT}true self. I figured it was worth a shot.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Brilliant.{OPTION}That was amazing, Detective.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Please, this wasn't just me. We solved{SAUT}this together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "Yeah, Oracle was amazing too! She{SAUT}remembered all of those testimonies!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Heheh. I do have a pretty good memory.{PAGE}A great detective needs a great{SAUT}assistant! Just call me Watson.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "Oh? Oracle, do you read detective{SAUT}novels?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "I've read the classics all the way up to{SAUT}some of the newer and more popular{SAUT}ones at least once.{PAGE}Amazing how many stories you can tell{SAUT}about old houses and deserted islands!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Naoto",
+    "en": "*chuckle* I'd like to investigate a crime{SAUT}scene at a place like that one day.{PAGE}Though it's rare one encounters a crime{SAUT}scene like the ones found in novels.{PAGE}How often do you hear of a detective{SAUT}just happening upon a crime scene?{SAUT}It doesn't really work that way.{PAGE}You also don't see people wander{SAUT}off on their own knowing full-well{SAUT}there's a murderer on the loose.{PAGE}Unlike in the world of fiction,{SAUT}a detective's job is pretty{SAUT}straightforward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Totally! Those people that run off on{SAUT}their own...!{PAGE}You'd have to be a real fool to do{SAUT}something like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "Haha. That's just what people expect{SAUT}from detective novels, I suppose.{PAGE}Without things like that, crimes{SAUT}wouldn't happen, and detectives{SAUT}wouldn't have anything to work with.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Yeah. Those stories wouldn't be much{SAUT}fun if it was just, \"The police came in the{SAUT}morning.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "Exactly. The detective would be out of{SAUT}the job.{PAGE}Speaking of what's expected, I noticed{SAUT}something interesting...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "Heeey, I don't mean to spoil the fun,{SAUT}but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kanji",
+    "en": "The hell are you guys talkin' about...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Naoto",
+    "en": "M-My apologies. I suppose I got caught{SAUT}up in the conversation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "Hey, that was a fun chat. Let's talk more{SAUT}sometime soon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "Certainly, if you'd like.{PAGE}Now then, let's head back. We should{SAUT}share our results with Elizabeth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "...Hmm. That was quite a show,{SAUT}Detective Prince. Very entertaining.",
+    "fr": ""
+  }
+]

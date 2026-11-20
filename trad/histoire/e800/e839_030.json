@@ -1,0 +1,320 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Cheerful Flower",
+    "en": "Ohhh... The glorious sun wheels across{SAUT}the sky...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Relaxed Flower",
+    "en": "While the birds a-twitter welcome it{SAUT}nigh.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Cheerful Flower",
+    "en": "And I behold it with mine worshipful{SAUT}eye...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "What!? The voices came from these{SAUT}things!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "They must be the flowers we were{SAUT}looking for. They might know{SAUT}something, Elizabeth said.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "But is it even possible for us to{SAUT}communicate with them?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "They seem to have good vocabulary!{OPTION}Won't know until we try.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Yeah. They don't look dangerous, so{SAUT}might as well give it a go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "All right, show us how it's done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Okay. Um... hey, uh, buddy. Bud! Hey,{SAUT}bud, you got a sec? We're lookin' for{SAUT}something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Relaxed Flower",
+    "en": "You're a strange-looking flower.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Cheerful Flower",
+    "en": "But look how his pollen shines in the{SAUT}sun!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "That's not pollen, it's my hair, ya weirdo.{SAUT}Anyways, we're looking for this thing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Relaxed Flower",
+    "en": "Sing with us, fair blossom!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "I am NOT a \"fair blossom\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Cheerful Flower",
+    "en": "Praise the golden sun in the heavenly{SAUT}firmament!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "There is no sun or heavenly firmament{SAUT}here! WILL YOU LISTEN!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "Sorry guys... But they're delusional...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yukiko",
+    "en": "D-Don't worry about it... hehe... At{SAUT}least you've still got your pollen-y hair.{PAGE}When you go bald you can just blame{SAUT}the bees for carrying your hair away.{PAGE}Hahaha! Oh, that's funny... *snort*{SAUT}BWHAHAHAHAHAHAHAHA!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Shut up, it's not THAT funny!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Oh, don't even try. Once Yukiko's been{SAUT}set off, there's no stopping her giggles.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Junpei",
+    "en": "Hey, why don't you let me handle this?{PAGE}With my powers of persuasion, I'll{SAUT}sweet-talk them into spilling the beans!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Junpei",
+    "en": "Why hello there, lovelies!{PAGE}May I just say that you smell just{SAUT}gorgeous today! Such an odor!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Relaxed Flower",
+    "en": "Well, I never! What an incredibly{SAUT}inappropriate thing to say! ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Cheerful Flower",
+    "en": "Didn't your mother teach you any{SAUT}manners when you were a seed?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Junpei",
+    "en": "Huh? Wait, wha?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Relaxed Flower",
+    "en": "Back to singing! Ahem... When the rays{SAUT}shine down on me I rejoice...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Junpei",
+    "en": "Hey, come on! I just wanna ask about{SAUT}this thing we're looking for...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Cheerful Flower",
+    "en": "For time eternal, we all bask in this{SAUT}sun by choice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Junpei",
+    "en": "Um... They're bein' really cagey...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Akihiko",
+    "en": "What happened to your incredible{SAUT}powers of persuasion?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Junpei",
+    "en": "Dude, they can't be reasoned with!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yosuke",
+    "en": "Time to switch out! I'll go next!{PAGE}After all, I really honed my people skills{SAUT}at Junes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Teddie",
+    "en": "Woooo! You go, Yosuke!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yosuke",
+    "en": "Watch and learn!{PAGE}WELLLLLLLCOME!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Yosuke",
+    "en": "Hm, that always worked at Junes...{PAGE}I don't get it; they just kept singing{SAUT}those words. Which seem to be a{SAUT}metaphor for something...? ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Chie",
+    "en": "Maybe something in Hikari-chan's mind...{SAUT}But what're we supposed to do now?{PAGE}We're not getting anywhere at this rate.{SAUT}Anybody have any other bright ideas?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Yosuke",
+    "en": "We don't have any other leads...{PAGE}We don't know anything else about the{SAUT}\"black thing\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Relaxed Flower",
+    "en": "Oh, you want to know about the black{SAUT}thing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Cheerful Flower",
+    "en": "Well, well. Why didn't you just say so?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Yosuke",
+    "en": "Oh, now they respond!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Ryuji",
+    "en": "Shut up, Yosuke! Hey, buds, what{SAUT}exactly is the \"black thing\"? Where can{SAUT}we find it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Relaxed Flower",
+    "en": "Hehehehehe. The \"black thing\" was{SAUT}taken away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Cheerful Flower",
+    "en": "And taken down below.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Relaxed Flower",
+    "en": "They wanted it all to themselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Chie",
+    "en": "Um... I don't really get what they're{SAUT}saying, but basically there might be{SAUT}something down below?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Ryuji",
+    "en": "Hikari, does this ring any bells for you?{PAGE}Or do you, like, sense anything{SAUT}underground?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Hikari",
+    "en": "Um... It's only a vague feeling, but I do{SAUT}sense something around here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Hikari",
+    "en": "I can't explain it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Akechi",
+    "en": "You don't have to. This whole movie is{SAUT}based on your mind, Hikari-san.{PAGE}We should investigate whatever feeling{SAUT}you get, no matter how vague.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Yosuke",
+    "en": "Sit tight, Hikari-chan. We'll find{SAUT}whatever it is you're looking for.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Hikari",
+    "en": "Thank you so much... It's such a relief to{SAUT}have everyone's help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Junpei",
+    "en": "So we gotta be sure to mention \"black{SAUT}thing\" wherever we go!{PAGE}After all, other flowers might know{SAUT}more about it. Let's try searching on{SAUT}the floor below this one!",
+    "fr": ""
+  }
+]

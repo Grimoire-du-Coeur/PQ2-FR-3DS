@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh? It's a dead end. Well, we might as{SAUT}well take a break.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "Ooh, I agree! This place has me{SAUT}sweating like a pig.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Wouldn't it feel a little cooler if you took{SAUT}off those headphones?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "I don't wanna.{PAGE}It's, like, my thing, you know...? Part of{SAUT}my identity.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "Well, your identity is giving you heat{SAUT}rash.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "Shuddup! Leave me alone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "I've been meaning to ask about them,{SAUT}Yosuke-kun, but I noticed you wear{SAUT}headphones too.{PAGE}That's just like Futaba-chan and me.{SAUT}Maybe we share some common{SAUT}interests!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Ooh, now that you mention it, you're{SAUT}right! We've got another audiophile{SAUT}here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "Uh, well... It's not like I know much{SAUT}about music or machines or anything.{PAGE}I just like their design...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Kanji",
+    "en": "But, Senpai, don't you play the guitar?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Whoa, really!? That's so cool!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P4 Hero",
+    "en": "Yosuke has lots of different hobbies.{SAUT}He's even started riding a motorcycle{SAUT}lately.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Wha―!? He's beginning to sound like{SAUT}someone who actually has a life...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yosuke",
+    "en": "C'mon, it's not that big of a deal!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Teddie",
+    "en": "Yosuke works hard too!{PAGE}He always buys me ice cream and soda{SAUT}with the money he makes working{SAUT}part-time at Junes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "That's not a hobby... But, yeah, I don't{SAUT}mind working.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ooh, what else is there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "Let's see... I guess crashing his bike and{SAUT}getting his head stuck in a garbage can?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "That was an accident!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "He's crossdressed in front of the whole{SAUT}school too. Really drew a crowd.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yosuke",
+    "en": "It's not like I planned on doing that!{SAUT}Also, we're not even talking about{SAUT}my hobbies anymore!{PAGE}There's a ton of other stuff about me{SAUT}that's cool. Right, partner!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P4 Hero",
+    "en": "Right. Yosuke's actually really good at{SAUT}playing the straight man.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yosuke",
+    "en": "Yeah, well, it's not hard when you've{SAUT}got a team like ours―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022_1",
+    "locuteur": "Yosuke",
+    "en": "Aw, partner, not you too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "I see, I see. You sure know how to have{SAUT}fun, Yosuke-kun!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yosuke",
+    "en": "Look, I'm tellin' you, I...!{PAGE}*sigh* Never mind. Getting worked up's{SAUT}got me all sweaty again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Naoto",
+    "en": "Umm... Well then, perhaps we should{SAUT}get going.",
+    "fr": ""
+  }
+]

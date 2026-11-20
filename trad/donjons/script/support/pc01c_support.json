@@ -1,0 +1,377 @@
+[
+  {
+    "id": "AKECHI_FOE_FOLLOW_START_",
+    "en": "It's coming, don't panic.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_FOE_FOLLOW_START_#2",
+    "en": "An FOE... Keep calm.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_FOE_FOLLOW_START_#3",
+    "en": "The FOE is approaching!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_FOE_NEAR_1",
+    "en": "It'll be okay. Let's not lose our cool.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_FOE_NEAR_2",
+    "en": "It's right in front.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_FOE_NEAR_3",
+    "en": "Curses, it's right there...!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_FOE_FOLLOW_END_1",
+    "en": "What a relief to escape.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_FOE_FOLLOW_END_2",
+    "en": "Looks like we outran it.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_FOE_FOLLOW_END_3",
+    "en": "Seems like it's not following us.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_KANSI_REACTION_1",
+    "en": "It's okay. I'm sure you'll be fine.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_KANSI_REACTION_2",
+    "en": "It's actually just a simple gimmick.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_KANSI_REACTION_3",
+    "en": "Let's all stay calm.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_DENKISAKU_REACTIO",
+    "en": "We must find a way to stop it.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_DENKISAKU_REACTIO#2",
+    "en": "Darn... An electric gate... ",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_DENKISAKU_REACTIO#3",
+    "en": "Perhaps there is a way around it.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_KYOUHU_REACTION_1",
+    "en": "Ngh...!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_KYOUHU_REACTION_2",
+    "en": "Whoa...!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_KYOUHU_REACTION_3",
+    "en": "Such a gust...!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_STAIR_FIND_1",
+    "en": "Looks like we can proceed.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_STAIR_FIND_2",
+    "en": "Lovely, onwards to the next area.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_STAIR_FIND_3",
+    "en": "What's the plan? To keep going?",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_TREASURE_FIND_1",
+    "en": "A treasure box. I'll be generous and let{SAUT}you have it.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_TREASURE_FIND_2",
+    "en": "A treasure box, eh? Why don't you try{SAUT}opening it?",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_TREASURE_FIND_3",
+    "en": "Behold! A treasure box!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_CHECK_WALL_1",
+    "en": "Hm? Is that...?",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_CHECK_WALL_2",
+    "en": "These walls don't fool MY eyes.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_CHECK_WALL_3",
+    "en": "Why don't we check that out?",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_SWITCH_FIND_1",
+    "en": "A switch... Ah, I get it.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_SWITCH_FIND_2",
+    "en": "There's a switch here.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_SWITCH_FIND_3",
+    "en": "A switch... What do you propose we{SAUT}do?",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_SHORTCUT_FIND_1",
+    "en": "Looks like we can go through.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_SHORTCUT_FIND_2",
+    "en": "Good to know we have a shortcut{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_SHORTCUT_FIND_3",
+    "en": "We might be able to go through.{SAUT}What do you suggest?",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_FOE_WARNING_NEAR_",
+    "en": "It's quite persistent.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_FOE_WARNING_NEAR_#2",
+    "en": "It sure isn't letting us take a break.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_FOE_WARNING_NEAR_#3",
+    "en": "The FOE is still pursuing us.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_1PERSON_HPTP10_1",
+    "en": "I've taken too much damage. I need{SAUT}some backup.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_1PERSON_HPTP10_2",
+    "en": "I'm in bad shape. A little help, please?",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_1PERSON_HPTP10_3",
+    "en": "Going further might be reckless...",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_1PERSON_HP10_1",
+    "en": "You think we can heal up some time in{SAUT}the near future?",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_1PERSON_HP10_2",
+    "en": "I'm more damaged than I thought...",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_1PERSON_HP10_3",
+    "en": "Th-This is nothing, I swear.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_1PERSON_TP10_1",
+    "en": "I'm beat... I think... I might faint.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_1PERSON_TP10_2",
+    "en": "Perhaps we could use a rest...",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_1PERSON_TP10_3",
+    "en": "Looks like it'll be a battle of stamina...",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_1PERSON_HP80_1",
+    "en": "Everyone's doing just fine.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_1PERSON_HP80_2",
+    "en": "We're pulling off some real feats!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_1PERSON_HP80_3",
+    "en": "You can always rely on me.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_DUNGEON_START_1",
+    "en": "Now, let's begin!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_DUNGEON_START_2",
+    "en": "I have complete faith that we can do{SAUT}it.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_DUNGEON_START_3",
+    "en": "Everyone stay alert.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_QUEST_START_1",
+    "en": "Let's start the mission.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_QUEST_START_2",
+    "en": "Let's see what this place is all about.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_QUEST_START_3",
+    "en": "Now, let our noble exploration begin.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_TOUHA_25_1",
+    "en": "Slowly, but surely...",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_TOUHA_25_2",
+    "en": "The map of Rome wasn't drawn in a{SAUT}day.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_TOUHA_50_1",
+    "en": "Halfway there!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_TOUHA_50_2",
+    "en": "It's turning out pretty good.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_TOUHA_75_1",
+    "en": "We should proceed slowly and{SAUT}carefully.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_TOUHA_75_2",
+    "en": "We're just about done!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_TOUHA_100_1",
+    "en": "We're done! Looks fantastic!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_TOUHA_100_2",
+    "en": "Congratulations, we're finished with{SAUT}this floor!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_MAPPING_ICON_ALL_",
+    "en": "Yes, no doubts there.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_MAPPING_ICON_ALL_#2",
+    "en": "Looks excellent.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_MAPPING_ICON_KAID",
+    "en": "Nicely done.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_MAPPING_ICON_KAID#2",
+    "en": "That's perfect!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_MAPPING_CHANGE_CO",
+    "en": "Ah, switching colors, eh?",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_MAPPING_CHANGE_CO#2",
+    "en": "You must be the picky type.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_MAPPING_ICON_DEL_",
+    "en": "I must admit I think that's{SAUT}unnecessary too.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_MAPPING_ICON_DEL_#2",
+    "en": "Oh, that's daring of you.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_MAPPING_MEMO_1",
+    "en": "Aha, now that's a great idea.",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_MAPPING_MEMO_2",
+    "en": "Gives you peace of mind, marking the{SAUT}map, doesn't it?",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_DOOR_OPEN_1",
+    "en": "Over here!",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_DOOR_OPEN_2",
+    "en": "Shall we?",
+    "fr": ""
+  },
+  {
+    "id": "AKECHI_DOOR_OPEN_3",
+    "en": "Come on.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Ooh, what's this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "It appears to be a switch of some sort...{PAGE}What say you, Joker? Should we try{SAUT}pressing it?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Let's go for it.{OPTION}Let's not.{OPTION}Do what you want.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Alright! Don't mind if I do...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "H-Hey! Are you sure that's safe? What{SAUT}if it turns out to be a trap?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "True. Why not have Oracle look{SAUT}into it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Yeah―it'd be bad if we learned the{SAUT}hard way that this is a trap...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "If anything, we should have Oracle{SAUT}look into it first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "For real!? Then, let's try pressin' it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "H-Hey! What if it turns out to be a trap?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "True. Why not have Oracle look{SAUT}into it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Yep yep, leave it to me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Hm―what's this?{PAGE}Hey, guys! That switch is connected{SAUT}to the searchlights!{PAGE}If you turn off the power, we'll be good{SAUT}to go. Joker, try it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Aha! We did it―the searchlights{SAUT}are off!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akechi",
+    "en": "Well that was a useful function. If we{SAUT}find another one of these, we'll likely{SAUT}want to check it out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "Hm―what's this?{PAGE}Hey, guys! That switch is connected{SAUT}to the searchlights!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "For real!? Lucky us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "If you turn off the power, we'll be good{SAUT}to go. Make sure you try any others{SAUT}that we find later.",
+    "fr": ""
+  }
+]

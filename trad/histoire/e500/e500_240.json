@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "Hey, what's HE doing here!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "He's from a different film reel.{OPTION}It's a rerun.{OPTION}That's his twin brother.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "Yes, that must be the case. This one{SAUT}isn't the same as the one in the film{SAUT}we corrected.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Huh? Why!? I thought we fixed that{SAUT}thing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "This one most likely isn't the same as{SAUT}the one in the film we corrected.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Oh, right... Dinosaurs lay tons of eggs,{SAUT}so it's only natural that there are tons{SAUT}of them with the same face.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "Why are you going on about eggs!?{SAUT}Let's just move past this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "This one most likely isn't the same as{SAUT}the one in the film we corrected.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "Yeah, that's what I thought. I'm pretty{SAUT}sure we changed the herbivores!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Then, does that mean the film in the{SAUT}projector is still the unbearable{SAUT}version?{PAGE}If we don't swap this film out, everyone's{SAUT}gonna keep watching that awful movie...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "If that's the case, then we'll change it{SAUT}as many times as necessary.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosukesaurus",
+    "en": "Why do you have to keep disturbing{SAUT}the group? Everyone's saying it's going{SAUT}fine the way it is.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "Just because everyone's doing it, that{SAUT}doesn't always make it right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "Yeah! If everybody takes off during{SAUT}a red light, it'll obviously cause a{SAUT}huge pile-up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosukesaurus",
+    "en": "What? It doesn't matter whether{SAUT}the herd is right or wrong...{PAGE}It's more important to just take the hint!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kanji",
+    "en": "That ain't takin' any hints! You just{SAUT}don't have the courage to stand up{SAUT}for yourself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosuke",
+    "en": "Going with the flow, while you know{SAUT}what you're doing is wrong? That's{SAUT}the lamest you can get!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yosukesaurus",
+    "en": "Whoa, are you for real? You guys{SAUT}seriously can't take a hint!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Hints have nothing to do with it.{OPTION}You're just hurting my ears.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yosukesaurus",
+    "en": "Ugh, what a pain! If you still don't get it{SAUT}after I've spelled it out for you, then...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Rise",
+    "en": "Incoming, Senpai!",
+    "fr": ""
+  }
+]

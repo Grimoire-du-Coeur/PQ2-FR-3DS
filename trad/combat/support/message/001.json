@@ -1,0 +1,82 @@
+[
+  {
+    "id": "BTL_MES_001_000",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_001",
+    "en": "We can't lose here.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_003",
+    "en": "An FOE... We should probably retreat.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_005",
+    "en": "It's an FOE, but we might{SAUT}be able to handle it...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_006",
+    "en": "A rare Shadow.{SAUT}Here's our chance.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_011",
+    "en": "The enemy looks tough...{SAUT}This could be trouble.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_013",
+    "en": "That's a new one... Let's{SAUT}find its weaknesses first.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_015",
+    "en": "Okay, let's stay on guard!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_017",
+    "en": "Let's finish this quick...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_019",
+    "en": "Looks like something{SAUT}changed...?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_022",
+    "en": "Ngh...! This doesn't look good.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_053",
+    "en": "Here's our chance! Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_055",
+    "en": "Should I take the shot?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_056",
+    "en": "A Baton Pass could turn{SAUT}this around...",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_057",
+    "en": "Is it my turn now?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_001_086",
+    "en": "Sorry, but I can't afford{SAUT}to hold back.",
+    "fr": ""
+  }
+]

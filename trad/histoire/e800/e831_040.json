@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Daaang... What's with all the FOEs...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ken",
+    "en": "This must have been what Koromaru{SAUT}was telling us about.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "So this wasn't the right way? Do we{SAUT}head back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Hold on... All these FOEs are here for{SAUT}security.{PAGE}They don't want anyone getting close...{SAUT}Which can only mean...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "They're guards.{OPTION}They're protecting something?{OPTION}They're keeping people away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Right. If security is this tight, then they{SAUT}must be guarding something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "You mean they're security for the{SAUT}nightclub? The nightclub's using FOEs!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Well, it would make sense. It is VIP, after{SAUT}all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kanji",
+    "en": "Then the club's gotta be just past here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "Hell yeah! Adult paradise awaits!{SAUT}FOEs, clear the way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Teddie",
+    "en": "Here we gooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yukari",
+    "en": "What a bunch of children... Why can't{SAUT}they always be that motivated?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Using FOEs for security... That's{SAUT}definitely not normal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Mitsuru",
+    "en": "*sigh* Either way, we'll want to be on{SAUT}our guard.{PAGE}And let's not forget, we said we'd leave it{SAUT}to them. Let's see what they can do.",
+    "fr": ""
+  }
+]

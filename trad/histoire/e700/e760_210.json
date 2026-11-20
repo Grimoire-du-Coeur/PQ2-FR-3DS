@@ -1,0 +1,55 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Shinjiro",
+    "en": "Tch, this is a dead end too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "I know we mustn't fret, but these do{SAUT}test my patience.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "My legs are super sore. I need a break.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "Well, we're definitely making progress.{SAUT}You're all so amazing... How can you{SAUT}be so strong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Heheh, your cheering us on's helping{SAUT}out a lot too, Hikari-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "R-Really...? It makes me really happy to{SAUT}hear that I'm actually being helpful.{PAGE}You've all done so much for me, so now{SAUT}I want to return the favor...{PAGE}I hope my cheers reach the people{SAUT}who're trapped in those theaters too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "...Yeah. Here's hopin'.{PAGE}Welp, Hikari's doin' her best, so this{SAUT}ain't the time for us to be sittin' on our{SAUT}asses!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Junpei",
+    "en": "All right, time to get back at it!{SAUT}Let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_CURE_ALL",
+    "en": "Everyone has regained HP and SP!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Save the story up to this point?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "MSG_TUTORIAL_ZEKKOCHO_0",
+    "en": "Before you enter the movie, allies who{SAUT}are {f 0 1 2}Motivated{f 0 1 0} might urge you to{SAUT}include them in your party.{PAGE}Motivated allies have bonuses such as:{SAUT}{f 0 1 2}increased chances of a critical{SAUT}hit when they use physical attacks{f 0 1 0},{SAUT}{f 0 1 2}higher experience gains{f 0 1 0}, and {f 0 1 2}extra HP{SAUT}and SP with an equipped Sub-Persona{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_ZEKKOCHO_1",
+    "en": "See who's Motivated when arranging{SAUT}your party.{PAGE}Strengthen your party by selecting{SAUT}allies who are Motivated.",
+    "fr": ""
+  }
+]

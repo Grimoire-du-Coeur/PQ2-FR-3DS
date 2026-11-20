@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Yo, a Treasure Spot! Well? Gonna check{SAUT}it out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Yeah! I'll keep an eye out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "All right, goin' all in! Leave it to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Oh? Havin' second thoughts? Sure{SAUT}thing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "That's all of it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Nice.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Oho.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Oh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "Man, that was spooky... Anyway, we're{SAUT}all done!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Got a rare one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Seriously!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Yesss!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Junpei",
+    "en": "Whoa, got a shortcut here! Whaddya{SAUT}wanna do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Junpei",
+    "en": "Guess we can't go this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Junpei",
+    "en": "Yo... Somethin's gonna jump us{SAUT}here―I can feel it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Junpei",
+    "en": "Seriously!? A-All right, let's take a look.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Junpei",
+    "en": "Yeah, good thinkin'. Junpei, Ace{SAUT}Detective, always steers clear of danger!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Junpei",
+    "en": "Damn, that was tough... Even treasure{SAUT}hunting's life or death out here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Junpei",
+    "en": "Feels like there's a lotta Shadows{SAUT}around here. What do we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Junpei",
+    "en": "Awriiight! Let's take a closer look!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Junpei",
+    "en": "Oh? Change your mind?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Junpei",
+    "en": "Awriiight! All done here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Junpei",
+    "en": "Oh, this takes us back to the theater!{SAUT}Wanna roll?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

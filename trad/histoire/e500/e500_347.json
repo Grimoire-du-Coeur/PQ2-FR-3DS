@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosukesaurus",
+    "en": "Who cares if we've all got different{SAUT}opinions? We just have to talk it out,{SAUT}heart to heart.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosukesaurus",
+    "en": "Sheesh, everyone's talking all at once.{SAUT}This conversation's going nowhere...{PAGE}Then again, it's pretty fun to decide{SAUT}how to do things this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "locuteur": "Yosukesaurus",
+    "en": "It really is nice having companions{SAUT}that you can be open with.",
+    "fr": ""
+  }
+]

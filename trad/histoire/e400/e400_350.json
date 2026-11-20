@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "This is just... It's so horrible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Koromaru",
+    "en": "*growl* Bark, bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san seems to dislike it as well.{PAGE}He said, \"Hikari-san is Hikari-san.{SAUT}Why is that fact being rejected?\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "Based on Hikari's appearance, this{SAUT}incident appears to have occurred{SAUT}quite recently.{PAGE}To think she'd been on the receiving{SAUT}end of such awful pressure from her{SAUT}relatives...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "High school Hikari",
+    "en": "I'm different from all the other girls...{SAUT}I'm strange... A no-good abnormality...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "That doesn't matter! I'm just a little bit{SAUT}different from what's normal...{PAGE}But everyone's still accepted me as their{SAUT}friend!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "High school Hikari",
+    "en": "Still, I'm... I'm just a living error,{SAUT}causing trouble for everyone else...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Hikari",
+    "en": "Th-That's not true! Individuality's not{SAUT}some kind of error!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "High school Hikari",
+    "en": "Everyone says I'm weird... They say{SAUT}that calling it \"individuality\" is just{SAUT}an excuse...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "High school Hikari",
+    "en": "My lifelong dream will take me{SAUT}nowhere. I can't even fix my own{SAUT}errors.{PAGE}Deep down, though... I... I don't want{SAUT}to suppress my real self!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Hikari",
+    "en": "That's right... I was always under such{SAUT}stress...{PAGE}What does it mean to be normal?{SAUT}What am I?{PAGE}I started losing sight of what my{SAUT}existence really ought to be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "You can't lose yourself like that!{PAGE}The anxiety of feeling like the only one{SAUT}who's different... I truly understand that{SAUT}now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Fem Protag",
+    "en": "To be honest... I've been scared{SAUT}the whole time I've been here.{PAGE}I'm the irregularity here―I'm the only{SAUT}one different from everybody else!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013_5",
+    "locuteur": "P3 Fem Protag",
+    "en": "The more I thought about why that is,{SAUT}the more I started feeling like everything{SAUT}about me is phony...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "But then, everyone I met accepted me,{SAUT}just the way I am.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hikari-chan, that doesn't just apply to{SAUT}me. The same goes for you too, right?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Just be yourself, Hikari.{OPTION}We all like you as you are.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm. You are just you, Hikari-chan.{SAUT}You're our precious friend.{PAGE}That's why we came all this way{SAUT}to find you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "She's right, Hikari! Let's get outta here{SAUT}and all go home together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Hikari",
+    "en": "That's right... There was something{SAUT}I wanted to do!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari's uncle",
+    "en": "That's just you being selfish, Hikari.{SAUT}Stop being such a bother to everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Hikari's aunt",
+    "en": "That's right―you're not normal.{SAUT}Keep going with that attitude and{SAUT}you'll only wind up miserable!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "High school Hikari",
+    "en": "My dream... The people I want to{SAUT}be with...{PAGE}I... I want to stay the person that I know{SAUT}I am!{PAGE}I don't want to discard my whole{SAUT}identity just because of some ideas{SAUT}you're trying to force on me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Hikari's aunt",
+    "en": "Are you still defying us!? Fine...{SAUT}We'll set you straight.{PAGE}You are an erroooooooooooor!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Hikari",
+    "en": "N-Nooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Chie",
+    "en": "No way we're letting this happen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P3 Hero",
+    "en": "Yeah, we've got to stop them―let's go!",
+    "fr": ""
+  }
+]

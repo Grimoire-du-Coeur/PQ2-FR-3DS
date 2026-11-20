@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "Good job, everyone! That's the first{SAUT}one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "All right! We just need two more,{SAUT}right?{PAGE}But this is gonna power up our{SAUT}navigators, huh? Wonder what{SAUT}powers they'll get?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akihiko",
+    "en": "Hm... Maybe something like{SAUT}Auto-Protein? It can automatically{SAUT}give us a boost of protein!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "Well... I'd like something cooler.{SAUT}Maybe they'll be able to generate{SAUT}beam sabers for us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Sorry to break it to you, guys, but{SAUT}beam sabers aren't in the cards.{SAUT}Or protein, either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akihiko",
+    "en": "Bah, figures...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "O-Of course not...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Fuuka",
+    "en": "We're looking to increase our speed{SAUT}and our information streaming so{SAUT}we can work even better as a group.{PAGE}I think I should be able to hack{SAUT}something like that together...{SAUT}I'm sure it'll help!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "You say that like it's easy, but the{SAUT}fact that you can just invent new{SAUT}tech like that is amazing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Rise",
+    "en": "I know, right? It's crazy what{SAUT}Oracle and Fuuka-chan can do with{SAUT}all this engineering stuff!{PAGE}They're our navigator dream team!{SAUT}They can do anything!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Fuuka",
+    "en": "O-Oh, I don't know... Your navigation{SAUT}skills are just as good as ours.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Yeah! She's accurate, she keeps{SAUT}things simple, and hello, she's an IDOL!{SAUT}Who wouldn't love having her around?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Each navigator is different and unique.{PAGE}But there's one thing they all have,{SAUT}and that's incredible skill. That's why{SAUT}we can explore without worrying.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Rise",
+    "en": "Eheheh... Well, when Senpai says{SAUT}it like that...!{PAGE}But this'll help us power up even more!{SAUT}So be ready, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Fuuka",
+    "en": "Do your best to find the last two{SAUT}pieces, everyone!",
+    "fr": ""
+  }
+]

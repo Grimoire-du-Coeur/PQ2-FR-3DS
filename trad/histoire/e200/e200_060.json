@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Are these... the bones of a dinosaur?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "Why're they on the ground like this!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "It died here.{OPTION}It got eaten.{OPTION}It's just a replica.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "That's true, but the real question is{SAUT}why it died.{PAGE}It's possible that it died of natural{SAUT}causes... but, there's still the other{SAUT}possibility.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "It got... eaten?{PAGE}Then, does that mean there's a... hm,{SAUT}something like \"trainasaurus rex\"―{SAUT}umm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "What kinda thing could've eaten{SAUT}somethin' this... huge?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Well, I could potentially do it if I were{SAUT}hungry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "Fox's comment aside, a dinosaur that{SAUT}could've eaten something this large{SAUT}would likely be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Still, this looks far too detailed... I think{SAUT}it's safe to say that these are genuine{SAUT}dinosaur bones.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "But, why are they here? Could this{SAUT}dinosaur have died of natural causes?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Don't tell me... was it eaten?{PAGE}Then, does that mean there's a... hm,{SAUT}something like \"trainasaurus rex\"―{SAUT}umm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "A Tyrannosaurus rex?{PAGE}Well, there's no guarantee that's it,{SAUT}but it's definitely possible here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Oh shit, for real? T-Rexes are the super-{SAUT}strong carnivores, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "Ah, the most famous of them all...{SAUT}They're an absolute must for a proper{SAUT}dinosaur movie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Makoto",
+    "en": "What are you so excited for?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "To witness living dinosaurs with my own{SAUT}two eyes―this is a once-in-a-lifetime{SAUT}opportunity! Of course I'm excited.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Haru",
+    "en": "But, it could be another FOE...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "That's fine by me. What's important is{SAUT}them being larger than life and full of{SAUT}vivacity!{PAGE}Ah... I can't wait to see one! If possible,{SAUT}I'd like to sketch it from multiple{SAUT}angles...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "Hey, Fox... If you're gonna do{SAUT}something reckless, go do it by{SAUT}yourself.{PAGE}Just ignore that weirdo, and if you{SAUT}feel like you're in danger, come on{SAUT}back, okay?",
+    "fr": ""
+  }
+]

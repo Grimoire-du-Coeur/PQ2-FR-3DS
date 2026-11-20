@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Naoto",
+    "en": "It seems that's all of the hints we're{SAUT}going to get for the time being.{PAGE}Oracle, let's compare the data we've{SAUT}acquired thus far.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "All right! Write it down if you need to.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "So the first officer said...{PAGE}\"The fake officer is riding in a car{SAUT}marked with double 1s.\"{PAGE}His car's numbered 77-55.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "And the second one...{PAGE}\"The officer with the car numbered{SAUT}77-55 is real.\"{PAGE}He's in car 11-10.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Third one says...{PAGE}\"The officer in the car with double 4s{SAUT}is real.\"{PAGE}His car is 11-22.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Fourth one...{PAGE}\"The officer with double 7s is acting{SAUT}suspicious.\"{PAGE}The number on his car was 44-11.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "And finally there's the fifth one...{PAGE}\"The officer by car number 11-10 seems{SAUT}suspicious to me.\"{PAGE}His numbers are 11-77. Crit fails and{SAUT}lucky sevens.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "That's all we got! Wanna hear it again?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "Please.{OPTION}I'm good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Roger! Pay attention now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Okay! On to the thinking phase! Take it{SAUT}away, Detective!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "The main point here is that only one{SAUT}of them is lying.{PAGE}We need to compare these testimonies{SAUT}and highlight any suspects who violate{SAUT}our rule that \"there is only one liar.\"{PAGE}Therefore, we simply need to test which{SAUT}testimony is our one lie, and see if the{SAUT}remaining testimonies hold true.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "How 'bout it, Joker? You figure out who{SAUT}the liar is?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "Officer 77-55.{OPTION}Officer 11-10.{OPTION}Officer 11-22.{OPTION}Officer 44-11.{OPTION}Officer 11-77.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "The officer by the car numbered 77-55,{SAUT}correct?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "That one was near the starting point.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Naoto",
+    "en": "The officer who was by car 11-10,{SAUT}you say?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "That one was a little south of where{SAUT}we started!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "So the officer with the car numbered{SAUT}11-22?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "He was a little south from the starting{SAUT}point, just before a turn.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Naoto",
+    "en": "The officer with the car numbered 44-11,{SAUT}is that right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "I think he was... near the middle of the{SAUT}map, by a Treasure Spot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Naoto",
+    "en": "The officer with car 11-77?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "He's in an open area on the west side.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Naoto",
+    "en": "All right, let's go.{PAGE}If you're correct, we'll probably be met{SAUT}with a fight. Make sure we're ready.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Margaret",
+    "en": "Hmhm... And so I have lost.{PAGE}I felt your power resound through{SAUT}my whole body. I never guessed{SAUT}you'd excite me this much...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Thank you.{OPTION}That was a tough battle.{OPTION}That was fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Margaret",
+    "en": "No... if anyone deserves thanks, it{SAUT}is you. I had a wonderful time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Margaret",
+    "en": "*chuckle* I'm honored to hear it.{SAUT}I hope you took at least some{SAUT}enjoyment from it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Margaret",
+    "en": "Yes, indeed... So much so that{SAUT}it's a pity that it's over.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "Well done, {f 6 1 30 0 0 0}. Now,{SAUT}what of the film...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "The film that looked sooty is now{SAUT}glowing faintly...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Whoaaa, this one's all shiny now!{SAUT}That means we did it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "en": "......!{PAGE}The two pieces of film are shining{SAUT}brighter together now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P4 Hero",
+    "en": "What's happening...?{PAGE}Are they resonating with each other...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "The glow quietly ebbed away...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Rise",
+    "en": "Huh? It's back to how it was...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "But there was a clear reaction between{SAUT}the two of them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "Yes. I think we can conclude that{SAUT}gathering and activating more of this{SAUT}film is bound to have some effect.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Margaret",
+    "en": "Hmhm... I'm glad if I could help.{PAGE}I think I will also watch closely,{SAUT}to see the possibilities of the{SAUT}wild card for myself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elizabeth",
+    "en": "I'm pleased that things are going{SAUT}smoothly.{PAGE}Now, we shall wait until we acquire{SAUT}another ticket specifying its cast.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Naoto",
+    "en": "Still, this is all fairly mysterious.{SAUT}I've been wondering myself...{PAGE}What could be the purpose of these{SAUT}special screenings? What is{SAUT}generating them?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Akechi",
+    "en": "It's true, these screenings seem{SAUT}oddly suited to our circumstances.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yukiko",
+    "en": "...Do you think... someone's watching{SAUT}us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukari",
+    "en": "Gah! Yukiko-chan, you don't have{SAUT}to say it like that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Margaret",
+    "en": "Ha... Perhaps you'd be better off not{SAUT}thinking too hard about it.{PAGE}As you proceed through these{SAUT}various movies, you will continue to{SAUT}grow as a matter of course.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020_1",
+    "locuteur": "Margaret",
+    "en": "And so, you will find budding new{SAUT}possibilities, granting you the power{SAUT}to define your own fate...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020_2",
+    "locuteur": "Margaret",
+    "en": "Cherish that fact, so that you will{SAUT}never falter on your path.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_021",
+    "choix": true,
+    "en": "I'll try.{OPTION}Not sure I get it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Margaret",
+    "en": "Yes, I hope you do so. If you feel{SAUT}you've lost your way, come and{SAUT}see me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Margaret",
+    "en": "*chuckle* Just keep doing what you've{SAUT}always done. If you feel you've lost{SAUT}your way, come and see me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Elizabeth",
+    "en": "Now then, since you've successfully{SAUT}made my sister cry mercy, I have{SAUT}wonderful news for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Margaret",
+    "en": "Hmhm... I could hardly let you leave{SAUT}empty-handed, after you've provided{SAUT}such a stimulating diversion.{PAGE}You've done so much to thrill me,{SAUT}it's only fair that I give you a{SAUT}reward in kind...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosuke",
+    "en": "Whoa, seriously!?{PAGE}Wh-When she says it like that...{SAUT}Oh man, I've been waiting for this{SAUT}kinda reward my whole life!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Chie",
+    "en": "Whatever you're thinking, it's not{SAUT}that. The only reward you're getting{SAUT}is a swift kick in the butt.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Margaret",
+    "en": "I hope it'll meet your expectations.{SAUT}Make sure to pick it up from{SAUT}Elizabeth later.{PAGE}It's an item that should help you{SAUT}further refine your power. I hope{SAUT}you make good use of it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Elizabeth",
+    "en": "Well then, I believe that draws our{SAUT}efforts to a close! Please visit again{SAUT}if you―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Margaret",
+    "en": "A moment, Elizabeth.{PAGE}There should be another reward for{SAUT}them. Hand it to them at once.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Futaba",
+    "en": "Oooh! We got a one-more!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Elizabeth",
+    "en": "......{PAGE}My! I had, as they say, plumb{SAUT}forgotten. I suppose it slipped my{SAUT}mind while I was watching the battle.{PAGE}Naturally, it was purely an accident,{SAUT}and not a devious attempt to pilfer it{SAUT}during the long conversations.{PAGE}Now, please accept this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yosuke",
+    "en": "...Uh...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Makoto",
+    "en": "...This is... another hot dog.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "P4 Hero",
+    "en": "We got one when we faced{SAUT}Theodore too. I guess hot dogs{SAUT}are a pretty big deal here...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Margaret",
+    "en": "Ah, I suppose that's understandable.{PAGE}They are impressively tasty for one{SAUT}of Theo's creations. I hear he puts{SAUT}great time and effort into them.{PAGE}Indeed, it gets to the point that we{SAUT}fight over each one. Even Elizabeth{SAUT}is partial to them, aren't you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Elizabeth",
+    "en": "Yes, I must say I'm surprised Theo{SAUT}managed this. Truly, they are the{SAUT}greatest treasure of this domain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Margaret",
+    "en": "...Hm, I have less on hand than I{SAUT}thought... It's about time Theo{SAUT}made another batch.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Elizabeth",
+    "en": "Ah, seeing it in person only makes me{SAUT}want one more! Truly, it is the hottest{SAUT}of all possible dogs.{PAGE}With a little threateni―that is to say,{SAUT}polite reminding, I'm sure he will{SAUT}make me some more.{PAGE}Well then... farewell!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Margaret",
+    "en": "Ah...!{PAGE}Come back here, Elizabeth!{SAUT}My order must be made first!",
+    "fr": ""
+  },
+  {
+    "id": "PERSONA_STOCK_UP_MSG",
+    "en": "Overcoming this ordeal has strengthened the{SAUT}power of the wild card. Your Persona{SAUT}stock has increased by {f 0 1 2}{f 2 4 0}{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "SYS_MES_000",
+    "en": "The effect of {f 4 4 3 0 1594} has{SAUT}increased the EXP boost of{SAUT}Finish Bonuses.",
+    "fr": ""
+  }
+]

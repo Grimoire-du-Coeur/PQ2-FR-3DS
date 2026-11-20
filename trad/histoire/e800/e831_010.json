@@ -1,0 +1,254 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "I would like to notify you that a new{SAUT}special screening has been added.{PAGE}Though this one may be a little{SAUT}too suggestive for some...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "...Hm!? My nose tells me we're in for{SAUT}something... mature~!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "I'd like for you to locate a secret{SAUT}hot spot in Kamo City.{PAGE}There, men and women party all night―{SAUT}rustling and tussling, giving in to their{SAUT}earthly desires...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Rustling and tussling...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "A secret hot spot?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "Whoa, whoa... That sounds kinda{SAUT}dangerous.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "You don't want to go?{OPTION}You can stay here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "I never said that. Actually, I'm kinda{SAUT}curious...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kanji",
+    "en": "I wonder why, Senpai...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yosuke",
+    "en": "Shut it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "A nighttime hot spot... She probably{SAUT}means...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "An arcade?{OPTION}A nightclub.{OPTION}A bath house.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosuke",
+    "en": "Well, arcades ARE a place to have fun...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "But they're not exactly adult hot spots,{SAUT}are they?{PAGE}Elizabeth is most likely referring to a{SAUT}nightclub.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P4 Hero",
+    "en": "You mean where macho guys go to get{SAUT}all steamy...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kanji",
+    "en": "Why you lookin' at me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Naoto",
+    "en": "I'm not sure what you mean, but{SAUT}Elizabeth is most likely referring to a{SAUT}nightclub.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Elizabeth",
+    "en": "That is correct.{PAGE}There are many popular and exclusive{SAUT}nightclubs in Kamo City accessible only{SAUT}to VIPs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "A nightclub, huh...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "I don't like the sound of that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Hero",
+    "en": "Oh, no?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yosuke",
+    "en": "\"Oh, no?\"... You go to clubs often or{SAUT}something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Teddie",
+    "en": "*whistle* You're a bad boy! We'll leave{SAUT}this to you, then!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "We're counting on you.{OPTION}I'm a night owl too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ryuji",
+    "en": "Ain't you been goin' to that club in{SAUT}Shinjuku...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ryuji",
+    "en": "That's right. You're still goin' to that club{SAUT}in Shinjuku, aren't you...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Teddie",
+    "en": "What!? We got another bad boy here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Junpei",
+    "en": "Well, it looks like we've got a couple{SAUT}of veterans here. This looks like a job{SAUT}for us guys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ann",
+    "en": "Uh... Us guys?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Junpei",
+    "en": "It's too dangerous for the girls to walk{SAUT}around the city at night, right?{PAGE}Better to let us take the lead on this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yukari",
+    "en": "...What are you up to, Junpei?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Junpei",
+    "en": "N-Nothing. Just tryna be a gentleman...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P3 Hero",
+    "en": "I don't think it's that dangerous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Junpei",
+    "en": "We're going to an adult hangout, right?{SAUT}Maybe we can have some \"adult fun\"...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Fuuka",
+    "en": "Junpei-kun?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Junpei",
+    "en": "Oh, nothing, nothing! Just sayin' we'll{SAUT}take care of it.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_036",
+    "choix": true,
+    "en": "We got this.{OPTION}You can trust us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Mitsuru",
+    "en": "Hm... Well, if they insist, then I suppose{SAUT}we'll leave it to them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Yukari",
+    "en": "Are you sure?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Mitsuru",
+    "en": "They just have to find the nightclub.{SAUT}What's the worst that could happen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Junpei",
+    "en": "Well said, Senpai! All right, let's do this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Elizabeth",
+    "en": "Very well. It's in the bad boys' hands{SAUT}now.",
+    "fr": ""
+  }
+]

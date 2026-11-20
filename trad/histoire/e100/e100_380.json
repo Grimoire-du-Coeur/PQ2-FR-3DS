@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Careful! There's a man standing guard{SAUT}up ahead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Hmm, he doesn't seem to be guarding{SAUT}anything in particular...{PAGE}So, why's he standing there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Maybe he's just slackin' off? He kinda{SAUT}looks like the lazy type.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Not everyone has the same goals as you,{SAUT}Skull.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Hey!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Just forget it. Look! Isn't that an open{SAUT}manhole behind him?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Huh? A manhole? Are they doin' sewer{SAUT}repairs or somethin'?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "No, no―doesn't it look like he's{SAUT}guarding it? Sometimes stuff like{SAUT}power lines are run underground.{PAGE}Maybe the lights' power source is{SAUT}somewhere on the other side of{SAUT}the manhole.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "That would make sense. I doubt they'd{SAUT}have someone stand guard somewhere{SAUT}without good reason.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "Hm... If it's a possibility, then why not{SAUT}head into the sewers and check it out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Well, for that to happen, we gotta do{SAUT}somethin' about that cop first...{SAUT}What's your call, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "Let's take him out.{OPTION}We don't have a choice...{OPTION}Let's talk it out with him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Yeah! Sounds like the fastest way to{SAUT}get this done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "Right―this isn't someone we can just{SAUT}convince to let us by.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Welp, let's get on with it and take real{SAUT}good care of him!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "I don't think that would work.{PAGE}I doubt he'd let criminals in defiance of{SAUT}Kamoshidaman through that easily.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Heh, guess it's time to bust out the fists!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "Wait―I'd like to propose an idea first...{PAGE}After taking him down, why don't we{SAUT}avail ourselves of his uniform as well?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "Strip the cop? Why?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "If we're going to steal that statue,{SAUT}I assume there will be even more{SAUT}guards beyond this point...{PAGE}So a police uniform may come in handy{SAUT}at some stage of the operation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "So, a disguise, eh? Not a bad idea―{SAUT}although, I obviously won't be{SAUT}the one wearing it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akechi",
+    "en": "We're in our own phantom thief attire,{SAUT}so we couldn't exactly don it all that{SAUT}easily, either.{PAGE}Which leaves us with...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ann",
+    "en": "...{f 6 1 27 0 0 0}-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh? Me!? Impersonating a cop?{PAGE}Ooh, that sounds so fun! Pick me, pick{SAUT}me! Can I, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "You're on the force.{OPTION}If everyone else is fine with it.{OPTION}But... I want to wear it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ann",
+    "en": "You've already got your own outfit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yusuke",
+    "en": "Let's just leave this to {f 6 1 26 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm, count on me! Getting to wear{SAUT}a disguise will really make me feel like{SAUT}a top-notch thief!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ann",
+    "en": "Ahaha, you're really starting to{SAUT}think like a phantom thief now,{SAUT}{f 6 1 27 0 0 0}-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P3 Fem Protag",
+    "en": "*giggle* Well, I am a member of the{SAUT}Phantom Thieves now―just leave it{SAUT}to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Futaba",
+    "en": "Okay―now that that's decided, let's{SAUT}deal with that cop! Ready, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_031",
+    "choix": true,
+    "en": "Let's get this done.{OPTION}Give me a second.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Policeman on guard",
+    "en": "Ah―Suspicious characters! You're all{SAUT}under arrest!",
+    "fr": ""
+  }
+]

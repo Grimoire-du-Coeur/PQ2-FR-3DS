@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "The objective of this special{SAUT}screening...{PAGE}Is to clear the specified floor of{SAUT}A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "That's it? We already know that floor{SAUT}pretty well. Won't this be easy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "But one must remember that you{SAUT}cannot judge a book by its coveralls.{SAUT}Things are not always as they seem.{PAGE}As such, the layout of the floor has{SAUT}become terribly complex.{PAGE}Your task is to navigate the labyrinthine{SAUT}passages and return safely.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "What happened?{OPTION}Who's responsible for this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "Well... I'm afraid I don't have further{SAUT}details on the matter.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Fuuka",
+    "en": "When you say the layout's become{SAUT}complex... How exactly did it change?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Elizabeth",
+    "en": "Well... If I were to give a more visual{SAUT}example, it now resembles Junpei's{SAUT}room.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukari",
+    "en": "Ugh, that's already more than I{SAUT}wanted to know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "Ngh... You mean to say we have to{SAUT}navigate such a nightmare?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Junpei",
+    "en": "Um, guys? Words can hurt too, y'know.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "There's no point discussing it here.{SAUT}Let's go in and see for ourselves.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "Agreed.{OPTION}We're gonna get lost...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Haru",
+    "en": "Right. We have a splendid map, and{SAUT}helpful navigators besides!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "Don't worry. You already got a map,{SAUT}and we'll be navigating for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Rise",
+    "en": "Yeah, we'll be here to support you.{SAUT}Make sure to come straight back if{SAUT}it gets too rough out there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "All right! Then it's settled.{PAGE}It might be a long trek, and we might{SAUT}get lost. Make sure we're prepared.",
+    "fr": ""
+  }
+]

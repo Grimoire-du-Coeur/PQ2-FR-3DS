@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "Hey, what's this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "They appear to be... map coordinates?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "Looks that way, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Makoto",
+    "en": "Oracle, can you overlay this on our{SAUT}current map?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "A treasure map, eh? Leave it to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Futaba",
+    "en": "Based on the coordinates... There's a{SAUT}treasure here... a treasure there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "And here! All done. Hehe... I wonder{SAUT}what booty we'll discover this time?",
+    "fr": ""
+  }
+]

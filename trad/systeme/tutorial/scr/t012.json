@@ -1,0 +1,17 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "All attacks have an {f 0 1 2}affinity{f 0 1 0}, and both allies{SAUT}and enemies may be {f 0 1 2}weak against them{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "{f 0 1 2}Learn an enemy's weakness{f 0 1 0} by using{SAUT}attacks with different affinities.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes03",
+    "en": "After you find the type of affinity that a {SAUT}Shadow is weak to, a reminder will appear{SAUT}above its head whenever you are about to{SAUT}attack with that affinity. Use this to your{SAUT}advantage to deal lots of damage, among{SAUT}other extra {f 0 1 2}benefits{f 0 1 0}!",
+    "fr": ""
+  }
+]

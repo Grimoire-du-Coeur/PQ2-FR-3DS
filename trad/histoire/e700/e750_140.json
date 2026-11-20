@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Agh! This wind... It's too strong...{SAUT}I'm gonna―{PAGE}Mrowww!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "Whaaaaaa!? Nooooooo! Heeeeelp!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "Huh!? Wait, wha―!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "Oh no! Are you guys okay!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Whoa, the wind's so strong that they're{SAUT}actually floating! Awww, Mona looks{SAUT}like a tiny balloon...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Don't call me a balloon! Sheesh...{SAUT}That was not fun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "Looks like everyone's all right―wait,{SAUT}where's Teddie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Phew-wee! What a close call! I'm glad{SAUT}I clung onto Crow like this.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "He's fine with it.{OPTION}You two get along so well.{OPTION}I'm getting jealous.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "Can you really... call this... \"fine\"!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "O-Oh, you... really... think so!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "Then... would you mind... trading{SAUT}places!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Mitsuru",
+    "en": "To think the wind could be so strong as{SAUT}to make us float... I suppose we're lucky{SAUT}we didn't fall into that hole.{PAGE}It seems we'll need to proceed with{SAUT}even more caution from here on out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yosuke",
+    "en": "Yeah, we're in Enlil's world―who knows{SAUT}what's waiting for us ahead.{PAGE}Stay on guard, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "Agh! Why's this wind... so... strong!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Teddie",
+    "en": "Whaaaaa!? My fur... My pride and joy is{SAUT}getting all mussed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015_5",
+    "locuteur": "Teddie",
+    "en": "...Hrmm? I'm floating! But, how!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Mitsuru",
+    "en": "To think the wind could be so strong as{SAUT}to make us float... I suppose we're lucky{SAUT}we didn't fall into that hole.{PAGE}It seems we'll need to proceed with{SAUT}even more caution from here on out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yosuke",
+    "en": "Yeah, we're in Enlil's world―who knows{SAUT}what's waiting for us ahead.{PAGE}Stay on guard, everyone!",
+    "fr": ""
+  }
+]

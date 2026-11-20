@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukiko",
+    "en": "Hey, we came back here without much{SAUT}thought―couldn't we get trapped here{SAUT}again?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Considering what Enlil told us, I doubt{SAUT}she would do that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_5",
+    "locuteur": "Yusuke",
+    "en": "The locks represented Hikari's desire{SAUT}to remain here.{PAGE}Since Hikari made the decision to leave,{SAUT}Enlil has shown no intention of stopping{SAUT}her.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mitsuru",
+    "en": "Hm. While this place may still be safe{SAUT}for us, the remaining movie theaters{SAUT}are the real issue...{PAGE}Until their inhabitants gain the will{SAUT}to leave, their doors will remain{SAUT}closed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "I wonder what'll happen to those people{SAUT}if they stay here forever...{PAGE}I mean, Enlil said they'd be safe...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ken",
+    "en": "But they're not thinking for themselves.{SAUT}That's just...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "They're totally apathetic.{OPTION}They're like mental shutdowns...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukari",
+    "en": "Think about it... That's no different than{SAUT}being dead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mitsuru",
+    "en": "And who knows how many people are{SAUT}entering the movie theater district{SAUT}as we speak...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "Correct. They've lost their wills to live,{SAUT}just like those in the mental shutdown{SAUT}cases...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "There are that many people like that{SAUT}here!? And their numbers are still{SAUT}growing!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Teddie",
+    "en": "Noooo! This is an emergency! If this{SAUT}keeps up... um, um...{PAGE}...What's going to happen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "Would you calm down!? Now's the time{SAUT}that we sorta need out―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011_5",
+    "locuteur": "Yosuke",
+    "en": "...Need to sort out the information we{SAUT}have already!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "You're the one who needs to calm down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yukiko",
+    "en": "Now that's our Yosuke-kun. He's really{SAUT}putting up a fight defending his title of{SAUT}Prince of Disappointment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "Could you guys give me a break, just{SAUT}this once!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P4 Hero",
+    "en": "...So, do you know anything about this,{SAUT}Margaret?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Margaret",
+    "en": "Well, to begin with, the ramifications{SAUT}it will have on the real world cannot{SAUT}be overlooked.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Naoto",
+    "en": "Why is that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Elizabeth",
+    "en": "Eventually, those movie theaters will{SAUT}encroach upon the very fabric of your{SAUT}realities...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018_5",
+    "locuteur": "Elizabeth",
+    "en": "...Or something of that nature.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Shinjiro",
+    "en": "The world's gonna get flooded with{SAUT}those shitty theaters?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akihiko",
+    "en": "The whole place is gonna be lousy with{SAUT}dead-eyed shut-ins...{PAGE}That sounds like a real garbage heap{SAUT}to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Hikari",
+    "en": "I don't want anyone else to go through{SAUT}what happened to me here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah―we definitely won't let it{SAUT}happen! Let's take care of this{SAUT}theater world.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P4 Hero",
+    "en": "We should prepare ourselves for what's{SAUT}shaping up to be our final battle and{SAUT}head out whenever we're ready.",
+    "fr": ""
+  }
+]

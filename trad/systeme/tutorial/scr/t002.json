@@ -1,0 +1,52 @@
+[
+  {
+    "id": "MSG_TUTORIAL_TIZU",
+    "en": "\"The Map\"{SAUT}Learn {f 0 1 2}how to fill in the map{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_MAP_0",
+    "en": "The {f 0 1 2}map{f 0 1 0} can be viewed on the lower{SAUT}screen. Filling in the map is key to your{SAUT}escape from this world.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_MAP_1",
+    "en": "Expand or shrink the map by pressing the{SAUT}{f 0 1 2}Y Button{f 0 1 0} or by double-tapping the map.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_MAP_2",
+    "en": "Tap the {f 0 1 2}compass{f 0 1 0} in the upper left, and{SAUT}the map will rotate to match the direction{SAUT}you are facing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_MAP_3",
+    "en": "Tap the {f 0 1 2}pencil tool{f 0 1 0}, and you'll be able to{SAUT}draw walls on the map.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_MAP_4",
+    "en": "Tap the {f 0 1 2}brush tool{f 0 1 0} to color in floor spaces.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_MAP_5",
+    "en": "Change the brush tool's color with the{SAUT}{f 0 1 2}color palette{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_MAP_6",
+    "en": "{f 0 1 2}(1) The eraser tool{f 0 1 0} removes walls.{SAUT}{f 0 1 2}(2) The dustcloth tool{f 0 1 0} erases floors.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_MAP_7_1",
+    "en": "Floor spaces get filled in automatically{SAUT}just by walking on them, but you'll have{SAUT}to {f 0 1 2}mark down walls yourself{f 0 1 0}. Refer to{SAUT}{f 0 1 2}HELP{f 0 1 0} at the bottom right of the map for{SAUT}more information.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_MAP_7_2",
+    "en": "Floor spaces get filled in automatically{SAUT}just by walking on them, but you'll have{SAUT}to {f 0 1 2}mark down walls yourself{f 0 1 0}.",
+    "fr": ""
+  }
+]

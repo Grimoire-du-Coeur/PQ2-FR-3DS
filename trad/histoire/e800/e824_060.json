@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "Good work, everyone. I'd say that just{SAUT}about does it for our investigation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "Does that mean... we're done?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "*sigh* Thank goodness... I thought{SAUT}something was gonna jump out at us...",
+    "fr": ""
+  }
+]

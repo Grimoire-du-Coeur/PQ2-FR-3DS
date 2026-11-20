@@ -1,0 +1,119 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "The entrance to the screening room...{PAGE} and Yusuke are{SAUT}working with Nagi...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Ah, {f 6 1 30 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "How's it going so far?{OPTION}Any issues to report?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "We were just asking Nagi-san if she{SAUT}could find the supplies that I need.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "Nagi-san! Did you have any luck?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Nagi",
+    "en": "Yes―just as you predicted, there were{SAUT}unused ones in the supply room.{PAGE}I've also found the set of tools you{SAUT}requested. Still... they're rather old,{SAUT}so I'm unsure if they'll be of any use.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "No, this is more than enough. The rest{SAUT}is dependent on my artistic skills...{PAGE}Thank you for your assistance, Nagi-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mm, I think we got this!{PAGE}That reminds me, what kind of art{SAUT}do you usually make, Yusuke-kun?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "Well... Hm, how should I describe it?{SAUT}This is difficult to put into words...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Art portraying beautiful women.{OPTION}Nude portraiture.{OPTION}The very essence of beauty.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "There is that, but that's not all...{PAGE}What I'm attempting to depict is{SAUT}beauty itself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "Nude... Ohh, like sketching nude{SAUT}models?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "Unfortunately though, I've never had{SAUT}the chance to do that. I only hope the{SAUT}opportunity presents itself again...{PAGE}But, what I truly want to depict is{SAUT}nothing less than beauty itself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "As I'd hoped, {f 6 1 30 0 0 0}―you truly{SAUT}understand me!{PAGE}Just as he said, what I strive to depict{SAUT}is nothing less than beauty itself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Beauty?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "Yes, but I do not mean superficial{SAUT}beauty.{PAGE}There is both beauty and foulness within{SAUT}one's heart. I wish to capture the fierce,{SAUT}yet heartrending conflict of―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "Um, sorry! You seem to have a lot to say{SAUT}about this, so maybe... you can tell me{SAUT}about it later?{PAGE}We probably ought to get back to work!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "en": "It seems things are okay here. I should{SAUT}head back for the time being...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "en": "It seems things are okay here. Maybe{SAUT}I should go check on the others...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "Akechi and Elizabeth{OPTION}Ann and Ryuji{OPTION}Morgana and Futaba",
+    "fr": ""
+  }
+]

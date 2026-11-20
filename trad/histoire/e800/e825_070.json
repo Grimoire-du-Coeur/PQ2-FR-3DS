@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Perhaps this one was a bit too easy for{SAUT}you. You made excellent time.{PAGE}The purpose of this screening was to see{SAUT}how strong you've all become. A very{SAUT}pleasant film indeed.{PAGE}Here is your reward. I look forward to{SAUT}the next showing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Aigis",
+    "en": "I was able to gather some data as well.{SAUT}Thank you, everyone, for your{SAUT}cooperation. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Haha, of course. We're all here to help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Hero",
+    "en": "Thank you―that's reassuring. It almost{SAUT}makes being separated from the group{SAUT}feel like some kind of dream.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Speaking of which, what were you two{SAUT}doing all that time, {f 6 1 16 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Hero",
+    "en": "Well... I wasn't sure what to do once I{SAUT}realized I'd dropped the Evoker.{PAGE}We tried our best to get away, but we{SAUT}ended up cornering ourselves.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "We're glad you're okay.{OPTION}That must've been tough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Hero",
+    "en": "Thanks, it was a close call. You really{SAUT}saved us back there. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "True, but the two of you were able to{SAUT}hold your own. I'd expect nothing less.{PAGE}Of course, we'll be counting on you as{SAUT}well, Aigis, provided you're willing to{SAUT}help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Aigis",
+    "en": "Certainly! I will do my very best to{SAUT}provide support!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Naoto",
+    "en": "Come to think of it... the Kirijo Group{SAUT}were the ones who created Aigis-san,{SAUT}yes?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Mitsuru",
+    "en": "...I suppose that would be correct.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "Her technology's beyond anything I{SAUT}could possibly imagine... She looks{SAUT}almost human.{PAGE}She can even use Personas. Exactly what{SAUT}sorts of experiments did they perform...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Mitsuru",
+    "en": "It'll take some time to explain, but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "Hehehe, don't sweat the small stuff!{SAUT}Robot girls are super moe! Totally legit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Aigis",
+    "en": "Moe...? Legit...?{PAGE}I'm afraid these terms are not in my{SAUT}database. What do they mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Hero",
+    "en": "Hahah. I think she means you're{SAUT}amazing, Aigis.{PAGE}Either way, I owe you one. Thanks for{SAUT}helping Aigis.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "No problem.{OPTION}We're a team, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P3 Hero",
+    "en": "Haha, spoken like a true leader. I could{SAUT}learn a lot from you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Aigis",
+    "en": "I too will do my best to become more{SAUT}\"moe\" and \"legit\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Hero",
+    "en": "I'm looking forward to us working{SAUT}together.",
+    "fr": ""
+  }
+]

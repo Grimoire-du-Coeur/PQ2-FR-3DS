@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "This next special screening promises to{SAUT}be a rather action-packed adventure...{PAGE}It's a treasure hunt. Your task will be to{SAUT}locate the hidden treasure deep within{SAUT}the jungle!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "What else is new?{OPTION}That's our thing.{OPTION}Hidden treasure?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Yeah. Finding treasure is the Phantom{SAUT}Thieves' specialty.{PAGE}So what kind of treasure is it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "It seems to be some sort of prized{SAUT}artifact a researcher intended to offer to{SAUT}his lover...{PAGE}Hoping to do so once his research was{SAUT}complete, he hid it for safekeeping.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Rise",
+    "en": "...What happened to the researcher―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "Here is a map of the treasure's{SAUT}location... Oh? There appears to be{SAUT}something scribbled on the back...{PAGE}\"Once this job is over, I'll finally propose{SAUT}to her.\"{PAGE}\"This work is the sheer embodiment of{SAUT}both beauty and allure. She's sure to{SAUT}love it...\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Guess he tempted fate...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "So it was a present to his girlfriend...?{SAUT}I'm kinda curious about what it was.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukari",
+    "en": "He said it was the embodiment of{SAUT}beauty. Maybe it's some kind of jewel?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Rise",
+    "en": "Wow, that's so romantic!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Junpei",
+    "en": "The girls sure are excited about this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "Ooh! This is it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosuke",
+    "en": "Huh!? What're you goin' on about!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "Whoever finds the treasure first will be{SAUT}crowned the number-one mascot!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "Number-one mascot?{OPTION}Why?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Teddie",
+    "en": "A mascot's duty is to make the ladies{SAUT}happy and provide comfort whenever{SAUT}they need it...{PAGE}Naturally, if finding the treasure makes{SAUT}everyone happy, then it's only fair that{SAUT}the one who finds it gets the title!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Koromaru",
+    "en": "Woof...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says he has no idea{SAUT}what you're talking about.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "You said it. No one cares about your{SAUT}silly little contest...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Teddie",
+    "en": "Oho...? Well, if there's no competition,{SAUT}then I guess I win by default.{PAGE}And then I get pretty Ann-chan all to{SAUT}myself...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "Arrrgh! Where do you get off!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Teddie",
+    "en": "If you don't like it, just try and take the{SAUT}title from me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Morgana",
+    "en": "Dammit... Fine, I'll do it! But let's get{SAUT}one thing straight...{PAGE}I don't care about your stupid title!{SAUT}I'm only doing this to make Lady{SAUT}Ann happy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yukari",
+    "en": "It's getting pretty heated over there. Are{SAUT}they okay?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "They're fine.{OPTION}It's actually convenient.{OPTION}Morgana's gonna win.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Futaba",
+    "en": "Well, it is a treasure hunt. It's good for{SAUT}everyone to be motivated.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Morgana",
+    "en": "...{PAGE}Right. There's no way I'm losing to some{SAUT}pervy bear!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Haru",
+    "en": "What about you, Koro-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Koromaru",
+    "en": "Arf! Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Aigis",
+    "en": "\"The contest is of little interest to me,{SAUT}but I'll gladly help look for the{SAUT}treasure...\"{PAGE}...So says Koromaru-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Teddie",
+    "en": "Then, that settles it! Let the first-ever{SAUT}Mascot Match-up begin!{PAGE}May the manliest of all men,{SAUT}come on down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Morgana",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  }
+]

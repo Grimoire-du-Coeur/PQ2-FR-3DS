@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Teddie",
+    "en": "There's two warp spots here!{SAUT}Which one do we take?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Hmm... This is the first actual fork{SAUT}in the road we've encountered.{PAGE}If we guess wrong here, it could{SAUT}significantly slow down our{SAUT}efforts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Uhh, what about that paperback{SAUT}there? What did it say?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "GROWL.{OPTION}GROW.{OPTION}CROW.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "No, it was \"GROW.\" I'm pretty sure{SAUT}there weren't any extra L's in there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "But an L would make it grrrowly...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Growl if you want, but I'm pretty{SAUT}used to correcting people on L's{SAUT}and R's...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "Grrr... Rrrrgh... Grrrawr!{PAGE}GrrAWK!{PAGE}Owie... I sprained my tongue...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "You actually have a tongue in there...?{SAUT}That's news to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "That's right, it was \"GROW.\"{SAUT}Like a plant growing larger. Or a{SAUT}person maturing, I suppose.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Man, that's how you say it? I thought{SAUT}it rhymed with \"chow.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Makoto",
+    "en": "You should really pay more attention{SAUT}in English... If you listened to the{SAUT}teacher, you'd know the pronunciation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "Yeah, yeah...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "No, it was \"GROW.\" It was a \"G,\"{SAUT}not a \"C.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "\"CROW.\" As in the scavenger bird,{SAUT}I assume.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Rise",
+    "en": "Crow, huh? Wasn't that Akechi-san's{SAUT}codename?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "Crow's a student and a detective, huh?{SAUT}Hope he doesn't Crow-k from all the{SAUT}stress! Get it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yukari",
+    "en": "*sigh* It takes guts to deliver a pun{SAUT}that bad with that kind of{SAUT}enthusiasm.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Shinjiro",
+    "en": "Hey, you're not gonna join the{SAUT}conversation?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "Well well, a chat with Aragaki-kun!{SAUT}This is rare.{PAGE}I'm still fairly new to the group, and{SAUT}I'm not good with crowds, so I prefer{SAUT}to keep my distance.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Shinjiro",
+    "en": "Oh yeah? Well, suit yourself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akechi",
+    "en": "What about you?{PAGE}I always see you walking a few steps{SAUT}behind the rest of the group. Is there{SAUT}a reason for that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Shinjiro",
+    "en": "Tch... I don't have a good reason.{SAUT}Just something I do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Akechi",
+    "en": "Haha, I meant no offense. You don't{SAUT}have to tell me if you don't want to.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Akechi",
+    "en": "They really do get along well,{SAUT}don't they?{PAGE}When I'm in the middle of it,{SAUT}it's almost too much for me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Akechi",
+    "en": "Well, I suppose I'm just more{SAUT}comfortable this way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Shinjiro",
+    "en": "...Are you now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Akechi",
+    "en": "Well! It seems we're moving again.{PAGE}\"GROW,\" was it? I wonder which{SAUT}is the correct path...",
+    "fr": ""
+  }
+]

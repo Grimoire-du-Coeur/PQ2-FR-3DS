@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Kamoshidaman's beyond here...{SAUT}Once we go in, we can't turn back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P3 Fem Protag",
+    "en": "We've come this far, so all that's left{SAUT}is to put our plan into action. Let's do{SAUT}this right―with confidence and caution!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Joker, are we going in?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Let's go save our friends.{OPTION}Not yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "I see... Well, timing is important. We'll{SAUT}leave that sort of thing to you!",
+    "fr": ""
+  }
+]

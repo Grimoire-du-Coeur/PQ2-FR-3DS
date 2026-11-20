@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Let's see―the reading was coming from{SAUT}up ahead, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukiko",
+    "en": "Mmhm. If we don't hurry, that herbivore{SAUT}might get eaten...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Distant voice",
+    "en": "Waaaah!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Wh-What was that!? It sounded like{SAUT}someone getting squashed... Oh no,{SAUT}don't tell me...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "It was a ghost...{OPTION}It was just a frog.{OPTION}Was that a carnivore!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "H-Hey, cut it out! I mean―did ghosts{SAUT}even exist in prehistoric times?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Please rest in peace... Lord, have mercy{SAUT}on this innocent bear!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukiko",
+    "en": "Wait, if it's a ghost from this period,{SAUT}then does that mean it's a dinosaur{SAUT}ghost? Wouldn't that mean it's huge?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007_5",
+    "locuteur": "Yukiko",
+    "en": "Snrk... Ahahahahahaha! A-A massive,{SAUT}lumbering ghost! Ahahahaha...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "No no no no no! I don't wanna see{SAUT}a squashed frog!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Wh-Whaaaaaat!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_5",
+    "locuteur": "Teddie",
+    "en": "Hraaaaaaaaah! Bring it on!!!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Whoa, Teddie's gonna go feral on 'em!{SAUT}Sic 'em, Teddie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P4 Hero",
+    "en": "No, that voice was definitely―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Panicked voice",
+    "en": "Aaaaagh! Get awaaaay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "*gasp* That voice... All its kindness and{SAUT}tenderness and pathetic-ness...{PAGE}It's Yosuke!!!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Rise",
+    "en": "We've finally located Yosuke-senpai!{SAUT}Looks like he's on the other side of{SAUT}those trees!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Rise",
+    "en": "We've finally located Yosuke-senpai!{SAUT}Looks like he's just up ahead!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Kanji",
+    "en": "Awesome! Now that we've found him,{SAUT}let's hurry and―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "Whoa, just a sec! Bad news―a giant{SAUT}dinosaur's there, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "B-But...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "We have to do something...{OPTION}Let's rush to his rescue!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, we'll save him no matter what!{SAUT}Just hang in there a bit longer, Yosuke!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, we'll save him no matter what!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Makoto",
+    "en": "If we don't hurry, he'll be in real trouble.{SAUT}Let's go!",
+    "fr": ""
+  }
+]

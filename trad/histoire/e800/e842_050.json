@@ -1,0 +1,184 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Teddie",
+    "en": "Time to pay for your crimes!{SAUT}Come quietly and no one gets hurt!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "So what do we do? Just charge in{SAUT}and grab it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari",
+    "en": "Wait... You might scare it again.{PAGE}Come here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "The butterfly grew smaller, and{SAUT}landed on Hikari's finger...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Hikari",
+    "en": "Hee hee... Aw, you're so cute.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukari",
+    "en": "Whoa! Hikari-chan, that was amazing!{SAUT}How did you do that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "Well... I just sort of wanted to do it,{SAUT}and it happened. Maybe because{SAUT}it's my movie...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "Good going.{OPTION}You surprised me.{OPTION}Adorable...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "Thank you, Joker. I'm just glad{SAUT}I could help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "*giggle* I surprised myself, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Hikari",
+    "en": "U-Um―{PAGE}O-Oh, the butterfly... Yeah.{SAUT}I think it's cute too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Junpei",
+    "en": "A gorgeous girl, and a pretty little{SAUT}butterfly on her finger. Like a{SAUT}princess right outta Destinyland...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "All right. We got the butterfly!{SAUT}Mission accomplished!{PAGE}Let's go home.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "Look over here! This place is{SAUT}chock-full of flowers!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Haru",
+    "en": "You're right! What a lovely scent,{SAUT}too... It really is a wonderful place.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "en": "There are colors all around us, and{SAUT}it smells like a fresh garden...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosuke",
+    "en": "Hey, we've been walking for ages.{SAUT}Why don't we take a break here?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "Sounds good.{OPTION}Better head back...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Teddie",
+    "en": "Hurray! Kick back for snacktime!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P4 Hero",
+    "en": "We might as well relax. It's a nice{SAUT}place to do it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Teddie",
+    "en": "Huh? Aw, Joker, are you homesick?{PAGE}C'mon, it'll just be for a little bit!{SAUT}I wanna have a picnic with everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P4 Hero",
+    "en": "Sorry. Do you mind letting Teddie{SAUT}have this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "en": "We decided to take a break in{SAUT}this location...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Teddie",
+    "en": "Oh! I see a butterfly!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ann",
+    "en": "There's a lot here, too. Probably{SAUT}going for the flowers, I guess.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "They're all so gorgeous!{PAGE}I wanna catch butterflies like Hikarin!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Teddie",
+    "en": "C'mon over, gang! Just follow my{SAUT}pheromones!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "The butterflies are swarming...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Hikari",
+    "en": "......!{PAGE}Teddie, no! Get back!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Fuuka",
+    "en": "I'm sensing a lot of Shadows nearby{SAUT}all of a sudden! Everyone, get ready{SAUT}to defend yourselves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Futaba",
+    "en": "They're all Shadows! Here they come!",
+    "fr": ""
+  }
+]

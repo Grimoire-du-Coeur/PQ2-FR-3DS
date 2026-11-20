@@ -1,0 +1,163 @@
+[
+  {
+    "id": "MSG_000_0",
+    "en": "We made our way to Theodore's shop...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_3",
+    "locuteur": "Theodore",
+    "en": "Oh...? What brings everyone here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_5",
+    "locuteur": "Naoto",
+    "en": "Please forgive the sudden intrusion.{SAUT}We just want to ask you a few questions.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Marie",
+    "en": "......{PAGE}What's with the huge crowd?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akechi",
+    "en": "...Have we come at a bad time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002#2",
+    "locuteur": "Akechi",
+    "en": "...Have we come at a bad time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "We were curious about your new{SAUT}popcorn recipe.{PAGE}Have you had a chance to make any{SAUT}more since you gave us that last batch?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Theodore",
+    "en": "No, I still haven't restocked the{SAUT}ingredients, so I haven't had the chance{SAUT}to do so...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "I see. Very well, then.{PAGE}One more question: why is Marie-san in{SAUT}a bad mood?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_2",
+    "locuteur": "Theodore",
+    "en": "Ahh, well... About that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Marie",
+    "en": "It's Teddie's fault.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "What!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Theodore",
+    "en": "Actually, Teddie was here just a{SAUT}moment ago...{PAGE}He very deliberately charged into Marie{SAUT}while she was eating some of my new{SAUT}popcorn.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "It's the same as before.{OPTION}He's targeting the popcorn?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "Yes, it is rather similar to the previous{SAUT}incident.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "That seems likely. It's also similar to{SAUT}the previous incident.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Marie",
+    "en": "I can't believe he did that to my{SAUT}popcorn...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "Perhaps I could see it happening to{SAUT}Chie-senpai and the others, but I never{SAUT}imagined he'd attack Marie-san as well...{PAGE}Around what time did you see Teddie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Theodore",
+    "en": "Not too long ago... It was just a little{SAUT}while before I heard someone scream.{PAGE}Come to think of it, I did notice{SAUT}something strange.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Naoto",
+    "en": "Something strange...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Theodore",
+    "en": "Yes. Teddie's walk was awfully{SAUT}unsteady at the time.{PAGE}Not only that, but he spoke not a word,{SAUT}even when I called out to him.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "That is strange.{OPTION}Teddie? Silent?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "Yes, it is very unnatural for Teddie not to{SAUT}respond when spoken to...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "That does seem unusual. I get the feeling{SAUT}Teddie is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Naoto",
+    "en": "...I believe you and I are thinking the{SAUT}same thing.{PAGE}The quickest way to find out would be to{SAUT}ask him directly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akechi",
+    "en": "In that case, shall we return to where we{SAUT}found his suit? He may already be back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Naoto",
+    "en": "I agree. Let's go.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Mm, its beauty is even more captivating{SAUT}when looking at it up close...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Alright! C'mon, let's check it out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Hey! I can understand getting worked{SAUT}up over this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_5",
+    "locuteur": "Morgana",
+    "en": "But it's not like the enemies will just{SAUT}disappear while we're checking this.{PAGE}We better be careful!",
+    "fr": ""
+  }
+]

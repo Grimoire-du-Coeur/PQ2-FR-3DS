@@ -1,0 +1,140 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Shinjiro",
+    "en": "You must be the thing in charge of{SAUT}this screwed-up place.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "How could you do such terrible things{SAUT}to Ribbon-chan? Is it really so wrong{SAUT}to be different!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mother Computer",
+    "en": "All I have done is take the appropriate{SAUT}measures based on standard operating{SAUT}procedure.{PAGE}Your continued defiance of our{SAUT}procedures proves the foolishness{SAUT}and impropriety of your stance.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "Dude! Why is Ikutsuki-san back again!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mitsuru",
+    "en": "Technically, it's an \"Ikutsuki Robot.\"{SAUT}We've been led to believe it has nothing{SAUT}to do with the real person.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "Uh, but why is it here at all!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Mother Computer",
+    "en": "I manifested because the robots have{SAUT}yearned for my existence.{PAGE}They craved a unified society with no{SAUT}individuality. Thus, a being was created{SAUT}to establish and uphold this society.{PAGE}That being is me.{PAGE}I am connected to the circuits of{SAUT}every robot...{PAGE}Should an irregularity arise, I can detect{SAUT}it immediately. I am also capable of{SAUT}eradicating these irregularities easily.{PAGE}In other words, I am the guardian{SAUT}of the robots.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "Huh? What the hell are you goin' on{SAUT}about!? You're talkin' nonsense!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "Anyone here with individuality disrupts{SAUT}society's harmony, so they are deemed{SAUT}unnecessary in this world...{PAGE}Because of that, you're the one{SAUT}making all of these robots purge{SAUT}themselves for being so-called \"errors\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mother Computer",
+    "en": "If you understand so well, then treat{SAUT}yourselves like the errors you are and{SAUT}follow the procedure as the others have.{PAGE}Existences that deviate from the norm{SAUT}are nothing but a shame to be corrected.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosuke",
+    "en": "You're the one who needs correcting!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "Don't push your own values onto us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Mother Computer",
+    "en": "These are not my values. It is the law{SAUT}of this world.{PAGE}UIY-2249's individuality is a defect that{SAUT}defies our society's harmony... The unit{SAUT}must be treated as such.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ribbon",
+    "en": "MY INDIVIDUALITY IS... A DEFECT...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "Ribbon! Don't let that stupid glowy{SAUT}thing get to you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Mother Computer",
+    "en": "Cease this. Defects that are incapable{SAUT}of adhering to the norms of this world{SAUT}have been deemed unnecessary.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Just who the hell do you think you are!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Mother Computer",
+    "en": "I am the voice given to this world's laws.{PAGE}Those who cannot understand my words{SAUT}need to be disposed of as social misfits.{PAGE}UIY-2249...{PAGE}Disappear along with the other{SAUT}irregularities of TK, YS, and IW.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Enough of this nonsense.{OPTION}Shut up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Hero",
+    "en": "You're the one who's going to{SAUT}disappear!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P4 Hero",
+    "en": "Right! We refuse to accept your laws!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Mother Computer",
+    "en": "What is preventing you from{SAUT}understanding?{PAGE}Obey my words, and you will be happy.{PAGE}If you refuse to obey me, then you must{SAUT}be eliminated.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "Guys―here it comes!",
+    "fr": ""
+  }
+]

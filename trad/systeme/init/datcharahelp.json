@@ -1,0 +1,107 @@
+[
+  {
+    "id": "chara_000",
+    "en": "Blank",
+    "fr": ""
+  },
+  {
+    "id": "chara_001",
+    "en": "[Front Row] Always ready for a fight,{SAUT}best with Cut and Elec attacks.",
+    "fr": ""
+  },
+  {
+    "id": "chara_002",
+    "en": "[Front Row] A versatile fighter,{SAUT}skilled with all affinities.",
+    "fr": ""
+  },
+  {
+    "id": "chara_003",
+    "en": "[Front Row] A swift fighter who{SAUT}specializes in Cut and Wind attacks.",
+    "fr": ""
+  },
+  {
+    "id": "chara_004",
+    "en": "[Front Row] A kung fu girl with{SAUT}high evasion and critical attacks.",
+    "fr": ""
+  },
+  {
+    "id": "chara_005",
+    "en": "[Back Row] Prim, proper, and deadly,{SAUT}but watch out for her health!",
+    "fr": ""
+  },
+  {
+    "id": "chara_006",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "chara_007",
+    "en": "[Front Row] Shields his companions{SAUT}with high defense and offense.",
+    "fr": ""
+  },
+  {
+    "id": "chara_008",
+    "en": "[Back Row] A pint-sized detective,{SAUT}excellent with Link skills.",
+    "fr": ""
+  },
+  {
+    "id": "chara_009",
+    "en": "[Front Row] A self-proclaimed mascot{SAUT}who assists the party in combat.",
+    "fr": ""
+  },
+  {
+    "id": "chara_00A",
+    "en": "[Back Row] A moody girl who excels{SAUT}in Wind and recovery skills.",
+    "fr": ""
+  },
+  {
+    "id": "chara_00B",
+    "en": "[Front Row] A show-off with balanced{SAUT}attack, defense, and counter skills.",
+    "fr": ""
+  },
+  {
+    "id": "chara_00C",
+    "en": "[Front Row] An unrivalled boxer who{SAUT}dishes out extreme damage.",
+    "fr": ""
+  },
+  {
+    "id": "chara_00D",
+    "en": "[Front or Back] Seals enemy skills{SAUT}and finishes them with Ice magic.",
+    "fr": ""
+  },
+  {
+    "id": "chara_00E",
+    "en": "None",
+    "fr": ""
+  },
+  {
+    "id": "chara_00F",
+    "en": "[Front or Back] Anti-Shadow weapon{SAUT}who can activate her Orgia Mode.",
+    "fr": ""
+  },
+  {
+    "id": "chara_010",
+    "en": "[Back Row] Great with physical and{SAUT}Elec skills, but he has low health!",
+    "fr": ""
+  },
+  {
+    "id": "chara_011",
+    "en": "[Back Row] Fast and wields Fire and{SAUT}Darkness magic, but not durable!",
+    "fr": ""
+  },
+  {
+    "id": "chara_012",
+    "en": "[Front Row] The toughest guy around,{SAUT}but extremely vulnerable to magic.",
+    "fr": ""
+  },
+  {
+    "id": "chara_013",
+    "en": "[Back Row] Zen attacks, while Rei{SAUT}heals. Both use mysterious skills...",
+    "fr": ""
+  },
+  {
+    "id": "chara_014",
+    "en": "[Back Row] Zen has regained his{SAUT}memories and his skills...",
+    "fr": ""
+  }
+]

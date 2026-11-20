@@ -1,0 +1,296 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Haru",
+    "en": "Whoa, he's parrying all of Joker's{SAUT}attacks...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "Now's not the time to be impressed.{SAUT}According to Oracle, there are more{SAUT}humans with strong powers here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Energetic girl",
+    "en": "Whoa, whoa, what's happening!?{SAUT}They're totally duking it out...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Menacing-looking boy",
+    "en": "Holy shit―that masked guy's an equal{SAUT}match for Senpai!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Reserved girl",
+    "en": "Huh? A masked―{PAGE}You're right! Those people are all{SAUT}dressed up! Are they trying to win{SAUT}some sort of costume contest?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Person in bear costume",
+    "en": "HELLOOOO! Rise-chan's in serious{SAUT}trouble!{PAGE}I know we're all worried about Yosuke{SAUT}too, but there's no time for chatting{SAUT}like this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Intelligent-looking boy",
+    "en": "But, the current situation―how do we{SAUT}get this under control?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Person in bear costume",
+    "en": "You there―the ones dressed all weird!{SAUT}Get outta our way, right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "What!? You're the one dressed weird!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Person in bear costume",
+    "en": "We're in a hurry here! Enough chit-chat,{SAUT}let us through!{PAGE}If you won't listen, then don't blame me{SAUT}if I bust out my Persona!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "You... know about Personas!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Reserved girl",
+    "en": "Huh? Do you know how to use Personas{SAUT}too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Akechi",
+    "en": "Perhaps we could consider each other{SAUT}compatriots instead of enemies―we're{SAUT}Persona-users as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Composed boy",
+    "en": "You're what!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Menacing-looking boy",
+    "en": "Well, you're the ones packin' heat!{SAUT}You were totally tryin' to off us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "That doesn't shoot bullets. It's a mere{SAUT}model gun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Intelligent-looking boy",
+    "en": "A model gun? Why would you have{SAUT}something like that?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "I was just bluffing.{OPTION}It'd still hurt if I hit him with it.{OPTION}I sort of forgot it doesn't work.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Energetic girl",
+    "en": "Wait, are you serious? That's fake?{SAUT}But, it looks so real!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Intelligent-looking boy",
+    "en": "I see... You were attempting to avoid{SAUT}battle with a ruse.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Menacing-looking boy",
+    "en": "So, you guys weren't plannin' on fightin'{SAUT}us from the start?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Energetic girl",
+    "en": "You were only gonna swat at him!? But,{SAUT}it looks so real...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Intelligent-looking boy",
+    "en": "...I see. Perhaps your original intent was{SAUT}to show it off as a bluff.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Menacing-looking boy",
+    "en": "So, you guys weren't plannin' on fightin'{SAUT}us from the start?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Energetic girl",
+    "en": "Wh-What!? You two looked like you{SAUT}were seriously going at it with each{SAUT}other over there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Haru",
+    "en": "P-Please don't get us wrong! We only{SAUT}intended to use it for intimidation...{PAGE}We were worried about running into{SAUT}people here, so we hoped that his gun{SAUT}would frighten anyone away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Menacing-looking boy",
+    "en": "So, you guys weren't really plannin' on{SAUT}fightin' us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Person in bear costume",
+    "en": "Huh? Could this masked group really{SAUT}be nothing to fear?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ann",
+    "en": "Hey, why don't we all just chill out for{SAUT}a sec?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Composed boy",
+    "en": "Yeah... Sorry about that earlier. We don't{SAUT}really understand the situation we're in{SAUT}either...{PAGE}We were so desperate to find the exit{SAUT}that we couldn't take any chances of{SAUT}getting ambushed.{PAGE}Of course, I had no intention of doing{SAUT}you any harm.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Person in bear costume",
+    "en": "Sensei, we gotta hurry! Rise-chan's{SAUT}looking worse every minute!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Limp girl",
+    "en": "*gasp* *gasp*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P3 Fem Protag",
+    "en": "She's sweating buckets! And her face{SAUT}is so pale... Is she sick!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Composed boy",
+    "en": "Yes, she's been poisoned. Do you{SAUT}happen to have any medicine?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Makoto",
+    "en": "Sorry, we don't have any kind of{SAUT}antidotes on hand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Composed boy",
+    "en": "I see... It seems to have come from{SAUT}a specific plant here, so the medicine{SAUT}that we had on hand was no use, either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Ann",
+    "en": "Sorry we couldn't help...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Reserved girl",
+    "en": "Oh, no―thank you for your concern.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Energetic girl",
+    "en": "Oh yeah, one more thing. Have you guys{SAUT}seen anybody that looks similar to us?{PAGE}He's this boy with hair that like... poofs{SAUT}out on both sides, with a pair of{SAUT}headphones around his neck.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Makoto",
+    "en": "No, unfortunately... I'm sorry. I'm sure{SAUT}we'd remember had we seen someone{SAUT}like that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P3 Fem Protag",
+    "en": "So they've been separated from their{SAUT}companion, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Menacing-looking boy",
+    "en": "Dammit... Was this whole conversation{SAUT}pointless!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Akechi",
+    "en": "One thing is certain: she needs to be{SAUT}treated immediately. We should take{SAUT}her to a place where she can rest safely.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Makoto",
+    "en": "True, there may even be effective{SAUT}medicine in the movie theater. Let's{SAUT}head back there right away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Energetic girl",
+    "en": "Huh? A movie theater? You guys found{SAUT}a place like that in the jungle!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_045",
+    "choix": true,
+    "en": "It's a long story.{OPTION}Just come with us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Composed boy",
+    "en": "...All right. We'll take your word for it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Intelligent-looking boy",
+    "en": "Agreed―there's much that's still{SAUT}unknown, but I'm most concerned{SAUT}about Rise-san's current condition.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Morgana",
+    "en": "Then it's decided! Let's go back to{SAUT}the movie theater! C'mon, follow us!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Justine",
+    "en": "So you've returned, Inmate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "......?{PAGE}Marie is once again nowhere{SAUT}to be seen...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Margaret",
+    "en": "Ah, welcome to the Velvet Room.{PAGE}Marie is unfortunately away at this time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "......?{PAGE}There's another piece of stationery{SAUT}on the floor...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Caroline",
+    "en": "Another one? What's it about now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Something is written on it with large,{SAUT}curly handwriting...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Marie",
+    "en": "\"The Mongrels' Lullaby\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Marie",
+    "en": "You are a stupid dog{SAUT}you don't even know your true master{SAUT}yet you wag your tail so hard it may very well tear{PAGE}I am a stupid dog{SAUT}I search for my true master{SAUT}though I've never even seen him{PAGE}This world's a fluffy paradise{SAUT}for mutts like us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "en": "......{PAGE}Is this another one of Marie's poems?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Marie",
+    "en": "Nwaaaaaaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Marie",
+    "en": "A-Again!? You did it again!? Why how{SAUT}could you I don't understand―{PAGE}I'm not looking for any master! I just...{SAUT}saw a stray dog! In a movie!{PAGE}......{PAGE}GawdIhateyoustupidfluffypermhead!{SAUT}This is gonna be YOUR lullaby, by the{SAUT}time I'm through with you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Marie is blushing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Caroline",
+    "en": "Lullaby... what is this thing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Justine",
+    "en": "It's a song that induces sleep. For you{SAUT}see, the mongrels―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Marie",
+    "en": "Stop! Don't explain it! I'll put you to{SAUT}sleep sweet dreams good night baby!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Marie",
+    "en": "What's this doing here... It doesn't make{SAUT}any sense...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "en": "Marie returned to her usual spot,{SAUT}noticeably unsettled...",
+    "fr": ""
+  }
+]

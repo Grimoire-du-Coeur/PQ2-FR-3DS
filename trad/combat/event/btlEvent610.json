@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hey, are you guys alright!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "We'll take care of this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aggressive boy",
+    "en": "Who're you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Dog",
+    "en": "Bark bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Go ahead and retreat out of harm's way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Spirited girl",
+    "en": "Wha―!? What's with this army{SAUT}of masked people!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Boy with baseball cap",
+    "en": "How should I know!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Don't worry, they're Persona-users too!{SAUT}They're on our side!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Somber child",
+    "en": "Huh...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Well-dressed girl",
+    "en": "Personas!?",
+    "fr": ""
+  }
+]

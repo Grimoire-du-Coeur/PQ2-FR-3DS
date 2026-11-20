@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Good evening, and welcome to{SAUT}\"Junpei's Believe It, or Don't\"...{PAGE}There are many strange things in{SAUT}this world...{PAGE}It happened after sundown, in an{SAUT}isolated little spot much like the one{SAUT}we're in now...{PAGE}As a lone girl hurried home, she{SAUT}suddenly got the strange feeling that{SAUT}someone was watching her...{PAGE}Out of curiosity, she turned around...{SAUT}and saw a lifeless, worn-out puppet{SAUT}watching her ever so closely.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Makoto",
+    "en": "*gasp*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Disturbed by the sight, the girl sped{SAUT}off, but no matter where she went, she{SAUT}could still feel those eyes watching her...{PAGE}Something was wrong, she thought, so{SAUT}she turned around once again...{PAGE}Only to see the puppet from before!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Noooooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "The puppet began to creep toward her...{SAUT}Creeeeeeak... It grew closer and closer...{PAGE}Suddenly, it pulled out a knife, and{SAUT}with an ominous, terrifying moan,{SAUT}it said―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "\"Give the meat plenty of heat for a nice,{SAUT}seared edge!\"",
+    "fr": ""
+  }
+]

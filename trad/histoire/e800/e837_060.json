@@ -1,0 +1,224 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Welcome back, everyone. Here is your{SAUT}reward for this special screening.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "So I think you got a good idea of{SAUT}how strong we are... You notice{SAUT}anything that needs improvement?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "We're ready for that special training{SAUT}course, Coach!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "Yes, I wrote down some things{SAUT}I believe you're lacking in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "Thanks! Let's see...{PAGE}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akihiko",
+    "en": "What is this...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Chie",
+    "en": "A menu?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "What's going on?{OPTION}Is this training?{OPTION}I guess that counts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "I'm sure I've said it before.{SAUT}You're both already so strong.{PAGE}In terms of training, there's not{SAUT}much else I can give you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "But a whole diet change...? And...{SAUT}it's all fish and vegetables...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akihiko",
+    "en": "There's SOME meat, but the ratio{SAUT}looks pretty small... You sure there's{SAUT}enough protein here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Makoto",
+    "en": "There are plant-based proteins as{SAUT}well as meat-based ones. You need{SAUT}a balance of both.{PAGE}If you want to get all the necessary{SAUT}nutrients, you can't neglect your{SAUT}vegetables either.{PAGE}And you want to train your brain{SAUT}as well, right? Then you should be{SAUT}actively eating fish.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "It makes sense, sure, but...{SAUT}there's barely any meat...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akihiko",
+    "en": "No, if this menu will bring us true{SAUT}strength, then...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Chie",
+    "en": "...Master!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Akihiko",
+    "en": "Thanks, Makoto. We'll use this menu,{SAUT}and become even stronger for it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Makoto",
+    "en": "No, I should be thanking you.{PAGE}Seeing your devotion to becoming{SAUT}stronger made me think about my{SAUT}own reasons.{PAGE}Why did I want to become strong?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "To fight strong enemies?{OPTION}To protect someone?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Makoto",
+    "en": "That's what Satonaka-san and{SAUT}Sanada-kun said, but...{PAGE}If you want to be able to stop strong{SAUT}enemies, isn't that because you want{SAUT}to protect someone from them?{PAGE}Protecting people takes strength...{SAUT}I aspired to that strength myself.{SAUT}I wanted to be just like him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "Yes. Exactly.{PAGE}If you want to be able to stop strong{SAUT}enemies, isn't that because you want{SAUT}to protect someone from them?{PAGE}Protecting people takes strength...{SAUT}I aspired to that strength myself.{SAUT}I wanted to be just like him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "You mean your dad, right...?{SAUT}He sounds like a real hero.{SAUT}I bet he protected the people.{PAGE}Sometimes I wish I could be like the{SAUT}heroes in the movies. Swooping in,{SAUT}saving my friends from danger...{PAGE}That's why I'm gonna get even{SAUT}stronger!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akihiko",
+    "en": "Yeah. That's why I need to be able{SAUT}to trust my fists... so I never lose{SAUT}anyone important to me again.{PAGE}If it'll help me do that, I'll go through{SAUT}anything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Makoto",
+    "en": "You guys...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "You're all like that.{OPTION}Don't lose to them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Makoto",
+    "en": "Heh... Maybe so. I guess I should{SAUT}join in their training, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Makoto",
+    "en": "I suppose not. Maybe I'd better join{SAUT}in their training, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Akihiko",
+    "en": "Of course. We'd be happy to have you.{SAUT}We could get started right now.{PAGE}Oh, but first, we've gotta eat up.{SAUT}Replenish all the energy we've lost.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Chie",
+    "en": "Beeeef boooowl!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Makoto",
+    "en": "Hold on a second. What about the{SAUT}menu you were just looking at?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Akihiko",
+    "en": "But it says meat is okay once a day.{SAUT}And it's about time I had some.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Chie",
+    "en": "Yeah! Don't think, feel!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Akihiko",
+    "en": "Truth is, Makoto, I was watching{SAUT}you in that last battle too...{PAGE}You tend to overthink things a little.{SAUT}Sometimes you need to be able to{SAUT}rely on intuition alone.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_032",
+    "choix": true,
+    "en": "Is that her weakness?{OPTION}That's true.{OPTION}This is training too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Makoto",
+    "en": "I overthink things...? I guess I can't{SAUT}deny that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Chie",
+    "en": "In other words, this is training for{SAUT}you too, Makoto-san.{PAGE}The point is, don't think! Feel!{SAUT}Feel the power of BEEF!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Makoto",
+    "en": "Wait, what!? Hey!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Elizabeth",
+    "en": "...It would seem another new bond{SAUT}has been forged.{PAGE}And with that, the curtain falls on{SAUT}this screening. Until next time...",
+    "fr": ""
+  }
+]

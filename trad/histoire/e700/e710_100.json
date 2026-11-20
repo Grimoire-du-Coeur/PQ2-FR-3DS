@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "...Is that a ladder? I wonder where{SAUT}it leads.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "It's pretty high up there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Maybe you can reach it, Skull―you've{SAUT}trained your legs in the Track Team...{PAGE}You should be able to, like, do the high{SAUT}jump and reach it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "No way am I reaching that! Plus...{SAUT}I specialized in sprints.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_05",
+    "locuteur": "Yusuke",
+    "en": "Is that so?{PAGE}I was looking forward to seeing your{SAUT}graceful leaping...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "It's impossible.{OPTION}Try jumping for us, Skull.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Right? No way anyone's reachin' it{SAUT}like that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Hey, cut out the impossible demands!{SAUT}What am I, some insane bird man!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "Perhaps that makes for an access point{SAUT}to somewhere...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008_5",
+    "locuteur": "Akechi",
+    "en": "But at this point, there's no use{SAUT}speculating about it. Let's keep{SAUT}moving for now.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Aigis",
+    "en": "There's a Treasure Spot. What will{SAUT}you do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Aigis",
+    "en": "Understood. Let us search the area{SAUT}while remaining cautious.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "Affirmative. Let us search the area{SAUT}without regard for safety.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "Understood.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Aigis",
+    "en": "It would appear that's everything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Item secured.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "What do we have here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "I comprehend.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Aigis",
+    "en": "We have been interrupted by the{SAUT}enemy. Let us depart for now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "This is a rare find.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "As it is often said, \"Hell yeah.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "An applaud for the occasion!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Aigis",
+    "en": "Shortcut located. What shall we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Aigis",
+    "en": "Shortcut located. What shall we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Aigis",
+    "en": "Shortcut located. What shall we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Aigis",
+    "en": "It appears we cannot pass through from{SAUT}this side.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Aigis",
+    "en": "It appears we cannot pass through from{SAUT}this side.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Aigis",
+    "en": "It appears we cannot pass through from{SAUT}this side.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Aigis",
+    "en": "I am detecting a powerful enemy.{SAUT}We will need to stay determined.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Aigis",
+    "en": "Understood. Engaging the enemy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Aigis",
+    "en": "I've heard it said that one shouldn't go{SAUT}looking for trouble...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Aigis",
+    "en": "That was quite a powerful enemy.{SAUT}However, we've made a safe return.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Aigis",
+    "en": "I am detecting a strong Shadow. What{SAUT}shall we do?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Aigis",
+    "en": "Understood! Commencing a careful{SAUT}search of the area!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Aigis",
+    "en": "Understood. Let us regroup first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Aigis",
+    "en": "Area secured. We must remain vigilant.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Aigis",
+    "en": "Shall we return to the theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

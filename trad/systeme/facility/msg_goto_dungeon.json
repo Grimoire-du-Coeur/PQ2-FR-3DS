@@ -1,0 +1,13 @@
+[
+  {
+    "id": "GOTO_DUNGEON_YESNO",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "GOTO_DUNGEON_IN",
+    "en": "Enter the labyrinth?",
+    "fr": ""
+  }
+]

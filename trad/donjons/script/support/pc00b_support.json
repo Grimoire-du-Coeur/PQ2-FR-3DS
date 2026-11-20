@@ -1,0 +1,377 @@
+[
+  {
+    "id": "JUNPEI_FOE_FOLLOW_START_",
+    "en": "Whoa, that's an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_FOE_FOLLOW_START_#2",
+    "en": "Yo, an FOE's after us!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_FOE_FOLLOW_START_#3",
+    "en": "Dude! An FOE's comin' this way!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_FOE_NEAR_1",
+    "en": "Crap, an FOE!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_FOE_NEAR_2",
+    "en": "Please don't notice us... Please don't{SAUT}notice us...",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_FOE_NEAR_3",
+    "en": "Let's do this real quiet-like.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_FOE_FOLLOW_END_1",
+    "en": "Aight, looks like we lost him.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_FOE_FOLLOW_END_2",
+    "en": "Ha, like we're stupid enough to take{SAUT}that thing head-on.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_FOE_FOLLOW_END_3",
+    "en": "Junpei Iori lives to see another day!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_KANSI_REACTION_1",
+    "en": "Shh! Watch your step.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_KANSI_REACTION_2",
+    "en": "Here comes ninja master Junpei!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_KANSI_REACTION_3",
+    "en": "Yikes, this is makin' me nervous...",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_DENKISAKU_REACTIO",
+    "en": "Nope. No gettin' through that...",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_DENKISAKU_REACTIO#2",
+    "en": "Wonder if there's a switch to turn off{SAUT}the power...",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_DENKISAKU_REACTIO#3",
+    "en": "Is that some kinda new shock{SAUT}therapy...? Uh, after you!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_KYOUHU_REACTION_1",
+    "en": "I'm flying!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_KYOUHU_REACTION_2",
+    "en": "Whoa!?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_KYOUHU_REACTION_3",
+    "en": "You serious!?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_STAIR_FIND_1",
+    "en": "Oh? Are those the stairs I see?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_STAIR_FIND_2",
+    "en": "Looks like we can move on to the next{SAUT}area. You ready?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_STAIR_FIND_3",
+    "en": "And if you turn your attention to the{SAUT}front, you'll see a staircase.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_TREASURE_FIND_1",
+    "en": "Found a treasure chest!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_TREASURE_FIND_2",
+    "en": "Hm? Is that a treasure chest?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_TREASURE_FIND_3",
+    "en": "Is that... treasure?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_CHECK_WALL_1",
+    "en": "There's something fishy over there...",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_CHECK_WALL_2",
+    "en": "Yo, let's take a closer look.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_CHECK_WALL_3",
+    "en": "Is there something over there? There{SAUT}is, isn't there?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_SWITCH_FIND_1",
+    "en": "Ta da da da! Switch ahead!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_SWITCH_FIND_2",
+    "en": "Spotted a switch!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_SWITCH_FIND_3",
+    "en": "Hey, I see a switch!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_SHORTCUT_FIND_1",
+    "en": "Hey, think I spotted a shortcut!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_SHORTCUT_FIND_2",
+    "en": "Yo, that looks like a shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_SHORTCUT_FIND_3",
+    "en": "Hey, we can pass through there!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_FOE_WARNING_NEAR_",
+    "en": "Aw, geez, that FOE's still chasin' us!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_FOE_WARNING_NEAR_#2",
+    "en": "Damn that thing's stubborn! Girls{SAUT}don't appreciate that, you know!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_FOE_WARNING_NEAR_#3",
+    "en": "Looks like it wants to be friends...{SAUT}Uh, no thanks!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_1PERSON_HPTP10_1",
+    "en": "I can't keep goin'...",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_1PERSON_HPTP10_2",
+    "en": "No health, no energy. Junpei's down{SAUT}for the count!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_1PERSON_HPTP10_3",
+    "en": "Sorry, but I'm beat. Help me uuuuuup.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_1PERSON_HP10_1",
+    "en": "My health's pretty much tapped out...",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_1PERSON_HP10_2",
+    "en": "Help! I'm beggin' you!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_1PERSON_HP10_3",
+    "en": "My health's in the red... Can ya lend{SAUT}me a hand?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_1PERSON_TP10_1",
+    "en": "Ergh... My energy's not lookin' so hot.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_1PERSON_TP10_2",
+    "en": "Aw, crap, I'm almost out of energy...",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_1PERSON_TP10_3",
+    "en": "Sorry, I'm outta gas... Man, I'm beat...",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_1PERSON_HP80_1",
+    "en": "Hmm. That was a pretty easy, huh?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_1PERSON_HP80_2",
+    "en": "The good guys always win!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_1PERSON_HP80_3",
+    "en": "Aw, yeah! Who's the man!?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_DUNGEON_START_1",
+    "en": "Let's get the ball rollin'!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_DUNGEON_START_2",
+    "en": "Alright, let's go.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_DUNGEON_START_3",
+    "en": "Aaand I'm off!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_QUEST_START_1",
+    "en": "Let's wrap this up quick.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_QUEST_START_2",
+    "en": "This is a job for a hero!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_QUEST_START_3",
+    "en": "I can handle this all by myself!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_TOUHA_25_1",
+    "en": "Still got a long way to go. Watch your{SAUT}health, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_TOUHA_25_2",
+    "en": "Geez, we're still only this far...?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_TOUHA_50_1",
+    "en": "Think we're about halfway there?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_TOUHA_50_2",
+    "en": "Hey, this map's really fillin' up!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_TOUHA_75_1",
+    "en": "Dude, we've filled a ton!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_TOUHA_75_2",
+    "en": "Here's hoping the rest of those spaces{SAUT}are safe!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_TOUHA_100_1",
+    "en": "Tada! The map's all finished! Nice one!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_TOUHA_100_2",
+    "en": "Nice job on the mapping!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_MAPPING_ICON_ALL_",
+    "en": "Hey, good one!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_MAPPING_ICON_ALL_#2",
+    "en": "You've got a good memory.{SAUT}Impressive.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_MAPPING_ICON_KAID",
+    "en": "Yeah, just like that!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_MAPPING_ICON_KAID#2",
+    "en": "Ding ding ding! We have a winner!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_MAPPING_CHANGE_CO",
+    "en": "It's good to change things up.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_MAPPING_CHANGE_CO#2",
+    "en": "Wow, you're pretty detailed, huh?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_MAPPING_ICON_DEL_",
+    "en": "Watching you put the finishing{SAUT}touches on that map... It's beautiful.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_MAPPING_ICON_DEL_#2",
+    "en": "How could you throw that away!?{SAUT}Just kidding.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_MAPPING_MEMO_1",
+    "en": "Here, lemme sign my name... Huh?{SAUT}Whaddya mean you don't need it?",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_MAPPING_MEMO_2",
+    "en": "Huh. That's convenient.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_DOOR_OPEN_1",
+    "en": "'Scuse me.",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_DOOR_OPEN_2",
+    "en": "Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "JUNPEI_DOOR_OPEN_3",
+    "en": "All right! Let's do it!",
+    "fr": ""
+  }
+]

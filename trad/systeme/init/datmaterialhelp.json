@@ -1,0 +1,1507 @@
+[
+  {
+    "id": "material_700",
+    "en": "Sell all materials on hand.",
+    "fr": ""
+  },
+  {
+    "id": "material_701",
+    "en": "A cell phone. Its screen is noticeably{SAUT}cracked. Obtained: Kamoshidaman",
+    "fr": ""
+  },
+  {
+    "id": "material_702",
+    "en": "A decorative light turned on at night.{SAUT}Obtained: Kamoshidaman",
+    "fr": ""
+  },
+  {
+    "id": "material_703",
+    "en": "An analog wristwatch damaged beyond{SAUT}repair. Obtained: Kamoshidaman",
+    "fr": ""
+  },
+  {
+    "id": "material_704",
+    "en": "A superhero figure. Press his back to{SAUT}make him talk. Obtained: Kamoshidaman",
+    "fr": ""
+  },
+  {
+    "id": "material_705",
+    "en": "Piece of a gel-like Shadow.{SAUT}Dropped: Cowardly Maya {f 0 1 2}(T1-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_706",
+    "en": "Eerie stone. A Shadow's remains.{SAUT}Dropped: Cowardly Maya {f 0 1 2}(T1-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_707",
+    "en": "A piece of a rock-like Shadow.{SAUT}Dropped: Selfish Basalt {f 0 1 2}(T1-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_708",
+    "en": "Eerie stone. A Shadow's remains.{SAUT}Dropped: Selfish Basalt {f 0 1 2}(T1-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_709",
+    "en": "A piece of a table-like Shadow.{SAUT}Dropped: Laughing Table {f 0 1 2}(T1-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_70A",
+    "en": "Eerie stone. A Shadow's remains.{SAUT}Dropped: Laughing Table {f 0 1 2}(T1-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_70B",
+    "en": "From a round, big-mouthed Shadow.{SAUT}Dropped: Lying Hablerie {f 0 1 2}(T1-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_70C",
+    "en": "Eerie stone. A Shadow's remains.{SAUT}Dropped: Lying Hablerie {f 0 1 2}(T1-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_70D",
+    "en": "Piece of a scale Shadow.{SAUT}Dropped: Heat Balance {f 0 1 2}(T1-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_70E",
+    "en": "Eerie stone. A Shadow's remains.{SAUT}Dropped: Heat Balance {f 0 1 2}(T1-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_70F",
+    "en": "Piece of a Shadow with a holy tome.{SAUT}Dropped: Spurious Book {f 0 1 2}(T1-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_710",
+    "en": "Eerie stone. A Shadow's remains.{SAUT}Dropped: Spurious Book {f 0 1 2}(T1-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_711",
+    "en": "Piece of a Shadow dressed like a cop.{SAUT}Dropped: Bribed Fuzz {f 0 1 2}(T1-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_712",
+    "en": "Eerie stone. A Shadow's remains.{SAUT}Dropped: Bribed Fuzz {f 0 1 2}(T1-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_713",
+    "en": "Piece of a Shadow dressed like a king.{SAUT}Dropped: Gorgeous King {f 0 1 2}(T1-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_714",
+    "en": "Eerie stone. A Shadow's remains.{SAUT}Dropped: Gorgeous King {f 0 1 2}(T1-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_715",
+    "en": "A piece of a statue-shaped Shadow.{SAUT}Dropped: Creation Relic {f 0 1 2}(T1-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_716",
+    "en": "Eerie stone. A Shadow's remains.{SAUT}Dropped: Creation Relic {f 0 1 2}(T1-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_717",
+    "en": "Piece of a three-headed Shadow.{SAUT}Dropped: Cultic Tower {f 0 1 2}(T1-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_718",
+    "en": "Eerie stone. A Shadow's remains.{SAUT}Dropped: Cultic Tower {f 0 1 2}(T1-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_719",
+    "en": "Sweaty garb of a wrestler Shadow.{SAUT}Dropped: Daring Gigas {f 0 1 2}(T1-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_71A",
+    "en": "Eerie stone. A Shadow's remains.{SAUT}Dropped: Daring Gigas {f 0 1 2}(T1-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_71B",
+    "en": "An extravagantly-decorated crown.{SAUT}Dropped: Gorgeous King {f 0 1 2}(T1-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_71D",
+    "en": "Piece of a red tank-like Shadow.{SAUT}Dropped: Scarlet Turret",
+    "fr": ""
+  },
+  {
+    "id": "material_720",
+    "en": "An emblem on a superhero's chest.{SAUT}Dropped: Super Kamoshidaman",
+    "fr": ""
+  },
+  {
+    "id": "material_722",
+    "en": "A guide to weaving enchanted cloth.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_723",
+    "en": "A guide to creating primal clothing.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_724",
+    "en": "A guide to binding words into clothes.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_725",
+    "en": "A guide to crafting mechanized armor.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_726",
+    "en": "A coin given to one who reports the{SAUT}defiers of a hero. Obtained: Kamoshidaman",
+    "fr": ""
+  },
+  {
+    "id": "material_727",
+    "en": "A coin given to one who smites a{SAUT}hero's foes. Obtained: Kamoshidaman",
+    "fr": ""
+  },
+  {
+    "id": "material_728",
+    "en": "A coin given to one who supported{SAUT}a hero. Obtained: Kamoshidaman",
+    "fr": ""
+  },
+  {
+    "id": "material_72A",
+    "en": "A mysterious stone dropped by{SAUT}a Shadow.",
+    "fr": ""
+  },
+  {
+    "id": "material_72C",
+    "en": "An ancient coin carved from petrified{SAUT}coral. Obtained: Junessic Land",
+    "fr": ""
+  },
+  {
+    "id": "material_72D",
+    "en": "An ancient coin carved out of jade.{SAUT}Obtained: Junessic Land",
+    "fr": ""
+  },
+  {
+    "id": "material_72E",
+    "en": "An ancient coin made using amethyst.{SAUT}Obtained: Junessic Land",
+    "fr": ""
+  },
+  {
+    "id": "material_731",
+    "en": "Stiff hair from a bestial Shadow.{SAUT}Dropped: Enslaved Beast {f 0 1 2}(T2-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_732",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Enslaved Beast {f 0 1 2}(T2-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_733",
+    "en": "A piece of a kimono-clad tree Shadow.{SAUT}Dropped: Inviting Nyogo {f 0 1 2}(T2-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_734",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Inviting Nyogo {f 0 1 2}(T2-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_735",
+    "en": "Fluid from a mildly gelatinous Shadow.{SAUT}Dropped: Desirous Maya {f 0 1 2}(T2-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_736",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Desirous Maya {f 0 1 2}(T2-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_737",
+    "en": "Piece of a small cherubic Shadow.{SAUT}Dropped: Blind Cupid {f 0 1 2}(T2-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_738",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Blind Cupid {f 0 1 2}(T2-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_73A",
+    "en": "Unique ore from a rock-like Shadow.{SAUT}Dropped: Autonomic Basalt {f 0 1 2}(T2-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_73B",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Autonomic Basalt {f 0 1 2}(T2-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_73C",
+    "en": "Piece of a large bird-like Shadow.{SAUT}Dropped: Jupiter Eagle {f 0 1 2}(T2-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_73D",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Jupiter Eagle {f 0 1 2}(T2-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_73E",
+    "en": "A scale from a snake-like Shadow.{SAUT}Dropped: Lustful Snake {f 0 1 2}(T2-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_73F",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Lustful Snake {f 0 1 2}(T2-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_740",
+    "en": "Scales from a swarming Shadow.{SAUT}Dropped: Whimsical Papillon {f 0 1 2}(T2-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_741",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Whimsical Papillon {f 0 1 2}(T2-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_743",
+    "en": "A fossilized piece of a prehistoric{SAUT}creature. Obtained: Junessic Land",
+    "fr": ""
+  },
+  {
+    "id": "material_744",
+    "en": "A natural amber fossil with a yellow{SAUT}tinge. Obtained: Junessic Land",
+    "fr": ""
+  },
+  {
+    "id": "material_745",
+    "en": "A pristine fossil of a prehistoric{SAUT}creature. Obtained: Junessic Land",
+    "fr": ""
+  },
+  {
+    "id": "material_746",
+    "en": "Amber full of preserved insect{SAUT}remains. Obtained: Junessic Land",
+    "fr": ""
+  },
+  {
+    "id": "material_747",
+    "en": "This screw's shape is beyond modern{SAUT}tech capabilities. Obtained: A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "material_748",
+    "en": "This device converts raw garbage into{SAUT}electric power. Obtained: A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "material_749",
+    "en": "A circuit thought to be from a near-{SAUT}future CPU. Obtained: A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "material_74A",
+    "en": "An AI chip with a deviation value{SAUT}over 65. Obtained: A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "material_74B",
+    "en": "A popcorn flavor shining with colors.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_74C",
+    "en": "A popcorn flavor, sweet and sugary.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_74D",
+    "en": "A popcorn flavor with tropical flair.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_74E",
+    "en": "A popcorn flavor, savory and meaty.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_74F",
+    "en": "A guide to making a charming light{SAUT}meal. {f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_750",
+    "en": "A guide to making an exotic light meal.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_751",
+    "en": "A guide to a Gourmet King's light meal.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_752",
+    "en": "A guide to a drink bar's \"muscle blend.\"{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_753",
+    "en": "Piece of a fish-like Shadow.{SAUT}Dropped: Calm Pesce {f 0 1 2}(T2-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_754",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Calm Pesce {f 0 1 2}(T2-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_755",
+    "en": "Piece of an infantile, flowering Shadow.{SAUT}Dropped: Secret Bambino {f 0 1 2}(T2-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_756",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Secret Bambino {f 0 1 2}(T2-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_757",
+    "en": "Piece of a sinister cloud-like Shadow.{SAUT}Dropped: Rainy Brother 2 {f 0 1 2}(T2-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_758",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Rainy Brother 2 {f 0 1 2}(T2-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_759",
+    "en": "Sturdy plate from a scale Shadow.{SAUT}Dropped: Sky Balance {f 0 1 2}(T2-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_75A",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Sky Balance {f 0 1 2}(T2-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_75B",
+    "en": "Piece of a bird Shadow with a lantern.{SAUT}Dropped: Black Raven {f 0 1 2}(T2-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_75C",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Black Raven {f 0 1 2}(T2-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_75D",
+    "en": "Piece of a DNA-like Shadow.{SAUT}Dropped: Happy Gene {f 0 1 2}(T2-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_75E",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Happy Gene {f 0 1 2}(T2-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_75F",
+    "en": "Piece of a Minotaur-like Shadow.{SAUT}Dropped: Minotaur I {f 0 1 2}(T2-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_760",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Minotaur I {f 0 1 2}(T2-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_761",
+    "en": "Piece of a giant bug-shaped Shadow.{SAUT}Dropped: Golden Beetle {f 0 1 2}(T2-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_762",
+    "en": "Demonic crystal. A Shadow's remains.{SAUT}Dropped: Golden Beetle {f 0 1 2}(T2-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_763",
+    "en": "A sturdy horn with a stately shape.{SAUT}Dropped: Golden Beetle {f 0 1 2}(T2-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_764",
+    "en": "Thin oil from a gelatinous Shadow.{SAUT}Dropped: Frivolous Maya {f 0 1 2}(T3-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_765",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Frivolous Maya {f 0 1 2}(T3-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_766",
+    "en": "A gear held by a wheel Shadow.{SAUT}Dropped: Mach Wheel {f 0 1 2}(T3-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_767",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Mach Wheel {f 0 1 2}(T3-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_768",
+    "en": "Piece of a Shadow with lance arms.{SAUT}Dropped: Rampage Drive {f 0 1 2}(T3-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_769",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Rampage Drive {f 0 1 2}(T3-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_76A",
+    "en": "Piece of a hooded mage-like Shadow.{SAUT}Dropped: Phantom Mage {f 0 1 2}(T3-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_76B",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Phantom Mage {f 0 1 2}(T3-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_76C",
+    "en": "Piece of an hourglass-shaped Shadow.{SAUT}Dropped: Flowing Sand {f 0 1 2}(T3-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_76D",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Flowing Sand {f 0 1 2}(T3-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_76E",
+    "en": "Crown of a three-headed Shadow.{SAUT}Dropped: Apostate Tower {f 0 1 2}(T3-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_76F",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Apostate Tower {f 0 1 2}(T3-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_770",
+    "en": "The chassis of a tank-like Shadow.{SAUT}Dropped: Roaring Turret {f 0 1 2}(T3-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_771",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Roaring Turret {f 0 1 2}(T3-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_772",
+    "en": "Piece of a die-shaped Shadow.{SAUT}Dropped: Iron Dice {f 0 1 2}(T3-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_773",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Iron Dice {f 0 1 2}(T3-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_774",
+    "en": "A giant spike within a statue Shadow.{SAUT}Dropped: Constancy Relic {f 0 1 2}(T3-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_775",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Constancy Relic {f 0 1 2}(T3-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_776",
+    "en": "Piece of a rocky castle-like Shadow.{SAUT}Dropped: Power Castle {f 0 1 2}(T3-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_777",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Power Castle {f 0 1 2}(T3-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_778",
+    "en": "Piece of a Shadow with magic sheets.{SAUT}Dropped: Blue Sigil {f 0 1 2}(T3-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_779",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Blue Sigil {f 0 1 2}(T3-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_77A",
+    "en": "Helical appendage of a DNA Shadow.{SAUT}Dropped: Fail Gene {f 0 1 2}(T3-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_77B",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Fail Gene {f 0 1 2}(T3-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_77C",
+    "en": "Piece of a blade-bearing arm Shadow.{SAUT}Dropped: Justice Sword {f 0 1 2}(T3-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_77D",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Justice Sword {f 0 1 2}(T3-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_77E",
+    "en": "Piece of a Shadow tied upside-down.{SAUT}Dropped: Fierce Cyclops {f 0 1 2}(T3-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_77F",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Fierce Cyclops {f 0 1 2}(T3-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_780",
+    "en": "Piece of a turret-mounted Shadow.{SAUT}Dropped: Dismayed Panzer {f 0 1 2}(T3-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_781",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Dismayed Panzer {f 0 1 2}(T3-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_782",
+    "en": "Sweaty mask of a wrestler Shadow.{SAUT}Dropped: Immortal Gigas {f 0 1 2}(T3-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_783",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Immortal Gigas {f 0 1 2}(T3-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_784",
+    "en": "Eye plate of a die-shaped Shadow.{SAUT}Dropped: Mind Dice {f 0 1 2}(T3-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_785",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Mind Dice {f 0 1 2}(T3-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_786",
+    "en": "Piece of a giant humanoid Shadow.{SAUT}Dropped: Guardian Machine {f 0 1 2}(T3-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_787",
+    "en": "Nucleus left after a Shadow's death.{SAUT}Dropped: Guardian Machine {f 0 1 2}(T3-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_788",
+    "en": "A conspicuous and bulky iron plate.{SAUT}Dropped: Guardian Machine {f 0 1 2}(T3-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_789",
+    "en": "Iron frame of a table-shaped Shadow.{SAUT}Dropped: Sleeping Table {f 0 1 2}(T4-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_78A",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Sleeping Table {f 0 1 2}(T4-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_78B",
+    "en": "Piece of a Shadow inside a pot.{SAUT}Dropped: Rainy Pot {f 0 1 2}(T4-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_78C",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Rainy Pot {f 0 1 2}(T4-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_78D",
+    "en": "Piece of two linked zombie Shadows.{SAUT}Dropped: Trance Twins {f 0 1 2}(T4-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_78E",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Trance Twins {f 0 1 2}(T4-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_78F",
+    "en": "Piece of a Shadow sitting on a gate.{SAUT}Dropped: Shallow Okina {f 0 1 2}(T4-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_790",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Shallow Okina {f 0 1 2}(T4-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_791",
+    "en": "A stiff rod supporting a scale Shadow.{SAUT}Dropped: Light Balance {f 0 1 2}(T4-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_792",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Light Balance {f 0 1 2}(T4-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_793",
+    "en": "Sweet fluid from a gelatinous Shadow.{SAUT}Dropped: Devious Maya {f 0 1 2}(T2-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_794",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Devious Maya {f 0 1 2}(T4-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_795",
+    "en": "Appendage from a big-mouthed Shadow.{SAUT}Dropped: Flattering Hablerie {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_796",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Flattering Hablerie {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_797",
+    "en": "Intricate cover from a Shadow's tome.{SAUT}Dropped: Maniacal Book {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_798",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Maniacal Book {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_799",
+    "en": "Piece of a meditating Shadow.{SAUT}Dropped: Tranquil Idol {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_79A",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Tranquil Idol {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_79B",
+    "en": "Organ from a large bird-like Shadow.{SAUT}Dropped: Eternal Eagle {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_79C",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Eternal Eagle {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_79D",
+    "en": "Sensory organ of a snake Shadow.{SAUT}Dropped: Amorous Snake {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_79E",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Amorous Snake {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_79F",
+    "en": "Sensory organ of a swarming Shadow.{SAUT}Dropped: Pure Papillon {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7A0",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Pure Papillon {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7A1",
+    "en": "Undergarment of a minotaur Shadow.{SAUT}Dropped: Minotaur II {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7A2",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Minotaur II {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7A3",
+    "en": "Piece of an eerily-swaying doll Shadow.{SAUT}Dropped: Protective Lexy {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7A4",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Protective Lexy {f 0 1 2}(T4-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7A5",
+    "en": "Piece of a robed spellcaster Shadow.{SAUT}Dropped: Wondrous Magus {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7A6",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Wondrous Magus {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7A7",
+    "en": "Piece of a queenly Shadow on a sofa.{SAUT}Dropped: Elegant Mother {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7A8",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Elegant Mother {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7A9",
+    "en": "Piece of a mounted knight Shadow.{SAUT}Dropped: Intrepid Knight {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7AA",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Intrepid Knight {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7AB",
+    "en": "Piece of a Shadow wielding a rapier.{SAUT}Dropped: Soul Dancer {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7AC",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Soul Dancer {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7AD",
+    "en": "Condensed moisture of a mist Shadow.{SAUT}Dropped: Rainy Brother 1 {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7AE",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Rainy Brother 1 {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7AF",
+    "en": "Piece of a Shadow with a large head.{SAUT}Dropped: Soul Seeker {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7B0",
+    "en": "Precious jewel. A Shadow's remains.{SAUT}Dropped: Soul Seeker {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7B1",
+    "en": "A squishy eyeball with a fierce glint.{SAUT}Dropped: Soul Seeker {f 0 1 2}(T4-5F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7B2",
+    "en": "An organ a fish Shadow uses to float.{SAUT}Dropped: Pursuing Pesce {f 0 1 2}(T5-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7B3",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Pursuing Pesce {f 0 1 2}(T5-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7B4",
+    "en": "Golden veneer from a statue Shadow.{SAUT}Dropped: Change Relic {f 0 1 2}(T5-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7B5",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Change Relic {f 0 1 2}(T5-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7B6",
+    "en": "Notepad and badge of a lawman Shadow.{SAUT}Dropped: Chaos Fuzz {f 0 1 2}(T5-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7B7",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Chaos Fuzz {f 0 1 2}(T5-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7B8",
+    "en": "Gold eye fluid of a gelatinous Shadow.{SAUT}Dropped: Insidious Maya {f 0 1 2}(T5-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7B9",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Insidious Maya {f 0 1 2}(T5-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7BA",
+    "en": "Light from a bird Shadow's lantern.{SAUT}Dropped: Amenti Raven {f 0 1 2}(T5-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7BB",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Amenti Raven {f 0 1 2}(T5-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7BC",
+    "en": "A shaft for a wheel Shadow's movement.{SAUT}Dropped: Battle Wheel {f 0 1 2}(T5-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7BD",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Battle Wheel {f 0 1 2}(T5-1F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7BE",
+    "en": "Hard ore from a rocklike Shadow.{SAUT}Dropped: Idle Basalt {f 0 1 2}(T5-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7BF",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Idle Basalt {f 0 1 2}(T5-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7C0",
+    "en": "Column from a three-headed Shadow.{SAUT}Dropped: Grudge Tower {f 0 1 2}(T5-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7C1",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Grudge Tower {f 0 1 2}(T5-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7C2",
+    "en": "Smoking pipe of a treelike Shadow.{SAUT}Dropped: Valuing Nyogo {f 0 1 2}(T5-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7C3",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Valuing Nyogo {f 0 1 2}(T5-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7C4",
+    "en": "A decoration on a scale-like Shadow.{SAUT}Dropped: World Balance {f 0 1 2}(T5-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7C5",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: World Balance {f 0 1 2}(T5-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7C6",
+    "en": "Crystal tear of a shackled Shadow.{SAUT}Dropped: Rebellious Cyclops {f 0 1 2}(T5-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7C7",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Rebellious Cyclops {f 0 1 2}(T5-2F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7C8",
+    "en": "A cloth veil over a Shadow's mouth.{SAUT}Dropped: Vehement Idol {f 0 1 2}(T5-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7C9",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Vehement Idol {f 0 1 2}(T5-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7CA",
+    "en": "Blooming flower of an infantile Shadow.{SAUT}Dropped: Free Bambino {f 0 1 2}(T5-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7CB",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Free Bambino {f 0 1 2}(T5-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7CC",
+    "en": "Small wing of a cherubic Shadow.{SAUT}Dropped: Devoted Cupid {f 0 1 2}(T5-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7CD",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Devoted Cupid {f 0 1 2}(T5-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7CE",
+    "en": "Written glyphs of a mage-like Shadow.{SAUT}Dropped: Phantom Master {f 0 1 2}(T5-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7CF",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Phantom Master {f 0 1 2}(T5-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7D0",
+    "en": "Plate from a die-shaped Shadow.{SAUT}Dropped: Platinum Dice {f 0 1 2}(T5-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7D1",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Platinum Dice {f 0 1 2}(T5-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7D2",
+    "en": "Genetic map of a DNA-like Shadow.{SAUT}Dropped: Next Gene {f 0 1 2}(T5-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7D3",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Next Gene {f 0 1 2}(T5-3F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7D4",
+    "en": "Handkerchief of a womanly Shadow.{SAUT}Dropped: Divine Mother {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7D5",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Divine Mother {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7D6",
+    "en": "A bell atop a castle-like Shadow.{SAUT}Dropped: King Castle {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7D7",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: King Castle {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7D8",
+    "en": "Cursed mark carved into an arm Shadow.{SAUT}Dropped: Doom Sword {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7D9",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Doom Sword {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7DA",
+    "en": "Piece of a stone Shadow with a sword.{SAUT}Dropped: Order Giant {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7DB",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Order Giant {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7DC",
+    "en": "Piece of a Shadow on a wooden horse.{SAUT}Dropped: Jotun of Grief {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7DD",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Jotun of Grief {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7DE",
+    "en": "Tuft of hair from a kingly Shadow.{SAUT}Dropped: Baleful King {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7DF",
+    "en": "An odd dinosaur's skin. Transforms in{SAUT}dire moments. Dropped: Yosukesaurus",
+    "fr": ""
+  },
+  {
+    "id": "material_7E0",
+    "en": "A master plan that conceals the writer's{SAUT}true agenda. Dropped: Mother Computer",
+    "fr": ""
+  },
+  {
+    "id": "material_7E1",
+    "en": "A simple mask. Your heart dictates{SAUT}your impression of it. Dropped: Doe",
+    "fr": ""
+  },
+  {
+    "id": "material_7E2",
+    "en": "A hidden cache dropped by a Shadow.{SAUT}Dropped: Baleful King {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7E3",
+    "en": "A stone that opens a path to one's{SAUT}destination. Obtained: ",
+    "fr": ""
+  },
+  {
+    "id": "material_7E4",
+    "en": "A straw model of a brain filled with{SAUT}knowledge. Obtained: ",
+    "fr": ""
+  },
+  {
+    "id": "material_7E5",
+    "en": "A model heart. Pounds near moving{SAUT}scenery or music. Obtained: ",
+    "fr": ""
+  },
+  {
+    "id": "material_7E6",
+    "en": "Hair of the courageous. Stands on end.{SAUT}Obtained: ",
+    "fr": ""
+  },
+  {
+    "id": "material_7E7",
+    "en": "A pristine white book that records all{SAUT}possibilities. Obtained: Theater District",
+    "fr": ""
+  },
+  {
+    "id": "material_7E8",
+    "en": "A storyboard. Gives life to whatever's{SAUT}written on it. Obtained: Theater District",
+    "fr": ""
+  },
+  {
+    "id": "material_7E9",
+    "en": "A schedule of tasks and their time{SAUT}slots. Obtained: Theater District",
+    "fr": ""
+  },
+  {
+    "id": "material_7EA",
+    "en": "A script blotted by the writer and actor's{SAUT}feelings. Obtained: Theater District",
+    "fr": ""
+  },
+  {
+    "id": "material_7EB",
+    "en": "An electronic cash card with 1MB{SAUT}of space. Obtained: A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "material_7EC",
+    "en": "An electronic cash card with 1GB{SAUT}of space. Obtained: A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "material_7ED",
+    "en": "An electronic cash card with 1TB{SAUT}of space. Obtained: A.I.G.I.S.",
+    "fr": ""
+  },
+  {
+    "id": "material_7EE",
+    "en": "A guide to tech beyond modern{SAUT}science. Dropped: Overseer",
+    "fr": ""
+  },
+  {
+    "id": "material_7EF",
+    "en": "A guide to finding a labyrinth's entrance.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7F0",
+    "en": "A guide to drink volume with less flavor{SAUT}loss. {f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7F1",
+    "en": "A guide to a drink poured over one's head.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7F2",
+    "en": "A guide to a miracle health drink.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7F3",
+    "en": "Prescription for Bind-curing medicine.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7F4",
+    "en": "Prescription for pills imparting a savior's{SAUT}will. {f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7F5",
+    "en": "A guide to cooking a live phoenix.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7F6",
+    "en": "Text detailing one of ten sacred treasures.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7F7",
+    "en": "A guide to calling back a severed soul.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7F8",
+    "en": "A guide to enduring harsh temperatures.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7F9",
+    "en": "A guide to opposing the forces of nature.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7FA",
+    "en": "A guide to scientifically unproven power.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7FB",
+    "en": "A guide to repurifying a mystic power.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7FC",
+    "en": "A guide to phantom thief-like tools.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7FD",
+    "en": "A guide to the balance of light and dark.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7FE",
+    "en": "A guide to acquiring divine protection.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_7FF",
+    "en": "A guide to a handy tool for escaping.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_800",
+    "en": "Guide that surpasses modern science.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_801",
+    "en": "A score for Shadow-altering music.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_802",
+    "en": "A long score for Shadow-altering music.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_803",
+    "en": "A guide to a labyrinth-manipulating tool.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_804",
+    "en": "A guide to a soul-invigorating candy.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_805",
+    "en": "A guide to a soul-enriching dessert.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_806",
+    "en": "A guide to a soul-nourishing potion.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_807",
+    "en": "Guide to infusing bullets with elemental{SAUT}power. {f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_808",
+    "en": "Recipe for a popular treat in the dream{SAUT}world. {f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_809",
+    "en": "Only someone adult at heart can read{SAUT}this book. Dropped: Baleful King {f 0 1 2}(T5-4F){f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_80A",
+    "en": "A guide to a natural actor's outfit.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_80B",
+    "en": "A guide to an entrancing outfit.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_80C",
+    "en": "A guide to a strangely soothing outfit.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_810",
+    "en": "A medium that records all possibilities.{SAUT}{f 0 1 3}Adds new items to shop when sold.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "material_812",
+    "en": "Touching this crystal inspires beautiful{SAUT}music. Obtained: ",
+    "fr": ""
+  },
+  {
+    "id": "material_813",
+    "en": "Touching this crystal inspires spirited{SAUT}music. Obtained: ",
+    "fr": ""
+  },
+  {
+    "id": "material_814",
+    "en": "Touching this crystal inspires exquisite{SAUT}music. Obtained: ",
+    "fr": ""
+  },
+  {
+    "id": "material_815",
+    "en": "For one who's impressed an audience.{SAUT}Obtained: Theater District",
+    "fr": ""
+  },
+  {
+    "id": "material_816",
+    "en": "For one who's impressed a grand{SAUT}audience. Obtained: Theater District",
+    "fr": ""
+  },
+  {
+    "id": "material_817",
+    "en": "For one who's impressed a worldwide{SAUT}audience. Obtained: Theater District",
+    "fr": ""
+  },
+  {
+    "id": "material_819",
+    "en": "A scrap of a prominent, vivid red{SAUT}crest. Dropped: Chicken Kid",
+    "fr": ""
+  },
+  {
+    "id": "material_81A",
+    "en": "A sturdy backpack, seen in many{SAUT}classrooms. Dropped: Buster Girl",
+    "fr": ""
+  },
+  {
+    "id": "material_81B",
+    "en": "A gorgeous false nail. Comes in{SAUT}32 colors. Dropped: Seidoptera",
+    "fr": ""
+  },
+  {
+    "id": "material_81C",
+    "en": "Pompous fake eyelashes. Surprisingly{SAUT}thick. Dropped: Tyranniqueen",
+    "fr": ""
+  },
+  {
+    "id": "material_81D",
+    "en": "Storage device for records of space.{SAUT}Dropped: SCM-8801",
+    "fr": ""
+  },
+  {
+    "id": "material_81E",
+    "en": "Storage device for records of all{SAUT}humanity's mistakes. Dropped: SCM-9821",
+    "fr": ""
+  },
+  {
+    "id": "material_81F",
+    "en": "A tale of one who failed to conform to{SAUT}authority. Dropped: Mr. Lumberjack",
+    "fr": ""
+  },
+  {
+    "id": "material_820",
+    "en": "A tale of one who failed to conform to{SAUT}their friends. Dropped: Mr. Bear",
+    "fr": ""
+  },
+  {
+    "id": "material_821",
+    "en": "A tale of one who failed to conform to{SAUT}society. Dropped: Dwarven Family",
+    "fr": ""
+  },
+  {
+    "id": "material_822",
+    "en": "A string mixed with so many colors,{SAUT}it turned black. Dropped: Phunbaba",
+    "fr": ""
+  },
+  {
+    "id": "material_823",
+    "en": "A string mixed with so many colors,{SAUT}it turned white. Dropped: Namtaru",
+    "fr": ""
+  },
+  {
+    "id": "material_824",
+    "en": "Proof of victory over the being in{SAUT}humanity's shadow. Dropped: The Reaper",
+    "fr": ""
+  },
+  {
+    "id": "material_84A",
+    "en": "A small toy bear in vintage condition.{SAUT}It sells for a surprisingly high price.",
+    "fr": ""
+  },
+  {
+    "id": "material_84B",
+    "en": "A mysterious scope. Its colorful patterns{SAUT}invoke feelings of nostalgia.",
+    "fr": ""
+  },
+  {
+    "id": "material_84C",
+    "en": "A clay statue figurine that was{SAUT}a common sight a long time ago.",
+    "fr": ""
+  },
+  {
+    "id": "material_84D",
+    "en": "An inscrutable box. No amount of study{SAUT}can clarify the technology within.",
+    "fr": ""
+  },
+  {
+    "id": "material_84E",
+    "en": "Corn kernels that are clearly damp{SAUT}with moisture.",
+    "fr": ""
+  },
+  {
+    "id": "material_84F",
+    "en": "Corn kernels that give you that{SAUT}little jolt of static energy.",
+    "fr": ""
+  },
+  {
+    "id": "material_860",
+    "en": "A chunk of a rocklike Shadow.{SAUT}Large samples fetch high prices.",
+    "fr": ""
+  },
+  {
+    "id": "material_861",
+    "en": "A fruit with a sweet aroma. Smells{SAUT}more edible than its looks suggest.",
+    "fr": ""
+  },
+  {
+    "id": "material_862",
+    "en": "Machinery made with parts totally{SAUT}unfamiliar, even to experts.",
+    "fr": ""
+  },
+  {
+    "id": "material_864",
+    "en": "A jungle plant that smells vaguely{SAUT}of freshly-brushed teeth.",
+    "fr": ""
+  },
+  {
+    "id": "material_865",
+    "en": "A jungle plant that secretes a sticky{SAUT}fluid with medicinal properties.",
+    "fr": ""
+  },
+  {
+    "id": "material_866",
+    "en": "A sturdy ore taken from a moving{SAUT}castle.",
+    "fr": ""
+  },
+  {
+    "id": "material_867",
+    "en": "Machine parts that seem like they'd{SAUT}see a lot of use in futuristic tech.",
+    "fr": ""
+  },
+  {
+    "id": "material_868",
+    "en": "Unused",
+    "fr": ""
+  },
+  {
+    "id": "material_869",
+    "en": "Unused",
+    "fr": ""
+  },
+  {
+    "id": "material_86A",
+    "en": "Unused",
+    "fr": ""
+  },
+  {
+    "id": "material_86B",
+    "en": "Unused",
+    "fr": ""
+  },
+  {
+    "id": "material_86C",
+    "en": "Unused",
+    "fr": ""
+  },
+  {
+    "id": "material_86D",
+    "en": "Unused",
+    "fr": ""
+  },
+  {
+    "id": "material_86E",
+    "en": "Unused",
+    "fr": ""
+  },
+  {
+    "id": "material_86F",
+    "en": "Machinery made with next-generation{SAUT}technology that some may recognize.",
+    "fr": ""
+  },
+  {
+    "id": "material_870",
+    "en": "Various glittering treasures that{SAUT}a pterosaur has collected.",
+    "fr": ""
+  },
+  {
+    "id": "material_871",
+    "en": "Large fern located in the jungle.{SAUT}Smells a bit like cinnamon.",
+    "fr": ""
+  }
+]

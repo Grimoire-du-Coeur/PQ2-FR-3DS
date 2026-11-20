@@ -1,0 +1,49 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Hikari",
+    "en": "There! Right by that hole!{PAGE}Huh? Wait up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "The butterfly went through the{SAUT}hole...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "Grrr! That butterfly doesn't know{SAUT}when to give up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "Maybe it saw all the people here{SAUT}and got scared...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "I want to chase it down, but we{SAUT}can't get down from here.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Lets make a detour.{OPTION}Let's find the switch.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "Right. If we go to the lower floor,{SAUT}I'm sure we can find it again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "All right! Then let's look for a{SAUT}switch and follow it!",
+    "fr": ""
+  }
+]

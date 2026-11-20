@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "I've got two FOE readings! Just like they{SAUT}said.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "All right, no use thinkin' about it. We{SAUT}start with one then nail the other!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "It's up to you which one we hit first. Be{SAUT}sure to keep an eye on the map when{SAUT}picking your fights!",
+    "fr": ""
+  }
+]

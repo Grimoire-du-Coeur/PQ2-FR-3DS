@@ -1,0 +1,85 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Hikari",
+    "en": "Look! Over there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukari",
+    "en": "Whoa! Isn't that one a little too big!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Such majesty... I can feel an aura{SAUT}of resplendent dignity...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Let's catch it.{OPTION}Get to work, Skull!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Yeah, if anything is gonna be Zabby's{SAUT}lunker, it's this huge boy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Oh, sure, lemme just roll up and―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Wait, why me!? You want me to{SAUT}handle this alone...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Whoa, Skull's all scared over a{SAUT}butterfly?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Hey, I'm not! I'm just on the spot{SAUT}here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Oh!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "The butterfly flew away...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yukari",
+    "en": "There it goes... It really was gigantic.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "Looks like it went through that hole{SAUT}up there. Should we chase it down?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "A bug that big doesn't come along{SAUT}every day. We might not get another{SAUT}chance.{PAGE}Use that switch there! Let's catch it!",
+    "fr": ""
+  }
+]

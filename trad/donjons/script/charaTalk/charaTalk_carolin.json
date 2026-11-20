@@ -1,0 +1,150 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "CARO_MSG_005",
+    "en": "Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "JUS_MSG_005",
+    "en": "Very nice.",
+    "fr": ""
+  },
+  {
+    "id": "CARO_MSG_006",
+    "en": "I suppose that's fine.",
+    "fr": ""
+  },
+  {
+    "id": "JUS_MSG_006",
+    "en": "Good work.",
+    "fr": ""
+  },
+  {
+    "id": "CARO_MSG_007",
+    "en": "Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "JUS_MSG_007",
+    "en": "That's not too bad.",
+    "fr": ""
+  },
+  {
+    "id": "CARO_MSG_009",
+    "en": "A good find!",
+    "fr": ""
+  },
+  {
+    "id": "JUS_MSG_009",
+    "en": "Is that...!?",
+    "fr": ""
+  },
+  {
+    "id": "CARO_MSG_010",
+    "en": "That's not bad at all! ",
+    "fr": ""
+  },
+  {
+    "id": "JUS_MSG_010",
+    "en": "Wonderful...",
+    "fr": ""
+  },
+  {
+    "id": "CARO_MSG_011",
+    "en": "I'll allow you to be praised!",
+    "fr": ""
+  },
+  {
+    "id": "JUS_MSG_011",
+    "en": "You shall be praised.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Caroline",
+    "en": "ヤバそうな雰囲気だがどうする?{SAUT}(戦闘オタカラスポット 発見MSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Caroline",
+    "en": "探してみよう{SAUT}(戦闘オタカラスポット 探すMSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Caroline",
+    "en": "今回はやめておこう{SAUT}(戦闘オタカラスポット やめるMSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Caroline",
+    "en": "危なかったな{SAUT}(戦闘オタカラスポット 戦闘終了MSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Caroline",
+    "en": "ここはシャドウの気配が強いな。{SAUT}まわりにシャドウがいそうだが、どうする？{SAUT}(雑魚戦闘オタカラスポット 発見MSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Caroline",
+    "en": "いたぞ、シャドウだ！{SAUT}(雑魚戦闘オタカラスポット 探すMSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Caroline",
+    "en": "そうだな、行こう{SAUT}(雑魚戦闘オタカラスポット やめるMSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Caroline",
+    "en": "ふーあぶなかった。あっ、なんか落ちてる！{SAUT}(雑魚戦闘オタカラスポット 戦闘終了MSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Caroline",
+    "en": "出入り口がある。{SAUT}戻るか？{SAUT}(出入り口MSG（仮）)",
+    "fr": ""
+  },
+  {
+    "id": "CARO_MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  },
+  {
+    "id": "JUS_MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

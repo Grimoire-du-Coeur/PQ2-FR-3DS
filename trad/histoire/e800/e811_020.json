@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "All right, guys. First, we'll need to come{SAUT}up with a plan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "Ooh, that sounds like something a{SAUT}phantom thief would say. He looks so{SAUT}into it too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukiko",
+    "en": "Is this where he really shines?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Well, Mona usually plans things out,{SAUT}then the team follows his lead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Didn't you just recently get into a huge{SAUT}fight with him?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Uh, well... I had a lot to think about!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Kanji",
+    "en": "...Somethin' happen between 'em?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "Difference of opinion.{OPTION}A lot.{OPTION}You should apologize to Mona.{OPTION}They were both at fault.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Huh... Y'know, somethin' feels kinda off{SAUT}when you word it nicely like that.{PAGE}I dunno... I wasn't thinkin' all that{SAUT}straight at the time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Yeah...{PAGE}I really gotta learn to stop flyin' off the{SAUT}handle so easily...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Aagh... C'mon, I said I was sorry.{PAGE}Matter of fact, you were there, Joker!{SAUT}You saw me apologize!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Nah. The whole thing fell apart 'cause{SAUT}I flew off the handle...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "...Come to think of it, it was kind of our{SAUT}fault too.{PAGE}We thought it was just another ordinary{SAUT}fight, so we didn't do anything to stop it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "...Well, it turned out all right, yes?{SAUT}There will always be times when{SAUT}you disagree.{PAGE}However, it's through overcoming{SAUT}those conflicts that you learn to truly{SAUT}trust one another.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Haru",
+    "en": "Yeah, slowly but surely you'll come to{SAUT}understand each other.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Makoto",
+    "en": "*chuckle* This became a rather serious{SAUT}discussion, didn't it?{PAGE}We'll keep working together as a team,{SAUT}but we have to find our target first...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yukiko",
+    "en": "Let's see... We need to find where{SAUT}they're hiding those crowns.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Where would a Seidoptera hide its{SAUT}treasure...? Any ideas, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Near its territory.{OPTION}In a Treasure Spot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Naoto",
+    "en": "Good point. I imagine it would hide its{SAUT}treasure somewhere it can keep under{SAUT}close watch.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Naoto",
+    "en": "Ah, so it conceals it within a Treasure{SAUT}Spot then protects the surrounding{SAUT}area... It's certainly possible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "All right, sounds like finding a{SAUT}Seidoptera first is our best bet.{PAGE}Seidopteras are FOEs, so you should be{SAUT}able to see them on your map.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Rise",
+    "en": "There's two of them. So I'm guessing{SAUT}each one has a treasure?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ryuji",
+    "en": "Well, we'll know once we get there.{PAGE}All right, let's go scope out those{SAUT}Seidopteras!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Chie",
+    "en": "Yeah! Let's get a move on!",
+    "fr": ""
+  }
+]

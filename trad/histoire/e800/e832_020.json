@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Teddie",
+    "en": "Now, who needs encouraging? I'm{SAUT}ready to cheer some people up with my{SAUT}girly cuteness!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "Teddie, that heavy breathing is really{SAUT}creepy.{PAGE}Try to calm down, okay? We're gonna{SAUT}need you for this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "It's interesting... I wonder why we of all{SAUT}people were chosen...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Aigis",
+    "en": "According to Skull-san, you are known{SAUT}as the Beauty Thief.{PAGE}That seems to be the reason you were{SAUT}chosen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": " Um, well... that's just a name I use to{SAUT}hide my real identity!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "Oooh! That's so stylish!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Aigis",
+    "en": "If we consider the possibility that we{SAUT}were all chosen for specific reasons...{PAGE}Then, it makes sense that Rise-san{SAUT}was chosen because of her work as an{SAUT}idol.{PAGE}As for me, it is likely that I was chosen{SAUT}through the process of elimination.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Rise",
+    "en": "Process of elimination?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Aigis",
+    "en": "-san was likely{SAUT}removed as a candidate because she{SAUT}comes from another world.{PAGE}And according to the simulations I ran{SAUT}for Mitsuru-san, Yukari-san, and{SAUT}Fuuka-san...{PAGE}There was a 99% probability that they{SAUT}would have either refused to participate{SAUT}or just left altogether.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Haru",
+    "en": "But that isn't to say you're not{SAUT}beautiful yourself, Aigis-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Teddie",
+    "en": "That's right. Ai-chan, Rise-chan, Noir...{SAUT}All of you are very, very pretty!{PAGE}But I shall surpass you, and then I will{SAUT}become the Girl Talk King!{PAGE}Hrm, hrm, hrm... I'll learn all the best{SAUT}beauty secrets and become a beauty{SAUT}myself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "*giggle* Good luck, Teddie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Rise",
+    "en": "Just don't forget that our mission is to{SAUT}encourage the people here, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Aigis",
+    "en": "In that case, should we relocate to an{SAUT}area where people are known to gather?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Haru",
+    "en": "The best place for that would probably{SAUT}be Kamoshida Square, wouldn't it?{PAGE}Let's head over that way for now.",
+    "fr": ""
+  }
+]

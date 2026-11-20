@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "These special screenings have been{SAUT}one masterpiece after another...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "locuteur": "Elizabeth",
+    "en": "As I sit and observe your exploits,{SAUT}I have been consuming popcorn{SAUT}at near-mach speeds.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "*giggle* Well, I suppose we have{SAUT}completed a fair number of them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "And now, the time has come once{SAUT}more for a very special screening!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Ah, then... another task that calls{SAUT}for a specific cast.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "Yes. Exactly correct.{PAGE}It would seem a vicious new enemy{SAUT}has emerged in the depths of{SAUT}Junessic Land...{PAGE}Your task will be to slay this Shadow.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Again?{OPTION}About time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Elizabeth",
+    "en": "My, I never imagined you would react{SAUT}so grumpily. I hope this sour expression{SAUT}begets sweet results.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Man, this lady won't take no{SAUT}for an answer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Elizabeth",
+    "en": "I do appreciate your patience. Indeed,{SAUT}I've been looking forward to this{SAUT}myself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "So, does {f 6 1 29 0 0 0}-kun have to fight{SAUT}this one too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elizabeth",
+    "en": "Absolutely, undeniably, exactly wrong.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_1",
+    "locuteur": "Elizabeth",
+    "en": "Lo and behold, the ticket for this{SAUT}showing reads: \"Cast: {f 6 1 13 0 0 0}.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P4 Hero",
+    "en": "Me...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Elizabeth",
+    "en": "I ask that you ensure {f 6 1 13 0 0 0}{SAUT}participates in this battle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "All right. I'll do what I can.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Makoto",
+    "en": "And once we win against this Shadow?{SAUT}Will we be fighting Theodore again?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elizabeth",
+    "en": "Well, I couldn't ruin the surprise waiting{SAUT}behind the proverbial door number{SAUT}two. Please use your imagination.{PAGE}First, please focus on bringing your{SAUT}strength to bear against this deadly{SAUT}foe.{PAGE}Good luck to you all.",
+    "fr": ""
+  }
+]

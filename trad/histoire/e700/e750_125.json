@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Whoa!? What was that noise!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Perhaps that FOE {f 0 1 2}destroyed the debris{f 0 1 0}{SAUT}that we saw earlier?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "I'll check on that for you. Let's see...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Fuuka",
+    "en": "Wow, incredible! All that debris really{SAUT}did get blown away!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Man, that thing really is too strong.{SAUT}If it ever catches us, we're done for...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Don't worry. We just need to make sure{SAUT}we stay well ahead of it.{PAGE}Furthermore, we know now that{SAUT}{f 0 1 2}blocked paths can be opened up{SAUT}if we make use of that FOE{f 0 1 0}.{PAGE}When we come across a path obstructed{SAUT}with debris, we can get rid of it the same{SAUT}way we just did.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Right. When the time comes, make sure{SAUT}you lure the FOE towards the debris,{SAUT}Joker!",
+    "fr": ""
+  }
+]

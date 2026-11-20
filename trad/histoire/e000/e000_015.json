@@ -1,0 +1,78 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "...ey.{PAGE}...eey, get up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Geez, you're finally awake. Class has{SAUT}been over for a while now...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "I'm not in a theater anymore?{OPTION}That butterfly...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Are you still half-asleep or something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Butterfly? What are you talking about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "My head feels like it's spinning...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "Hey, are you sure you're feeling okay?{SAUT}Did you have some kind of weird{SAUT}dream?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "en": "Shujin High, Classroom 2-D...{PAGE}I guess I fell asleep...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "Well, now that you're up, let's get back{SAUT}home―we need to figure out our plans{SAUT}for the rest of the day!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "Fine, fine.{OPTION}I'm still sleepy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "The whole day's gonna blow by if we{SAUT}keep fooling around here. You need{SAUT}to make better use of your time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "Then again, an awful lot's been going{SAUT}on lately―maybe all that hard work's{SAUT}finally catching up to you...{PAGE}I've got your back, so just hang in there,{SAUT}all right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "Now, let's get out of here!",
+    "fr": ""
+  }
+]

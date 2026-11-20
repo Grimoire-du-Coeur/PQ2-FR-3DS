@@ -1,0 +1,385 @@
+[
+  {
+    "id": "MSG_BEST_1_1",
+    "locuteur": "P4 Hero",
+    "en": "I'm feeling up to the task. Mind if I join{SAUT}the fight?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_1_2",
+    "locuteur": "P4 Hero",
+    "en": "Mind if I get in on the action? I'm in{SAUT}good shape right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_2_1",
+    "locuteur": "P3 Hero",
+    "en": "Do you think I could join you? I feel like{SAUT}I'll do better than usual.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_2_2",
+    "locuteur": "P3 Hero",
+    "en": "I feel like I'm in good shape. Mind if I{SAUT}come with you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_3_1",
+    "locuteur": "Yosuke",
+    "en": "Hey, mind bringing me along? I'm on a{SAUT}roll right now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_3_2",
+    "locuteur": "Yosuke",
+    "en": "Heh, I feel unstoppable! Bring me along{SAUT}and you won't be disappointed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_4_1",
+    "locuteur": "Chie",
+    "en": "I'm pumped up and ready to bring the{SAUT}\"BAM\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_4_2",
+    "locuteur": "Chie",
+    "en": "Hiiiyah! My meat gauge is full! Lemme{SAUT}at 'em!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_5_1",
+    "locuteur": "Yukiko",
+    "en": "Hey, let me fight too. I feel like I'm in{SAUT}top form right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_5_2",
+    "locuteur": "Yukiko",
+    "en": "There's something burning deep inside.{SAUT}I feel like I can do anything!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_6_1",
+    "locuteur": "Rise",
+    "en": "Yeah, my voice is in great shape right{SAUT}now! Leave the navigating to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_6_2",
+    "locuteur": "Rise",
+    "en": "Heya! Energy levels are at 100%! Should{SAUT}be good to go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_7_1",
+    "locuteur": "Kanji",
+    "en": "Put me out there! I can take 'em!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_7_2",
+    "locuteur": "Kanji",
+    "en": "Yeah, I feel great! I'll take 'em all on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_8_1",
+    "locuteur": "Naoto",
+    "en": "Do you think I could come along? I'm in{SAUT}excellent shape right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_8_2",
+    "locuteur": "Naoto",
+    "en": "I'm good on health and energy. Ready{SAUT}to fight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_9_1",
+    "locuteur": "Teddie",
+    "en": "Ooh, me! Pick me! I'm feeling bear-y{SAUT}confident!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_9_2",
+    "locuteur": "Teddie",
+    "en": "Hrrrrraaah! Teddie power at{SAUT}maximum! Leave this to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_10_1",
+    "locuteur": "Yukari",
+    "en": "Yeah, feelin' good. I can take a hit{SAUT}if you need me to!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_10_2",
+    "locuteur": "Yukari",
+    "en": "Looks like I'm in good shape right now.{SAUT}Mind bringing me along?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_11_1",
+    "locuteur": "Junpei",
+    "en": "Heh, I'm feelin' it! The legend of Junpei{SAUT}Iori begins, right after this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_11_2",
+    "locuteur": "Junpei",
+    "en": "Aw yeah, I'm in the zone! You gotta{SAUT}bring me along.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_12_1",
+    "locuteur": "Akihiko",
+    "en": "Heh, these fists are ready for a fight. Put{SAUT}me out on the front lines.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_12_2",
+    "locuteur": "Akihiko",
+    "en": "I'm feeling sharper than usual. Let me{SAUT}get out there and prove it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_13_1",
+    "locuteur": "Mitsuru",
+    "en": "It seems I'm in top form. Would you{SAUT}mind bringing me along?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_13_2",
+    "locuteur": "Mitsuru",
+    "en": "I'm in perfect condition. Our enemies{SAUT}don't stand a chance!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_14_1",
+    "locuteur": "Fuuka",
+    "en": "Um... I'm feeling pretty good right now.{SAUT}I think I can help!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_14_2",
+    "locuteur": "Fuuka",
+    "en": "May I try my hand at navigating? I feel{SAUT}quite confident at the moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_15_1",
+    "locuteur": "Aigis",
+    "en": "Output at maximum. Allow me to test{SAUT}my mettle!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_15_2",
+    "locuteur": "Aigis",
+    "en": "I am in peak condition! Permission to{SAUT}deploy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_16_1",
+    "locuteur": "Ken",
+    "en": "I feel great! Let me join the fight!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_16_2",
+    "locuteur": "Ken",
+    "en": "Um... Could you let me fight? I promise{SAUT}you won't regret it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_17_1",
+    "locuteur": "Koromaru",
+    "en": "Bark, bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_17_2",
+    "locuteur": "Koromaru",
+    "en": "Arf! Awoooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_18_1",
+    "locuteur": "Shinjiro",
+    "en": "Hey, mind if I come along? You won't{SAUT}regret it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_18_2",
+    "locuteur": "Shinjiro",
+    "en": "Huh, ain't feelin' half bad right about{SAUT}now. Lemme dish out some damage.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_19_1",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hey, mind if I come with you? I promise{SAUT}to give it my all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_19_2",
+    "locuteur": "P3 Fem Protag",
+    "en": "I feel like I could take on the world!{SAUT}Bring it on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_64_1",
+    "locuteur": "Morgana",
+    "en": "Oho, you're on point. Show us what{SAUT}you're made of!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_64_2",
+    "locuteur": "Morgana",
+    "en": "Hey, lookin' good. Get out there and{SAUT}take down some Shadows!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_65_1",
+    "locuteur": "Ryuji",
+    "en": "Yo, mind if I come along? I feel like{SAUT}lettin' loose for a bit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_65_2",
+    "locuteur": "Ryuji",
+    "en": "Dude, I'm hella pumped. Lemme take{SAUT}care of this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_66_1",
+    "locuteur": "Ann",
+    "en": "Hey, can I come along? I'm ready to go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_66_2",
+    "locuteur": "Ann",
+    "en": "Yes! I'm on fire! Ready for a fight!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_67_1",
+    "locuteur": "Morgana",
+    "en": "Put me out there! I can tell I'm gonna do{SAUT}great!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_67_2",
+    "locuteur": "Morgana",
+    "en": "Nyahaha... I'm in top form. This is my{SAUT}time to shine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_68_1",
+    "locuteur": "Yusuke",
+    "en": "Please, allow me to come along. I trust{SAUT}I will meet your expectations.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_68_2",
+    "locuteur": "Yusuke",
+    "en": "I'm overflowing with inspiration! This is{SAUT}my moment!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_69_1",
+    "locuteur": "Makoto",
+    "en": "Could I come along? I feel like I'm in{SAUT}good shape.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_69_2",
+    "locuteur": "Makoto",
+    "en": "I'm bursting with energy. Allow me to{SAUT}help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_70_1",
+    "locuteur": "Futaba",
+    "en": "I'm at 3 times the power! Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_70_2",
+    "locuteur": "Futaba",
+    "en": "I'm rarin' to go! I feel like I could{SAUT}navigate with my eyes closed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_71_1",
+    "locuteur": "Haru",
+    "en": "Would it be all right if I handled this?{SAUT}I promise I'll hold my own.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_71_2",
+    "locuteur": "Haru",
+    "en": "*giggle* I feel great. I think I'll be a big{SAUT}help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_72_1",
+    "locuteur": "Akechi",
+    "en": "I feel as though I could help out right{SAUT}now. Shall I come along?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BEST_72_2",
+    "locuteur": "Akechi",
+    "en": "Would it be all right if I handled this{SAUT}one? I feel unusually capable right now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_QUEST_32_0",
+    "locuteur": "Rise",
+    "en": "Are you heading to the special{SAUT}screening?{PAGE}I got the navigation. Just make sure Aigis{SAUT}and Haru-san are in the group!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_QUEST_32_1",
+    "locuteur": "Aigis",
+    "en": "You are going to the special screening,{SAUT}correct?{PAGE}Please confirm that Haru-san and I are{SAUT}in the party, and that Rise-san is the{SAUT}navigator.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_QUEST_32_2",
+    "locuteur": "Haru",
+    "en": "Are you going to the special screening?{PAGE}Make sure Aigis-san and I are in the{SAUT}party, and that Rise-chan is the{SAUT}navigator.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_QUEST_47",
+    "locuteur": "Morgana",
+    "en": "If you're taking on the special screening,{SAUT}make sure you're in the main party.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_QUEST_48",
+    "locuteur": "P4 Hero",
+    "en": "If you're headed to the special{SAUT}screening, be sure to bring me along.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_QUEST_49",
+    "locuteur": "P3 Hero",
+    "en": "If you're going to the special screening,{SAUT}I'll need to be in the party.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_QUEST_50",
+    "locuteur": "P3 Fem Protag",
+    "en": "If you're doing the special screening,{SAUT}make sure to include me in the group.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_EX_BEST_00",
+    "en": "※Force quest targets to enter Great{SAUT}Condition.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Aigis",
+    "en": "...Excuse me, I have a question.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "What is it, Aigis?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "How exactly are we to encourage these{SAUT}people?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "Oh, yeah... we didn't really come up{SAUT}with a plan, did we?{PAGE}I was more or less going to wing it.{SAUT}Maybe just tell them that everything{SAUT}will be okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Rise",
+    "en": "Hmm... If we want to do more than that,{SAUT}we'll have to come up with an idea.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "Considering all of you lovely ladies{SAUT}were specially chosen for this special{SAUT}screening...{PAGE}The ability to encourage someone must{SAUT}be a prerequisite to becoming a pretty{SAUT}girl!{PAGE}So if I learn the proper techniques for{SAUT}encouraging others, I can become even{SAUT}more beautiful!{PAGE}All right, everyone! Teach me your{SAUT}secrets!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Rise",
+    "en": "Hey, that doesn't seem very fair.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "I'm still a beauty in training. You first,{SAUT}Ai-chan! Let's see how it's done!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Aigis",
+    "en": "Me? Let's see...{PAGE}I have heard that spending some time{SAUT}away from the city and visiting nature{SAUT}can bring solace to one's heart.{PAGE}To that end, what would you say to{SAUT}destroying this place and returning{SAUT}everything to its natural state?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "Destroy!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Aigis",
+    "en": "By removing these buildings and roads,{SAUT}we can restore the forests and other{SAUT}greenery.{PAGE}Is this plan satisfactory?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "I don't think burning down the city will{SAUT}be very encouraging...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Haru",
+    "en": "I agree. I don't think it would calm their{SAUT}hearts either...{PAGE}So instead of destroying the city, how{SAUT}about we remodel it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Teddie",
+    "en": "Remodel!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Haru",
+    "en": "We could maybe repaint the buildings,{SAUT}or develop some empty land into a park{SAUT}or theater...{PAGE}Perhaps add a few large-scale theme{SAUT}parks for the children...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Rise",
+    "en": "Theme parks!?{PAGE}You two are thinking way too big! If we{SAUT}want to encourage people, we have{SAUT}to do it on a more personal level!{PAGE}What about... Oh! Why don't we do a{SAUT}special live performance for them?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Teddie",
+    "en": "A live performance? You mean like{SAUT}those concerts you do, Rise-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Rise",
+    "en": "It doesn't have to be a concert. It can be{SAUT}anything, as long as the people enjoy it.{PAGE}Let's do something that only us girls can!{SAUT}Wouldn't that be perfect?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Haru",
+    "en": "Should we each come up with our own{SAUT}act? That sounds fun, and it wouldn't{SAUT}take too much time either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Aigis",
+    "en": "I am skilled in precision sniping. I can{SAUT}also take off my head.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Haru",
+    "en": "I can do ballet and... chop firewood,{SAUT}I guess? Maybe I'll try doing both at{SAUT}once?{PAGE}What are you going to do, Teddie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Teddie",
+    "en": "I'm gonna jump out of my suit and show{SAUT}everyone the pretty lady within!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Rise",
+    "en": "Good idea! You can even make other{SAUT}stuff pop out too, so it'll look like a{SAUT}magic trick!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Haru",
+    "en": "Hey, that sounds like fun! It's kind of{SAUT}like a street performance.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Aigis",
+    "en": "I see. I understand now. All that is left{SAUT}is to reach the target area.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Rise",
+    "en": "All right! Let's spread some cheer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Teddie",
+    "en": "Yeah!{PAGE}And then it's all aboard the girl talk{SAUT}train!",
+    "fr": ""
+  }
+]

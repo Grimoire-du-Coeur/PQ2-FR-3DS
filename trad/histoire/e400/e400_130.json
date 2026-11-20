@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elementary school teacher",
+    "en": "We will now begin the class assembly{SAUT}discussing the problem of how our pet{SAUT}rabbit got sick.{PAGE}Everyone who was in charge of taking{SAUT}care of it, please stand now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elementary school teacher",
+    "en": "You three were responsible for looking{SAUT}after the rabbit.{PAGE}Why did something like this happen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elementary school teacher",
+    "en": "If you had all performed your duties{SAUT}as told, the rabbit wouldn't have{SAUT}gotten sick.{PAGE}What has happened makes me very sad.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Timid girl",
+    "en": "I'm sorry, Teacher...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mischievous boy",
+    "en": "I'm sorry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elementary school teacher",
+    "en": "Hikari-chan, why are you silent?{SAUT}Weren't you one of the rabbit's{SAUT}caretakers at the time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elementary school teacher",
+    "en": "Shiratori-san, why are you silent?{SAUT}Weren't you one of the rabbit's{SAUT}caretakers at the time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Elementary school Hikari",
+    "en": "Th-There was a vegetable in the rabbit's{SAUT}food you gave us that's bad for them...{PAGE}That's what... I told the other two, too...{PAGE}I said, \"We can't give it that{SAUT}vegetable...\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Elementary school teacher",
+    "en": "I don't want any excuses!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Elementary school teacher",
+    "en": "Everyone else has apologized―why{SAUT}can't you do the same?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elementary school Hikari",
+    "en": "But... it's the truth!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elementary school teacher",
+    "en": "That doesn't matter! Apologize first!{PAGE}*sigh* You refuse to listen to your{SAUT}teacher... You have to disrupt the order{SAUT}of the classroom...{PAGE}Honestly―why do you have to be{SAUT}like that?",
+    "fr": ""
+  }
+]

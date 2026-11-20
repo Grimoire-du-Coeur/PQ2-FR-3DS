@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Caroline",
+    "en": "Ah, so you're here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "......?{PAGE}Marie is, as usual, nowhere to be found...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Justine",
+    "en": "...Are you looking for Marie? She's{SAUT}conducting an errand for Margaret...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "en": "......?{PAGE}There's another piece of stationery on{SAUT}the floor...{PAGE}I can see something written on it, done{SAUT}with heavy emotionally-laden strokes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Marie",
+    "en": "\"The Seven Deadly Sins\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Marie",
+    "en": "The angel is fallen, guilty of seven{SAUT}deadly sins.{PAGE}The first is gluttony{SAUT}I taste the forbidden fruit{PAGE}The second is sloth{SAUT}I stay in bed, my sanctuary{PAGE}The third is greed{SAUT}I want it all, yes, I want it all{PAGE}The fourth is jealousy{SAUT}I hate that girl you talk with{PAGE}The fifth is wrath{SAUT}Why don't you realize how I feel?{PAGE}The sixth is pride{SAUT}When I'm with you, I masquerade as an{SAUT}angel even as envy burns within me{PAGE}The seventh is lust{SAUT}Oh, don't ask, for...{PAGE}I am a fallen angel, fallen in love{SAUT}(Lonely Lucifer)",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "......{PAGE}Is this another one of Marie's poems...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Marie",
+    "en": "...Nngaaaaaaaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Marie",
+    "en": "Wh-Wh-Why...! This can't be happening! I{SAUT}JUST wrote this one...!{PAGE}And why do you keep reading them!?{SAUT}That's YOUR deadly sin!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Margaret",
+    "en": "...That's quite enough. You're going to{SAUT}redden your complexion, Lonely Lucifer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Marie",
+    "en": "B-But...!{PAGE}You know about... Lonely... Lucifer?{PAGE}......{PAGE}Whatever,{SAUT}stupidIhateyouyou'reLucifersothere!{SAUT}Why don't you try falling in love!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Marie is blushing madly...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Marie",
+    "en": "Please... don't eavesdrop on my pathos{SAUT}anymore...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Marie",
+    "en": "...! N-Nothing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "en": "Marie returned to her usual spot. She{SAUT}looked noticeably unsettled...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Justine",
+    "en": "...Do you have a moment, Inmate?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Caroline",
+    "en": "You know Marie's poems? ...Well... we{SAUT}saw something...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "Saw what?{OPTION}Why are you whispering?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Caroline",
+    "en": "Look, just listen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Caroline",
+    "en": "The one who's always leaving the{SAUT}poems on the floor... is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Margaret",
+    "en": "Oh, what's this? A little secret{SAUT}meeting?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Caroline",
+    "en": "Eep!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Margaret",
+    "en": "Don't stop on my account. By all{SAUT}means, continue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Caroline",
+    "en": "Uh... no, it's nothing. Nothing at all.{PAGE}Right, Justine?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Justine",
+    "en": "Y-Yes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Caroline",
+    "en": "Forget it all, Inmate! Got it!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "en": "Caroline and Justine have left in a panic.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Margaret",
+    "en": "*chuckle* What an adorable pair.{SAUT}Please, do what you can to keep{SAUT}indulging them.",
+    "fr": ""
+  }
+]

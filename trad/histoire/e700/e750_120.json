@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Whoa!? I-Is that an FOE!? Look how{SAUT}effin' huge it is...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Koromaru",
+    "en": "Bark! Grrrr...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san is extremely on edge{SAUT}about it as well. It seems to be quite{SAUT}the dangerous foe.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "If that monstrosity were to go on{SAUT}a rampage, I imagine it could easily{SAUT}destroy the theaters around it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "I mean, it's already destroyed a bunch{SAUT}of stuff here. That thing is way too strong!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Koromaru",
+    "en": "Bark! Bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Aigis",
+    "en": "\"The FOE is coming this way. Be{SAUT}careful,\" is what he is telling us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "For real!? Hey, we gotta get outta here,{SAUT}Joker!",
+    "fr": ""
+  }
+]

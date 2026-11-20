@@ -1,0 +1,14 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "Hold on, Joker!{PAGE}...I understand how you feel, but there's{SAUT}no chance of us winning against him{SAUT}right now.{PAGE}I know how much you're worried for{SAUT}those two, but you need to calm down...{SAUT}for their sakes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "It's frustrating as hell, but Crow's right.{PAGE}We gotta retreat for now so we can save{SAUT}Queen and Noir soon―okay, man!?",
+    "fr": ""
+  }
+]

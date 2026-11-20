@@ -1,0 +1,343 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P3 Fem Protag",
+    "en": "Is this... a concession stand?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Elizabeth",
+    "en": "Welcome, everyone.{PAGE}I've been awaiting your arrival so{SAUT}fervently that my eyes began to bulge{SAUT}from my skull, like those of our master.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "They don't seem to be protruding{SAUT}any more than usual, though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Theodore",
+    "en": "Nevertheless, Sister: please greet{SAUT}my guest first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "Ah, how incredibly rude of me.{PAGE}My name is Elizabeth. I am Theodore's{SAUT}older sister.{PAGE}Theo has spoken nothing but glowing{SAUT}praise of you, {f 6 1 27 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "It's nice to meet you too―I've heard{SAUT}about you from everyone else.{PAGE}Still, I'm a bit surprised to find out{SAUT}you have an older sister, Theo.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Theodore",
+    "en": "My sister Elizabeth is a tad... no, quite{SAUT}naive in certain respects.{PAGE}I suspect she may cause you trouble,{SAUT}but I hope that you manage to get along{SAUT}with her, regardless.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "My motto is to do as I please, wherever{SAUT}the wind may blow.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Did you also come here with Theo,{SAUT}Elizabeth?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Elizabeth!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Elizabeth",
+    "en": "My, {f 6 1 27 0 0 0}―I'm glad to see that{SAUT}you are safe.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "I've already heard all about it from the{SAUT}others, but... To think you were brought{SAUT}here too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Elizabeth",
+    "en": "Yes, it all happened in the blink of an{SAUT}eye. When I came to, Theo and I were{SAUT}here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Theodore",
+    "en": "Our master was not present, but we{SAUT}were certainly within the Velvet Room{SAUT}when it happened.{PAGE}Despite this, all of a sudden, it{SAUT}connected with this theater{SAUT}and even changed its shape...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elizabeth",
+    "en": "The Velvet Room is a place{SAUT}inseparable from our guests'{SAUT}fates.{PAGE}There is a strict rule that \"nothing{SAUT}meaningless happens within it.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Fem Protag",
+    "en": "In other words, there's a meaning{SAUT}as to why we came here?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "And that meaning is?{OPTION}Get us out of here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Elizabeth",
+    "en": "That answer will need to be discovered{SAUT}by yourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Elizabeth",
+    "en": "We were whisked away here just as you{SAUT}all were... There is nothing that we can{SAUT}do about it either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Elizabeth",
+    "en": "Still, we have no intention to merely{SAUT}sit back and watch what develops.{PAGE}To aid you all on your journey, I have{SAUT}forced Theo to prepare a shop for you{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "Ooh! Don't mind if I do―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Elizabeth",
+    "en": "One moment, please―there's one final{SAUT}touch that must first be made...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Theodore",
+    "en": "Sister? I believe that all the preparations{SAUT}have been completed...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Elizabeth",
+    "en": "This is all somewhat lackluster for{SAUT}the grand opening of a shop.{PAGE}A proper grand opening ritual should{SAUT}be exciting, with bangs and booms.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Theodore",
+    "en": "Ah...{PAGE}O-Of course I knew that!{PAGE}We must rouse our spirits with a bang{SAUT}and boisterously begin commerce{SAUT}with a boom!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Elizabeth",
+    "en": "Yes, and for that, we must add our final{SAUT}touch... Theo, come with me for{SAUT}a moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "en": "Elizabeth dragged Theodore away{SAUT}by his hand...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "P3 Fem Protag",
+    "en": "Elizabeth was so worked up, I couldn't{SAUT}get in a word... I hope Theo will be okay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ann",
+    "en": "Oh, looks like they're back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Theodore",
+    "en": "We apologize for the delay...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P3 Fem Protag",
+    "en": "Th-Theo!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Theodore",
+    "en": "Sister... Is this truly the attire necessary{SAUT}for a grand opening such as this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Elizabeth",
+    "en": "Theo―can you feel it? The curious{SAUT}elation that's mingling with your{SAUT}deep, rich embarrassment?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032_5",
+    "locuteur": "Elizabeth",
+    "en": "That feeling is crucial to the grand{SAUT}opening ritual! This costume is for{SAUT}expressing your hospitality!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Theodore",
+    "en": "Dear me―now that you mention it, I do{SAUT}feel as if my heart is being uplifted...{PAGE}...Oh, my! Even my balloon-holding arm{SAUT}beckons me to the heavens!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Elizabeth",
+    "en": "You mustn't forget to don this attire{SAUT}when providing services to our guests,{SAUT}understood?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ann",
+    "en": "...Should I bother pointing out how{SAUT}wrong they are?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Ryuji",
+    "en": "Just forget it―if you start now, there'll be{SAUT}no end to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Futaba",
+    "en": "An airhead and her put-upon brother...{SAUT}This comedy sketch sorely needs{SAUT}a straight man.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Theodore",
+    "en": "Well then, everyone: I will be acting{SAUT}as your vendor here at this concession{SAUT}stand.{PAGE}Not only will I be selling the current{SAUT}merchandise, but I will continually{SAUT}add new stock as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Yusuke",
+    "en": "New stock? How will you receive{SAUT}shipments in our current situation?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Theodore",
+    "en": "I will process the materials that you{SAUT}acquire within the movie into new{SAUT}merchandise...{PAGE}And, I will do so using this popcorn{SAUT}maker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Ann",
+    "en": "Wait, what!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Theodore",
+    "en": "Allow me to demonstrate: for this{SAUT}occasion, I have already prepared{SAUT}the requisite materials.{PAGE}I'll simply put them in the popcorn{SAUT}maker―then flip the switch!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Theodore",
+    "en": "There you have it: a brand new weapon.{SAUT}See? Wasn't that easy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Ryuji",
+    "en": "But, how!? I don't even know where{SAUT}to start with this nonsense!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Haru",
+    "en": "That's probably the last thing that{SAUT}should emerge from a popcorn{SAUT}maker...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Theodore",
+    "en": "Popcorn is made by roasting corn{SAUT}kernels and making their internal{SAUT}contents expand...{PAGE}In other words, it's the manifestation of{SAUT}a kernel's hidden possibility.{PAGE}Thus, this miraculous metamorphosis{SAUT}is attainable only through a popcorn{SAUT}maker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Ann",
+    "en": "He somehow made that work!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Makoto",
+    "en": "Very well, let's just leave it at that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Theodore",
+    "en": "If there are any necessary materials{SAUT}missing, I will notify you of such.{PAGE}However, I will also indicate what you{SAUT}lack based on the materials you've{SAUT}brought back with you.{PAGE}I hope you understand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Akechi",
+    "en": "So if we want to learn what's still{SAUT}missing in a recipe, we need to possess{SAUT}at least one of an item's components...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Yusuke",
+    "en": "You mentioned that you're selling them,{SAUT}yes? Even though you claim to be{SAUT}providing us assistance...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Elizabeth",
+    "en": "Everything has a price: that is how the{SAUT}world works, and such providences{SAUT}shan't change.{PAGE}Please, inscribe that to your memory.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Theodore",
+    "en": "I've taken over the duties here from{SAUT}Miss Nagi, so please, continue your{SAUT}patronage of this stand.{PAGE}If there are any materials that you've{SAUT}already sold here, I'll now add new{SAUT}stock made from those.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Ryuji",
+    "en": "Welp, now we got a shop and some{SAUT}more companions. Looks like it's time{SAUT}for us to go bust our asses.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Morgana",
+    "en": "Once we get prepped in the theater,{SAUT}let's head back into the movie...{PAGE}I'm worried about Makoto and Haru.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Mitsuru",
+    "en": "It would seem we can't go any further.{SAUT}We'll have to turn back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "Um... I've been wondering, but you're{SAUT}the heiress to the Kirijo Group, correct?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mitsuru",
+    "en": "Hm...? Yes, that may be the case in the{SAUT}near future.{PAGE}Although, I'm not sure how some{SAUT}of the adults around me feel about the{SAUT}matter...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "About that... Does it ever weigh you{SAUT}down? All of that business with the{SAUT}company, I mean...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mitsuru",
+    "en": "That's right―you mentioned you're the{SAUT}successor to a mega corporation as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Haru",
+    "en": "Mhm. Lately, I can't help but think{SAUT}about everything with my own{SAUT}company and things of that nature...{PAGE}And I began to wonder how you handle{SAUT}all of it... I'm sorry to bring it up so{SAUT}suddenly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Mitsuru",
+    "en": "No, it's all right.{PAGE}Well, when it comes to my family...{SAUT}To be honest, it does feel like a heavy{SAUT}burden at times.{PAGE}Especially when I think about the Kirijo{SAUT}Group's future and the responsibilities{SAUT}I hold as its sole heiress.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "I thought so...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "However, recently, I've felt as though{SAUT}my companions have helped me lift{SAUT}that weight off my shoulders.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Haru",
+    "en": "Your companions?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Mitsuru",
+    "en": "When I'm with them, I realize there is{SAUT}still much I've yet to learn.{PAGE}Be it for better or worse, I've been{SAUT}learning something new each day.{PAGE}Not only is it a painful reminder of how{SAUT}narrow sighted I had been...{PAGE}But it's also helped me see that it's{SAUT}important to be diverse in my thinking.{SAUT}They've taught me a lot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "I think I can relate...{PAGE}Had it not been for the Phantom{SAUT}Thieves, I would've stayed a subservient{SAUT}puppet forever...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Mitsuru",
+    "en": "I see. Then, wouldn't you say you've{SAUT}already found your answer?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Haru",
+    "en": "Hm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Mitsuru",
+    "en": "If you feel you can't carry the burden{SAUT}any longer, you can always try talking{SAUT}with your companions.{PAGE}I understand it's difficult to open up on{SAUT}such matters...{PAGE}But if you feel that you trust them with{SAUT}all of your heart, then there's nothing to{SAUT}fear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "*giggle* That's probably true. I'm sure{SAUT}they'll say things I would have never{SAUT}imagined.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Mitsuru",
+    "en": "You should know, there's no need to{SAUT}find a perfect answer.{PAGE}Just go little by little, and do your best to{SAUT}add to your accomplishments.{PAGE}...I feel I've spoken too much. Did that{SAUT}answer suffice?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Haru",
+    "en": "Yes, it was very helpful! Thank you!{PAGE}Oh, I know. I'm not sure if it'd be a good{SAUT}way to thank you... but would you allow{SAUT}me to treat you to coffee one day?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Mitsuru",
+    "en": "Coffee? I do drink tea from time to time,{SAUT}but I don't have much experience{SAUT}with coffee.{PAGE}I've heard there's much to learn. I'd be{SAUT}honored to take you up on your offer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Haru",
+    "en": "Leave it to me! I have some delicious{SAUT}coffee beans that were harvested after{SAUT}being fermented in elephant dung!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Mitsuru",
+    "en": "Wh-What...?{PAGE}...No, it wouldn't do well to go in with a{SAUT}prejudiced opinion. I'll be looking{SAUT}forward to it.",
+    "fr": ""
+  }
+]

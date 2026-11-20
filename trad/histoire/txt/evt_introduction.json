@@ -1,0 +1,147 @@
+[
+  {
+    "id": "evt_intro_DAMMY",
+    "en": "If this comes up, it's a bug.{SAUT}Please report it.",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_P4HERO",
+    "en": "A second-year at Yasogami-High.{SAUT}Leader of the Investigation Team.{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_P3HERO",
+    "en": "A second-year at Gekkoukan High.{SAUT}Leader of the Shadow-fighting SEES.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_YOSUKE",
+    "en": "A second-year at Yasogami High.{SAUT}Son of the Junes store manager.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_CHIE",
+    "en": "A second-year at Yasogami High.{SAUT}A girl who loves kung fu and meat.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_YUKIKO",
+    "en": "A second-year at Yasogami High.{SAUT}Prim, but with an odd sense of humor.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_RISE",
+    "en": "A first-year at Yasogami High.{SAUT}A teen idol on sabbatical from showbiz.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_KANZI",
+    "en": "A first-year at Yasogami High.{SAUT}An impulsive but faithful young man.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_NAOTO",
+    "en": "A first-year at Yasogami High.{SAUT}The \"Detective Prince\" who helps police.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_KUMA",
+    "en": "A mysterious creature from the TV{SAUT}world, now living in Yosuke's closet.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_YUKARI",
+    "en": "A second-year at Gekkoukan High, who{SAUT}has a strong will and archery skills.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_JUNPEI",
+    "en": "A second-year at Gekkoukan High.{SAUT}Easily excited, but sets the tone.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_SANADA",
+    "en": "A third-year at Gekkoukan High.{SAUT}The popular captain of the boxing team.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_MITSURU",
+    "en": "A third-year at Gekkoukan High. Student{SAUT}Council President and head of SEES.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_FUKA",
+    "en": "A second-year at Gekkoukan High.{SAUT}A reserved girl with backup abilities.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_AEGIS",
+    "en": "A robotic weapon with Persona abilities{SAUT}and also a second-year at Gekkoukan.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_AMADA",
+    "en": "A 5th-grader at Gekkoukan Elementary.{SAUT}He lost his mother in an accident.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_KOROMARU",
+    "en": "A Shiba Inu with Persona abilities.{SAUT}His owner died in an accident.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_ARAGAKI",
+    "en": "A third-year at Gekkoukan High who is{SAUT}taking time off. Friends with Akihiko.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_P3HERO2",
+    "en": "A second-year at Gekkoukan High.{SAUT}Leader of the Shadow-fighting SEES.{SAUT}　{SAUT}※紹介演出用メッセージ※",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_P5HERO",
+    "en": "My codename is \"Joker.\" I'm a second-{SAUT}year at Shujin High and the leader of{SAUT}the Phantom Thieves.{SAUT}I'm currently living above Cafe Leblanc.{SAUT}I've been put on probation due to{SAUT}a false accusation leveled against me.",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_RYUJI",
+    "en": "Codename: Skull.{SAUT}Second-year and former top{SAUT}runner for the track team.{SAUT}Hot-blooded, yet compassionate{SAUT}and caring. Often rushes into{SAUT}things without thinking first.",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_ANN",
+    "en": "Codename: Panther.{SAUT}Second-year classmate,{SAUT}one-quarter American, and{SAUT}part-time magazine model.{SAUT}Bright and cheerful; cares{SAUT}deeply for her friends.",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_MONA",
+    "en": "Codename: Mona.{SAUT}An outspoken, mysterious being{SAUT}who we met within the Metaverse.{SAUT}He can take various forms, from an{SAUT}ordinary black cat to a full-sized,{SAUT}drivable vehicle.",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_YUSUKE",
+    "en": "Codename: Fox.{SAUT}Second-year student at Kosei High{SAUT}with mature, distinct aesthetic{SAUT}sensibilities; his future as an artist{SAUT}is foreseeable to all who meet{SAUT}him. A unique individual.",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_MAKOTO",
+    "en": "Codename: Queen.{SAUT}Third-year senpai and student{SAUT}council president. Accomplished{SAUT}in both literary and martial arts.{SAUT}Very moral and upstanding,{SAUT}but a bit socially awkward.",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_FUTABA",
+    "en": "Codename: Oracle.{SAUT}Foster daughter of the Boss who is{SAUT}currently providing my lodgings.{SAUT}Hacker extraordinaire and former{SAUT}shut-in. Very shy around strangers.",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_HARU",
+    "en": "Codename: Noir.{SAUT}Third-year at Shujin High and{SAUT}senpai to the rest of the gang.{SAUT}The only daughter of the Okumura{SAUT}Foods corporation president.",
+    "fr": ""
+  },
+  {
+    "id": "evt_intro_AKECHI",
+    "en": "Codename: Crow.{SAUT}A third-year high school student{SAUT}who is often referred to as the{SAUT}\"Next Detective Prince\" due to his{SAUT}sharp deductions and fastidious{SAUT}appearance.",
+    "fr": ""
+  }
+]

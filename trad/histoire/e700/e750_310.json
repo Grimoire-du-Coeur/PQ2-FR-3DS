@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Whoa!? Is that an FOE!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "What a monster... It's really freaking me{SAUT}out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "It's got quite the keen eye―it seems to be{SAUT}watching our every move.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "But, it hasn't budged yet... Maybe you'll{SAUT}be able to just keep going without{SAUT}having to worry about it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Well, I suppose we'll be fine if it doesn't{SAUT}move, but...{PAGE}I definitely feel like it's out for blood{SAUT}here. Let's keep going, but be careful.",
+    "fr": ""
+  }
+]

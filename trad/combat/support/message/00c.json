@@ -1,0 +1,82 @@
+[
+  {
+    "id": "BTL_MES_012_000",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_001",
+    "en": "We have to win this fight!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_003",
+    "en": "Ugh, an FOE. This could get{SAUT}ugly... What's the plan?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_005",
+    "en": "We're plenty strong. We can{SAUT}take this FOE.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_006",
+    "en": "Look at that, a rare Shadow...{SAUT}We can't let it escape.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_011",
+    "en": "This one's a tough enemy...{SAUT}Man, what a rush!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_013",
+    "en": "Never seen this one before...{SAUT}Let's find its weakness.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_015",
+    "en": "Hmph. This'll be a perfect{SAUT}warm up.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_017",
+    "en": "At least these Shadows should{SAUT}make a good warmup.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_019",
+    "en": "Huh? The Shadow changed...!?",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_022",
+    "en": "Not good... The odds are against{SAUT}us. Be careful.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_053",
+    "en": "Yeah! Let's finish this now!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_055",
+    "en": "Here's our chance!{SAUT}I'll finish it!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_056",
+    "en": "Pass the baton if you want.{SAUT}I'm ready!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_057",
+    "en": "Come at me!{SAUT}You're all mine!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_MES_012_086",
+    "en": "I can feel it in my fists...{SAUT}Leave this to me.",
+    "fr": ""
+  }
+]

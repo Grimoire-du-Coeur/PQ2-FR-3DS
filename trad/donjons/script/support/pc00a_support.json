@@ -1,0 +1,377 @@
+[
+  {
+    "id": "YUKARI_FOE_FOLLOW_START_",
+    "en": "Whoa! An FOE saw us!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_FOE_FOLLOW_START_#2",
+    "en": "What do we do? An FOE's closing in!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_FOE_FOLLOW_START_#3",
+    "en": "Uh oh, there's an FOE hounding us!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_FOE_NEAR_1",
+    "en": "There's an FOE... Can we sneak past?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_FOE_NEAR_2",
+    "en": "That's an FOE, right?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_FOE_NEAR_3",
+    "en": "Uh oh... That FOE's pretty close.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_FOE_FOLLOW_END_1",
+    "en": "Looks like we shook off that FOE!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_FOE_FOLLOW_END_2",
+    "en": "I think we got away from that FOE...",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_FOE_FOLLOW_END_3",
+    "en": "Oh, that FOE gave up on us.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_KANSI_REACTION_1",
+    "en": "We don't wanna get spotted here!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_KANSI_REACTION_2",
+    "en": "Watch your step!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_KANSI_REACTION_3",
+    "en": "Careful! We have to remain incognito!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_DENKISAKU_REACTIO",
+    "en": "We gotta stop the power first.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_DENKISAKU_REACTIO#2",
+    "en": "We probably shouldn't touch that,{SAUT}huh?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_DENKISAKU_REACTIO#3",
+    "en": "Yikes... Look at how it's arcing...",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_KYOUHU_REACTION_1",
+    "en": "Wha―!?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_KYOUHU_REACTION_2",
+    "en": "Aaaah!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_KYOUHU_REACTION_3",
+    "en": "Wait, seriously!?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_STAIR_FIND_1",
+    "en": "Oh, those are the stairs! Should we{SAUT}head to the next floor?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_STAIR_FIND_2",
+    "en": "Over there! I see the stairs!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_STAIR_FIND_3",
+    "en": "We can go to the next area!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_TREASURE_FIND_1",
+    "en": "I see a treasure box... It's not a trap{SAUT}or anything, right?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_TREASURE_FIND_2",
+    "en": "It's our lucky day! Should we open the{SAUT}treasure box?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_TREASURE_FIND_3",
+    "en": "Woo-hoo, a treasure box!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_CHECK_WALL_1",
+    "en": "I think there's something here...{SAUT}Wanna take a closer look?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_CHECK_WALL_2",
+    "en": "There's something funny about this{SAUT}area.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_CHECK_WALL_3",
+    "en": "Huh? There's something there...",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_SWITCH_FIND_1",
+    "en": "Want to check out that switch?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_SWITCH_FIND_2",
+    "en": "A switch...? What should we do?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_SWITCH_FIND_3",
+    "en": "Oh! There's a switch!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_SHORTCUT_FIND_1",
+    "en": "Hey, can't we go through there?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_SHORTCUT_FIND_2",
+    "en": "I think I see a shortcut!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_SHORTCUT_FIND_3",
+    "en": "A hidden path! I know about hidden{SAUT}messages in movies, but this is nuts!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_FOE_WARNING_NEAR_",
+    "en": "Geez, it's still on us... Give it a rest,{SAUT}already!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_FOE_WARNING_NEAR_#2",
+    "en": "Wait, is that thing STILL chasing us!?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_FOE_WARNING_NEAR_#3",
+    "en": "That FOE is still in the area!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_1PERSON_HPTP10_1",
+    "en": "Sorry, I'm in bad shape...",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_1PERSON_HPTP10_2",
+    "en": "*pant* *pant* I can't keep this up...",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_1PERSON_HPTP10_3",
+    "en": "I can't go on... Can we head back for{SAUT}now?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_1PERSON_HP10_1",
+    "en": "My health... is almost out...",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_1PERSON_HP10_2",
+    "en": "Ngh, I'm done for...",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_1PERSON_HP10_3",
+    "en": "I think I'm gonna collapse... Someone{SAUT}heal me...?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_1PERSON_TP10_1",
+    "en": "Sorry, but I've got no stamina...",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_1PERSON_TP10_2",
+    "en": "Ugh, I feel like hell... Can we lie down?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_1PERSON_TP10_3",
+    "en": "I'm completely out of it...",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_1PERSON_HP80_1",
+    "en": "Hey, that fight went pretty well!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_1PERSON_HP80_2",
+    "en": "It'd be great if we can keep this up!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_1PERSON_HP80_3",
+    "en": "Score one for teamwork! Thanks, guys.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_DUNGEON_START_1",
+    "en": "Let's stay on guard. We don't know{SAUT}what's out there.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_DUNGEON_START_2",
+    "en": "We didn't forget anything, right? Okay,{SAUT}let's go!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_DUNGEON_START_3",
+    "en": "All right, let's get the ball rolling!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_QUEST_START_1",
+    "en": "Okay, time to get my game face on.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_QUEST_START_2",
+    "en": "Ready to go!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_QUEST_START_3",
+    "en": "Let's make this special screening really{SAUT}special!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_TOUHA_25_1",
+    "en": "Still got a long way to go. But we can{SAUT}handle it.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_TOUHA_25_2",
+    "en": "Arrgh... This floor is ginormous...",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_TOUHA_50_1",
+    "en": "At least the map looks good!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_TOUHA_50_2",
+    "en": "I think we're halfway done on this{SAUT}floor?",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_TOUHA_75_1",
+    "en": "Just a little further!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_TOUHA_75_2",
+    "en": "It'd be nice if we could get those{SAUT}remaining blanks.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_TOUHA_100_1",
+    "en": "Feels good to finish something! Good{SAUT}mapping, Joker!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_TOUHA_100_2",
+    "en": "This floor's like an old friend to you{SAUT}now!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_MAPPING_ICON_ALL_",
+    "en": "Yep, looks good!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_MAPPING_ICON_ALL_#2",
+    "en": "I've never seen such a detailed map!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_MAPPING_ICON_KAID",
+    "en": "Yep, the stairs were right there.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_MAPPING_ICON_KAID#2",
+    "en": "We'll always know where the stairs{SAUT}are.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_MAPPING_CHANGE_CO",
+    "en": "Aww, what a cute color! I love it.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_MAPPING_CHANGE_CO#2",
+    "en": "Changing the color makes it easier to{SAUT}read!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_MAPPING_ICON_DEL_",
+    "en": "Nice. Glad one of us is tidy and{SAUT}organized.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_MAPPING_ICON_DEL_#2",
+    "en": "Yeah, definitely didn't want that.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_MAPPING_MEMO_1",
+    "en": "Whoops, forgot about the notes.",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_MAPPING_MEMO_2",
+    "en": "If we take notes, we'll be all set for{SAUT}later!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_DOOR_OPEN_1",
+    "en": "This way!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_DOOR_OPEN_2",
+    "en": "Let's get going!",
+    "fr": ""
+  },
+  {
+    "id": "YUKARI_DOOR_OPEN_3",
+    "en": "Way ahead of ya!",
+    "fr": ""
+  }
+]

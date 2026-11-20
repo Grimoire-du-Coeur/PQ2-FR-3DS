@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Let's see... This special screening is{SAUT}a bit different than the usual.{PAGE}Well, that is to say...{PAGE}Your goal will be to retrieve music{SAUT}from Hikari's movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Retrieve music...? Is that{SAUT}metaphorical?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "No indeed! It was quite literal.{SAUT}I meant it just as I said.{PAGE}That said, music has no physical form,{SAUT}so it would be difficult to bring back.{PAGE}So please, take a look at this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "A music box?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "Yes. Though it currently holds no{SAUT}music, I'm afraid.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Aha, I think I see...{PAGE}So we're supposed to put the music{SAUT}into the music box, and bring it back{SAUT}that way?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Elizabeth",
+    "en": "Ding ding ding! We have a winner!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006_1",
+    "locuteur": "Elizabeth",
+    "en": "If you want to know more, please{SAUT}head to the movie and figure it out{SAUT}for yourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "What!? Don't just skip the most{SAUT}important part! I don't know why{SAUT}I expected any different...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Elizabeth",
+    "en": "What kind of music will it play...?{SAUT}I will await on tenterhooks until{SAUT}you bring it forth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "A music box... That's it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_1",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hey, Fuuka, {f 6 1 30 0 0 0}-kun! Wouldn't this{SAUT}work perfectly for that thing we{SAUT}were talking about?{PAGE}You know, the thing for Ann!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "What thing?{OPTION}For cheering her up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "The thing about helping Ann feel{SAUT}better! I think music would be a{SAUT}great idea.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah! Music always helps, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Fuuka",
+    "en": "Yes, that sounds like a great idea.{SAUT}A good song can do a lot for your{SAUT}mood...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Let's get this music in the music box,{SAUT}and then give it to Ann as a present.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014_1",
+    "locuteur": "P3 Fem Protag",
+    "en": "I'll just sidle up to Elizabeth and{SAUT}ask if it's cool to give it to Ann...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ann",
+    "en": "Huh? Did someone say my name?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh? Oh uh, don't mind us!{SAUT}N-Nothing to see here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Uh, you realize that makes you even{SAUT}more suspicious...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Elizabeth",
+    "en": "Oh, one very important detail I{SAUT}neglected to mention.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018_1",
+    "locuteur": "Elizabeth",
+    "en": "The music within the movie is an{SAUT}ephemeral, delicate thing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018_2",
+    "locuteur": "Elizabeth",
+    "en": "Even after capturing the music, it will{SAUT}disappear if too much time passes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "Meaning there's a time limit, then?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Elizabeth",
+    "en": "Correct. In order to successfully bring{SAUT}the music back, you must do it{SAUT}\"within 46 steps of capturing it.\"{PAGE}Be warned that if the music ends up{SAUT}disappearing from the box, you will{SAUT}have to go back and try again.{PAGE}In addition, it seems that using a{SAUT}Goho-M or a Goba-K will also{SAUT}dispel the music.{PAGE}A song is such a delicate thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020_1",
+    "locuteur": "Elizabeth",
+    "en": "Now then, I eagerly await my chance{SAUT}to hear the song once it is safely{SAUT}in your hands.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "Okay, let's get out there and make{SAUT}this a success!",
+    "fr": ""
+  }
+]

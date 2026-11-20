@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukari",
+    "en": "Huh? Looks like this is a dead end.{SAUT}I guess we'll have to find another way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "It's definitely a hassle, but what else{SAUT}can we do?{PAGE}*sigh* I could walk around forever if{SAUT}I was window shopping.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "You know, that reminds me, Panther.{SAUT}You work as a model, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Mhm, it's just a part-time gig, though.{SAUT}I've always loved fashion.{PAGE}There's some clothing stores in the area,{SAUT}so I took a quick look inside them when{SAUT}we first came here...{PAGE}But all the clothes here are, well...{SAUT}a little too out there for me.{PAGE}Kamoshidaman was printed all over{SAUT}them too. No way I'm wearing that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "Ohh, Kamoshidaman's that guy with{SAUT}the huge smile, right?{PAGE}Yeah, that smile's too much... I don't{SAUT}think I'd ever want to wear that either.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Yeah, it's lame.{OPTION}I think it's stylish.{OPTION}I want one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Right? You think so too, Joker!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Wait, seriously!?{PAGE}Maybe it's popular here in this city,{SAUT}but... Kamoshidaman clothes?{PAGE}Hgh, nope! I just imagined it, but I can't{SAUT}do it! There's no way I'd want that face{SAUT}anywhere on my body!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "What!? Are you serious?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukari",
+    "en": "Well, everyone's got their own tastes...{SAUT}but if someone ever got me to wear it,{SAUT}it'd have to be for some kind of dare.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "But isn't it possible for it to be so lame{SAUT}that it's actually cool?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "I don't think so. No amount of lameness{SAUT}is ever gonna make something like that{SAUT}okay.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "Don't worry, Panther!{PAGE}I'm positive you'd look absolutely{SAUT}gorgeous in Kamoshidaman clothes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Uh, that's not what we're saying. I don't{SAUT}care if I'd look good in them or not.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "Mew!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukari",
+    "en": "Well, we'll have to leave shopping for{SAUT}after we all make it back home safe.{PAGE}Come on, let's keep going!",
+    "fr": ""
+  }
+]

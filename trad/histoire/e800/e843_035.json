@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "I see. So you pulled the lever, Joker?{PAGE}The cart will miss the five workers,{SAUT}and instead kill the single worker{SAUT}on the other track...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akihiko",
+    "en": "Sacrificing one to save five, huh...?{PAGE}Well, it saves the most lives.{SAUT}I guess that's a kind of \"correct.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "H-Hang on a sec!{PAGE}So that innocent guy just gets run{SAUT}over? Man, I don't know if saving{SAUT}those guys makes it okay...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "I agree. You can't measure the value{SAUT}of human life in numbers alone.{PAGE}I suppose that's what makes this{SAUT}problem so difficult.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Mitsuru",
+    "en": "Yes. Queen summed it up best―{SAUT}There's no objectively right answer.{PAGE}All we can do is keep in mind{SAUT}everything we've considered,{SAUT}then move forward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "I see. So you chose not to pull{SAUT}the lever, Joker?{PAGE}The cart will continue on its path,{SAUT}and hit those five people... But the{SAUT}one other person will be spared.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Chie",
+    "en": "I-Is that really okay? I mean,{SAUT}wouldn't it be better to save five{SAUT}people instead of just one...?{PAGE}Arrgh, I don't get it! We can't just{SAUT}kill that other guy, either!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Aigis",
+    "en": "If we do not make a sacrifice, then{SAUT}we cannot save another...{PAGE}A condition of remarkable cruelty.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Rise",
+    "en": "I don't know what I'd do if I were{SAUT}actually in that situation...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Makoto",
+    "en": "Well, like I said, there isn't an{SAUT}answer that's objectively \"right\"{SAUT}here.{PAGE}All we can do is keep in mind{SAUT}everything we've considered,{SAUT}then move forward.",
+    "fr": ""
+  }
+]

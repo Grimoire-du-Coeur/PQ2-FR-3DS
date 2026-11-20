@@ -1,0 +1,122 @@
+[
+  {
+    "id": "MSG_MOVIE_000",
+    "en": "Hikari's getting kicked out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_001",
+    "en": "We're kicking her out because she{SAUT}has to have her own opinions!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_002",
+    "en": "We can't be friends just because{SAUT}we have different opinions?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_003",
+    "en": "Take a hint, why don't you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_004",
+    "en": "Yeah, that's right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_005",
+    "en": "Yeah, that's right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_006",
+    "en": "Yeah, that's right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_007",
+    "en": "Yeah, that's right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_008",
+    "en": "Hikari's getting kicked out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_009",
+    "en": "The side with more people{SAUT}is the right one to follow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_010",
+    "en": "Then what about other opinions?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_011",
+    "en": "They're just being self-centered!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_012",
+    "en": "Yeah, that's right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_013",
+    "en": "Yeah, that's right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_014",
+    "en": "Yeah, that's right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_015",
+    "en": "Yeah, that's right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_016",
+    "en": "You're the one who's wrong,{SAUT}Hikari-chan...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_017",
+    "en": "That's right, Miyuki!{SAUT}You are our friend!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_018",
+    "en": "But Hikari is different...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_019",
+    "en": "She's the only one who's different...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_020",
+    "en": "That's why she's not our friend!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_021",
+    "en": "Not our friend!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_022",
+    "en": "Why just me, though...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MOVIE_023",
+    "en": "It's your fault, Hikari-chan. You need{SAUT}to go with what everyone else thinks.",
+    "fr": ""
+  }
+]

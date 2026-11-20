@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Kanji",
+    "en": "Hey, we can grab some stuff here.{SAUT}Wanna stop a sec?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "Got it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "I got this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Oh, we're not goin' for it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "Oughta do it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "We'll be takin' that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Hell yeah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kanji",
+    "en": "That was close. Guess we got{SAUT}everything we can, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "Nice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "Daaamn!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Yo, a rare one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Kanji",
+    "en": "Looks like a shortcut.{SAUT}Wanna go through it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kanji",
+    "en": "Yeah, that's not happenin'.{SAUT}Nobody's gettin' through there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Kanji",
+    "en": "Man, this place ain't right.{SAUT}Somethin' feels off...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Kanji",
+    "en": "All right! Let's give it all we got!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Kanji",
+    "en": "Yeah, probably safer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Kanji",
+    "en": "It came outta nowhere...{SAUT}That was seriously insane...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Kanji",
+    "en": "Feels pretty Shadowy around here.{SAUT}What's your call?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Kanji",
+    "en": "Got it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Kanji",
+    "en": "Yeah, probably safer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Kanji",
+    "en": "That all?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Kanji",
+    "en": "This oughta lead to the theater.{SAUT}You wanna head back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

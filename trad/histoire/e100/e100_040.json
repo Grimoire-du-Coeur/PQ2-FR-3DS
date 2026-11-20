@@ -1,0 +1,92 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "It's no use. They're not here at all...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "We even found that whole row of doors{SAUT}that won't open. What's going on here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "It's as if we've been spirited away...{SAUT}This whole place is a true mystery.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "All signs do point to this being a movie{SAUT}theater, but something still feels off...{PAGE}We haven't found a trace of anyone else{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Seriously―how the hell'd we end up{SAUT}here?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "I bet we fell from above.{OPTION}Maybe through the side?{OPTION}I think we rose upwards.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "Hmm... I don't recall any sensation of{SAUT}falling, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Hang on―what does it matter, upwards{SAUT}or downwards!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akechi",
+    "en": "True... It felt more like a horizontal{SAUT}displacement than a vertical one.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "Uh, but from where!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "Oh, like we welled up here? Haha,{SAUT}that's a funny way to put it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Wait, what're you even talking about!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana's voice",
+    "en": "Hey, everybody! C'mere for a second!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Maybe Morgana found something!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "Let's get over there, {f 6 1 30 0 0 0}.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Each team pressed a release switch and{SAUT}returned to the rendezvous point...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "*groan* Oh, my back...{PAGE}Man... I could not be happier to be{SAUT}done with that. Like, seriously.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukari",
+    "en": "I never thought they'd make us do a test{SAUT}like that for adaptability... I thought{SAUT}I was gonna die back there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "It seems that all three of the tests were{SAUT}merciless. We were on thin ice ourselves{SAUT}at times...{PAGE}But, I'm relieved that all of the teams{SAUT}managed to complete them safely.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akechi",
+    "en": "Now that all three switches have been{SAUT}pressed, we can finally proceed past{SAUT}the security measures.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Makoto",
+    "en": "What's the matter, Ribbon?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ribbon",
+    "en": "EVERYONE HAS DIFFERENT ABILITIES,{SAUT}BUT IT SEEMED THAT YOU ALL{SAUT}COMPLEMENTED ONE ANOTHER.{PAGE}SOME WERE SKILLED, SOME LACKED{SAUT}SKILL... THIS IS NOT UNIFORMITY.{SAUT}DOES THAT NOT BOTHER YOU?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "Well, it's just a part of our individuality.{SAUT}That Overseer seems to deny it, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ribbon",
+    "en": "INDIVIDUALITY...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akihiko",
+    "en": "Plus, we each had a leader who brought{SAUT}such a scattered bunch together into{SAUT}a working team.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Mitsuru",
+    "en": "Indeed. We must thank our three{SAUT}leaders for that mission.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Eheheh, it just makes me happy that{SAUT}I was able to be useful. Still, this was{SAUT}the result of everyone working together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "Right―it's thanks to our companions{SAUT}doing their best.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Mitsuru",
+    "en": "Ha... You have a point. This is the fruit{SAUT}of everyone's hard work.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "I'm still curious, though―how did they{SAUT}create such elaborate facilities for{SAUT}these tests?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "Oh, about that. They seem to have been{SAUT}holographic simulations.{PAGE}Basically, it was like virtual reality.{SAUT}All the rooms were actually empty.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Shinjiro",
+    "en": "So, that tester device thing didn't even{SAUT}exist?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "Yep. As you'll see, if I press here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "Mweheheh! Now we can get through{SAUT}without being hassled by any more{SAUT}exams!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "For real!? That's awesome... But kind of{SAUT}a bummer, too...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_021",
+    "choix": true,
+    "en": "I'm right there with you.{OPTION}So, what was the point of all that?{OPTION}Should we take the exam again?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ryuji",
+    "en": "Know what I mean? We went through{SAUT}all that―and it was all just a bunch of{SAUT}bullshit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Makoto",
+    "en": "Well, it's hard to accept when all that{SAUT}effort was for nothing but a simulation.{PAGE}Still, we were able to unlock the door{SAUT}to the lab thanks to those efforts, so...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ryuji",
+    "en": "That's not what I mean! We busted our{SAUT}asses in there, but it was basically{SAUT}just some kinda game, right?{PAGE}It's like, we got tired over nothin'...{SAUT}Or maybe it's more like, that was all{SAUT}just one big lie!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Kanji",
+    "en": "Still, I'm never doin' one of those again{SAUT}if I can avoid it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Fuuka",
+    "en": "Everyone, we've confirmed that the{SAUT}research facility's security has been{SAUT}lifted―the entrance is open!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Rise",
+    "en": "Not only that, it seems like you can{SAUT}come and go through that door{SAUT}freely now.{PAGE}Then again, it looks like you still have{SAUT}a long way to go, so be careful as you{SAUT}proceed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "I see―roger that. Well everyone, let's go!",
+    "fr": ""
+  }
+]

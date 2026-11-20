@@ -1,0 +1,79 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "Yikes, what's that? There's a big heap{SAUT}of junk over there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Is that... all rubbish? That's quite a lot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "locuteur": "Kanji",
+    "en": "Ugh, who the hell left all this trash{SAUT}in the middle of the road?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_2",
+    "locuteur": "Makoto",
+    "en": "Getting through that seems too risky.{SAUT}Is there any way to get around it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akihiko",
+    "en": "Should we just haul it all out of the{SAUT}way? We could think of it as strength{SAUT}training...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Shinjiro",
+    "en": "There goes the muscle-brained idiot{SAUT}again... Stay outta this. We're trying{SAUT}to come up with a real solution here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Aigis",
+    "en": "Then, shall we destroy it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Shinjiro",
+    "en": "*sigh* You too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "However, that may not be the worst{SAUT}idea.{PAGE}It would be difficult with even our{SAUT}combined strength to move this{SAUT}much debris...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "You're right, we'd need some kind of{SAUT}heavy machinery. Is there anything{SAUT}nearby we can use?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Mitsuru",
+    "en": "...I see nothing of the sort around here.{SAUT}Oh well, let's search the area and try{SAUT}to find another method.{PAGE}Ah―and it'd be best to note this down{SAUT}on the map for later, just in case.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "Then I'll design a special symbol for it.{SAUT}This heap of trash has inspired me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_ICON_CLASH_BLOCK_OPE",
+    "en": "A {f 0 1 2}Debris{f 0 1 0} icon has been added{SAUT}to the map on the bottom screen.{PAGE}If you wish to check how to use{SAUT}this icon once more...{PAGE}Press {f 0 1 2}HELP{f 0 1 0} at the bottom right of{SAUT}the map and check the {f 0 1 2}Icon Types{f 0 1 0}.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": "Over there. I guess that's our target.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Rise",
+    "en": "Senpai, that one's strong...!{SAUT}Be careful out there, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "Don't worry. I've got Joker and{SAUT}the others with me.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "You can handle this one.{OPTION}We'll be counting on you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P4 Hero",
+    "en": "Right. I'll give it everything I've got.{SAUT}Let's win this!",
+    "fr": ""
+  }
+]

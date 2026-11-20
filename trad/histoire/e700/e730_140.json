@@ -1,0 +1,55 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "Huh!? The door closed on us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Mitsuru",
+    "en": "Hm, it seems that this door {f 0 1 2}works{SAUT}in conjunction with the others{SAUT}like it{f 0 1 0}.{PAGE}They always {f 0 1 2}open and close with the{SAUT}similar doors elsewhere{f 0 1 0}... Progressing{SAUT}through here is not going to be easy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Well, Joker, now's the time to make{SAUT}good use of our map!{PAGE}Be sure to note which doors are linked,{SAUT}all right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukiko",
+    "en": "Oh! In that case, wouldn't it be better{SAUT}if we had something for that?{PAGE}Like, a new mark for the map!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "That's true. Fox?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "I know just the thing... How about this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukari",
+    "en": "Eh!? Wow, he's insanely good! This{SAUT}would be really useful for the map.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mitsuru",
+    "en": "You're our onsite commander, Joker.{SAUT}Make sure that you draw an accurate{SAUT}map while we traverse this movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_ICON_AB_GATE_OPEN",
+    "en": "A {f 0 1 2}Security Gate{f 0 1 0} icon has been added{SAUT}to the map on the bottom screen.{PAGE}If you wish to check how to use{SAUT}this icon once more...{PAGE}Press {f 0 1 2}HELP{f 0 1 0} at the bottom right of{SAUT}the map and check the {f 0 1 2}Icon Types{f 0 1 0}.",
+    "fr": ""
+  }
+]

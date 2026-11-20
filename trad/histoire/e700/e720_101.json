@@ -1,0 +1,55 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Hm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "What's up, Fox?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Well, I was thinking that it may be{SAUT}a good idea to come up with a specific{SAUT}mark for the cages...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Yes, that does sound like a good idea.{PAGE}I think having one especially for those{SAUT}cages would be useful when noting{SAUT}them on the map.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "I want one of those too.{OPTION}Is that really necessary?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "All right, how about something like this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "Hmm... Allow me to offer an example,{SAUT}just in case.{PAGE}How about something like this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Well, there's no downside to making the{SAUT}map easier for us to read. Why not make{SAUT}use of it after all?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_ICON_KAITEN_KABE_OPE",
+    "en": "A {f 0 1 2}Rotating Cage{f 0 1 0} icon has been added{SAUT}to the map on the bottom screen.{PAGE}If you wish to check how to use{SAUT}this icon once more...{PAGE}Press {f 0 1 2}HELP{f 0 1 0} at the bottom right of{SAUT}the map and check the {f 0 1 2}Icon Types{f 0 1 0}.",
+    "fr": ""
+  }
+]

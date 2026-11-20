@@ -1,0 +1,146 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akihiko",
+    "en": "...It's a dead end.{PAGE}Still, this place is eerily quiet. It looks{SAUT}like humans really don't exist around{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "This is a world where mankind has gone{SAUT}extinct, correct?{PAGE}I was thinking that perhaps we'd come{SAUT}across someone somewhere, but I{SAUT}haven't seen anyone...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "They're hiding.{OPTION}They've all been frozen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "Hiding...? Are you saying they're{SAUT}forming some sort of resistance?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "That sounds so cool!{PAGE}Like, they're lurking deep underground,{SAUT}just waiting for the right moment to{SAUT}finally rise up against the machines...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Yeah, right! There's no way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "Perhaps what's left of humanity is being{SAUT}kept in a cryogenic sleep somewhere?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Ah, I was thinking the same thing.{PAGE}Perhaps what's left of humanity is being{SAUT}kept in a cryogenic sleep somewhere?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "I see. There's a possibility they're being{SAUT}stored in large numbers and turned into{SAUT}living batteries...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akechi",
+    "en": "In a way, using humans as a natural{SAUT}resource would be the ultimate form of{SAUT}eco-friendliness. I'm rather intrigued.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosuke",
+    "en": "Nope! No way! You guys are scaring me,{SAUT}talkin' like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Morgana",
+    "en": "Okay, everyone, enough daydreaming{SAUT}for now. We should get going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0000",
+    "locuteur": "Akihiko",
+    "en": "...It's a dead end.{PAGE}Still, this place is eerily quiet. It looks{SAUT}like humans really don't exist around{SAUT}here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0001",
+    "locuteur": "Haru",
+    "en": "This is a world where mankind has gone{SAUT}extinct, correct?{PAGE}I was thinking that perhaps we'd come{SAUT}across someone somewhere, but I{SAUT}haven't seen anyone...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_0002",
+    "choix": true,
+    "en": "They're hiding.{OPTION}They've all been frozen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0003",
+    "locuteur": "Mitsuru",
+    "en": "Hiding...? Are you saying they're{SAUT}forming some sort of resistance?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0004",
+    "locuteur": "Futaba",
+    "en": "That sounds so cool!{PAGE}Like, they're lurking deep underground,{SAUT}just waiting for the right moment to{SAUT}finally rise up against the machines...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0005",
+    "locuteur": "Ryuji",
+    "en": "Yeah, right! There's no way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0006",
+    "locuteur": "Akechi",
+    "en": "Perhaps what's left of humanity is being{SAUT}kept in a cryogenic sleep somewhere?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0007",
+    "locuteur": "Akechi",
+    "en": "Ah, I was thinking the same thing.{PAGE}Perhaps what's left of humanity is being{SAUT}kept in a cryogenic sleep somewhere?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0008",
+    "locuteur": "Naoto",
+    "en": "I see. There's a possibility they're being{SAUT}stored in large numbers and turned into{SAUT}living batteries...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0009",
+    "locuteur": "Akechi",
+    "en": "In a way, using humans as a natural{SAUT}resource would be the ultimate form of{SAUT}eco-friendliness. I'm rather intrigued.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0010",
+    "locuteur": "Yosuke",
+    "en": "Nope! No way! You guys are scaring me,{SAUT}talkin' like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_0011",
+    "locuteur": "Morgana",
+    "en": "Okay, everyone, enough daydreaming{SAUT}for now. We should get going.",
+    "fr": ""
+  }
+]

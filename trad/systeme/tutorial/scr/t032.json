@@ -1,0 +1,7 @@
+[
+  {
+    "id": "MSG_NAVI_TUTORIAL",
+    "en": "Due to the addition of a new member,{SAUT}you can now specialize navigators in{SAUT}either {f 0 1 2}combat{f 0 1 0} or {f 0 1 2}exploration{f 0 1 0}. Do this{SAUT}in {f 0 1 2}Support{f 0 1 0} under Party while in the{SAUT}theater.{PAGE}Navigators have both {f 0 1 2}combat-only{f 0 1 0} skills{SAUT}and {f 0 1 2}exploration-only{f 0 1 0} skills. If you sort{SAUT}the navigators into these specialties, they{SAUT}will {f 0 1 2}only use the skills of the specialty{SAUT}you've chosen for them{f 0 1 0}.{PAGE}You can now change the {f 0 1 2}navi voice{f 0 1 0}.{SAUT}If you have purchased any DLC navi{SAUT}voices, press {f 0 1 2}START{f 0 1 0} to change the voice.{PAGE}\"Navi Voice\" {f 0 1 2}only changes the voice{f 0 1 0},{SAUT}not the skills of either the combat or{SAUT}exploration navigator.",
+    "fr": ""
+  }
+]

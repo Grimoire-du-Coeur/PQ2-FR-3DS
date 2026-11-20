@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Koromaru",
+    "en": "Woof! Woof!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Akechi",
+    "en": "Yes, more bones. Another job well{SAUT}done, Koromaru-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "There, there, good boy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Hahaha! That tickles!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Rise",
+    "en": "Wow, Crow and Koro-chan go great{SAUT}together.{PAGE}A handsome guy and his dog. It's a{SAUT}perfect pair.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukiko",
+    "en": "He seems to really like you. Maybe he's{SAUT}happy to be teamed up with someone{SAUT}so talented.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukari",
+    "en": "Ahaha. It's not like Koro-chan dislikes{SAUT}people who aren't talented or anything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Junpei",
+    "en": "Hmm? Why're you looking at me,{SAUT}Yuka-tan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "Well, he's certainly different from{SAUT}another animal I know that only thinks{SAUT}about chasing skirts.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Teddie",
+    "en": "Hey! What're you looking at me for!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "...Ahaha. I see everyone's getting along{SAUT}as usual.{PAGE}Now, let's see about these bones...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Koromaru",
+    "en": "*whine*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ken",
+    "en": "......{PAGE}What's the verdict, Crow?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Akechi",
+    "en": "Well, these do look new. We're{SAUT}definitely getting close.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Koromaru",
+    "en": "Arf! Bark, bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ken",
+    "en": "He says he smells something to{SAUT}the east.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "Got it. East it is.{PAGE}We'd better keep our guard up from{SAUT}here on out. Let's stay focused, Joker.",
+    "fr": ""
+  }
+]

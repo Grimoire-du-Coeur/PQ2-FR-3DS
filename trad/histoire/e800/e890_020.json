@@ -1,0 +1,176 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Well! I believe we all know the{SAUT}drill by now...{PAGE}You have acquired a new piece of film{SAUT}containing hidden possibilities of the{SAUT}power of the wild card.{PAGE}Accordingly, I have found accomplices{SAUT}to assist in restoring its light.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Caroline",
+    "en": "Hmph. We're not here for your sake.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Justine",
+    "en": "We happened to find ourselves bored.{SAUT}That is the only reason we're{SAUT}indulging you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Ooh, double tsundere blast!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "I appreciate it, you two.{OPTION}Don't push yourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Caroline",
+    "en": "Th-There's nothing to appreciate!{SAUT}We already said we're not doing it{SAUT}for you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Justine",
+    "en": "If we emerge victorious over you,{SAUT}there is something in it for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Yeah, you two are tiny. We don't{SAUT}wanna end up hurting you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Caroline",
+    "en": "U-Ugh, the audacity! The size of{SAUT}our bodies has nothing to do with{SAUT}this!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Justine",
+    "en": "How dare you underestimate us...{SAUT}You'll regret your words soon enough.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Caroline",
+    "en": "Hey, Elizabeth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_1",
+    "locuteur": "Caroline",
+    "en": "You better not forget your promise!{SAUT}We put those prisoners in their place,{SAUT}and you get us more hot dogs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Elizabeth",
+    "en": "You bet your sweet bippy. Feel free{SAUT}to take as much of my share as{SAUT}you like.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Caroline",
+    "en": "You hear that, Justine? I want an{SAUT}absolute, unquestionable, perfect{SAUT}victory.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Justine",
+    "en": "I understand.{PAGE}I vow that they will be destroyed,{SAUT}on the name of soft buns and savory{SAUT}sausages everywhere.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Hot dogs again...? Man, you guys{SAUT}are obsessed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Elizabeth",
+    "en": "However! For it to count as your{SAUT}victory, they must clearly state:{SAUT}\"We give up.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Justine",
+    "en": "I've no issue with that.{PAGE}Making the prisoners admit defeat{SAUT}won't be difficult. They'll run home,{SAUT}tails between their legs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Caroline",
+    "en": "Now, Inmate. Are you prepared?{SAUT}If you want to back out, now's{SAUT}your last chance.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Let's do this!{OPTION}Give me some time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Caroline",
+    "en": "Hmph! Well, you've got spirit, at least!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Justine",
+    "en": "We'll see how long it takes to break it.{SAUT}Now, let us begin.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Caroline",
+    "en": "Heh heh... What, getting cold feet?{SAUT}I can't blame you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Justine",
+    "en": "We will not run or hide. Once you{SAUT}are ready, come speak to us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Caroline",
+    "en": "What's the matter? You prepared{SAUT}to get crushed yet?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "I'm ready.{OPTION}I need a bit longer.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Caroline",
+    "en": "Heh heh... We were getting tired of{SAUT}waiting around!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Justine",
+    "en": "Well then, come to the Velvet Room.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Justine",
+    "en": "Is that so? Then come speak to us{SAUT}once you are fully prepared.",
+    "fr": ""
+  }
+]

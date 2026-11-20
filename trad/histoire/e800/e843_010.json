@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Now then, the goal of this special{SAUT}screening...{PAGE}You must reach the designated area{SAUT}in Hikari's movie. Quite a simple{SAUT}objective.{PAGE}...Oh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Shinjiro",
+    "en": "What?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Well, there is a note here that says{SAUT}\"you may take either path.\"",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "What does that mean?{OPTION}What's with the note?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "I can't say... I don't know anything{SAUT}about the screening beyond what's{SAUT}documented here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Mitsuru",
+    "en": "Does that mean that there are{SAUT}multiple paths to this goal...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akihiko",
+    "en": "Maybe they're sending us to either{SAUT}hell or purgatory, and it's up to us{SAUT}to pick.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "Dude, this is weird enough without{SAUT}these crazy ideas...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kanji",
+    "en": "Well, can't just stand here thinkin'{SAUT}about it. We'd better go take a look.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  }
+]

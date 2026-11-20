@@ -1,0 +1,47 @@
+[
+  {
+    "id": "MSG_0000",
+    "en": "Well... See you, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "en": "She's gone...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "en": "It's still sad to see her go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "It's okay, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "en": "I mean, she made us a promise.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_2",
+    "en": "After all... Hikari told us, \"See you.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_3",
+    "en": "That's how we know we'll definitely{SAUT}meet again someday!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "en": "Yes, that's right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "en": "I'm certain of it...",
+    "fr": ""
+  }
+]

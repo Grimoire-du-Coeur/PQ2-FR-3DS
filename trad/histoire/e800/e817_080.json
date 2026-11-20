@@ -1,0 +1,248 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "Well, that's that. Man, I really showed{SAUT}those Shadows this time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Mitsuru",
+    "en": "Iori!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Eek...! Sorry! You're right, I was messin'{SAUT}around too much!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "No, I just want to say... good job.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Mitsuru",
+    "en": "You too, Takeba. Well done.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukari",
+    "en": "Oh, uh, thanks...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "Thanks, Kirijo-san!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Are you okay, Mitsuru-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Mitsuru",
+    "en": "Yes, I'm fine, thanks to all of you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Makoto",
+    "en": "*chuckle* I think you did pretty well,{SAUT}don't you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mitsuru",
+    "en": "You mean as the bait? That only{SAUT}worked because I had everyone's{SAUT}help.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "No, I meant the whole operation.{SAUT}I thought your team coordinated with{SAUT}you perfectly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010_1",
+    "locuteur": "Makoto",
+    "en": "Even Iori-kun. He led the charge when{SAUT}we sprung the trap.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Mitsuru",
+    "en": "Hrrm... But wasn't he only doing that{SAUT}because he was afraid of me getting{SAUT}angry at him?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "That's not it.{OPTION}It's possible.{OPTION}You inspired him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Makoto",
+    "en": "Right. I think everyone noticed your{SAUT}determination in leading the group.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013_1",
+    "locuteur": "Makoto",
+    "en": "That's why they all stepped up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Makoto",
+    "en": "Well, that might've been part of it... but{SAUT}I doubt that was the only reason.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014_1",
+    "locuteur": "Makoto",
+    "en": "I think everyone noticed your{SAUT}determination in leading the group.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014_2",
+    "locuteur": "Makoto",
+    "en": "That's why they all stepped up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Makoto",
+    "en": "Right. I think everyone realizes that,{SAUT}although you're strict, you feel a great{SAUT}sense of responsibility for your team.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Mitsuru",
+    "en": "I-I see... Very well, then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016_1",
+    "locuteur": "Mitsuru",
+    "en": "Still, I would prefer if they opened{SAUT}up to me a little more...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Opened up...? Maybe you just need to{SAUT}create some kind of opportunity.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "Like a shared hobby?{OPTION}Eat some sweets with everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "There you go! It's easy to talk about{SAUT}things you're both interested in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Mitsuru",
+    "en": "A hobby... I suppose I like motorcycles...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Hey, that's great! Guys love{SAUT}motorcycles! They're cool as hell!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021_1",
+    "locuteur": "Ryuji",
+    "en": "I never looked at Queen the same way{SAUT}after seeing her mow down Shadows{SAUT}on her motorcycle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Makoto",
+    "en": "Skull! Don't say that...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Mitsuru",
+    "en": "...Mow down? I'm not sure what you{SAUT}mean, but I don't think Iori has much{SAUT}interest in motorcycles.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ann",
+    "en": "Yeah... It doesn't seem like you and{SAUT}Junpei-kun would share any interests...{PAGE}If that's the case, your only choice might{SAUT}be to try doing something he likes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ann",
+    "en": "Oh, good idea! Queen and I started{SAUT}getting along again after we went and{SAUT}ate cr○pes together!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Mitsuru",
+    "en": "Sweets... I do enjoy afternoon tea.{SAUT}Perhaps I'll invite Iori next time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Makoto",
+    "en": "Hmm... Well, we enjoyed that, but, for{SAUT}some reason, that doesn't exactly sound{SAUT}like Iori-kun's thing...{PAGE}At this point, your only choice might be{SAUT}to try doing something he likes...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Mitsuru",
+    "en": "Something he likes... That will be{SAUT}difficult.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028_1",
+    "locuteur": "Mitsuru",
+    "en": "I imagine you had to overcome a{SAUT}similar problem?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Makoto",
+    "en": "Yes. At first, it was nothing but a bunch{SAUT}of headbutting and misunderstanding{SAUT}almost every day.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029_1",
+    "locuteur": "Makoto",
+    "en": "But things will work out eventually as{SAUT}long as you don't give up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Mitsuru",
+    "en": "I see... I think I'm beginning to{SAUT}understand you a little better now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Makoto",
+    "en": "*chuckle* Well, we should be heading{SAUT}back now.",
+    "fr": ""
+  }
+]

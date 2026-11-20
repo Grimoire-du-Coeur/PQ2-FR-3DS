@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "All right! There really are more{SAUT}Treasure Spots out here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Nyeheheh... No matter how many{SAUT}times I find treasure, I still get that{SAUT}rush...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Rise",
+    "en": "That takes care of the first one.{SAUT}Two places left, guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "Good. On to the next warp point.{SAUT}We should find more treasure there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "It's a rather large area, so maybe we{SAUT}should mark where we've been to.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Morgana",
+    "en": "Okay! Then let's get going! The{SAUT}treasure's out there waiting for me!",
+    "fr": ""
+  }
+]

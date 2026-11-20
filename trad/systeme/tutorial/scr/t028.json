@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "Some skills can inflict {f 0 1 2}status ailments{f 0 1 0},{SAUT}which are negative effects on characters.{PAGE}Status ailments may prevent someone{SAUT}from acting, or even deal damage.{PAGE}If allies are afflicted with status ailments,{SAUT}try to cure them as soon as possible!",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "Also, keep in mind that it's not just your{SAUT}team that's vulnerable to status ailments;{SAUT}you can inflict them on Shadows, too!{SAUT}Search among your team members for{SAUT}attacks or skills that have a chance of{SAUT}causing a status ailment, and use them to{SAUT}your advantage.",
+    "fr": ""
+  }
+]

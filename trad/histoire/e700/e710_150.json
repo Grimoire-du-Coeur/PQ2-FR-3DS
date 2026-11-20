@@ -1,0 +1,12 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "There are treasure chests that {f 0 1 2}only{SAUT}open when a floor is 100% explored{f 0 1 0}.{PAGE}The chests contain {f 0 1 2}very useful items{f 0 1 0},{SAUT}so you should strive to open them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "en": "In the {f 0 1 2}bottom screen's upper right{f 0 1 0} is{SAUT}how much floor you've explored.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,750 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "We've brought the frozen meat and{SAUT}cooking equipment along with us{SAUT}while hunting for a good cooking spot...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Hmm, if we're going to cook this meat,{SAUT}why not do it around here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "It's an open area, there's a water source{SAUT}nearby... I'd say it's as safe a place{SAUT}to cook as we could hope for.{PAGE}We may have only found a pot to{SAUT}cook in, but we should be fine, so long{SAUT}as we have a heat source for it...{PAGE}The only thing is that we have no{SAUT}recipe to work from. Will that be a{SAUT}problem?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukiko",
+    "en": "Naoto-kun, new discoveries are always{SAUT}waiting to be made in cooking. We just{SAUT}need to believe in ourselves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Rise",
+    "en": "Mmhm! Improvising a tasty dish with{SAUT}a minimal number of ingredients is a{SAUT}useful cooking skill, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "I'm getting fired up! Time for us gals{SAUT}to bust out our culinary skills!{PAGE}Let's get to it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "W-Wait... Since there's only so much{SAUT}meat, shouldn't we get a more reliable―{SAUT}I mean, less experimental cook?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "Y-Yeah, what he said! We'll handle{SAUT}the cooking part of the bait, and you{SAUT}can, uh...{PAGE}I know! You can go out and look for{SAUT}other ingredients for us to use! Please!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kanji",
+    "en": "You're kinda freakin' out there,{SAUT}Yosuke-senpai―I get it, though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "Hey, what's that supposed to mean!?{SAUT}Does our cooking really upset you{SAUT}so much?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "It's more freaky than upsetting.{OPTION}I'll be counting on you ladies.{OPTION}You'd be the best at gathering.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosuke",
+    "en": "Yeah, it's super fre―Wait, did you{SAUT}really just say that out loud!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosuke",
+    "en": "Wha!? Uh, you mean, like, you're{SAUT}counting on them to gather a lot of{SAUT}ingredients, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yosuke",
+    "en": "Yeah, what he said! We want you to use{SAUT}your... feminine instincts, or whatever,{SAUT}to find the best ingredients for us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P4 Hero",
+    "en": "Don't forget, we need to start a fire to{SAUT}cook the meat, right? That's why we feel{SAUT}most suited for the cooking part of this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Haru",
+    "en": "Looking for ingredients does sound fun...{SAUT}I feel like we can find lots of new and{SAUT}interesting ones here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "Ooh, I wanna do that too! What say we{SAUT}leave the cooking to them and us gals{SAUT}go on a little hunt?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Naoto",
+    "en": "*chuckle* You make it sound like an{SAUT}adventure... That seems more to my{SAUT}taste as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Akechi",
+    "en": "In that case, how about we prepare{SAUT}the food while you ladies search for{SAUT}additional ingredients?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "Sounds all right to me. We'll leave the{SAUT}cooking up to you―this time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Okay, off we go―in search of new meats!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yukiko",
+    "en": "Um, we already have the meat, so why{SAUT}don't we look for... other ingredients,{SAUT}for flavor―like seaweed and shark fin?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Makoto",
+    "en": "Don't tell me we're walking all the way{SAUT}to the ocean to forage... At any rate,{SAUT}we should get going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah! Let's go, ladies!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Teddie",
+    "en": "Whew, it worked... Excellent job,{SAUT}Yosuke!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yosuke",
+    "en": "If we'd have left the cooking to them, we{SAUT}wouldn't end up with bait―we'd get{SAUT}a chemical weapon...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "Dude... Are the girls on your team{SAUT}really that bad at cooking?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yosuke",
+    "en": "Don't even ask... There are things in this{SAUT}world you're better off not knowing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Teddie",
+    "en": "But have no fear! Our Sensei is a master{SAUT}cook!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "Oh? I'd bet Joker's skills stack up with{SAUT}{f 6 1 13 0 0 0}'s...{PAGE}After all, he's lodging at a caf〒. When it{SAUT}comes to cooking curry, he can't be beat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P4 Hero",
+    "en": "That's great to hear. Let's work together{SAUT}so we can make sure this turns out well.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_031",
+    "choix": true,
+    "en": "I'm expecting top-tier cuisine.{OPTION}This is such a drag.{OPTION}I'll steal your appetites!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Yosuke",
+    "en": "Oh, are you guys bonding over cooking?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ryuji",
+    "en": "Hell yeah, looks like this is gonna be{SAUT}a real show! I can't wait to see what{SAUT}they whip up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yusuke",
+    "en": "Cooking in an unfamiliar setting can{SAUT}be discomforting. The inconvenience{SAUT}alone may seem impossible to handle...{PAGE}However, anything can be eaten once{SAUT}it's been cooked―that is the one thing{SAUT}I am most certain of.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Kanji",
+    "en": "I don't know why, but, the way this guy{SAUT}talks... I believe him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Teddie",
+    "en": "Ohhh, his pride as a chef has been{SAUT}ignited like a bonfire!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yusuke",
+    "en": "It seems that we can expect something{SAUT}great from them. I can't wait to taste{SAUT}what they make.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Ryuji",
+    "en": "While you're droolin' over there, may I{SAUT}remind you that we're doing all this to{SAUT}make dino bait, not Fox food?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "en": "After cleaning the meat and finishing{SAUT}the other cooking preparations...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Akechi",
+    "en": "It seems that we're ready to cook{SAUT}once the ladies return.{PAGE}Joker and {f 6 1 12 0 0 0}-kun both{SAUT}handled everything so skillfully.{SAUT}I'm impressed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Morgana",
+    "en": "It's already lookin' tasty and it's not even{SAUT}cooked yet... I'm excited to see how this{SAUT}turns out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Futaba",
+    "en": "Hey, dudes―looks like the Gatherin'{SAUT}Girls are back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Chie",
+    "en": "Sorry about the wait!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Yukiko",
+    "en": "We collected a lot of ingredients.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Ryuji",
+    "en": "Ooh, perfect timin'. So, what did you{SAUT}bring back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Naoto",
+    "en": "This is what I found.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Yosuke",
+    "en": "...Um, is it some kind of grass?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Haru",
+    "en": "It appears to be some type of herb.{PAGE}Here, give it a sniff―doesn't it smell{SAUT}nice?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Morgana",
+    "en": "Meowww!? That's a bit too grassy{SAUT}for my nose...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Akechi",
+    "en": "It is rather... pungent, but herbs can{SAUT}complement the smell of meats well,{SAUT}so these could be quite useful.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Chie",
+    "en": "Okay, me next! Take a look...{SAUT}Ta-daaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "Kanji",
+    "en": "Holy shit, it's huge! What kinda egg{SAUT}is this!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Chie",
+    "en": "Eh, I dunno. I just saw it on the ground{SAUT}and picked it up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "Yosuke",
+    "en": "Dude, this thing better not end up{SAUT}hatching on us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Yusuke",
+    "en": "It has a pleasant shape, but a bold, wild{SAUT}pattern―I want to take it back for further{SAUT}study instead of cracking it open...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Yukiko",
+    "en": "This is what I found―here you go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "P4 Hero",
+    "en": "Is that... some kind of bug-eating pitcher{SAUT}plant?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_058",
+    "locuteur": "Teddie",
+    "en": "My animal instincts... are telling me{SAUT}that thing's dangerous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_059",
+    "locuteur": "Yukiko",
+    "en": "Wouldn't it be cute as a serving dish?{SAUT}I just picked it, so it's nice and fresh.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_060",
+    "choix": true,
+    "en": "That's a great idea.{OPTION}That thing is so creepy.{OPTION}We should cook it instead.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_061",
+    "locuteur": "Ryuji",
+    "en": "Dude, are you for real!? If we use that as{SAUT}a dish, it'll just eat the food itself!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_062",
+    "locuteur": "Yusuke",
+    "en": "I suppose it doesn't appeal to everyone's{SAUT}sense of beauty. However, I find it rather{SAUT}magnificent.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_063",
+    "locuteur": "Yukiko",
+    "en": "Right? I think it looks really neat too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_064",
+    "locuteur": "P4 Hero",
+    "en": "There's nothing more I can say...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_065",
+    "locuteur": "Yukiko",
+    "en": "It's really fleshy and fibrous, so I bet it{SAUT}has great texture. It seems like it would{SAUT}be pretty healthy, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066",
+    "locuteur": "Ryuji",
+    "en": "Isn't Amagi-san next in line to be{SAUT}the hostess of some historic inn?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_066_5",
+    "locuteur": "Ryuji",
+    "en": "Did I hear that wrong? Please tell me{SAUT}I did...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_067",
+    "locuteur": "P4 Hero",
+    "en": "No, you didn't... But, I know what{SAUT}you mean...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_068",
+    "locuteur": "Ann",
+    "en": "Aw, man... Everybody else gets to show{SAUT}off a bunch of cool stuff, but all I got{SAUT}were these...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_069",
+    "locuteur": "Ryuji",
+    "en": "What is it, what is it? C'mon, show us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_070",
+    "locuteur": "Morgana",
+    "en": "Ooooh, what an enticing aroma! Could{SAUT}those be what I think they are?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_071",
+    "locuteur": "Haru",
+    "en": "They're wild matsutake mushrooms!{PAGE}-chan spotted them,{SAUT}then the ladies of the Phantom Thieves{SAUT}swiped every last one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_072",
+    "locuteur": "Yosuke",
+    "en": "Daaaaamn! Those things are expensive―{SAUT}and there's so many!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_073",
+    "locuteur": "Akechi",
+    "en": "But, why are matsutake mushrooms{SAUT}growing in a jungle?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_074",
+    "locuteur": "Naoto",
+    "en": "I suspect they were most likely involved{SAUT}in genetic manipulation experiments.{PAGE}The researchers may have developed{SAUT}them concurrently with the dinosaurs...{SAUT}That's just my own speculation, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_075",
+    "locuteur": "P3 Fem Protag",
+    "en": "So, the girls' total yield is a bunch of{SAUT}herbs, some kind of egg, a pitcher plant,{SAUT}and lots of matsutake mushrooms!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_076",
+    "locuteur": "Makoto",
+    "en": "That pitcher plant is a bit... you know,{SAUT}but the others seem quite usable, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_077",
+    "locuteur": "Yusuke",
+    "en": "The pot has been brought up to proper{SAUT}temperature, and the meat is ready{SAUT}to go as well.{PAGE}Joker, {f 6 1 12 0 0 0}―we leave the rest{SAUT}in your capable hands.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_078",
+    "locuteur": "P4 Hero",
+    "en": "I guess we'll cook the mushrooms first.{SAUT}What should we do with them?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_079",
+    "choix": true,
+    "en": "Quickly roast them over the fire.{OPTION}Mince them up extremely fine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_080",
+    "locuteur": "Morgana",
+    "en": "Oooh―the moment they hit the flames,{SAUT}this pleasant scent wafted my way...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_081",
+    "locuteur": "Teddie",
+    "en": "My appetite's been fully roused. I can{SAUT}feel my tummy growling like mad!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_082",
+    "locuteur": "Makoto",
+    "en": "Huh? That's a... surprising method...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_083",
+    "locuteur": "Chie",
+    "en": "Whoa, they just keep getting smaller{SAUT}and smaller, at such insane speed...{SAUT}It almost feels like a waste!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_084",
+    "locuteur": "P4 Hero",
+    "en": "All right, next up is the meat. How do you{SAUT}think we should cook it?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_085",
+    "choix": true,
+    "en": "Quickly sear it over high heat.{OPTION}Simmer it slowly over low heat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_086",
+    "locuteur": "Ryuji",
+    "en": "Oh man, it looks sooooo good! It's got{SAUT}those burn marks an' everything! I'm{SAUT}gettin' hungry...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_087",
+    "locuteur": "Yukiko",
+    "en": "Hungry? Try some of this, then!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_088",
+    "locuteur": "Ryuji",
+    "en": "Ooh, don't mind if I d―{PAGE}Augh, this is that bug-eatin' plant! It's{SAUT}still moving; there's no way I'm gonna{SAUT}eat this―Wait, why is it MOVING!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_089",
+    "locuteur": "Chie",
+    "en": "Grilling it so slowly is making me antsy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_090",
+    "locuteur": "Yukiko",
+    "en": "I agree with you there. I'd rather scorch{SAUT}it with a strong flame.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_091",
+    "locuteur": "Yosuke",
+    "en": "I'm begging you, Yukiko―please, don't{SAUT}go anywhere near that fire...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_092",
+    "locuteur": "Yusuke",
+    "en": "...Ah, this meat is beautifully browned.{SAUT}I believe it's ready to plate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_093",
+    "locuteur": "Makoto",
+    "en": "Now, we should garnish it with{SAUT}the mushrooms we prepared...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_094",
+    "locuteur": "Chie",
+    "en": "And now we add the special sauce...{SAUT}There―voila!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_095",
+    "locuteur": "Yosuke",
+    "en": "Wha―Chie! What the hell did you{SAUT}just do!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_096",
+    "locuteur": "Chie",
+    "en": "It's, uhh... Movie Meat with Foraged{SAUT}Jungle Sauce?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_097",
+    "locuteur": "Yosuke",
+    "en": "I meant what's IN the sauce! And when{SAUT}did you even make that stuff!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_098",
+    "locuteur": "Yukiko",
+    "en": "We combined the egg white, the herbs,{SAUT}and some liquid from the inside of the{SAUT}pitcher plant, then boiled it all down.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_099",
+    "locuteur": "Naoto",
+    "en": "Um... They said not using the ingredients{SAUT}they brought back would be a waste,{SAUT}so...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_099_5",
+    "locuteur": "Naoto",
+    "en": "I couldn't stop them. I'm sorry.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_100",
+    "locuteur": "Yusuke",
+    "en": "Good god, this dish appears to have{SAUT}been... slimed!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_101",
+    "locuteur": "Chie",
+    "en": "It's, um... What do they call it? Organic?{SAUT}Also, it's nice and green, and doesn't it{SAUT}smell like something a dino would eat?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_102",
+    "locuteur": "Yosuke",
+    "en": "Not in the least! It just reeks. It smells{SAUT}like... grassy eggs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_103",
+    "locuteur": "Kanji",
+    "en": "What're we gonna do with this?{SAUT}It's been turned into some kinda{SAUT}mystery object.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_104",
+    "locuteur": "P3 Fem Protag",
+    "en": "Should we... do a taste test?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_105",
+    "locuteur": "Yosuke",
+    "en": "Huh!? But who's gonna―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_106",
+    "locuteur": "Teddie",
+    "en": "Alley-oop! Down your hatch.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_107",
+    "locuteur": "Yosuke",
+    "en": "Hrgh!? Bluh! Ah, you moron! I-I don't{SAUT}wanna die yet―Blech! Blech!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_108",
+    "locuteur": "P4 Hero",
+    "en": "Yosuke... Please make it through this{SAUT}alive...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_109",
+    "locuteur": "Yosuke",
+    "en": "*cough* Urgh! *wheeze*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_110",
+    "locuteur": "Ann",
+    "en": "Are you okay!? Should we try to make{SAUT}you throw up or something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_111",
+    "locuteur": "Yosuke",
+    "en": "N-Nnnnngh... Hrrrrrghhhh!{PAGE}I-It's... It's...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_112",
+    "locuteur": "Yosuke",
+    "en": "It's... delicious!!!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_113",
+    "locuteur": "Morgana",
+    "en": "Are you for real!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_114",
+    "locuteur": "Yosuke",
+    "en": "Seriously! It's so good, it makes no{SAUT}sense! Try it, you guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_115",
+    "locuteur": "P3 Fem Protag",
+    "en": "*munch munch*{PAGE}Wow, he's right, this is good! It's creamy{SAUT}and bursting with flavor!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_116",
+    "locuteur": "Haru",
+    "en": "Mm, this could be quite addicting...{SAUT}The sauce adds a richness to the meat{SAUT}that really complements the flavor.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_117",
+    "locuteur": "Ryuji",
+    "en": "I can't believe it―that slime worked!?{SAUT}Did it have some kinda chemical{SAUT}reaction with the meat or something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_118",
+    "locuteur": "Yusuke",
+    "en": "What a unique harmony of flavor and{SAUT}aroma! This sauce is nothing less than{SAUT}a miraculous collaboration.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_119",
+    "locuteur": "Chie",
+    "en": "Hear that, Yosuke? Our cooking skills{SAUT}can't be beat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_120",
+    "locuteur": "Yosuke",
+    "en": "No, this was a miracle combined with{SAUT}a coincidence... If not for the meat, this{SAUT}would just be eggy, grassy slime.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_121",
+    "locuteur": "Akechi",
+    "en": "In any case, I think we should be able{SAUT}to lure the carnivore with this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_122",
+    "locuteur": "Naoto",
+    "en": "Let's go set the bait before it gets cold.",
+    "fr": ""
+  }
+]

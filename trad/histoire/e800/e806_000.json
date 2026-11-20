@@ -1,0 +1,205 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yukiko",
+    "en": "Yusuke-kun, you study art, right?{PAGE}If you don't mind, do you think you{SAUT}could give me some drawing tips?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Are you interested in art as well,{SAUT}Amagi-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yukiko",
+    "en": "Mhm. I was thinking I could put it on{SAUT}display at our inn... What do you think?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Good idea.{OPTION}It might draw in customers.{OPTION}Why don't you help her out?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Hm. Something drawn by the manager{SAUT}herself might help the inn grow more{SAUT}popular.{PAGE}Very well. I am still in training,{SAUT}but if it's all right with you,{SAUT}then I accept.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukiko",
+    "en": "Thank you!{PAGE}...So what do we do now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yusuke",
+    "en": "First, I'd like to know what kind of picture{SAUT}you wish to draw.{PAGE}You may use whatever you{SAUT}like as a motif.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukiko",
+    "en": "Got it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yukiko",
+    "en": "What do you think?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Looks good.{OPTION}Looks good enough to eat.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "It's not bad at all, and...{PAGE}It perfectly encapsulates the natural{SAUT}beauty of its curved shape. You've quite{SAUT}the eye.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yusuke",
+    "en": "You're right. I must admit it's{SAUT}starting to make me hungry...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukiko",
+    "en": "Shrimp are great, aren't they? They're{SAUT}delicious, and they're fun to look at!{PAGE}You can make any parfait look gorgeous{SAUT}just by placing a few shrimp on top.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Yusuke",
+    "en": "A shrimp parfait? I suppose there are still{SAUT}many dishes I've yet to learn about...{PAGE}As for your drawing...{PAGE}Amagi-san... Might you be{SAUT}holding yourself back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yukiko",
+    "en": "Wha―!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "It's by no means a bad picture, but this{SAUT}shrimp seems somewhat restricted...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yukiko",
+    "en": "Restricted...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "Release your inner self! Let your pencil{SAUT}guide you!{PAGE}Now, face the shrimp again! What does{SAUT}it mean to you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yukiko",
+    "en": "Huh!? Face the shrimp? What does it{SAUT}mean to me...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yukiko",
+    "en": "Sh-Shrimp... Shrimp...{PAGE}Shrimp, shrimp... SHRIMP! ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019_02",
+    "locuteur": "Yusuke",
+    "en": "Yes... That's the look! That's the feeling!{SAUT}Put it all on the canvas!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yukiko",
+    "en": "Right! I'll try!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "Th-This is...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yukiko",
+    "en": "Wh-What do you think? I feel like I was{SAUT}really able to capture the essence of the{SAUT}shrimp...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_023",
+    "choix": true,
+    "en": "That's a shrimp?{OPTION}You have quite a knack for this.{OPTION}I don't follow...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yusuke",
+    "en": "H-How could this be... To think I called{SAUT}myself an artist!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Yukiko",
+    "en": "Huh? I-Is it bad?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yusuke",
+    "en": "Bad!? Quite the opposite! I can{SAUT}feel your passion! This shrimp{SAUT}defies all expectation!{PAGE}I want to see more of your art,{SAUT}Amagi-san!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yukiko",
+    "en": "That's nice of you to say, but I don't{SAUT}know what else to draw...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yusuke",
+    "en": "I see... So you need a motif that's just as{SAUT}moving as the shrimp?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Yukiko",
+    "en": "Huh? Um... Yeah.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yusuke",
+    "en": "Then, I will find it for you. When I do,{SAUT}I'd like you to sketch for me again!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Futaba",
+    "en": "Heeey! I heard there's a new{SAUT}ticket available.{PAGE}Hm? What're you smirking at,{SAUT}Inari? Anyway, let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "en": "A new special screening:{SAUT}\"Inspiration Investigation!\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

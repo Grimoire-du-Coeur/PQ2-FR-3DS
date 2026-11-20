@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MARIE_FOE_FOLLOW_START_1",
+    "en": "【FOEが追尾開始】{SAUT}ダミーメッセージ１",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_FOE_FOLLOW_START_2",
+    "en": "【FOEが追尾開始】{SAUT}ダミーメッセージ２",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_FOE_FOLLOW_START_3",
+    "en": "【FOEが追尾開始】{SAUT}ダミーメッセージ３",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_FOE_NEAR_1",
+    "en": "【FOEが近い】{SAUT}ダミーメッセージ１",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_FOE_NEAR_2",
+    "en": "【FOEが近い】{SAUT}ダミーメッセージ２",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_FOE_NEAR_3",
+    "en": "【FOEが近い】{SAUT}ダミーメッセージ３",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_FOE_FOLLOW_END_1",
+    "en": "【FOEの追尾がきれた】{SAUT}ダミーメッセージ１",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_FOE_FOLLOW_END_2",
+    "en": "【FOEの追尾がきれた】{SAUT}ダミーメッセージ２",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_FOE_FOLLOW_END_3",
+    "en": "【FOEの追尾がきれた】{SAUT}ダミーメッセージ３",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_FOE_WARNING_NEAR_1",
+    "en": "【追尾状態のFOEが近い】{SAUT}ダミーメッセージ１",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_FOE_WARNING_NEAR_2",
+    "en": "【追尾状態のFOEが近い】{SAUT}ダミーメッセージ２",
+    "fr": ""
+  },
+  {
+    "id": "MARIE_FOE_WARNING_NEAR_3",
+    "en": "【追尾状態のFOFが近い】{SAUT}ダミーメッセージ３",
+    "fr": ""
+  }
+]

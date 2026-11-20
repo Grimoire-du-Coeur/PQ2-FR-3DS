@@ -1,0 +1,14 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Joker, turn back! That's not a good way{SAUT}to go―it's full of FOEs and searchlights.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "There's no need to wander right into the{SAUT}enemy's trap. We need to prioritize{SAUT}rescuing Queen and Noir for now.{PAGE}Come on, let's go search elsewhere.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ken",
+    "en": "This way should be safe, right?{PAGE}Let's follow Joker's lead and keep going.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Right.{OPTION}I've changed my mind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Oh? Couldn't leave that treasure alone{SAUT}after all, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Aigis",
+    "en": "We will leave it to you to decide which{SAUT}path we take.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "Huh? Didn't you say to go left? This way{SAUT}leads to the FOE.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Nyahaha! That's the spirit, Joker! We're{SAUT}not gonna leave that treasure behind!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Aigis",
+    "en": "Will you go toward the FOE or take the{SAUT}path to the left?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "Let's go straight!{OPTION}I took a wrong turn.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "That's more like it! The treasure's as{SAUT}good as ours!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "What? Aw, c'mon! You got my hopes up{SAUT}and everything...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ken",
+    "en": "There's an FOE this way, right? Are you{SAUT}sure we'll be okay...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Morgana",
+    "en": "Hey, there's treasure too! We're going{SAUT}this way, right Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "Right.{OPTION}I've changed my mind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "All right! Get ready, everyone―{PAGE}Wait, WHAT!? We're not going this{SAUT}way!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Aigis",
+    "en": "We will leave it to you to decide which{SAUT}path we take.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ken",
+    "en": "Huh? You want to go this way instead?{PAGE}This is the path without any FOEs or{SAUT}treasure chests.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "Are you really giving up on the treasure,{SAUT}Joker?{PAGE}I guess it's better than getting wiped out{SAUT}by an FOE and losing everything...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Aigis",
+    "en": "Will you continue this way or head{SAUT}toward the FOE?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_020",
+    "choix": true,
+    "en": "Let's go this way.{OPTION}I took a wrong turn.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Morgana",
+    "en": "Hmm... I don't exactly agree, but it's{SAUT}your call, Joker.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "Better safe than sorry, right? Let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Morgana",
+    "en": "After all's said and done, you can't{SAUT}forget about the treasure either, can{SAUT}you, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Aigis",
+    "en": "We will leave it to you to decide which{SAUT}path we take.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Aigis",
+    "en": "Will you continue along this path?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_026",
+    "choix": true,
+    "en": "Let's go this way.{OPTION}I need to think.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Aigis",
+    "en": "Understood. Let us proceed.",
+    "fr": ""
+  }
+]

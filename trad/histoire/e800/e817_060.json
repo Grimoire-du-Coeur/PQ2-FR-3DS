@@ -1,0 +1,134 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Mitsuru",
+    "en": "Here we are.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "locuteur": "Mitsuru",
+    "en": "All right, Joker's team will man the west{SAUT}end, and everyone else will cover the{SAUT}north, just like we planned.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_2",
+    "locuteur": "Mitsuru",
+    "en": "As soon as the thieves show up,{SAUT}we surround them and take them{SAUT}out at once.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Got it.{OPTION}They won't get away.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Mitsuru",
+    "en": "Then, let's begin. Everyone, to your{SAUT}positions!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yukari",
+    "en": "I wonder if Mitsuru-senpai'll be okay...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "It's not like you to be worried about{SAUT}your senpai, Yuka-tan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yukari",
+    "en": "Well, even she'd be in trouble going up{SAUT}against a large group on her own...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akihiko",
+    "en": "That's exactly why she volunteered for{SAUT}such a dangerous role.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Shinjiro",
+    "en": "Tch, reckless of her...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akihiko",
+    "en": "It just shows how much she trusts us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008_1",
+    "locuteur": "Akihiko",
+    "en": "She's willing to place her life in our{SAUT}hands.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akihiko",
+    "en": "They're here! Now, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Junpei",
+    "en": "Chaaarge!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yukari",
+    "en": "Wha―!? Junpei, wait for us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Makoto",
+    "en": "They're here! Everyone ready!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "Let's go!{OPTION}Bring 'em down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Junpei",
+    "en": "Hyaaah! Keep your hands off my{SAUT}senpai!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015_1",
+    "locuteur": "Junpei",
+    "en": "...Wait, these are the thieves!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Makoto",
+    "en": "They're Shadows!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Mitsuru",
+    "en": "Yes, it would appear so. Still, that{SAUT}doesn't change anything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "Here they come! Get ready...",
+    "fr": ""
+  }
+]

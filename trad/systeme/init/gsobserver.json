@@ -1,0 +1,22 @@
+[
+  {
+    "id": "MSG_NONE",
+    "en": "TEST NONE",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NEWGAME",
+    "en": "TEST NEWGAME",
+    "fr": ""
+  },
+  {
+    "id": "MSG_CONTINUE",
+    "en": "The saved data has been loaded.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_GAMEOVER",
+    "en": "TEST GAMEOVER",
+    "fr": ""
+  }
+]

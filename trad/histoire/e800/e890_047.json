@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Caroline",
+    "en": "*sigh* Completely unacceptable.{SAUT}What's the matter with you, Inmate?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Justine",
+    "en": "Yes. Disappointing, at best.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Margaret",
+    "en": "Did we misjudge your skills?{SAUT}Then again, the results speak for{SAUT}themselves...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Theodore",
+    "en": "Well then, please accept this. A token{SAUT}of our appreciation for the bout.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "Everyone, you are free to challenge{SAUT}us again whenever you please.{SAUT}This is a true ordeal, after all.{PAGE}Until the time comes, and you gain{SAUT}the power to overcome us... we{SAUT}shall patiently await you here.",
+    "fr": ""
+  }
+]

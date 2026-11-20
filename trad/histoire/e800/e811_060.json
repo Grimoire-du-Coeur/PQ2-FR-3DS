@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Chie",
+    "en": "The treasure's ours! That makes two!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "A job well done. Now we just have to{SAUT}deliver them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "Ohoho! A resounding success for{SAUT}Masked Avenger Teddie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "Wha―!? Not so loud!{PAGE}Look, we're not done yet. A phantom{SAUT}thief isn't finished until they make it{SAUT}back to their hideout.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "Wow, sounds just like a field trip.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "A field trip where we could get{SAUT}eaten by dinosaurs...{PAGE}Well, I'm glad everything went well.{SAUT}Not bad for some first-time phantom{SAUT}thieves, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Good job, guys! Come on back!",
+    "fr": ""
+  }
+]

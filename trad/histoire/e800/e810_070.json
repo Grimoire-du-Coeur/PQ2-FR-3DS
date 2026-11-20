@@ -1,0 +1,122 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "This is definitely the fish I requested.{PAGE}I must say, your fishing techniques were{SAUT}truly a sight to behold.{PAGE}I suppose I should've expected as much{SAUT}from those with the power of the wild{SAUT}card.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "You two were awesome... Guess you{SAUT}showed us what being a leader is all{SAUT}about.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ryuji",
+    "en": "Yeah, your group's leader was just as{SAUT}cool as ours!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "They both have the sort of charisma{SAUT}that brings people together... I imagine{SAUT}that's why they're so similar.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yukiko",
+    "en": "Mhm, you just get the feeling that{SAUT}everything's going to be okay when{SAUT}you're with your leader.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Yeah! I feel at ease knowing that he's{SAUT}got my back.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "Agreed. I felt the same from{SAUT}{f 6 1 30 0 0 0} during the special{SAUT}screening.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "Charisma?{OPTION}The power of the wild card?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P4 Hero",
+    "en": "No, nothing like that.{PAGE}I just felt like you really would do{SAUT}something reckless if it was for your{SAUT}friends.{PAGE}Why else would you challenge a{SAUT}swordsman with nothing but a model{SAUT}gun?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "I had to do something.{OPTION}Sorry for any hard feelings.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. All I could think about was{SAUT}protecting my friends.{PAGE}It's the same for you, isn't it?{PAGE}You want to protect those who depend{SAUT}on you... I can feel it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P4 Hero",
+    "en": "No, I'm sorry too.{PAGE}I was just desperate to protect my{SAUT}friends. I'm sure it was the same for you.{PAGE}You want to protect those who depend{SAUT}on you... I can feel it.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "You're right.{OPTION}I guess we are pretty alike.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "I see... {PAGE}I'm glad I was able to meet someone{SAUT}who feels the same way I do.{PAGE}Let's work together from hereon.{SAUT}As friends.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "Right.{OPTION}Of course.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "Oh? It's like the two of them have gone{SAUT}into super friendship mode!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Kanji",
+    "en": "No kidding... The two of you guys{SAUT}together are, like, Level 99 or some{SAUT}shit...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P4 Hero",
+    "en": "No... It's 530,000. ",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "What the heck are you guys talking{SAUT}about!?{PAGE}Well, either way... If you two work{SAUT}together, you got nothing to fear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "I bet the two of you are gonna be even{SAUT}stronger now!",
+    "fr": ""
+  }
+]

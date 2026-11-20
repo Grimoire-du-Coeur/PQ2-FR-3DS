@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Whew... That takes care of that.{SAUT}Are you all right, Hikari?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "I'm fine, thanks.{PAGE}So, um... Thanks to you guys, I feel like{SAUT}I'm close to remembering everything.{PAGE}What I wanted to do, who I wanted to{SAUT}be with... I can actually put that stuff{SAUT}into words now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "That's great... But, the movie seems like{SAUT}it's not quite over yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "Mmhm... That means I still haven't{SAUT}remembered something...{SAUT}Something important.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "If we keep going, you'll get it.{OPTION}Don't you worry about that.{OPTION}When will you remember it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Shinjiro",
+    "en": "You heard the man―no need to be hasty.{SAUT}I'm sure you'll remember it all{SAUT}eventually...{PAGE}Especially if that memory is important{SAUT}to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Don't rush her, dumbass! We were told{SAUT}not to push her too hard.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Shinjiro",
+    "en": "No need to be hasty―I'm sure you'll{SAUT}remember eventually. Especially if that{SAUT}memory is important to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P3 Fem Protag",
+    "en": "Plus, remember what Oracle said?{SAUT}We're all going to head back home{SAUT}together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Hikari",
+    "en": "Say, {f 6 1 27 0 0 0}-chan... Can I...{SAUT}ask you something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hm? What's up?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Hikari",
+    "en": "Earlier, you said that you've been scared{SAUT}ever since you got here...{PAGE}You said you're the only different one,{SAUT}and that you feel like an irregularity.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Fem Protag",
+    "en": "Ahaha... Well, about that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012_1",
+    "locuteur": "P3 Fem Protag",
+    "en": "I was just caught up in the moment and{SAUT}vented a bit, but it's really no big deal,{SAUT}okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Mitsuru",
+    "en": "...If you don't mind, would you be{SAUT}willing to share your feelings with us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P3 Fem Protag",
+    "en": "Umm... How should I put it...{PAGE}Everyone here has had a role that only{SAUT}they can fill, right?{PAGE}But, that isn't the case for me. My role{SAUT}was filled by \"him,\" instead...{PAGE}That's why I couldn't help but think,{SAUT}over and over...{PAGE}\"What's my role here? Am I here because{SAUT}of some kind of mistake?\" Stuff like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Hikari",
+    "en": "B-But it wasn't a mistake!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Hikari",
+    "en": "I mean, the people in SEES have all{SAUT}accepted you, {f 6 1 27 0 0 0}-chan.{SAUT}Right?{PAGE}...I can remember now. I'm certain that{SAUT}I felt the exact same way back home{SAUT}that you do.{PAGE}The more I thought about stuff like{SAUT}the reason for me being me or why{SAUT}I exist, the more self-confidence I lost...{PAGE}But, meeting you helped me realize{SAUT}something important. There's no one in{SAUT}this world who has no reason to exist.{PAGE}It's because you were with me for all{SAUT}this time that I gained the courage to{SAUT}face my fears, {f 6 1 27 0 0 0}-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Fem Protag",
+    "en": "...It was because of me?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "That's right.{OPTION}Isn't that your role here?{OPTION}Even {f 6 1 15 0 0 0} couldn't do it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "P4 Hero",
+    "en": "Yeah―no one else is closer to Hikari{SAUT}than you are, {f 6 1 27 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Aigis",
+    "en": "You two have uncannily similar{SAUT}specifications...{PAGE}However, the special position you are in{SAUT}is wholly your own, {f 6 1 27 0 0 0}-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P3 Fem Protag",
+    "en": "Th-This is kinda embarrassing. I hadn't{SAUT}thought of it as anything useful...{PAGE}But that's actually a huge relief.{SAUT}Thanks, Hikari-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari",
+    "en": "Huh? Oh, yeah... Thank you too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Junpei",
+    "en": "Aww, how beautiful... Friendship truly{SAUT}is touching.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "I... I can't stop crying either! *sniff*{SAUT}Friendship truly is touching!{PAGE}*sniffle* *HONK*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosuke",
+    "en": "Ugh! You moron, can't you blow your{SAUT}nose more politely!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yukari",
+    "en": "Well, it's not really like us to be all{SAUT}negative. If we can be more positive like{SAUT}you, then that's for the best, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P3 Hero",
+    "en": "*chuckle* Yeah, I agree.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Mitsuru",
+    "en": "Thank you, {f 6 1 26 0 0 0}. I'm glad we{SAUT}were able to hear your true feelings{SAUT}on the matter.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P3 Fem Protag",
+    "en": "Eheheh, I wasn't really planning on it,{SAUT}but... I'm glad I said them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Mitsuru",
+    "en": "Well then, we shouldn't remain here{SAUT}for long―let's continue on.",
+    "fr": ""
+  }
+]

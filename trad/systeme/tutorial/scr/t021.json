@@ -1,0 +1,17 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "Skills used by a battle navigator are called{SAUT}{f 0 1 2}Support Skills{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "Support Skills do not use SP. Rather, they{SAUT}use the {f 0 1 2}Party Meter{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes03",
+    "en": "Throughout battle, the Party Meter fills{SAUT}whenever {f 0 1 2}a party member attacks a{SAUT}Shadow{f 0 1 0}, and also whenever {f 0 1 2}a party{SAUT}member takes damage{f 0 1 0}. The gauge is{SAUT}completely full at 5 points.{PAGE}Support Skills allow the battle navigator{SAUT}to join in! And since the Party Meter will{SAUT}replenish as long as you keep fighting,{SAUT}you should use Support Skills often.",
+    "fr": ""
+  }
+]

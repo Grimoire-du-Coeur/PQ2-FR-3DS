@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Nice work, everybody! Mission{SAUT}complete!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukiko",
+    "en": "Thanks, Futaba-chan. Good job{SAUT}navigating.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "That was fun! I felt just like a real{SAUT}phantom thief!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "You did well.{OPTION}You need more training.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "Yes! I got the phantom thief leader's{SAUT}seal of approval!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "Haha, I'm just getting started! I'll get it{SAUT}down eventually!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "You guys aren't half bad! We'll need to{SAUT}step it up ourselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Elizabeth",
+    "en": "Well done, everyone.{PAGE}I was so entranced by that riveting{SAUT}treasure hunt, I nearly forgot to{SAUT}breathe.{PAGE}That was a most skillful display. It was{SAUT}like watching an actual phantom thief{SAUT}movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P4 Hero",
+    "en": "By the way, how much are these{SAUT}treasures worth?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Chie",
+    "en": "Probably a lot, right? They were being{SAUT}guarded by dinosaurs.{PAGE}You think they're worth a lifetime{SAUT}supply of beef bowls, or is that too{SAUT}much?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosuke",
+    "en": "Beef bowls? Is that really all you think{SAUT}about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Haru",
+    "en": "Hmm... There's something about this{SAUT}crown...{PAGE}It doesn't feel heavy enough to be real{SAUT}gold, and these jewels don't look{SAUT}genuine at all...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "What? Did we mess up somewhere?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "After all that hard work...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Elizabeth",
+    "en": "No no, there's no need to worry.{PAGE}The point of this special screening was{SAUT}to witness the esteemed Phantom{SAUT}Thieves in action.{PAGE}I would wager that the authenticity of{SAUT}the treasure is irrelevant in light of{SAUT}everyone's outstanding performance!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "You're really trying to cushion{SAUT}the blow, huh...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Naoto",
+    "en": "*chuckle* It's not too great a loss.{PAGE}This was quite a valuable experience.{SAUT}I genuinely did feel like a phantom thief.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "We had fun too. It'd been awhile since{SAUT}we did some phantom thief work.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Elizabeth",
+    "en": "Ahh, it would appear the touching{SAUT}conclusion is nearly upon us.{PAGE}The treasure may be fake, but the bonds{SAUT}you've forged are most definitely real!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "There it is! The oh-so-clich〒, feel-{SAUT}good ending!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Elizabeth",
+    "en": "I eagerly await your next showing.",
+    "fr": ""
+  }
+]

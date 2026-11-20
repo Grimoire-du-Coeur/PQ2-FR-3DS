@@ -1,0 +1,48 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "The music disappeared from the{SAUT}music box...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "Oh no...! The music...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "Aw, that's a shame. Guess we should{SAUT}head back and get the music again...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Morgana",
+    "en": "We've only got 46 steps, Joker!{SAUT}Make sure not to waste any!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "en": "......!{PAGE}The music disappeared from the{SAUT}music box...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Fuuka",
+    "en": "Oh no...!{PAGE}She warned us not to use a Goba-K{SAUT}or a escape-type skill. This must be{SAUT}why...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Fem Protag",
+    "en": "Aw, that's a shame. Guess we should{SAUT}head back and get the music again...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Morgana",
+    "en": "We've gotta do it in within 46 steps{SAUT}without cheating! Let's get it this time!",
+    "fr": ""
+  }
+]

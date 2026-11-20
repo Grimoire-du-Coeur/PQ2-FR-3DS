@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MSG_001",
+    "locuteur": "Innocent girl",
+    "en": "Don't let it get to you. I'll help you{SAUT}clean it off.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Gloomy-looking student",
+    "en": "...Huh?{PAGE}Ah―Thank you.{PAGE}Um...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Middle school Hikari",
+    "en": "I'm Hikari. You're Miyuki-chan, right?{PAGE}Nice to meet you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Miyuki",
+    "en": "Hikari-chan... Um, it's nice to meet you{SAUT}too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Miyuki",
+    "en": "You really like movies, don't you,{SAUT}Hikari-chan?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Middle school Hikari",
+    "en": "Mmhm! Even if I've seen it before,{SAUT}I can watch it over and over.{PAGE}The one I saw the other day had{SAUT}dinosaurs in it! Let's watch it together{SAUT}sometime.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Miyuki",
+    "en": "Huh!? Are you sure? I'd love to!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Middle school Hikari",
+    "en": "I know! Why don't we all go see it{SAUT}together, then?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Nervous schoolgirl",
+    "en": "Huh? Oh, I'll have to pass...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Loud schoolgirl",
+    "en": "I've got cram school to get to...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Sulky schoolgirl",
+    "en": "Sorry about that! Maybe next time...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Middle school Hikari",
+    "en": "I see. That's too bad... but, okay!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Middle school Hikari",
+    "en": "What happened to my desk...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Middle school Hikari",
+    "en": "Hey, do you know anything about this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Loud schoolgirl",
+    "en": "Oh boy... It's your own fault, Hikari.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Middle school Hikari",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Sulky schoolgirl",
+    "en": "Didn't you know the popular kids have{SAUT}all started picking on Miyuki?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Nervous schoolgirl",
+    "en": "Since you hang out with her, they're{SAUT}after you too now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Loud schoolgirl",
+    "en": "Miyuki, could you just leave us alone?{SAUT}We're gonna end up dragged into this{SAUT}mess too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Miyuki",
+    "en": "Wha―?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Sulky schoolgirl",
+    "en": "If Miyuki goes away, I'm sure you won't{SAUT}get hassled anymore, Hikari.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Middle school Hikari",
+    "en": "But, that kind of thing doesn't bother{SAUT}me. Let's all just stay friends!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Loud schoolgirl",
+    "en": "......{PAGE}Why do you have to be like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Sulky schoolgirl",
+    "en": "If you're gonna be like that, then why{SAUT}don't you just take Miyuki's place?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Middle school Hikari",
+    "en": "Wait, what!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Nervous schoolgirl",
+    "en": "The popular girls just want someone{SAUT}they can tease...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Loud schoolgirl",
+    "en": "If you stick around us, we'll get it too.{SAUT}You're just gonna make trouble for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Loud schoolgirl",
+    "en": "Alright, everybody! Who thinks Hikari{SAUT}should leave our group?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Sulky schoolgirl",
+    "en": "Me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Nervous schoolgirl",
+    "en": "Me too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Middle school Hikari",
+    "en": "No... Why?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Nervous schoolgirl",
+    "en": "I mean, it's what everyone else is saying,{SAUT}so...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Sulky schoolgirl",
+    "en": "Yeah, everyone agrees. You do too, right,{SAUT}Miyuki?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Loud schoolgirl",
+    "en": "Welp, in that case, Miyuki's the one{SAUT}who's out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Miyuki",
+    "en": "W-Wait!{PAGE}I-I... agree that Hikari-chan should go...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Loud schoolgirl",
+    "en": "You see? Everyone agrees, so that's{SAUT}the obvious decision.",
+    "fr": ""
+  }
+]

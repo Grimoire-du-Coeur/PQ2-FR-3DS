@@ -1,0 +1,248 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "Whew, that was close!{PAGE}Thanks for coming, guys! You really{SAUT}saved our asses.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "Yosukeeeee! You're human after aaaall!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "Huh? What are you crying about?{PAGE}You don't even know what I've been{SAUT}through!{PAGE}Waking up in some jungle―full of{SAUT}talking dinosaurs!? This makes no{SAUT}sense...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "I'm glad you were safe.{OPTION}Are you hurt?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Uh, yeah, but it's no big―{PAGE}W-Wait! Who are you!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "These are our companions that we met{SAUT}here. They're Persona-users, just like us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "We got sucked into this world just{SAUT}like you did.{PAGE}Now we've teamed up to find a way{SAUT}back to our own worlds. Pleased to{SAUT}meet you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "Same here... So, uh, are you a cat in{SAUT}a costume, or a person in a cat costume,{SAUT}like with Teddie, or...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Listen to me. I am NOT in a costume,{SAUT}and I am NOT a cat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P4 Hero",
+    "en": "...Anyway, I'm glad you're safe, Yosuke.{SAUT}We were all really worried about you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosuke",
+    "en": "Aw, thanks, guys. Sorry for worrying{SAUT}you...{PAGE}I would've managed better if I were{SAUT}alone, but I've been trying to protect{SAUT}this talking dinosaur I met here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Kanji",
+    "en": "You fought your way here... all by{SAUT}yourself? That's badass, Yosuke-senpai!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosuke",
+    "en": "Haha, I'm all beat up though... I guess{SAUT}that makes these wounds my medals{SAUT}of honor?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Timid herbivore",
+    "en": "Um... Thank you...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "Aw, don't worry about it! We gotta help{SAUT}each other out when we're in trouble,{SAUT}y'know.{PAGE}...Hey, look who's back. I guess they{SAUT}were worried about you too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "See? We saved her! Aren't you glad?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Chie",
+    "en": "Oh yeah! As good an ending as we{SAUT}could ask for!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "P3 Fem Protag",
+    "en": "Don't they seem to be reacting kinda...{SAUT}strangely?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Stubborn herbivore",
+    "en": "So... Should we do the thing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Nervous herbivore",
+    "en": "...Y-Yeah, I guess so.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Stubborn herbivore",
+    "en": "Time to put it to a vote.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Kanji",
+    "en": "Wait―what!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Stubborn herbivore",
+    "en": "All those who think we should allow{SAUT}the humans to remain in our herd,{SAUT}raise your hand!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Ann",
+    "en": "Hey! What the hell!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Stubborn herbivore",
+    "en": "Now, all those who think we should kick{SAUT}them out, raise your hand!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Stubborn herbivore",
+    "en": "Based on a unanimous vote, the humans{SAUT}are hereby kicked out. Leave them here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Haru",
+    "en": "But, why?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Yosukesaurus",
+    "en": "......{PAGE}*sigh* It's all your fault...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yosuke",
+    "en": "Holy―He has my head!!! What the hell{SAUT}is happening here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yosukesaurus",
+    "en": "You guys ignored the majority rule!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Yosuke",
+    "en": "Wha... What are you even talking about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yosukesaurus",
+    "en": "We're done with you guys. Just...{SAUT}go and do whatever you want, but{SAUT}leave us alone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Makoto",
+    "en": "And there they go...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Yosuke",
+    "en": "Dude... What was all that about?{PAGE}And WHY did he have MY HEAD!?{SAUT}I have no idea what's happening,{SAUT}and I'm getting really freaked out!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_040",
+    "choix": true,
+    "en": "It's a long story.{OPTION}If you calm down, I'll tell you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Yukiko",
+    "en": "Yeah―Yosuke-kun seems exhausted,{SAUT}too. It might be better if we talked{SAUT}about it in a safer place.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Yosuke",
+    "en": "Yeah... You're right. Go ahead and{SAUT}lay it on me―I'm listening.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Yukiko",
+    "en": "Well, it's a long story... it might be better{SAUT}if we talked about it in a safer place.{PAGE}Yosuke-kun seems exhausted, too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Yusuke",
+    "en": "Well then, let's return to the movie{SAUT}theater.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Yosuke",
+    "en": "Wait―did you say a movie theater?{SAUT}Your base isn't some cave or tent!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Morgana",
+    "en": "Okay, I guess we should explain SOME{SAUT}things along the way. C'mon, follow us.",
+    "fr": ""
+  }
+]

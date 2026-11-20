@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Lately, you've all been putting on some{SAUT}wonderful performances through masterful{SAUT}special screenings.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "We've done a bunch now, huh? I think{SAUT}we're hittin' 'em at a good pace.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "Well, they're a nice change from{SAUT}our usual! And it's always nice to{SAUT}get paid for them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "And for a team of such distinction,{SAUT}I have a new ticket to present.{PAGE}Thanks to you, the \"Kamoshidaman\"{SAUT}movie was graced with a grander finale{SAUT}than anyone could have predicted.{PAGE}However, it seems a Shadow of{SAUT}incredible power has unexpectedly{SAUT}appeared in its depths.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003_1",
+    "locuteur": "Elizabeth",
+    "en": "For this special screening, you need{SAUT}only defeat it.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "So it's powerful, huh?{OPTION}Sounds easy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Elizabeth",
+    "en": "Indeed, terribly! Supposedly, its power{SAUT}rivals that of Kamoshidaman himself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Hmph. Then we've got nothing{SAUT}to worry about.{PAGE}After all, we've only gotten stronger{SAUT}since then!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Yeah! If all we gotta do is take it out,{SAUT}we're gonna be done in no time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Right! We've gotten pretty tough by now{SAUT}ourselves, after all!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elizabeth",
+    "en": "How very reassuring. There is, however,{SAUT}one condition I'd like to point out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_1",
+    "locuteur": "Elizabeth",
+    "en": "The ticket is marked with a name.{SAUT}You see here: \"Cast: {f 6 1 30 0 0 0}.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "What could that mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Elizabeth",
+    "en": "I couldn't say exactly, but we already{SAUT}know this particular showing will be{SAUT}more of a showdown...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011_1",
+    "locuteur": "Elizabeth",
+    "en": "Essentially, I believe the intent is that{SAUT}{f 6 1 30 0 0 0} must participate in this fight.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Makoto",
+    "en": "A screening that specifies part of its{SAUT}cast? What purpose do you think that{SAUT}serves?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akechi",
+    "en": "Is it a challenge to {f 6 1 30 0 0 0}...?{SAUT}Or maybe some kind of trap...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Well, standin' around here won't help us{SAUT}figure it out. Whatever it is, he'll be fine!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_015",
+    "choix": true,
+    "en": "Leave it to me.{OPTION}I don't know about this...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "Now that's our leader! You're used to{SAUT}being the star of the show anyway.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "C'mon, you'll be fine. We got your{SAUT}back, just like always.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Elizabeth",
+    "en": "Have we come to an agreement?{SAUT}Then let me sum things up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018_1",
+    "locuteur": "Elizabeth",
+    "en": "Please slay the powerful Shadow that has{SAUT}appeared in the depths of Kamo City.{PAGE}And when doing so, make certain that{SAUT}{f 6 1 30 0 0 0} joins the fray.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "Understood. We'll make our way there{SAUT}once we're ready.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Elizabeth",
+    "en": "I look forward to a grand performance,{SAUT}{f 6 1 30 0 0 0}. Best of luck to you.",
+    "fr": ""
+  }
+]

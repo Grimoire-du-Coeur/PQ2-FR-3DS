@@ -1,0 +1,42 @@
+[
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT_2",
+    "en": "{f 0 1 2}Treasure Spots{f 0 1 0} are where you may obtain{SAUT}{f 0 1 2}several items{f 0 1 0} at once!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT_2#2",
+    "en": "If you choose to {f 0 1 2}Search cautiously{f 0 1 0}...{PAGE}Then you may find {f 0 1 2}up to four{f 0 1 0} items,{SAUT}while enjoying a low risk of battle.{PAGE}...But the chance of rare items will be low{SAUT}as well. Low risk, low reward!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT_2#3",
+    "en": "If you choose to {f 0 1 2}Search thoroughly{f 0 1 0}...{PAGE}Then you may find {f 0 1 2}up to five{f 0 1 0} items, with{SAUT}a {f 0 1 2}greater chance that they'll be rare{f 0 1 0}!{PAGE}However, you also have a greater chance{SAUT}of triggering a battle.{PAGE}Treasure Spots yield a limited number of{SAUT}items, but upon {f 0 1 2}exiting the labyrinth{f 0 1 0}...{PAGE}Some of them will {f 0 1 2}replenish themselves,{SAUT}allowing you to search them again later{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT_2#4",
+    "en": "Want to see if a Treasure Spot can be{SAUT}searched? Place its {f 0 1 2}icon{f 0 1 0} on the map.{PAGE}The icon will display the status of its{SAUT}corresponding Treasure Spot.{PAGE}Take advantage of {f 0 1 2}Treasure Spots{f 0 1 0}, and{SAUT}you'll end up with {f 0 1 2}lots of items{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT_1",
+    "en": "You'll have opportunities to collect {f 0 1 2}many{SAUT}items{f 0 1 0} at certain spots in the labyrinths.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT_1#2",
+    "en": "If you choose to {f 0 1 2}Search cautiously{f 0 1 0}...{PAGE}Then you may find {f 0 1 2}up to four{f 0 1 0} items,{SAUT}while enjoying a low risk of battle.{PAGE}...But the chance of rare items will be low{SAUT}as well. Low risk, low reward!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT_1#3",
+    "en": "If you choose to {f 0 1 2}Search thoroughly{f 0 1 0}...{PAGE}Then you may find {f 0 1 2}up to five{f 0 1 0} items, with{SAUT}a {f 0 1 2}greater chance that they'll be rare{f 0 1 0}!{PAGE}However, you also have a greater chance{SAUT}of triggering a battle.{PAGE}Treasure Spots yield a limited number of{SAUT}items, but upon {f 0 1 2}exiting the labyrinth{f 0 1 0}...{PAGE}Some of them will {f 0 1 2}replenish themselves,{SAUT}allowing you to search them again later{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT_1#4",
+    "en": "To see if a Treasure Spot can be searched,{SAUT}place its {f 0 1 2}icon{f 0 1 0} on the map.{PAGE}The icon will display the status of its{SAUT}corresponding Treasure Spot.{PAGE}Take advantage of these spots, and {f 0 1 2}you'll{SAUT}be rich in items{f 0 1 0}!",
+    "fr": ""
+  }
+]

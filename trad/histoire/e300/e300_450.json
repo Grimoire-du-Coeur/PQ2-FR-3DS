@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "...Huh? Is this is a dead end?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Haru",
+    "en": "You’re right. Should we head back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Bark! Bark bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "What’s wrong, Koromaru?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Shinjiro",
+    "en": "Oh, an air duct...{PAGE}Yeah, this connects to the other side.{SAUT}I’m impressed you spotted this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says, “We can go through{SAUT}here.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "I see. There’s no other option, either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukari",
+    "en": "What!? You don’t mean...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Welp, time to pop into that air duct―{SAUT}right, Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "You know it.{OPTION}Business as usual for us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukari",
+    "en": "Hrgh, I knew it. Well, there’s no use{SAUT}complaining at this point...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P4 Hero",
+    "en": "We’ve followed the Phantom Thieves{SAUT}without hesitation―until now...{PAGE}Although, on second thought, crawling{SAUT}through an air duct is something you{SAUT}normally wouldn’t get to experience.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Ahaha, sorry... I guess that'll happen{SAUT}when you spend enough time with us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "Aw, it doesn’t bother me one bit. This is{SAUT}an invaluable experience for us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Akihiko",
+    "en": "Well, you’re awfully keen on doing this.{SAUT}What’s with the enthusiasm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yukari",
+    "en": "I bet it’s for some stupid reason―like,{SAUT}it makes him feel like a spy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "Hey! It's not stupid...{PAGE}I just wanna be cool and debonair{SAUT}when I’m hangin' with the Phantom{SAUT}Thieves and the Investigation Team!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "Cool?{OPTION}Debonair?{OPTION}You want to be what now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "P3 Hero",
+    "en": "Um, it seems like he doesn’t see you{SAUT}that way at all...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Junpei",
+    "en": "Whaaaaat!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "Tsk tsk. If you want to call yourself{SAUT}cool and debonair, you have to be{SAUT}more like me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Uh, we don’t see you that way either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Naoto",
+    "en": "At any rate―if there's no other route{SAUT}besides this duct, we’ll just have to{SAUT}use it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "P4 Hero",
+    "en": "All right, let's do it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yukari",
+    "en": "Wait, so we’re really doing this? Does it{SAUT}have to be here!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Akihiko",
+    "en": "What is it, Yukari? You scared?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yukari",
+    "en": "Uh, well... My skirt is short, so... Y’know...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Akihiko",
+    "en": "I see. Since it’s short, you’re worried{SAUT}about the defensive weakness.{PAGE}In that case, just leave it to me{SAUT}to protect you from behind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yukari",
+    "en": "Th-That’s not what I mean! And there’s{SAUT}no way I’m letting you follow me!{PAGE}Either a girl goes behind me or I'm{SAUT}going in last!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P3 Hero",
+    "en": "Okay, now let’s each decide what order{SAUT}we'll go in.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ken",
+    "en": "Um... Joker, you’re used to traveling{SAUT}through ducts, right?{PAGE}This is my first time doing it―do you{SAUT}have any advice for me?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_031",
+    "choix": true,
+    "en": "Don’t be scared.{OPTION}Close your eyes.{OPTION}Learn from experience.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Yusuke",
+    "en": "That's true. Fear is your enemy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ken",
+    "en": "I-I see... That’s helpful to know!{SAUT}Thank you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Yusuke",
+    "en": "That’s right. If you find yourself lost in{SAUT}the darkness, just intuit your way with{SAUT}your sixth sense.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ann",
+    "en": "Wait―you close your eyes when you're{SAUT}in the air ducts, Fox?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Yusuke",
+    "en": "Ha... Sometimes, yes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Ken",
+    "en": "That’s helpful to know!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Makoto",
+    "en": "No, Amada-kun... You should definitely{SAUT}keep your eyes open.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Ken",
+    "en": "Ah―that's rather harsh...{PAGE}But, this must be the way of the Phantom{SAUT}Thieves! I’ll pretend like I'm a phantom{SAUT}thief and try my hardest!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "P4 Hero",
+    "en": "I have one question first... Teddie, are{SAUT}you going to fit through here with{SAUT}that body?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Haru",
+    "en": "Oh, now that you mention it... How have{SAUT}we managed until now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Teddie",
+    "en": "Heheheh... Don’t sell my acrobatic skills{SAUT}so short!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Yosuke",
+    "en": "I guess we’ll just sort of... jam him{SAUT}through there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Morgana",
+    "en": "Great! Let’s move out, everyone―follow{SAUT}our lead!",
+    "fr": ""
+  }
+]

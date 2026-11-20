@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Rise",
+    "en": "Wait a sec, guys! We're getting a reading{SAUT}from the floor below!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "This reading... I think that it's most likely{SAUT}Aigis and our leader!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Shinjiro",
+    "en": "Alright―looks like we finally caught up{SAUT}to 'em.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Mitsuru",
+    "en": "Indeed. We need to rescue them{SAUT}at once―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Koromaru",
+    "en": "Bark! Bark bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "Ah! Koromaru...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ribbon",
+    "en": "THAT DIRECTION... IT SEEMS THAT{SAUT}KOROMARU-SAN HAS FOUND{SAUT}\"THE DOOR.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "Hey, wait up! Guys, even Ribbon-chan's{SAUT}taken off―let's get going!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Something about a door, huh? Hmm...{SAUT}C'mon, Joker! Let's go check this out.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akechi",
+    "en": "Ah, just as I thought... We can reach{SAUT}the tree trunks from this side.{PAGE}It may be best to chop these into smaller{SAUT}pieces and get them out of our way.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "We would need some kind of axe for{SAUT}that. Thankfully, we don't absolutely{SAUT}need to open this path up―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_05",
+    "locuteur": "Haru",
+    "en": "Oh―! If you need an axe, why not just{SAUT}leave it to me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Haru",
+    "en": "How about it, Joker? I think I can{SAUT}get those trees out of the way!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Go for it, Noir.{OPTION}Let's leave them be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Haru",
+    "en": "Yeah, leave it to me! It's just a scaled-up{SAUT}version of chopping firewood...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Haru",
+    "en": "Here goes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_02",
+    "locuteur": "Morgana",
+    "en": "Wh-Whoa... Holy cow, Noir! How...{SAUT}How are you twirling while doing that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005_04",
+    "locuteur": "Teddie",
+    "en": "Wooooow! She's totally splendiferous!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Haru",
+    "en": "...And there we go! How was that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "Thank you for your hard work. That'll{SAUT}make exploring this area much easier.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Haru",
+    "en": "No thanks necessary―all I did was{SAUT}chop away!{PAGE}After all, everyone else helped out{SAUT}with hauling away the pieces...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Kanji",
+    "en": "Aw, it was nothin'!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_02",
+    "locuteur": "Teddie",
+    "en": "Yeah! We just couldn't let you bear that{SAUT}burden yourself. Leave the heavy lifting{SAUT}to us strong men!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009_04",
+    "locuteur": "Yosuke",
+    "en": "All YOU did was watch! Sheesh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Haru",
+    "en": "*giggle* Thank you for your help,{SAUT}everyone. Well then, let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "Very well. We'll leave this as is for now.",
+    "fr": ""
+  }
+]

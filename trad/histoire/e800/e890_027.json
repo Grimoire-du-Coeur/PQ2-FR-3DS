@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Justine",
+    "en": "That was trifling. Is that really the{SAUT}extent of your powers?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Caroline",
+    "en": "Heheh... Aww, you frustrated?{SAUT}Then get better and come try again!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_1",
+    "locuteur": "Caroline",
+    "en": "We won't run or hide from you!{SAUT}You can keep challenging us, and{SAUT}we'll keep taking you down!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "Hmhm... I'm glad they're enjoying{SAUT}themselves.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002_1",
+    "locuteur": "Elizabeth",
+    "en": "I doubt this is enough to break your{SAUT}spirit, {f 6 1 30 0 0 0}...{PAGE}If you seek vengeance for your defeat,{SAUT}please speak to me at the box office.",
+    "fr": ""
+  }
+]

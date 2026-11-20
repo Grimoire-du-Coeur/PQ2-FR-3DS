@@ -1,0 +1,140 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "This next special screening takes the{SAUT}form of a pulse-pounding action film.{PAGE}Your destination will be A.I.G.I.S.{PAGE}And your task will be to take down three{SAUT}Guardian Machines.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "They're those big ones, yeah...? We{SAUT}better step up our game, then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Yeah. There's no room for mistakes{SAUT}when you're part of the Phantom{SAUT}Thieves!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "Um, wait!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ryuji",
+    "en": "Hm?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ken",
+    "en": "If you don't mind, do you think you{SAUT}could teach me more about the{SAUT}Phantom Thieves during this screening?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "Why?{OPTION}You looking to join?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Oh, you wanna be like us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "A phantom thief hopeful, huh...? Well,{SAUT}you've certainly got potential.{PAGE}We'll just have to see how you keep up{SAUT}with my strict leadership...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ken",
+    "en": "I-I don't exactly want to join...! I'd{SAUT}rather just watch and learn!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Mmm, a desire to learn is a wonderful{SAUT}thing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ryuji",
+    "en": "Then, how about we teach you the{SAUT}code of the Phantom Thieves―right{SAUT}here, right now?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "Who made you the leader?{OPTION}Code?{OPTION}We'll call you Kid Phantom!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ann",
+    "en": "Yeah. Don't you think you're getting a{SAUT}little carried away...?{PAGE}You don't have to say yes if you don't{SAUT}want to, Ken-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ken",
+    "en": "I-It's okay.{PAGE}I do want to know more about the{SAUT}Phantom Thieves, though, so I'd be{SAUT}happy if you agreed to teach me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "It's like, uh... Well... You know what I{SAUT}mean, right, Morgana?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Morgana",
+    "en": "Huh? O-Oh, yeah. Absolutely.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Sorry about those two, Ken-kun... You{SAUT}don't have to say yes if you don't want{SAUT}to.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ken",
+    "en": "No, it's okay. It's better to learn by{SAUT}experience anyway. I can handle it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ken",
+    "en": "Hey, stop treating me like a kid!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ann",
+    "en": "Yeah, stop bugging him. He doesn't{SAUT}have to join if he doesn't want to...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ken",
+    "en": "Oh... Well, I wouldn't mind watching{SAUT}you guys for a bit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Elizabeth",
+    "en": "Well, well, well... This is shaping up to be{SAUT}a most eventful screening.{PAGE}Now then, I wish all of you the best of{SAUT}luck.",
+    "fr": ""
+  }
+]

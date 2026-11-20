@@ -1,0 +1,96 @@
+[
+  {
+    "id": "PARTY_EDIT_YESNO",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_YESNO_CALL",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_YESNO_CALL_DE",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_YESNO_REGIST_",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "MSG_ORGIA000",
+    "en": "Orgia Mode explainer. Although{SAUT}it's not complicated...{PAGE}Agreed! Looking forward to it!",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_MSG_CALL_COMF",
+    "en": "Use this registered party?",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_MSG_SET_COMFI",
+    "en": "Register {f 2 4 0}?",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_MSG_DEL_COMFI",
+    "en": "Delete {f 2 4 0}?",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_MSG_CANCEL_CR",
+    "en": "Leave without registering the party?",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_MSG_NAME_ENTR",
+    "en": "Enter a name for this party using{SAUT}the Touch Screen.",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_MSG_CANCEL_ED",
+    "en": "Do you want to leave without{SAUT}changing the party formation?",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_MSG_PARTY_ALL",
+    "en": "There's no one in your party{SAUT}who's actually in condition to fight.",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_MSG_LEADER_NO",
+    "en": "The team leader hasn't been{SAUT}chosen. Make sure you have one.",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_MSG_NO_MEMBER",
+    "en": "Select allies to add to the party.",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_MSG_LEADER_NO#2",
+    "en": "Choose a party leader, someone{SAUT}with the power of the wild card.",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_MSG_FIRST_NAV",
+    "en": "A navigator hasn't been chosen.{SAUT}You need one!",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_MSG_DUNGEON_N",
+    "en": "You forgot to choose a field navigator.",
+    "fr": ""
+  },
+  {
+    "id": "PARTY_EDIT_RISKY_INVALID",
+    "en": "When your difficulty is set to Risky,{SAUT}you must include {f 6 1 30 0 0 0} in the party.",
+    "fr": ""
+  }
+]

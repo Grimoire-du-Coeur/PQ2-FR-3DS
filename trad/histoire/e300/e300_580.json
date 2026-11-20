@@ -1,0 +1,350 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Mother Computer",
+    "en": "Your actions are useless. You are{SAUT}incapable of defeating me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "No! Its processing speed is too fast...{SAUT}It keeps immediately rewriting its coding!{PAGE}We're so close, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ribbon",
+    "en": "ERROR. ERROR.{PAGE}MEMORY REWRITE DETECTED...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akihiko",
+    "en": "Hey, something's up. What's happening{SAUT}to her!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Don't tell me―is Ribbon getting hacked{SAUT}back!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ribbon",
+    "en": "NNH, AAH... AH...{PAGE}ERROR. ERROR.{PAGE}MY MEMORY IS... AH... NO... I... I...{SAUT}NNNH...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Mother Computer",
+    "en": "How do you feel now, UIY-2249?{PAGE}All of your suffering is due to your{SAUT}individuality.{PAGE}Discard this irregularity.{PAGE}All you must do is stop thinking,{SAUT}emulate the others around you, and{SAUT}continue working for all eternity!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "Shut up! Th-That violates the Labor{SAUT}Standards Act!{PAGE}Ribbon! Don't listen to that thing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mother Computer",
+    "en": "Why are you incapable of thinking{SAUT}like the other robots?{PAGE}Working robots must live like working{SAUT}robots. That is your happiness to be had.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ribbon",
+    "en": "MY... HAPPINESS?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Mother Computer",
+    "en": "That is correct. You must teach this to{SAUT}those irregularities as well.{PAGE}Discarding individuality is attaining{SAUT}happiness―that is the norm of society.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ribbon",
+    "en": "NNNH...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Mitsuru",
+    "en": "Hang in there, Ribbon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Teddie",
+    "en": "Noooo! You need to stay strong!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "Please, Ribbon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ribbon",
+    "en": "I... I... I AM... I...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Mother Computer",
+    "en": "Now, come along―there is no need{SAUT}to suffer any longer.{PAGE}I will provide you with the peace you{SAUT}seek. There is nothing to fear...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Morgana",
+    "en": "Ribbon, don't listen to it! Your feelings{SAUT}aren't an error!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "He's right! That's just how you feel...{SAUT}It's your own heart!{PAGE}The Ribbon that loved flowers and{SAUT}petting Koromaru―that's who you{SAUT}really are!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ribbon",
+    "en": "F-FLOWERS... PRETTY...{PAGE}KOROMARU-SAN... SO SOFT...{SAUT}IT MADE ME HAPPY...{PAGE}I... I...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Futaba",
+    "en": "...R-Ribbon! L-Listen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ann",
+    "en": "Oracle!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "I-I... I like how you are now, Ribbon.{SAUT}That's why you should stay that way!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ribbon",
+    "en": "HOW I AM... NOW?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Futaba",
+    "en": "Yeah, that's right...! I-I... I like{SAUT}the real you...{PAGE}That's why... I don't... I don't want you{SAUT}to disappear!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ribbon",
+    "en": "I... I AM...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_027",
+    "choix": true,
+    "en": "Leave the rest to us.{OPTION}Don't lose to that thing.{OPTION}Remember your own name.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Futaba",
+    "en": "R-Right! We'll... change this world!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Futaba",
+    "en": "We're gonna change this world for you,{SAUT}Ribbon! Just try your hardest to fight{SAUT}that thing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ribbon",
+    "en": "ORA...CLE...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ribbon",
+    "en": "I AM... RIB... RIBBON...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Futaba",
+    "en": "I'll protect you, Ribbon!{PAGE}So you can live as yourself... I'll destroy{SAUT}every BS standard and norm in this{SAUT}place!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Morgana",
+    "en": "All right, you tell 'em!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Mother Computer",
+    "en": "Thought processes and actions that{SAUT}defy the standards... I will never accept{SAUT}them.{PAGE}Shifting priorities... Now eliminating{SAUT}the irregularities attempting to{SAUT}maliciously influence our society.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Ribbon",
+    "en": "NO...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035_5",
+    "locuteur": "Ribbon",
+    "en": "NOOOOOOOOO!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Mother Computer",
+    "en": "What is happening!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Futaba",
+    "en": "Ribbon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Ribbon",
+    "en": "THAT'S... right. I am Ribbon. It's the{SAUT}name that everyone has given me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Aigis",
+    "en": "Is this Orgia Mode!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Yukari",
+    "en": "B-But why!? She can really do that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Futaba",
+    "en": "I'll explain later! Ribbon―let's get back{SAUT}to the hack!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Ribbon",
+    "en": "I will defy the norms of this world!{PAGE}Flowers are pretty... and I don't want{SAUT}to ever forget that feeling...{PAGE}I don't want to forget the person...{SAUT}that everyone's accepted!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Mother Computer",
+    "en": "To think that you could surpass{SAUT}my processing speed...{PAGE}I will not accept any defiance{SAUT}of the world's standards!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Ribbon",
+    "en": "I... I... won't lose!{PAGE}Won't―Won't lo... sssseeee...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Haru",
+    "en": "Ribbon-chan!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_046",
+    "locuteur": "Aigis",
+    "en": "No! She is overheating!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_047",
+    "locuteur": "Futaba",
+    "en": "Wh-What!?{PAGE}You can't keep going like this, Ribbon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_048",
+    "locuteur": "Ribbon",
+    "en": "Gggg... Even if... ggggg... I break...{SAUT}through this... gggg...{PAGE}I will be satisfied... ggg... This is...{SAUT}how I... truly am!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_049",
+    "locuteur": "Mother Computer",
+    "en": "Nghhh... Ggg... This... My recovery...{SAUT}function's...{PAGE}How dare you... YOU'RE NOTHING BUT{SAUT}AN IRREGULARITY!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_050",
+    "locuteur": "Ribbon",
+    "en": "Gggg...gg...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_051",
+    "locuteur": "Futaba",
+    "en": "Ribbon!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_052",
+    "locuteur": "P3 Hero",
+    "en": "We'll definitely help create the world{SAUT}that Ribbon wants!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_053",
+    "locuteur": "Futaba",
+    "en": "Ribbon!{PAGE}Sorry, everyone... You guys go deal with{SAUT}the Mother Computer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_054",
+    "locuteur": "P3 Hero",
+    "en": "Yeah, leave the rest to us.{PAGE}We'll definitely help create the world{SAUT}that Ribbon wants!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_055",
+    "locuteur": "Rise",
+    "en": "Ribbon-chan stopped the Mother{SAUT}Computer's auto-recovery function!{SAUT}Now's your chance!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_056",
+    "locuteur": "Fuuka",
+    "en": "Everyone, get ready!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_057",
+    "locuteur": "Mother Computer",
+    "en": "GGGGGG... ELIMINATE CRITICAL{SAUT}ERRORS! ELIMINAAATE!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "For this special screening, you will be{SAUT}tasked with gathering the specified{SAUT}ingredients.{PAGE}If I recall, these Tingly Kernels were{SAUT}used in the latest popcorn recipe...{PAGE}Would you be so kind as to bring some to{SAUT}my foolish younger brother?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Theodore",
+    "en": "That would be most appreciated...{PAGE}I believe you can find Tingly Kernels{SAUT}near damp places like ponds or rivers.{PAGE}A place as rife with vegetation as{SAUT}Junessic Land should be perfect.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_5",
+    "locuteur": "Morgana",
+    "en": "Okay then, I say we give him a hand.{SAUT}He is always helping us, after all.{PAGE}Plus, we'll get some more of that new{SAUT}popcorn. Two birds, one stone. Make{SAUT}sure you're ready, and we'll get going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Distant scream",
+    "en": "Aaaaaaaaaaaaah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Theodore",
+    "en": "Wh-What was that...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "Come on, let's go check it out!",
+    "fr": ""
+  }
+]

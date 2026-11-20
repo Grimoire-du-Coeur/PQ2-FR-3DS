@@ -1,0 +1,230 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "What promised to be an action-packed{SAUT}adventure turned out to be a{SAUT}heartrending romance...{PAGE}I began to think my tears would never{SAUT}cease during those last five minutes.{PAGE}Now then, this is your reward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "Grraaaaahhh...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Mrowwwww...!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Kanji",
+    "en": "Man, they've been like that since we got{SAUT}back.{PAGE}You guys all right? You look like you're{SAUT}gonna go all Shadow on us.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "This happens all the time.{OPTION}Let's leave them be.{OPTION}Don't be jealous.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ryuji",
+    "en": "I dunno... This looks worse than{SAUT}normal.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, it's out of our hands at this point.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "Hey! You made it even worse!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Morgana",
+    "en": "Ngh... I can't accept this. I won't accept{SAUT}this!{PAGE}That dog may have won the contest, but{SAUT}I'm the one who gets to be at Lady Ann's{SAUT}side!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Teddie",
+    "en": "What!? The title of number one belongs{SAUT}to me!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "Enough fighting.{OPTION}You'll just have to duke it out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "Stay out of it! This has been a long time{SAUT}coming!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ann",
+    "en": "Wha―!? Don't encourage them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "Sorry, Lady Ann, but this has been a{SAUT}long time coming!{PAGE}Let's go, Teddie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Teddie",
+    "en": "Now you're talking! Take this!{SAUT}Quick Draw Bear Paw!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "Nyanyanyanyanya!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Teddie",
+    "en": "Rahrahrahrahrah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Aigis",
+    "en": "Neither of them seem to have arms long{SAUT}enough to reach the other.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Makoto",
+    "en": "This is embarrassing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akihiko",
+    "en": "But it means a lot to both of them. Let{SAUT}them go at it for a bit.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "P4 Hero",
+    "en": "Yeah. Sometimes a friendship doesn't{SAUT}really begin until you've traded{SAUT}a punch or two.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Teddie",
+    "en": "Rrrrah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "Nnnyah!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Morgana",
+    "en": "*pant pant* Not bad, for a bear...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Teddie",
+    "en": "You've got a pretty good pair of paws{SAUT}yourself...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Morgana",
+    "en": "Koromaru?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Aigis",
+    "en": "\"I may have been the one to find the{SAUT}treasure, but we only made it to the end{SAUT}because we worked together.\"{PAGE}...So says Koromaru-san.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ann",
+    "en": "Don't you see? You don't need to decide{SAUT}who's number one.{PAGE}You're both valued members of our{SAUT}team.{PAGE}You too, Koro-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Morgana",
+    "en": "Lady Ann...{PAGE}Sorry. I guess I got a little too heated{SAUT}there...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Teddie",
+    "en": "Yeah, I need to calm down too... Sorry.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_035",
+    "choix": true,
+    "en": "Let's all get along.{OPTION}We're counting on you guys.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Morgana",
+    "en": "I'll be sure to make up for all the trouble{SAUT}I caused next time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Teddie",
+    "en": "Yeah, me too!{PAGE}If all of us mascots worked together,{SAUT}we'd be unstoppable...{PAGE}Let this mark the bear-ginning of the{SAUT}great mascot alliance!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Koromaru",
+    "en": "Awooo!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Morgana",
+    "en": "Yeah! ...Wait, I'm not a mascot!",
+    "fr": ""
+  }
+]

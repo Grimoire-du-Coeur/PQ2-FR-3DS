@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Okay, let's go over our plan again.{PAGE}Enlil's theatergoers are watching extra-{SAUT}depressing movies―or in other words,{SAUT}\"negative films.\"{PAGE}These films are saddling the theatergoers{SAUT}with so much negative emotion, they've{SAUT}all locked themselves in their theaters.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "Everyone is watching something{SAUT}different, but it all seems to be{SAUT}connected somehow as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Makoto",
+    "en": "We could view the source of the{SAUT}negative film as if it were a tree{SAUT}trunk...{PAGE}And the countless movie theaters are{SAUT}screening the branches and leaves{SAUT}that have spread from the trunk.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Haru",
+    "en": "If the negative film is poisonous to their{SAUT}minds, then positive film should serve{SAUT}as nourishment.{PAGE}Any poison flowing from the trunk{SAUT}would spread through the branches and{SAUT}leaves―same with nourishment, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "That's why we're gonna change this{SAUT}negative film to Hikari-chan's film,{SAUT}right?{PAGE}If we do that, then those theater{SAUT}people...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "They'll come to their senses.{OPTION}They'll gain courage.{OPTION}They'll exit their theaters.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Akechi",
+    "en": "Right. Well, there's no absolute{SAUT}guarantee that'll happen...{PAGE}But at the very least, I believe that this{SAUT}movie will give them impetus and{SAUT}the courage to change their minds.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ken",
+    "en": "All of this film is made of pieces{SAUT}of memories where people's{SAUT}individualities were denied...{PAGE}It would be so draining to watch{SAUT}nothing but that―both physically{SAUT}and mentally...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akihiko",
+    "en": "Even though a life can be full of pain,{SAUT}not all of a person's memories during{SAUT}that time are depressing ones.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yukiko",
+    "en": "When you've faced too much trauma{SAUT}or pain, the depressing memories will{SAUT}often cover up the happy ones.{PAGE}Even if someone wants to hold onto{SAUT}those fun, cheerful memories...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "That's why we gotta hurry up and swap{SAUT}out that shitty movie―to make 'em all{SAUT}remember!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "Right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Now listen up: there are a total of four{SAUT}projectors.{PAGE}Once you finish setting all of the film,{SAUT}I'll flip the switch and activate them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Morgana",
+    "en": "Now, which projector should we start{SAUT}with? We'll leave it up to you, Joker.",
+    "fr": ""
+  }
+]

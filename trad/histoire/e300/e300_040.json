@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Huh? There's somethin' here on{SAUT}the ground.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Is that... a gun?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "Is it real?{OPTION}I've seen something like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "Even if it weren't, why is it in this movie,{SAUT}of all places?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "Yes, I feel as if I've seen something{SAUT}exactly like it as well...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hang on! That's an Evoker!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "You mean that thing you use when{SAUT}summoning Personas?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah―see how it has \"SEES\" engraved{SAUT}on it?{PAGE}Mine's right here with me, so this one{SAUT}could be my companion's!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Wait, does that mean your friends really{SAUT}are in this movie!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Most likely. I can't tell whose Evoker{SAUT}this is, though...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosuke",
+    "en": "Well, if this is used for summoning{SAUT}Personas, isn't it bad that they don't{SAUT}have this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Fem Protag",
+    "en": "Maybe they lost it after getting attacked.{SAUT}I hope everyone's okay...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "Don't look so down! Remember how{SAUT}our Yosuke turned out to be okay?{PAGE}We'll definitely find your companions{SAUT}too, {f 6 1 27 0 0 0}-chan!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "Of course.{OPTION}No worries there.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "We're all on your side here, so feel free{SAUT}to rely on us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "Not just the Phantom Thieves, either―{SAUT}the whole Investigation Team's got your{SAUT}back, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "P3 Fem Protag",
+    "en": "Aw, you guys...{PAGE}Thank you so much! And you're right,{SAUT}we've gotta keep moving for now!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "P4 Hero",
+    "en": "I'm sure your companions are looking{SAUT}for you as well. Let's get you reunited{SAUT}with them.",
+    "fr": ""
+  }
+]

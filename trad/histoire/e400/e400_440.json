@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "P4 Protag",
+    "en": "You're... Doe!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "So you WERE the one behind all this!{SAUT}The hell's your problem!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Hey! I'm talkin' to you, spongebag!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "I'm not sure what it is, but something{SAUT}seems different now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Doe",
+    "en": "Hi...kari...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Haru",
+    "en": "H-He actually spoke!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Hikari",
+    "en": "Ah―He said... my name...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Chie",
+    "en": "Hey, wait up! Are you just gonna run{SAUT}off like that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Don't worry―I'm tracking his reading.{SAUT}Looks like Doe's heading deeper into{SAUT}the musical.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Mitsuru",
+    "en": "...It almost seemed as if he was luring us{SAUT}further inward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Akihiko",
+    "en": "You're right. It's quite possible that he's{SAUT}leading us into a trap, but we can't{SAUT}exactly turn tail, either.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yusuke",
+    "en": "What should we do? Do we pursue him,{SAUT}Joker?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_015",
+    "choix": true,
+    "en": "Of course.{OPTION}We can't just let it end like this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosuke",
+    "en": "Yeah, let's take care of this the right way.{PAGE}We're countin' on you to guide us{SAUT}to Doe, Navi-Gals!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Futaba",
+    "en": "...Navi-Gals?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Rise",
+    "en": "Yosuke-senpai sometimes talks like a{SAUT}fuddy-duddy... Only sometimes, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yosuke",
+    "en": "Agh―That attempt to cover was even{SAUT}more painful than the insult. Just cut{SAUT}it out entirely!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Fuuka",
+    "en": "Um... In any case, we'll do our best{SAUT}to guide you. I'll keep a close eye{SAUT}on Doe's reading!",
+    "fr": ""
+  }
+]

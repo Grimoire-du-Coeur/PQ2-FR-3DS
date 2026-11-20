@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Morgana",
+    "en": "Well, here come the FOEs.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Well, the opposition is heavier than{SAUT}usual. We're not gonna be able to{SAUT}sneak past 'em like always.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001_02",
+    "locuteur": "Rise",
+    "en": "They look pretty frenzied too... They'll{SAUT}probably be even more aggressive, so{SAUT}watch out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Chie",
+    "en": "Ohh... I'm starting to get nervous.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Just stay focused.{OPTION}Try counting three.{OPTION}Yeah, my hands are all sweaty.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Chie",
+    "en": "...Focus, focus. Aw geez, now I'm even{SAUT}more nervous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Kanji",
+    "en": "I hear about that a lot. Does it really{SAUT}work, though?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Naoto",
+    "en": "Simple tasks are said to help calm one's{SAUT}mind.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Chie",
+    "en": "One, two, three... One, two, three...{SAUT}How many times do I have to do this!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "What, you too!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "Well, you said the best way to learn{SAUT}something is to go out and do it! Come{SAUT}on, let's go!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Chie",
+    "en": "Y-Yes, ma'am!",
+    "fr": ""
+  }
+]

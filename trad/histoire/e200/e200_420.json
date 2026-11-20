@@ -1,0 +1,242 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Timid herbivore",
+    "en": "We... won against the carnivore?{SAUT}Unbelievable...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "We knew you could do it!{PAGE}Things turned out this way all because{SAUT}you tried your hardest, huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Sulky herbivore",
+    "en": "But more importantly, what were you{SAUT}thinking, charging at that carnivore{SAUT}all by yourself!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosukesaurus",
+    "en": "Haha, I guess I just got too heated...{PAGE}But, it made me real happy that you all{SAUT}fought alongside me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Loud herbivore",
+    "en": "*sigh* We're companions, aren't we?{SAUT}It's only natural that we helped out.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Nervous herbivore",
+    "en": "Let's work together from here on, okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosukesaurus",
+    "en": "Y-You guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Sulky herbivore",
+    "en": "Also... we ought to thank the humans.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosukesaurus",
+    "en": "Oh, right! I'm sorry we dragged you all{SAUT}into this.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Oh, that? It was nothing.{OPTION}You were really cool back there.{OPTION}You really moved us.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosukesaurus",
+    "en": "Haha, you really are amazing...{PAGE}We swear, we'll try to get as strong as{SAUT}you guys are one day!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yosukesaurus",
+    "en": "F-For real? Cool!? It didn't feel like{SAUT}a disappointment to you!?{PAGE}Well, not to toot my own horn or{SAUT}anything, but I was the most kickass{SAUT}one, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "Sheesh... I still haven't gotten over how{SAUT}much he's like the real Yosuke.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "But, there's no doubt that your initiative{SAUT}is what moved everyone else to action...{PAGE}And, what moved us was your passion.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "I know, right? It was as heartfelt as some{SAUT}coming-of-age manga!{PAGE}Seriously though, it was a bit of a tear{SAUT}jerker. I was providing backup with{SAUT}tissues in one hand.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "Now I wonder... what are you going{SAUT}to do from here on out?{PAGE}After all, didn't we learn that there{SAUT}is no paradise for herbivores here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yosukesaurus",
+    "en": "I-I forgot about that! *sigh* What're we{SAUT}supposed to do now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yosuke",
+    "en": "If you're looking for a safe haven, all{SAUT}you gotta do is make one together.{PAGE}It's not something given to you, or that{SAUT}you'd just stumble upon somewhere...{PAGE}You have to make an effort to secure it,{SAUT}just like you and I did when it came to{SAUT}our companions!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Teddie",
+    "en": "Yo... Yosukeeeee!!!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yosuke",
+    "en": "Agh! Don't tackle me like that outta{SAUT}nowhere!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Teddie",
+    "en": "Waaaaaah... My own bearadise is right{SAUT}by your and everyone else's sides!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yosuke",
+    "en": "Alright, alright! I get it―just lemme go!{PAGE}Wait―did you spill juice on yourself{SAUT}again!? You're all sticky!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Teddie",
+    "en": "It's not just juice. I also got a bunch{SAUT}of popcorn in my suit, and―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Yosuke",
+    "en": "Learn how to clean yourself before you{SAUT}wind up full of bugs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "P3 Fem Protag",
+    "en": "*chuckle*{PAGE}Ah, companions you can share a laugh{SAUT}with... I wonder how mine are doing{SAUT}right now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Ryuji",
+    "en": "Aw, don't worry about it. They're{SAUT}strong just like you, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Haru",
+    "en": "I wouldn't claim that we're trying to fill{SAUT}their place... but we're here for you.{PAGE}If there's anything troubling you, feel{SAUT}free to rely on us, {f 6 1 27 0 0 0}-chan.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Chie",
+    "en": "Remember what Yosuke said earlier?{PAGE}Friends and companions do what they{SAUT}can to help each other out!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "P3 Fem Protag",
+    "en": "Everyone... Thank you.{PAGE}I think of you as my companions as well,{SAUT}so you can rely on me as much as you{SAUT}need to!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_030",
+    "choix": true,
+    "en": "Then, I won't hold back.{OPTION}Don't push yourself too hard.{OPTION}Let's see what you've got.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "P3 Fem Protag",
+    "en": "Mmhm, leave it all to me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "P3 Fem Protag",
+    "en": "Don't worry. If I feel like I'm falling{SAUT}behind, I'll just borrow your shoulder{SAUT}to lean on!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "P3 Fem Protag",
+    "en": "I'll crush any Shadow, one-handed!{SAUT}...Heheh, just kidding!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Akechi",
+    "en": "Well then, it seems there's nothing else{SAUT}we can do in this movie. Why don't we{SAUT}head back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yosukesaurus",
+    "en": "...Are you guys leaving?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Yosuke",
+    "en": "Yeah, we've got something we have to{SAUT}take care of.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yosukesaurus",
+    "en": "I see... It'll be sad to see you go, but we{SAUT}can't rely on you guys forever, either.{PAGE}We swear we'll make a safe haven for{SAUT}ourselves one day... Good luck to you{SAUT}guys, too!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "P4 Hero",
+    "en": "Thanks. Even though we may be apart,{SAUT}we'll still be cheering you on.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Kanji",
+    "en": "You better not let those damn carnivores{SAUT}get the better of you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Morgana",
+    "en": "Goodbyes are always hard―but let's{SAUT}head back to the movie theater, folks.",
+    "fr": ""
+  }
+]

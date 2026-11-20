@@ -1,0 +1,132 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "The projection room...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Whoa, I've never been in a projection{SAUT}room before. Is this huge thing{SAUT}the projector?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Futaba",
+    "en": "Hey, don't go messing with that!{SAUT}Complex devices like projectors{SAUT}are delicate.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Wha―Whoooaaah! What's that!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Akechi",
+    "en": "Is it a Shadow!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ann",
+    "en": "It's suspicious, but... it doesn't seem{SAUT}to be an enemy? What is this thing!?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "I'm gonna poke it.{OPTION}Let's try talking to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "I hope it doesn't attack you...{SAUT}Be careful, {f 6 1 30 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "......?{PAGE}It feels really weird...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Are you okay? Nothing bad happened?{SAUT}It just goes \"boing-boing\" when you{SAUT}poke it?{PAGE}Okay... Someone try talking to it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "H-Hellooo? Can you hear me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Futaba",
+    "en": "No reply. It's just a boingy object.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "Well, in that case... where are its ears?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "If we're loud enough, won't it get{SAUT}the gist of what we're saying?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016_5",
+    "locuteur": "Ann",
+    "en": "H-Hellooo? Can you hear me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "It's not reacting... Maybe it can't{SAUT}hear us?{PAGE}There's nothing left except to try{SAUT}touching it... Ryuji!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ryuji",
+    "en": "Why me!?{PAGE}Ugh, fine... Are you guys sure it's okay{SAUT}for me to be doing this?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ryuji",
+    "en": "Whoa! It's super-spongy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Akechi",
+    "en": "Well, we've learned that it's elastic, but{SAUT}it appears to be non-communicative{SAUT}as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Yusuke",
+    "en": "It doesn't speak, or move, or react to us{SAUT}at all...{PAGE}Perhaps this is some kind of doll?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Futaba",
+    "en": "O-Oh, okay... It's just a doll, huh?{SAUT}It's way too big, though. At least{SAUT}make it 1/7th scale.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "Well, the ladies aren't here, so let's keep{SAUT}searching.",
+    "fr": ""
+  }
+]

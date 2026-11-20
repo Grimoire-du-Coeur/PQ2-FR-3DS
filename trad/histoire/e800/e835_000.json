@@ -1,0 +1,121 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Junpei",
+    "en": "*sigh*",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "What's wrong?{OPTION}You hungry or something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Oh, it's nothin'. It's just that life's tough{SAUT}at this age, y'know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Junpei",
+    "en": "What, am I Fox now? Nah, that ain't it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yusuke",
+    "en": "What!? As if my existence is defined by{SAUT}an incessant, hunger-driven rapping at{SAUT}death's door!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Mitsuru",
+    "en": "It seems he's not aware of it himself...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Junpei",
+    "en": "It's just, I haven't had time to play any of{SAUT}the games I bought recently, and now{SAUT}my backlog's crazy.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukari",
+    "en": "*sigh* I seriously couldn't care less{SAUT}if I tried...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "Aw, come on! Just hear me out!{PAGE}So that sci-fi flick we were in was all{SAUT}\"beep-boop\" like a game, right?{PAGE}We were basically in a fantasy world like{SAUT}the ones you'd see in those games, and{SAUT}that's why I remembered my backlog.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Oho? Are you a gamer, Junpei? Yeah,{SAUT}games have a way of piling up when{SAUT}you're not looking.{PAGE}I've got a pretty hefty backlog myself.{SAUT}I'll get through it one day, though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "Video games, huh...? It's been awhile{SAUT}since I played anything. Maybe I'll get{SAUT}back into it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Junpei",
+    "en": "Ooh, are you two hardcore? What's your{SAUT}favorite genre?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "I actually don't know that much. I just{SAUT}kinda mess around a bit if I'm{SAUT}interested.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "I play all kinds: adventure games,{SAUT}shooters, and even MMOs and RTSs and{SAUT}RPGs!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Makoto",
+    "en": "Was that last bit her casting some kind{SAUT}of spell...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "I'd love to hear about some of your{SAUT}favorites sometime, Junpei!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "Yeah, you bet. Maybe we can get a little{SAUT}multiplayer action goin' too?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ann",
+    "en": "Ooh, I'm down! We can play a fighting{SAUT}game or something!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "That's an unlikely trio. I guess a lot of us{SAUT}are secretly gamers.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "en": "A new special screening:{SAUT}\"Easter Egg Hunt!\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

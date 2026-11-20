@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Margaret",
+    "en": "Here and now, I face you as an{SAUT}opponent.{PAGE}I wonder how much I can expect{SAUT}from you...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Margaret",
+    "en": "Is that all...? No, I didn't think so.{PAGE}Your expression alone makes that{SAUT}plain to see. Now, let's continue.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Margaret",
+    "en": "How about it? Can you still keep{SAUT}fighting?{PAGE}Then again... Whether you can or{SAUT}not, I can't hold myself back!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Margaret",
+    "en": "Exhilarating... Don't stop now.{PAGE}Let me witness all that your battles{SAUT}have made you... until the very end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Margaret",
+    "en": "Hmhm... Truly wonderful.",
+    "fr": ""
+  }
+]

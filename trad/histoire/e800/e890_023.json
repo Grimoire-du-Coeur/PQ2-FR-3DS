@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Caroline",
+    "en": "Come on, Inmate. You'd better not{SAUT}hold anything back!{PAGE}We're practically bending the rules{SAUT}to have this bout with you. How do{SAUT}you like that special treatment?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Justine",
+    "en": "I've never seen you so high in spirits,{SAUT}Caroline.{PAGE}I suppose you can be as enthusiastic{SAUT}as you like, as long as you don't{SAUT}trip us up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Caroline",
+    "en": "Wha―!? I'm not \"enthusiastic\"!{PAGE}And look at you! You've been talking{SAUT}a lot more than usual around him!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Justine",
+    "en": "......{PAGE}I can't imagine what you mean.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Are you two done yet?{OPTION}This is adorable.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Caroline",
+    "en": "Sh-Shut up! This is all your fault{SAUT}anyway!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Justine",
+    "en": "That's correct. Your very presence{SAUT}is... disconcerting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "Well, well. Sounds like a fixation to me,{SAUT}Joker.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Caroline",
+    "en": "A-Adora―whuh, I―what's that{SAUT}supposed to mean!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Justine",
+    "en": "H-Hrmph. Don't bother placating us.{SAUT}We have no mercy for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Caroline",
+    "en": "Y-Yeah, th-th-that's right!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Akechi",
+    "en": "The stuttering and blushing isn't{SAUT}exactly helping their case.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Elizabeth",
+    "en": "Well! This introduction is running a{SAUT}tad long.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012_1",
+    "locuteur": "Elizabeth",
+    "en": "I appreciate that the tsundere schtick{SAUT}is a bit of a \"slow burn,\" but may I{SAUT}ask that you begin soon?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Justine",
+    "en": "You don't have to tell us twice.{PAGE}Come, Caroline. Our hot dogs await.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Caroline",
+    "en": "Heh heh... Understood. It's time we{SAUT}taught you a lesson, Inmate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Caroline",
+    "en": "Heh... Well, Inmate, you seem pretty{SAUT}confident this time. But no matter how{SAUT}many times you try, you'll still lose.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Justine",
+    "en": "At least try and put up a struggle.{SAUT}Now, let us commence.",
+    "fr": ""
+  }
+]

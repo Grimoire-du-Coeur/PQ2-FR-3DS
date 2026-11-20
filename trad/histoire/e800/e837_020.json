@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Akihiko",
+    "en": "There it is! Let's get in there and{SAUT}land the first strike!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Roger that! I'm ready to learn from{SAUT}the best!{PAGE}...Wait, there's no road!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Akihiko",
+    "en": "Whoa!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "Calm down, you two. First, we need{SAUT}to assess the situation.{PAGE}See the enemy's orientation. Gauge{SAUT}its speed, movements, and position.{SAUT}Observe, then predict its actions.{PAGE}After that, you can decide the best{SAUT}way to respond.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Akihiko",
+    "en": "I see.{PAGE}......",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "...They're totally frozen. Guess they{SAUT}can't think of anything.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Makoto",
+    "en": "*sigh* In any case, our attacks won't{SAUT}reach it from here.{PAGE}We'll have to look for a way around,{SAUT}first.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "Got it, Coach!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Akihiko",
+    "en": "Let's go, Chie! I'll race you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "Well, at least they're quick on their{SAUT}feet...{PAGE}All right. We should go too.",
+    "fr": ""
+  }
+]

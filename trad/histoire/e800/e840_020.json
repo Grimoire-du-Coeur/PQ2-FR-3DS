@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "It's a pretty big area, with two floors.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "A place with fruit... Sorry, I just can't{SAUT}think of where that could be.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Junpei",
+    "en": "Don't strain yourself. There's plenty to{SAUT}explore here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P3 Hero",
+    "en": "Yeah, we can just walk around until{SAUT}we find what we're looking for.{PAGE}But since there are Shadows around,{SAUT}let's keep our guard up.",
+    "fr": ""
+  }
+]

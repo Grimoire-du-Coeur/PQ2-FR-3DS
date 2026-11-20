@@ -1,0 +1,230 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ann",
+    "en": "Whew... Looks like we made it through.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Chie",
+    "en": "Man, this really does tire you out...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Ann",
+    "en": "You say that, but you handled it{SAUT}perfectly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "R-Really? Hehe... It's probably just{SAUT}because you're such a good teacher,{SAUT}Panther...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "I just gave you a little hint, is all.{PAGE}You might even be cut out for the{SAUT}Phantom Thieves, Chie-chan.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "You're welcome to join.{OPTION}What about the Investigation Team?{OPTION}It'll be a double life.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukiko",
+    "en": "Even if you did join the Phantom{SAUT}Thieves, we'll always be there for you,{SAUT}Chie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "The Investigation Team AND the{SAUT}Phantom Thieves, hm?{PAGE}With someone as passionate as you,{SAUT}Chie-chan, I bet you'd do great in both!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "I'll be, like, investigator by day,{SAUT}phantom thief by night! Something{SAUT}like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Teddie",
+    "en": "With someone as passionate as you,{SAUT}Chie-chan, I bet you'd do great in both!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Teddie",
+    "en": "The Investigation Team AND the{SAUT}Phantom Thieves, hm?{PAGE}With someone as passionate as you,{SAUT}Chie-chan, I bet you'd do great in both!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Yukiko",
+    "en": "Even if you did join the Phantom{SAUT}Thieves, we'll always be there for you,{SAUT}Chie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ann",
+    "en": "Yeah, I'm sure you'd make a great{SAUT}phantom thief, Chie-chan!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "Awww geez, you guys are making me{SAUT}blush.{PAGE}You won't get anything out of me{SAUT}except for maybe some meat gum...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Yosuke",
+    "en": "Uh, no thanks. We're good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Chie",
+    "en": "Still, I'm really happy to hear you say{SAUT}that, Panther...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ann",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Chie",
+    "en": "You're, like, a supermodel from the city.{PAGE}Yeah, you're pretty, but you're also{SAUT}stylish. You're on top of all the latest{SAUT}fashion and stuff.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Teddie",
+    "en": "Hrrm, I see... It's true that your beauty{SAUT}is on par with our girls out in the{SAUT}country...{PAGE}And you are a beary trendy lady,{SAUT}Panther.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Ann",
+    "en": "You think so?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Yosuke",
+    "en": "Well yeah, you can find all the latest{SAUT}fashion trends in the city, can't you?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yukiko",
+    "en": "Do ya ever chill at da nightclubs in{SAUT}Shibuya, or eat da sushi over in Ginza?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_022",
+    "choix": true,
+    "en": "No nightclubs for us.{OPTION}Sometimes we eat sushi.{OPTION}Why are you talking like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Yukiko",
+    "en": "Oh, then, we've got you beat there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Ryuji",
+    "en": "Wha―? You guys've actually been to{SAUT}a nightclub?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Kanji",
+    "en": "Well, Senpai sorta dragged us along...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Yosuke",
+    "en": "You serious...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Yusuke",
+    "en": "That isn't to say it's good because it's{SAUT}expensive, but it certainly is delicious...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yukiko",
+    "en": "I just figured that's how celebrities{SAUT}from the city talk.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Futaba",
+    "en": "But you guys have a national idol in{SAUT}your group...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Chie",
+    "en": "Man, the city sounds so cool. You guys{SAUT}probably have so much to do up there.{PAGE}Pretty much the only place we have to{SAUT}hang out is Junes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Ann",
+    "en": "Junes?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Chie",
+    "en": "Uh, it's like a supermarket?{PAGE}But it also sells, like, electronics and{SAUT}clothes and stuff. There's even a food{SAUT}court on the roof.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Ann",
+    "en": "Whoa, that's convenient! I'm so jealous.{SAUT}I'd love to check that out sometime.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Chie",
+    "en": "Huh? It's not that out of the ordinary,{SAUT}is it...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yosuke",
+    "en": "The city doesn't really have big{SAUT}department stores like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Chie",
+    "en": "All right then, I'll show you around next{SAUT}time! And Yosuke can treat you at the{SAUT}food court!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Yosuke",
+    "en": "Why me!? Fine, whatever, you'll{SAUT}probably just order steak again{SAUT}anyway...{PAGE}Well, it's something to look forward to{SAUT}when we get back. Right now we need{SAUT}to find that manhole.{PAGE}Let's go, guys.",
+    "fr": ""
+  }
+]

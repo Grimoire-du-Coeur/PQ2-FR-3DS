@@ -1,0 +1,38 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Wha―The hell is this huge-ass stalk!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "That's no ordinary stalk...{PAGE}Looks like it has something to do with{SAUT}that stump from earlier, too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "A stump? Oh, so this is some kind of{SAUT}stage lift?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Rise",
+    "en": "Mmhm―this one's currently raised up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "In that case, if we flip the nose on that{SAUT}tree stump, it should do something{SAUT}with this stalk.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "If you wanna use that stage lift, you'll{SAUT}have to go flip that tree stump's nose{SAUT}switch!",
+    "fr": ""
+  }
+]

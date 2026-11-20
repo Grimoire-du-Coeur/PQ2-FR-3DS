@@ -1,0 +1,180 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Welp, now that we figured out that{SAUT}weird mystery, let's go look for Makoto{SAUT}and Haru.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "Before that―Morgana, there's{SAUT}something I'd like to ask you...{PAGE}After we entered the movie, were you{SAUT}able to see us from your side of{SAUT}the screen?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Morgana",
+    "en": "Yeah, you were definitely onscreen.{SAUT}It was like you were just characters{SAUT}in the movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Akechi",
+    "en": "Oh? Now that's interesting. I'd like to{SAUT}see that from here as well.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Morgana",
+    "en": "However, there was one weird thing...{PAGE}Unless you all progressed onward,{SAUT}the same scene of the movie would{SAUT}loop.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Ann",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "It looked like the movie was on repeat―{SAUT}when you guys moved on, the movie{SAUT}would progress too.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yusuke",
+    "en": "Essentially, we're developing the plot{SAUT}as if we were the actors within it.{PAGE}This is a rather unprecedented creative{SAUT}activity.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Hey, Morgana, did you ever end up{SAUT}finding any clues here in the theater?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Morgana",
+    "en": "No... I looked everywhere, but there{SAUT}isn't a single trace of Makoto and Haru{SAUT}here.{PAGE}If we're gonna look for them, it'd be best{SAUT}to do it within the movie...{PAGE}So, from here on out, I'm getting in{SAUT}on the action!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ann",
+    "en": "That's reassuring to hear, but... will it{SAUT}really be okay to leave Futaba here{SAUT}by herself?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_011",
+    "choix": true,
+    "en": "That idea's troubling me.{OPTION}She can do it.{OPTION}I'm not exactly convinced...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "Wh-What!? Is this a heartfelt confession{SAUT}of your trust in me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "Why? Is it just because I'm devastatingly{SAUT}shy around strangers!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Morgana",
+    "en": "No, not at all!{PAGE}Wait―actually, that is basically it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Morgana",
+    "en": "Hey, {f 6 1 30 0 0 0}―c'mere for a sec...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "en": "When I bend down, Morgana{SAUT}whispers to me...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Morgana",
+    "en": "...When I was tailing Hikari and Nagi,{SAUT}they didn't do anything suspicious.{PAGE}I don't think there'll be any problems{SAUT}leaving Futaba here with them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Futaba",
+    "en": "Don't you worry about me―I'll just hang{SAUT}out here with our new blue buds.{PAGE}Plus, if something bad were to happen{SAUT}out here, it'd be sucky if no one was{SAUT}around to report it to you.{PAGE}I'll stick to navigation and serve as your{SAUT}contact on this end! Any objections?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "Your assistance would be greatly{SAUT}appreciated. We'll all be relying{SAUT}on you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "It's decided, then!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Hikari",
+    "en": "...You're going too, Morgana?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Morgana",
+    "en": "Of course I am. I've got some serious{SAUT}skills myself, y'know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Hikari",
+    "en": "You might be able to fight... but...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Morgana",
+    "en": "Nya-haha! Just sit back and watch.{PAGE}Right, {f 6 1 30 0 0 0}? We've made it{SAUT}through thick and thin together!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_025",
+    "choix": true,
+    "en": "No need to worry about us.{OPTION}We don't ditch our friends.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Morgana",
+    "en": "Yeah, what he said! All right, let's roll out,{SAUT}guys!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Futaba",
+    "en": "Okay, then you'd better first look over{SAUT}who's going to be doing the fighting.{PAGE}If you all just bumble around in a group,{SAUT}it'll be way easier for the enemy to find{SAUT}you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Morgana",
+    "en": "True―there's also our party formation{SAUT}to consider, with both front and back{SAUT}positions available to us.{PAGE}Members in the back line take less{SAUT}damage from enemies than party{SAUT}members in the front line.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_099",
+    "en": "モルガナが加入しました！{SAUT}※仲間加入ＷＮＤ用画像くるまでの仮。 TEMP",
+    "fr": ""
+  }
+]

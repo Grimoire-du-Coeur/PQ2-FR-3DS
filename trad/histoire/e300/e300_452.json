@@ -1,0 +1,50 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "...Huh? Is this is a dead end?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Koromaru",
+    "en": "Bark! Bark bark!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ken",
+    "en": "What’s wrong, Koromaru?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Shinjiro",
+    "en": "Oh, an air duct...{PAGE}Yeah, this connects to the other side.{SAUT}I’m impressed you spotted this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Aigis",
+    "en": "Koromaru-san says, “We can go through{SAUT}here.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yukari",
+    "en": "What!? You don’t mean...{PAGE}But there was a door on our way here―{SAUT}why don’t we check that first?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ryuji",
+    "en": "Yeah, you got a point. Welp, let’s head{SAUT}over to that door then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ryuji",
+    "en": "C’mon, let’s go check out that door{SAUT}before messin' with this.",
+    "fr": ""
+  }
+]

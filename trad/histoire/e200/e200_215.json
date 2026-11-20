@@ -1,0 +1,49 @@
+[
+  {
+    "id": "MSG_000",
+    "en": "Obtained {f 4 4 3 0 1605}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Kanji",
+    "en": "...The hell? Why's this card shinin'?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Fem Protag",
+    "en": "It reminds me of the Persona filmstrips,{SAUT}but it's a little different from that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ann",
+    "en": "Oh, you're right―it does look like those.{SAUT}Could it be useful to us?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Perhaps those Velvet Room inhabitants{SAUT}know something about it.{PAGE}Why don't we try asking them when{SAUT}we return?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P3 Fem Protag",
+    "en": "Yeah, that sounds good!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Naoto",
+    "en": "Well then, let's make sure to hold{SAUT}onto it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "Well then, let's make sure to retain this{SAUT}so we can bring it back to the theater.",
+    "fr": ""
+  }
+]

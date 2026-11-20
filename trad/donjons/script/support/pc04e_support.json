@@ -1,0 +1,932 @@
+[
+  {
+    "id": "CAROLIN_FOE_FOLLOW_START",
+    "en": "You idiots, an FOE spotted you all!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_FOE_FOLLOW_START",
+    "en": "It's the...",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_FOE_FOLLOW_START#2",
+    "en": "It's following you!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_FOE_FOLLOW_START#2",
+    "en": "The FOE found you.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_FOE_FOLLOW_START#3",
+    "en": "Hey, the FOE noticed you!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_FOE_FOLLOW_START#3",
+    "en": "It is now pursuing you.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_FOE_NEAR_1",
+    "en": "You better be careful!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_FOE_NEAR_1",
+    "en": "The FOE is coming closer.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_FOE_NEAR_2",
+    "en": "Don't get close if you're not willing to{SAUT}fight it!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_FOE_NEAR_2",
+    "en": "Please be aware that the FOE{SAUT}is nearby.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_FOE_NEAR_3",
+    "en": "An FOE's nearly on top of you!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_FOE_NEAR_3",
+    "en": "Please proceed with caution.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_FOE_FOLLOW_END_1",
+    "en": "Looks like the FOE gave up!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_FOE_FOLLOW_END_1",
+    "en": "It looks like they can relax, Caroline.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_FOE_FOLLOW_END_2",
+    "en": "Good work, you got away!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_FOE_FOLLOW_END_2",
+    "en": "The FOE stopped chasing you.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_FOE_FOLLOW_END_3",
+    "en": "Huh? What happened to it?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_FOE_FOLLOW_END_3",
+    "en": "It appears the FOE has ceased{SAUT}chasing them, Caroline.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_KANSI_REACTION_1",
+    "en": "Avoid those lights, got it!?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_KANSI_REACTION_1",
+    "en": "Proceed without allowing any light to{SAUT}illuminate you.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_KANSI_REACTION_2",
+    "en": "Avoid them and you won't be seen!{SAUT}Got that?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_KANSI_REACTION_2",
+    "en": "Until you turn the switch off, avoid{SAUT}the spotlights.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_KANSI_REACTION_3",
+    "en": "If you can't turn the lights off, then at{SAUT}least stay far away from them!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_KANSI_REACTION_3",
+    "en": "Avoid them and you shan't be spotted.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_DENKISAKU_REACTI",
+    "en": "If you don't want a nasty shock, look{SAUT}for the switch!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_DENKISAKU_REACTI",
+    "en": "Unless you impede the electricity, you{SAUT}cannot proceed.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_DENKISAKU_REACTI#2",
+    "en": "Look for the switch! It's gotta be{SAUT}around there somewhere!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_DENKISAKU_REACTI#2",
+    "en": "There is most likely a switch which you{SAUT}can use to stop the electricity.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_DENKISAKU_REACTI#3",
+    "en": "*chuckle* It's like our executions!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_DENKISAKU_REACTI#3",
+    "en": "If you locate the switch, you will be{SAUT}able to proceed.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_KYOUHU_REACTION_",
+    "en": "Fascinating... Try moving with the{SAUT}wind.",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_KYOUHU_REACTION_",
+    "en": "A mighty wind...!",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_KYOUHU_REACTION_#2",
+    "en": "H-Hey!?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_KYOUHU_REACTION_#2",
+    "en": "Try using the wind to your advantage,{SAUT}perhaps to augment your movement.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_KYOUHU_REACTION_#3",
+    "en": "I see all of your minds have been{SAUT}blown!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_KYOUHU_REACTION_#3",
+    "en": "Are any of you struggling...?",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_STAIR_FIND_1",
+    "en": "Hey, Justine, you think that's a{SAUT}staircase?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_STAIR_FIND_1",
+    "en": "It appears to be one. Please confirm.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_STAIR_FIND_2",
+    "en": "I found a staircase, Justine!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_STAIR_FIND_2",
+    "en": "Excellent work, Caroline. I wouldn't{SAUT}expect any less from you.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_STAIR_FIND_3",
+    "en": "Hah, there we go! Now let's keep{SAUT}going!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_STAIR_FIND_3",
+    "en": "There appear to be stairs up ahead.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_TREASURE_FIND_1",
+    "en": "Ooh, a treasure box! Hurry up and{SAUT}open it!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_TREASURE_FIND_1",
+    "en": "That must be a treasure box.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_TREASURE_FIND_2",
+    "en": "Hey, is that a treasure box?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_TREASURE_FIND_2",
+    "en": "What luck. You've stumbled upon a{SAUT}treasure box.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_TREASURE_FIND_3",
+    "en": "A treasure box! Aren't you gonna get{SAUT}it!?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_TREASURE_FIND_3",
+    "en": "That must be what others call{SAUT}treasure.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_CHECK_WALL_1",
+    "en": "Hey, check that area! There's{SAUT}something there.",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_CHECK_WALL_1",
+    "en": "It is evident that there is something{SAUT}interesting around there.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_CHECK_WALL_2",
+    "en": "I sense there's something beneficial{SAUT}to you around here!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_CHECK_WALL_2",
+    "en": "I sense something in that area.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_CHECK_WALL_3",
+    "en": "Get busy and search this area!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_CHECK_WALL_3",
+    "en": "It may be wise to investigate the area.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_SWITCH_FIND_1",
+    "en": "Are you going to use that switch?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_SWITCH_FIND_1",
+    "en": "That must be... some type of switch.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_SWITCH_FIND_2",
+    "en": "Hey! There's a switch over there!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_SWITCH_FIND_2",
+    "en": "Take note, there's a switch nearby.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_SWITCH_FIND_3",
+    "en": "I found a switch!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_SWITCH_FIND_3",
+    "en": "Something may change in this{SAUT}environment if you use the switch.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_SHORTCUT_FIND_1",
+    "en": "I'm sensing there's a wall you can go{SAUT}through! Check around you!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_SHORTCUT_FIND_1",
+    "en": "There may be a way for you to pass{SAUT}through the nearby wall.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_SHORTCUT_FIND_2",
+    "en": "You can probably go through that wall!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_SHORTCUT_FIND_2",
+    "en": "That wall is probably one you can walk{SAUT}through.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_SHORTCUT_FIND_3",
+    "en": "You should check that wall. It's a{SAUT}shortcut candidate!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_SHORTCUT_FIND_3",
+    "en": "Please check the nearby walls.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_PARTY_DEAD_1",
+    "en": "H-Hurry up and get back to the{SAUT}theater!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_PARTY_DEAD_1",
+    "en": "Caroline... Do you think they'll be{SAUT}okay...?",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_PARTY_DEAD_2",
+    "en": "Heal first! Then we'll talk!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_PARTY_DEAD_2",
+    "en": "Just focus on healing.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_PARTY_DEAD_3",
+    "en": "H-Hey! Are you guys all right!?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_PARTY_DEAD_3",
+    "en": "Remember that returning is also an{SAUT}option.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_FOE_WARNING_NEAR",
+    "en": "That was an intense battle!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_FOE_WARNING_NEAR",
+    "en": "The FOE is still pursuing you. Stay alert,{SAUT}Caroline.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_FOE_WARNING_NEAR#2",
+    "en": "The FOE is still coming after you!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_FOE_WARNING_NEAR#2",
+    "en": "Continue to use caution.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_FOE_WARNING_NEAR#3",
+    "en": "Don't let your guard down! Justine,{SAUT}stay on the lookout!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_FOE_WARNING_NEAR#3",
+    "en": "The FOE is continuing to stalk you.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_PARTY_HPTP10_1",
+    "en": "Cancel the operation! Return to the{SAUT}theater!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_PARTY_HPTP10_1",
+    "en": "I can see that everyone has exhausted{SAUT}their energy reserves.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_PARTY_HPTP10_2",
+    "en": "Look at you lot! You're all barely{SAUT}hanging on!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_PARTY_HPTP10_2",
+    "en": "We should abort the operation.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_PARTY_HPTP10_3",
+    "en": "Hey! Not one of you is looking good!{SAUT}Get back to the theater!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_PARTY_HPTP10_3",
+    "en": "It's obvious that everyone is fatigued.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_PARTY_HP10_1",
+    "en": "Hey, you all are flagging! Take a break!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_PARTY_HP10_1",
+    "en": "That's unusually compassionate of you{SAUT}to notice, Caroline... And I do agree.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_PARTY_HP10_2",
+    "en": "Hurry up and heal!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_PARTY_HP10_2",
+    "en": "I'm seeing the party's health is on a{SAUT}steady decline.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_PARTY_HP10_3",
+    "en": "You all need to patch yourselves up!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_PARTY_HP10_3",
+    "en": "It may be best to pause and heal.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_1PERSON_HPTP10_1",
+    "en": "You need a breather! Heal yourselves!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_1PERSON_HPTP10_1",
+    "en": "Aren't you overtaxing yourself?",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_1PERSON_HPTP10_2",
+    "en": "Hurry up and heal!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_1PERSON_HPTP10_2",
+    "en": "It looks like health and energy are{SAUT}dangerously low.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_1PERSON_HPTP10_3",
+    "en": "Looks like you've hit your limit.",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_1PERSON_HPTP10_3",
+    "en": "Please lend him a helping hand.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_PARTY_TP10_1",
+    "en": "Hey! Watch your energy levels!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_PARTY_TP10_1",
+    "en": "Caroline, we should let them rest.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_PARTY_TP10_2",
+    "en": "Tch! You're right; they need it! I order{SAUT}you all to come back!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_PARTY_TP10_2",
+    "en": "They're all worn out... Let's have them{SAUT}come back and rest, Caroline.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_PARTY_TP10_3",
+    "en": "What happened to your energy!?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_PARTY_TP10_3",
+    "en": "You may face increasing difficulty if{SAUT}you continue to do battle in your state.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_1PERSON_HP10_1",
+    "en": "Justine is right! Take a break!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_1PERSON_HP10_1",
+    "en": "Inmate, your health is so low. Perhaps{SAUT}a break is in order?",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_1PERSON_HP10_2",
+    "en": "Hurry up and heal!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_1PERSON_HP10_2",
+    "en": "The prisoner's health is getting very{SAUT}low.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_1PERSON_HP10_3",
+    "en": "Hey! Reminder: that searing pain{SAUT}you feel is your health going down!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_1PERSON_HP10_3",
+    "en": "Please heal immediately.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_1PERSON_TP10_1",
+    "en": "You better be grateful for Justine's{SAUT}compassion!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_1PERSON_TP10_1",
+    "en": "All signs point to exhaustion...",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_1PERSON_TP10_2",
+    "en": "You're out of energy!? Did you have{SAUT}no plan at all!?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_1PERSON_TP10_2",
+    "en": "Alas, they're running out of energy.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_1PERSON_TP10_3",
+    "en": "Hey! Your energy's looking bad!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_1PERSON_TP10_3",
+    "en": "They've been pushed to their limit.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_ITEM_90_BATTLE_1",
+    "en": "Tsk, tsk, you greedy fool!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_ITEM_90_BATTLE_1",
+    "en": "You have too many things.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_ITEM_90_BATTLE_2",
+    "en": "You can't even organize your items!?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_ITEM_90_BATTLE_2",
+    "en": "It would behoove you to be organized.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_ITEM_90_BATTLE_3",
+    "en": "Have you lost track of how much you{SAUT}have?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_ITEM_90_BATTLE_3",
+    "en": "You have far too many things. I{SAUT}recommend organizing them.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_1PERSON_HP80_1",
+    "en": "Not a bad strategy. ",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_1PERSON_HP80_1",
+    "en": "You're right, Caroline. It puts our{SAUT}minds at ease, as well.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_1PERSON_HP80_2",
+    "en": "Not bad, on to the next!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_1PERSON_HP80_2",
+    "en": "That was a swell fight.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_1PERSON_HP80_3",
+    "en": "Hurry on to the next one!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_1PERSON_HP80_3",
+    "en": "It looks like you've still got some fight{SAUT}in you.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_ITEM_90_DUNGEON_",
+    "en": "Tsk, tsk, you got greedy.",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_ITEM_90_DUNGEON_",
+    "en": "You have too many things.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_ITEM_90_DUNGEON_#2",
+    "en": "You can't even organize your items!?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_ITEM_90_DUNGEON_#2",
+    "en": "It would behoove you to be organized.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_ITEM_90_DUNGEON_#3",
+    "en": "Have you lost track of how much you{SAUT}have?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_ITEM_90_DUNGEON_#3",
+    "en": "You have far too many things. I{SAUT}recommend organizing them.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_DUNGEON_START_1",
+    "en": "We'll give you the information you{SAUT}need.",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_DUNGEON_START_1",
+    "en": "So you are starting your exploration?",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_DUNGEON_START_2",
+    "en": "Time to get this investigation{SAUT}underway!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_DUNGEON_START_2",
+    "en": "Then we shall provide backup.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_DUNGEON_START_3",
+    "en": "You didn't forget anything, did you?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_DUNGEON_START_3",
+    "en": "Now, let us begin.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_QUEST_START_1",
+    "en": "All right! Let's blow this hatch!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_QUEST_START_1",
+    "en": "Let's get this special screening{SAUT}underway.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_QUEST_START_2",
+    "en": "We will now raise curtains on the{SAUT}special screening!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_QUEST_START_2",
+    "en": "We'll provide assistance until the very{SAUT}end.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_QUEST_START_3",
+    "en": "Fine, I guess we'll help you out!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_QUEST_START_3",
+    "en": "Well then, let's get this started.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_TOUHA_25_1",
+    "en": "We still have a long ways to go!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_TOUHA_25_1",
+    "en": "This is only the beginning.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_TOUHA_25_2",
+    "en": "We're not even halfway done! Don't{SAUT}slack off!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_TOUHA_25_2",
+    "en": "It seems you've made real progress on{SAUT}the map.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_TOUHA_50_1",
+    "en": "Hey! We've only got half the map{SAUT}drawn!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_TOUHA_50_1",
+    "en": "This must be about halfway...",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_TOUHA_50_2",
+    "en": "Finally we're halfway done. Not bad.",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_TOUHA_50_2",
+    "en": "I'd say you've finally reached the{SAUT}halfway point.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_TOUHA_75_1",
+    "en": "We're almost done with the whole{SAUT}area! No time to rest!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_TOUHA_75_1",
+    "en": "We only need to explore a bit further{SAUT}to complete this floor.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_TOUHA_75_2",
+    "en": "Just a little more, and then the floor of{SAUT}this movie's a wrap!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_TOUHA_75_2",
+    "en": "Just a little more until we complete{SAUT}this floor.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_TOUHA_100_1",
+    "en": "Well, since you finished drawing this{SAUT}floor, I guess you deserve some praise.",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_TOUHA_100_1",
+    "en": "We completed the entire map. That's{SAUT}an accomplishment.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_TOUHA_100_2",
+    "en": "You know every nook and cranny now.",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_TOUHA_100_2",
+    "en": "We've explored every area of this{SAUT}floor.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_MAPPING_ICON_ALL",
+    "en": "Don't you have any sense of artistry?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_MAPPING_ICON_ALL",
+    "en": "That's not bad.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_MAPPING_ICON_ALL#2",
+    "en": "You're actually doing well with this{SAUT}cartography business.",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_MAPPING_ICON_ALL#2",
+    "en": "Not bad for a prisoner.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_MAPPING_ICON_KAI",
+    "en": "Not forgetting to draw the staircase. I{SAUT}like that.",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_MAPPING_ICON_KAI",
+    "en": "Surely this excellent performance is a{SAUT}result of our rehabilitative efforts.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_MAPPING_ICON_KAI#2",
+    "en": "Smart move, drawing it in. Just don't{SAUT}go forgetting about it!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_MAPPING_ICON_KAI#2",
+    "en": "You're going to mark the staircase,{SAUT}yes?",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_MAPPING_CHANGE_C",
+    "en": "What kind of map are you drawing,{SAUT}exactly!?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_MAPPING_CHANGE_C",
+    "en": "I am interested in the final product of{SAUT}all this mapping.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_MAPPING_CHANGE_C#2",
+    "en": "Well, it's certainly an interesting map.",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_MAPPING_CHANGE_C#2",
+    "en": "So that's the color you use.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_MAPPING_ICON_DEL",
+    "en": "It's just like our rehabilitation of you!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_MAPPING_ICON_DEL",
+    "en": "Mistakes must be rectified.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_MAPPING_ICON_DEL#2",
+    "en": "Why'd you draw it in the first place, if{SAUT}you were just gonna erase it?",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_MAPPING_ICON_DEL#2",
+    "en": "Keeping the map clean is a good idea.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_MAPPING_MEMO_1",
+    "en": "Hey! Don't forget about that memo!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_MAPPING_MEMO_1",
+    "en": "Taking notes? Ah, you've probably had{SAUT}some hard lessons in the past...",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_MAPPING_MEMO_2",
+    "en": "You better write it neatly!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_MAPPING_MEMO_2",
+    "en": "Now we won't have to rely on our{SAUT}oh-too-fickle memories.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_KARITORU_ENCOUNT",
+    "en": "The Reaper is near!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_KARITORU_ENCOUNT",
+    "en": "The Reaper approaches. Please be{SAUT}careful.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_KARITORU_ENCOUNT#2",
+    "en": "Incoming Reaper!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_KARITORU_ENCOUNT#2",
+    "en": "Please take care, for there's a Reaper{SAUT}afoot.",
+    "fr": ""
+  },
+  {
+    "id": "CAROLIN_KARITORU_ENCOUNT#3",
+    "en": "I know this sound, it's the Reaper!",
+    "fr": ""
+  },
+  {
+    "id": "JUSTINE_KARITORU_ENCOUNT#3",
+    "en": "It's the Reaper... your only chance is to{SAUT}maintain focus.",
+    "fr": ""
+  }
+]

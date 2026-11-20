@@ -1,0 +1,47 @@
+[
+  {
+    "id": "MSG_BTL_TUTORIAL_842_ENC",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_842_101",
+    "en": "\"Link Boost\"{SAUT}Teammates can provide assistance through{SAUT}a {f 0 1 2}Link Boost{f 0 1 0}, which is activated when{SAUT}someone hits an enemy and the affinity of{SAUT}the attack is one the enemy is weak against.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_842_102",
+    "en": "The Link Boost makes the next acting{SAUT}party member gain two effects.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_842_103",
+    "en": "Continue attacking enemy weaknesses on{SAUT}the same turn, and you'll be given more{SAUT}and more Link Boost effects to choose from!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_842_104",
+    "en": "Take advantage of this very useful chain{SAUT}attack in order to gain an edge in battle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_842_HP_",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_842_HP_#2",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_842_HP_#3",
+    "en": "Reserved",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BTL_TUTORIAL_842_BTL",
+    "en": "Reserve",
+    "fr": ""
+  }
+]

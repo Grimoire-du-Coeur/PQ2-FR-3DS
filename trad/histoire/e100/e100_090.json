@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "So, that was totally Kamoshida,{SAUT}right!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ann",
+    "en": "There's no way he's a hero of justice!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Nagi",
+    "en": "Who is this Kamoshida that you{SAUT}speak of? Do you all know him?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Yeah, he's a former teacher at our{SAUT}school. Basically, he's an effin'{SAUT}criminal scumbag.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "But, why is Kamoshida in that movie?{SAUT}And what's up with the goofy costume!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "That trailer made him out to be the{SAUT}protagonist―is he in any other films{SAUT}here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Nagi",
+    "en": "I have no idea―that movie you just{SAUT}previewed has been the only one{SAUT}playing all this time.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Akechi",
+    "en": "What do you mean?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Nagi",
+    "en": "It's truly odd... Ever since the anomaly{SAUT}occurred, only that movie has been{SAUT}playing in here.{PAGE}Are you aware of the strange{SAUT}projectionist currently in{SAUT}the projection room?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Yusuke",
+    "en": "I don't suppose you mean that eerie,{SAUT}black object―the one that's all spongy?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "That's the projectionist!? It's not some{SAUT}doll―it's alive!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Nagi",
+    "en": "We just call him that since he plays{SAUT}the films, but we've no idea who or{SAUT}what he may truly be.{PAGE}That bizarre being appeared in the{SAUT}projection room after the anomaly{SAUT}struck this theater...{PAGE}We know not his intentions―only that{SAUT}he continues to play the same film,{SAUT}over and over.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Hikari",
+    "en": "He scares me... I-I don't want to get{SAUT}near him...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Nagi",
+    "en": "For the time being, we've been calling{SAUT}him \"Doe.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "Dough? Like, cookie dough, dough?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Nagi",
+    "en": "No, it comes from John Doe.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "John who? Is that some kinda foreigner?{SAUT}You know anyone with that name,{SAUT}{f 6 1 30 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_017",
+    "choix": true,
+    "en": "I bet he's a legendary musician.{OPTION}Sounds like some famous actor.{OPTION}It's just a placeholder name.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ann",
+    "en": "Uh, that's not the name of some{SAUT}celebrity...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akechi",
+    "en": "It's the name used for an unidentified{SAUT}male corpse―primarily in police{SAUT}investigations and autopsies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akechi",
+    "en": "That's right! I'm surprised you knew.{PAGE}It's the name used for an unidentified{SAUT}male corpse―primarily in police{SAUT}investigations and autopsies.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Yusuke",
+    "en": "Has Doe done anything else besides{SAUT}screening that movie?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Nagi",
+    "en": "No... Nothing at all. He doesn't even{SAUT}react when we speak to him.{PAGE}He's a wholly mysterious oddity. We try{SAUT}our best not to interact with him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Futaba",
+    "en": "Reminds me of how I used to be...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Morgana",
+    "en": "Hm? Did you say something, Futaba?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Futaba",
+    "en": "Oh, nah. It's nothing.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ann",
+    "en": "But the movie Doe's playing―why is{SAUT}Kamoshida in it at all, let alone in{SAUT}the starring role?{PAGE}Is there some kind of connection{SAUT}between Doe and Kamoshida?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Yusuke",
+    "en": "Or, perhaps it's a connection between{SAUT}this theater and Kamoshida...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Nagi",
+    "en": "Please wait a moment. It seems that{SAUT}you've misunderstood...{PAGE}Only since you all arrived here has{SAUT}the movie become this one entitled{SAUT}\"Kamoshidaman.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Yusuke",
+    "en": "\"Become\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Nagi",
+    "en": "Before your arrival, the movie playing{SAUT}in here was not titled \"Kamoshidaman.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_032",
+    "locuteur": "Ann",
+    "en": "Wait, what!? Then, Kamoshida wasn't{SAUT}originally the star?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_033",
+    "locuteur": "Nagi",
+    "en": "The film's plot was the same, but the face{SAUT}and name of the hero were entirely{SAUT}different.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_034",
+    "locuteur": "Ann",
+    "en": "How could a movie character suddenly{SAUT}change like that, though?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_035",
+    "locuteur": "Yusuke",
+    "en": "So, all of these strange events,{SAUT}including the adaptive film, are{SAUT}tied to the anomaly...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_036",
+    "locuteur": "Nagi",
+    "en": "Your own leaping out of a movie as{SAUT}well... This has been an unending{SAUT}series of surprises.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_037",
+    "locuteur": "Ryuji",
+    "en": "Huh?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_038",
+    "locuteur": "Ann",
+    "en": "...What did you just say?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_039",
+    "locuteur": "Yusuke",
+    "en": "We leapt out of the film?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_040",
+    "locuteur": "Nagi",
+    "en": "Yes―you all suddenly popped out{SAUT}of the theater's screen.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_041",
+    "locuteur": "Ann",
+    "en": "Wait, wait! How does that make{SAUT}any sense!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_042",
+    "locuteur": "Nagi",
+    "en": "But, you did indeed appear from the{SAUT}screen... Hikari-san, you witnessed it{SAUT}too, no?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_043",
+    "locuteur": "Hikari",
+    "en": "Mmhm...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_044",
+    "locuteur": "Nagi",
+    "en": "It was such a shock to us that we{SAUT}hurriedly hid ourselves amongst{SAUT}the seats.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_045",
+    "locuteur": "Ryuji",
+    "en": "Uh, yeah, it's seriously impossible to{SAUT}just pass through a movie screen like―",
+    "fr": ""
+  }
+]

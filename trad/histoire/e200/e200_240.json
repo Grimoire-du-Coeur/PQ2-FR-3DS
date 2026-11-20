@@ -1,0 +1,116 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosukesaurus",
+    "en": "*gasp* *pant* We got away... from the{SAUT}carnivore... right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Morgana",
+    "en": "Ah, we finally caught up to you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosukesaurus",
+    "en": "Oh, my bad―I totally forgot about{SAUT}you guys...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Makoto",
+    "en": "You really lost your composure back{SAUT}there, and at the drop of a hat, too...{SAUT}Wasn't that a little extreme?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosukesaurus",
+    "en": "No way! Just take a look at that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosukesaurus",
+    "en": "There are a whole lot of carnivores{SAUT}around here―that's why everyone's{SAUT}been on edge.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ann",
+    "en": "Still, isn't it bad for your health to{SAUT}just panic and flee like that all the{SAUT}time?{PAGE}Have you ever tried a different tactic?{SAUT}You know, like fighting back, or{SAUT}something.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosukesaurus",
+    "en": "Don't be ridiculous! There's no way we{SAUT}can win, even if we threw everyone{SAUT}at them!{PAGE}Anybody who's put up a fight has gotten{SAUT}eaten. Who knows when it'll happen{SAUT}to us too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "Hrgh... Now there's a grim thought...{PAGE}I wonder how strong these carnivores{SAUT}really are. Would it be impossible for us,{SAUT}even with our Personas?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Should we give it a try?{OPTION}Let's not tempt fate.{OPTION}Oh, it'd be a breeze.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Naoto",
+    "en": "I suspect that would be too dangerous...{SAUT}As the saying goes, wounded bears are{SAUT}the most dangerous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "That would be the wisest course of{SAUT}action. As the saying goes, wounded{SAUT}bears are the most dangerous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yusuke",
+    "en": "You seem quite confident. Should we{SAUT}go find one now?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "I don't think we ought to tempt fate―{SAUT}as the saying goes, wounded bears are{SAUT}the most dangerous...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Chie",
+    "en": "\"Wounded bears\"?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Naoto",
+    "en": "When a wounded bear is cornered, its{SAUT}desperation makes it especially scary.{SAUT}The same is also said of boars.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Teddie",
+    "en": "Then, does that mean I'd become{SAUT}invincible if I got into a pinch?{PAGE}Hraaaaaaaah! I'm pumped up now!{SAUT}Yosukeeeee! Just you wait for me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yosukesaurus",
+    "en": "You idiot―shut up! We'll get spotted by{SAUT}a carnivore!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Akechi",
+    "en": "Remaining here any longer is also too{SAUT}dangerous―we ought to pass through{SAUT}this area quickly. Let's go.",
+    "fr": ""
+  }
+]

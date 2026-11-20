@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Thanks to you, I was able to get a{SAUT}glimpse of the city's nightlife.{PAGE}I appreciate your hard work. Here is{SAUT}your reward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Junpei",
+    "en": "Well, we finished our mission, but it still{SAUT}feels like there's somethin' missing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Teddie",
+    "en": "We were so close to finally experiencing{SAUT}the thrill of the adult world...{PAGE}But one of these days, I'll be able to{SAUT}keep up with our two masters of the{SAUT}night!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yosuke",
+    "en": "I thought {f 6 1 12 0 0 0} was your{SAUT}Sensei. You cheating on him?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Teddie",
+    "en": "Of course not! Sensei's on a whole{SAUT}'nother level! He is bright like the sun!{PAGE}But those two are as bewitching as{SAUT}starlight and moonlight.{SAUT}So mysterious...{PAGE}If only I could be so cool!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "Real smooth talker, this one...{PAGE}But yeah, they do have something{SAUT}about 'em.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ken",
+    "en": "-san is really{SAUT}mature for his age, but it looks like{SAUT}you are too, {f 6 1 30 0 0 0}-san.{PAGE}You know so many people and places{SAUT}we don't.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_007",
+    "choix": true,
+    "en": "Not really.{OPTION}I can show you the ropes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "It's hard to believe he came to Tokyo{SAUT}only half a year ago.{PAGE}Watching {f 6 1 30 0 0 0} makes{SAUT}me feel like I should get out more often.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ken",
+    "en": "Huh? Really?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Yo, better be careful. Keep him out too{SAUT}late, and you'll get rolled by the police{SAUT}again.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Hero",
+    "en": "*chuckle* You really are amazing,{SAUT}{f 6 1 30 0 0 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Junpei",
+    "en": "Hey, now. You're pretty cool yourself.{PAGE}I'm kinda jealous. Not even Junpei, Ace{SAUT}Detective has people skills like you guys{SAUT}do.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Hero",
+    "en": "I see...{PAGE}I had a feeling I'd connect with you{SAUT}somehow. Guess now I know why.{PAGE}It's nice to know you have my back.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "Feeling's mutual.{OPTION}We're in this together.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P3 Hero",
+    "en": "Yeah. Let's keep it going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Teddie",
+    "en": "Ohh! Would you look at that! A new{SAUT}friendship is born between the two{SAUT}nightlife gurus!{PAGE}I say we all go out and celebrate!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Junpei",
+    "en": "Yeah, let's start back up on the road to{SAUT}adulthood...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Mitsuru",
+    "en": "Oh? You're going to run off again?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Makoto",
+    "en": "Haven't you guys learned your lesson?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Junpei",
+    "en": "Uh―Well... We, uh... Uhh...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Teddie",
+    "en": "Help us!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_022",
+    "choix": true,
+    "en": "......{OPTION}Did you hear something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "P3 Hero",
+    "en": "Nope.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Teddie",
+    "en": "Sheesh, city folk are so meeeaaan!",
+    "fr": ""
+  }
+]

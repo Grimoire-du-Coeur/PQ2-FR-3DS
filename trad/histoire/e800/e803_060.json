@@ -1,0 +1,188 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Whew... We defeated the new challenger!{SAUT}I'm pretty sure that's all of them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Hey, Kanji! You aight?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "No problem here! I'm pretty good at{SAUT}takin' a hit.{PAGE}Still, I gotta say, I'm sorry for shovin'{SAUT}you guys like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Ryuji",
+    "en": "Heh, don't worry about it. We would've{SAUT}been toast if you didn't.{PAGE}That was one hell of a punch. You got{SAUT}some real power.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "Th-Thanks!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Kanji",
+    "en": "By the way, lemme also just say...{SAUT}I'm sorry!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Ryuji",
+    "en": "Wh-Wha―?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "I guess I didn't understand you, Skull.{PAGE}I thought you were just some thug from{SAUT}the city who didn't know how to listen...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "That pretty much sums it up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Ann",
+    "en": "Sounds about right.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Shut up!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Kanji",
+    "en": "You apologized to me after I tried to{SAUT}pick a fight with you, and...{PAGE}You called me your friend.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Ryuji",
+    "en": "W-Well, yeah. We were fightin' a{SAUT}Shadow... Pretty embarrassing now that{SAUT}I think about it...{PAGE}I'm sorry too. I thought you were like{SAUT}everyone else... Judgin' me 'n' stuff.{PAGE}Those eyes of yours just kinda set me off.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Naoto",
+    "en": "Understandable. It's the truth.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Rise",
+    "en": "Yeah, not much we can do there. Kanji's{SAUT}not exactly the most inviting person in{SAUT}the world.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Kanji",
+    "en": "Hey, shut it!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "You two make a good team.{OPTION}You two are a lot alike.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "Heheh, maybe we are. We definitely got{SAUT}spirit, that's for sure!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Kanji",
+    "en": "Hell yeah! No one's got more spirit{SAUT}than us!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Futaba",
+    "en": "And thus, a passionate bromance was{SAUT}born between two men.{PAGE}Happily ever after. Now, c'mon back!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Kanji",
+    "en": "Hey...{PAGE}You're pretty different from how you{SAUT}look, you know that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Ryuji",
+    "en": "Haha, look who's talkin'.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Kanji",
+    "en": "Maybe I'm just stupid, but I guess you{SAUT}really can't judge a book by its cover.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Ryuji",
+    "en": "Guess so.{PAGE}Joker might seem quiet all the time, but{SAUT}he's super reliable when it comes down{SAUT}to it.{PAGE}...He's taught an outcast like me a whole{SAUT}lot.{PAGE}I'm really grateful for the Phantom{SAUT}Thieves. Every one of them.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Kanji",
+    "en": "It's basically the same for me.{PAGE}My team accepted everything about{SAUT}me, even my weaknesses.{PAGE}So, I'm tryna give back, or at least help{SAUT}out, you know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Ryuji",
+    "en": "Yeah. It's not like we got the smarts or the{SAUT}support skills, but...{PAGE}What can I say? I KNOW we're good for{SAUT}somethin'!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Kanji",
+    "en": "Hell yeah! You're one passionate dude,{SAUT}Skull!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Ryuji",
+    "en": "Heh, all this talk's makin' me feel even{SAUT}more embarrassed... {PAGE}Don't tell anyone about all this, yeah?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "Kanji",
+    "en": "Yeah, no way. S-Same goes for you.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Futaba",
+    "en": "Hey, you guys're gonna get left behind!{SAUT}Why're you two all red?{PAGE}Oh hoh... Did you two confess your love{SAUT}for each other?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "Ryuji",
+    "en": "H-Hell no! We're comin'!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Naoto",
+    "en": "It amazes me that a gate of this size{SAUT}moves so effortlessly.{PAGE}It's likely the controls for it are far{SAUT}beyond our current level of technology.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yukiko",
+    "en": "Hehe, you seem more talkative than{SAUT}usual, Naoto-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yosuke",
+    "en": "It's not exactly machinery, but she does{SAUT}like those secret bases with doors that{SAUT}go \"Nhreeee―CRUSH!\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "Th-That's... It's kind of embarrassing...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Fuuka",
+    "en": "Secret bases? You mean like a lab or a{SAUT}research institute!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "Huh? U-Um... Yes.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "That's cool.{OPTION}I'd like to see that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "No, it was just a labyrinth my heart{SAUT}created, and, besides, it's gone now...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "A secret base created by one's heart{SAUT}that's neither a Palace nor Mementos...{PAGE}How very intriguing. If only I'd been{SAUT}able to see it with my own eyes!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Koromaru",
+    "en": "Arf, arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yukiko",
+    "en": "Your secret lab sure is popular,{SAUT}Naoto-kun.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Naoto",
+    "en": "......{PAGE}I feel sort of foolish about being{SAUT}embarrassed earlier.{PAGE}...Ah, we need to keep searching for that{SAUT}container.{PAGE}It should be just a little further. Let's{SAUT}keep going.",
+    "fr": ""
+  }
+]

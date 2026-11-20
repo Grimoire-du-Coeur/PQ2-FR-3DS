@@ -1,0 +1,200 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ken",
+    "en": "H-Her hair color changed... on its own?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Hikari",
+    "en": "N-Nagi-san!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Nagi?",
+    "en": "*chuckle* No need to be so surprised.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Who are you, really?{OPTION}Where's Nagi-san?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Nagi?",
+    "en": "Please, feel free to instead call me \"Enlil.\"{PAGE}Nagi can simply be considered one of{SAUT}the many roles I have performed.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Nagi?",
+    "en": "She stands before you. Nagi can simply{SAUT}be considered one of the many roles{SAUT}I have performed.{PAGE}Please, feel free to instead call me \"Enlil.\"",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yukari",
+    "en": "Everything about being a curator and{SAUT}wanting to save Hikari-chan―those{SAUT}were all lies too, right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Enlil",
+    "en": "Nothing of the sort, dear. I prepared{SAUT}each of these movie theaters, including{SAUT}Hikari-san's.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Junpei",
+    "en": "THAT'S what those are!? They're all{SAUT}over the place!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Enlil",
+    "en": "This \"place\" is my world, given physical{SAUT}form through the collective{SAUT}unconscious of the masses.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Rise",
+    "en": "What the... How is this happening!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Enlil",
+    "en": "\"I don't know who I really am...\"{SAUT}\"I don't want others to reject me{SAUT}and hurt me...\"{PAGE}These terrible woes beleaguer the{SAUT}people of your own realities every day...{SAUT}and they are who I am dedicated to save.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Mitsuru",
+    "en": "What...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Enlil",
+    "en": "Humans wish to be loosed from the{SAUT}heavy, painful chains of their societies...{PAGE}That's why, to save them, I curated these{SAUT}movie theaters―rather, I manifested{SAUT}them into existence.{PAGE}They are to help the people understand{SAUT}the pain that accompanies the assertion{SAUT}of one's individuality.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Shinjiro",
+    "en": "Tch... So this was all YOUR doing, then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014_5",
+    "locuteur": "Yukari",
+    "en": "So, you were just being a big phony{SAUT}this whole time while we were{SAUT}fighting for our lives?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Enlil",
+    "en": "As long as humans live as individuals,{SAUT}they will continue to be hurt by struggles{SAUT}and conflict with their own people...{PAGE}There's no need to endure that painful{SAUT}life. Giving up one's own thoughts and{SAUT}beliefs can lead to such great harmony.{PAGE}All anyone must do is simply watch the{SAUT}movies to convince themselves of this{SAUT}fact...{PAGE}In doing so, they forget their pain, forget{SAUT}their troubles―every one of their cares{SAUT}simply vanishes.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Makoto",
+    "en": "That sounds like nothing more than{SAUT}brainwashing!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Enlil",
+    "en": "Still, it's what humanity has prayed for.{SAUT}All I've done is provide the people their{SAUT}desired salvation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Ryuji",
+    "en": "Salvation, my ass―you can take your{SAUT}shitty theaters and screw off outta here!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Akihiko",
+    "en": "Yeah, do you think we'd just give into{SAUT}your nonsense after that speech? Sorry,{SAUT}but we're outta here―like it or not.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Enlil",
+    "en": "Ah... Well, if you wish to return home,{SAUT}then I shan't interfere.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Kanji",
+    "en": "Oh yeah!? Well, we're just gonna hafta{SAUT}kick your ass if you won't let us―{PAGE}...Wait, huh? You mean we can go!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Ken",
+    "en": "Um, I don't understand why...{PAGE}I mean, you're the one who trapped{SAUT}Hikari-san and the rest of us here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Enlil",
+    "en": "I've understood the decision you have{SAUT}reached. If you wish to leave here,{SAUT}then please, do so.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_024",
+    "choix": true,
+    "en": "Are you sure about that?{OPTION}What's your angle, lady?{OPTION}Then, don't mind if we do...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Morgana",
+    "en": "You moron, stop right there! This is all{SAUT}way too shady!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Haru",
+    "en": "Mmhm, no matter how you look at it,{SAUT}her offer's too suspicious... Just what{SAUT}are you up to?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "locuteur": "Enlil",
+    "en": "Those with strong hearts such as{SAUT}yourselves don't require salvation{SAUT}from their societies, correct?{PAGE}My protection is for the masses of the{SAUT}weak and struggling...{PAGE}I will continue protecting the humans{SAUT}who wish to remain in their own movie{SAUT}theaters here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_028",
+    "locuteur": "P3 Hero",
+    "en": "There are more people here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_029",
+    "locuteur": "Enlil",
+    "en": "I concede that you may have changed{SAUT}Hikari-san's heart so that she now{SAUT}wishes to leave with you...{PAGE}However, this is like taking but a single{SAUT}grain of sand from an infinite beach.{PAGE}Even at this very moment, another{SAUT}person wishing to escape their reality{SAUT}has found a theater―and another, now...{PAGE}As long as there are people with this{SAUT}desire, there will be no end to the movie{SAUT}theaters screening their salvation.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_030",
+    "locuteur": "P4 Hero",
+    "en": "Salvation is nothing but self-serving{SAUT}justification. People don't want to just{SAUT}abandon their individualities like that!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_031",
+    "locuteur": "Enlil",
+    "en": "*chuckle* Are you so certain?",
+    "fr": ""
+  }
+]

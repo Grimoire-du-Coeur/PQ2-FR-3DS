@@ -1,0 +1,143 @@
+[
+  {
+    "id": "TOWN_DAMMY",
+    "en": "Dummy",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_PRE_PARTY_JOIN",
+    "en": "You can now use {f 0 1 2}Party edit{f 0 1 0}.{SAUT}Aside from the party edits you{SAUT}could already do, now you can{SAUT}register and load parties, and{SAUT}also change navigators.",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_CAMP_PERSO",
+    "en": "{f 0 1 2}PERSONA{f 0 1 0} has been added to the{SAUT}menu. Use X to open it.{PAGE}You can equip and change{SAUT}Sub-Personas under the {f 0 1 2}PERSONA{f 0 1 0}{SAUT}option in the menu.",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_PARTY_JOIN",
+    "en": "{f 0 1 2}A new member has joined your{SAUT}party{f 0 1 0}, so your party's{SAUT}possibilities have expanded!{SAUT}Why not try different party{SAUT}combinations?",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_VELVET_OPE",
+    "en": "The {f 0 1 2}Velvet Room{f 0 1 0} is now{SAUT}available. There you can create{SAUT}new Personas through fusions{SAUT}and summon them from the{SAUT}Persona Compendium.",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_NOFFICE_OP",
+    "en": "The {f 0 1 2}Nurse's Office{f 0 1 0} is now{SAUT}available. Injured party members{SAUT}can receive healing there.",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_SHOP_OPEN",
+    "en": "The {f 0 1 2}Shop{f 0 1 0} is now available. You{SAUT}can buy and sell equipment and{SAUT}items here, as well as store them.",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_DUNGEON_OP",
+    "en": "You can now select {f 0 1 2}Enter the Movie{f 0 1 0}. You will be able to enter the labyrinth and continue the story or take on requests.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_FCL_QUEST_OPEN",
+    "locuteur": "Futaba",
+    "en": "Looks like there's a box office now!",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_ODEKAKE_OP",
+    "en": "You can now take {f 0 1 2}Strolls{f 0 1 0} through{SAUT}the school and spend time with{SAUT}your companions.",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_VELVET_TRI",
+    "en": "You can now perform the{SAUT}{f 0 1 2}Triangle Spread{f 0 1 0} in the Velvet{SAUT}Room, which fuses three{SAUT}Personas together.",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_NOFFICE_QU",
+    "en": "You can now accept {f 0 1 2}\"Requests\"{f 0 1 0}{SAUT}at the Nurse's Office.",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_CAMP_QUEST",
+    "en": "Check your current requests{SAUT}under {f 0 1 2}SYSTEM{f 0 1 0} in the menu.",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_CAMP_QUEST#2",
+    "locuteur": "Futaba",
+    "en": "View requests you've accepted.",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_CAMP_QUEST#3",
+    "locuteur": "Futaba",
+    "en": "You can also see {f 0 1 2}details{f 0 1 0} of a{SAUT}request by selecting it.",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TUTORIAL_QUEST_REPO",
+    "en": "Once you have fulfilled a{SAUT}request's requirements, go to the{SAUT}Nurse's Office and {f 0 1 2}report{f 0 1 0} it.{SAUT}There won't be any award for you{SAUT}if you never report it, after all!",
+    "fr": ""
+  },
+  {
+    "id": "TOWN_TO_DUNGEON",
+    "en": "You or one of your party{SAUT}members does not have a Sub-{SAUT}Persona equipped.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_QUEST1",
+    "en": "Quests that come up can be{SAUT}accessed at the request facility.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_QUEST2",
+    "en": "After finishing a request, report it{SAUT}to the request facility.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SHOP_OPEN",
+    "locuteur": "Futaba",
+    "en": "There was a loud noise by the shop!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_V_ROOM_ONLY",
+    "locuteur": "Futaba",
+    "en": "Let's see what the Velvet Room has to{SAUT}offer!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_NAVI_OPEN_S",
+    "en": "Due to an additional member, you{SAUT}can now sort the navigators into{SAUT}{f 0 1 2}combat{f 0 1 0} and {f 0 1 2}exploration{f 0 1 0}{SAUT}specialties. Do this in the{SAUT}{f 0 1 2}Navigator Settings{f 0 1 0} under \"Party\"{SAUT}while in the theater.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SUB_PERSONA_OPEN",
+    "en": "{f 0 1 2}Sub-Personas{f 0 1 0} have been unlocked.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_CAMP_MENU_OPEN",
+    "en": "Press the {f 0 1 2}X Button{f 0 1 0} to open the{SAUT}Menu Screen. Here you can use{SAUT}items or skills, and view your{SAUT}party's status.{PAGE}While investigating, press {SAUT}{f 0 1 2}START{f 0 1 0} in the menu to{SAUT}perform a suspend save.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SHOP_OPEN_GUIDE",
+    "en": "You can now use the {f 0 1 2}Shop{f 0 1 0}.{SAUT}Purchase {f 0 1 2}items{f 0 1 0} and {f 0 1 2}equipment{f 0 1 0}{SAUT}to proceed through the dungeon{SAUT}safely.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_FCL_ITE_RETURN_ALERT",
+    "locuteur": "Futaba",
+    "en": "Hey, stop right there! We don't have{SAUT}any Goho-Ms. We. Need. Goho-Ms!",
+    "fr": ""
+  },
+  {
+    "id": "PERSONA_STOCK_UP_MSG",
+    "en": "Now that another individual with the power{SAUT}of the wild card has joined your cause, your{SAUT}Persona stock has increased to {f 0 1 2}{f 2 4 0}{f 0 1 0}.",
+    "fr": ""
+  }
+]

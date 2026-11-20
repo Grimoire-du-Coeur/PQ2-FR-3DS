@@ -1,0 +1,127 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "Tsk. 'Nother dead end.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "What's wrong, Naoto? Something on your{SAUT}mind?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Naoto",
+    "en": "Oh, nothing. There's just something I've{SAUT}been trying to figure out.{PAGE}Why are these movies set up like{SAUT}labyrinths...?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "It's a coincidence.{OPTION}It's to make us get lost.{OPTION}I haven't thought about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Naoto",
+    "en": "That is a possibility. However, I feel that{SAUT}they're far too well-designed to be a{SAUT}coincidence.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Make sure you're filling out the map so{SAUT}that doesn't happen!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "Yes. Their layouts are very complex.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Ann",
+    "en": "Now that you mention it... It is weird.{SAUT}Why ARE they like that?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "I've been thinking about it too.{PAGE}It's as if someone's trying to keep us from{SAUT}going any further.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Naoto",
+    "en": "Hm, this labyrinth is representative of{SAUT}one's mental state... That's an interesting{SAUT}hypothesis.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "But who would do such a mean thing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "I'm not certain... Though, based on past{SAUT}experience, it's not out of the question.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Chie",
+    "en": "Yeah, I don't know what's going on, but{SAUT}it definitely makes you use your head.{PAGE}If it were just me, I wouldn't be able to{SAUT}solve any of these gimmicks.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ryuji",
+    "en": "I ain't good at that stuff either.{SAUT}I leave it to Joker.{PAGE}Oracle too. She may be bratty, but she's{SAUT}also a genius.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "\"Bratty\" wasn't that necessary, was it?{PAGE}That said, I do like puzzle games. Leave{SAUT}that stuff to me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Yukiko",
+    "en": "We also have Naoto-kun. She is a{SAUT}detective, after all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Naoto",
+    "en": "Please, I'm nothing compared to Oracle.{PAGE}But if there's ever anything I can do, I will{SAUT}be more than willing to help.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_018",
+    "choix": true,
+    "en": "We're counting on you.{OPTION}Show us those detective skills.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Naoto",
+    "en": "I'd be honored. Let's work together to{SAUT}figure this out.{PAGE}And the same goes to you, Oracle―if{SAUT}you'd be so kind as to offer us advice{SAUT}when we're stumped.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Futaba",
+    "en": "Y-Yeah! Let's all do our best!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "en": "A new special screening:{SAUT}\"Officer Imposter!\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

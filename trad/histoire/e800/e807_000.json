@@ -1,0 +1,139 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosuke",
+    "en": "...Man, no matter how far we go, it's just{SAUT}the same thing over and over.{PAGE}Plants and giant bugs as far as the eye{SAUT}can see. And dinosaurs too? This place{SAUT}is crazy...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "Naturally, the roads aren't paved either,{SAUT}making it difficult to get around...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Kanji",
+    "en": "Well, least one of us is doin' fine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Yusuke",
+    "en": "Ahh, what exquisite plant life!{SAUT}A mountain of sketchbooks wouldn't{SAUT}be enough to capture all of this beauty!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Ann",
+    "en": "Oh, yeah, don't worry about him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yosuke",
+    "en": "Sheesh, he's really into this... He's not{SAUT}gonna wander off and get eaten, is he?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Honestly, Fox is more likely to eat one{SAUT}of the dinosaurs...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Yosuke",
+    "en": "What the hell!? That's something I'd{SAUT}expect from Chie!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Chie",
+    "en": "Hey! Even my appetite wouldn't make{SAUT}me just grab a dinosaur and start{SAUT}chomping away!{PAGE}...Not that I'm opposed to trying{SAUT}dinosaur or anything. No meat is bad{SAUT}meat!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P3 Fem Protag",
+    "en": "Hmm... dinosaur meat aside, I wonder{SAUT}when we'll be able to eat meat again.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_010",
+    "choix": true,
+    "en": "There's hot dogs at the theater.{OPTION}I feel like I saw some earlier...{OPTION}Just have to make do with water.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Chie",
+    "en": "I mean, hot dogs are great and all,{SAUT}but dinosaur meat's got more... BAM,{SAUT}you know?{PAGE}I wanna chow down on a chunk of meat{SAUT}so massive, I'll feel like I'll never be able{SAUT}to finish it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "Wait, really!? Where!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "Yeah, I think I did too. Where was it...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Chie",
+    "en": "Aww... Water...{PAGE}I know I'm complaining, but water just{SAUT}doesn't do it for me, not in the slightest.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yusuke",
+    "en": "So, where do we find this massive chunk{SAUT}of meat?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "That's what we're sayin'. It's not here...{PAGE}Wait, whoa! The hell'd you come from!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Yusuke",
+    "en": "I heard someone mention meat.{SAUT}My stomach is ready.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "This guy's just as weird as Chie...{PAGE}Look, sorry to disappoint you, but we're{SAUT}probably not gonna be eatin' any meat{SAUT}for a while.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Yusuke",
+    "en": "Then... there's... no meat?{PAGE}And here I was ready to feast... Now I'm{SAUT}even hungrier...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Chie",
+    "en": "Yeah, all this talk about meat's made me{SAUT}hungry too...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Morgana",
+    "en": "*sigh* A couple of carnivores, these two.{PAGE}Let's treat them to some meat next time{SAUT}we get a chance, Joker.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "en": "A new special screening:{SAUT}\"Meat ＆ the Art of Friendship\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

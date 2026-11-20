@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "A nightclub, huh...? Any idea where{SAUT}we're supposed to look?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yusuke",
+    "en": "I'm not too familiar with such places{SAUT}myself.{PAGE}From the conversation from earlier,{SAUT}it sounds like {f 6 1 16 0 0 0}-san's an{SAUT}expert...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Hero",
+    "en": "I'm no expert... I just go every now and{SAUT}then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Shinjiro",
+    "en": "Club Escapade at Paulownia Mall...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Kanji",
+    "en": "Oh! I know that place! We went there{SAUT}during our school trip!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "Yeah, we had a reeeeeeal good time!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "I feel like you guys were just drunk{SAUT}off the atmosphere...{PAGE}So is that where you and your pals{SAUT}like to hang out, {f 6 1 15 0 0 0}?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "P3 Hero",
+    "en": "No, I usually go by myself.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Kanji",
+    "en": "W-Whoa... You're like an adult...{PAGE}What the hell you even do at clubs{SAUT}and bars if you go by yourself?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_009",
+    "choix": true,
+    "en": "Talk to the adults.{OPTION}Work.{OPTION}Listen to drunks complain.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "P3 Hero",
+    "en": "Yeah. You meet all sorts of interesting{SAUT}people you probably wouldn't{SAUT}otherwise.{PAGE}Like a monk...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "P3 Hero",
+    "en": "Work, huh...? It's tough keeping up with{SAUT}all the orders, isn't it?{PAGE}There was always this monk asking me{SAUT}to bring him drinks...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P3 Hero",
+    "en": "You get to hear things you normally{SAUT}wouldn't.{PAGE}Like a monk preaching, for example...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Junpei",
+    "en": "A monk!? You met a monk at a{SAUT}nightclub!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Ken",
+    "en": "-san never fails to{SAUT}surprise us...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "I guess that's just how it goes with these{SAUT}guys...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_016",
+    "choix": true,
+    "en": "These guys?{OPTION}What're you talking about?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "You're always making friends with{SAUT}people! Like that doctor lady and the{SAUT}shogi girl!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Teddie",
+    "en": "Say what!? Tell me more! Please! I gotta{SAUT}know!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "P3 Hero",
+    "en": "Look, this is fun and all, but can we get{SAUT}going?{PAGE}Nightclubs are usually located in the far{SAUT}corners of a city or deep within.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Akihiko",
+    "en": "'s right. Let's go.",
+    "fr": ""
+  }
+]

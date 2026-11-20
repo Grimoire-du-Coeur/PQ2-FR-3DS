@@ -1,0 +1,22 @@
+[
+  {
+    "id": "BTL_TUTORIAL_mes01",
+    "en": "If your attack has an affinity the enemy is{SAUT}weak against, you'll trigger a {f 0 1 2}WEAK{f 0 1 0} hit.{SAUT}But if you want a slight chance of a{SAUT}{f 0 1 2}CRITICAL{f 0 1 0} hit, you're better off with a{SAUT}standard attack or physical skill.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes02",
+    "en": "An ally who lands a weak or critical hit{SAUT}will receive a {f 0 1 2}Boost{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes03",
+    "en": "Skills of boosted allies will {f 0 1 2}deal more{SAUT}damage{f 0 1 0} and {f 0 1 2}cost 0{f 0 1 0}, among other effects.",
+    "fr": ""
+  },
+  {
+    "id": "BTL_TUTORIAL_mes04",
+    "en": "Boosts are very powerful. Avail yourself of{SAUT}them by performing the right combat{SAUT}moves, and you'll be poised to annihilate{SAUT}your enemies!",
+    "fr": ""
+  }
+]

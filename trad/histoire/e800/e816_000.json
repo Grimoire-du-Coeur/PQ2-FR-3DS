@@ -1,0 +1,151 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Theodore",
+    "en": "Oh, hello, everyone. How are you doing?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Elizabeth",
+    "en": "...Villain!{PAGE}That suspicious attire... Hold it right{SAUT}there! I'll cut you down where you{SAUT}stand!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Theodore",
+    "en": "S-Sister, please. It's me, Theodore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Elizabeth",
+    "en": "Hm?{PAGE}Oh, it appears I've jumped the gun.{SAUT}Now that I get a closer look at you,{SAUT}I see you're just my brother.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P3 Fem Protag",
+    "en": "Theo? What are you doing here?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Theodore",
+    "en": "About that... I came here because I have{SAUT}a request.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_006",
+    "choix": true,
+    "en": "A request?{OPTION}Something wrong?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Theodore",
+    "en": "Well, if you're able...{PAGE}There's something I'd like to get my{SAUT}hands on.{PAGE}They call it a \"Futuristic Gizmo\"!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Naoto",
+    "en": "Futuristic Gizmo...?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Theodore",
+    "en": "Yes. The \"Junessic Land\" film you{SAUT}journeyed through...{PAGE}Apparently, it is home to a multitude of{SAUT}next-generation technology.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Makoto",
+    "en": "Now that you mention it, that film does{SAUT}take place in the future.{PAGE}The people there were able to revive{SAUT}dinosaurs with their technology.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Junpei",
+    "en": "But if we're talking about the future,{SAUT}wouldn't \"A.I.G.I.S.\" be better?{PAGE}There's way more tech there, y'know?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Naoto",
+    "en": "Hmm, about that...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Fuuka",
+    "en": "The technology used in \"Junessic Land\"{SAUT}is a little different from the technology{SAUT}we saw in \"A.I.G.I.S.\"{PAGE}That which is found in \"A.I.G.I.S.\" was{SAUT}derived from fictional physics...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "Naoto",
+    "en": "Yes, that's exactly it!{PAGE}And the technology found in \"Junessic{SAUT}Land\" was derived from real-world{SAUT}physics.{PAGE}Therefore, even if both films contain the{SAUT}same type of device, they may be made{SAUT}from completely different materials.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "R-Right... So, uh... physics?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "Hmm... They're tuning out the normies{SAUT}so they can speak geek with each other.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Theodore",
+    "en": "Ah, you two know quite a lot.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Naoto",
+    "en": "-san, is it all right with you{SAUT}if we search for this \"Futuristic Gizmo\"?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_019",
+    "choix": true,
+    "en": "Okay.{OPTION}Fine by me.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Theodore",
+    "en": "Much appreciated, {f 6 1 30 0 0 0}.{PAGE}And if we consider it a special screening,{SAUT}I'll be able to present you with a reward.{PAGE}With that, Sister, would you please{SAUT}create a...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Theodore",
+    "en": "...Sister?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Elizabeth",
+    "en": "Wh-Where did this mysterious,{SAUT}costumed rogue come from...!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Theodore",
+    "en": "*sigh*",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "en": "A new special screening:{SAUT}\"Long-lost Tech\"{SAUT}has been added to the box office.",
+    "fr": ""
+  }
+]

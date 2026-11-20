@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Ryuji",
+    "en": "So that's the fake, huh? Let's get 'im!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Naoto",
+    "en": "No, stay calm. We don't want to cause{SAUT}a scene.{PAGE}I'll go check with him one last time.{SAUT}Please wait here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "I'm sorry to say this, but your guess was{SAUT}incorrect. He's a real police officer.{PAGE}And if he's lying, then it goes against the{SAUT}condition that there's only one liar.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Hmm... This might be kinda hard. The{SAUT}path to becoming an amazing detective{SAUT}sure is tough.{PAGE}What's the plan, Joker? You wanna go{SAUT}over the info again?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "If you don't mind.{OPTION}There's no need.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Futaba",
+    "en": "Okay! Here we go.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Okay. You sure you got it this time?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Naoto",
+    "en": "Then, let's keep going. Please head to{SAUT}the police officer you believe to be fake.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Futaba",
+    "en": "So the first officer said...{PAGE}\"The fake officer is riding in a car{SAUT}marked with double 1s.\"{PAGE}His car's numbered 77-55.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "And the second one...{PAGE}\"The officer with the car numbered{SAUT}77-55 is real.\"{PAGE}He's in car 11-10.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Futaba",
+    "en": "Third one says...{PAGE}\"The officer in the car with double 4s{SAUT}is real.\"{PAGE}His car is 11-22.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Fourth one...{PAGE}\"The officer with double 7s is acting{SAUT}suspicious.\"{PAGE}The number on his car was 44-11.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Futaba",
+    "en": "And finally there's the fifth one...{PAGE}\"The officer by car number 11-10 seems{SAUT}suspicious to me.\"{PAGE}His numbers are 11-77. Crit fails and{SAUT}lucky sevens.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Futaba",
+    "en": "That's all we got! Wanna hear it again?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "Please.{OPTION}I'm good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Futaba",
+    "en": "Roger! Pay attention now.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Futaba",
+    "en": "Think about it again. Remember, only{SAUT}one of them is lying.",
+    "fr": ""
+  }
+]

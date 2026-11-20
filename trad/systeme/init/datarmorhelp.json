@@ -1,0 +1,742 @@
+[
+  {
+    "id": "armor_301",
+    "en": "A hoodie with a movie's logo on the back.",
+    "fr": ""
+  },
+  {
+    "id": "armor_302",
+    "en": "A fancy sweater that keeps out the cold.",
+    "fr": ""
+  },
+  {
+    "id": "armor_303",
+    "en": "A jacket made for arm mobility.",
+    "fr": ""
+  },
+  {
+    "id": "armor_304",
+    "en": "A large, downy coat with a lot of feathers.{SAUT}{f 0 1 3}Max HP +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_305",
+    "en": "Sturdy iron chainmail.",
+    "fr": ""
+  },
+  {
+    "id": "armor_306",
+    "en": "Light vest made with special fibers.",
+    "fr": ""
+  },
+  {
+    "id": "armor_307",
+    "en": "A sturdy vest made to ensure survival.{SAUT}{f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_308",
+    "en": "A camouflaged poncho. Blends into nature.{SAUT}{f 0 1 3}Ag +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_30A",
+    "en": "Armor made to resist debilitation.{SAUT}{f 0 1 3}Low chance to resist all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_30B",
+    "en": "Armor made with metal.",
+    "fr": ""
+  },
+  {
+    "id": "armor_30D",
+    "en": "A T-shirt with \"Now hiring\" printed on it.{SAUT}{f 0 1 3}Increase item drop rate{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_30E",
+    "en": "A vest knitted with love.{SAUT}{f 0 1 3}Max SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_30F",
+    "en": "A dignified coat for a proud commander.{SAUT}{f 0 1 3}Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_310",
+    "en": "A mystic coat overflowing with faith.{SAUT}{f 0 1 3}Max HP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_311",
+    "en": "An avant-garde vest for a new age{SAUT}of fashion. {f 0 1 3}Ag +2 / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_312",
+    "en": "Its wearer becomes a font of energy.{SAUT}{f 0 1 3}Max HP ＆ SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_313",
+    "en": "Armor made for a king of kings.{SAUT}{f 0 1 3}St +3 / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_314",
+    "en": "A robe said to flood the world with{SAUT}compassion. {f 0 1 3}Max SP +15% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_316",
+    "en": "Armor for defiers of the world's rules.{SAUT}{f 0 1 3}Low chance of resisting all Binds{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_317",
+    "en": "Emblazoned with the word \"Brothers.\"{SAUT}{f 0 1 3}Moderately raise Party Meter gains{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_318",
+    "en": "The back is printed with \"In Training.\"{SAUT}{f 0 1 3}Increase EXP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_319",
+    "en": "An undershirt with a fancy design.{SAUT}{f 0 1 3}Increase EXP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_334",
+    "en": "A vest with a spiked shoulder pad.{SAUT}{f 0 1 3}St +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_335",
+    "en": "A jacket made with wires.",
+    "fr": ""
+  },
+  {
+    "id": "armor_337",
+    "en": "Tights filled with the power of justice.{SAUT}{f 0 1 3}Max HP +5% / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_338",
+    "en": "A jinbei that fills the wearer with a true{SAUT}warrior's instinct. {f 0 1 3}St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_33A",
+    "en": "A belt made from the skin of a beast.{SAUT}{f 0 1 3}St +2 / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_33C",
+    "en": "A happi with a lion drawn on the back.{SAUT}{f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_33D",
+    "en": "Practical armor; simplistic, but durable.{SAUT}{f 0 1 3}Ag +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_33E",
+    "en": "A man's vest, resilient enough to{SAUT}withstand a giant's stomp. {f 0 1 3}St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_340",
+    "en": "A jersey that has absorbed the sweat of{SAUT}youthful exuberance. {f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_341",
+    "en": "The consecrated armor of a holy knight.{SAUT}{f 0 1 3}Resist Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_342",
+    "en": "Briefs worn by manly heroes of old.{SAUT}{f 0 1 3}Max HP +10% / St +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_343",
+    "en": "A chestplate for those who defy death.{SAUT}{f 0 1 3}Increases all Bind resistance{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_344",
+    "en": "Made for men with an iron will.{SAUT}{f 0 1 3}Greatly resist Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_345",
+    "en": "Armor of a savior who gives hope to all.{SAUT}{f 0 1 3}All stats +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_348",
+    "en": "Made of brilliant, painfully-shiny cloth.{SAUT}{f 0 1 3}Max SP +10% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_349",
+    "en": "An outfit filled with all the power of the{SAUT}age of glitz and glamour. {f 0 1 3}All stats +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_350",
+    "en": "Iconic green suit of a master phantom{SAUT}thief. {f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_351",
+    "en": "Overalls set with a gleaming skull.{SAUT}{f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_352",
+    "en": "Clothing depicting Mount Fuji erupting.{SAUT}{f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_353",
+    "en": "Pristine attire that cleanses one's heart.{SAUT}{f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_354",
+    "en": "A school uniform proudly sporting a high{SAUT}collar. {f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_355",
+    "en": "The traditional garb of the Fuuma Clan.{SAUT}{f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_356",
+    "en": "A golden school uniform. It inspires terror.{SAUT}{f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_357",
+    "en": "Uses natural polarities to resist shock.{SAUT}{f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_358",
+    "en": "A mysterious jacket that empowers the{SAUT}chosen one. {f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_359",
+    "en": "Empowers those who overcame weakness.{SAUT}{f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_35A",
+    "en": "A beacon of hope, like a guiding lodestar.{SAUT}{f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_35B",
+    "en": "A blessed hoodie, sewn one prayer{SAUT}at a time. {f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_35C",
+    "en": "A haori that evokes the dark unease{SAUT}of twilight. {f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_366",
+    "en": "A catsuit with a black cat on the chest.{SAUT}{f 0 1 3}Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_368",
+    "en": "A camisole designed with magic runes.{SAUT}{f 0 1 3}Max SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_369",
+    "en": "A bulletproof bunny suit made with steel.{SAUT}{f 0 1 3}Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_36B",
+    "en": "An all-purpose apron good for cooking or{SAUT}hard labor. {f 0 1 3}All stats +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_36C",
+    "en": "A beast-hide bikini. Stirs primal power.{SAUT}{f 0 1 3}Max HP +10% / St + 2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_36E",
+    "en": "A dress soaked in the sultry haze of city{SAUT}nightlife. {f 0 1 3}Max SP +5% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_36F",
+    "en": "Thin tights that provide warmth and{SAUT}protection. {f 0 1 3}Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_370",
+    "en": "A glittering robe that seems speckled with{SAUT}stars. {f 0 1 3}Max HP +10% / Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_372",
+    "en": "A cute tutu that turns boys' heads.{SAUT}{f 0 1 3}Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_373",
+    "en": "A bra adorned with countless spikes.{SAUT}{f 0 1 3}St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_374",
+    "en": "An elegant dress with protective glyphs{SAUT}sewn in. {f 0 1 3}Max SP +10% / Ma +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_375",
+    "en": "Fabric that blocks impacts despite{SAUT}little volume. {f 0 1 3}Max HP +15% / En +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_376",
+    "en": "Protects wearer from hidden dangers.{SAUT}{f 0 1 3}Ma +2 / Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_377",
+    "en": "A pure white dress that promises{SAUT}eternal happiness. {f 0 1 3}All stats +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_37A",
+    "en": "A yukata with seven layers of special{SAUT}fabric. {f 0 1 3}St +2 / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_37B",
+    "en": "A kimono that represents the divinity of{SAUT}the new year. {f 0 1 3}Nullifies Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_380",
+    "en": "A leotard dyed a red color of singular,{SAUT}incomparable beauty. {f 0 1 3}Nullifies all Binds{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_381",
+    "en": "A dress made to increase the power of{SAUT}the chosen one. {f 0 1 3}Nullifies all Binds{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_382",
+    "en": "Beauty Thief's outfit. Loved by all girls.{SAUT}{f 0 1 3}Nullifies all Binds{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_383",
+    "en": "Vestments of a true conqueror.{SAUT}{f 0 1 3}Nullifies all Binds{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_384",
+    "en": "Beautiful garb enhanced by luminous gems.{SAUT}{f 0 1 3}Nullifies all Binds{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_385",
+    "en": "An elegant kimono set with glorious gems.{SAUT}{f 0 1 3}Nullifies all Binds{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_386",
+    "en": "A regal dress studded with warding gems.{SAUT}{f 0 1 3}Nullifies all Binds{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_387",
+    "en": "A pink-dyed robe with a soft floral scent.{SAUT}{f 0 1 3}Nullifies all Binds{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_388",
+    "en": "Noble fur that amplifies the wearer's style.{SAUT}{f 0 1 3}Nullifies all Binds{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_397",
+    "en": "A warm sweater made for cats.",
+    "fr": ""
+  },
+  {
+    "id": "armor_398",
+    "en": "A light and comfortable scarf.{SAUT}{f 0 1 3}Ag +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_399",
+    "en": "A scarf made with steel fabric.",
+    "fr": ""
+  },
+  {
+    "id": "armor_39A",
+    "en": "A red scarf that flutters even without{SAUT}wind. {f 0 1 3}Max SP +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_39B",
+    "en": "The wearer is followed by a gentle{SAUT}breeze. {f 0 1 3}Increases resistance to all Binds{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_39C",
+    "en": "A collar made to strengthen queenly necks.{SAUT}{f 0 1 3}Ma +2 / Lu +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_39D",
+    "en": "A scarf with the power of the beast king.{SAUT}{f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_39E",
+    "en": "This scarf imparts preternatural reflexes.{SAUT}{f 0 1 3}Increase evasion{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_39F",
+    "en": "An enchanted scarf, light and mobile.{SAUT}{f 0 1 3}Lu +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3A0",
+    "en": "A colorful scarf worn by magicians.{SAUT}{f 0 1 3}Max SP +5% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3A1",
+    "en": "A scarf of solar light. Dampens static{SAUT}energy. {f 0 1 3}Max HP +5% / St +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3A2",
+    "en": "Makes the wearer more self-conscious.{SAUT}{f 0 1 3}Slightly raise Party Meter gains{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3A3",
+    "en": "A collar infused with dear memories.{SAUT}{f 0 1 3}Max HP ＆ SP +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3A4",
+    "en": "A scarf infused with the will of the{SAUT}harbinger. {f 0 1 3}Increase EXP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3A5",
+    "en": "A collar for a vanquisher of evildoers.{SAUT}{f 0 1 3}St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3A6",
+    "en": "A luxurious collar. Cat-lover approved.{SAUT}{f 0 1 3}Max SP +10% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3A7",
+    "en": "A classy collar with a gorgeous ornament.{SAUT}{f 0 1 3}Max HP +10% / St +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3A8",
+    "en": "Dubious greaves once worn by a nekomata.{SAUT}{f 0 1 3}All stats +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3AA",
+    "en": "A scarf worn by a warrior in cold weather.{SAUT}{f 0 1 3}Max HP +5%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3AB",
+    "en": "A fashionable, gossamer thin scarf.{SAUT}{f 0 1 3}Increase EXP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3AC",
+    "en": "A scarf so soft, you could pet it for{SAUT}centuries. {f 0 1 3}All stats +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3B0",
+    "en": "Scarf of an archangel who speaks truth{SAUT}to mortals. {f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3B9",
+    "en": "Cute polka-dotted dog clothes.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3BA",
+    "en": "Dog clothes embroidered with a cross.{SAUT}{f 0 1 3}Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3BB",
+    "en": "Dog clothes made with protective metal.{SAUT}{f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3BC",
+    "en": "Dog clothes with gadgets built-in for{SAUT}mobility. {f 0 1 3}St +2 / Ag +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3BD",
+    "en": "A dog sweater made from titanium.{SAUT}{f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3BE",
+    "en": "Blue dog clothes with white clouds sewn{SAUT}on. {f 0 1 3}Ag +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3BF",
+    "en": "Dog clothes with a deep azure hue.{SAUT}{f 0 1 3}Max SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3C0",
+    "en": "Dog clothes with a giant decorative star.{SAUT}{f 0 1 3}Ma +4{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3C1",
+    "en": "Dog clothes embroidered with moons.{SAUT}{f 0 1 3}Max SP +10% / Ma +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3C2",
+    "en": "Dog clothes as red as a vivid sunset.{SAUT}{f 0 1 3}Max HP +10% / St +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3C3",
+    "en": "Dog clothes speckled with glimmering{SAUT}stars. {f 0 1 3}All stats +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3C4",
+    "en": "Lightweight dog clothes.{SAUT}{f 0 1 3}Ag +3{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3C5",
+    "en": "A mane that fills you with confidence.{SAUT}{f 0 1 3}All stats +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3C6",
+    "en": "Dog clothes studded with oracular gems.{SAUT}{f 0 1 3}Nullifies all ailments{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3CE",
+    "en": "Theodore designed this for total coverage.{SAUT}{f 0 1 3}Max HP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3CF",
+    "en": "Aigis' armor. Labeled with serial number 1.{SAUT}{f 0 1 3}St +1 / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3D0",
+    "en": "Aigis' updated armor: version 2.0.{SAUT}{f 0 1 3}St +2 / Ag +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3D1",
+    "en": "Theodore made this by lining up two{SAUT}indestructible plates. {f 0 1 3}Max SP +10%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3D2",
+    "en": "Armor that dampens the shock of impact.{SAUT}{f 0 1 3}Resist Instant Kill{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3D3",
+    "en": "Theodore modded it for optimal protection.{SAUT}{f 0 1 3}All stats +1{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3D4",
+    "en": "Next-generation armor for Aigis.{SAUT}{f 0 1 3}Max HP +15%{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3D5",
+    "en": "Anti-elemental armor plating for Aigis.{SAUT}{f 0 1 3}Increase all Binds resistance{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3D6",
+    "en": "Armor for Aigis, but it's really{SAUT}off-concept. {f 0 1 3}All stats +2{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3D8",
+    "en": "Armor adorned with cute frills.{SAUT}{f 0 1 3}Moderately raise Party Meter gains{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3D9",
+    "en": "Grand golden armor made for Aigis.{SAUT}{f 0 1 3}Nullifies all Binds{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "armor_3DD",
+    "en": "A black shirt with sleek chic style.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3DE",
+    "en": "A yellow shirt with a fancy{SAUT}printed design.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3DF",
+    "en": "A white long hoodie that matches{SAUT}rough styles.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3E0",
+    "en": "A white shirt with fine sleeves.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3E1",
+    "en": "A custom-made shirt to wear{SAUT}with suits.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3E2",
+    "en": "A lemon-colored neckerchief.{SAUT}Made with mysterious materials.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3E3",
+    "en": "A noble blouse for ladies.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3E4",
+    "en": "A pink top that goes with anything.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3E5",
+    "en": "A long-sleeved turtleneck.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3E6",
+    "en": "A simple crew-cut shirt with a design{SAUT}on the back.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3E7",
+    "en": "Unlike Yasogami High's sweats,{SAUT}these are easy to move in.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3E8",
+    "en": "A blouse made from delicate{SAUT}material.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3E9",
+    "en": "A cute suit with big red buttons.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3EA",
+    "en": "A T-shirt with a skull on the front.{SAUT}It may not be store-bought.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3EB",
+    "en": "A shirt with a playful design{SAUT}on its sleeves.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3EC",
+    "en": "A V-neck bearing the Junes brand.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3ED",
+    "en": "A simple shirt with no patterns.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3EE",
+    "en": "A cardigan for women, with an{SAUT}open front.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3EF",
+    "en": "Still fashionable, even without{SAUT}a matching suit.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3F0",
+    "en": "A frilly blouse favored by rich women.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3F1",
+    "en": "A sleeveless vest made of fleece.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3F2",
+    "en": "Dog clothes made from soft silk.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3F3",
+    "en": "A hooded sweatshirt with a zipper.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3F4",
+    "en": "A coat that reaches the knees.{SAUT}It's good at keeping the cold out.",
+    "fr": ""
+  },
+  {
+    "id": "armor_3F5",
+    "en": "Special armor made for Aigis.",
+    "fr": ""
+  }
+]

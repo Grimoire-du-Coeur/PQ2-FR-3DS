@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ITEM_POINT_SEL",
+    "choix": true,
+    "en": "Search cautiously{OPTION}Search thoroughly{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "ITEM_POINT_FORCE_BTL_SEL",
+    "choix": true,
+    "en": "Search{OPTION}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use{OPTION}Don't use",
+    "fr": ""
+  },
+  {
+    "id": "ENTRANCE_SEL",
+    "choix": true,
+    "en": "Head back{OPTION}Don't head back",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "Looks like there could be treasure at{SAUT}that spot. Want to check?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Fuuka",
+    "en": "Right! Keep a sharp eye out, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Fuuka",
+    "en": "Understood! Let's double down on{SAUT}looking for items!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Fuuka",
+    "en": "Okay, I understand. We're going to{SAUT}take a calculated risk.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Fuuka",
+    "en": "That's everything! Nice job, everyone.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "Wow!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "en": "Was it good loot?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "en": "Interesting!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Fuuka",
+    "en": "Good job, everyone. Looks like we're{SAUT}done here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "en": "That's a rare one!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "en": "You did it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "en": "Now there's something special!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Fuuka",
+    "en": "It's a shortcut! Shall we open it?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Fuuka",
+    "en": "We can't pass through from here. Let's{SAUT}check the other side!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Fuuka",
+    "en": "Wait, wait! I'm picking up the signal{SAUT}of something really vicious in there!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Fuuka",
+    "en": "Okay... Stay safe!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Fuuka",
+    "en": "Got it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Fuuka",
+    "en": "Th-That was close... Is everyone okay?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Fuuka",
+    "en": "I'm detecting Shadows in the area!{SAUT}Stay alert!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_023",
+    "locuteur": "Fuuka",
+    "en": "Okay! You can count on me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_024",
+    "locuteur": "Fuuka",
+    "en": "Understood.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_025",
+    "locuteur": "Fuuka",
+    "en": "Great work, everyone!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_026",
+    "locuteur": "Fuuka",
+    "en": "That leads back to the theater. Are{SAUT}you going back?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_027",
+    "en": "Look out!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Hikari",
+    "en": "Hold on―Doe's waiting just beyond{SAUT}here... I'm not sure how I know that,{SAUT}but that's the feeling I'm getting.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "I think Hikari's right. I'm getting a strong{SAUT}reading from there too―now we pretty{SAUT}much know why.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Hikari",
+    "en": "Would you please come with me?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Hikari",
+    "en": "I'm okay to do this... Won't you{SAUT}come with me?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_004",
+    "choix": true,
+    "en": "Of course.{OPTION}I need just a moment.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Hikari",
+    "en": "Thank you!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Hikari",
+    "en": "Okay, I understand. Once you're ready,{SAUT}would you accompany me inside?",
+    "fr": ""
+  }
+]

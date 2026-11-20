@@ -1,0 +1,80 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yosukesaurus",
+    "en": "...Like I was saying, if there's anything{SAUT}here you guys don't know about, feel{SAUT}free to ask―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosukesaurus",
+    "en": "Aaaaaaah!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Hm? Who's there!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Wait, wait! It's me!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Makoto",
+    "en": "Oh, it's just you... You surprised us.{PAGE}What were you doing off in the brush?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "I wondered if Yosuke could be hiding{SAUT}somewhere, so I was looking around{SAUT}over there... I didn't find him though.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosukesaurus",
+    "en": "D-Don't surprise me like that! I thought{SAUT}it was a carnivore!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "I'm sorry... I just can't help but worry{SAUT}about Yosuke...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosukesaurus",
+    "en": "I'm serious―don't scare me like that.{PAGE}Us herbivores are always on edge{SAUT}since we never know when predators{SAUT}will show up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "P4 Hero",
+    "en": "Teddie didn't mean any harm by it.{SAUT}He's really sorry―do you think you{SAUT}could forgive him?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yosukesaurus",
+    "en": "F-Fine... But, remember―don't scare me{SAUT}like that again, okay?{PAGE}I'll let it slide this time since my partner{SAUT}says so―just, be careful from now on.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Chie",
+    "en": "Wha―So he's already decided that{SAUT}you're partners?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Yosukesaurus",
+    "en": "Heheh, I gotta say, I'm a fan of how{SAUT}it sounds!{PAGE}Anyways―let's keep going, partner!",
+    "fr": ""
+  }
+]

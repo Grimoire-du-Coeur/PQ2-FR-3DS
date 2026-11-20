@@ -1,0 +1,86 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Singing flower",
+    "en": "This is my sanctuary... Hidden from all.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Marie",
+    "en": "Forever unseen by you, as further into{SAUT}love I fall. It is here, in this... in this...{SAUT}Um. I need to say what the sanctuary is!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_002",
+    "choix": true,
+    "en": "A place to sleep, and dream...{OPTION}Just your own room.{OPTION}A shrine.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Marie",
+    "en": "A place to sleep and dream? Like dream{SAUT}of the beloved?{PAGE}Yes, you can covet the sweet, forbidden{SAUT}fruit, and dreaming of it makes{SAUT}wherever you sleep your sanctuary...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Marie",
+    "en": "Sure, that's the idea. But even more{SAUT}than your room, a true sanctuary is{SAUT}impossible for anyone else to enter.{PAGE}The place that's physically impossible{SAUT}for anyone else to enter is your dreams!{SAUT}So the sanctuary is one's bed...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Marie",
+    "en": "That's close. A shrine is a special place,{SAUT}but I need a place where only I can{SAUT}enter. Like... my dreams! In my own bed!{PAGE}Yes, you can covet the sweet, forbidden{SAUT}fruit, and dreaming of it makes{SAUT}wherever you sleep your sanctuary...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "P3 Hero",
+    "en": "Hey, she's on a roll.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Marie",
+    "en": "When I'm with you, I masquerade as an{SAUT}angel even as envy burns within me...{PAGE}I am but an innocent who can't help her{SAUT}sinful love... You know, I think this is my{SAUT}greatest masterpiece yet...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_008",
+    "choix": true,
+    "en": "That was true pathos.{OPTION}How inspirational.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Marie",
+    "en": "GYAAAAAAAH! W-W-Why were you{SAUT}listening to me!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Yusuke",
+    "en": "Well, you were just saying it all{SAUT}out loud...{PAGE}And besides, do you really want to{SAUT}deny the world your art? Your beautiful{SAUT}words that make one weak in the knees?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Marie",
+    "en": "Flattery's not gonna get you anywhere!{SAUT}...You really think it's beautiful?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Marie",
+    "en": "I mean, I don't care! C'mon, let's go{SAUT}back, already. I'm tired.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P4 Hero",
+    "en": "*chuckle* Sure, let's go.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Target sighted! Let him have it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Ryuji",
+    "en": "Y'know, now that I'm seein' that meat,{SAUT}or weapon, or whatever it is again...{SAUT}That thing is freakin' huge.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "I knew it. The more I see it, the stronger{SAUT}my curiosity and appetite become.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "Oh man, is that fried chicken? That{SAUT}could feed, like, five―no―ten people!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Hey, hang on, guys. It's too dangerous{SAUT}to just charge in there alone.{PAGE}We're here too, so don't go takin' it all{SAUT}for yourselves, all right?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Chie",
+    "en": "...You're right. We gotta divide it evenly.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Yosuke",
+    "en": "I wasn't talking about the meat! I was{SAUT}saying don't take all the glory!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Kanji",
+    "en": "Huh? You sound pretty pumped,{SAUT}Yosuke-senpai.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "Haha. Yeah, I guess so...{PAGE}All right, let's bring this guy down!",
+    "fr": ""
+  }
+]

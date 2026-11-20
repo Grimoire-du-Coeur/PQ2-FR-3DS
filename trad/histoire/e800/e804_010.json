@@ -1,0 +1,140 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "For this special screening, all of you will{SAUT}be required to complete a certain{SAUT}mission.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Yosuke",
+    "en": "Mission?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Elizabeth",
+    "en": "I would like you to reach the location{SAUT}that I specify.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Chie",
+    "en": "...Huh? That's all? That sounds easy!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Elizabeth",
+    "en": "Perhaps, but things rarely go as planned.{SAUT}Such is the way of the world.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_005",
+    "choix": true,
+    "en": "Say what!?{OPTION}Saw that coming...{OPTION}Not a problem.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Morgana",
+    "en": "Come on, you should've seen that{SAUT}coming.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Ryuji",
+    "en": "Dude, does anything faze you? Even just{SAUT}a little?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yosuke",
+    "en": "Wow... Always playin' it cool.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Elizabeth",
+    "en": "That said, it seems the syndicate has{SAUT}recently become aware of our plans...{PAGE}As a result, security has been raised to{SAUT}the maximum level.{PAGE}Guard detail and searchlight activity will{SAUT}be megatons heavier than usual.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Ryuji",
+    "en": "Ugh... This is a pain just hearin'{SAUT}about it...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Ann",
+    "en": "That's...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "Chie",
+    "en": "Yeah, it's perfect!{PAGE}Slipping past searchlights is totally{SAUT}something a phantom thief would do!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "Ryuji",
+    "en": "What's got those two so worked up?{SAUT}Somethin' happen?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_014",
+    "choix": true,
+    "en": "They're motivated.{OPTION}They're good friends.{OPTION}We can't let them show us up.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Ryuji",
+    "en": "Well, that's cool, I guess...{PAGE}Honestly, though, it's a pretty weird{SAUT}pairing, now that I think about it.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Ryuji",
+    "en": "Well, that's cool, I guess... Still, they{SAUT}weren't always that close, were they?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Ryuji",
+    "en": "What is this, a competition!?{PAGE}I'm just sayin', it's kind of a weird{SAUT}pairing, don't you think?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Yosuke",
+    "en": "Well, they are different from each other.{SAUT}They don't look like they'd have{SAUT}anything in common...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Teddie",
+    "en": "A sweet-toothed girl from the city and{SAUT}a meat-lover from the country...{PAGE}Both so different yet so pretty! I can't{SAUT}bear to choose between them!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Ann",
+    "en": "Hey. What're you guys mumbling about{SAUT}over there?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_021",
+    "locuteur": "Chie",
+    "en": "You're gonna get left behind!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_022",
+    "locuteur": "Kanji",
+    "en": "They really are worked up... Guess we{SAUT}should get movin' too.",
+    "fr": ""
+  }
+]

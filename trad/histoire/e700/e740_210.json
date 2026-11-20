@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Yusuke",
+    "en": "Hm? I've spotted a bear.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Teddie",
+    "en": "Ahoy! You called?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "Such incredible speed...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Teddie",
+    "en": "Heheheh! As such a smart bear, I'm{SAUT}capable of lightning-quick replies!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Junpei",
+    "en": "Helloooo, Teddie? Look over there,{SAUT}why don'tcha?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Teddie",
+    "en": "Hrmm? What do you―",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Teddie",
+    "en": "Wait―what's this!? I-I-I spot a bear!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Teddie",
+    "en": "And, it's insanely fast!?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Akihiko",
+    "en": "It's got the body of a heavyweight, but{SAUT}the agility of a featherweight... What{SAUT}an impressive opponent!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Mitsuru",
+    "en": "No matter how quick it is, {f 0 1 2}it must have{SAUT}some kind of pattern like the other FOEs{f 0 1 0}{SAUT}we've encountered thus far.{PAGE}If we carefully track its movement, it{SAUT}shouldn't pose a threat to us... Good{SAUT}luck, Joker.",
+    "fr": ""
+  }
+]

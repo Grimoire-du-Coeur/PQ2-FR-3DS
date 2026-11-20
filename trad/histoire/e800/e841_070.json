@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Elizabeth",
+    "en": "Well done, everyone. You brought the{SAUT}screening to a crowd-pleasing finish.{SAUT}Quite the auteurs of cinema, you all are.{PAGE}Here is your reward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Margaret",
+    "en": "I would like to personally thank you as{SAUT}well. It was kind of you to fulfill Marie's{SAUT}request. {PAGE}Marie? Don't you also have something{SAUT}to give to them?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Marie",
+    "en": "Um, well... There's this...",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "What is it?{OPTION}You're giving us something?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Marie",
+    "en": "N-N-N-Nothing! It's nothing!{PAGE}It's definitely not like I'm thanking you{SAUT}or anything, for letting me come with{SAUT}you into the movie.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Marie",
+    "en": "Huh!? Uh, well... you know...{PAGE}I-I mean, it's not like I'm feeling happy{SAUT}that you let me tag along inside the{SAUT}movie or anything like that.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Marie",
+    "en": "The point is... thanks. I want you to{SAUT}have this.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Ooh, still following that classic{SAUT}tsundere script to the letter... A prickly{SAUT}exterior hides a soft, romantic interior...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "P4 Hero",
+    "en": "By the way, Marie, did you finish your{SAUT}poem?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Marie",
+    "en": "Yeah, I think it's almost done...{PAGE}I mean, no! It's not a poem! It's more{SAUT}like... an expression of pathos...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_010",
+    "locuteur": "Akechi",
+    "en": "Isn't that basically a poem?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Marie",
+    "en": "No, it's not like that!{SAUT}You'restupidIhateyouyou'retheworst!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_012",
+    "locuteur": "P4 Hero",
+    "en": "Nevertheless, we'd love to see the{SAUT}finished product at some point.",
+    "fr": ""
+  },
+  {
+    "id": "SEL_013",
+    "choix": true,
+    "en": "Yeah, looking forward to it.{OPTION}Even though it tortures her?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P4 Hero",
+    "en": "Of course!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "P4 Hero",
+    "en": "...You've got a point.",
+    "fr": ""
+  }
+]

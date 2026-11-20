@@ -1,0 +1,18 @@
+[
+  {
+    "id": "YESNO_SEL",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "SWITCH_SCR_MSG_01",
+    "en": "Look out!",
+    "fr": ""
+  },
+  {
+    "id": "SWITCH_SCR_MSG_02",
+    "en": "That was close!",
+    "fr": ""
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Naoto",
+    "en": "There's another one. I'll speak with him.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "Futaba",
+    "en": "Go, Detective Prince! Find the culprit!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Naoto",
+    "en": "My apologies for the wait.{PAGE}\"The officer with double 7s is acting{SAUT}suspicious.\"{PAGE}...That's all I learned.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Double 7s? Sounds more like a lucky{SAUT}number... Maybe the Shadow's tryna{SAUT}stay lucky?{PAGE}This guy's car number is...{PAGE}44-11. Doubles of both 4 and 1.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Naoto",
+    "en": "Thank you, Oracle. Let's keep going.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "en": "He said the officer with double 7s is{SAUT}acting suspicious...",
+    "fr": ""
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Futaba",
+    "en": "Whoooa! I'm really in a sci-fi world!{PAGE}Seeing this stuff with my own two eyes{SAUT}is such a huge difference! Oh man,{SAUT}this is as real as it gets!",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Simmer down.{OPTION}I get what you mean.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "Yusuke",
+    "en": "He's right, Oracle. Why don't you just{SAUT}relax a bit?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "Futaba",
+    "en": "Hrgh... You're the last person I wanna{SAUT}hear that from, Inari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Futaba",
+    "en": "Right!? Experiencing something like this{SAUT}is a once-in-a-lifetime opportunity! No,{SAUT}even rarer than that!{PAGE}I can't wait to see all the technology{SAUT}of this world!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Yusuke",
+    "en": "Oracle, you're getting too worked up.{SAUT}Why don't you just relax a bit?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Futaba",
+    "en": "Hrgh... You're the last person I wanna{SAUT}hear that from, Inari!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Futaba",
+    "en": "Okay! Time to buckle down and begin{SAUT}our exploration!{PAGE}You're probably more than aware{SAUT}already, but―I can't fight.{PAGE}And don't you forget it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Yusuke",
+    "en": "Well, this is just as dangerous as our{SAUT}usual work as Phantom Thieves. Don't{SAUT}stray too far from the group, Oracle.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Futaba",
+    "en": "Aye aye, Cap'n!",
+    "fr": ""
+  }
+]

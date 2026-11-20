@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Fuuka",
+    "en": "I've confirmed one FOE down!{SAUT}You did it!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_001",
+    "locuteur": "P4 Hero",
+    "en": "All right. So far, so good.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P4 Hero",
+    "en": "What do you think? Can we take on the{SAUT}next one too?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_003",
+    "choix": true,
+    "en": "Of course.{OPTION}I'm a little hesitant.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, it shouldn't be a problem. Let's{SAUT}ride this momentum.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "P4 Hero",
+    "en": "Yeah, we shouldn't underestimate our{SAUT}enemy's strength. Let's stay on our guard{SAUT}as we move forward.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Rise",
+    "en": "One down, one to go! Keep it up, guys!",
+    "fr": ""
+  }
+]

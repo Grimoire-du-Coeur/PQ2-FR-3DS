@@ -1,0 +1,128 @@
+[
+  {
+    "id": "MSG_000",
+    "locuteur": "Hikari",
+    "en": "Enlil's just through here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_000_1",
+    "locuteur": "Futaba",
+    "en": "Once we go in there, there's no turning{SAUT}back. Joker, are you totally ready?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_001",
+    "choix": true,
+    "en": "Of course.{OPTION}I need a second.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_002",
+    "locuteur": "P3 Hero",
+    "en": "So many hopes are on the line here...{SAUT}So many people's futures.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_003",
+    "locuteur": "P4 Hero",
+    "en": "Is everyone else ready?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_004",
+    "locuteur": "Yosuke",
+    "en": "Yeah, I'm good whenever!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_005",
+    "locuteur": "Junpei",
+    "en": "Same here! If I were to back down now,{SAUT}I'd feel like less of a man.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_006",
+    "locuteur": "Mitsuru",
+    "en": "We all seem to be prepared.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_007",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_008",
+    "locuteur": "Morgana",
+    "en": "Okay, time for the final touch! Let's{SAUT}show her what we can do!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_009",
+    "locuteur": "Fuuka",
+    "en": "Go ahead and prepare as much as you{SAUT}can―we'll be here to give you the best{SAUT}support possible.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_011",
+    "locuteur": "Futaba",
+    "en": "Enlil's up ahead... Joker, are you ready?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_012",
+    "choix": true,
+    "en": "Let's do this.{OPTION}Just another second...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_013",
+    "locuteur": "P3 Hero",
+    "en": "So many hopes are on the line here...{SAUT}So many people's futures.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_014",
+    "locuteur": "P4 Hero",
+    "en": "Is everyone else ready?",
+    "fr": ""
+  },
+  {
+    "id": "MSG_015",
+    "locuteur": "Yosuke",
+    "en": "Yeah, I'm good whenever!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_016",
+    "locuteur": "Junpei",
+    "en": "Same here! If I were to back down now,{SAUT}I'd feel like less of a man.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_017",
+    "locuteur": "Mitsuru",
+    "en": "We all seem to be prepared.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_018",
+    "locuteur": "Koromaru",
+    "en": "Arf!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_019",
+    "locuteur": "Morgana",
+    "en": "Okay, time for the final touch! Let's{SAUT}show her what we can do!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_020",
+    "locuteur": "Morgana",
+    "en": "All right. Do whatever you feel necessary{SAUT}to get us ready, Joker.",
+    "fr": ""
+  }
+]
