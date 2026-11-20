@@ -1,0 +1,86 @@
+"""Extraction des textes du jeu vers trad/."""
+
+import pytest
+
+import catalogue
+import commun
+import extraire
+import msg1
+from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1
+
+JAPONAIS = msg1.Message("jp_c", False, 0xFFFF, ["テスト".encode("cp932") + b"\0"])
+
+
+def _scripts(tmp_path, fichiers=None):
+    script = msg1.lire_msg1(fabriquer_msg1())
+    script.messages.append(JAPONAIS)
+    msg = msg1.ecrire_msg1(script)
+    image = tmp_path / "jeu.3ds"
+    image.write_bytes(fabriquer_3ds(fabriquer_cpk(fichiers or {
+        "init/aide.bmd": msg,
+        "event/e100/e101.bf": fabriquer_bf(msg),
+    })))
+    return catalogue.lire_scripts(image)
+
+
+def test_entrees(tmp_path):
+    fichiers, orphelins, revoir = extraire.construire(_scripts(tmp_path), {})
+    assert set(fichiers) == {"histoire/e100/e101.json", "systeme/init/aide.json",
+                             extraire.LOCUTEURS}
+    dlg, sel = fichiers["systeme/init/aide.json"]
+    assert dlg == {"id": "dlg_a", "locuteur": "Yosuke", "en": "Hello there!{PAGE}Bye.", "fr": ""}
+    assert sel == {"id": "sel_b", "choix": True, "en": "Yes{OPTION}No{OPTION}Maybe", "fr": ""}
+    assert fichiers[extraire.LOCUTEURS] == [{"id": "Yosuke", "en": "Yosuke", "fr": ""}]
+    assert orphelins == [] and revoir == []
+
+
+def test_message_japonais_ecarte(tmp_path):
+    fichiers, _, _ = extraire.construire(_scripts(tmp_path), {})
+    assert "jp_c" not in [e["id"] for e in fichiers["systeme/init/aide.json"]]
+
+
+def test_fr_conserve(tmp_path):
+    scripts = _scripts(tmp_path)
+    anciennes = {("systeme/init/aide.json", "dlg_a"):
+                 {"id": "dlg_a", "en": "Hello there!{PAGE}Bye.", "fr": "Salut !{PAGE}Ciao.",
+                  "commentaire": "ton familier"},
+                 (extraire.LOCUTEURS, "Yosuke"): {"id": "Yosuke", "en": "Yosuke", "fr": "Yosuke"}}
+    fichiers, _, revoir = extraire.construire(scripts, anciennes)
+    dlg = fichiers["systeme/init/aide.json"][0]
+    assert dlg["fr"] == "Salut !{PAGE}Ciao." and dlg["commentaire"] == "ton familier"
+    assert fichiers[extraire.LOCUTEURS][0]["fr"] == "Yosuke"
+    assert revoir == []
+
+
+def test_anglais_change(tmp_path):
+    anciennes = {("systeme/init/aide.json", "dlg_a"):
+                 {"id": "dlg_a", "en": "Hi!{PAGE}Bye.", "fr": "Salut !{PAGE}Ciao."}}
+    fichiers, _, revoir = extraire.construire(_scripts(tmp_path), anciennes)
+    dlg = fichiers["systeme/init/aide.json"][0]
+    assert dlg["a_revoir"] == "Hi!{PAGE}Bye." and dlg["fr"] == "Salut !{PAGE}Ciao."
+    assert revoir == ["systeme/init/aide.json dlg_a"]
+
+
+def test_orphelin(tmp_path):
+    anciennes = {("systeme/init/aide.json", "disparu"): {"id": "disparu", "en": "Gone", "fr": "Parti"},
+                 ("systeme/init/aide.json", "vide"): {"id": "vide", "en": "Empty", "fr": ""}}
+    _, orphelins, _ = extraire.construire(_scripts(tmp_path), anciennes)
+    assert orphelins == [{"fichier": "systeme/init/aide.json", "id": "disparu", "en": "Gone",
+                          "fr": "Parti"}]
+
+
+def test_collision(tmp_path):
+    msg = fabriquer_msg1()
+    scripts = _scripts(tmp_path, {"event/a/x.bmd": msg, "event/a/x.bf": fabriquer_bf(msg)})
+    with pytest.raises(ValueError, match="histoire/a/x.json"):
+        extraire.construire(scripts, {})
+
+
+def test_ecrire_puis_verifier(tmp_path):
+    racine = tmp_path / "trad"
+    fichiers, orphelins, _ = extraire.construire(_scripts(tmp_path), {})
+    extraire.ecrire(fichiers, orphelins, racine)
+    assert commun.lire_json(racine / "systeme/init/aide.json")[0]["id"] == "dlg_a"
+    assert extraire.differences(fichiers, orphelins, racine) == []
+    (racine / "systeme/init/aide.json").write_text("[]\n", encoding="utf-8")
+    assert extraire.differences(fichiers, orphelins, racine) == ["systeme/init/aide.json"]

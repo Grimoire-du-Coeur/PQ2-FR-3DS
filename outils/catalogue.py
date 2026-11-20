@@ -44,6 +44,16 @@ def chemin_trad(chemin_jeu: str) -> str:
     return str(PurePosixPath(*parties, p.stem + ".json"))
 
 
+def identifiants(messages: list[msg1.Message]) -> list[str]:
+    """L'id de chaque message dans trad/ : son nom, suffixé #2, #3… s'il se répète."""
+    vus: dict[str, int] = {}
+    ids = []
+    for m in messages:
+        vus[m.nom] = vus.get(m.nom, 0) + 1
+        ids.append(m.nom if vus[m.nom] == 1 else f"{m.nom}#{vus[m.nom]}")
+    return ids
+
+
 @dataclass
 class Script:
     chemin: str                     # chemin dans le CPK
