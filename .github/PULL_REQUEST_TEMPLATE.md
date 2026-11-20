@@ -7,7 +7,7 @@
 - [ ] Je n'ai modifié que des champs `"fr"` (et éventuellement `commentaire`).
 - [ ] Les `{PAGE}` / `{OPTION}` sont aussi nombreux qu'en anglais, et les balises `{f …}` sont toutes là.
 - [ ] J'ai suivi le [Dictionnaire](../blob/main/docs/Dictionnaire.md), ou j'y ai proposé les nouveaux termes.
-- [ ] Le fichier est annoncé sur le [Discord du Grimoire du Cœur](https://discord.gg/s6CRadvPa3).
+- [ ] Le fichier est annoncé sur le [Discord du Grimoire du Cœur](https://discord.gg/personafr).
 
 ## Termes nouveaux ou choix à discuter
 

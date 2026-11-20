@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="SUIVI.md"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Grimoire-du-Coeur/PQ2-FR-3DS/main/.github/badge.json" alt="avancement de la traduction"></a>
-  <a href="https://discord.gg/s6CRadvPa3"><img src="https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-CE1126?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D0D" alt="Discord du Grimoire du Cœur"></a>
+  <a href="https://discord.gg/personafr"><img src="https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-CE1126?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D0D" alt="Discord du Grimoire du Cœur"></a>
   <img src="https://img.shields.io/badge/Nintendo%203DS-version%20europ%C3%A9enne-36D6D6?style=for-the-badge&labelColor=0D0D0D" alt="Nintendo 3DS, version européenne">
   <img src="https://img.shields.io/badge/test%C3%A9%20sur-Azahar-FF5A1F?style=for-the-badge&labelColor=0D0D0D" alt="testé sur Azahar">
 </p>
@@ -65,7 +65,7 @@ est écrit dans la **[feuille de route](docs/FEUILLE_DE_ROUTE.md)**.
 
 Toute aide est la bienvenue : traduction, relecture, tests en jeu.
 
-1. **Rejoins le [Discord du Grimoire du Cœur](https://discord.gg/s6CRadvPa3)** :
+1. **Rejoins le [Discord du Grimoire du Cœur](https://discord.gg/personafr)** :
    c'est là qu'on se répartit les fichiers, pour que deux personnes ne
    traduisent pas la même scène.
 2. **Lis le [guide de contribution](CONTRIBUTING.md)**, puis le

@@ -11,7 +11,7 @@ guide tient en trois idées :
 
 ## 1. Avant de commencer
 
-Rejoins le **[Discord du Grimoire du Cœur](https://discord.gg/s6CRadvPa3)** et
+Rejoins le **[Discord du Grimoire du Cœur](https://discord.gg/personafr)** et
 annonce le fichier que tu prends (par exemple `trad/histoire/e100/e100_100.json`).
 Ça évite que deux personnes traduisent la même scène, et c'est là qu'on
 discute des choix de traduction.
