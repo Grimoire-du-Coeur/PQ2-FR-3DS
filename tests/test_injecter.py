@@ -49,7 +49,8 @@ def test_injecte_un_bf(tmp_path):
     nouveaux = injecter.remplacements(scripts, trad)
     import flw0
     script = msg1.lire_msg1(flw0.extraire_messages(nouveaux["event/e100/e101.bf"]))
-    assert script.messages[1].pages == [b"Oui\x00", b"Non\x00", b"Peut-etre\x00"]
+    peut_etre = b"Peut-" + bytes.fromhex("819b") + b"tre\x00"      # ê = 819B dans la police
+    assert script.messages[1].pages == [b"Oui\x00", b"Non\x00", peut_etre]
 
 
 def test_pages_en_nombre_different(tmp_path):
@@ -72,7 +73,7 @@ def test_locuteur_traduit(tmp_path):
         {"id": "Yosuke", "en": "Yosuke", "fr": "Yôsuke-kun"}]})
     nouveaux = injecter.remplacements(scripts, trad)
     assert set(nouveaux) == {"init/aide.bmd", "event/e100/e101.bf"}
-    assert msg1.lire_msg1(nouveaux["init/aide.bmd"]).locuteurs == [b"Yosuke-kun"]  # translittéré
+    assert msg1.lire_msg1(nouveaux["init/aide.bmd"]).locuteurs == [b"Y" + bytes.fromhex("81a1") + b"suke-kun"]
 
 
 def test_rien_a_traduire(tmp_path):
@@ -82,13 +83,13 @@ def test_rien_a_traduire(tmp_path):
 
 
 @pytest.mark.parametrize("fr, attendu", [
-    ("Café à l'œil", "Cafe a l'oeil"),
-    ("« Oui » — c’est ça…", '" Oui " ― c\'est ca…'),     # le jeu écrit ses tirets « ― »
+    ("Café à l'œil", "Café à l'œil"),                     # accents gardés : la police les a
+    ("« Oui » — c’est ça…", "“Oui” ― c’est ça…"),          # pas de « » dans la police ; tirets « ― »
     ("Quoi ? Non !", "Quoi ? Non !"),
-    ("ÉCOLE Ça", "ECOLE Ca"),
+    ("Encyclopædia", "Encyclopaedia"),
 ])
-def test_translitteration(fr, attendu):
-    assert injecter.translitterer(fr) == attendu
+def test_adapter(fr, attendu):
+    assert injecter.adapter(fr) == attendu
 
 
 def test_build_complet_puis_relance(tmp_path):

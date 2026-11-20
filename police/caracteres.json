@@ -1,0 +1,21 @@
+{
+  "_lisez_moi": "Lettres accentuées déjà dessinées dans la police du jeu (font/seurapro_12_12.bcfnt) par la localisation anglaise, à la place de symboles Shift-JIS de la ligne 0x81. Relevé sur la version européenne le 20/11/2026. Chaque lettre s'écrit dans le jeu avec le code indiqué.",
+  "accents": {
+    "è": "819A", "ê": "819B", "à": "819C", "â": "819D", "î": "819E", "ù": "819F",
+    "û": "81A0", "ô": "81A1", "ç": "81A2", "Ç": "81A3", "ë": "81A4", "ï": "81A5",
+    "É": "81A6", "é": "81A7", "À": "81A8", "ä": "81A9", "ö": "81AA", "ü": "81AB",
+    "ÿ": "81AC", "œ": "81B8", "Â": "81B9", "Ä": "81BA", "È": "81BB", "Ê": "81BC",
+    "Ë": "81BD", "Î": "81BE", "Ï": "81BF", "Ô": "81C8", "Ö": "81C9", "Ù": "81CB",
+    "Û": "81CC", "Ü": "81CD", "Ÿ": "81CE", "Œ": "81DA"
+  },
+  "_absents_de_la_police_13": "font/seurapro_13_13.bcfnt n'a que è ê à â î ù û ô ç Ç ë ï : les cases des autres lettres y sont vides.",
+  "absents_police_13": ["É", "é", "À", "ä", "ö", "ü", "ÿ", "œ", "Â", "Ä", "È", "Ê", "Ë", "Î", "Ï", "Ô", "Ö", "Ù", "Û", "Ü", "Ÿ", "Œ"],
+  "_remplacements": "Caractères que la police n'a pas : ils sont remplacés au moment du build. Le texte de trad/ les garde tels quels.",
+  "remplacements": {
+    "« ": "“", " »": "”", "« ": "“", " »": "”", "« ": "“", " »": "”",
+    "«": "“", "»": "”",
+    "æ": "ae", "Æ": "AE",
+    "—": "―", "–": "-",
+    " ": " ", " ": " "
+  }
+}

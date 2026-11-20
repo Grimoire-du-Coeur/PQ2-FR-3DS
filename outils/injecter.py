@@ -13,9 +13,10 @@ son anglais : le jeu reste jouable de bout en bout à chaque étape.
 Le CPK d'origine est copié une seule fois depuis l'image ; les builds
 suivants ne réécrivent que la fin du fichier (quelques secondes).
 
-Accents : tant que la police française n'est pas branchée (étape 5),
-``--accents translitterer`` (le défaut) écrit « e » pour « é », « oe » pour
-« œ », etc. Le texte de trad/ garde toujours ses accents.
+Accents : la police du jeu a déjà les lettres accentuées françaises (voir
+police/caracteres.json). Les rares caractères qu'elle n'a pas sont
+remplacés au build : « » deviennent “ ”, æ devient ae, etc. Le texte de
+trad/ garde toujours la typographie française.
 """
 
 from __future__ import annotations
@@ -23,9 +24,7 @@ from __future__ import annotations
 import argparse
 import copy
 import os
-import shutil
 import sys
-import unicodedata
 from pathlib import Path
 
 import commun
@@ -38,12 +37,8 @@ from extraire import LOCUTEURS
 from rom3ds import TITLE_ID_EU, ErreurImage, localiser_data_cpk
 
 SORTIE = commun.BUILD / "romfs" / "data.cpk"
-_REMPLACEMENTS = {
-    "œ": "oe", "Œ": "OE", "æ": "ae", "Æ": "AE",
-    "«": '"', "»": '"', "’": "'", "‘": "'",
-    "—": "―", "–": "-",                 # le jeu écrit ses tirets avec « ― » (Shift-JIS 815C)
-    "\u00a0": " ", "\u202f": " ",       # espaces insécables de la typographie française
-}
+# Les remplacements les plus longs d'abord : « « » suivi d'une espace avant « « » seul.
+_REMPLACEMENTS = sorted(texte.REMPLACEMENTS.items(), key=lambda kv: -len(kv[0]))
 
 
 class ErreurInjection(ValueError):
@@ -55,22 +50,11 @@ def dossier_azahar() -> Path:
     return appdata / "Azahar" / "load" / "mods" / f"{TITLE_ID_EU:016X}" / "romfs"
 
 
-def translitterer(s: str) -> str:
-    """Retire les accents que la police du jeu n'a pas encore."""
-    sortie = []
-    for ch in s:
-        if ch in _REMPLACEMENTS:
-            sortie.append(_REMPLACEMENTS[ch])
-        elif ord(ch) < 0x250 and not ch.isascii():
-            sortie.append("".join(c for c in unicodedata.normalize("NFD", ch)
-                                  if not unicodedata.combining(c)))
-        else:
-            sortie.append(ch)
-    return "".join(sortie)
-
-
-def _preparer(fr: str, accents: str) -> str:
-    return translitterer(fr) if accents == "translitterer" else fr
+def adapter(s: str) -> str:
+    """Remplace les caractères que la police n'a pas (« », æ, espaces insécables…)."""
+    for avant, apres in _REMPLACEMENTS:
+        s = s.replace(avant, apres)
+    return s
 
 
 def _locuteurs(trad: Path) -> dict[str, str]:
@@ -80,7 +64,7 @@ def _locuteurs(trad: Path) -> dict[str, str]:
     return {e["en"]: e["fr"] for e in commun.lire_json(p) if e.get("fr")}
 
 
-def _pages(rel: str, ident: str, m: msg1.Message, fr: str, accents: str) -> list[bytes]:
+def _pages(rel: str, ident: str, m: msg1.Message, fr: str) -> list[bytes]:
     separateur, autre = (texte.OPTION, texte.PAGE) if m.choix else (texte.PAGE, texte.OPTION)
     if autre in fr:
         raise ErreurInjection(f"{rel} {ident} : {autre} n'a pas sa place ici, utiliser {separateur}")
@@ -94,14 +78,14 @@ def _pages(rel: str, ident: str, m: msg1.Message, fr: str, accents: str) -> list
         if not morceau.strip() and anglais.strip():
             raise ErreurInjection(f"{rel} {ident} : la page {k} est vide en français")
         try:
-            corps = texte.encoder_texte(_preparer(morceau, accents))
+            corps = texte.encoder_texte(adapter(morceau))
         except texte.ErreurTexte as e:
             raise ErreurInjection(f"{rel} {ident} : {e}") from None
         pages.append(prefixe + corps + suffixe)
     return pages
 
 
-def _injecter(scripts: list[Script], trad: Path, accents: str) -> tuple[dict[str, bytes], int]:
+def _injecter(scripts: list[Script], trad: Path) -> tuple[dict[str, bytes], int]:
     locuteurs = _locuteurs(trad)
     sortie: dict[str, bytes] = {}
     traduits = 0
@@ -115,13 +99,13 @@ def _injecter(scripts: list[Script], trad: Path, accents: str) -> tuple[dict[str
             fr = locuteurs.get(texte.decoder_texte(nom))
             if fr:
                 try:
-                    script.locuteurs[i] = texte.encoder_texte(_preparer(fr, accents))
+                    script.locuteurs[i] = texte.encoder_texte(adapter(fr))
                 except texte.ErreurTexte as e:
                     raise ErreurInjection(f"{LOCUTEURS} {fr} : {e}") from None
                 touche = True
         for ident, m in zip(identifiants(script.messages), script.messages):
             if ident in entrees:
-                m.pages = _pages(rel, ident, m, entrees[ident]["fr"], accents)
+                m.pages = _pages(rel, ident, m, entrees[ident]["fr"])
                 traduits += 1
                 touche = True
         if not touche:
@@ -134,9 +118,9 @@ def _injecter(scripts: list[Script], trad: Path, accents: str) -> tuple[dict[str
     return sortie, traduits
 
 
-def remplacements(scripts: list[Script], trad: Path, accents: str = "translitterer") -> dict[str, bytes]:
+def remplacements(scripts: list[Script], trad: Path) -> dict[str, bytes]:
     """Chemin dans le CPK → fichier reconstruit, pour les seuls scripts qui changent."""
-    return _injecter(scripts, trad, accents)[0]
+    return _injecter(scripts, trad)[0]
 
 
 def _copie_valide(image: Path, position: int, taille: int, sortie: Path) -> bool:
@@ -163,10 +147,10 @@ def _copier_cpk(image: Path, position: int, taille: int, sortie: Path) -> None:
             restant -= len(bloc)
 
 
-def construire(image: Path, trad: Path, sortie: Path, accents: str = "translitterer") -> tuple[int, int]:
+def construire(image: Path, trad: Path, sortie: Path) -> tuple[int, int]:
     """Écrit le data.cpk français ; rend (fichiers modifiés, messages traduits)."""
     scripts = lire_scripts(image)
-    nouveaux, traduits = _injecter(scripts, trad, accents)
+    nouveaux, traduits = _injecter(scripts, trad)
     position, taille = localiser_data_cpk(image)
     if not _copie_valide(image, position, taille, sortie):
         _copier_cpk(image, position, taille, sortie)
@@ -181,12 +165,11 @@ def main() -> int:
     cible.add_argument("--sortie", type=Path, default=SORTIE, help="data.cpk à écrire")
     cible.add_argument("--azahar", action="store_true",
                        help="écrire dans le dossier mods d'Azahar")
-    parser.add_argument("--accents", choices=("translitterer", "garder"), default="translitterer")
     parser.add_argument("--trad", type=Path, default=commun.TRAD, help=argparse.SUPPRESS)
     args = parser.parse_args()
     sortie = dossier_azahar() / "data.cpk" if args.azahar else args.sortie
     try:
-        fichiers, messages = construire(args.image, args.trad, sortie, args.accents)
+        fichiers, messages = construire(args.image, args.trad, sortie)
     except (ErreurImage, ErreurInjection) as e:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2

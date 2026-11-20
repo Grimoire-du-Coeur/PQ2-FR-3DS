@@ -61,14 +61,28 @@ def test_recollage(page):
     assert prefixe + texte.encoder_texte(lisible) + suffixe == page
 
 
+def test_accents_de_la_police():
+    # La localisation anglaise a redessiné des symboles de la ligne 0x81 en lettres
+    # accentuées : ※ (81A6) s'affiche É, 〒 (81A7) s'affiche é, etc.
+    octets = (b"Caf" + bytes.fromhex("81a7") + b" cr" + bytes.fromhex("819a") + b"me "
+              + bytes.fromhex("819c") + b" l'" + bytes.fromhex("81b8") + b"il, "
+              + bytes.fromhex("81a6") + b"lodie " + bytes.fromhex("81a3") + b"a")
+    assert texte.decoder_texte(octets) == "Café crème à l'œil, Élodie Ça"
+    assert texte.encoder_texte("Café crème à l'œil, Élodie Ça") == octets
+
+
+def test_symbole_redessine_relu_comme_accent():
+    assert texte.decoder_texte(bytes.fromhex("81a6")) == "É"   # et non « ※ »
+
+
 def test_balise_inconnue():
     with pytest.raises(texte.ErreurTexte, match="BIDULE"):
         texte.encoder_texte("Salut{BIDULE}")
 
 
 def test_caractere_impossible():
-    with pytest.raises(texte.ErreurTexte, match="é"):
-        texte.encoder_texte("Café")
+    with pytest.raises(texte.ErreurTexte, match="ñ"):
+        texte.encoder_texte("Señor")
 
 
 def test_separateur_dans_une_page():

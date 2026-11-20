@@ -19,11 +19,25 @@ le texte lisible que ce qui se traduit, plus quelques balises :
 
 Les séparateurs ``{PAGE}`` et ``{OPTION}`` relient les pages d'un message
 dans trad/ ; ils n'existent pas à l'intérieur d'une page.
+
+Les accents français existent déjà dans la police du jeu, à la place de
+symboles japonais : la table de police/caracteres.json sert dans les deux
+sens, et le texte lisible montre toujours la vraie lettre (« É », pas « ※ »).
 """
 
 from __future__ import annotations
 
+import json
 import re
+from pathlib import Path
+
+_POLICE = json.loads((Path(__file__).resolve().parent.parent / "police" / "caracteres.json")
+                     .read_text(encoding="utf-8"))
+# Lettres accentuées déjà dessinées dans la police du jeu, à la place de
+# symboles Shift-JIS de la ligne 0x81 (voir police/caracteres.json).
+ACCENTS: dict[str, bytes] = {ch: bytes.fromhex(code) for ch, code in _POLICE["accents"].items()}
+_ACCENT_DE_CODE: dict[bytes, str] = {code: ch for ch, code in ACCENTS.items()}
+REMPLACEMENTS: dict[str, str] = _POLICE["remplacements"]
 
 SAUT = "{SAUT}"
 PAGE = "{PAGE}"
@@ -119,7 +133,7 @@ def decoder_texte(octets: bytes) -> str:
         elif sorte == "N":
             morceaux.append(SAUT)
         elif sorte == "C":
-            morceaux.append(brut.decode("cp932"))
+            morceaux.append(_ACCENT_DE_CODE.get(brut) or brut.decode("cp932"))
         else:
             morceaux.append(f"{{0x{brut[0]:02X}}}")
     return "".join(morceaux)
@@ -163,11 +177,15 @@ def _encoder_caracteres(morceau: str) -> bytes:
         if " " <= ch <= "~":
             sortie.append(ord(ch))
             continue
+        if ch in ACCENTS:
+            sortie += ACCENTS[ch]
+            continue
         try:
             code = ch.encode("cp932")
         except UnicodeEncodeError:
             code = b""
-        if len(code) != 2 or not _est_premier_octet_sjis(code[0]):
+        if (len(code) != 2 or not _est_premier_octet_sjis(code[0])
+                or code in _ACCENT_DE_CODE):   # ※, 〒… sont devenus É, é… dans la police
             raise ErreurTexte(f"caractère « {ch} » absent de la police du jeu")
         sortie += code
     return bytes(sortie)
