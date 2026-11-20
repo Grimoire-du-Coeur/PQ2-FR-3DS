@@ -75,6 +75,13 @@ def test_symbole_redessine_relu_comme_accent():
     assert texte.decoder_texte(bytes.fromhex("81a6")) == "É"   # et non « ※ »
 
 
+def test_paire_illisible():
+    # Vu dans un fichier traduit avec PersonaEditor : « id[84 9E]e. » pour « idée. »
+    octets = b"id" + bytes.fromhex("849e") + b"e."
+    assert texte.decoder_texte(octets) == "id{0x84}{0x9E}e."
+    assert texte.encoder_texte("id{0x84}{0x9E}e.") == octets
+
+
 def test_balise_inconnue():
     with pytest.raises(texte.ErreurTexte, match="BIDULE"):
         texte.encoder_texte("Salut{BIDULE}")

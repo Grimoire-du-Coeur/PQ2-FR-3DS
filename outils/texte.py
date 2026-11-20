@@ -68,6 +68,16 @@ def _est_premier_octet_sjis(b: int) -> bool:
     return 0x81 <= b <= 0x9F or 0xE0 <= b <= 0xEF
 
 
+def _decodable(paire: bytes) -> bool:
+    if paire in _ACCENT_DE_CODE:
+        return True
+    try:
+        paire.decode("cp932")
+        return True
+    except UnicodeDecodeError:
+        return False
+
+
 def _jetons(octets: bytes) -> list[tuple[str, bytes]]:
     """Découpe en jetons : code (F), saut (N), caractère (C), octet isolé (X)."""
     jetons = []
@@ -79,7 +89,11 @@ def _jetons(octets: bytes) -> list[tuple[str, bytes]]:
             jetons.append(("F", octets[i:i + n]))
             i += n
         elif _est_premier_octet_sjis(b) and i + 1 < len(octets):
-            jetons.append(("C", octets[i:i + 2]))
+            paire = octets[i:i + 2]
+            if _decodable(paire):
+                jetons.append(("C", paire))
+            else:                     # paire inconnue : ses deux octets restent ensemble
+                jetons += [("X", paire[:1]), ("X", paire[1:])]
             i += 2
         elif b == 0x0A:
             jetons.append(("N", octets[i:i + 1]))
