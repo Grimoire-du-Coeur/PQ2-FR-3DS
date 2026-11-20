@@ -1,9 +1,14 @@
-# Recalcule SUIVI.md, les badges et le bloc d'avancement du README après
-# chaque fusion qui touche aux traductions.
+# Recalcule l'avancement après chaque fusion qui touche aux traductions, et
+# le publie sur la branche « suivi » : SUIVI.md, les badges et la carte
+# d'avancement que le README affiche.
 #
-# Personne ne met SUIVI.md à jour à la main : c'est la seule façon qu'il
-# soit juste, et un chiffre faux sur la page d'accueil décourage plus qu'il
-# ne recrute.
+# La branche main est protégée (Pull Request, relecture et vérifications
+# obligatoires) : aucun robot n'y écrit. La branche « suivi » est refaite de
+# zéro à chaque fois, en un seul commit, pour rester légère.
+#
+# Personne ne met ces fichiers à jour à la main : c'est la seule façon
+# qu'ils soient justes, et un chiffre faux sur la page d'accueil décourage
+# plus qu'il ne recrute.
 name: Suivi
 
 on:
@@ -12,6 +17,7 @@ on:
     paths:
       - 'trad/**'
       - 'outils/stats.py'
+      - '.github/workflows/suivi.yml'
   workflow_dispatch:
 
 permissions:
@@ -19,7 +25,7 @@ permissions:
 
 concurrency:
   group: suivi
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   suivi:
@@ -29,18 +35,15 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-      - run: python outils/stats.py
-      - name: Publier
+      - run: python outils/stats.py --sortie build/suivi
+      - name: Publier sur la branche suivi
+        env:
+          JETON: ${{ github.token }}
         run: |
-          if git diff --quiet -- SUIVI.md README.md .github; then echo "rien à publier"; exit 0; fi
+          cd build/suivi
+          git init -q -b suivi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add SUIVI.md README.md .github/badge*.json
-          git commit -m "Suivi : avancement recalculé"
-          # Une fusion peut atterrir pendant qu'on calcule : on rejoue par-dessus.
-          for essai in 1 2 3; do
-            git push && exit 0
-            git pull --rebase --autostash
-          done
-          echo "impossible de pousser le suivi après trois essais" >&2
-          exit 1
+          git add -A
+          git commit -q -m "Suivi : avancement au commit ${GITHUB_SHA::7}"
+          git push -q -f "https://x-access-token:${JETON}@github.com/${GITHUB_REPOSITORY}.git" suivi

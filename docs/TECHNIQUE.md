@@ -26,7 +26,7 @@ remplace son texte lisible par le français, réécrit le script, puis patche
 | `python outils/injecter.py IMAGE [--azahar \| --sortie CHEMIN]` | produit le `data.cpk` français |
 | `python outils/aller_retour.py IMAGE` | relit puis réécrit **tous** les scripts sans traduire : doit redonner les mêmes octets |
 | `python outils/valider.py [fichiers]` | vérifie les traductions (aussi lancé par la CI) |
-| `python outils/stats.py` | `SUIVI.md`, badges, bloc d'avancement du README |
+| `python outils/stats.py [--sortie DOSSIER]` | `SUIVI.md`, badges et carte d'avancement (publiés sur la branche `suivi` par la CI) |
 | `python outils/mesurer.py IMAGE` | régénère `police/largeurs.json` |
 | `python outils/importer.py IMAGE DOSSIER --table TABLE` | importe des fichiers traduits avec PersonaEditor |
 | `python -m pytest tests` | tests, sur des données fabriquées (aucun fichier du jeu) |

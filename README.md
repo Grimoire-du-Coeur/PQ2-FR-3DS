@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="SUIVI.md"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Grimoire-du-Coeur/PQ2-FR-3DS/main/.github/badge.json" alt="avancement de la traduction"></a>
+  <a href="https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/blob/suivi/SUIVI.md"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Grimoire-du-Coeur/PQ2-FR-3DS/suivi/badge.json" alt="avancement de la traduction"></a>
   <a href="https://discord.gg/personafr"><img src="https://img.shields.io/badge/discord-Grimoire%20du%20C%C5%93ur-CE1126?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D0D" alt="Discord du Grimoire du Cœur"></a>
   <img src="https://img.shields.io/badge/Nintendo%203DS-version%20europ%C3%A9enne-36D6D6?style=for-the-badge&labelColor=0D0D0D" alt="Nintendo 3DS, version européenne">
   <img src="https://img.shields.io/badge/test%C3%A9%20sur-Azahar-FF5A1F?style=for-the-badge&labelColor=0D0D0D" alt="testé sur Azahar">
@@ -37,20 +37,11 @@ communauté du **[Grimoire du Cœur](https://github.com/Grimoire-du-Coeur)**.
 
 ## Avancement
 
-<!-- avancement:debut -->
-```text
-Histoire       ░░░░░░░░░░░░░░░░░░░░░░░░    0 %        90 / 16 447 textes
-Donjons        ░░░░░░░░░░░░░░░░░░░░░░░░    0 %         0 / 4 330 textes
-Combat         █░░░░░░░░░░░░░░░░░░░░░░░    2 %        72 / 3 246 textes
-Système        ░░░░░░░░░░░░░░░░░░░░░░░░    0 %         3 / 4 922 textes
-Noms           ░░░░░░░░░░░░░░░░░░░░░░░░    0 %         0 / 238 textes
+<p align="center">
+  <a href="https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/blob/suivi/SUIVI.md"><img src="https://raw.githubusercontent.com/Grimoire-du-Coeur/PQ2-FR-3DS/suivi/avancement.svg" width="100%" alt="Avancement de la traduction, par partie du jeu"></a>
+</p>
 
-Total          ░░░░░░░░░░░░░░░░░░░░░░░░    0 %       165 / 29 183 textes
-               1 540 mots traduits sur 310 375
-```
-<!-- avancement:fin -->
-
-Le détail par dossier est dans **[SUIVI.md](SUIVI.md)**, mis à jour
+Le détail par dossier est dans **[SUIVI.md](https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/blob/suivi/SUIVI.md)**, recalculé
 automatiquement à chaque fusion. Ce qui reste à faire, et dans quel ordre,
 est écrit dans la **[feuille de route](docs/FEUILLE_DE_ROUTE.md)**.
 
@@ -68,9 +59,10 @@ Toute aide est la bienvenue : traduction, relecture, tests en jeu.
 1. **Rejoins le [Discord du Grimoire du Cœur](https://discord.gg/personafr)** :
    c'est là qu'on se répartit les fichiers, pour que deux personnes ne
    traduisent pas la même scène.
-2. **Lis le [guide de contribution](CONTRIBUTING.md)**, puis le
-   **[Dictionnaire](docs/Dictionnaire.md)** : un terme se traduit toujours de
-   la même façon d'un bout à l'autre du jeu.
+2. **Lis le [guide de contribution](CONTRIBUTING.md)** (le format), la
+   **[méthode de travail](docs/GUIDE.md)** (comment traduire, relire, tester)
+   et le **[Dictionnaire](docs/Dictionnaire.md)** : un terme se traduit
+   toujours de la même façon d'un bout à l'autre du jeu.
 3. **Ouvre un fichier de [`trad/`](trad/)** et remplis les champs `"fr"`.
    Rien d'autre à toucher, et rien à installer : ça marche aussi depuis le
    navigateur de GitHub.
