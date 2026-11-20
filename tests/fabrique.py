@@ -202,6 +202,31 @@ def fabriquer_bf(messages: bytes | None, queue: bytes = b"") -> bytes:
     return entete + tetes + corps + queue
 
 
+# ---------------------------------------------------------------- BCFNT
+
+def fabriquer_bcfnt(largeurs: dict[int, tuple[int, int, int]]) -> bytes:
+    """Police CFNT réduite à ses métriques : FINF, une table CWDH, une table CMAP
+    « scan » (code Shift-JIS → n° de glyphe). Pas de planches de glyphes."""
+    codes = sorted(largeurs)
+    entete_taille = 0x14
+    finf_pos = entete_taille
+    cwdh_pos = finf_pos + 0x20
+    cwdh = b"CWDH" + struct.pack("<IHHI", 0x10 + 3 * len(codes), 0, len(codes) - 1, 0)
+    for c in codes:
+        cwdh += struct.pack("<bBB", *largeurs[c])
+    cwdh += bytes(-len(cwdh) % 4)
+    cmap_pos = cwdh_pos + len(cwdh)
+    cmap = b"CMAP" + struct.pack("<IHHHHI", 0, 0, 0xFFFF, 2, 0, 0) + struct.pack("<H", len(codes))
+    for i, c in enumerate(codes):
+        cmap += struct.pack("<HH", c, i)
+    cmap = cmap[:4] + struct.pack("<I", len(cmap)) + cmap[8:]
+    finf = b"FINF" + struct.pack("<IBBHbBBBIIIBBBB", 0x20, 1, 14, 0, 0, 13, 13, 2,
+                                 0, cwdh_pos + 8, cmap_pos + 8, 14, 13, 11, 0)
+    corps = finf + cwdh + cmap
+    return b"CFNT" + struct.pack("<HHIII", 0xFEFF, entete_taille, 0x03000000,
+                                 entete_taille + len(corps), 3) + corps
+
+
 # ---------------------------------------------------------------- image 3DS
 
 MU = 0x200   # « media unit » : les tailles NCSD/NCCH se comptent en blocs de 0x200
