@@ -25,9 +25,11 @@ Chaque séance les plonge dans un film qui est aussi un labyrinthe. Ils ne
 sont pas seuls : d'autres porteurs de Persona, venus d'autres villes et
 d'autres années, sont pris au piège avec eux.
 
-Le projet a été **lancé par [Tyron26](https://github.com/tyron2611)**, qui a
-traduit les premières scènes et percé les premiers secrets du jeu, et il est
-mené avec la communauté du **[Grimoire du Cœur](https://github.com/Grimoire-du-Coeur)**.
+Le projet a été **lancé par [Tyron26](https://github.com/tyron2611)**, qui en
+a traduit les premières scènes, et **architecturé par
+[Hamza](https://github.com/CodeByHaamza)** : extraction du texte, outils,
+vérifications automatiques et réinjection dans le jeu. Il est mené avec la
+communauté du **[Grimoire du Cœur](https://github.com/Grimoire-du-Coeur)**.
 
 <br clear="right">
 
@@ -139,7 +141,7 @@ Les versions publiques seront distribuées uniquement sous forme de
 <table>
   <tr>
     <td align="center" width="20%"><a href="https://github.com/tyron2611"><img src="https://github.com/tyron2611.png" width="72" alt=""><br><b>Tyron26</b></a><br><sub>à l'origine du projet<br>premières traductions</sub></td>
-    <td align="center" width="20%"><a href="https://github.com/CodeByHaamza"><img src="https://github.com/CodeByHaamza.png" width="72" alt=""><br><b>Hamza</b></a><br><sub>traduction<br>& outils</sub></td>
+    <td align="center" width="20%"><a href="https://github.com/CodeByHaamza"><img src="https://github.com/CodeByHaamza.png" width="72" alt=""><br><b>Hamza</b></a><br><sub>architecture & outils<br>traduction</sub></td>
     <td align="center" width="20%"><a href="https://github.com/vikmorp"><img src="https://github.com/vikmorp.png" width="72" alt=""><br><b>Vikmor</b></a><br><sub>fondateur<br>du Grimoire du Cœur</sub></td>
     <td align="center" width="20%"><a href="https://github.com/chenetulipe"><img src="https://github.com/chenetulipe.png" width="72" alt=""><br><b>chene</b></a><br><sub>traduction<br>& outils</sub></td>
     <td align="center" width="20%"><a href="https://github.com/Garloulou"><img src="https://github.com/Garloulou.png" width="72" alt=""><br><b>Garloulou</b></a><br><sub>support<br>& intégration</sub></td>
