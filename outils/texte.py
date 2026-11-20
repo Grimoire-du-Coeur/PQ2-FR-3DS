@@ -7,7 +7,9 @@ pages commencent par les mêmes codes (affichage, portrait, voix) et finissent
 par d'autres (attente, fin de page, octet 0).
 
 Ces débuts et ces fins sont **cachés** au traducteur : ``decouper_page`` les
-met de côté, et le build les reprend de la page d'origine. Il ne reste dans
+met de côté, et le build les reprend de la page d'origine. Seuls les codes
+structurels (``STRUCTURELS``) sont cachés : un nom inséré en tête de page
+reste visible, pour qu'on puisse le déplacer dans la phrase française. Il ne reste dans
 le texte lisible que ce qui se traduit, plus quelques balises :
 
     {SAUT}            retour à la ligne (octet 0x0A)
@@ -29,6 +31,19 @@ OPTION = "{OPTION}"
 
 _ESPACE_JAPONAISE = b"\x81\x40"
 _BALISE = re.compile(r"\{([^{}]*)\}")
+
+# Codes (table, numéro) qui encadrent les pages sans rien afficher eux-mêmes :
+# relevés sur les 43 338 pages du jeu, toujours en tête ou en queue de page.
+# Seuls ceux-là sont cachés. Les autres portent du contenu et doivent rester
+# déplaçables par le traducteur : couleur (f 0 1), nom ou nombre inséré
+# (f 2 4), objet inséré (f 2 5, f 4 4), f 0 3, f 0 7.
+STRUCTURELS = {
+    (0, 5), (2, 1),                   # ouverture de chaque page
+    (4, 6), (3, 1), (6, 1), (4, 7),   # portrait, voix, expression…
+    (0, 6), (4, 2), (1, 5),           # autres réglages d'affichage en tête
+    (1, 1), (1, 2), (1, 3), (1, 4), (1, 6),   # attente, fin de page
+    (2, 7),                           # paramètre en fin d'option de choix
+}
 
 
 class ErreurTexte(ValueError):
@@ -67,7 +82,9 @@ def _jetons(octets: bytes) -> list[tuple[str, bytes]]:
 def _technique(jeton: tuple[str, bytes], en_fin: bool) -> bool:
     """Jeton qui peut appartenir au début (ou à la fin) caché d'une page."""
     sorte, brut = jeton
-    if sorte in ("F", "N") or brut == _ESPACE_JAPONAISE:
+    if sorte == "F":
+        return (brut[1] >> 5, brut[1] & 0x1F) in STRUCTURELS
+    if sorte == "N" or brut == _ESPACE_JAPONAISE:
         return True
     return en_fin and brut == b"\0"
 

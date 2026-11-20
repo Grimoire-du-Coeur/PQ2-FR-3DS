@@ -22,6 +22,18 @@ def test_espaces_japonaises_en_tete():
     assert prefixe + texte.encoder_texte(lisible) + suffixe == page
 
 
+@pytest.mark.parametrize("page, attendu", [
+    # le nom de l'ennemi inséré en tête doit rester déplaçable : « Des {f 2 4 0} apparaissent ! »
+    (bytes.fromhex("f205ffff f141 f2440101") + b"s have appeared!\n\0", "{f 2 4 0}s have appeared!"),
+    (bytes.fromhex("f205ffff f141 f2010301") + b"Support Skills" + bytes.fromhex("f2010101") + b" are...\0",
+     "{f 0 1 2}Support Skills{f 0 1 0} are..."),
+])
+def test_codes_de_contenu_restent_visibles(page, attendu):
+    prefixe, lisible, suffixe = texte.decouper_page(page)
+    assert lisible == attendu
+    assert prefixe + texte.encoder_texte(lisible) + suffixe == page
+
+
 def test_code_au_milieu():
     assert texte.decoder_texte(bytes.fromhex("f2010301")) == "{f 0 1 2}"
     assert texte.decoder_texte(bytes.fromhex("f2010101")) == "{f 0 1 0}"
