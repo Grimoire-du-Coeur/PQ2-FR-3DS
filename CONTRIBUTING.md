@@ -1,7 +1,8 @@
 # Contribuer à PQ2-FR-3DS
 
 Merci de vouloir aider à traduire *Persona Q2: New Cinema Labyrinth* ! Ce
-guide tient en trois idées :
+guide explique le format des fichiers ; la [méthode de travail](docs/GUIDE.md)
+explique comment on traduit, relit et teste. Ce guide tient en trois idées :
 
 1. **On s'organise sur Discord** avant de traduire.
 2. **On ne touche qu'aux champs `"fr"`** des fichiers de `trad/`.
