@@ -1,0 +1,66 @@
+# Prépare une version à partir d'une étiquette (`git tag v0.1 && git push --tags`).
+#
+# Le patch n'est PAS construit ici, et ne peut pas l'être : il faut la copie
+# du jeu, qui ne quitte jamais la machine de celui qui la possède. Cette
+# action revalide tout, rassemble l'état exact des traductions et ouvre la
+# version en brouillon ; le mainteneur y attache le patch construit chez lui
+# avec outils/injecter.py.
+#
+# Ce que ça garantit : le patch publié correspond à un état des fichiers
+# qu'on peut retrouver, à la ligne près, des mois plus tard.
+name: Préparer une version
+
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  preparer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      # Bloquant : une erreur ici casserait le build ou s'afficherait mal en jeu.
+      - name: Tout revalider
+        run: python outils/valider.py --github --erreurs
+
+      - name: Garde-fou
+        run: python outils/sans_donnees_jeu.py
+
+      - name: Recompter
+        run: python outils/stats.py
+
+      - name: Empaqueter les traductions
+        run: |
+          nom="traductions-${GITHUB_REF_NAME:-brouillon}"
+          mkdir -p "dist/$nom"
+          cp -r trad "dist/$nom/"
+          cp SUIVI.md docs/Dictionnaire.md "dist/$nom/"
+          (cd dist && zip -qr "$nom.zip" "$nom")
+          sha256sum "dist/$nom.zip" > "dist/$nom.zip.sha256"
+
+      - name: Ouvrir la version en brouillon
+        uses: softprops/action-gh-release@v2
+        with:
+          draft: true
+          name: ${{ github.ref_name }}
+          files: |
+            dist/*.zip
+            dist/*.sha256
+          body: |
+            Traductions à l'étiquette `${{ github.ref_name }}`.
+
+            Le patch est construit hors de GitHub et attaché à la main : il
+            exige une copie du jeu, qui n'est ni publiée ni publiable.
+
+            **Pour jouer** : il faut posséder *Persona Q2: New Cinema Labyrinth*
+            (version européenne), puis suivre [docs/JOUER.md](../blob/main/docs/JOUER.md).
+            Aucune donnée du jeu n'est distribuée ici.

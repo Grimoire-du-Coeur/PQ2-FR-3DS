@@ -1,0 +1,46 @@
+# Recalcule SUIVI.md, les badges et le bloc d'avancement du README après
+# chaque fusion qui touche aux traductions.
+#
+# Personne ne met SUIVI.md à jour à la main : c'est la seule façon qu'il
+# soit juste, et un chiffre faux sur la page d'accueil décourage plus qu'il
+# ne recrute.
+name: Suivi
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'trad/**'
+      - 'outils/stats.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: suivi
+  cancel-in-progress: false
+
+jobs:
+  suivi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: python outils/stats.py
+      - name: Publier
+        run: |
+          if git diff --quiet -- SUIVI.md README.md .github; then echo "rien à publier"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add SUIVI.md README.md .github/badge*.json
+          git commit -m "Suivi : avancement recalculé"
+          # Une fusion peut atterrir pendant qu'on calcule : on rejoue par-dessus.
+          for essai in 1 2 3; do
+            git push && exit 0
+            git pull --rebase --autostash
+          done
+          echo "impossible de pousser le suivi après trois essais" >&2
+          exit 1

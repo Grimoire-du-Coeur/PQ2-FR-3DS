@@ -1,0 +1,81 @@
+# Vérifie chaque proposition de traduction.
+#
+# Les remarques sont posées en annotations directement sur les lignes du
+# diff, pas en commentaire : une proposition venue d'un fork (c'est le cas
+# de presque toutes, puisque « modifier ce fichier » depuis le navigateur
+# crée un fork) donne au robot un jeton en lecture seule, avec lequel il ne
+# peut pas commenter. Les annotations, elles, passent toujours.
+#
+# La CI n'a pas le jeu : elle valide le texte et teste les outils sur des
+# données fabriquées. L'extraction et le build se font chez quelqu'un qui
+# possède sa copie du jeu.
+name: Valider
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  traductions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      # Si l'outillage, la police ou le dictionnaire changent, leur verdict
+      # change partout : on valide alors tout le dépôt, pas seulement les
+      # fichiers du diff.
+      - name: Lister les fichiers à valider
+        id: fichiers
+        run: |
+          if [ "${{ github.event_name }}" != "pull_request" ]; then
+            echo "tous=oui" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          base="${{ github.event.pull_request.base.sha }}"
+          outillage=$(git diff --name-only "$base" HEAD -- outils police docs/Dictionnaire.md || true)
+          if [ -n "$outillage" ]; then
+            echo "outillage modifié : validation de tout le dépôt"
+            echo "tous=oui" >> "$GITHUB_OUTPUT"
+          else
+            liste=$(git diff --name-only --diff-filter=AM "$base" HEAD -- 'trad/**.json' | grep -v '/_' | tr '\n' ' ' || true)
+            echo "liste=$liste" >> "$GITHUB_OUTPUT"
+            echo "vide=$([ -z "$liste" ] && echo oui || echo non)" >> "$GITHUB_OUTPUT"
+          fi
+
+      # --base : chaque fichier est comparé à sa version sur la branche cible,
+      # pour refuser une proposition qui modifie l'anglais ou efface des
+      # traductions (c'est ce que fait la copie périmée d'un fork).
+      - name: Valider les traductions
+        if: steps.fichiers.outputs.vide != 'oui'
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            python outils/valider.py --github --base "${{ github.event.pull_request.base.sha }}" \
+              ${{ steps.fichiers.outputs.liste }}
+          else
+            python outils/valider.py --github
+          fi
+
+  outils:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: python -m pip install pytest
+      - run: python -m pytest -q tests
+
+  sans-donnees-du-jeu:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: python3 outils/sans_donnees_jeu.py
