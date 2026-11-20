@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" role="img" aria-label="séparateur">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#36D6D6" stop-opacity="0"/><stop offset=".35" stop-color="#36D6D6"/><stop offset=".5" stop-color="#FFC857"/><stop offset=".65" stop-color="#FF5A1F"/><stop offset="1" stop-color="#FF5A1F" stop-opacity="0"/></linearGradient>
+<linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#FFF4D6" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="0" y="19" width="1200" height="2"/></clipPath>
+</defs>
+<style>.b{animation:b 4.5s ease-in-out infinite}@keyframes b{0%{transform:translateX(-200px)}60%,100%{transform:translateX(1300px)}}.bobine{transform-box:fill-box;transform-origin:50% 50%;animation:tourne 6s linear infinite}@keyframes tourne{to{transform:rotate(360deg)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}.b{opacity:0}}</style>
+<rect x="0" y="19" width="1200" height="2" fill="url(#g)"/>
+<g clip-path="url(#c)"><rect class="b" x="0" y="19" width="180" height="2" fill="url(#r)"/></g>
+<rect x="566" y="17" width="68" height="6" rx="3" fill="#0D0D0D"/>
+<g class="bobine"><circle cx="600" cy="20" r="15" fill="#5A0711" stroke="#FFC857" stroke-width="1.8"/><circle cx="600" cy="29" r="3.2" fill="#0D0D0D" stroke="#FFC857" stroke-width=".9"/><circle cx="591.4" cy="22.8" r="3.2" fill="#0D0D0D" stroke="#FFC857" stroke-width=".9"/><circle cx="594.7" cy="12.7" r="3.2" fill="#0D0D0D" stroke="#FFC857" stroke-width=".9"/><circle cx="605.3" cy="12.7" r="3.2" fill="#0D0D0D" stroke="#FFC857" stroke-width=".9"/><circle cx="608.6" cy="22.8" r="3.2" fill="#0D0D0D" stroke="#FFC857" stroke-width=".9"/><circle cx="600" cy="20" r="2.4" fill="#FF5A1F"/></g>
+</svg>
