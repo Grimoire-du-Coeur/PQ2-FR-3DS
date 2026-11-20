@@ -1,0 +1,42 @@
+# Données du jeu : jamais dans le dépôt (voir outils/sans_donnees_jeu.py)
+*.3ds
+*.cia
+*.cci
+*.cxi
+*.app
+*.cpk
+*.bcfnt
+*.bffnt
+*.ctpk
+*.bcmdl
+*.bmd
+*.bf
+*.mbm
+*.tbl
+*.arc
+*.pac
+*.spr3
+*.acb
+*.awb
+*.usm
+*.xdelta
+*.sav
+*.exe
+
+# Sorties du build
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Éditeurs / système
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
