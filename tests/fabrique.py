@@ -177,6 +177,31 @@ def fabriquer_msg1(table_relocation: bytes | None = None) -> bytes:
     return entete + contenu + table_relocation
 
 
+# ---------------------------------------------------------------- FLW0
+
+def fabriquer_bf(messages: bytes | None, queue: bytes = b"") -> bytes:
+    """Script FLW0 à cinq sections contiguës (procédures, étiquettes, code,
+    messages, chaînes), comme les 1 632 .bf du jeu. ``queue`` imite les octets
+    que certains fichiers portent après la dernière section."""
+    procedures = b"proc_main".ljust(32, b"\0") + struct.pack("<I", 0).ljust(24, b"\0")
+    code = struct.pack("<4I", 1, 2, 3, 4)
+    chaines = b"bonjour\0"
+    sections = [(0, 56, 1, procedures), (1, 56, 0, b""), (2, 4, 4, code),
+                (3, 1, len(messages or b""), messages or b""), (4, 1, len(chaines), chaines)]
+    pos = 0x20 + 16 * len(sections)
+    tetes, corps = b"", b""
+    debut_chaines = 0
+    for type_, taille, nombre, contenu in sections:
+        if type_ == 4:
+            debut_chaines = pos
+        tetes += struct.pack("<IIII", type_, taille, nombre, pos)
+        corps += contenu
+        pos += len(contenu)
+    entete = struct.pack("<BBHI4sIIHHHHI", 0, 0, 0, debut_chaines, b"FLW0", 0, len(sections),
+                         2, 0, 0, 0, 0)
+    return entete + tetes + corps + queue
+
+
 # ---------------------------------------------------------------- image 3DS
 
 MU = 0x200   # « media unit » : les tailles NCSD/NCCH se comptent en blocs de 0x200
