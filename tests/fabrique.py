@@ -109,6 +109,74 @@ def fabriquer_cpk(fichiers: dict[str, bytes], compresses: set[str] = frozenset()
     return bytes(sortie)
 
 
+# ---------------------------------------------------------------- MSG1
+
+def _a4(n: int) -> int:
+    return (n + 3) // 4 * 4
+
+
+def fabriquer_msg1(table_relocation: bytes | None = None) -> bytes:
+    """Script de messages écrit à la main, selon la disposition relevée sur le jeu.
+
+    Deux messages : « dlg_a » (locuteur 0, deux pages) et « sel_b » (un choix à
+    trois options), et un locuteur « Yosuke ». Chaque message commence sur un
+    multiple de 4, les noms de locuteurs suivent leurs pointeurs, la table de
+    relocation ferme le fichier.
+    """
+    B = 0x20
+    pages_a = [b"\xf1\x41Hello there!\n", b"\xf2\x05\xff\xffBye.\x00"]
+    options_b = [b"Yes\x00", b"No\x00", b"Maybe\x00"]
+
+    corps = bytearray()
+    positions = []                      # emplacements des pointeurs, relatifs à B
+    table = bytearray()
+    pos = 2 * 8 + 16                    # après la table des messages et l'en-tête des locuteurs
+
+    def message(type_, tete: bytes, morceaux: list[bytes]) -> None:
+        nonlocal pos
+        pos = _a4(pos)
+        corps.extend(bytes(pos - (2 * 8 + 16) - len(corps)))
+        positions.append(len(table) + 4)
+        table.extend(struct.pack("<II", type_, pos))
+        debut_ptr = pos + len(tete)
+        texte_pos = debut_ptr + 4 * len(morceaux) + 4
+        ptrs, o = b"", texte_pos
+        for m in morceaux:
+            positions.append(debut_ptr + len(ptrs))
+            ptrs += struct.pack("<I", o)
+            o += len(m)
+        texte = b"".join(morceaux)
+        bloc = tete + ptrs + struct.pack("<I", len(texte)) + texte
+        corps.extend(bloc)
+        pos += len(bloc)
+
+    message(0, b"dlg_a".ljust(24, b"\0") + struct.pack("<HH", 2, 0), pages_a)
+    message(1, b"sel_b".ljust(24, b"\0") + struct.pack("<HHHH", 0, 3, 0, 0), options_b)
+
+    pos = _a4(pos)
+    corps.extend(bytes(pos - (2 * 8 + 16) - len(corps)))
+    loc_ptrs = pos
+    positions.append(loc_ptrs)
+    nom_pos = loc_ptrs + 4
+    corps.extend(struct.pack("<I", nom_pos) + b"Yosuke\0")
+    pos = nom_pos + 7
+
+    entete_loc = struct.pack("<IIII", loc_ptrs, 1, 0, 0)
+    positions.append(2 * 8)             # pointeur de l'en-tête des locuteurs
+    positions.sort()
+    if table_relocation is None:
+        import msg1
+        table_relocation = msg1.encoder_relocation(positions)
+
+    reloc_pos = B + _a4(pos)
+    contenu = bytes(table) + entete_loc + bytes(corps)
+    contenu += bytes(reloc_pos - B - len(contenu))
+    total = reloc_pos + len(table_relocation)
+    entete = struct.pack("<BBHI4sIIIIHH", 7, 0, 0, total, b"MSG1", 0, reloc_pos,
+                         len(table_relocation), 2, 0, 2)
+    return entete + contenu + table_relocation
+
+
 # ---------------------------------------------------------------- image 3DS
 
 MU = 0x200   # « media unit » : les tailles NCSD/NCCH se comptent en blocs de 0x200
