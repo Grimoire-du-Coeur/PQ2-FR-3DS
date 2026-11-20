@@ -36,14 +36,14 @@ jobs:
         run: python outils/sans_donnees_jeu.py
 
       - name: Recompter
-        run: python outils/stats.py
+        run: python outils/stats.py --sortie build/suivi
 
       - name: Empaqueter les traductions
         run: |
           nom="traductions-${GITHUB_REF_NAME:-brouillon}"
           mkdir -p "dist/$nom"
           cp -r trad "dist/$nom/"
-          cp SUIVI.md docs/Dictionnaire.md "dist/$nom/"
+          cp build/suivi/SUIVI.md docs/Dictionnaire.md "dist/$nom/"
           (cd dist && zip -qr "$nom.zip" "$nom")
           sha256sum "dist/$nom.zip" > "dist/$nom.zip.sha256"
 

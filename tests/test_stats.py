@@ -1,6 +1,7 @@
-"""Calcul de l'avancement (outils/stats.py)."""
+"""Calcul et publication de l'avancement (outils/stats.py)."""
 
 import json
+import xml.etree.ElementTree as ET
 
 import commun
 import stats
@@ -34,22 +35,34 @@ def test_barre():
     assert stats.barre(1, 2) == "█" * 12 + "░" * 12
 
 
-def test_bloc_et_readme(tmp_path):
-    c = stats.compter(_trad(tmp_path))
-    bloc = stats.bloc(c)
-    assert "Histoire" in bloc and "Total" in bloc and "2 / 4 textes" in bloc
-    readme = tmp_path / "README.md"
-    readme.write_text("avant\n<!-- avancement:debut -->\nvieux\n<!-- avancement:fin -->\naprès\n",
-                      encoding="utf-8")
-    stats.maj_readme(readme, bloc)
-    contenu = readme.read_text(encoding="utf-8")
-    assert "vieux" not in contenu and "Histoire" in contenu and contenu.endswith("après\n")
+def test_pourcentage_lisible():
+    assert stats.pourcentage(0, 100) == "0 %"
+    assert stats.pourcentage(165, 29183) == "0,5 %"     # une décimale sous 10 %
+    assert stats.pourcentage(3, 4922) == "< 0,1 %"
+    assert stats.pourcentage(37, 100) == "37 %"
+    assert stats.pourcentage(0, 0) == "0 %"
 
 
-def test_badges(tmp_path):
+def test_publication(tmp_path):
     c = stats.compter(_trad(tmp_path))
-    dossier = tmp_path / ".github"
-    stats.ecrire_badges(c, dossier)
-    b = json.loads((dossier / "badge.json").read_text(encoding="utf-8"))
+    sortie = tmp_path / "suivi"
+    stats.publier(c, sortie)
+    assert sorted(p.name for p in sortie.iterdir()) == [
+        "SUIVI.md", "avancement.svg", "badge.json", "badge_combat.json", "badge_donjons.json",
+        "badge_histoire.json", "badge_noms.json", "badge_systeme.json"]
+    b = json.loads((sortie / "badge.json").read_text(encoding="utf-8"))
     assert b["schemaVersion"] == 1 and b["message"] == "50 %"
-    assert (dossier / "badge_histoire.json").exists()
+    # SUIVI.md vit sur la branche « suivi » : ses liens visent main
+    suivi = (sortie / "SUIVI.md").read_text(encoding="utf-8")
+    assert f"]({stats.DEPOT}/blob/main/trad/histoire/e000)" in suivi
+    assert "2 / 4 textes" in suivi
+
+
+def test_carte_svg(tmp_path):
+    c = stats.compter(_trad(tmp_path))
+    svg = stats.carte(c)
+    racine = ET.fromstring(svg)                      # SVG bien formé
+    assert racine.tag.endswith("svg")
+    for nom in ("Histoire", "Donjons", "Combat", "Système", "Noms"):
+        assert nom in svg
+    assert "prefers-reduced-motion" in svg
