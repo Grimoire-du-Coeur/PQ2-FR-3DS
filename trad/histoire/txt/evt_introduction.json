@@ -102,7 +102,7 @@
   {
     "id": "evt_intro_P5HERO",
     "en": "My codename is \"Joker.\" I'm a second-{SAUT}year at Shujin High and the leader of{SAUT}the Phantom Thieves.{SAUT}I'm currently living above Cafe Leblanc.{SAUT}I've been put on probation due to{SAUT}a false accusation leveled against me.",
-    "fr": ""
+    "fr": "Mon nom de code est \"Joker.\" Je suis en{SAUT}seconde année au Lycée Shujin et{SAUT}le chef des Voleurs Fantômes.{SAUT}Je vis actuellement au café Leblanc.{SAUT}Je suis en probation à la suite d'une{SAUT}fausse accusation portée contre moi."
   },
   {
     "id": "evt_intro_RYUJI",
@@ -132,7 +132,7 @@
   {
     "id": "evt_intro_FUTABA",
     "en": "Codename: Oracle.{SAUT}Foster daughter of the Boss who is{SAUT}currently providing my lodgings.{SAUT}Hacker extraordinaire and former{SAUT}shut-in. Very shy around strangers.",
-    "fr": ""
+    "fr": "Nom de code : Oracle.{SAUT}Fille adoptive du Patron qui{SAUT}m'héberge actuellement. Hackeuse{SAUT}extraordinaire et ancienne recluse.{SAUT}Très timide avec les inconnus."
   },
   {
     "id": "evt_intro_HARU",
