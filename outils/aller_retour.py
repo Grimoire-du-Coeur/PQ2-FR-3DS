@@ -12,6 +12,9 @@ réécrit sans rien traduire et compare au fichier d'origine :
 - échec : tout le reste. Il faut alors corriger msg1.py ou flw0.py avant
   d'injecter la moindre traduction.
 
+Chaque page est aussi passée par le texte lisible de trad/ (texte.py) :
+découpée, décodée, réencodée, recollée. Elle doit redonner les mêmes octets.
+
 À relancer après toute modification de ces deux modules. Ne lit que l'image
 du joueur ; rien n'est écrit.
 """
@@ -26,6 +29,7 @@ from pathlib import Path
 import commun  # noqa: F401  (console en UTF-8)
 import flw0
 import msg1
+import texte
 from cpk import Cpk
 from rom3ds import ErreurImage, localiser_data_cpk
 
@@ -36,8 +40,24 @@ class Bilan:
     identiques: int = 0
     sans_messages: int = 0
     messages: int = 0
+    pages: int = 0
     equivalents: list[str] = field(default_factory=list)
     echecs: list[tuple[str, str]] = field(default_factory=list)
+
+
+def _controler_pages(chemin: str, script: msg1.ScriptMessages, bilan: Bilan) -> None:
+    for m in script.messages:
+        for k, page in enumerate(m.pages):
+            bilan.pages += 1
+            prefixe, lisible, suffixe = texte.decouper_page(page)
+            try:
+                recollee = prefixe + texte.encoder_texte(lisible) + suffixe
+            except texte.ErreurTexte as e:
+                bilan.echecs.append((chemin, f"{m.nom} page {k + 1} : {e}"))
+                continue
+            if recollee != page:
+                bilan.echecs.append((chemin, f"{m.nom} page {k + 1} : le texte lisible ne "
+                                             "redonne pas la page"))
 
 
 def _contenu(script: msg1.ScriptMessages) -> list:
@@ -72,6 +92,7 @@ def _controler(chemin: str, donnees: bytes, bilan: Bilan) -> None:
 
     script = msg1.lire_msg1(script_brut)
     bilan.messages += len(script.messages)
+    _controler_pages(chemin, script, bilan)
     sortie = reconstruire(script)
     if sortie == donnees:
         bilan.identiques += 1
@@ -108,7 +129,7 @@ def main() -> int:
     except ErreurImage as e:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
-    print(f"{bilan.fichiers} scripts (.bmd + .bf), {bilan.messages} messages")
+    print(f"{bilan.fichiers} scripts (.bmd + .bf), {bilan.messages} messages, {bilan.pages} pages")
     print(f"  identiques   : {bilan.identiques}")
     print(f"  sans messages: {bilan.sans_messages}")
     print(f"  équivalents  : {len(bilan.equivalents)}")

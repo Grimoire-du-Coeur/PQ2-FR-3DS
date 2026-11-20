@@ -24,6 +24,7 @@ def test_tout_identique(tmp_path):
     bilan = aller_retour.verifier(image)
     assert (bilan.fichiers, bilan.identiques, bilan.sans_messages) == (3, 2, 1)
     assert bilan.messages == 4
+    assert bilan.pages == 10          # 2 pages + 3 options, dans deux scripts
     assert bilan.equivalents == [] and bilan.echecs == []
 
 
