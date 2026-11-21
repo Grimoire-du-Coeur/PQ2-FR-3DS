@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MSG_NAME_ENTRY_HERO",
+    "en": "Enter the protagonist's name.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NAME_ENTRY_GUEST",
+    "en": "Enter his name.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NAME_ENTRY_HELP",
+    "en": "Tap the keyboard below to enter the{SAUT}protagonist's name (First/Last).",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NAME_ENTRY_GUEST_HEL",
+    "en": "Tap the keyboard below to enter his{SAUT}name (First/Last).",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NOTEBOOKINPUT_NAME_H",
+    "en": "Tap the keyboard below to enter your{SAUT}P-Book name.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NOTEBOOKINPUT_WORD_H",
+    "en": "Tap the keyboard below to input a{SAUT}message.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NAME_ENTRY_GUEST_P3",
+    "en": "Enter his name.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NAME_ENTRY_GUEST_P4",
+    "en": "Enter his name.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NAME_ENTRY_GUEST_P3G",
+    "en": "Enter her name.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NAME_ENTRY_GUEST_HEL#2",
+    "en": "Tap the keyboard below to enter his{SAUT}name (First/Last).",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NAME_ENTRY_GUEST_HEL#3",
+    "en": "Tap the keyboard below to enter his{SAUT}name (First/Last).",
+    "fr": ""
+  },
+  {
+    "id": "MSG_NAME_ENTRY_GUEST_HEL#4",
+    "en": "Tap the keyboard below to enter her{SAUT}name (First/Last).",
+    "fr": ""
+  }
+]

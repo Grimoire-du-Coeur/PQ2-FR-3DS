@@ -29,15 +29,19 @@ import sys
 from pathlib import Path
 
 import commun
+import ctd
+import executable
 import flw0
 import memoire
 import msg1
+import noms
 import pak
+import tables
 import texte
-from catalogue import Script, identifiants, lire_scripts
+from catalogue import Script, chemin_trad, identifiants, lire_fichiers, lire_scripts
 from cpk import Cpk, patcher_cpk
 from extraire import LOCUTEURS
-from rom3ds import TITLE_ID_EU, ErreurImage, localiser_data_cpk
+from rom3ds import TITLE_ID_EU, ErreurImage, PasDeCode, lire_code, localiser_data_cpk
 
 SORTIE = commun.BUILD / "romfs" / "data.cpk"
 adapter = texte.adapter
@@ -127,6 +131,88 @@ def _injecter(scripts: list[Script], trad: Path) -> tuple[dict[str, bytes], int]
     return sortie, traduits
 
 
+def _traductions(trad: Path, rel: str) -> dict[str, str]:
+    p = trad / rel
+    return {e["en"]: e["fr"] for e in commun.lire_json(p) if e.get("fr")} if p.exists() else {}
+
+
+def table_fixe(brut: bytes, trad: Path, table: noms.TableFixe = noms.OBJETS) -> bytes | None:
+    """La table avec les noms de son JSON (trad/noms/objets.json…) ; None s'il n'y en a aucun."""
+    traductions = _traductions(trad, table.trad)
+    if not traductions:
+        return None
+    try:
+        return noms.ecrire_noms(brut, traductions, table)
+    except (noms.ErreurNom, texte.ErreurTexte) as e:
+        raise ErreurInjection(str(e)) from None
+
+
+def tables_de_noms(bruts: dict[str, bytes], trad: Path) -> dict[str, bytes]:
+    """Les tables de tables.TABLES qui changent. Une compétence au nom d'objet
+    prend sa traduction dans trad/noms/objets.json (« Rudra Ring »)."""
+    objets = _traductions(trad, noms.OBJETS.trad)
+    sortie = {}
+    for chemin, brut in bruts.items():
+        traductions = {**(objets if chemin == tables.COMPETENCES else {}),
+                       **_traductions(trad, tables.TABLES[chemin])}
+        if not traductions:
+            continue
+        try:
+            nouveau = tables.traduire(brut, traductions)
+        except (tables.ErreurTable, texte.ErreurTexte) as e:
+            raise ErreurInjection(f"{tables.TABLES[chemin]} : {e}") from None
+        if nouveau != brut:
+            sortie[chemin] = nouveau
+    return sortie
+
+
+def tables_ctd(conteneur: bytes, trad: Path) -> bytes | None:
+    """cmptable.bin avec les textes de ses tables .ctd traduits ; None si rien ne change.
+
+    ``conteneur`` est l'archive telle qu'elle sort de la réinjection des
+    scripts du camp : les deux traductions s'ajoutent.
+    """
+    refaites = {}
+    for nom, brut in ctd.tables(conteneur).items():
+        rel = chemin_trad(f"{ctd.CONTENEUR}/{nom}")
+        p = trad / rel
+        if not p.exists():
+            continue
+        traductions = {int(e["id"]): e["fr"] for e in commun.lire_json(p) if e.get("fr")}
+        if not traductions:
+            continue
+        try:
+            refaites[nom] = ctd.ecrire(brut, traductions)
+        except (ctd.ErreurCtd, texte.ErreurTexte) as e:
+            raise ErreurInjection(f"{rel} : {e}") from None
+    return pak.remplacer(conteneur, refaites) if refaites else None
+
+
+def chemin_ips(sortie: Path) -> Path:
+    """code.ips à la racine du dossier du titre, à côté de romfs/ : c'est là que le
+    cherchent Azahar (load/mods/<title ID>/code.ips) et Luma3DS
+    (/luma/titles/<title ID>/code.ips)."""
+    return sortie.parent.parent / "code.ips"
+
+
+def patch_code(image: Path, trad: Path) -> bytes | None:
+    """Patch IPS des textes de l'exécutable ; None s'il n'y a rien à patcher ou pas de code."""
+    p = trad / executable.TRAD
+    traductions = {e["id"]: e["fr"] for e in commun.lire_json(p) if e.get("fr")} if p.exists() else {}
+    if not traductions:
+        return None
+    try:
+        code = lire_code(image)
+    except PasDeCode:
+        print("Note : sans l'image complète (.3ds), les textes de l'exécutable ne sont pas patchés.",
+              file=sys.stderr)
+        return None
+    try:
+        return executable.ips(code, executable.traduire(code, traductions))
+    except (executable.ErreurExecutable, texte.ErreurTexte) as e:
+        raise ErreurInjection(str(e)) from None
+
+
 def remplacements(scripts: list[Script], trad: Path) -> dict[str, bytes]:
     """Chemin dans le CPK → fichier reconstruit, pour les seuls scripts qui changent."""
     return _injecter(scripts, trad)[0]
@@ -160,11 +246,34 @@ def construire(image: Path, trad: Path, sortie: Path) -> tuple[int, int]:
     """Écrit le data.cpk français ; rend (fichiers modifiés, messages traduits)."""
     scripts = lire_scripts(image)
     nouveaux, traduits = _injecter(scripts, trad)
+    bruts = lire_fichiers(image, [*(t.chemin for t in noms.TABLES_FIXES), *tables.TABLES, ctd.CONTENEUR])
+    for t in noms.TABLES_FIXES:
+        nouveau = table_fixe(bruts.pop(t.chemin), trad, t) if t.chemin in bruts else None
+        if nouveau is not None:
+            nouveaux[t.chemin] = nouveau
+    cmptable = nouveaux.get(ctd.CONTENEUR) or bruts.pop(ctd.CONTENEUR, None)
+    bruts.pop(ctd.CONTENEUR, None)
+    nouveaux.update(tables_de_noms(bruts, trad))
+    if cmptable is not None:
+        nouveau = tables_ctd(cmptable, trad)
+        if nouveau is not None:
+            nouveaux[ctd.CONTENEUR] = nouveau
     position, taille = localiser_data_cpk(image)
     if not _copie_valide(image, position, taille, sortie):
         _copier_cpk(image, position, taille, sortie)
     patcher_cpk(sortie, taille, nouveaux)
+    ips, cible = patch_code(image, trad), chemin_ips(sortie)
+    if ips is not None:
+        cible.parent.mkdir(parents=True, exist_ok=True)
+        cible.write_bytes(ips)
+    elif cible.exists() and _sans_traduction(trad):
+        cible.unlink()                      # plus rien à patcher : pas de patch périmé
     return len(nouveaux), traduits
+
+
+def _sans_traduction(trad: Path) -> bool:
+    p = trad / executable.TRAD
+    return not p.exists() or not any(e.get("fr") for e in commun.lire_json(p))
 
 
 def main() -> int:
@@ -179,11 +288,13 @@ def main() -> int:
     sortie = dossier_azahar() / "data.cpk" if args.azahar else args.sortie
     try:
         fichiers, messages = construire(args.image, args.trad, sortie)
-    except (ErreurImage, ErreurInjection) as e:
+    except (ErreurImage, ErreurInjection, noms.ErreurNom, tables.ErreurTable, ctd.ErreurCtd) as e:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
     print(f"{messages} message(s) traduit(s) dans {fichiers} fichier(s).")
     print(f"→ {sortie}")
+    if chemin_ips(sortie).exists():
+        print(f"→ {chemin_ips(sortie)}  (textes de l'exécutable)")
     return 0
 
 

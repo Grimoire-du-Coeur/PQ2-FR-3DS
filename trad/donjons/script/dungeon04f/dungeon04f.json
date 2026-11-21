@@ -1,0 +1,12 @@
+[
+  {
+    "id": "MSG_SAVEPOINT_TUTORIAL_0",
+    "en": "A mysterious light is shining here...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SAVEPOINT_TUTORIAL_1",
+    "en": "Here, you can {f 0 1 2}save{f 0 1 0} your game or{SAUT}{f 0 1 2}leave the labyrinth{f 0 1 0}.",
+    "fr": ""
+  }
+]

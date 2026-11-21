@@ -3,7 +3,11 @@
 import struct
 
 import aller_retour
-from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1, fabriquer_pak
+import executable
+import msg1
+import noms
+from fabrique import (fabriquer_3ds, fabriquer_bf, fabriquer_code, fabriquer_cpk, fabriquer_ctd, fabriquer_itemtbl, fabriquer_msg1,
+                      fabriquer_pak, fabriquer_table_noms)
 
 MSG = fabriquer_msg1()
 
@@ -52,3 +56,58 @@ def test_archive_a_scripts_inconnue(tmp_path):
     bilan = aller_retour.verifier(_image(tmp_path, {
         "init/nouvelle.arc": fabriquer_pak([("aide.bmd", MSG)])}))
     assert ("init/nouvelle.arc", "archive à scripts absente de catalogue.ARCHIVES") in bilan.echecs
+
+
+def test_table_des_noms_d_objets(tmp_path):
+    table = fabriquer_itemtbl("NULL", "Medicine", "Medicine")
+    bilan = aller_retour.verifier(_image(tmp_path, {noms.OBJETS.chemin: table}))
+    assert bilan.noms == 1 and bilan.echecs == []
+    bilan = aller_retour.verifier(_image(tmp_path, {noms.OBJETS.chemin: table[:-1]}))
+    assert [chemin for chemin, _ in bilan.echecs] == [noms.OBJETS.chemin]
+
+
+def test_tables_de_noms_du_combat(tmp_path):
+    bilan = aller_retour.verifier(_image(tmp_path, {
+        "battle/table/skillnametable.tbl": fabriquer_table_noms(["Blank", "Agi", "Brand☆New☆Bam"]),
+        "battle/table/personanametable.tbl": fabriquer_table_noms(["BLANK", "Pixie"], debuts=False)}))
+    assert bilan.noms == 3 and bilan.echecs == []
+    bilan = aller_retour.verifier(_image(tmp_path, {
+        "battle/table/personanametable.tbl": fabriquer_table_noms(["BLANK", "Pixie"])[:-1]}))
+    assert [chemin for chemin, _ in bilan.echecs] == ["battle/table/personanametable.tbl"]
+
+
+def test_conteneur_gsd_inconnu(tmp_path):
+    bilan = aller_retour.verifier(_image(tmp_path, {
+        "quest/quest_99.gsd": fabriquer_pak([("quest_99.tbl", b"table"), ("quest_99.bf", fabriquer_bf(MSG))])}))
+    assert ("quest/quest_99.gsd", "archive à scripts absente de catalogue.ARCHIVES") not in bilan.echecs
+    bilan = aller_retour.verifier(_image(tmp_path, {
+        "misc/inconnu.gsd": fabriquer_pak([("x.bf", fabriquer_bf(MSG))])}))
+    assert ("misc/inconnu.gsd", "archive à scripts absente de catalogue.ARCHIVES") in bilan.echecs
+
+
+def test_archive_en_japonais_ignoree(tmp_path):
+    script = msg1.lire_msg1(MSG)
+    for m in script.messages:
+        m.pages = [p if k else "テスト".encode("cp932") + b"\0" for k, p in enumerate(m.pages[:1])]
+    japonais = msg1.ecrire_msg1(script)
+    bilan = aller_retour.verifier(_image(tmp_path, {
+        "battle/result/persona_get.bin": fabriquer_pak([("persona_get.bmd", japonais)])}))
+    assert bilan.echecs == []
+
+
+def test_tables_ctd(tmp_path):
+    cmptable = fabriquer_pak([("camp_msg.bmd", MSG), ("cmpConfigItem.ctd", fabriquer_ctd(["Confirm", "BGM Volume"])),
+                              ("cmpTypeID_ITEM.ctd", fabriquer_ctd(nombres=bytes(16)))])
+    bilan = aller_retour.verifier(_image(tmp_path, {"init/cmptable.bin": cmptable}))
+    assert bilan.textes_ctd == 2 and bilan.echecs == []
+
+
+def test_messages_de_l_executable(tmp_path, monkeypatch):
+    code, d = fabriquer_code([b"\xf2\x05\xff\xff\xf1ASave data?\n", b"\xf2\x05\xff\xff\xf1AYes\nNo\n"])
+    monkeypatch.setattr(executable, "EU", d)
+    image = tmp_path / "jeu.3ds"
+    image.write_bytes(fabriquer_3ds(fabriquer_cpk({"init/aide.bmd": MSG}), code=code))
+    bilan = aller_retour.verifier(image)
+    assert bilan.textes_code == 2 and bilan.echecs == []
+    image.write_bytes(fabriquer_3ds(fabriquer_cpk({"init/aide.bmd": MSG}), code=code + b"\0"))
+    assert [c for c, _ in aller_retour.verifier(image).echecs] == ["exefs/.code"]

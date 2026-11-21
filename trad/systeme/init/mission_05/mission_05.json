@@ -1,0 +1,49 @@
+[
+  {
+    "id": "MSG_MISSION",
+    "en": "Test Mission 00",
+    "fr": ""
+  },
+  {
+    "id": "MSG_STAFFROLL",
+    "en": "Ending credits start here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_CLEAR_DATA_SAVE",
+    "en": "Cleared save data added here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_BACK_TO_TITLE",
+    "en": "Return to title screen here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_DEBUG_SKIP",
+    "en": "Skip the boss battle?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_DEBUG_SKIP",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "MSG_DEBUG_SKIP_ON",
+    "en": "Skipping the boss battle and returning to movie theater.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_DEBUG_SKIP_ENDING",
+    "en": "Skip the ending?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_DEBUG_SKIP_ENDING",
+    "choix": true,
+    "en": "Yes{OPTION}Go to until Hikari disappears through door{OPTION}Go until P5 Protag demo{OPTION}Go until each Protag's endings{OPTION}Go to ending credits{OPTION}Go to P5 Protag's ending",
+    "fr": ""
+  }
+]

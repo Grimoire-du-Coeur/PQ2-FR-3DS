@@ -6,6 +6,7 @@ import catalogue
 import commun
 import extraire
 import msg1
+import noms
 from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1, fabriquer_pak
 
 JAPONAIS = msg1.Message("jp_c", False, 0xFFFF, ["テスト".encode("cp932") + b"\0"])
@@ -123,3 +124,30 @@ def test_ecrire_puis_verifier(tmp_path):
     assert extraire.differences(fichiers, orphelins, racine) == []
     (racine / "systeme/init/aide.json").write_text("[]\n", encoding="utf-8")
     assert extraire.differences(fichiers, orphelins, racine) == ["systeme/init/aide.json"]
+
+
+def test_noms_d_objets(tmp_path):
+    objets = noms.OBJETS.trad
+    anciennes = {(objets, "Medicine"): {"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"}}
+    fichiers, orphelins, _ = extraire.construire(_scripts(tmp_path), anciennes,
+                                                 listes={objets: ["Rebel Knife", "Medicine"]})
+    assert fichiers[objets] == [{"id": "Rebel Knife", "en": "Rebel Knife", "max": 21, "fr": ""},
+                                {"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"}]
+    assert orphelins == []
+
+
+def test_noms_des_tables_de_combat(tmp_path):
+    anciennes = {("noms/personas.json", "Pixie"): {"id": "Pixie", "en": "Pixie", "fr": "Pixie"}}
+    fichiers, _, _ = extraire.construire(_scripts(tmp_path), anciennes,
+                                         listes={"noms/personas.json": ["Pixie", "Jack Frost"]})
+    assert fichiers["noms/personas.json"] == [{"id": "Pixie", "en": "Pixie", "fr": "Pixie"},
+                                              {"id": "Jack Frost", "en": "Jack Frost", "fr": ""}]
+
+
+def test_tables_ctd(tmp_path):
+    rel = "systeme/init/cmptable/cmpConfigItem.json"
+    anciennes = {(rel, "00"): {"id": "00", "en": "Confirm", "max": 63, "fr": "Valider"}}
+    fichiers, _, _ = extraire.construire(_scripts(tmp_path), anciennes, tableaux={rel: [
+        {"id": "00", "en": "Confirm", "max": 63}, {"id": "01", "en": "BGM Volume", "max": 63}]})
+    assert fichiers[rel] == [{"id": "00", "en": "Confirm", "max": 63, "fr": "Valider"},
+                             {"id": "01", "en": "BGM Volume", "max": 63, "fr": ""}]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "MSG_get_on_foe_look",
+    "en": "＞FOEがせりに乗っているのを見る",
+    "fr": ""
+  },
+  {
+    "id": "MSG_GET_TRESURE_ITEM",
+    "en": "It looks like something's buried here...",
+    "fr": ""
+  },
+  {
+    "id": "BAG_FULL",
+    "en": "It looks like something's buried here,{SAUT}but my bag is full...{PAGE}I'll return when I have more space...",
+    "fr": ""
+  }
+]

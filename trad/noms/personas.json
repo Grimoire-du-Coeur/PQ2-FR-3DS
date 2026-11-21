@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "Slime",
+    "en": "Slime",
+    "fr": ""
+  },
+  {
+    "id": "Ame-no-Uzume",
+    "en": "Ame-no-Uzume",
+    "fr": ""
+  },
+  {
+    "id": "Legion",
+    "en": "Legion",
+    "fr": ""
+  },
+  {
+    "id": "Ose",
+    "en": "Ose",
+    "fr": ""
+  },
+  {
+    "id": "Black Frost",
+    "en": "Black Frost",
+    "fr": ""
+  },
+  {
+    "id": "Decarabia",
+    "en": "Decarabia",
+    "fr": ""
+  },
+  {
+    "id": "Shiki-Ouji",
+    "en": "Shiki-Ouji",
+    "fr": ""
+  },
+  {
+    "id": "Agathion",
+    "en": "Agathion",
+    "fr": ""
+  },
+  {
+    "id": "Orobas",
+    "en": "Orobas",
+    "fr": ""
+  },
+  {
+    "id": "Jack Frost",
+    "en": "Jack Frost",
+    "fr": ""
+  },
+  {
+    "id": "Hua Po",
+    "en": "Hua Po",
+    "fr": ""
+  },
+  {
+    "id": "Pyro Jack",
+    "en": "Pyro Jack",
+    "fr": ""
+  },
+  {
+    "id": "Dis",
+    "en": "Dis",
+    "fr": ""
+  },
+  {
+    "id": "Rangda",
+    "en": "Rangda",
+    "fr": ""
+  },
+  {
+    "id": "Jinn",
+    "en": "Jinn",
+    "fr": ""
+  },
+  {
+    "id": "Surt",
+    "en": "Surt",
+    "fr": ""
+  },
+  {
+    "id": "Mada",
+    "en": "Mada",
+    "fr": ""
+  },
+  {
+    "id": "Koropokkur",
+    "en": "Koropokkur",
+    "fr": ""
+  },
+  {
+    "id": "Sarasvati",
+    "en": "Sarasvati",
+    "fr": ""
+  },
+  {
+    "id": "High Pixie",
+    "en": "High Pixie",
+    "fr": ""
+  },
+  {
+    "id": "Ganga",
+    "en": "Ganga",
+    "fr": ""
+  },
+  {
+    "id": "Parvati",
+    "en": "Parvati",
+    "fr": ""
+  },
+  {
+    "id": "Kikuri-Hime",
+    "en": "Kikuri-Hime",
+    "fr": ""
+  },
+  {
+    "id": "Hariti",
+    "en": "Hariti",
+    "fr": ""
+  },
+  {
+    "id": "Tzitzimitl",
+    "en": "Tzitzimitl",
+    "fr": ""
+  },
+  {
+    "id": "Scathach",
+    "en": "Scathach",
+    "fr": ""
+  },
+  {
+    "id": "Yaksini",
+    "en": "Yaksini",
+    "fr": ""
+  },
+  {
+    "id": "Titania",
+    "en": "Titania",
+    "fr": ""
+  },
+  {
+    "id": "Gorgon",
+    "en": "Gorgon",
+    "fr": ""
+  },
+  {
+    "id": "Gabriel",
+    "en": "Gabriel",
+    "fr": ""
+  },
+  {
+    "id": "Skadi",
+    "en": "Skadi",
+    "fr": ""
+  },
+  {
+    "id": "Mother Harlot",
+    "en": "Mother Harlot",
+    "fr": ""
+  },
+  {
+    "id": "Laksmi",
+    "en": "Laksmi",
+    "fr": ""
+  },
+  {
+    "id": "Oberon",
+    "en": "Oberon",
+    "fr": ""
+  },
+  {
+    "id": "King Frost",
+    "en": "King Frost",
+    "fr": ""
+  },
+  {
+    "id": "Setanta",
+    "en": "Setanta",
+    "fr": ""
+  },
+  {
+    "id": "Mezuki",
+    "en": "Mezuki",
+    "fr": ""
+  },
+  {
+    "id": "Oukuninushi",
+    "en": "Oukuninushi",
+    "fr": ""
+  },
+  {
+    "id": "Thoth",
+    "en": "Thoth",
+    "fr": ""
+  },
+  {
+    "id": "Ouyamatsumi",
+    "en": "Ouyamatsumi",
+    "fr": ""
+  },
+  {
+    "id": "Pabilsag",
+    "en": "Pabilsag",
+    "fr": ""
+  },
+  {
+    "id": "Kingu",
+    "en": "Kingu",
+    "fr": ""
+  },
+  {
+    "id": "Barong",
+    "en": "Barong",
+    "fr": ""
+  },
+  {
+    "id": "Odin",
+    "en": "Odin",
+    "fr": ""
+  },
+  {
+    "id": "Anzu",
+    "en": "Anzu",
+    "fr": ""
+  },
+  {
+    "id": "Shiisaa",
+    "en": "Shiisaa",
+    "fr": ""
+  },
+  {
+    "id": "Unicorn",
+    "en": "Unicorn",
+    "fr": ""
+  },
+  {
+    "id": "Gozuki",
+    "en": "Gozuki",
+    "fr": ""
+  },
+  {
+    "id": "Flauros",
+    "en": "Flauros",
+    "fr": ""
+  },
+  {
+    "id": "Daisoujou",
+    "en": "Daisoujou",
+    "fr": ""
+  },
+  {
+    "id": "Hachiman",
+    "en": "Hachiman",
+    "fr": ""
+  },
+  {
+    "id": "Kohryu",
+    "en": "Kohryu",
+    "fr": ""
+  },
+  {
+    "id": "Pixie",
+    "en": "Pixie",
+    "fr": ""
+  },
+  {
+    "id": "Alp",
+    "en": "Alp",
+    "fr": ""
+  },
+  {
+    "id": "Moh Shuvuu",
+    "en": "Moh Shuvuu",
+    "fr": ""
+  },
+  {
+    "id": "Queen Mab",
+    "en": "Queen Mab",
+    "fr": ""
+  },
+  {
+    "id": "Leanan Sidhe",
+    "en": "Leanan Sidhe",
+    "fr": ""
+  },
+  {
+    "id": "Raphael",
+    "en": "Raphael",
+    "fr": ""
+  },
+  {
+    "id": "Cybele",
+    "en": "Cybele",
+    "fr": ""
+  },
+  {
+    "id": "Ishtar",
+    "en": "Ishtar",
+    "fr": ""
+  },
+  {
+    "id": "Nata Taishi",
+    "en": "Nata Taishi",
+    "fr": ""
+  },
+  {
+    "id": "Chimera",
+    "en": "Chimera",
+    "fr": ""
+  },
+  {
+    "id": "Eligor",
+    "en": "Eligor",
+    "fr": ""
+  },
+  {
+    "id": "Ares",
+    "en": "Ares",
+    "fr": ""
+  },
+  {
+    "id": "Oumitsunu",
+    "en": "Oumitsunu",
+    "fr": ""
+  },
+  {
+    "id": "Triglav",
+    "en": "Triglav",
+    "fr": ""
+  },
+  {
+    "id": "Thor",
+    "en": "Thor",
+    "fr": ""
+  },
+  {
+    "id": "Ophanim",
+    "en": "Ophanim",
+    "fr": ""
+  },
+  {
+    "id": "Atavaka",
+    "en": "Atavaka",
+    "fr": ""
+  },
+  {
+    "id": "Futsunushi",
+    "en": "Futsunushi",
+    "fr": ""
+  },
+  {
+    "id": "Angel",
+    "en": "Angel",
+    "fr": ""
+  },
+  {
+    "id": "Power",
+    "en": "Power",
+    "fr": ""
+  },
+  {
+    "id": "Virtue",
+    "en": "Virtue",
+    "fr": ""
+  },
+  {
+    "id": "Throne",
+    "en": "Throne",
+    "fr": ""
+  },
+  {
+    "id": "Uriel",
+    "en": "Uriel",
+    "fr": ""
+  },
+  {
+    "id": "Melchizedek",
+    "en": "Melchizedek",
+    "fr": ""
+  },
+  {
+    "id": "Sraosha",
+    "en": "Sraosha",
+    "fr": ""
+  },
+  {
+    "id": "Azumi",
+    "en": "Azumi",
+    "fr": ""
+  },
+  {
+    "id": "Ippon-Datara",
+    "en": "Ippon-Datara",
+    "fr": ""
+  },
+  {
+    "id": "Mothman",
+    "en": "Mothman",
+    "fr": ""
+  },
+  {
+    "id": "Hitokotonusi",
+    "en": "Hitokotonusi",
+    "fr": ""
+  },
+  {
+    "id": "Kurama Tengu",
+    "en": "Kurama Tengu",
+    "fr": ""
+  },
+  {
+    "id": "Niddhoggr",
+    "en": "Niddhoggr",
+    "fr": ""
+  },
+  {
+    "id": "Nebiros",
+    "en": "Nebiros",
+    "fr": ""
+  },
+  {
+    "id": "Arahabaki",
+    "en": "Arahabaki",
+    "fr": ""
+  },
+  {
+    "id": "Ongyo-ki",
+    "en": "Ongyo-ki",
+    "fr": ""
+  },
+  {
+    "id": "Empusa",
+    "en": "Empusa",
+    "fr": ""
+  },
+  {
+    "id": "Raiju",
+    "en": "Raiju",
+    "fr": ""
+  },
+  {
+    "id": "Fortuna",
+    "en": "Fortuna",
+    "fr": ""
+  },
+  {
+    "id": "Clotho",
+    "en": "Clotho",
+    "fr": ""
+  },
+  {
+    "id": "Lachesis",
+    "en": "Lachesis",
+    "fr": ""
+  },
+  {
+    "id": "Ananta",
+    "en": "Ananta",
+    "fr": ""
+  },
+  {
+    "id": "Atropos",
+    "en": "Atropos",
+    "fr": ""
+  },
+  {
+    "id": "Norn",
+    "en": "Norn",
+    "fr": ""
+  },
+  {
+    "id": "Pazuzu",
+    "en": "Pazuzu",
+    "fr": ""
+  },
+  {
+    "id": "Sandman",
+    "en": "Sandman",
+    "fr": ""
+  },
+  {
+    "id": "Valkyrie",
+    "en": "Valkyrie",
+    "fr": ""
+  },
+  {
+    "id": "Rakshasa",
+    "en": "Rakshasa",
+    "fr": ""
+  },
+  {
+    "id": "Tsuchigumo",
+    "en": "Tsuchigumo",
+    "fr": ""
+  },
+  {
+    "id": "Oni",
+    "en": "Oni",
+    "fr": ""
+  },
+  {
+    "id": "Hanuman",
+    "en": "Hanuman",
+    "fr": ""
+  },
+  {
+    "id": "Siegfried",
+    "en": "Siegfried",
+    "fr": ""
+  },
+  {
+    "id": "Kali",
+    "en": "Kali",
+    "fr": ""
+  },
+  {
+    "id": "Zaou-Gongen",
+    "en": "Zaou-Gongen",
+    "fr": ""
+  },
+  {
+    "id": "Onmoraki",
+    "en": "Onmoraki",
+    "fr": ""
+  },
+  {
+    "id": "Berith",
+    "en": "Berith",
+    "fr": ""
+  },
+  {
+    "id": "Ikusa",
+    "en": "Ikusa",
+    "fr": ""
+  },
+  {
+    "id": "Orthrus",
+    "en": "Orthrus",
+    "fr": ""
+  },
+  {
+    "id": "Yatsufusa",
+    "en": "Yatsufusa",
+    "fr": ""
+  },
+  {
+    "id": "Basilisk",
+    "en": "Basilisk",
+    "fr": ""
+  },
+  {
+    "id": "Hell Biker",
+    "en": "Hell Biker",
+    "fr": ""
+  },
+  {
+    "id": "Vasuki",
+    "en": "Vasuki",
+    "fr": ""
+  },
+  {
+    "id": "Attis",
+    "en": "Attis",
+    "fr": ""
+  },
+  {
+    "id": "Mokoi",
+    "en": "Mokoi",
+    "fr": ""
+  },
+  {
+    "id": "Turdak",
+    "en": "Turdak",
+    "fr": ""
+  },
+  {
+    "id": "Matador",
+    "en": "Matador",
+    "fr": ""
+  },
+  {
+    "id": "White Rider",
+    "en": "White Rider",
+    "fr": ""
+  },
+  {
+    "id": "Samael",
+    "en": "Samael",
+    "fr": ""
+  },
+  {
+    "id": "Mot",
+    "en": "Mot",
+    "fr": ""
+  },
+  {
+    "id": "Pale Rider",
+    "en": "Pale Rider",
+    "fr": ""
+  },
+  {
+    "id": "Alice",
+    "en": "Alice",
+    "fr": ""
+  },
+  {
+    "id": "Mahakala",
+    "en": "Mahakala",
+    "fr": ""
+  },
+  {
+    "id": "Apsaras",
+    "en": "Apsaras",
+    "fr": ""
+  },
+  {
+    "id": "Xiezhai",
+    "en": "Xiezhai",
+    "fr": ""
+  },
+  {
+    "id": "Mithra",
+    "en": "Mithra",
+    "fr": ""
+  },
+  {
+    "id": "Genbu",
+    "en": "Genbu",
+    "fr": ""
+  },
+  {
+    "id": "Seiryu",
+    "en": "Seiryu",
+    "fr": ""
+  },
+  {
+    "id": "Suzaku",
+    "en": "Suzaku",
+    "fr": ""
+  },
+  {
+    "id": "Byakko",
+    "en": "Byakko",
+    "fr": ""
+  },
+  {
+    "id": "Vishnu",
+    "en": "Vishnu",
+    "fr": ""
+  },
+  {
+    "id": "Ukobach",
+    "en": "Ukobach",
+    "fr": ""
+  },
+  {
+    "id": "Incubus",
+    "en": "Incubus",
+    "fr": ""
+  },
+  {
+    "id": "Succubus",
+    "en": "Succubus",
+    "fr": ""
+  },
+  {
+    "id": "Lilith",
+    "en": "Lilith",
+    "fr": ""
+  },
+  {
+    "id": "Belphegor",
+    "en": "Belphegor",
+    "fr": ""
+  },
+  {
+    "id": "Belial",
+    "en": "Belial",
+    "fr": ""
+  },
+  {
+    "id": "Astaroth",
+    "en": "Astaroth",
+    "fr": ""
+  },
+  {
+    "id": "Beelzebub",
+    "en": "Beelzebub",
+    "fr": ""
+  },
+  {
+    "id": "Cu Chulainn",
+    "en": "Cu Chulainn",
+    "fr": ""
+  },
+  {
+    "id": "Abaddon",
+    "en": "Abaddon",
+    "fr": ""
+  },
+  {
+    "id": "Mara",
+    "en": "Mara",
+    "fr": ""
+  },
+  {
+    "id": "Seiten Taisei",
+    "en": "Seiten Taisei",
+    "fr": ""
+  },
+  {
+    "id": "Yoshitsune",
+    "en": "Yoshitsune",
+    "fr": ""
+  },
+  {
+    "id": "Masakado",
+    "en": "Masakado",
+    "fr": ""
+  },
+  {
+    "id": "Shiva",
+    "en": "Shiva",
+    "fr": ""
+  },
+  {
+    "id": "Chi You",
+    "en": "Chi You",
+    "fr": ""
+  },
+  {
+    "id": "Kaiwan",
+    "en": "Kaiwan",
+    "fr": ""
+  },
+  {
+    "id": "Nue",
+    "en": "Nue",
+    "fr": ""
+  },
+  {
+    "id": "Neko Shogun",
+    "en": "Neko Shogun",
+    "fr": ""
+  },
+  {
+    "id": "Ganesha",
+    "en": "Ganesha",
+    "fr": ""
+  },
+  {
+    "id": "Garuda",
+    "en": "Garuda",
+    "fr": ""
+  },
+  {
+    "id": "Kartikeya",
+    "en": "Kartikeya",
+    "fr": ""
+  },
+  {
+    "id": "Saturnus",
+    "en": "Saturnus",
+    "fr": ""
+  },
+  {
+    "id": "Helel",
+    "en": "Helel",
+    "fr": ""
+  },
+  {
+    "id": "Andras",
+    "en": "Andras",
+    "fr": ""
+  },
+  {
+    "id": "Nozuchi",
+    "en": "Nozuchi",
+    "fr": ""
+  },
+  {
+    "id": "Orochi",
+    "en": "Orochi",
+    "fr": ""
+  },
+  {
+    "id": "Alraune",
+    "en": "Alraune",
+    "fr": ""
+  },
+  {
+    "id": "Girimehkala",
+    "en": "Girimehkala",
+    "fr": ""
+  },
+  {
+    "id": "Mishaguji",
+    "en": "Mishaguji",
+    "fr": ""
+  },
+  {
+    "id": "Chernobog",
+    "en": "Chernobog",
+    "fr": ""
+  },
+  {
+    "id": "Seth",
+    "en": "Seth",
+    "fr": ""
+  },
+  {
+    "id": "Baal Zebul",
+    "en": "Baal Zebul",
+    "fr": ""
+  },
+  {
+    "id": "Sandalphon",
+    "en": "Sandalphon",
+    "fr": ""
+  },
+  {
+    "id": "Cu Sith",
+    "en": "Cu Sith",
+    "fr": ""
+  },
+  {
+    "id": "Phoenix",
+    "en": "Phoenix",
+    "fr": ""
+  },
+  {
+    "id": "Yatagarasu",
+    "en": "Yatagarasu",
+    "fr": ""
+  },
+  {
+    "id": "Narasimha",
+    "en": "Narasimha",
+    "fr": ""
+  },
+  {
+    "id": "Tam Lin",
+    "en": "Tam Lin",
+    "fr": ""
+  },
+  {
+    "id": "Jatayu",
+    "en": "Jatayu",
+    "fr": ""
+  },
+  {
+    "id": "Suparna",
+    "en": "Suparna",
+    "fr": ""
+  },
+  {
+    "id": "Asura",
+    "en": "Asura",
+    "fr": ""
+  },
+  {
+    "id": "Red Rider",
+    "en": "Red Rider",
+    "fr": ""
+  },
+  {
+    "id": "Anubis",
+    "en": "Anubis",
+    "fr": ""
+  },
+  {
+    "id": "Black Rider",
+    "en": "Black Rider",
+    "fr": ""
+  },
+  {
+    "id": "Trumpeter",
+    "en": "Trumpeter",
+    "fr": ""
+  },
+  {
+    "id": "Michael",
+    "en": "Michael",
+    "fr": ""
+  },
+  {
+    "id": "Satan",
+    "en": "Satan",
+    "fr": ""
+  },
+  {
+    "id": "Metatron",
+    "en": "Metatron",
+    "fr": ""
+  },
+  {
+    "id": "Ardha",
+    "en": "Ardha",
+    "fr": ""
+  },
+  {
+    "id": "Lucifer",
+    "en": "Lucifer",
+    "fr": ""
+  },
+  {
+    "id": "Warrior Zeus",
+    "en": "Warrior Zeus",
+    "fr": ""
+  },
+  {
+    "id": "Zeus",
+    "en": "Zeus",
+    "fr": ""
+  },
+  {
+    "id": "Archangel",
+    "en": "Archangel",
+    "fr": ""
+  },
+  {
+    "id": "Alilat",
+    "en": "Alilat",
+    "fr": ""
+  },
+  {
+    "id": "Dominion",
+    "en": "Dominion",
+    "fr": ""
+  },
+  {
+    "id": "Loki",
+    "en": "Loki",
+    "fr": ""
+  },
+  {
+    "id": "Okuninushi",
+    "en": "Okuninushi",
+    "fr": ""
+  },
+  {
+    "id": "Thanatos",
+    "en": "Thanatos",
+    "fr": ""
+  },
+  {
+    "id": "Kaguya",
+    "en": "Kaguya",
+    "fr": ""
+  },
+  {
+    "id": "Magatsu-Izanagi",
+    "en": "Magatsu-Izanagi",
+    "fr": ""
+  },
+  {
+    "id": "Orpheus Telos",
+    "en": "Orpheus Telos",
+    "fr": ""
+  },
+  {
+    "id": "Kamui-Moshiri",
+    "en": "Kamui-Moshiri",
+    "fr": ""
+  },
+  {
+    "id": "Kouzeon",
+    "en": "Kouzeon",
+    "fr": ""
+  },
+  {
+    "id": "Sumeo-Okami",
+    "en": "Sumeo-Okami",
+    "fr": ""
+  },
+  {
+    "id": "Takeji Zaiten",
+    "en": "Takeji Zaiten",
+    "fr": ""
+  },
+  {
+    "id": "Takehaya Susano-o",
+    "en": "Takehaya Susano-o",
+    "fr": ""
+  },
+  {
+    "id": "Haraedo-no-Okami",
+    "en": "Haraedo-no-Okami",
+    "fr": ""
+  },
+  {
+    "id": "Yamato Sumeragi",
+    "en": "Yamato Sumeragi",
+    "fr": ""
+  },
+  {
+    "id": "Izanagi",
+    "en": "Izanagi",
+    "fr": ""
+  },
+  {
+    "id": "Izanagi-no-Okami",
+    "en": "Izanagi-no-Okami",
+    "fr": ""
+  },
+  {
+    "id": "Orpheus",
+    "en": "Orpheus",
+    "fr": ""
+  },
+  {
+    "id": "Jiraiya",
+    "en": "Jiraiya",
+    "fr": ""
+  },
+  {
+    "id": "Susano-o",
+    "en": "Susano-o",
+    "fr": ""
+  },
+  {
+    "id": "Tomoe",
+    "en": "Tomoe",
+    "fr": ""
+  },
+  {
+    "id": "Suzuka Gongen",
+    "en": "Suzuka Gongen",
+    "fr": ""
+  },
+  {
+    "id": "Konohana Sakuya",
+    "en": "Konohana Sakuya",
+    "fr": ""
+  },
+  {
+    "id": "Amaterasu",
+    "en": "Amaterasu",
+    "fr": ""
+  },
+  {
+    "id": "Himiko",
+    "en": "Himiko",
+    "fr": ""
+  },
+  {
+    "id": "Kanzeon",
+    "en": "Kanzeon",
+    "fr": ""
+  },
+  {
+    "id": "Take-Mikazuchi",
+    "en": "Take-Mikazuchi",
+    "fr": ""
+  },
+  {
+    "id": "Rokuten Maou",
+    "en": "Rokuten Maou",
+    "fr": ""
+  },
+  {
+    "id": "Sukuna-Hikona",
+    "en": "Sukuna-Hikona",
+    "fr": ""
+  },
+  {
+    "id": "Yamato Takeru",
+    "en": "Yamato Takeru",
+    "fr": ""
+  },
+  {
+    "id": "Kintoki-Douji",
+    "en": "Kintoki-Douji",
+    "fr": ""
+  },
+  {
+    "id": "Kamui",
+    "en": "Kamui",
+    "fr": ""
+  },
+  {
+    "id": "Io",
+    "en": "Io",
+    "fr": ""
+  },
+  {
+    "id": "Isis",
+    "en": "Isis",
+    "fr": ""
+  },
+  {
+    "id": "Hermes",
+    "en": "Hermes",
+    "fr": ""
+  },
+  {
+    "id": "Trismegistus",
+    "en": "Trismegistus",
+    "fr": ""
+  },
+  {
+    "id": "Polydeuces",
+    "en": "Polydeuces",
+    "fr": ""
+  },
+  {
+    "id": "Caesar",
+    "en": "Caesar",
+    "fr": ""
+  },
+  {
+    "id": "Penthesilea",
+    "en": "Penthesilea",
+    "fr": ""
+  },
+  {
+    "id": "Artemisia",
+    "en": "Artemisia",
+    "fr": ""
+  },
+  {
+    "id": "Lucia",
+    "en": "Lucia",
+    "fr": ""
+  },
+  {
+    "id": "Juno",
+    "en": "Juno",
+    "fr": ""
+  },
+  {
+    "id": "Palladion",
+    "en": "Palladion",
+    "fr": ""
+  },
+  {
+    "id": "Athena",
+    "en": "Athena",
+    "fr": ""
+  },
+  {
+    "id": "Nemesis",
+    "en": "Nemesis",
+    "fr": ""
+  },
+  {
+    "id": "Kala-Nemi",
+    "en": "Kala-Nemi",
+    "fr": ""
+  },
+  {
+    "id": "Cerberus",
+    "en": "Cerberus",
+    "fr": ""
+  },
+  {
+    "id": "Castor",
+    "en": "Castor",
+    "fr": ""
+  },
+  {
+    "id": "Messiah",
+    "en": "Messiah",
+    "fr": ""
+  },
+  {
+    "id": "Arsene",
+    "en": "Arsene",
+    "fr": ""
+  },
+  {
+    "id": "Satanael",
+    "en": "Satanael",
+    "fr": ""
+  },
+  {
+    "id": "Captain Kidd",
+    "en": "Captain Kidd",
+    "fr": ""
+  },
+  {
+    "id": "Carmen",
+    "en": "Carmen",
+    "fr": ""
+  },
+  {
+    "id": "Hecate",
+    "en": "Hecate",
+    "fr": ""
+  },
+  {
+    "id": "Zorro",
+    "en": "Zorro",
+    "fr": ""
+  },
+  {
+    "id": "Mercurius",
+    "en": "Mercurius",
+    "fr": ""
+  },
+  {
+    "id": "Goemon",
+    "en": "Goemon",
+    "fr": ""
+  },
+  {
+    "id": "Kamu Susano-o",
+    "en": "Kamu Susano-o",
+    "fr": ""
+  },
+  {
+    "id": "Johanna",
+    "en": "Johanna",
+    "fr": ""
+  },
+  {
+    "id": "Anat",
+    "en": "Anat",
+    "fr": ""
+  },
+  {
+    "id": "Necronomicon",
+    "en": "Necronomicon",
+    "fr": ""
+  },
+  {
+    "id": "Prometheus",
+    "en": "Prometheus",
+    "fr": ""
+  },
+  {
+    "id": "Milady",
+    "en": "Milady",
+    "fr": ""
+  },
+  {
+    "id": "Astarte",
+    "en": "Astarte",
+    "fr": ""
+  },
+  {
+    "id": "Robin Hood",
+    "en": "Robin Hood",
+    "fr": ""
+  },
+  {
+    "id": "Saki Mitama",
+    "en": "Saki Mitama",
+    "fr": ""
+  },
+  {
+    "id": "Kushi Mitama",
+    "en": "Kushi Mitama",
+    "fr": ""
+  },
+  {
+    "id": "Nigi Mitama",
+    "en": "Nigi Mitama",
+    "fr": ""
+  },
+  {
+    "id": "Ara Mitama",
+    "en": "Ara Mitama",
+    "fr": ""
+  },
+  {
+    "id": "Mandrake",
+    "en": "Mandrake",
+    "fr": ""
+  },
+  {
+    "id": "Halphas",
+    "en": "Halphas",
+    "fr": ""
+  },
+  {
+    "id": "Heqet",
+    "en": "Heqet",
+    "fr": ""
+  },
+  {
+    "id": "Kelpie",
+    "en": "Kelpie",
+    "fr": ""
+  },
+  {
+    "id": "Silky",
+    "en": "Silky",
+    "fr": ""
+  },
+  {
+    "id": "Sudama",
+    "en": "Sudama",
+    "fr": ""
+  },
+  {
+    "id": "Bicorn",
+    "en": "Bicorn",
+    "fr": ""
+  },
+  {
+    "id": "Bifrons",
+    "en": "Bifrons",
+    "fr": ""
+  },
+  {
+    "id": "Yuki Jyorou",
+    "en": "Yuki Jyorou",
+    "fr": ""
+  },
+  {
+    "id": "Gemori",
+    "en": "Gemori",
+    "fr": ""
+  },
+  {
+    "id": "Ammut",
+    "en": "Ammut",
+    "fr": ""
+  },
+  {
+    "id": "Koppa Tengu",
+    "en": "Koppa Tengu",
+    "fr": ""
+  },
+  {
+    "id": "Principality",
+    "en": "Principality",
+    "fr": ""
+  },
+  {
+    "id": "Caladrius",
+    "en": "Caladrius",
+    "fr": ""
+  },
+  {
+    "id": "Pele",
+    "en": "Pele",
+    "fr": ""
+  },
+  {
+    "id": "Mayahuel",
+    "en": "Mayahuel",
+    "fr": ""
+  },
+  {
+    "id": "Hare of Inaba",
+    "en": "Hare of Inaba",
+    "fr": ""
+  },
+  {
+    "id": "Narcissus",
+    "en": "Narcissus",
+    "fr": ""
+  },
+  {
+    "id": "Sleipnir",
+    "en": "Sleipnir",
+    "fr": ""
+  },
+  {
+    "id": "Berserker",
+    "en": "Berserker",
+    "fr": ""
+  },
+  {
+    "id": "Dantalian",
+    "en": "Dantalian",
+    "fr": ""
+  },
+  {
+    "id": "Dzelarhons",
+    "en": "Dzelarhons",
+    "fr": ""
+  },
+  {
+    "id": "Vivian",
+    "en": "Vivian",
+    "fr": ""
+  },
+  {
+    "id": "Baphomet",
+    "en": "Baphomet",
+    "fr": ""
+  },
+  {
+    "id": "Lugh",
+    "en": "Lugh",
+    "fr": ""
+  },
+  {
+    "id": "Cherub",
+    "en": "Cherub",
+    "fr": ""
+  },
+  {
+    "id": "Bai Suzhen",
+    "en": "Bai Suzhen",
+    "fr": ""
+  },
+  {
+    "id": "Fenrir",
+    "en": "Fenrir",
+    "fr": ""
+  },
+  {
+    "id": "Hathor",
+    "en": "Hathor",
+    "fr": ""
+  },
+  {
+    "id": "Mithras",
+    "en": "Mithras",
+    "fr": ""
+  },
+  {
+    "id": "Bugs",
+    "en": "Bugs",
+    "fr": ""
+  },
+  {
+    "id": "Longinus",
+    "en": "Longinus",
+    "fr": ""
+  },
+  {
+    "id": "Lorelei",
+    "en": "Lorelei",
+    "fr": ""
+  },
+  {
+    "id": "Balor",
+    "en": "Balor",
+    "fr": ""
+  },
+  {
+    "id": "Vouivre",
+    "en": "Vouivre",
+    "fr": ""
+  },
+  {
+    "id": "Moloch",
+    "en": "Moloch",
+    "fr": ""
+  },
+  {
+    "id": "Ouroboros",
+    "en": "Ouroboros",
+    "fr": ""
+  },
+  {
+    "id": "Jeanne d'Arc",
+    "en": "Jeanne d'Arc",
+    "fr": ""
+  },
+  {
+    "id": "Baal",
+    "en": "Baal",
+    "fr": ""
+  },
+  {
+    "id": "Xi Wangmu",
+    "en": "Xi Wangmu",
+    "fr": ""
+  },
+  {
+    "id": "Kudlak",
+    "en": "Kudlak",
+    "fr": ""
+  },
+  {
+    "id": "Kresnik",
+    "en": "Kresnik",
+    "fr": ""
+  },
+  {
+    "id": "Black Maria",
+    "en": "Black Maria",
+    "fr": ""
+  },
+  {
+    "id": "Seraph",
+    "en": "Seraph",
+    "fr": ""
+  },
+  {
+    "id": "Huang Di",
+    "en": "Huang Di",
+    "fr": ""
+  },
+  {
+    "id": "Orpheus Picaro",
+    "en": "Orpheus Picaro",
+    "fr": ""
+  },
+  {
+    "id": "Messiah Picaro",
+    "en": "Messiah Picaro",
+    "fr": ""
+  },
+  {
+    "id": "Thanatos Picaro",
+    "en": "Thanatos Picaro",
+    "fr": ""
+  },
+  {
+    "id": "Izanagi Picaro",
+    "en": "Izanagi Picaro",
+    "fr": ""
+  },
+  {
+    "id": "M. Izanagi Picaro",
+    "en": "M. Izanagi Picaro",
+    "fr": ""
+  },
+  {
+    "id": "Kaguya Picaro",
+    "en": "Kaguya Picaro",
+    "fr": ""
+  },
+  {
+    "id": "Ariadne",
+    "en": "Ariadne",
+    "fr": ""
+  },
+  {
+    "id": "Ariadne Picaro",
+    "en": "Ariadne Picaro",
+    "fr": ""
+  },
+  {
+    "id": "Tsukiyomi",
+    "en": "Tsukiyomi",
+    "fr": ""
+  },
+  {
+    "id": "Tsukiyomi Picaro",
+    "en": "Tsukiyomi Picaro",
+    "fr": ""
+  },
+  {
+    "id": "Asterius",
+    "en": "Asterius",
+    "fr": ""
+  },
+  {
+    "id": "Asterius Picaro",
+    "en": "Asterius Picaro",
+    "fr": ""
+  }
+]
