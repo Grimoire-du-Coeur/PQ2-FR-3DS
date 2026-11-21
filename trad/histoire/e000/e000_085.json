@@ -3,61 +3,62 @@
     "id": "MSG_000",
     "locuteur": "Makoto",
     "en": "Hey everyone, look at the Meta-Nav.{SAUT}It's not working... Something's wrong{SAUT}here.",
-    "fr": ""
+    "fr": "Tout le monde, regardez le Meta-Nav.{SAUT}Il ne fonctionne pas... Quelque chose{SAUT}cloche ici."
   },
   {
     "id": "MSG_001",
     "locuteur": "Morgana",
     "en": "Everyone's got the same error screen...{SAUT}So, everyone's app is bugged out at the{SAUT}same time?",
-    "fr": ""
+    "fr": "Ils ont tous le même message d'erreur...{SAUT}Donc, l'application bugue pour tout{SAUT}le monde en même temps ?"
   },
   {
     "id": "MSG_002",
     "locuteur": "Akechi",
     "en": "No, that seems highly unlikely. We need{SAUT}to gather more information.",
-    "fr": ""
+    "fr": "Non, cela semble très peu probable.{SAUT}Nous devons recueillir d'avantage{SAUT}d'informations."
   },
   {
     "id": "MSG_003",
     "locuteur": "Haru",
     "en": "Maybe we can find a clue to this if we{SAUT}look around the area...",
-    "fr": ""
+    "fr": "On peut peut-être trouver un indice en{SAUT}examinant les environs..."
   },
   {
     "id": "MSG_004",
     "locuteur": "Ryuji",
     "en": "Crap―a cop!",
-    "fr": ""
+    "fr": "Merde, un flic !"
   },
   {
     "id": "MSG_005",
     "locuteur": "Ann",
     "en": "Wait a sec, look at his uniform! That's{SAUT}not for Japan's police.",
-    "fr": ""
+    "fr": "attendez un peu, regardez son uniforme !{SAUT}C'est pas pour la police japonaise."
   },
   {
     "id": "MSG_006",
     "locuteur": "Futaba",
     "en": "Looks like some foreign cop's uniform―{SAUT}it reminds me of the ones I've seen{SAUT}in FPSes.{PAGE}Hmm... seems like he's not a Shadow,{SAUT}either.",
-    "fr": ""
+    "fr": "On dirait une tenue de policier étranger-{SAUT}ça me rappelle ceux que j'ai vu{SAUT}dans les FPS.{PAGE}Hmm... il a pas l'air d'être une Ombre{SAUT}non plus."
   },
   {
     "id": "MSG_007",
     "locuteur": "Makoto",
     "en": "Then, maybe we should... try to ask him{SAUT}where we are?",
-    "fr": ""
+    "fr": "Alors, peut-être devrions-nous... tenter{SAUT}de lui demander où nous sommes ?"
   },
   {
     "id": "MSG_008",
     "locuteur": "Ryuji",
     "en": "Wha―Talk to a cop!? In these clothes?",
-    "fr": ""
+    "fr": "Quoi... parler à un flic !?{SAUT}Dans ces fringues ?"
+
   },
   {
     "id": "SEL_009",
     "choix": true,
     "en": "Good luck, Queen.{OPTION}We'll manage somehow.",
-    "fr": ""
+    "fr": "Bonne chance, Queen.{OPTION}On finira par se débrouiller."
   },
   {
     "id": "MSG_010",
