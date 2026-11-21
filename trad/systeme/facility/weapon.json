@@ -30,12 +30,6 @@
     "fr": ""
   },
   {
-    "id": "WSHOP_HELLO_NANAKO",
-    "locuteur": "Nanako",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "WSHOP_DISCOUNT1_P1",
     "locuteur": "Theodore",
     "en": "Ah, welcome.{PAGE}Oh...? I see you're carrying a{SAUT}{f 4 4 3 0 1636}.{PAGE}Congratulations! That is one of my{SAUT}handmade coupons!{PAGE}This will grant a {f 0 1 2}10% discount on{SAUT}all products{f 0 1 0}.{PAGE}May you all continue to have a{SAUT}satisfactory shopping experience.",
@@ -78,48 +72,6 @@
     "fr": ""
   },
   {
-    "id": "WSHOP_NO_SHOP",
-    "locuteur": "Theodore",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_CONSUMPTION_OPEN",
-    "locuteur": "Theodore",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_EQUIPMENT_OPEN",
-    "locuteur": "Theodore",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_ADD_PRODUCT",
-    "locuteur": "Theodore",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_DISCOUNT_PQ2",
-    "locuteur": "Theodore",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_TALK_DUMMY_MARGARE",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_TALK_DUMMY_THEODOR",
-    "locuteur": "Theodore",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "WSHOP_OUT_NAGI_0",
     "locuteur": "Nagi",
     "en": "Come again.",
@@ -150,12 +102,6 @@
     "fr": ""
   },
   {
-    "id": "WSHOP_OUT_NANAKO",
-    "locuteur": "Nanako",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "WSHOP_THEO_SHOP_1ST_IN_M",
     "en": "\"Increasing Shop Inventory\"{SAUT}　{SAUT}By {f 0 1 2}selling materials{f 0 1 0} obtained in the labyrinths,{SAUT}Theodore will be able to use his popcorn machine{SAUT}to {f 0 1 2}create new products{f 0 1 0}.{PAGE}\"Filling Orders For New Products\"{SAUT}　{SAUT}Some new products may require {f 0 1 2}multiple units of{SAUT}the same material{f 0 1 0}.{SAUT}　{SAUT}Any materials that are still{SAUT}needed will be marked with a {f 0 1 2}WANTED{f 0 1 0} tag.",
     "fr": ""
@@ -176,116 +122,9 @@
     "fr": ""
   },
   {
-    "id": "WSHOP_HELLO_NEWYEAR",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_HELLO_RAIN",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_HELLO_THUNDER",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_HELLO_SNOW",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_HELLO_SELL_RAIN",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_HELLO_SELL_THUNDER",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_00_000",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_00_010",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_02_001",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "SEL_WSHOP_QUSET_02_010",
     "choix": true,
     "en": "Yes{OPTION}No",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_02_021",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_02_000",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_02_020",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_02_030",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_02_040",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_02_050",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_10_000",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_10_010",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_12_001",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
     "fr": ""
   },
   {
@@ -295,97 +134,9 @@
     "fr": ""
   },
   {
-    "id": "MSG_WSHOP_QUSET_12_021",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_12_000",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_12_020",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_12_030",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_12_040",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_12_050",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_20_000",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_20_010",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_22_001",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "SEL_WSHOP_QUSET_22_010",
     "choix": true,
     "en": "Yes{OPTION}No",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_22_021",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_22_000",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_22_020",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_22_030",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_22_040",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "MSG_WSHOP_QUSET_22_050",
-    "locuteur": "だいだら．のオヤジ",
-    "en": "Not used",
     "fr": ""
   },
   {

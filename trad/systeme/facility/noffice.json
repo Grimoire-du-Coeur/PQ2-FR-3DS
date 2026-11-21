@@ -94,17 +94,5 @@
     "choix": true,
     "en": "I'm ready to go.{OPTION}I need a moment.",
     "fr": ""
-  },
-  {
-    "id": "BBOARD_BATTLE_START_ELIZ",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "BBOARD_BATTLE_LATER_ELIZ",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
   }
 ]

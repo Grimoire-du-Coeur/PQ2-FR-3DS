@@ -130,35 +130,6 @@
     "fr": ""
   },
   {
-    "id": "Y_FCLSHOP_HELP",
-    "locuteur": "　",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_ADDNEW",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_HELLO_MARGARET",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_HELLO_THEODORE",
-    "locuteur": "Theodore",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_HELLO_RAIN",
-    "locuteur": "Theodore",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "Y_FCLSHOP_ADD_MES",
     "locuteur": "Theodore",
     "en": "Y_FCLSHOP_ADD_MES{SAUT}è未使用！",
@@ -252,18 +223,6 @@
     "id": "Y_FCLSHOP_ADD_MES_HIGH_R",
     "locuteur": "Theodore",
     "en": "What do you think of my handiwork?{SAUT}I believe it has been reborn into a{SAUT}splendid new shape!{PAGE}Many things are, in their own ways,{SAUT}diamonds in the rough. With a{SAUT}keen eye, you can―{PAGE}W-Wait! I wasn't finished!",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_NO_MAKE",
-    "locuteur": "Theodore",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_NO_MATERIAL",
-    "locuteur": "Theodore",
-    "en": "Not used",
     "fr": ""
   },
   {
@@ -501,18 +460,6 @@
   {
     "id": "WSHOP_MULUTI_ADD_UNKNOWN",
     "en": "{f 0 7 0 65535}{f 2 5 3 65535 0}{f 0 7 140 65535}{f 2 5 3 65535 1}　{SAUT}{f 0 7 0 65535}{f 2 5 3 65535 2}{f 0 7 140 65535}{f 2 5 3 65535 3}　{SAUT}{f 0 7 0 65535}{f 2 5 3 65535 4}{f 0 7 140 65535}{f 2 5 3 65535 5}　{SAUT}{f 0 7 0 65535}{f 2 5 3 65535 6}{f 0 7 140 65535}{f 2 5 3 65535 7}　{SAUT}Obtained {f 0 7 0 65535}.",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_UNKNOWN_JUDGE_RESU",
-    "locuteur": "Theodore",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "WSHOP_UNKNOWN_JUDGE_RESU#2",
-    "locuteur": "Theodore",
-    "en": "Not used",
     "fr": ""
   }
 ]

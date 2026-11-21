@@ -100,11 +100,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_08",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_08",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -112,11 +107,6 @@
   {
     "id": "explain_01_quest_09",
     "en": "Find graffiti that's different from the rest.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_09",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -130,11 +120,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_10",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_10",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -142,11 +127,6 @@
   {
     "id": "explain_01_quest_11",
     "en": "Get the treasure hidden by the dinosaur.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_11",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -160,11 +140,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_12",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_12",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -172,11 +147,6 @@
   {
     "id": "explain_01_quest_13",
     "en": "Gather the ingredients for popcorn.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_13",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -190,11 +160,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_14",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_14",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -202,11 +167,6 @@
   {
     "id": "explain_01_quest_15",
     "en": "Find out what's damaging the jungle.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_15",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -220,11 +180,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_16",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_16",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -232,11 +187,6 @@
   {
     "id": "explain_01_quest_17",
     "en": "Ask around and look for suspicious{SAUT}personnel.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_17",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -250,11 +200,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_18",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_18",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -265,11 +210,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_19",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_19",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -277,16 +217,6 @@
   {
     "id": "explain_01_quest_20",
     "en": "Capture the T-Rex for scientific research.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_20",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
-    "id": "explain_03_quest_20",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -310,11 +240,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_22",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_22",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -322,11 +247,6 @@
   {
     "id": "explain_01_quest_23",
     "en": "Defeat a Shadow for training purposes.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_23",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -340,11 +260,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_24",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_24",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -352,11 +267,6 @@
   {
     "id": "explain_01_quest_25",
     "en": "Defeat the Shadow and demonstrate{SAUT}the power of the Phantom Thieves!",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_25",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -370,11 +280,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_26",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_26",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -382,11 +287,6 @@
   {
     "id": "explain_01_quest_27",
     "en": "Find the materials for the fryer.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_27",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -400,11 +300,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_28",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_28",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -412,11 +307,6 @@
   {
     "id": "explain_01_quest_29",
     "en": "Defeat the giant FOE.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_29",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -430,11 +320,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_30",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_30",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -442,11 +327,6 @@
   {
     "id": "explain_01_quest_31",
     "en": "Head to the bar.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_31",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -460,11 +340,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_32",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_32",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -475,18 +350,8 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_33",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_33",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_34",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -500,11 +365,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_35",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_35",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -512,11 +372,6 @@
   {
     "id": "explain_01_quest_36",
     "en": "Gather the communications parts.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_36",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -530,11 +385,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_37",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_37",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -542,11 +392,6 @@
   {
     "id": "explain_01_quest_38",
     "en": "Defeat the FOE.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_38",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -560,11 +405,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_39",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_39",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -572,11 +412,6 @@
   {
     "id": "explain_01_quest_40",
     "en": "Obtain cinnamon.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_40",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -590,11 +425,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_41",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_41",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -602,11 +432,6 @@
   {
     "id": "explain_01_quest_42",
     "en": "Follow the butterfly!",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_42",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -620,18 +445,8 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_43",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_43",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_44",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -645,11 +460,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_45",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_45",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -657,11 +467,6 @@
   {
     "id": "explain_01_quest_46",
     "en": "Take home what you find in the{SAUT}dungeon.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_46",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -675,11 +480,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_47",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_47",
     "en": "This special screening is {f 0 1 8}complete.{f 0 1 5}",
     "fr": ""
@@ -687,11 +487,6 @@
   {
     "id": "explain_01_quest_48",
     "en": "Eliminate the newly appeared threat.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_48",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -705,11 +500,6 @@
     "fr": ""
   },
   {
-    "id": "explain_02_quest_49",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "explain_03_quest_49",
     "en": "This special screening is {f 0 1 2}complete.{f 0 1 0}",
     "fr": ""
@@ -717,11 +507,6 @@
   {
     "id": "explain_01_quest_50",
     "en": "Eliminate the newly appeared threat.",
-    "fr": ""
-  },
-  {
-    "id": "explain_02_quest_50",
-    "en": "Dummy",
     "fr": ""
   },
   {

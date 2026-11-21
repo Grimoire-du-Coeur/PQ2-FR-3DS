@@ -1,10 +1,5 @@
 [
   {
-    "id": "BTL_MES_026_000",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_001",
     "en": "Fear not. This should be easy for you...",
     "fr": ""
@@ -210,11 +205,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_042",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_043",
     "en": "Kanji is close to meeting his maker.",
     "fr": ""
@@ -247,11 +237,6 @@
   {
     "id": "BTL_MES_026_049",
     "en": "Oh, my... Mitsuru's health gauge is{SAUT}bright red.",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_050",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -307,11 +292,6 @@
   {
     "id": "BTL_MES_026_061",
     "en": "Please tend to Queen's health!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_062",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -500,11 +480,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_100",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_101",
     "en": "Kanji, when can you possibly hope to{SAUT}act if you don't act now?",
     "fr": ""
@@ -537,11 +512,6 @@
   {
     "id": "BTL_MES_026_107",
     "en": "I believe this is Mitsuru's area of{SAUT}expertise...",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_108",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -597,11 +567,6 @@
   {
     "id": "BTL_MES_026_119",
     "en": "Ah... I can see Queen making short{SAUT}work of this.",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_120",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -670,11 +635,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_134",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_135",
     "en": "My... Kanji seems rather confident{SAUT}thanks to his boost.",
     "fr": ""
@@ -707,11 +667,6 @@
   {
     "id": "BTL_MES_026_141",
     "en": "Mitsuru is in execution mode―I mean...{SAUT}She has earned a boost.",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_142",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -767,11 +722,6 @@
   {
     "id": "BTL_MES_026_153",
     "en": "Queen is on fire! Well, not really, I{SAUT}suppose I mean she's been boosted!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_154",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1010,11 +960,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_202",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_203",
     "en": "Oh no, Kanji... He’ll collapse at this{SAUT}rate!",
     "fr": ""
@@ -1047,11 +992,6 @@
   {
     "id": "BTL_MES_026_209",
     "en": "Oh no, Mitsuru is about to collapse!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_210",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1107,11 +1047,6 @@
   {
     "id": "BTL_MES_026_221",
     "en": "At this rate, Queen won’t last much{SAUT}longer!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_222",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1300,11 +1235,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_260",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_261",
     "en": "Now’s your chance, Kanji!",
     "fr": ""
@@ -1337,11 +1267,6 @@
   {
     "id": "BTL_MES_026_267",
     "en": "This seems perfect for Mitsuru.",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_268",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1397,11 +1322,6 @@
   {
     "id": "BTL_MES_026_279",
     "en": "I'm expecting great things, Queen!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_280",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1470,11 +1390,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_294",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_295",
     "en": "Kanji has been boosted!",
     "fr": ""
@@ -1507,11 +1422,6 @@
   {
     "id": "BTL_MES_026_301",
     "en": "Wonderful boost, Mitsuru!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_302",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1567,11 +1477,6 @@
   {
     "id": "BTL_MES_026_313",
     "en": "Amazing boost, Queen!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_314",
-    "en": "Dummy",
     "fr": ""
   },
   {

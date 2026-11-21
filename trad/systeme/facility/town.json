@@ -1,10 +1,5 @@
 [
   {
-    "id": "TOWN_DAMMY",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "TOWN_PRE_PARTY_JOIN",
     "en": "You can now use {f 0 1 2}Party edit{f 0 1 0}.{SAUT}Aside from the party edits you{SAUT}could already do, now you can{SAUT}register and load parties, and{SAUT}also change navigators.",
     "fr": ""

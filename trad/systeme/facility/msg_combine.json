@@ -66,53 +66,6 @@
     "fr": ""
   },
   {
-    "id": "combine_check_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "combine_not_level_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "combine_possession_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "combine_stock_over_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "combine_money_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "combine_money_conf_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "combine_succession_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "combine_get_comu_bonus",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "combine_get_card",
     "en": "The Persona {f 0 1 1}{f 2 4 0}{f 0 1 0}{SAUT}has emerged from the sea of your soul!",
     "fr": ""
@@ -145,58 +98,6 @@
     "id": "combine_drink_conf",
     "locuteur": "Elizabeth",
     "en": "ジュース使用前確認MSG（仮）",
-    "fr": ""
-  },
-  {
-    "id": "weather_bonus_omen_add",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "weather_bonus_get_skill",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "weather_bonus_noget_skil",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "weather_bonus_no_skill",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "weather_bonus_powerup",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "weather_bonus_get_comubo",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "weather_bonus_get_change",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "weather_bonus_changeskil",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "weather_news_greeting",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "weather_news_wait",
-    "locuteur": "Margaret",
-    "en": "Not used",
     "fr": ""
   },
   {
@@ -270,48 +171,6 @@
     "fr": ""
   },
   {
-    "id": "book_bonus001",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "book_bonus002",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "book_bonus003",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "combine_yohou_tutorial_m",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "book_tutorial_mes",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP004_M",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP005_M",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "msg_combine_MHELP001_M",
     "locuteur": "Caroline",
     "en": "Personas you register to \"Persona{SAUT}Film\" can be viewed whenever you{SAUT}want.{PAGE}Also, we can summon a Persona{SAUT}from the film if you're willing to{SAUT}pay its price!{PAGE}Just one catch: the stronger the{SAUT}Persona, the more it's going to{SAUT}cost you. Obviously.{PAGE}If you register a lot of Personas,{SAUT}maybe we'll consider giving you a{SAUT}discount. Better work hard for it!",
@@ -321,120 +180,6 @@
     "id": "msg_combine_MHELP002_M",
     "locuteur": "Justine",
     "en": "When you first acquire a Persona, its{SAUT}base, original state will be registered{SAUT}into Persona Films.{PAGE}But as you strengthen them, you{SAUT}can overwrite their Film with your{SAUT}more powerful version of them.{PAGE}This is a free service, but you will{SAUT}have to tell us specifically if you{SAUT}wish to overwrite an entry.{PAGE}If you so desire, simply tell us you{SAUT}wish to \"Overwrite Persona Film.\"{SAUT}Understood?",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_MHELP003",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_S0HELP001",
-    "locuteur": "Marie",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_S0HELP002",
-    "locuteur": "Marie",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_S0HELP003",
-    "locuteur": "Marie",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_S1HELP001",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_S1HELP002",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_S1HELP003",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_S2HELP001",
-    "locuteur": "Marie",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_S2HELP002",
-    "locuteur": "Marie",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_S2HELP003",
-    "locuteur": "Marie",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_U0HELP001",
-    "locuteur": "Marie",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_U0HELP002",
-    "locuteur": "Marie",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_U0HELP003",
-    "locuteur": "Marie",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_U1HELP001",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_U1HELP002",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_U1HELP003",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_U2HELP001",
-    "locuteur": "Marie",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_U2HELP002",
-    "locuteur": "Marie",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_U2HELP003",
-    "locuteur": "Marie",
-    "en": "Not used",
     "fr": ""
   },
   {
@@ -670,11 +415,6 @@
     "fr": ""
   },
   {
-    "id": "msg_combine_NETWORK_dumm",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "msg_combine_sacrifice_co",
     "locuteur": "Caroline",
     "en": "Is this the Persona you want to{SAUT}enhance with the sacrifice's power?",
@@ -701,96 +441,9 @@
     "fr": ""
   },
   {
-    "id": "msg_combine_skcard_sel",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_skcard_check",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_skcard_get",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_skcard_del",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "msg_combine_skcard_money",
     "locuteur": "Margaret",
     "en": "It seems you don't have enough money...",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_skcard_item",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP011_M",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP012_M",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP013_M",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP014_M",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP000_E",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP002_E",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP004_E",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP005_E",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP006_E",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP010_E",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
     "fr": ""
   },
   {
@@ -821,18 +474,6 @@
     "id": "msg_combine_HELP_SACRIFI",
     "locuteur": "Margaret",
     "en": "I am in charge of this matter.{PAGE}The Sacrifice Fusion is a secret art{SAUT}wherein one Persona is sacrificed{SAUT}to help another Persona grow.{PAGE}The higher the levels of the Persona{SAUT}sacrificed, the more growth will be{SAUT}triggered.{PAGE}Normally, this secret art requires{SAUT}an appropriate payment...{PAGE}But in the name of further research,{SAUT}I will introduce a special condition.{PAGE}The first time you sacrifice any{SAUT}individual Persona, I will perform{SAUT}the ritual free of charge.{PAGE}You can enhance your main Persona{SAUT}this way, as well. It may prove a{SAUT}fine way to strengthen yourself.{PAGE}When you acquire a new Persona,{SAUT}why not use it for Sacrifice Fusion{SAUT}at least once?",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_HELP_ACCESSO",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "msg_combine_MHELP001_E",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
     "fr": ""
   },
   {
@@ -881,78 +522,6 @@
     "id": "msg_combine_NETWORK_HELP#8",
     "locuteur": "Marie",
     "en": "So, your P-Book can be{SAUT}changed into these things called{SAUT}\"QR Codes.\"{PAGE}I guess they can make it easier{SAUT}to exchange P-Books with{SAUT}those alternate yous?{PAGE}If you can't connect to them directly,{SAUT}then you can always exchange these{SAUT}QR Codes.{PAGE}You could create your own, or if{SAUT}the other person's made one, you{SAUT}could just read theirs.{PAGE}Well, you might as well get all you{SAUT}can out of that P-Book.{SAUT}So exchange all the QR Codes you can.",
-    "fr": ""
-  },
-  {
-    "id": "book_bonus001_ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "book_bonus002_ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "book_bonus003_ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "book_bonus004_ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "zensyo_summons_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "zensyo_not_summons_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "zensyo_not2_summons_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "zensyo_not4_summons_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "zensyo_regist_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "zensyo_add_check_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "zensyo_all_add_check_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "zensyo_mark_add_check_Ex",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
     "fr": ""
   },
   {

@@ -1,10 +1,5 @@
 [
   {
-    "id": "MSG_BTL_TUTORIAL_840_ENC",
-    "en": "Reserved",
-    "fr": ""
-  },
-  {
     "id": "MSG_BTL_TUTORIAL_840_101",
     "en": "\"Affinities and Weaknesses\"{SAUT}All attacks have an {f 0 1 2}affinity{f 0 1 0}, such as Fire,{SAUT}and enemies may be {f 0 1 2}weak{f 0 1 0} against them.",
     "fr": ""
@@ -37,31 +32,6 @@
   {
     "id": "MSG_BTL_TUTORIAL_840_107",
     "en": "\"Analyze\"{SAUT}You can view further information about{SAUT}enemy Shadows by pressing the {f 0 1 2}L Button{f 0 1 0}.",
-    "fr": ""
-  },
-  {
-    "id": "MSG_BTL_TUTORIAL_840_201",
-    "en": "Reserved",
-    "fr": ""
-  },
-  {
-    "id": "MSG_BTL_TUTORIAL_840_HP_",
-    "en": "Reserved",
-    "fr": ""
-  },
-  {
-    "id": "MSG_BTL_TUTORIAL_840_HP_#2",
-    "en": "Reserved",
-    "fr": ""
-  },
-  {
-    "id": "MSG_BTL_TUTORIAL_840_HP_#3",
-    "en": "Reserved",
-    "fr": ""
-  },
-  {
-    "id": "MSG_BTL_TUTORIAL_840_BTL",
-    "en": "Reserved",
     "fr": ""
   }
 ]

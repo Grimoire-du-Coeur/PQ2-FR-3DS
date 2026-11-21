@@ -1,15 +1,5 @@
 [
   {
-    "id": "BTLMSGID_DUMMY0",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
-    "id": "BTLMSGID_DUMMY1",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTLMSGID_AP_SINGLE",
     "en": "{f 2 4 0} has appeared!",
     "fr": ""

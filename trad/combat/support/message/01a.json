@@ -1,10 +1,5 @@
 [
   {
-    "id": "BTL_MES_026_000",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_001",
     "en": "This one's tough! Be careful!",
     "fr": ""
@@ -160,11 +155,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_032",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_033",
     "en": "Stay focused, Kanji!",
     "fr": ""
@@ -197,11 +187,6 @@
   {
     "id": "BTL_MES_026_039",
     "en": "You're on a roll, Mitsuru!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_040",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -257,11 +242,6 @@
   {
     "id": "BTL_MES_026_051",
     "en": "Amazing, Queen!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_052",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -360,11 +340,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_072",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_073",
     "en": "Kanji's in trouble!",
     "fr": ""
@@ -397,11 +372,6 @@
   {
     "id": "BTL_MES_026_079",
     "en": "Mitsuru's fading fast!{SAUT}Help her out!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_080",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -457,11 +427,6 @@
   {
     "id": "BTL_MES_026_091",
     "en": "Don't die on us, Queen!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_092",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -700,11 +665,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_140",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_141",
     "en": "Aww yeah, Kanji, keep it up!",
     "fr": ""
@@ -737,11 +697,6 @@
   {
     "id": "BTL_MES_026_147",
     "en": "Ohhh, impressive, Mitsuru!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_148",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -800,11 +755,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_160",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_161",
     "en": "Noir, that was so cool!",
     "fr": ""
@@ -812,16 +762,6 @@
   {
     "id": "BTL_MES_026_162",
     "en": "You're on a roll, Crow!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_163",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_164",
-    "en": "Dummy",
     "fr": ""
   },
   {

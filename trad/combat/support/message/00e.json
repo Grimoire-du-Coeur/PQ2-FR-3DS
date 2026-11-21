@@ -1,10 +1,5 @@
 [
   {
-    "id": "BTL_MES_014_000",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_014_001",
     "en": "A powerful enemy! Oh, be careful,{SAUT}everyone!",
     "fr": ""
@@ -160,11 +155,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_014_032",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_014_033",
     "en": "Watch yourself, Kanji-kun...!",
     "fr": ""
@@ -197,11 +187,6 @@
   {
     "id": "BTL_MES_014_039",
     "en": "I have utter faith in you,{SAUT}Mitsuru-senpai!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_014_040",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -257,11 +242,6 @@
   {
     "id": "BTL_MES_014_051",
     "en": "Very true, Queen, so try different{SAUT}attacks!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_014_052",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -360,11 +340,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_014_072",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_014_073",
     "en": "Kanji-kun's in a tight spot! He might{SAUT}need help!",
     "fr": ""
@@ -397,11 +372,6 @@
   {
     "id": "BTL_MES_014_079",
     "en": "Watch out, Mitsuru-senpai!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_014_080",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -457,11 +427,6 @@
   {
     "id": "BTL_MES_014_091",
     "en": "Queen's not exactly ruling this fight...{SAUT}Someone help her!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_014_092",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -700,11 +665,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_014_140",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_014_141",
     "en": "Goodness, Kanji-kun, that was amazing!",
     "fr": ""
@@ -737,11 +697,6 @@
   {
     "id": "BTL_MES_014_147",
     "en": "Perfectly executed, Mitsuru-senpai!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_014_148",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -800,11 +755,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_014_160",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_014_161",
     "en": "Beautiful, Noir!",
     "fr": ""
@@ -812,16 +762,6 @@
   {
     "id": "BTL_MES_014_162",
     "en": "Expertly done, Crow!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_014_163",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_014_164",
-    "en": "Dummy",
     "fr": ""
   },
   {

@@ -1,10 +1,5 @@
 [
   {
-    "id": "BTL_MES_026_000",
-    "en": "DUMMY",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_001",
     "en": "Hm... This guy's worth fighting.",
     "fr": ""
@@ -210,11 +205,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_042",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_043",
     "en": "Are we going to leave Kanji like that?",
     "fr": ""
@@ -247,11 +237,6 @@
   {
     "id": "BTL_MES_026_049",
     "en": "Hey! Someone take care of Mitsuru{SAUT}already!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_050",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -307,11 +292,6 @@
   {
     "id": "BTL_MES_026_061",
     "en": "Is Queen getting assistance anytime{SAUT}soon?",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_062",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -500,11 +480,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_100",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_101",
     "en": "Kanji! Try being useful for once!",
     "fr": ""
@@ -537,11 +512,6 @@
   {
     "id": "BTL_MES_026_107",
     "en": "Mitsuru―you're up!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_108",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -597,11 +567,6 @@
   {
     "id": "BTL_MES_026_119",
     "en": "This should be easy for you, Queen!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_120",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -670,11 +635,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_134",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_135",
     "en": "Oh! Kanji is boosted now!",
     "fr": ""
@@ -707,11 +667,6 @@
   {
     "id": "BTL_MES_026_141",
     "en": "Look at Mitsuru! She's boosted!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_142",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -767,11 +722,6 @@
   {
     "id": "BTL_MES_026_153",
     "en": "Queen, nice boost!",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_154",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1010,11 +960,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_202",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_203",
     "en": "I wonder if Kanji is going to make it{SAUT}to the end.",
     "fr": ""
@@ -1047,11 +992,6 @@
   {
     "id": "BTL_MES_026_209",
     "en": "You might want to keep an eye on{SAUT}Mitsuru's health.",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_210",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1107,11 +1047,6 @@
   {
     "id": "BTL_MES_026_221",
     "en": "Are you just going to leave Queen{SAUT}like that?",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_222",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1300,11 +1235,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_260",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_261",
     "en": "Kanji, show us how a man should be.",
     "fr": ""
@@ -1337,11 +1267,6 @@
   {
     "id": "BTL_MES_026_267",
     "en": "Mitsuru, you should be able to land{SAUT}an attack.",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_268",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1397,11 +1322,6 @@
   {
     "id": "BTL_MES_026_279",
     "en": "Queen, this is where you can show off.",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_280",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1470,11 +1390,6 @@
     "fr": ""
   },
   {
-    "id": "BTL_MES_026_294",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_295",
     "en": "Kanji's currently boosted.",
     "fr": ""
@@ -1507,11 +1422,6 @@
   {
     "id": "BTL_MES_026_301",
     "en": "Mitsuru is currently boosted.",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_302",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1567,11 +1477,6 @@
   {
     "id": "BTL_MES_026_313",
     "en": "Queen has boosted.",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_314",
-    "en": "Dummy",
     "fr": ""
   },
   {

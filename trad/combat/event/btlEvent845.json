@@ -1,10 +1,5 @@
 [
   {
-    "id": "MSG_BTL_TUTORIAL_845_ENC",
-    "en": "Reserved",
-    "fr": ""
-  },
-  {
     "id": "MSG_BTL_TUTORIAL_845_101",
     "en": "\"Rare Shadows\"{SAUT}Sometimes special enemies known as{SAUT}{f 0 1 2}Rare Shadows{f 0 1 0} will appear in the dungeons.",
     "fr": ""
@@ -22,21 +17,6 @@
   {
     "id": "MSG_BTL_TUTORIAL_845_104",
     "en": "Compared to an ordinary Team Convert,{SAUT}Quick Convert makes it easier to knock{SAUT}down Shadows.",
-    "fr": ""
-  },
-  {
-    "id": "MSG_BTL_TUTORIAL_845_HP_",
-    "en": "Reserved",
-    "fr": ""
-  },
-  {
-    "id": "MSG_BTL_TUTORIAL_845_HP_#2",
-    "en": "Reserved",
-    "fr": ""
-  },
-  {
-    "id": "MSG_BTL_TUTORIAL_845_HP_#3",
-    "en": "Reserved",
     "fr": ""
   },
   {
