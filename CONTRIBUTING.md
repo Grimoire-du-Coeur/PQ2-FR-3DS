@@ -127,6 +127,11 @@ anglaise du message**, et des `{SAUT}` pour couper.
   donc contenir beaucoup de `"fr"` identiques à l'anglais, c'est normal.
   Les compétences qui portent le nom d'un objet (« Rudra Ring ») n'y sont
   pas : elles reprennent la traduction de `objets.json`.
+- **Boîtes système** (sauvegarde, carte SD, StreetPass, « Is this name
+  acceptable? », Oui/Non) : [`trad/systeme/executable.json`](trad/systeme/executable.json).
+  Elles vivent dans le code du jeu ; le français peut être plus long que
+  l'anglais, dans une limite d'ensemble (environ 30 % de plus pour toutes
+  les boîtes réunies) que le build vérifie.
 - **Lieux** (où l'on croise chaque ennemi : « 1st Ave.~ », « Kamoshida
   Square ») : [`trad/noms/lieux.json`](trad/noms/lieux.json), **19 octets**
   au plus. Garder le `~` final quand l'anglais en a un.

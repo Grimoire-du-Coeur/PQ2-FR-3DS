@@ -32,13 +32,14 @@ from pathlib import Path
 
 import commun
 import ctd
+import executable
 import msg1
 import noms
 import tables
 import texte
 from catalogue import Script, identifiants, lire_fichiers, lire_scripts
 from msg1 import AUCUN_LOCUTEUR
-from rom3ds import ErreurImage
+from rom3ds import ErreurImage, PasDeCode, lire_code
 
 LOCUTEURS = "noms/locuteurs.json"
 ORPHELINS = "_orphelins.json"
@@ -196,7 +197,16 @@ def main() -> int:
                                                exclus=objets if chemin == tables.COMPETENCES else set())
                    for chemin, rel in tables.TABLES.items()}
         tableaux = ctd.entrees(bruts[ctd.CONTENEUR])
-    except (ErreurImage, noms.ErreurNom, tables.ErreurTable) as e:
+        try:
+            tableaux[executable.TRAD] = executable.entrees(lire_code(args.image))
+        except PasDeCode:
+            # data.cpk seul : le code n'y est pas ; on garde les entrées connues.
+            p = args.trad / executable.TRAD
+            if p.exists():
+                tableaux[executable.TRAD] = [{"id": e["id"], "en": e["en"]} for e in commun.lire_json(p)]
+            print("Note : sans l'image complète, les textes de l'exécutable ne sont pas relus.",
+                  file=sys.stderr)
+    except (ErreurImage, noms.ErreurNom, tables.ErreurTable, executable.ErreurExecutable) as e:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
 

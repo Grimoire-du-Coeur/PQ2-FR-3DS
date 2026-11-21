@@ -5,13 +5,14 @@ import pytest
 import catalogue
 import commun
 import ctd
+import executable
 import injecter
 import msg1
 import noms
 import pak
 import tables
 from cpk import Cpk
-from fabrique import (fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_ctd, fabriquer_itemtbl, fabriquer_msg1,
+from fabrique import (fabriquer_3ds, fabriquer_bf, fabriquer_code, fabriquer_cpk, fabriquer_ctd, fabriquer_itemtbl, fabriquer_msg1,
                       fabriquer_pak, fabriquer_table_noms)
 
 MSG = fabriquer_msg1()
@@ -234,3 +235,18 @@ def test_table_ctd_trop_longue(tmp_path):
         {"id": "00", "en": "Confirm", "max": 63, "fr": "é" * 40}]})
     with pytest.raises(injecter.ErreurInjection, match="cmpConfigItem"):
         injecter.tables_ctd(cmptable, trad)
+
+
+def test_textes_de_l_executable(tmp_path, monkeypatch):
+    code, d = fabriquer_code([b"\xf2\x05\xff\xff\xf1ASave data?\n", b"\xf2\x05\xff\xff\xf1AYes\nNo\n"])
+    monkeypatch.setattr(executable, "EU", d)
+    image = tmp_path / "jeu.3ds"
+    image.write_bytes(fabriquer_3ds(fabriquer_cpk({"init/aide.bmd": MSG}), code=code))
+    sortie = tmp_path / "build" / "romfs" / "data.cpk"
+    trad = _trad(tmp_path, {executable.TRAD: [{"id": "001", "en": "Yes{SAUT}No", "fr": "Oui{SAUT}Non"}]})
+    injecter.construire(image, trad, sortie)
+    ips = tmp_path / "build" / "code.ips"
+    assert executable.appliquer_ips(code, ips.read_bytes()) == executable.traduire(code, {"001": "Oui{SAUT}Non"}, d)
+    commun.ecrire_json(trad / executable.TRAD, [{"id": "001", "en": "Yes{SAUT}No", "fr": ""}])
+    injecter.construire(image, trad, sortie)
+    assert not ips.exists()                 # plus rien à patcher : pas de patch périmé
