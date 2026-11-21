@@ -45,6 +45,7 @@ jobs:
           if [ -n "$outillage" ]; then
             echo "outillage modifié : validation de tout le dépôt"
             echo "tous=oui" >> "$GITHUB_OUTPUT"
+            echo "extraction=--extraction" >> "$GITHUB_OUTPUT"
           else
             liste=$(git diff --name-only --diff-filter=AM "$base" HEAD -- 'trad/**.json' | grep -v '/_' | tr '\n' ' ' || true)
             echo "liste=$liste" >> "$GITHUB_OUTPUT"
@@ -54,12 +55,15 @@ jobs:
       # --base : chaque fichier est comparé à sa version sur la branche cible,
       # pour refuser une proposition qui modifie l'anglais ou efface des
       # traductions (c'est ce que fait la copie périmée d'un fork).
+      # --extraction : la PR touche l'outillage, donc ce que sort l'extraction ;
+      # elle peut alors ajouter, retirer ou mettre à jour des entrées. Effacer
+      # une traduction reste refusé.
       - name: Valider les traductions
         if: steps.fichiers.outputs.vide != 'oui'
         run: |
           if [ "${{ github.event_name }}" = "pull_request" ]; then
             python outils/valider.py --github --base "${{ github.event.pull_request.base.sha }}" \
-              ${{ steps.fichiers.outputs.liste }}
+              ${{ steps.fichiers.outputs.extraction }} ${{ steps.fichiers.outputs.liste }}
           else
             python outils/valider.py --github
           fi
