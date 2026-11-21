@@ -63,7 +63,10 @@ Toute aide est la bienvenue : traduction, relecture, tests en jeu.
    **[méthode de travail](docs/GUIDE.md)** (comment traduire, relire, tester)
    et le **[Dictionnaire](docs/Dictionnaire.md)** : un terme se traduit
    toujours de la même façon d'un bout à l'autre du jeu.
-3. **Ouvre un fichier de [`trad/`](trad/)** et remplis les champs `"fr"`.
+3. **Choisis un lot** : les [« bons premiers lots »](https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+   décrivent chacun une scène ou un fichier, qui parle et ce qu'il faut savoir.
+   Les choix de vocabulaire en cours se [votent ici](https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/issues?q=is%3Aissue+is%3Aopen+label%3Aterminologie).
+4. **Ouvre un fichier de [`trad/`](trad/)** et remplis les champs `"fr"`.
    Rien d'autre à toucher, et rien à installer : ça marche aussi depuis le
    navigateur de GitHub.
 

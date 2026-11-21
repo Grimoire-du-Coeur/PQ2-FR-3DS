@@ -10,6 +10,8 @@
 > 🔧 Règle d'or : dès qu'on **choisit** une traduction pour un terme, on l'inscrit ici
 > **immédiatement** (statut ✅), avant même de continuer à traduire.
 
+Les termes 💬 sont **soumis au vote** dans les [issues « terminologie »](https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/issues?q=is%3Aissue+label%3Aterminologie) : un 👍 sous l'option choisie.
+
 Persona Q2 réunit trois jeux. Quand un terme existe dans une version française
 officielle (*Persona 5 Royal*, *Persona 3 Reload*), on la suit ; quand il existe
 dans une traduction du Grimoire (*Persona*, *Persona 2*), on reste cohérent avec
@@ -25,13 +27,13 @@ elle. Le reste se décide ici.
 | Velvet Room | Chambre de Velours | ✅ *(cohérent avec P1)* |
 | Codename | Nom de code | ✅ *(choix de Tyron26)* |
 | Labyrinth | Labyrinthe | ✅ |
-| Persona | Persona — **genre à décider** : *la* Persona (P1, P2 du Grimoire) ou *le* Persona | 💬 |
-| Personas | Personae (P1, P2) ou Personas | 💬 |
+| Persona | Persona — **genre à décider** : *la* Persona (P1, P2 du Grimoire) ou *le* Persona | 💬 [vote #11](https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/issues/11) |
+| Personas | Personae (P1, P2) ou Personas | 💬 [vote #11](https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/issues/11) |
 | Navigator | Navigatrice / Navigateur | 🔶 |
 | FOE | FOE | 🔶 *(sigle du jeu, conservé)* |
 | Sub-Persona | Sous-Persona | 🔶 |
-| All-Out Attack | Attaque générale | 💬 |
-| HP / SP | PV / PS | 💬 |
+| All-Out Attack | Attaque générale ? | 💬 [vote #14](https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/issues/14) |
+| HP / SP | PV / PS ? | 💬 [vote #15](https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/issues/15) |
 | Boost | Boost | 🔶 |
 | theater / cinema | cinéma | 🔶 *(« salle » selon le contexte)* |
 
@@ -42,7 +44,7 @@ elle. Le reste se décide ici.
 | Phantom Thieves | Voleurs Fantômes | ✅ *(choix de Tyron26)* |
 | Phantom Thieves of Hearts | Voleurs Fantômes de Cœur | 🔶 |
 | SEES | SEES | ✅ *(sigle conservé)* |
-| Investigation Team | Brigade d'investigation | 💬 |
+| Investigation Team | Brigade d'investigation ? | 💬 [vote #13](https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/issues/13) |
 
 ## 📍 Lieux
 
@@ -65,6 +67,7 @@ Nagi, Doe.
 
 | Anglais | Français | Statut |
 |---|---|---|
+| Suffixes japonais (-senpai, -kun, -chan) | à décider | 💬 [vote #12](https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/issues/12) |
 | the Boss *(Sojiro)* | Patron *(« le Patron », avec majuscule ; choix de Tyron26)* | ✅ |
 | P3 Fem Protag | à décider : prénom choisi par le joueur ? | 💬 |
 
