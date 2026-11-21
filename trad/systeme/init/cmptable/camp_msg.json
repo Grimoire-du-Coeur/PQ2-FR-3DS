@@ -1,0 +1,158 @@
+[
+  {
+    "id": "system_yes_no",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_card_drop",
+    "en": "Do you want to release this{SAUT}Persona?",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_card_drop_ng",
+    "en": "You cannot release a Persona that{SAUT}is currently equipped.",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_card_set",
+    "en": "Equip this Persona?",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_config_title",
+    "en": "All unsaved data will be lost.{SAUT}Return to the title screen?",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_quest_offer",
+    "en": "Quest {f 2 4 1} Accepted:{SAUT}\"{f 0 1 1}{f 2 4 0}{f 0 1 0}\"",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_quest_end",
+    "en": "Completed Quest {f 2 4 1}:{SAUT}\"{f 0 1 1}{f 2 4 0}{f 0 1 0}\"",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_quest_first",
+    "en": "Quests that you have accepted can be{SAUT}reviewed in the Menu.",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_skillcard_al",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has{SAUT}already been learned.",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_skillcard_ch",
+    "en": "Learn {f 0 1 1}{f 2 4 0}{f 0 1 0}?",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_skillcard_en",
+    "en": "{f 0 1 1}{f 2 4 1}{f 0 1 0} has learned{SAUT}{f 0 1 1}{f 2 4 0}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_skillcard_rm",
+    "en": "This Persona cannot remember any{SAUT}more skills. Please choose one to{SAUT}forget.",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_skillcard_rm#2",
+    "en": "Forget {f 0 1 1}{f 2 4 0}{f 0 1 0}?",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_skillcard_ch#2",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has learned{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_equip_change",
+    "en": "This Persona is already equipped.",
+    "fr": ""
+  },
+  {
+    "id": "system_book_read",
+    "en": "Read {f 2 5 3 65535 0}?",
+    "fr": ""
+  },
+  {
+    "id": "system_config_cancel",
+    "en": "Exit without changing settings?",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_quest_pictur",
+    "en": "Characters with requests will have an{SAUT}icon over their heads. The color will{SAUT}change when you accept the request.",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_equip_swap",
+    "en": "{f 0 1 0}{f 2 4 0}{f 0 1 0} has this Persona{SAUT}equipped. Will you equip it?",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_item_check1",
+    "en": "Do you want to use the {f 0 1 0}{f 2 4 0}{f 0 1 0}{SAUT}to escape from this labyrinth?",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_item_check2",
+    "en": "Do you want to use the {f 0 1 0}{f 2 4 0}{f 0 1 0}{SAUT}to return to this floor's entrance?",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_suspend_chec",
+    "en": "Create a suspend save and return{SAUT}to the title screen?",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_difficult_sa",
+    "en": "\"SAFETY\" is for players who just want{SAUT}to enjoy the story. Battle difficulty is{SAUT}lower, and even if your party falls,{SAUT}you can immediately continue.{SAUT}This difficulty can be changed later.",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_difficult_ea",
+    "en": "\"EASY\" has a low battle difficulty,{SAUT}and is suited for people interested{SAUT}in a casual playthrough.{SAUT}This difficulty can be changed later.",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_difficult_no",
+    "en": "\"NORMAL\" is recommended for people{SAUT}who want to enjoy tense battles and{SAUT}strategize through each encounter.{SAUT}This difficulty can be changed later.",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_difficult_ha",
+    "en": "\"HARD\" is for experienced strategists{SAUT}who enjoy grueling battles and the{SAUT}thrill of a tactical challenge.{SAUT}This difficulty can be changed later.",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_difficult_ri",
+    "en": "\"RISKY\" is for the battle-hardened few{SAUT}who laugh in the face of certain death.{SAUT}The protagonist is required in your{SAUT}party, and his death will end the game.{SAUT}{f 0 1 2}This difficulty cannot be changed later.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "eqp_bag_max_err",
+    "en": "You cannot remove equipment{SAUT}because your inventory is full.",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_persona_equi",
+    "en": "That is already equipped.",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_item_drop_ng",
+    "en": "Favorited items cannot be discarded.",
+    "fr": ""
+  },
+  {
+    "id": "system_camp_item_dlc_dis",
+    "en": "DLC items cannot be discarded.",
+    "fr": ""
+  }
+]

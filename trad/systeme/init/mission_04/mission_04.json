@@ -1,0 +1,18 @@
+[
+  {
+    "id": "MSG_MISSION",
+    "en": "Test Mission 04",
+    "fr": ""
+  },
+  {
+    "id": "MSG_MATHURI_B5_BOSS_DOOR",
+    "en": "I sense a sinister presence up ahead...{PAGE}What should we do...?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_MATHURI_B5_BOSS_DOOR",
+    "choix": true,
+    "en": "Proceed onward{OPTION}Retreat",
+    "fr": ""
+  }
+]

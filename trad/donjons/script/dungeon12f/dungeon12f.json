@@ -1,0 +1,33 @@
+[
+  {
+    "id": "MSG_D02_02_WARNING_01",
+    "en": "I feel an ominous presence beyond{SAUT}the door.{PAGE}I think we'll probably have to fight it...{SAUT}Are we ready for that?",
+    "fr": ""
+  },
+  {
+    "id": "SEL_WARNING_02",
+    "choix": true,
+    "en": "We're the fierce ones.{OPTION}Sounds risky...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_D02_02_WARNING_SEL01",
+    "en": "All right! Let's head in!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_D02_02_WARNING_SEL02",
+    "en": "I should return when I'm ready.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_GET_TRESURE_ITEM",
+    "en": "It looks like something's buried here...",
+    "fr": ""
+  },
+  {
+    "id": "BAG_FULL",
+    "en": "It looks like something's buried here,{SAUT}but my bag is full...{PAGE}I'll return when I have more space...",
+    "fr": ""
+  }
+]

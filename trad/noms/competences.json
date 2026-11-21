@@ -1,0 +1,3892 @@
+[
+  {
+    "id": "Attack",
+    "en": "Attack",
+    "fr": ""
+  },
+  {
+    "id": "Agi",
+    "en": "Agi",
+    "fr": ""
+  },
+  {
+    "id": "Agilao",
+    "en": "Agilao",
+    "fr": ""
+  },
+  {
+    "id": "Agidyne",
+    "en": "Agidyne",
+    "fr": ""
+  },
+  {
+    "id": "Maragi",
+    "en": "Maragi",
+    "fr": ""
+  },
+  {
+    "id": "Maragion",
+    "en": "Maragion",
+    "fr": ""
+  },
+  {
+    "id": "Maragidyne",
+    "en": "Maragidyne",
+    "fr": ""
+  },
+  {
+    "id": "Fire Spray",
+    "en": "Fire Spray",
+    "fr": ""
+  },
+  {
+    "id": "Ragnarok",
+    "en": "Ragnarok",
+    "fr": ""
+  },
+  {
+    "id": "Garu",
+    "en": "Garu",
+    "fr": ""
+  },
+  {
+    "id": "Garula",
+    "en": "Garula",
+    "fr": ""
+  },
+  {
+    "id": "Garudyne",
+    "en": "Garudyne",
+    "fr": ""
+  },
+  {
+    "id": "Magaru",
+    "en": "Magaru",
+    "fr": ""
+  },
+  {
+    "id": "Magarula",
+    "en": "Magarula",
+    "fr": ""
+  },
+  {
+    "id": "Magarudyne",
+    "en": "Magarudyne",
+    "fr": ""
+  },
+  {
+    "id": "Cyclone",
+    "en": "Cyclone",
+    "fr": ""
+  },
+  {
+    "id": "Panta Rhei",
+    "en": "Panta Rhei",
+    "fr": ""
+  },
+  {
+    "id": "Bufu",
+    "en": "Bufu",
+    "fr": ""
+  },
+  {
+    "id": "Bufula",
+    "en": "Bufula",
+    "fr": ""
+  },
+  {
+    "id": "Bufudyne",
+    "en": "Bufudyne",
+    "fr": ""
+  },
+  {
+    "id": "Mabufu",
+    "en": "Mabufu",
+    "fr": ""
+  },
+  {
+    "id": "Mabufula",
+    "en": "Mabufula",
+    "fr": ""
+  },
+  {
+    "id": "Mabufudyne",
+    "en": "Mabufudyne",
+    "fr": ""
+  },
+  {
+    "id": "Icy Paradise",
+    "en": "Icy Paradise",
+    "fr": ""
+  },
+  {
+    "id": "Niflheim",
+    "en": "Niflheim",
+    "fr": ""
+  },
+  {
+    "id": "Frozen Spear",
+    "en": "Frozen Spear",
+    "fr": ""
+  },
+  {
+    "id": "Zio",
+    "en": "Zio",
+    "fr": ""
+  },
+  {
+    "id": "Zionga",
+    "en": "Zionga",
+    "fr": ""
+  },
+  {
+    "id": "Ziodyne",
+    "en": "Ziodyne",
+    "fr": ""
+  },
+  {
+    "id": "Mazio",
+    "en": "Mazio",
+    "fr": ""
+  },
+  {
+    "id": "Mazionga",
+    "en": "Mazionga",
+    "fr": ""
+  },
+  {
+    "id": "Maziodyne",
+    "en": "Maziodyne",
+    "fr": ""
+  },
+  {
+    "id": "Thunder Reign",
+    "en": "Thunder Reign",
+    "fr": ""
+  },
+  {
+    "id": "Keraunos",
+    "en": "Keraunos",
+    "fr": ""
+  },
+  {
+    "id": "Thunder Clap",
+    "en": "Thunder Clap",
+    "fr": ""
+  },
+  {
+    "id": "Empyrean Storm",
+    "en": "Empyrean Storm",
+    "fr": ""
+  },
+  {
+    "id": "Megido",
+    "en": "Megido",
+    "fr": ""
+  },
+  {
+    "id": "Megidola",
+    "en": "Megidola",
+    "fr": ""
+  },
+  {
+    "id": "Megidolaon",
+    "en": "Megidolaon",
+    "fr": ""
+  },
+  {
+    "id": "Black Viper",
+    "en": "Black Viper",
+    "fr": ""
+  },
+  {
+    "id": "Morning Star",
+    "en": "Morning Star",
+    "fr": ""
+  },
+  {
+    "id": "Hama",
+    "en": "Hama",
+    "fr": ""
+  },
+  {
+    "id": "Hamaon",
+    "en": "Hamaon",
+    "fr": ""
+  },
+  {
+    "id": "Mahama",
+    "en": "Mahama",
+    "fr": ""
+  },
+  {
+    "id": "Mahamaon",
+    "en": "Mahamaon",
+    "fr": ""
+  },
+  {
+    "id": "Samsara",
+    "en": "Samsara",
+    "fr": ""
+  },
+  {
+    "id": "Mudo",
+    "en": "Mudo",
+    "fr": ""
+  },
+  {
+    "id": "Mudoon",
+    "en": "Mudoon",
+    "fr": ""
+  },
+  {
+    "id": "Mamudo",
+    "en": "Mamudo",
+    "fr": ""
+  },
+  {
+    "id": "Mamudoon",
+    "en": "Mamudoon",
+    "fr": ""
+  },
+  {
+    "id": "Die For Me!",
+    "en": "Die For Me!",
+    "fr": ""
+  },
+  {
+    "id": "Pulinpa",
+    "en": "Pulinpa",
+    "fr": ""
+  },
+  {
+    "id": "Tentarafoo",
+    "en": "Tentarafoo",
+    "fr": ""
+  },
+  {
+    "id": "Poisma",
+    "en": "Poisma",
+    "fr": ""
+  },
+  {
+    "id": "Poison Breath",
+    "en": "Poison Breath",
+    "fr": ""
+  },
+  {
+    "id": "Dormina",
+    "en": "Dormina",
+    "fr": ""
+  },
+  {
+    "id": "Lullaby Song",
+    "en": "Lullaby Song",
+    "fr": ""
+  },
+  {
+    "id": "Evil Touch",
+    "en": "Evil Touch",
+    "fr": ""
+  },
+  {
+    "id": "Evil Smile",
+    "en": "Evil Smile",
+    "fr": ""
+  },
+  {
+    "id": "Heavy Gi",
+    "en": "Heavy Gi",
+    "fr": ""
+  },
+  {
+    "id": "Sacrificial Idol",
+    "en": "Sacrificial Idol",
+    "fr": ""
+  },
+  {
+    "id": "Scapegoat",
+    "en": "Scapegoat",
+    "fr": ""
+  },
+  {
+    "id": "Fang Smash",
+    "en": "Fang Smash",
+    "fr": ""
+  },
+  {
+    "id": "Kidney Smash",
+    "en": "Kidney Smash",
+    "fr": ""
+  },
+  {
+    "id": "Giant Slice",
+    "en": "Giant Slice",
+    "fr": ""
+  },
+  {
+    "id": "Twin Slash",
+    "en": "Twin Slash",
+    "fr": ""
+  },
+  {
+    "id": "Leg Reaper",
+    "en": "Leg Reaper",
+    "fr": ""
+  },
+  {
+    "id": "Triple Down",
+    "en": "Triple Down",
+    "fr": ""
+  },
+  {
+    "id": "Mighty Swing",
+    "en": "Mighty Swing",
+    "fr": ""
+  },
+  {
+    "id": "Achilles Reaper",
+    "en": "Achilles Reaper",
+    "fr": ""
+  },
+  {
+    "id": "Silent Thrust",
+    "en": "Silent Thrust",
+    "fr": ""
+  },
+  {
+    "id": "Rampage",
+    "en": "Rampage",
+    "fr": ""
+  },
+  {
+    "id": "Frost Edge",
+    "en": "Frost Edge",
+    "fr": ""
+  },
+  {
+    "id": "Zanshinken",
+    "en": "Zanshinken",
+    "fr": ""
+  },
+  {
+    "id": "Zanshin Strike",
+    "en": "Zanshin Strike",
+    "fr": ""
+  },
+  {
+    "id": "Death Needle",
+    "en": "Death Needle",
+    "fr": ""
+  },
+  {
+    "id": "Guillotine",
+    "en": "Guillotine",
+    "fr": ""
+  },
+  {
+    "id": "Tempest Slash",
+    "en": "Tempest Slash",
+    "fr": ""
+  },
+  {
+    "id": "Mind Strike",
+    "en": "Mind Strike",
+    "fr": ""
+  },
+  {
+    "id": "Holy Touch",
+    "en": "Holy Touch",
+    "fr": ""
+  },
+  {
+    "id": "Revenge Blow",
+    "en": "Revenge Blow",
+    "fr": ""
+  },
+  {
+    "id": "Hammer Strike",
+    "en": "Hammer Strike",
+    "fr": ""
+  },
+  {
+    "id": "Arm Chopper",
+    "en": "Arm Chopper",
+    "fr": ""
+  },
+  {
+    "id": "Single Shot",
+    "en": "Single Shot",
+    "fr": ""
+  },
+  {
+    "id": "Scarecrow",
+    "en": "Scarecrow",
+    "fr": ""
+  },
+  {
+    "id": "Disarm",
+    "en": "Disarm",
+    "fr": ""
+  },
+  {
+    "id": "Makajam",
+    "en": "Makajam",
+    "fr": ""
+  },
+  {
+    "id": "Assault Shot",
+    "en": "Assault Shot",
+    "fr": ""
+  },
+  {
+    "id": "Primal Force",
+    "en": "Primal Force",
+    "fr": ""
+  },
+  {
+    "id": "Weapon Crusher",
+    "en": "Weapon Crusher",
+    "fr": ""
+  },
+  {
+    "id": "Broadshot",
+    "en": "Broadshot",
+    "fr": ""
+  },
+  {
+    "id": "Myriad Arrows",
+    "en": "Myriad Arrows",
+    "fr": ""
+  },
+  {
+    "id": "Punishment",
+    "en": "Punishment",
+    "fr": ""
+  },
+  {
+    "id": "Assault Dive",
+    "en": "Assault Dive",
+    "fr": ""
+  },
+  {
+    "id": "Sleeper Punch",
+    "en": "Sleeper Punch",
+    "fr": ""
+  },
+  {
+    "id": "Armor Splitter",
+    "en": "Armor Splitter",
+    "fr": ""
+  },
+  {
+    "id": "Lunge",
+    "en": "Lunge",
+    "fr": ""
+  },
+  {
+    "id": "Deathbound",
+    "en": "Deathbound",
+    "fr": ""
+  },
+  {
+    "id": "Blade of Fury",
+    "en": "Blade of Fury",
+    "fr": ""
+  },
+  {
+    "id": "Glacial Edge",
+    "en": "Glacial Edge",
+    "fr": ""
+  },
+  {
+    "id": "Vorpal Blade",
+    "en": "Vorpal Blade",
+    "fr": ""
+  },
+  {
+    "id": "Danse Macabre",
+    "en": "Danse Macabre",
+    "fr": ""
+  },
+  {
+    "id": "Headbutt",
+    "en": "Headbutt",
+    "fr": ""
+  },
+  {
+    "id": "Fusion Blast",
+    "en": "Fusion Blast",
+    "fr": ""
+  },
+  {
+    "id": "Heat Wave",
+    "en": "Heat Wave",
+    "fr": ""
+  },
+  {
+    "id": "Light Wave",
+    "en": "Light Wave",
+    "fr": ""
+  },
+  {
+    "id": "Brutal Slash",
+    "en": "Brutal Slash",
+    "fr": ""
+  },
+  {
+    "id": "Photon Edge",
+    "en": "Photon Edge",
+    "fr": ""
+  },
+  {
+    "id": "Prana",
+    "en": "Prana",
+    "fr": ""
+  },
+  {
+    "id": "Heaven's Blade",
+    "en": "Heaven's Blade",
+    "fr": ""
+  },
+  {
+    "id": "God's Hand",
+    "en": "God's Hand",
+    "fr": ""
+  },
+  {
+    "id": "Angelic Trumpet",
+    "en": "Angelic Trumpet",
+    "fr": ""
+  },
+  {
+    "id": "Hassou Tobi",
+    "en": "Hassou Tobi",
+    "fr": ""
+  },
+  {
+    "id": "Hailstorm",
+    "en": "Hailstorm",
+    "fr": ""
+  },
+  {
+    "id": "Arrow Rain",
+    "en": "Arrow Rain",
+    "fr": ""
+  },
+  {
+    "id": "Aeon Rain",
+    "en": "Aeon Rain",
+    "fr": ""
+  },
+  {
+    "id": "Beheading Cut",
+    "en": "Beheading Cut",
+    "fr": ""
+  },
+  {
+    "id": "Poison Skewer",
+    "en": "Poison Skewer",
+    "fr": ""
+  },
+  {
+    "id": "Gurentou",
+    "en": "Gurentou",
+    "fr": ""
+  },
+  {
+    "id": "Tousatsujin",
+    "en": "Tousatsujin",
+    "fr": ""
+  },
+  {
+    "id": "Raikouzan",
+    "en": "Raikouzan",
+    "fr": ""
+  },
+  {
+    "id": "Jinpugeki",
+    "en": "Jinpugeki",
+    "fr": ""
+  },
+  {
+    "id": "Shinkuuha",
+    "en": "Shinkuuha",
+    "fr": ""
+  },
+  {
+    "id": "Resseiha",
+    "en": "Resseiha",
+    "fr": ""
+  },
+  {
+    "id": "Pralaya",
+    "en": "Pralaya",
+    "fr": ""
+  },
+  {
+    "id": "Shadow Run",
+    "en": "Shadow Run",
+    "fr": ""
+  },
+  {
+    "id": "World's End",
+    "en": "World's End",
+    "fr": ""
+  },
+  {
+    "id": "Raimeizan",
+    "en": "Raimeizan",
+    "fr": ""
+  },
+  {
+    "id": "Raijinzan",
+    "en": "Raijinzan",
+    "fr": ""
+  },
+  {
+    "id": "Gokuentou",
+    "en": "Gokuentou",
+    "fr": ""
+  },
+  {
+    "id": "Hientou",
+    "en": "Hientou",
+    "fr": ""
+  },
+  {
+    "id": "Reppu Strike",
+    "en": "Reppu Strike",
+    "fr": ""
+  },
+  {
+    "id": "Kamikaze Strike",
+    "en": "Kamikaze Strike",
+    "fr": ""
+  },
+  {
+    "id": "Dia",
+    "en": "Dia",
+    "fr": ""
+  },
+  {
+    "id": "Diarama",
+    "en": "Diarama",
+    "fr": ""
+  },
+  {
+    "id": "Diarahan",
+    "en": "Diarahan",
+    "fr": ""
+  },
+  {
+    "id": "Line Heal",
+    "en": "Line Heal",
+    "fr": ""
+  },
+  {
+    "id": "Life Goblet",
+    "en": "Life Goblet",
+    "fr": ""
+  },
+  {
+    "id": "Media",
+    "en": "Media",
+    "fr": ""
+  },
+  {
+    "id": "Mediarama",
+    "en": "Mediarama",
+    "fr": ""
+  },
+  {
+    "id": "Mediarahan",
+    "en": "Mediarahan",
+    "fr": ""
+  },
+  {
+    "id": "Recarm",
+    "en": "Recarm",
+    "fr": ""
+  },
+  {
+    "id": "Samarecarm",
+    "en": "Samarecarm",
+    "fr": ""
+  },
+  {
+    "id": "Treatment",
+    "en": "Treatment",
+    "fr": ""
+  },
+  {
+    "id": "Renewal",
+    "en": "Renewal",
+    "fr": ""
+  },
+  {
+    "id": "Patra",
+    "en": "Patra",
+    "fr": ""
+  },
+  {
+    "id": "Refresh",
+    "en": "Refresh",
+    "fr": ""
+  },
+  {
+    "id": "Me Patra",
+    "en": "Me Patra",
+    "fr": ""
+  },
+  {
+    "id": "Mutudi",
+    "en": "Mutudi",
+    "fr": ""
+  },
+  {
+    "id": "Becalm",
+    "en": "Becalm",
+    "fr": ""
+  },
+  {
+    "id": "Mamutudi",
+    "en": "Mamutudi",
+    "fr": ""
+  },
+  {
+    "id": "Amrita",
+    "en": "Amrita",
+    "fr": ""
+  },
+  {
+    "id": "Bestial Roar",
+    "en": "Bestial Roar",
+    "fr": ""
+  },
+  {
+    "id": "Dragon Cry",
+    "en": "Dragon Cry",
+    "fr": ""
+  },
+  {
+    "id": "Improved Link",
+    "en": "Improved Link",
+    "fr": ""
+  },
+  {
+    "id": "Master Link",
+    "en": "Master Link",
+    "fr": ""
+  },
+  {
+    "id": "Pain-Eater",
+    "en": "Pain-Eater",
+    "fr": ""
+  },
+  {
+    "id": "Safeguard",
+    "en": "Safeguard",
+    "fr": ""
+  },
+  {
+    "id": "Line Guard",
+    "en": "Line Guard",
+    "fr": ""
+  },
+  {
+    "id": "All Guard",
+    "en": "All Guard",
+    "fr": ""
+  },
+  {
+    "id": "Holy Blessing",
+    "en": "Holy Blessing",
+    "fr": ""
+  },
+  {
+    "id": "Warrior Song",
+    "en": "Warrior Song",
+    "fr": ""
+  },
+  {
+    "id": "Strike Guard",
+    "en": "Strike Guard",
+    "fr": ""
+  },
+  {
+    "id": "Rebel Vanguard",
+    "en": "Rebel Vanguard",
+    "fr": ""
+  },
+  {
+    "id": "Critical Eye",
+    "en": "Critical Eye",
+    "fr": ""
+  },
+  {
+    "id": "Revolt Vanguard",
+    "en": "Revolt Vanguard",
+    "fr": ""
+  },
+  {
+    "id": "Matarukaja",
+    "en": "Matarukaja",
+    "fr": ""
+  },
+  {
+    "id": "Marakukaja",
+    "en": "Marakukaja",
+    "fr": ""
+  },
+  {
+    "id": "Masukukaja",
+    "en": "Masukukaja",
+    "fr": ""
+  },
+  {
+    "id": "Power Charge",
+    "en": "Power Charge",
+    "fr": ""
+  },
+  {
+    "id": "Mind Charge",
+    "en": "Mind Charge",
+    "fr": ""
+  },
+  {
+    "id": "Fire Blessing",
+    "en": "Fire Blessing",
+    "fr": ""
+  },
+  {
+    "id": "Ice Blessing",
+    "en": "Ice Blessing",
+    "fr": ""
+  },
+  {
+    "id": "Elec Blessing",
+    "en": "Elec Blessing",
+    "fr": ""
+  },
+  {
+    "id": "Wind Blessing",
+    "en": "Wind Blessing",
+    "fr": ""
+  },
+  {
+    "id": "Matarunda",
+    "en": "Matarunda",
+    "fr": ""
+  },
+  {
+    "id": "Marakunda",
+    "en": "Marakunda",
+    "fr": ""
+  },
+  {
+    "id": "Masukunda",
+    "en": "Masukunda",
+    "fr": ""
+  },
+  {
+    "id": "Fury Order",
+    "en": "Fury Order",
+    "fr": ""
+  },
+  {
+    "id": "Focus Order",
+    "en": "Focus Order",
+    "fr": ""
+  },
+  {
+    "id": "Binding Aura",
+    "en": "Binding Aura",
+    "fr": ""
+  },
+  {
+    "id": "Salome's Kiss",
+    "en": "Salome's Kiss",
+    "fr": ""
+  },
+  {
+    "id": "Dekaja",
+    "en": "Dekaja",
+    "fr": ""
+  },
+  {
+    "id": "Dekunda",
+    "en": "Dekunda",
+    "fr": ""
+  },
+  {
+    "id": "Psy Screen",
+    "en": "Psy Screen",
+    "fr": ""
+  },
+  {
+    "id": "Nuclear Screen",
+    "en": "Nuclear Screen",
+    "fr": ""
+  },
+  {
+    "id": "Fire Screen",
+    "en": "Fire Screen",
+    "fr": ""
+  },
+  {
+    "id": "Wind Screen",
+    "en": "Wind Screen",
+    "fr": ""
+  },
+  {
+    "id": "Ice Screen",
+    "en": "Ice Screen",
+    "fr": ""
+  },
+  {
+    "id": "Elec Screen",
+    "en": "Elec Screen",
+    "fr": ""
+  },
+  {
+    "id": "Bless Screen",
+    "en": "Bless Screen",
+    "fr": ""
+  },
+  {
+    "id": "Curse Screen",
+    "en": "Curse Screen",
+    "fr": ""
+  },
+  {
+    "id": "Tarukaja",
+    "en": "Tarukaja",
+    "fr": ""
+  },
+  {
+    "id": "Rakukaja",
+    "en": "Rakukaja",
+    "fr": ""
+  },
+  {
+    "id": "Sukukaja",
+    "en": "Sukukaja",
+    "fr": ""
+  },
+  {
+    "id": "Tarunda",
+    "en": "Tarunda",
+    "fr": ""
+  },
+  {
+    "id": "Rakunda",
+    "en": "Rakunda",
+    "fr": ""
+  },
+  {
+    "id": "Sukunda",
+    "en": "Sukunda",
+    "fr": ""
+  },
+  {
+    "id": "Debilitate",
+    "en": "Debilitate",
+    "fr": ""
+  },
+  {
+    "id": "Heat Riser",
+    "en": "Heat Riser",
+    "fr": ""
+  },
+  {
+    "id": "True Critical Eye",
+    "en": "True Critical Eye",
+    "fr": ""
+  },
+  {
+    "id": "Door of Hades",
+    "en": "Door of Hades",
+    "fr": ""
+  },
+  {
+    "id": "Call to Hades",
+    "en": "Call to Hades",
+    "fr": ""
+  },
+  {
+    "id": "Calamity Seed",
+    "en": "Calamity Seed",
+    "fr": ""
+  },
+  {
+    "id": "Calamity's Advent",
+    "en": "Calamity's Advent",
+    "fr": ""
+  },
+  {
+    "id": "Lunar Blessing",
+    "en": "Lunar Blessing",
+    "fr": ""
+  },
+  {
+    "id": "Healing Harp",
+    "en": "Healing Harp",
+    "fr": ""
+  },
+  {
+    "id": "Mental Smash",
+    "en": "Mental Smash",
+    "fr": ""
+  },
+  {
+    "id": "Psycho Smash",
+    "en": "Psycho Smash",
+    "fr": ""
+  },
+  {
+    "id": "Scorching Blast",
+    "en": "Scorching Blast",
+    "fr": ""
+  },
+  {
+    "id": "Nuclear Blast",
+    "en": "Nuclear Blast",
+    "fr": ""
+  },
+  {
+    "id": "Sleep Strike",
+    "en": "Sleep Strike",
+    "fr": ""
+  },
+  {
+    "id": "Brain Shake",
+    "en": "Brain Shake",
+    "fr": ""
+  },
+  {
+    "id": "Armor Breaker",
+    "en": "Armor Breaker",
+    "fr": ""
+  },
+  {
+    "id": "Armor Destroyer",
+    "en": "Armor Destroyer",
+    "fr": ""
+  },
+  {
+    "id": "True Analysis",
+    "en": "True Analysis",
+    "fr": ""
+  },
+  {
+    "id": "Zero Shift",
+    "en": "Zero Shift",
+    "fr": ""
+  },
+  {
+    "id": "Encore",
+    "en": "Encore",
+    "fr": ""
+  },
+  {
+    "id": "Unused SP Skill",
+    "en": "Unused SP Skill",
+    "fr": ""
+  },
+  {
+    "id": "Oracle",
+    "en": "Oracle",
+    "fr": ""
+  },
+  {
+    "id": "All-out Attack",
+    "en": "All-out Attack",
+    "fr": ""
+  },
+  {
+    "id": "Sutakora Foot",
+    "en": "Sutakora Foot",
+    "fr": ""
+  },
+  {
+    "id": "Analyze",
+    "en": "Analyze",
+    "fr": ""
+  },
+  {
+    "id": "Full Analysis",
+    "en": "Full Analysis",
+    "fr": ""
+  },
+  {
+    "id": "Snake Glare",
+    "en": "Snake Glare",
+    "fr": ""
+  },
+  {
+    "id": "Heroic Wind",
+    "en": "Heroic Wind",
+    "fr": ""
+  },
+  {
+    "id": "Unyielding Heart",
+    "en": "Unyielding Heart",
+    "fr": ""
+  },
+  {
+    "id": "Let Me Reach Them",
+    "en": "Let Me Reach Them",
+    "fr": ""
+  },
+  {
+    "id": "Hikari's Feelings",
+    "en": "Hikari's Feelings",
+    "fr": ""
+  },
+  {
+    "id": "Healing Tide",
+    "en": "Healing Tide",
+    "fr": ""
+  },
+  {
+    "id": "Harvest Prayer",
+    "en": "Harvest Prayer",
+    "fr": ""
+  },
+  {
+    "id": "Cornucopia",
+    "en": "Cornucopia",
+    "fr": ""
+  },
+  {
+    "id": "Renewal Ray",
+    "en": "Renewal Ray",
+    "fr": ""
+  },
+  {
+    "id": "Renewal Aura",
+    "en": "Renewal Aura",
+    "fr": ""
+  },
+  {
+    "id": "Mini Recovery",
+    "en": "Mini Recovery",
+    "fr": ""
+  },
+  {
+    "id": "Spotlight",
+    "en": "Spotlight",
+    "fr": ""
+  },
+  {
+    "id": "Yomi Return",
+    "en": "Yomi Return",
+    "fr": ""
+  },
+  {
+    "id": "Third Eye",
+    "en": "Third Eye",
+    "fr": ""
+  },
+  {
+    "id": "Orb of Resolve",
+    "en": "Orb of Resolve",
+    "fr": ""
+  },
+  {
+    "id": "Orb of Power",
+    "en": "Orb of Power",
+    "fr": ""
+  },
+  {
+    "id": "Orb of Haste",
+    "en": "Orb of Haste",
+    "fr": ""
+  },
+  {
+    "id": "Life Aid",
+    "en": "Life Aid",
+    "fr": ""
+  },
+  {
+    "id": "Victory Cry",
+    "en": "Victory Cry",
+    "fr": ""
+  },
+  {
+    "id": "Safety Prayer",
+    "en": "Safety Prayer",
+    "fr": ""
+  },
+  {
+    "id": "Calming Lull",
+    "en": "Calming Lull",
+    "fr": ""
+  },
+  {
+    "id": "Spotter",
+    "en": "Spotter",
+    "fr": ""
+  },
+  {
+    "id": "Magic Mallet",
+    "en": "Magic Mallet",
+    "fr": ""
+  },
+  {
+    "id": "Final Guard",
+    "en": "Final Guard",
+    "fr": ""
+  },
+  {
+    "id": "Tidal Wave",
+    "en": "Tidal Wave",
+    "fr": ""
+  },
+  {
+    "id": "Prayer",
+    "en": "Prayer",
+    "fr": ""
+  },
+  {
+    "id": "Sneak Guide",
+    "en": "Sneak Guide",
+    "fr": ""
+  },
+  {
+    "id": "Treasure Hunter",
+    "en": "Treasure Hunter",
+    "fr": ""
+  },
+  {
+    "id": "Fortune Hunter",
+    "en": "Fortune Hunter",
+    "fr": ""
+  },
+  {
+    "id": "Faerie's Vigil",
+    "en": "Faerie's Vigil",
+    "fr": ""
+  },
+  {
+    "id": "Tengu's Vigil",
+    "en": "Tengu's Vigil",
+    "fr": ""
+  },
+  {
+    "id": "Clairvoyance",
+    "en": "Clairvoyance",
+    "fr": ""
+  },
+  {
+    "id": "Farsight",
+    "en": "Farsight",
+    "fr": ""
+  },
+  {
+    "id": "Purifying Rain",
+    "en": "Purifying Rain",
+    "fr": ""
+  },
+  {
+    "id": "Treasure Skimmer",
+    "en": "Treasure Skimmer",
+    "fr": ""
+  },
+  {
+    "id": "Zero Set",
+    "en": "Zero Set",
+    "fr": ""
+  },
+  {
+    "id": "Eternal Melody",
+    "en": "Eternal Melody",
+    "fr": ""
+  },
+  {
+    "id": "On Stage",
+    "en": "On Stage",
+    "fr": ""
+  },
+  {
+    "id": "Escape Route",
+    "en": "Escape Route",
+    "fr": ""
+  },
+  {
+    "id": "Hikari's Cheer",
+    "en": "Hikari's Cheer",
+    "fr": ""
+  },
+  {
+    "id": "Risk Management",
+    "en": "Risk Management",
+    "fr": ""
+  },
+  {
+    "id": "Hunting Prayer",
+    "en": "Hunting Prayer",
+    "fr": ""
+  },
+  {
+    "id": "Endless Bounty",
+    "en": "Endless Bounty",
+    "fr": ""
+  },
+  {
+    "id": "Cheer March",
+    "en": "Cheer March",
+    "fr": ""
+  },
+  {
+    "id": "Paths of Light",
+    "en": "Paths of Light",
+    "fr": ""
+  },
+  {
+    "id": "Roads of Light",
+    "en": "Roads of Light",
+    "fr": ""
+  },
+  {
+    "id": "Stun Circle",
+    "en": "Stun Circle",
+    "fr": ""
+  },
+  {
+    "id": "Magic Circle",
+    "en": "Magic Circle",
+    "fr": ""
+  },
+  {
+    "id": "Sleep Circle",
+    "en": "Sleep Circle",
+    "fr": ""
+  },
+  {
+    "id": "Poison Circle",
+    "en": "Poison Circle",
+    "fr": ""
+  },
+  {
+    "id": "Confusion Circle",
+    "en": "Confusion Circle",
+    "fr": ""
+  },
+  {
+    "id": "Silence Circle",
+    "en": "Silence Circle",
+    "fr": ""
+  },
+  {
+    "id": "Decay Circle",
+    "en": "Decay Circle",
+    "fr": ""
+  },
+  {
+    "id": "Lethargy Circle",
+    "en": "Lethargy Circle",
+    "fr": ""
+  },
+  {
+    "id": "Beast Summon",
+    "en": "Beast Summon",
+    "fr": ""
+  },
+  {
+    "id": "Spirit Summon",
+    "en": "Spirit Summon",
+    "fr": ""
+  },
+  {
+    "id": "Shura Tensei",
+    "en": "Shura Tensei",
+    "fr": ""
+  },
+  {
+    "id": "Shura Revert",
+    "en": "Shura Revert",
+    "fr": ""
+  },
+  {
+    "id": "Shura Instincts",
+    "en": "Shura Instincts",
+    "fr": ""
+  },
+  {
+    "id": "Orgia Mode",
+    "en": "Orgia Mode",
+    "fr": ""
+  },
+  {
+    "id": "Mode Disengage",
+    "en": "Mode Disengage",
+    "fr": ""
+  },
+  {
+    "id": "Heal Memento",
+    "en": "Heal Memento",
+    "fr": ""
+  },
+  {
+    "id": "Free Memento",
+    "en": "Free Memento",
+    "fr": ""
+  },
+  {
+    "id": "Pure Memento",
+    "en": "Pure Memento",
+    "fr": ""
+  },
+  {
+    "id": "Blessing of Relief",
+    "en": "Blessing of Relief",
+    "fr": ""
+  },
+  {
+    "id": "Death Counter",
+    "en": "Death Counter",
+    "fr": ""
+  },
+  {
+    "id": "Death Chaser",
+    "en": "Death Chaser",
+    "fr": ""
+  },
+  {
+    "id": "Fierce Stance",
+    "en": "Fierce Stance",
+    "fr": ""
+  },
+  {
+    "id": "Ferocious Stance",
+    "en": "Ferocious Stance",
+    "fr": ""
+  },
+  {
+    "id": "Guard Stance",
+    "en": "Guard Stance",
+    "fr": ""
+  },
+  {
+    "id": "Firestrike Link",
+    "en": "Firestrike Link",
+    "fr": ""
+  },
+  {
+    "id": "Fire Link",
+    "en": "Fire Link",
+    "fr": ""
+  },
+  {
+    "id": "Icestrike Link",
+    "en": "Icestrike Link",
+    "fr": ""
+  },
+  {
+    "id": "Ice Link",
+    "en": "Ice Link",
+    "fr": ""
+  },
+  {
+    "id": "Elecstrike Link",
+    "en": "Elecstrike Link",
+    "fr": ""
+  },
+  {
+    "id": "Elec Link",
+    "en": "Elec Link",
+    "fr": ""
+  },
+  {
+    "id": "Windstrike Link",
+    "en": "Windstrike Link",
+    "fr": ""
+  },
+  {
+    "id": "Wind Link",
+    "en": "Wind Link",
+    "fr": ""
+  },
+  {
+    "id": "Pain Watcher",
+    "en": "Pain Watcher",
+    "fr": ""
+  },
+  {
+    "id": "Strike Link",
+    "en": "Strike Link",
+    "fr": ""
+  },
+  {
+    "id": "Smash Link",
+    "en": "Smash Link",
+    "fr": ""
+  },
+  {
+    "id": "Psystrike Link",
+    "en": "Psystrike Link",
+    "fr": ""
+  },
+  {
+    "id": "Psy Link",
+    "en": "Psy Link",
+    "fr": ""
+  },
+  {
+    "id": "Nucleostrike Link",
+    "en": "Nucleostrike Link",
+    "fr": ""
+  },
+  {
+    "id": "Nuclear Link",
+    "en": "Nuclear Link",
+    "fr": ""
+  },
+  {
+    "id": "Orgia Mastery",
+    "en": "Orgia Mastery",
+    "fr": ""
+  },
+  {
+    "id": "Spy Arts",
+    "en": "Spy Arts",
+    "fr": ""
+  },
+  {
+    "id": "Spy Expertise",
+    "en": "Spy Expertise",
+    "fr": ""
+  },
+  {
+    "id": "Pose",
+    "en": "Pose",
+    "fr": ""
+  },
+  {
+    "id": "Heroic Pose",
+    "en": "Heroic Pose",
+    "fr": ""
+  },
+  {
+    "id": "Hermit Arts",
+    "en": "Hermit Arts",
+    "fr": ""
+  },
+  {
+    "id": "Hermit Mastery",
+    "en": "Hermit Mastery",
+    "fr": ""
+  },
+  {
+    "id": "Double Attack",
+    "en": "Double Attack",
+    "fr": ""
+  },
+  {
+    "id": "Deadly Vanguard",
+    "en": "Deadly Vanguard",
+    "fr": ""
+  },
+  {
+    "id": "Empress Arts",
+    "en": "Empress Arts",
+    "fr": ""
+  },
+  {
+    "id": "Empress Mastery",
+    "en": "Empress Mastery",
+    "fr": ""
+  },
+  {
+    "id": "Squire Card",
+    "en": "Squire Card",
+    "fr": ""
+  },
+  {
+    "id": "Fool Card",
+    "en": "Fool Card",
+    "fr": ""
+  },
+  {
+    "id": "Soldier Arts",
+    "en": "Soldier Arts",
+    "fr": ""
+  },
+  {
+    "id": "Soldier Mastery",
+    "en": "Soldier Mastery",
+    "fr": ""
+  },
+  {
+    "id": "Kung Fu Arts",
+    "en": "Kung Fu Arts",
+    "fr": ""
+  },
+  {
+    "id": "Kung Fu Mastery",
+    "en": "Kung Fu Mastery",
+    "fr": ""
+  },
+  {
+    "id": "Wild Arts",
+    "en": "Wild Arts",
+    "fr": ""
+  },
+  {
+    "id": "Wild Arts+",
+    "en": "Wild Arts+",
+    "fr": ""
+  },
+  {
+    "id": "Brave Soul",
+    "en": "Brave Soul",
+    "fr": ""
+  },
+  {
+    "id": "Brave Soul+",
+    "en": "Brave Soul+",
+    "fr": ""
+  },
+  {
+    "id": "Royal Song",
+    "en": "Royal Song",
+    "fr": ""
+  },
+  {
+    "id": "Circle Mastery",
+    "en": "Circle Mastery",
+    "fr": ""
+  },
+  {
+    "id": "Circle Virtuoso",
+    "en": "Circle Virtuoso",
+    "fr": ""
+  },
+  {
+    "id": "Brawler Arts",
+    "en": "Brawler Arts",
+    "fr": ""
+  },
+  {
+    "id": "Brawler Arts+",
+    "en": "Brawler Arts+",
+    "fr": ""
+  },
+  {
+    "id": "Life Support",
+    "en": "Life Support",
+    "fr": ""
+  },
+  {
+    "id": "Life Support+",
+    "en": "Life Support+",
+    "fr": ""
+  },
+  {
+    "id": "Stance Master",
+    "en": "Stance Master",
+    "fr": ""
+  },
+  {
+    "id": "Stance Virtuoso",
+    "en": "Stance Virtuoso",
+    "fr": ""
+  },
+  {
+    "id": "Raging Lion",
+    "en": "Raging Lion",
+    "fr": ""
+  },
+  {
+    "id": "Raging Lion+",
+    "en": "Raging Lion+",
+    "fr": ""
+  },
+  {
+    "id": "Heroic Gemini",
+    "en": "Heroic Gemini",
+    "fr": ""
+  },
+  {
+    "id": "Golden Gemini",
+    "en": "Golden Gemini",
+    "fr": ""
+  },
+  {
+    "id": "Runic Shield",
+    "en": "Runic Shield",
+    "fr": ""
+  },
+  {
+    "id": "Aegis Shield",
+    "en": "Aegis Shield",
+    "fr": ""
+  },
+  {
+    "id": "Swordbreaker",
+    "en": "Swordbreaker",
+    "fr": ""
+  },
+  {
+    "id": "Bind Arts",
+    "en": "Bind Arts",
+    "fr": ""
+  },
+  {
+    "id": "Bind Arts+",
+    "en": "Bind Arts+",
+    "fr": ""
+  },
+  {
+    "id": "First Star",
+    "en": "First Star",
+    "fr": ""
+  },
+  {
+    "id": "Challenger Arts",
+    "en": "Challenger Arts",
+    "fr": ""
+  },
+  {
+    "id": "Challenger Arts+",
+    "en": "Challenger Arts+",
+    "fr": ""
+  },
+  {
+    "id": "Uprising",
+    "en": "Uprising",
+    "fr": ""
+  },
+  {
+    "id": "Restoring Touch",
+    "en": "Restoring Touch",
+    "fr": ""
+  },
+  {
+    "id": "Lucky Star",
+    "en": "Lucky Star",
+    "fr": ""
+  },
+  {
+    "id": "Conqueror Title",
+    "en": "Conqueror Title",
+    "fr": ""
+  },
+  {
+    "id": "Healing Finger",
+    "en": "Healing Finger",
+    "fr": ""
+  },
+  {
+    "id": "Dia Guard",
+    "en": "Dia Guard",
+    "fr": ""
+  },
+  {
+    "id": "Diarama Guard",
+    "en": "Diarama Guard",
+    "fr": ""
+  },
+  {
+    "id": "Colossal Swing",
+    "en": "Colossal Swing",
+    "fr": ""
+  },
+  {
+    "id": "Whirlwind Swing",
+    "en": "Whirlwind Swing",
+    "fr": ""
+  },
+  {
+    "id": "Golden Link",
+    "en": "Golden Link",
+    "fr": ""
+  },
+  {
+    "id": "Combo Arts",
+    "en": "Combo Arts",
+    "fr": ""
+  },
+  {
+    "id": "Combo Arts+",
+    "en": "Combo Arts+",
+    "fr": ""
+  },
+  {
+    "id": "Dodge Arts",
+    "en": "Dodge Arts",
+    "fr": ""
+  },
+  {
+    "id": "Dodge Arts+",
+    "en": "Dodge Arts+",
+    "fr": ""
+  },
+  {
+    "id": "Trick Step",
+    "en": "Trick Step",
+    "fr": ""
+  },
+  {
+    "id": "Immunity Buffer",
+    "en": "Immunity Buffer",
+    "fr": ""
+  },
+  {
+    "id": "Lemegeton",
+    "en": "Lemegeton",
+    "fr": ""
+  },
+  {
+    "id": "Repulse Mist",
+    "en": "Repulse Mist",
+    "fr": ""
+  },
+  {
+    "id": "Absorb Fire",
+    "en": "Absorb Fire",
+    "fr": ""
+  },
+  {
+    "id": "Absorb Wind",
+    "en": "Absorb Wind",
+    "fr": ""
+  },
+  {
+    "id": "Absorb Ice",
+    "en": "Absorb Ice",
+    "fr": ""
+  },
+  {
+    "id": "Absorb Elec",
+    "en": "Absorb Elec",
+    "fr": ""
+  },
+  {
+    "id": "Healing Hand",
+    "en": "Healing Hand",
+    "fr": ""
+  },
+  {
+    "id": "Fire Boost",
+    "en": "Fire Boost",
+    "fr": ""
+  },
+  {
+    "id": "Ice Boost",
+    "en": "Ice Boost",
+    "fr": ""
+  },
+  {
+    "id": "Elec Boost",
+    "en": "Elec Boost",
+    "fr": ""
+  },
+  {
+    "id": "Wind Boost",
+    "en": "Wind Boost",
+    "fr": ""
+  },
+  {
+    "id": "Fire Amp",
+    "en": "Fire Amp",
+    "fr": ""
+  },
+  {
+    "id": "Ice Amp",
+    "en": "Ice Amp",
+    "fr": ""
+  },
+  {
+    "id": "Elec Amp",
+    "en": "Elec Amp",
+    "fr": ""
+  },
+  {
+    "id": "Wind Amp",
+    "en": "Wind Amp",
+    "fr": ""
+  },
+  {
+    "id": "Devotion Arts",
+    "en": "Devotion Arts",
+    "fr": ""
+  },
+  {
+    "id": "Devotion Mastery",
+    "en": "Devotion Mastery",
+    "fr": ""
+  },
+  {
+    "id": "Idol Hands",
+    "en": "Idol Hands",
+    "fr": ""
+  },
+  {
+    "id": "Ambush Arts",
+    "en": "Ambush Arts",
+    "fr": ""
+  },
+  {
+    "id": "Ambush Arts+",
+    "en": "Ambush Arts+",
+    "fr": ""
+  },
+  {
+    "id": "Ailment Arts",
+    "en": "Ailment Arts",
+    "fr": ""
+  },
+  {
+    "id": "Ailment Arts+",
+    "en": "Ailment Arts+",
+    "fr": ""
+  },
+  {
+    "id": "Circle Recovery",
+    "en": "Circle Recovery",
+    "fr": ""
+  },
+  {
+    "id": "Judgment Card",
+    "en": "Judgment Card",
+    "fr": ""
+  },
+  {
+    "id": "Inferno Boost",
+    "en": "Inferno Boost",
+    "fr": ""
+  },
+  {
+    "id": "Tornado Boost",
+    "en": "Tornado Boost",
+    "fr": ""
+  },
+  {
+    "id": "SP Focus",
+    "en": "SP Focus",
+    "fr": ""
+  },
+  {
+    "id": "Critical Arts",
+    "en": "Critical Arts",
+    "fr": ""
+  },
+  {
+    "id": "Critical Arts+",
+    "en": "Critical Arts+",
+    "fr": ""
+  },
+  {
+    "id": "Queen's Pierce",
+    "en": "Queen's Pierce",
+    "fr": ""
+  },
+  {
+    "id": "Attack Boost I",
+    "en": "Attack Boost I",
+    "fr": ""
+  },
+  {
+    "id": "Attack Boost II",
+    "en": "Attack Boost II",
+    "fr": ""
+  },
+  {
+    "id": "Attack Boost III",
+    "en": "Attack Boost III",
+    "fr": ""
+  },
+  {
+    "id": "Defense Boost I",
+    "en": "Defense Boost I",
+    "fr": ""
+  },
+  {
+    "id": "Defense Boost II",
+    "en": "Defense Boost II",
+    "fr": ""
+  },
+  {
+    "id": "Defense Boost III",
+    "en": "Defense Boost III",
+    "fr": ""
+  },
+  {
+    "id": "Affinity Boost I",
+    "en": "Affinity Boost I",
+    "fr": ""
+  },
+  {
+    "id": "Affinity Boost II",
+    "en": "Affinity Boost II",
+    "fr": ""
+  },
+  {
+    "id": "Affinity Boost III",
+    "en": "Affinity Boost III",
+    "fr": ""
+  },
+  {
+    "id": "Serene Stroll",
+    "en": "Serene Stroll",
+    "fr": ""
+  },
+  {
+    "id": "Serene Quest",
+    "en": "Serene Quest",
+    "fr": ""
+  },
+  {
+    "id": "Serene Pilgrimage",
+    "en": "Serene Pilgrimage",
+    "fr": ""
+  },
+  {
+    "id": "Double Link",
+    "en": "Double Link",
+    "fr": ""
+  },
+  {
+    "id": "Powerhouse",
+    "en": "Powerhouse",
+    "fr": ""
+  },
+  {
+    "id": "Powerhouse+",
+    "en": "Powerhouse+",
+    "fr": ""
+  },
+  {
+    "id": "Solitary Noblesse",
+    "en": "Solitary Noblesse",
+    "fr": ""
+  },
+  {
+    "id": "Magic Boost I",
+    "en": "Magic Boost I",
+    "fr": ""
+  },
+  {
+    "id": "Magic Boost II",
+    "en": "Magic Boost II",
+    "fr": ""
+  },
+  {
+    "id": "Magic Boost III",
+    "en": "Magic Boost III",
+    "fr": ""
+  },
+  {
+    "id": "HP Boost",
+    "en": "HP Boost",
+    "fr": ""
+  },
+  {
+    "id": "HP Amp",
+    "en": "HP Amp",
+    "fr": ""
+  },
+  {
+    "id": "SP Boost",
+    "en": "SP Boost",
+    "fr": ""
+  },
+  {
+    "id": "SP Amp",
+    "en": "SP Amp",
+    "fr": ""
+  },
+  {
+    "id": "Agility Boost",
+    "en": "Agility Boost",
+    "fr": ""
+  },
+  {
+    "id": "Agility Amp",
+    "en": "Agility Amp",
+    "fr": ""
+  },
+  {
+    "id": "Resist Fire",
+    "en": "Resist Fire",
+    "fr": ""
+  },
+  {
+    "id": "Resist Ice",
+    "en": "Resist Ice",
+    "fr": ""
+  },
+  {
+    "id": "Resist Elec",
+    "en": "Resist Elec",
+    "fr": ""
+  },
+  {
+    "id": "Resist Wind",
+    "en": "Resist Wind",
+    "fr": ""
+  },
+  {
+    "id": "Resist Bless",
+    "en": "Resist Bless",
+    "fr": ""
+  },
+  {
+    "id": "Resist Curse",
+    "en": "Resist Curse",
+    "fr": ""
+  },
+  {
+    "id": "Resist Phys",
+    "en": "Resist Phys",
+    "fr": ""
+  },
+  {
+    "id": "Resist Psy",
+    "en": "Resist Psy",
+    "fr": ""
+  },
+  {
+    "id": "Resist Nuke",
+    "en": "Resist Nuke",
+    "fr": ""
+  },
+  {
+    "id": "Null Petrify",
+    "en": "Null Petrify",
+    "fr": ""
+  },
+  {
+    "id": "Null Sleep",
+    "en": "Null Sleep",
+    "fr": ""
+  },
+  {
+    "id": "Null Confusion",
+    "en": "Null Confusion",
+    "fr": ""
+  },
+  {
+    "id": "Null Poison",
+    "en": "Null Poison",
+    "fr": ""
+  },
+  {
+    "id": "Endure",
+    "en": "Endure",
+    "fr": ""
+  },
+  {
+    "id": "Null Hex",
+    "en": "Null Hex",
+    "fr": ""
+  },
+  {
+    "id": "Null Paralysis",
+    "en": "Null Paralysis",
+    "fr": ""
+  },
+  {
+    "id": "Keburi no Sue",
+    "en": "Keburi no Sue",
+    "fr": ""
+  },
+  {
+    "id": "Masochist Lash",
+    "en": "Masochist Lash",
+    "fr": ""
+  },
+  {
+    "id": "Null M-Bind",
+    "en": "Null M-Bind",
+    "fr": ""
+  },
+  {
+    "id": "Null S-Bind",
+    "en": "Null S-Bind",
+    "fr": ""
+  },
+  {
+    "id": "Null A-Bind",
+    "en": "Null A-Bind",
+    "fr": ""
+  },
+  {
+    "id": "Demon's Cut",
+    "en": "Demon's Cut",
+    "fr": ""
+  },
+  {
+    "id": "Demon's Bash",
+    "en": "Demon's Bash",
+    "fr": ""
+  },
+  {
+    "id": "Demon's Stab",
+    "en": "Demon's Stab",
+    "fr": ""
+  },
+  {
+    "id": "God's Cut",
+    "en": "God's Cut",
+    "fr": ""
+  },
+  {
+    "id": "God's Bash",
+    "en": "God's Bash",
+    "fr": ""
+  },
+  {
+    "id": "God's Stab",
+    "en": "God's Stab",
+    "fr": ""
+  },
+  {
+    "id": "SP Recoil",
+    "en": "SP Recoil",
+    "fr": ""
+  },
+  {
+    "id": "SP Redeemer",
+    "en": "SP Redeemer",
+    "fr": ""
+  },
+  {
+    "id": "Finishing Strike",
+    "en": "Finishing Strike",
+    "fr": ""
+  },
+  {
+    "id": "Skill Test",
+    "en": "Skill Test",
+    "fr": ""
+  },
+  {
+    "id": "Big Double Dog",
+    "en": "Big Double Dog",
+    "fr": ""
+  },
+  {
+    "id": "Phys Mist",
+    "en": "Phys Mist",
+    "fr": ""
+  },
+  {
+    "id": "L Heal Stone",
+    "en": "L Heal Stone",
+    "fr": ""
+  },
+  {
+    "id": "Null Insta-kill",
+    "en": "Null Insta-kill",
+    "fr": ""
+  },
+  {
+    "id": "Null Ailments",
+    "en": "Null Ailments",
+    "fr": ""
+  },
+  {
+    "id": "Null Binds",
+    "en": "Null Binds",
+    "fr": ""
+  },
+  {
+    "id": "Return from Yomi",
+    "en": "Return from Yomi",
+    "fr": ""
+  },
+  {
+    "id": "Triple Link",
+    "en": "Triple Link",
+    "fr": ""
+  },
+  {
+    "id": "Quadruple Link",
+    "en": "Quadruple Link",
+    "fr": ""
+  },
+  {
+    "id": "Infinite Link",
+    "en": "Infinite Link",
+    "fr": ""
+  },
+  {
+    "id": "Magic Aura",
+    "en": "Magic Aura",
+    "fr": ""
+  },
+  {
+    "id": "Skill Boost",
+    "en": "Skill Boost",
+    "fr": ""
+  },
+  {
+    "id": "Heroic Spring",
+    "en": "Heroic Spring",
+    "fr": ""
+  },
+  {
+    "id": "Circle Aura",
+    "en": "Circle Aura",
+    "fr": ""
+  },
+  {
+    "id": "Healing Surge",
+    "en": "Healing Surge",
+    "fr": ""
+  },
+  {
+    "id": "Stun Recovery",
+    "en": "Stun Recovery",
+    "fr": ""
+  },
+  {
+    "id": "Overheat",
+    "en": "Overheat",
+    "fr": ""
+  },
+  {
+    "id": "Overheat End",
+    "en": "Overheat End",
+    "fr": ""
+  },
+  {
+    "id": "Vow End",
+    "en": "Vow End",
+    "fr": ""
+  },
+  {
+    "id": "Nuclear Boost",
+    "en": "Nuclear Boost",
+    "fr": ""
+  },
+  {
+    "id": "Psy Boost",
+    "en": "Psy Boost",
+    "fr": ""
+  },
+  {
+    "id": "Bless Boost",
+    "en": "Bless Boost",
+    "fr": ""
+  },
+  {
+    "id": "Curse Boost",
+    "en": "Curse Boost",
+    "fr": ""
+  },
+  {
+    "id": "Nuclear Amp",
+    "en": "Nuclear Amp",
+    "fr": ""
+  },
+  {
+    "id": "Psy Amp",
+    "en": "Psy Amp",
+    "fr": ""
+  },
+  {
+    "id": "Bless Amp",
+    "en": "Bless Amp",
+    "fr": ""
+  },
+  {
+    "id": "Curse Amp",
+    "en": "Curse Amp",
+    "fr": ""
+  },
+  {
+    "id": "Kunai Dance",
+    "en": "Kunai Dance",
+    "fr": ""
+  },
+  {
+    "id": "Intercept Fire",
+    "en": "Intercept Fire",
+    "fr": ""
+  },
+  {
+    "id": "Called Shot",
+    "en": "Called Shot",
+    "fr": ""
+  },
+  {
+    "id": "Sonic Rush",
+    "en": "Sonic Rush",
+    "fr": ""
+  },
+  {
+    "id": "Ailment Boost",
+    "en": "Ailment Boost",
+    "fr": ""
+  },
+  {
+    "id": "Ailment Surge",
+    "en": "Ailment Surge",
+    "fr": ""
+  },
+  {
+    "id": "Raging Fists",
+    "en": "Raging Fists",
+    "fr": ""
+  },
+  {
+    "id": "Furious Fists",
+    "en": "Furious Fists",
+    "fr": ""
+  },
+  {
+    "id": "Bound Arts",
+    "en": "Bound Arts",
+    "fr": ""
+  },
+  {
+    "id": "Bound Arts+",
+    "en": "Bound Arts+",
+    "fr": ""
+  },
+  {
+    "id": "Mistress Lash",
+    "en": "Mistress Lash",
+    "fr": ""
+  },
+  {
+    "id": "Protecting Sword",
+    "en": "Protecting Sword",
+    "fr": ""
+  },
+  {
+    "id": "Wnd-Elec Ankh",
+    "en": "Wnd-Elec Ankh",
+    "fr": ""
+  },
+  {
+    "id": "Fire Dance",
+    "en": "Fire Dance",
+    "fr": ""
+  },
+  {
+    "id": "Flame Dance",
+    "en": "Flame Dance",
+    "fr": ""
+  },
+  {
+    "id": "Inferno Dance",
+    "en": "Inferno Dance",
+    "fr": ""
+  },
+  {
+    "id": "Wind Dance",
+    "en": "Wind Dance",
+    "fr": ""
+  },
+  {
+    "id": "Gust Dance",
+    "en": "Gust Dance",
+    "fr": ""
+  },
+  {
+    "id": "Hurricane Dance",
+    "en": "Hurricane Dance",
+    "fr": ""
+  },
+  {
+    "id": "Absolute Zero",
+    "en": "Absolute Zero",
+    "fr": ""
+  },
+  {
+    "id": "Ice Dance",
+    "en": "Ice Dance",
+    "fr": ""
+  },
+  {
+    "id": "Frost Dance",
+    "en": "Frost Dance",
+    "fr": ""
+  },
+  {
+    "id": "Frigid Dance",
+    "en": "Frigid Dance",
+    "fr": ""
+  },
+  {
+    "id": "Elec Dance",
+    "en": "Elec Dance",
+    "fr": ""
+  },
+  {
+    "id": "Bolt Dance",
+    "en": "Bolt Dance",
+    "fr": ""
+  },
+  {
+    "id": "Storm Dance",
+    "en": "Storm Dance",
+    "fr": ""
+  },
+  {
+    "id": "Stona",
+    "en": "Stona",
+    "fr": ""
+  },
+  {
+    "id": "Stone Mist",
+    "en": "Stone Mist",
+    "fr": ""
+  },
+  {
+    "id": "Perplex Flash",
+    "en": "Perplex Flash",
+    "fr": ""
+  },
+  {
+    "id": "Shibaboo",
+    "en": "Shibaboo",
+    "fr": ""
+  },
+  {
+    "id": "Binding Cry",
+    "en": "Binding Cry",
+    "fr": ""
+  },
+  {
+    "id": "Silent Song",
+    "en": "Silent Song",
+    "fr": ""
+  },
+  {
+    "id": "Muscle Down",
+    "en": "Muscle Down",
+    "fr": ""
+  },
+  {
+    "id": "Spiderweb",
+    "en": "Spiderweb",
+    "fr": ""
+  },
+  {
+    "id": "Self-Destruct",
+    "en": "Self-Destruct",
+    "fr": ""
+  },
+  {
+    "id": "Bunny Slumber",
+    "en": "Bunny Slumber",
+    "fr": ""
+  },
+  {
+    "id": "Kouha",
+    "en": "Kouha",
+    "fr": ""
+  },
+  {
+    "id": "Kouga",
+    "en": "Kouga",
+    "fr": ""
+  },
+  {
+    "id": "Kougaon",
+    "en": "Kougaon",
+    "fr": ""
+  },
+  {
+    "id": "Eiha",
+    "en": "Eiha",
+    "fr": ""
+  },
+  {
+    "id": "Eiga",
+    "en": "Eiga",
+    "fr": ""
+  },
+  {
+    "id": "Eigaon",
+    "en": "Eigaon",
+    "fr": ""
+  },
+  {
+    "id": "Frei",
+    "en": "Frei",
+    "fr": ""
+  },
+  {
+    "id": "Freila",
+    "en": "Freila",
+    "fr": ""
+  },
+  {
+    "id": "Freidyne",
+    "en": "Freidyne",
+    "fr": ""
+  },
+  {
+    "id": "Atomic Flare",
+    "en": "Atomic Flare",
+    "fr": ""
+  },
+  {
+    "id": "Mafrei",
+    "en": "Mafrei",
+    "fr": ""
+  },
+  {
+    "id": "Psi",
+    "en": "Psi",
+    "fr": ""
+  },
+  {
+    "id": "Psio",
+    "en": "Psio",
+    "fr": ""
+  },
+  {
+    "id": "Psiodyne",
+    "en": "Psiodyne",
+    "fr": ""
+  },
+  {
+    "id": "Psycho Force",
+    "en": "Psycho Force",
+    "fr": ""
+  },
+  {
+    "id": "Mapsi",
+    "en": "Mapsi",
+    "fr": ""
+  },
+  {
+    "id": "God's Judgment",
+    "en": "God's Judgment",
+    "fr": ""
+  },
+  {
+    "id": "Hell's Judgment",
+    "en": "Hell's Judgment",
+    "fr": ""
+  },
+  {
+    "id": "Divine Vacuum",
+    "en": "Divine Vacuum",
+    "fr": ""
+  },
+  {
+    "id": "Hard Slash",
+    "en": "Hard Slash",
+    "fr": ""
+  },
+  {
+    "id": "Charge Shot",
+    "en": "Charge Shot",
+    "fr": ""
+  },
+  {
+    "id": "Stab Shower",
+    "en": "Stab Shower",
+    "fr": ""
+  },
+  {
+    "id": "Drain Touch",
+    "en": "Drain Touch",
+    "fr": ""
+  },
+  {
+    "id": "Thorn Shackles",
+    "en": "Thorn Shackles",
+    "fr": ""
+  },
+  {
+    "id": "Thorn Cuffs",
+    "en": "Thorn Cuffs",
+    "fr": ""
+  },
+  {
+    "id": "Thorn Chains",
+    "en": "Thorn Chains",
+    "fr": ""
+  },
+  {
+    "id": "Megaton Press",
+    "en": "Megaton Press",
+    "fr": ""
+  },
+  {
+    "id": "Stardrop",
+    "en": "Stardrop",
+    "fr": ""
+  },
+  {
+    "id": "Buchikamashi",
+    "en": "Buchikamashi",
+    "fr": ""
+  },
+  {
+    "id": "Spin Slash",
+    "en": "Spin Slash",
+    "fr": ""
+  },
+  {
+    "id": "Crazed Slash",
+    "en": "Crazed Slash",
+    "fr": ""
+  },
+  {
+    "id": "Megaton Slam",
+    "en": "Megaton Slam",
+    "fr": ""
+  },
+  {
+    "id": "Blinding Slice",
+    "en": "Blinding Slice",
+    "fr": ""
+  },
+  {
+    "id": "Toxic Slice",
+    "en": "Toxic Slice",
+    "fr": ""
+  },
+  {
+    "id": "Dream Slice",
+    "en": "Dream Slice",
+    "fr": ""
+  },
+  {
+    "id": "Stunning Slice",
+    "en": "Stunning Slice",
+    "fr": ""
+  },
+  {
+    "id": "Bane Slice",
+    "en": "Bane Slice",
+    "fr": ""
+  },
+  {
+    "id": "Mow Down",
+    "en": "Mow Down",
+    "fr": ""
+  },
+  {
+    "id": "Torrent Shot",
+    "en": "Torrent Shot",
+    "fr": ""
+  },
+  {
+    "id": "Egg Bomb",
+    "en": "Egg Bomb",
+    "fr": ""
+  },
+  {
+    "id": "Burst Arm",
+    "en": "Burst Arm",
+    "fr": ""
+  },
+  {
+    "id": "Supersonic Hero",
+    "en": "Supersonic Hero",
+    "fr": ""
+  },
+  {
+    "id": "Kamoshida Kick",
+    "en": "Kamoshida Kick",
+    "fr": ""
+  },
+  {
+    "id": "Carrot Gun",
+    "en": "Carrot Gun",
+    "fr": ""
+  },
+  {
+    "id": "Carrot Bomb",
+    "en": "Carrot Bomb",
+    "fr": ""
+  },
+  {
+    "id": "Scepter Strike",
+    "en": "Scepter Strike",
+    "fr": ""
+  },
+  {
+    "id": "End Shot",
+    "en": "End Shot",
+    "fr": ""
+  },
+  {
+    "id": "Scarlet Laser",
+    "en": "Scarlet Laser",
+    "fr": ""
+  },
+  {
+    "id": "Barrage",
+    "en": "Barrage",
+    "fr": ""
+  },
+  {
+    "id": "Berserk Frenzy",
+    "en": "Berserk Frenzy",
+    "fr": ""
+  },
+  {
+    "id": "Sabaton Slice",
+    "en": "Sabaton Slice",
+    "fr": ""
+  },
+  {
+    "id": "Crushing Strike",
+    "en": "Crushing Strike",
+    "fr": ""
+  },
+  {
+    "id": "Eliminate",
+    "en": "Eliminate",
+    "fr": ""
+  },
+  {
+    "id": "Leg Eraser",
+    "en": "Leg Eraser",
+    "fr": ""
+  },
+  {
+    "id": "Power Eraser",
+    "en": "Power Eraser",
+    "fr": ""
+  },
+  {
+    "id": "Head Eraser",
+    "en": "Head Eraser",
+    "fr": ""
+  },
+  {
+    "id": "Weapon Breaker",
+    "en": "Weapon Breaker",
+    "fr": ""
+  },
+  {
+    "id": "Tail Whip",
+    "en": "Tail Whip",
+    "fr": ""
+  },
+  {
+    "id": "Medical Kit",
+    "en": "Medical Kit",
+    "fr": ""
+  },
+  {
+    "id": "Auto Recovery",
+    "en": "Auto Recovery",
+    "fr": ""
+  },
+  {
+    "id": "Nasty Taunt",
+    "en": "Nasty Taunt",
+    "fr": ""
+  },
+  {
+    "id": "Rampart",
+    "en": "Rampart",
+    "fr": ""
+  },
+  {
+    "id": "Fire Corrosion",
+    "en": "Fire Corrosion",
+    "fr": ""
+  },
+  {
+    "id": "Ice Corrosion",
+    "en": "Ice Corrosion",
+    "fr": ""
+  },
+  {
+    "id": "Elec Corrosion",
+    "en": "Elec Corrosion",
+    "fr": ""
+  },
+  {
+    "id": "Wind Corrosion",
+    "en": "Wind Corrosion",
+    "fr": ""
+  },
+  {
+    "id": "Escape",
+    "en": "Escape",
+    "fr": ""
+  },
+  {
+    "id": "Hypercharge",
+    "en": "Hypercharge",
+    "fr": ""
+  },
+  {
+    "id": "Absolute Power",
+    "en": "Absolute Power",
+    "fr": ""
+  },
+  {
+    "id": "War Cry",
+    "en": "War Cry",
+    "fr": ""
+  },
+  {
+    "id": "Psych Up",
+    "en": "Psych Up",
+    "fr": ""
+  },
+  {
+    "id": "Wild Rush",
+    "en": "Wild Rush",
+    "fr": ""
+  },
+  {
+    "id": "Riot Run",
+    "en": "Riot Run",
+    "fr": ""
+  },
+  {
+    "id": "Double Sukukaja",
+    "en": "Double Sukukaja",
+    "fr": ""
+  },
+  {
+    "id": "Triple Sukukaja",
+    "en": "Triple Sukukaja",
+    "fr": ""
+  },
+  {
+    "id": "Recovery Up",
+    "en": "Recovery Up",
+    "fr": ""
+  },
+  {
+    "id": "Phys Boost",
+    "en": "Phys Boost",
+    "fr": ""
+  },
+  {
+    "id": "Phys Boost II",
+    "en": "Phys Boost II",
+    "fr": ""
+  },
+  {
+    "id": "Magic Boost",
+    "en": "Magic Boost",
+    "fr": ""
+  },
+  {
+    "id": "Wide Attack",
+    "en": "Wide Attack",
+    "fr": ""
+  },
+  {
+    "id": "Wide Attack II",
+    "en": "Wide Attack II",
+    "fr": ""
+  },
+  {
+    "id": "Wide Attack III",
+    "en": "Wide Attack III",
+    "fr": ""
+  },
+  {
+    "id": "Double Break",
+    "en": "Double Break",
+    "fr": ""
+  },
+  {
+    "id": "Double Break II",
+    "en": "Double Break II",
+    "fr": ""
+  },
+  {
+    "id": "Double Break III",
+    "en": "Double Break III",
+    "fr": ""
+  },
+  {
+    "id": "Oratorio",
+    "en": "Oratorio",
+    "fr": ""
+  },
+  {
+    "id": "Brutal Arm",
+    "en": "Brutal Arm",
+    "fr": ""
+  },
+  {
+    "id": "Ariadne Chain",
+    "en": "Ariadne Chain",
+    "fr": ""
+  },
+  {
+    "id": "Infernal Wings",
+    "en": "Infernal Wings",
+    "fr": ""
+  },
+  {
+    "id": "Cross Slash",
+    "en": "Cross Slash",
+    "fr": ""
+  },
+  {
+    "id": "Elec Turbo",
+    "en": "Elec Turbo",
+    "fr": ""
+  },
+  {
+    "id": "Ice Turbo",
+    "en": "Ice Turbo",
+    "fr": ""
+  },
+  {
+    "id": "Psy Turbo",
+    "en": "Psy Turbo",
+    "fr": ""
+  },
+  {
+    "id": "Nuke Turbo",
+    "en": "Nuke Turbo",
+    "fr": ""
+  },
+  {
+    "id": "Bless Turbo",
+    "en": "Bless Turbo",
+    "fr": ""
+  },
+  {
+    "id": "Curse Turbo",
+    "en": "Curse Turbo",
+    "fr": ""
+  },
+  {
+    "id": "Resonance",
+    "en": "Resonance",
+    "fr": ""
+  },
+  {
+    "id": "Telepathic Bond",
+    "en": "Telepathic Bond",
+    "fr": ""
+  },
+  {
+    "id": "Aspiring Heart",
+    "en": "Aspiring Heart",
+    "fr": ""
+  },
+  {
+    "id": "Great Unity Link",
+    "en": "Great Unity Link",
+    "fr": ""
+  },
+  {
+    "id": "Ironfist Style",
+    "en": "Ironfist Style",
+    "fr": ""
+  },
+  {
+    "id": "Effortless Style",
+    "en": "Effortless Style",
+    "fr": ""
+  },
+  {
+    "id": "Psy Drain",
+    "en": "Psy Drain",
+    "fr": ""
+  },
+  {
+    "id": "Nuclear Drain",
+    "en": "Nuclear Drain",
+    "fr": ""
+  },
+  {
+    "id": "Fire Evasion",
+    "en": "Fire Evasion",
+    "fr": ""
+  },
+  {
+    "id": "Ice Evasion",
+    "en": "Ice Evasion",
+    "fr": ""
+  },
+  {
+    "id": "Wind Evasion",
+    "en": "Wind Evasion",
+    "fr": ""
+  },
+  {
+    "id": "Elec Evasion",
+    "en": "Elec Evasion",
+    "fr": ""
+  },
+  {
+    "id": "Nuclear Evasion",
+    "en": "Nuclear Evasion",
+    "fr": ""
+  },
+  {
+    "id": "Psy Evasion",
+    "en": "Psy Evasion",
+    "fr": ""
+  },
+  {
+    "id": "Baton Pass",
+    "en": "Baton Pass",
+    "fr": ""
+  },
+  {
+    "id": "Attack 2",
+    "en": "Attack 2",
+    "fr": ""
+  },
+  {
+    "id": "Guard",
+    "en": "Guard",
+    "fr": ""
+  },
+  {
+    "id": "Soldier Summon",
+    "en": "Soldier Summon",
+    "fr": ""
+  },
+  {
+    "id": "Reinforcements",
+    "en": "Reinforcements",
+    "fr": ""
+  },
+  {
+    "id": "Holy Wrath",
+    "en": "Holy Wrath",
+    "fr": ""
+  },
+  {
+    "id": "Vow",
+    "en": "Vow",
+    "fr": ""
+  },
+  {
+    "id": "Piercing Rapier",
+    "en": "Piercing Rapier",
+    "fr": ""
+  },
+  {
+    "id": "Tempest Dance",
+    "en": "Tempest Dance",
+    "fr": ""
+  },
+  {
+    "id": "Wind Fang",
+    "en": "Wind Fang",
+    "fr": ""
+  },
+  {
+    "id": "Swift Fang",
+    "en": "Swift Fang",
+    "fr": ""
+  },
+  {
+    "id": "Gale Fang",
+    "en": "Gale Fang",
+    "fr": ""
+  },
+  {
+    "id": "Tempest Fang",
+    "en": "Tempest Fang",
+    "fr": ""
+  },
+  {
+    "id": "Drastic Measure",
+    "en": "Drastic Measure",
+    "fr": ""
+  },
+  {
+    "id": "Rabbit's Foot",
+    "en": "Rabbit's Foot",
+    "fr": ""
+  },
+  {
+    "id": "Deafening Roar",
+    "en": "Deafening Roar",
+    "fr": ""
+  },
+  {
+    "id": "Gears of Time",
+    "en": "Gears of Time",
+    "fr": ""
+  },
+  {
+    "id": "Time Warp",
+    "en": "Time Warp",
+    "fr": ""
+  },
+  {
+    "id": "Death Sentence",
+    "en": "Death Sentence",
+    "fr": ""
+  },
+  {
+    "id": "Time Reversal",
+    "en": "Time Reversal",
+    "fr": ""
+  },
+  {
+    "id": "Time Stop",
+    "en": "Time Stop",
+    "fr": ""
+  },
+  {
+    "id": "Denial",
+    "en": "Denial",
+    "fr": ""
+  },
+  {
+    "id": "Synchronicity",
+    "en": "Synchronicity",
+    "fr": ""
+  },
+  {
+    "id": "Auto-Recover 25%",
+    "en": "Auto-Recover 25%",
+    "fr": ""
+  },
+  {
+    "id": "Auto-Recover 40%",
+    "en": "Auto-Recover 40%",
+    "fr": ""
+  },
+  {
+    "id": "Auto-Recover 70%",
+    "en": "Auto-Recover 70%",
+    "fr": ""
+  },
+  {
+    "id": "Pounce Punch",
+    "en": "Pounce Punch",
+    "fr": ""
+  },
+  {
+    "id": "Cloak of Despair",
+    "en": "Cloak of Despair",
+    "fr": ""
+  },
+  {
+    "id": "Infinite Despair",
+    "en": "Infinite Despair",
+    "fr": ""
+  },
+  {
+    "id": "Urgent Recovery",
+    "en": "Urgent Recovery",
+    "fr": ""
+  },
+  {
+    "id": "Flame Tempest",
+    "en": "Flame Tempest",
+    "fr": ""
+  },
+  {
+    "id": "Frost Tempest",
+    "en": "Frost Tempest",
+    "fr": ""
+  },
+  {
+    "id": "Saint Tempest",
+    "en": "Saint Tempest",
+    "fr": ""
+  },
+  {
+    "id": "Umbral Tempest",
+    "en": "Umbral Tempest",
+    "fr": ""
+  },
+  {
+    "id": "Saint Spear",
+    "en": "Saint Spear",
+    "fr": ""
+  },
+  {
+    "id": "Air Slice",
+    "en": "Air Slice",
+    "fr": ""
+  },
+  {
+    "id": "Flame Aura",
+    "en": "Flame Aura",
+    "fr": ""
+  },
+  {
+    "id": "Frost Aura",
+    "en": "Frost Aura",
+    "fr": ""
+  },
+  {
+    "id": "Saint Aura",
+    "en": "Saint Aura",
+    "fr": ""
+  },
+  {
+    "id": "Umbral Aura",
+    "en": "Umbral Aura",
+    "fr": ""
+  },
+  {
+    "id": "Rage",
+    "en": "Rage",
+    "fr": ""
+  },
+  {
+    "id": "Origin Strike",
+    "en": "Origin Strike",
+    "fr": ""
+  },
+  {
+    "id": "Retake",
+    "en": "Retake",
+    "fr": ""
+  },
+  {
+    "id": "Time Accelerate",
+    "en": "Time Accelerate",
+    "fr": ""
+  },
+  {
+    "id": "Kamoshidaman!",
+    "en": "Kamoshidaman!",
+    "fr": ""
+  },
+  {
+    "id": "Gale Link",
+    "en": "Gale Link",
+    "fr": ""
+  },
+  {
+    "id": "Skull Bro-Bash",
+    "en": "Skull Bro-Bash",
+    "fr": ""
+  },
+  {
+    "id": "Brand☆New☆Bam",
+    "en": "Brand☆New☆Bam",
+    "fr": ""
+  },
+  {
+    "id": "Kacho Fugetsu",
+    "en": "Kacho Fugetsu",
+    "fr": ""
+  },
+  {
+    "id": "Lightning Duo",
+    "en": "Lightning Duo",
+    "fr": ""
+  },
+  {
+    "id": "Prince Pincer",
+    "en": "Prince Pincer",
+    "fr": ""
+  },
+  {
+    "id": "Severed Fate",
+    "en": "Severed Fate",
+    "fr": ""
+  },
+  {
+    "id": "Presidential Combo",
+    "en": "Presidential Combo",
+    "fr": ""
+  },
+  {
+    "id": "Strike of Bonds",
+    "en": "Strike of Bonds",
+    "fr": ""
+  },
+  {
+    "id": "Roar of Hunger",
+    "en": "Roar of Hunger",
+    "fr": ""
+  },
+  {
+    "id": "Trainee Air Raid",
+    "en": "Trainee Air Raid",
+    "fr": ""
+  },
+  {
+    "id": "Charge of Trust",
+    "en": "Charge of Trust",
+    "fr": ""
+  },
+  {
+    "id": "Animal Capriccio",
+    "en": "Animal Capriccio",
+    "fr": ""
+  },
+  {
+    "id": "Pair of Aces",
+    "en": "Pair of Aces",
+    "fr": ""
+  },
+  {
+    "id": "Destined Strike",
+    "en": "Destined Strike",
+    "fr": ""
+  },
+  {
+    "id": "Double Trigger",
+    "en": "Double Trigger",
+    "fr": ""
+  },
+  {
+    "id": "Beauty Quartet",
+    "en": "Beauty Quartet",
+    "fr": ""
+  },
+  {
+    "id": "Triple Support",
+    "en": "Triple Support",
+    "fr": ""
+  },
+  {
+    "id": "Martial Artistry",
+    "en": "Martial Artistry",
+    "fr": ""
+  },
+  {
+    "id": "Partner Power",
+    "en": "Partner Power",
+    "fr": ""
+  },
+  {
+    "id": "Wildcard Order",
+    "en": "Wildcard Order",
+    "fr": ""
+  },
+  {
+    "id": "Makouha",
+    "en": "Makouha",
+    "fr": ""
+  },
+  {
+    "id": "Makouga",
+    "en": "Makouga",
+    "fr": ""
+  },
+  {
+    "id": "Makougaon",
+    "en": "Makougaon",
+    "fr": ""
+  },
+  {
+    "id": "Maeiha",
+    "en": "Maeiha",
+    "fr": ""
+  },
+  {
+    "id": "Maeiga",
+    "en": "Maeiga",
+    "fr": ""
+  },
+  {
+    "id": "Maeigaon",
+    "en": "Maeigaon",
+    "fr": ""
+  },
+  {
+    "id": "Mafreila",
+    "en": "Mafreila",
+    "fr": ""
+  },
+  {
+    "id": "Mafreidyne",
+    "en": "Mafreidyne",
+    "fr": ""
+  },
+  {
+    "id": "Cosmic Flare",
+    "en": "Cosmic Flare",
+    "fr": ""
+  },
+  {
+    "id": "Mapsio",
+    "en": "Mapsio",
+    "fr": ""
+  },
+  {
+    "id": "Mapsiodyne",
+    "en": "Mapsiodyne",
+    "fr": ""
+  },
+  {
+    "id": "Psycho Blast",
+    "en": "Psycho Blast",
+    "fr": ""
+  },
+  {
+    "id": "Black Spot",
+    "en": "Black Spot",
+    "fr": ""
+  },
+  {
+    "id": "Herculean Strike",
+    "en": "Herculean Strike",
+    "fr": ""
+  },
+  {
+    "id": "Agneyastra",
+    "en": "Agneyastra",
+    "fr": ""
+  },
+  {
+    "id": "Brave Blade",
+    "en": "Brave Blade",
+    "fr": ""
+  },
+  {
+    "id": "Oneshot Kill",
+    "en": "Oneshot Kill",
+    "fr": ""
+  },
+  {
+    "id": "Calm Blade",
+    "en": "Calm Blade",
+    "fr": ""
+  },
+  {
+    "id": "Phys-Ag Bind",
+    "en": "Phys-Ag Bind",
+    "fr": ""
+  },
+  {
+    "id": "Vengeful Smash",
+    "en": "Vengeful Smash",
+    "fr": ""
+  },
+  {
+    "id": "Punishing Strike",
+    "en": "Punishing Strike",
+    "fr": ""
+  },
+  {
+    "id": "Vengeful Melee",
+    "en": "Vengeful Melee",
+    "fr": ""
+  },
+  {
+    "id": "Divine Strike",
+    "en": "Divine Strike",
+    "fr": ""
+  },
+  {
+    "id": "Supreme Strike",
+    "en": "Supreme Strike",
+    "fr": ""
+  },
+  {
+    "id": "Heaven's Strike",
+    "en": "Heaven's Strike",
+    "fr": ""
+  },
+  {
+    "id": "Dream Needle",
+    "en": "Dream Needle",
+    "fr": ""
+  },
+  {
+    "id": "Machismo Wall",
+    "en": "Machismo Wall",
+    "fr": ""
+  },
+  {
+    "id": "Cost Cutter",
+    "en": "Cost Cutter",
+    "fr": ""
+  },
+  {
+    "id": "Called Homerun",
+    "en": "Called Homerun",
+    "fr": ""
+  },
+  {
+    "id": "Kunai Backup",
+    "en": "Kunai Backup",
+    "fr": ""
+  },
+  {
+    "id": "Voltaic Surge",
+    "en": "Voltaic Surge",
+    "fr": ""
+  },
+  {
+    "id": "Deflector Shot",
+    "en": "Deflector Shot",
+    "fr": ""
+  },
+  {
+    "id": "Sleuth Insight",
+    "en": "Sleuth Insight",
+    "fr": ""
+  },
+  {
+    "id": "Counter Stance",
+    "en": "Counter Stance",
+    "fr": ""
+  },
+  {
+    "id": "Machismo Barrier",
+    "en": "Machismo Barrier",
+    "fr": ""
+  },
+  {
+    "id": "Rush Stance",
+    "en": "Rush Stance",
+    "fr": ""
+  },
+  {
+    "id": "Counter Bash",
+    "en": "Counter Bash",
+    "fr": ""
+  },
+  {
+    "id": "Taunt Counter",
+    "en": "Taunt Counter",
+    "fr": ""
+  },
+  {
+    "id": "Empress Pierce",
+    "en": "Empress Pierce",
+    "fr": ""
+  },
+  {
+    "id": "Unlimiter",
+    "en": "Unlimiter",
+    "fr": ""
+  },
+  {
+    "id": "Full Throttle",
+    "en": "Full Throttle",
+    "fr": ""
+  },
+  {
+    "id": "Lucky Punch",
+    "en": "Lucky Punch",
+    "fr": ""
+  },
+  {
+    "id": "Miracle Punch",
+    "en": "Miracle Punch",
+    "fr": ""
+  },
+  {
+    "id": "Counter Style",
+    "en": "Counter Style",
+    "fr": ""
+  },
+  {
+    "id": "Revenge Style",
+    "en": "Revenge Style",
+    "fr": ""
+  },
+  {
+    "id": "Snacking Art",
+    "en": "Snacking Art",
+    "fr": ""
+  },
+  {
+    "id": "Snack Expertise",
+    "en": "Snack Expertise",
+    "fr": ""
+  },
+  {
+    "id": "Detective's Ban",
+    "en": "Detective's Ban",
+    "fr": ""
+  },
+  {
+    "id": "Kitty Step",
+    "en": "Kitty Step",
+    "fr": ""
+  },
+  {
+    "id": "Axe Guard",
+    "en": "Axe Guard",
+    "fr": ""
+  },
+  {
+    "id": "Illusive Dance",
+    "en": "Illusive Dance",
+    "fr": ""
+  },
+  {
+    "id": "Mirage Dance",
+    "en": "Mirage Dance",
+    "fr": ""
+  },
+  {
+    "id": "Immunity Bod",
+    "en": "Immunity Bod",
+    "fr": ""
+  },
+  {
+    "id": "Paradise Stroll",
+    "en": "Paradise Stroll",
+    "fr": ""
+  },
+  {
+    "id": "Veteran's Aura",
+    "en": "Veteran's Aura",
+    "fr": ""
+  },
+  {
+    "id": "Aegis Shielding",
+    "en": "Aegis Shielding",
+    "fr": ""
+  },
+  {
+    "id": "Regenerate 1",
+    "en": "Regenerate 1",
+    "fr": ""
+  },
+  {
+    "id": "Regenerate 2",
+    "en": "Regenerate 2",
+    "fr": ""
+  },
+  {
+    "id": "Regenerate 3",
+    "en": "Regenerate 3",
+    "fr": ""
+  },
+  {
+    "id": "Invigorate 1",
+    "en": "Invigorate 1",
+    "fr": ""
+  },
+  {
+    "id": "Invigorate 2",
+    "en": "Invigorate 2",
+    "fr": ""
+  },
+  {
+    "id": "Invigorate 3",
+    "en": "Invigorate 3",
+    "fr": ""
+  },
+  {
+    "id": "Guillotine Slice",
+    "en": "Guillotine Slice",
+    "fr": ""
+  },
+  {
+    "id": "Guillotine Blade",
+    "en": "Guillotine Blade",
+    "fr": ""
+  },
+  {
+    "id": "Punishing Bite",
+    "en": "Punishing Bite",
+    "fr": ""
+  },
+  {
+    "id": "Punishing End",
+    "en": "Punishing End",
+    "fr": ""
+  },
+  {
+    "id": "Saint's Touch",
+    "en": "Saint's Touch",
+    "fr": ""
+  },
+  {
+    "id": "Arm Crusher",
+    "en": "Arm Crusher",
+    "fr": ""
+  },
+  {
+    "id": "Axe Bulwark",
+    "en": "Axe Bulwark",
+    "fr": ""
+  },
+  {
+    "id": "Cost Reduction",
+    "en": "Cost Reduction",
+    "fr": ""
+  },
+  {
+    "id": "Invincible Bod",
+    "en": "Invincible Bod",
+    "fr": ""
+  },
+  {
+    "id": "Power Knack",
+    "en": "Power Knack",
+    "fr": ""
+  },
+  {
+    "id": "Power Talent",
+    "en": "Power Talent",
+    "fr": ""
+  },
+  {
+    "id": "Power Genius",
+    "en": "Power Genius",
+    "fr": ""
+  },
+  {
+    "id": "Magic Knack",
+    "en": "Magic Knack",
+    "fr": ""
+  },
+  {
+    "id": "Magic Talent",
+    "en": "Magic Talent",
+    "fr": ""
+  },
+  {
+    "id": "Magic Genius",
+    "en": "Magic Genius",
+    "fr": ""
+  },
+  {
+    "id": "Endure Knack",
+    "en": "Endure Knack",
+    "fr": ""
+  },
+  {
+    "id": "Endure Talent",
+    "en": "Endure Talent",
+    "fr": ""
+  },
+  {
+    "id": "Endure Genius",
+    "en": "Endure Genius",
+    "fr": ""
+  },
+  {
+    "id": "Agility Knack",
+    "en": "Agility Knack",
+    "fr": ""
+  },
+  {
+    "id": "Agility Talent",
+    "en": "Agility Talent",
+    "fr": ""
+  },
+  {
+    "id": "Agility Genius",
+    "en": "Agility Genius",
+    "fr": ""
+  },
+  {
+    "id": "Luck Knack",
+    "en": "Luck Knack",
+    "fr": ""
+  },
+  {
+    "id": "Luck Talent",
+    "en": "Luck Talent",
+    "fr": ""
+  },
+  {
+    "id": "Luck Genius",
+    "en": "Luck Genius",
+    "fr": ""
+  }
+]

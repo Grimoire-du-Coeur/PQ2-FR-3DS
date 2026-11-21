@@ -1,0 +1,27 @@
+[
+  {
+    "id": "MSG_SYS_SWITCH_ON",
+    "en": "I pressed the switch.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_SAISYU",
+    "en": "\"Treasure Spots\"{SAUT}Learn about {f 0 1 2}Treasure Spots{f 0 1 0} here.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_POWERSPOT",
+    "en": "ôTreasure Spots{SAUT}Here is where you can search for{SAUT}items decidedly more opulent than{SAUT}what you'd find at your average P-{SAUT}spot. There's a limited number of{SAUT}such trinkets, sadly, but {f 0 1 2}if you exit{SAUT}the labyrinth, Treasure Spots will{SAUT}lavishly replenish themselves{f 0 1 0}.{SAUT}Treasure them in your heart!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_GET_TRESURE_ITEM",
+    "en": "It looks like something's buried here...",
+    "fr": ""
+  },
+  {
+    "id": "BAG_FULL",
+    "en": "It looks like something's buried here,{SAUT}but my bag is full...{PAGE}I'll return when I have more space...",
+    "fr": ""
+  }
+]

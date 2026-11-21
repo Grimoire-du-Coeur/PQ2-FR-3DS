@@ -17,6 +17,8 @@ import struct
 from pathlib import Path
 from typing import BinaryIO
 
+import blz
+
 MU = 0x200                          # unité de taille des en-têtes NCSD/NCCH
 TITLE_ID_EU = 0x00040000001D7600    # Persona Q2, version européenne (CTR-P-AQ2P)
 SANS_LIEN = 0xFFFFFFFF
@@ -73,6 +75,39 @@ def _data_cpk(f: BinaryIO, romfs: int) -> tuple[int, int]:
             return niveau3 + donnees_pos + pos, taille
         o = suivant
     raise ErreurImage("data.cpk introuvable dans le RomFS : est-ce bien Persona Q2 ?")
+
+
+class PasDeCode(ErreurImage):
+    """Le fichier donné (data.cpk seul) ne contient pas le code du jeu."""
+
+
+def lire_code(chemin: Path) -> bytes:
+    """Le code du jeu (ExeFS « .code »), décompressé : c'est lui que patche code.ips."""
+    with open(chemin, "rb") as f:
+        tete = f.read(0x200)
+        if tete[0x100:0x104] == b"NCSD":
+            debut = struct.unpack_from("<I", tete, 0x120)[0] * MU
+        elif tete[0x100:0x104] == b"NCCH":
+            debut = 0
+        else:
+            raise PasDeCode("le code du jeu n'est que dans l'image complète (.3ds/.cci ou .cxi)")
+        _ncch(f, debut)                                 # mêmes contrôles que pour le RomFS
+        f.seek(debut)
+        ncch = f.read(0x200)
+        exefs, taille = (v * MU for v in struct.unpack_from("<II", ncch, 0x1A0))
+        if not taille:
+            raise PasDeCode("la partition du jeu n'a pas d'ExeFS")
+        f.seek(debut + 0x200)
+        compresse = f.read(0x400)[0xD] & 1               # exheader, drapeaux du code
+        f.seek(debut + exefs)
+        tete_exefs = f.read(0x200)
+        for k in range(0, 0xA0, 16):
+            if tete_exefs[k:k + 8].rstrip(b"\0") == b".code":
+                pos, taille_code = struct.unpack_from("<II", tete_exefs, k + 8)
+                f.seek(debut + exefs + 0x200 + pos)
+                code = f.read(taille_code)
+                return blz.decompresser(code) if compresse else code
+    raise ErreurImage("code du jeu introuvable dans l'ExeFS")
 
 
 def localiser_data_cpk(chemin: Path) -> tuple[int, int]:

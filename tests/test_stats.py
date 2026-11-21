@@ -85,3 +85,19 @@ def test_divergences_dans_le_suivi(tmp_path):
                                                   {"id": "2", "en": "Huh?", "fr": "Quoi ?"}])
     suivi = stats.suivi(stats.compter(trad))
     assert "## À harmoniser" in suivi and "Hein ?" in suivi and "Quoi ?" in suivi
+
+
+def test_qui_fait_quoi(tmp_path):
+    c = stats.compter(_trad(tmp_path))
+    ouvertes = [{"number": 7, "author": {"login": "chenetulipe"}, "isDraft": False,
+                 "files": [{"path": "trad/histoire/e000/a.json"}, {"path": "README.md"}]}]
+    fusionnees = [{"number": 3, "author": {"login": "tyron2611"},
+                   "files": [{"path": "trad/histoire/e000/a.json"}]},
+                  {"number": 4, "author": {"login": "CodeByHaamza"},
+                   "files": [{"path": "outils/stats.py"}]}]
+    stats.ajouter_activite(c, ouvertes, fusionnees)
+    assert c.en_cours["histoire/e000"] == [("chenetulipe", 7)]
+    assert c.contributeurs["histoire/e000"] == ["tyron2611"]
+    suivi = stats.suivi(c)
+    assert "@chenetulipe ([#7](" in suivi and "@tyron2611" in suivi
+    assert "CodeByHaamza" not in suivi            # une PR d'outillage ne crédite pas un dossier

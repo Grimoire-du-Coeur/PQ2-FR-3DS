@@ -40,6 +40,8 @@ class Compte:
     revoir: list[tuple[str, str]] = field(default_factory=list)
     propages: int = 0                       # entrées couvertes par la mémoire (memoire.py)
     divergences: list = field(default_factory=list)
+    en_cours: dict[str, list[tuple[str, int]]] = field(default_factory=dict)   # dossier -> (auteur, PR)
+    contributeurs: dict[str, list[str]] = field(default_factory=dict)          # dossier -> auteurs
 
     def total(self) -> tuple[int, int]:
         return (sum(v[0] for v in self.categories.values()),
@@ -128,6 +130,46 @@ def ecrire_badges(c: Compte, dossier: Path) -> None:
                                    encoding="utf-8", newline="\n")
 
 
+def _dossier(chemin: str) -> str | None:
+    """« trad/histoire/e000/x.json » -> « histoire/e000 » ; None hors des traductions."""
+    if not chemin.startswith("trad/") or not chemin.endswith(".json"):
+        return None
+    parties = chemin[len("trad/"):].split("/")
+    if parties[-1].startswith("_"):
+        return None
+    return "/".join(parties[:2]) if len(parties) > 2 else parties[0]
+
+
+def ajouter_activite(c: Compte, ouvertes: list[dict], fusionnees: list[dict]) -> None:
+    """Qui a une Pull Request ouverte sur quel dossier, et qui y a déjà traduit.
+
+    Les listes viennent de `gh pr list --json number,author,files` : la CI les
+    passe au suivi, qui ne fait lui-même aucun appel réseau.
+    """
+    def dossiers(pr: dict) -> list[str]:
+        vus = []
+        for f in pr.get("files") or []:
+            d = _dossier(f.get("path", ""))
+            if d and d not in vus:
+                vus.append(d)
+        return vus
+
+    def auteur(pr: dict) -> str | None:
+        login = (pr.get("author") or {}).get("login", "")
+        return None if not login or login.endswith("[bot]") or login.startswith("app/") else login
+
+    for pr in sorted(ouvertes, key=lambda p: p["number"]):
+        if auteur(pr):
+            for d in dossiers(pr):
+                c.en_cours.setdefault(d, []).append((auteur(pr), pr["number"]))
+    for pr in sorted(fusionnees, key=lambda p: p["number"]):
+        if auteur(pr):
+            for d in dossiers(pr):
+                liste = c.contributeurs.setdefault(d, [])
+                if auteur(pr) not in liste:
+                    liste.append(auteur(pr))
+
+
 def suivi(c: Compte) -> str:
     morceaux = [
         "# Avancement de la traduction",
@@ -143,12 +185,17 @@ def suivi(c: Compte) -> str:
         "",
         "## Par dossier",
         "",
-        "| Dossier | Traduits | % |",
-        "|---|---:|---:|",
+        "Une Pull Request ouverte **réserve** son dossier : regarde la colonne « En cours » avant "
+        "de commencer, et annonce-toi sur le Discord.",
+        "",
+        "| Dossier | Traduits | % | En cours | Traduit par |",
+        "|---|---:|---:|---|---|",
     ]
     for dossier, (f, t) in sorted(c.dossiers.items()):
+        en_cours = ", ".join(f"@{a} ([#{n}]({DEPOT}/pull/{n}))" for a, n in c.en_cours.get(dossier, []))
+        par = ", ".join(f"@{a}" for a in c.contributeurs.get(dossier, []))
         morceaux.append(f"| [`{dossier}`]({DEPOT}/blob/main/trad/{dossier}) | "
-                        f"{_nombre(f)} / {_nombre(t)} | {pourcentage(f, t)} |")
+                        f"{_nombre(f)} / {_nombre(t)} | {pourcentage(f, t)} | {en_cours} | {par} |")
     if c.divergences:
         morceaux += ["", "## À harmoniser", "",
                      "Ces répliques ont le même anglais mais plusieurs traductions. Au build, la plus "
@@ -220,8 +267,12 @@ def main() -> int:
     parser.add_argument("--sortie", type=Path, default=commun.BUILD / "suivi",
                         help="dossier où écrire SUIVI.md, les badges et la carte")
     parser.add_argument("--court", action="store_true", help="afficher le résumé seulement")
+    parser.add_argument("--ouvertes", type=Path, help="JSON des Pull Requests ouvertes (gh pr list)")
+    parser.add_argument("--fusionnees", type=Path, help="JSON des Pull Requests fusionnées")
     args = parser.parse_args()
     c = compter()
+    lire = (lambda p: json.loads(p.read_text(encoding="utf-8")) if p and p.exists() else [])
+    ajouter_activite(c, lire(args.ouvertes), lire(args.fusionnees))
     print(bloc(c).strip("`").replace("text\n", "", 1))
     if not args.court:
         publier(c, args.sortie)

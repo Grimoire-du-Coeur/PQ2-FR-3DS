@@ -1,0 +1,14 @@
+[
+  {
+    "id": "00",
+    "en": "Who will equip this Persona?",
+    "max": 63,
+    "fr": ""
+  },
+  {
+    "id": "01",
+    "en": "Which Persona will you equip?",
+    "max": 63,
+    "fr": ""
+  }
+]

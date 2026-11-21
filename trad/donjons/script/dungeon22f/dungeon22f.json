@@ -1,0 +1,32 @@
+[
+  {
+    "id": "MSG_RIBBON_PARTS_GET_1",
+    "en": "I've obtained Ribbon's Part 1!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_RIBBON_PARTS_GET_2",
+    "en": "I've obtained Ribbon's Part 2!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_RIBBON_PARTS_GET_3",
+    "en": "I've obtained Ribbon's Part 3!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_RIBBON_PARTS_GET_4",
+    "en": "I've obtained Ribbon's Part 4!{PAGE}All parts have been gathered!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_GET_TRESURE_ITEM",
+    "en": "It looks like something's buried here...",
+    "fr": ""
+  },
+  {
+    "id": "BAG_FULL",
+    "en": "It looks like something's buried here,{SAUT}but my bag is full...{PAGE}I'll return when I have more space...",
+    "fr": ""
+  }
+]

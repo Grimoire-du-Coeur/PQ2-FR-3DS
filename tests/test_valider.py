@@ -9,12 +9,13 @@ LARGEURS = {"largeurs": {ch: 6 for ch in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKL
 DICO = [(["Shadow"], ["Ombre"])]
 
 
-def _verifier(tmp_path, entrees, base=None, rel="histoire/e100/x.json"):
+def _verifier(tmp_path, entrees, base=None, rel="histoire/e100/x.json", extraction=False):
     trad = tmp_path / "trad"
     p = trad / rel
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text(json.dumps(entrees, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    return valider.verifier_fichier(p, trad=trad, base=base, largeurs=LARGEURS, dico=DICO)
+    return valider.verifier_fichier(p, trad=trad, base=base, largeurs=LARGEURS, dico=DICO,
+                                    extraction=extraction)
 
 
 def _niveaux(remarques):
@@ -123,3 +124,33 @@ def test_lire_dictionnaire(tmp_path):
                   "| Navigator | Navigatrice | 💬 |\n", encoding="utf-8")
     assert valider.lire_dictionnaire(md) == [(["Shadow", "Shadows"], ["Ombre", "Ombres"]),
                                             (["Velvet Room"], ["Chambre de Velours"])]
+
+
+def test_nom_trop_long_pour_sa_case(tmp_path):
+    court = {"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Médicament"}
+    long_ = {**court, "fr": "Médicament très fort"}             # 20 lettres, 22 octets
+    assert _verifier(tmp_path, [court], rel="noms/objets.json") == []
+    remarques = _verifier(tmp_path, [long_], rel="noms/objets.json")
+    assert _niveaux(remarques) == [("ERREUR", "Medicine")]
+    assert "22 octets" in remarques[0].texte
+
+
+def test_le_maximum_ne_se_modifie_pas(tmp_path):
+    base = [{"id": "Medicine", "en": "Medicine", "max": 21, "fr": ""}]
+    nouveau = [{"id": "Medicine", "en": "Medicine", "max": 40, "fr": "Remède"}]
+    remarques = _verifier(tmp_path, nouveau, base=base, rel="noms/objets.json")
+    assert ("ERREUR", "Medicine") in _niveaux(remarques)
+
+
+def test_extraction_peut_ajouter_retirer_et_changer_l_anglais(tmp_path):
+    base = [_e("", en="Hello.{PAGE}Bye."), {"id": "MSG_002", "en": "Gone", "fr": ""}]
+    nouveau = [_e("", en="Hi.{PAGE}Bye."), {"id": "MSG_003", "en": "New", "fr": ""}]
+    assert sorted(_niveaux(_verifier(tmp_path, nouveau, base=base))) == [
+        ("ERREUR", "MSG_001"), ("ERREUR", "MSG_002"), ("ERREUR", "MSG_003")]
+    assert _verifier(tmp_path, nouveau, base=base, extraction=True) == []
+
+
+def test_extraction_n_efface_jamais_une_traduction(tmp_path):
+    base = [_e("Salut.{PAGE}Ciao.")]
+    r = _verifier(tmp_path, [_e("")], base=base, extraction=True)
+    assert r[0].niveau == "ERREUR" and "effac" in r[0].texte

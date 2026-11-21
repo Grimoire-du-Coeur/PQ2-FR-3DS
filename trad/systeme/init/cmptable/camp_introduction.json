@@ -1,0 +1,147 @@
+[
+  {
+    "id": "cmp_intro_DAMMY",
+    "en": "If this comes up, it's a bug.{SAUT}REPORT IT, por favor!",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_P4HERO",
+    "en": "Front line / Weapon: 2H sword{SAUT}Electric, defense, combo skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_P3HERO",
+    "en": "Versatile / Weapon: 1H sword{SAUT}Fire, physical, healing skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_YOSUKE",
+    "en": "Front line / Weapon: Knives{SAUT}Wind, follow-up, support skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_CHIE",
+    "en": "Front line / Weapon: Shoes{SAUT}Ice, 1-target physical, self buff skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_YUKIKO",
+    "en": "Back line / Weapon: Fan (Ranged){SAUT}Fire, healing, support skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_RISE",
+    "en": "Navigator / Provides backup in{SAUT}labyrinths and battles.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_KANZI",
+    "en": "Front line / Weapon: Flat objects{SAUT}Electric, all-target physical, defense skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_NAOTO",
+    "en": "Back line / Weapon: Gun{SAUT}Bless, Curse, support skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_KUMA",
+    "en": "Front line / Weapon: Claws{SAUT}Ice, healing, defense skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_YUKARI",
+    "en": "Back line / Weapon: Bow (Ranged){SAUT}Wind, all-target physical, healing skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_JUNPEI",
+    "en": "Front line / Weapon: 2H sword{SAUT}Fire, 1-target physical, self buff skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_SANADA",
+    "en": "Front line / Weapon: Fists{SAUT}Electric, multi-hit physical, self buff skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_MITSURU",
+    "en": "Versatile / Weapon: Rapier{SAUT}Ice, support, self buff skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_FUKA",
+    "en": "Navigator / Provides backup in{SAUT}labyrinths and battles.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_AEGIS",
+    "en": "Versatile / Weapon: Artillery (Ranged){SAUT}Nuclear, defense, support skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_AMADA",
+    "en": "Back line / Weapon: Spear (Ranged){SAUT}Psy, piercing physical, combo skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_KOROMARU",
+    "en": "Front line / Weapon: Knife{SAUT}Fire, Curse, support skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_ARAGAKI",
+    "en": "Front line / Weapon: Hammer{SAUT}Physical, defense, self buff skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_P3HERO2",
+    "en": "Back line / Weapon: Naginata (Ranged){SAUT}Fire, healing, combo skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_P5HERO",
+    "en": "Front line / Weapon: Knife{SAUT}Curse, piercing physical, support skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_RYUJI",
+    "en": "Front line / Weapon: Blunt rod{SAUT}Electric, 1-target physical, defense skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_ANN",
+    "en": "Back line / Weapon: Whip (Ranged){SAUT}Fire, healing, status ailment skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_MONA",
+    "en": "Back line / Weapon: Slingshot (Ranged){SAUT}Wind, healing, support skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_YUSUKE",
+    "en": "Front line / Weapon: Katana{SAUT}Ice, splashing physical, support skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_MAKOTO",
+    "en": "Front line / Weapon: Fists{SAUT}Nuclear, physical, support skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_FUTABA",
+    "en": "Navigator / Provides backup in{SAUT}labyrinths and battles.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_HARU",
+    "en": "Front line / Weapon: Axe{SAUT}Psy, multi-hit physical, defense skills.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_intro_AKECHI",
+    "en": "Front line / Weapon: Beam Saber{SAUT}Bless, physical, support skills.",
+    "fr": ""
+  }
+]
