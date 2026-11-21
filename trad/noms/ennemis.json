@@ -1,0 +1,1782 @@
+[
+  {
+    "id": "Cowardly Maya",
+    "en": "Cowardly Maya",
+    "fr": ""
+  },
+  {
+    "id": "Selfish Basalt",
+    "en": "Selfish Basalt",
+    "fr": ""
+  },
+  {
+    "id": "Rainy Sister 4",
+    "en": "Rainy Sister 4",
+    "fr": ""
+  },
+  {
+    "id": "Slipping Hablerie",
+    "en": "Slipping Hablerie",
+    "fr": ""
+  },
+  {
+    "id": "Magic Hand",
+    "en": "Magic Hand",
+    "fr": ""
+  },
+  {
+    "id": "Dancing Hand",
+    "en": "Dancing Hand",
+    "fr": ""
+  },
+  {
+    "id": "Killing Hand",
+    "en": "Killing Hand",
+    "fr": ""
+  },
+  {
+    "id": "Almighty Hand",
+    "en": "Almighty Hand",
+    "fr": ""
+  },
+  {
+    "id": "Laughing Table",
+    "en": "Laughing Table",
+    "fr": ""
+  },
+  {
+    "id": "Crying Table",
+    "en": "Crying Table",
+    "fr": ""
+  },
+  {
+    "id": "Angry Table",
+    "en": "Angry Table",
+    "fr": ""
+  },
+  {
+    "id": "Sleeping Table",
+    "en": "Sleeping Table",
+    "fr": ""
+  },
+  {
+    "id": "Magical Magus",
+    "en": "Magical Magus",
+    "fr": ""
+  },
+  {
+    "id": "Wondrous Magus",
+    "en": "Wondrous Magus",
+    "fr": ""
+  },
+  {
+    "id": "Prime Magus",
+    "en": "Prime Magus",
+    "fr": ""
+  },
+  {
+    "id": "Grand Magus",
+    "en": "Grand Magus",
+    "fr": ""
+  },
+  {
+    "id": "Lying Hablerie",
+    "en": "Lying Hablerie",
+    "fr": ""
+  },
+  {
+    "id": "Forgotten Hablerie",
+    "en": "Forgotten Hablerie",
+    "fr": ""
+  },
+  {
+    "id": "Flattering Hablerie",
+    "en": "Flattering Hablerie",
+    "fr": ""
+  },
+  {
+    "id": "Agitating Hablerie",
+    "en": "Agitating Hablerie",
+    "fr": ""
+  },
+  {
+    "id": "Merciless Maya",
+    "en": "Merciless Maya",
+    "fr": ""
+  },
+  {
+    "id": "Autonomic Basalt",
+    "en": "Autonomic Basalt",
+    "fr": ""
+  },
+  {
+    "id": "Rainy Brother 4",
+    "en": "Rainy Brother 4",
+    "fr": ""
+  },
+  {
+    "id": "Cloudgirl Pot",
+    "en": "Cloudgirl Pot",
+    "fr": ""
+  },
+  {
+    "id": "Rainy Pot",
+    "en": "Rainy Pot",
+    "fr": ""
+  },
+  {
+    "id": "Yearning Pot",
+    "en": "Yearning Pot",
+    "fr": ""
+  },
+  {
+    "id": "Mistress Pot",
+    "en": "Mistress Pot",
+    "fr": ""
+  },
+  {
+    "id": "Spurious Book",
+    "en": "Spurious Book",
+    "fr": ""
+  },
+  {
+    "id": "Maniacal Book",
+    "en": "Maniacal Book",
+    "fr": ""
+  },
+  {
+    "id": "Silent Book",
+    "en": "Silent Book",
+    "fr": ""
+  },
+  {
+    "id": "Wrathful Book",
+    "en": "Wrathful Book",
+    "fr": ""
+  },
+  {
+    "id": "Tranquil Idol",
+    "en": "Tranquil Idol",
+    "fr": ""
+  },
+  {
+    "id": "Liberating Idol",
+    "en": "Liberating Idol",
+    "fr": ""
+  },
+  {
+    "id": "Primitive Idol",
+    "en": "Primitive Idol",
+    "fr": ""
+  },
+  {
+    "id": "Vehement Idol",
+    "en": "Vehement Idol",
+    "fr": ""
+  },
+  {
+    "id": "Leading Idol",
+    "en": "Leading Idol",
+    "fr": ""
+  },
+  {
+    "id": "Calm Pesce",
+    "en": "Calm Pesce",
+    "fr": ""
+  },
+  {
+    "id": "Pursuing Pesce",
+    "en": "Pursuing Pesce",
+    "fr": ""
+  },
+  {
+    "id": "Truth Pesce",
+    "en": "Truth Pesce",
+    "fr": ""
+  },
+  {
+    "id": "Revelation Pesce",
+    "en": "Revelation Pesce",
+    "fr": ""
+  },
+  {
+    "id": "Frivolous Maya",
+    "en": "Frivolous Maya",
+    "fr": ""
+  },
+  {
+    "id": "Idle Basalt",
+    "en": "Idle Basalt",
+    "fr": ""
+  },
+  {
+    "id": "Rainy Sister 3",
+    "en": "Rainy Sister 3",
+    "fr": ""
+  },
+  {
+    "id": "Venus Eagle",
+    "en": "Venus Eagle",
+    "fr": ""
+  },
+  {
+    "id": "Dark Eagle",
+    "en": "Dark Eagle",
+    "fr": ""
+  },
+  {
+    "id": "Jupiter Eagle",
+    "en": "Jupiter Eagle",
+    "fr": ""
+  },
+  {
+    "id": "Eternal Eagle",
+    "en": "Eternal Eagle",
+    "fr": ""
+  },
+  {
+    "id": "Creation Relic",
+    "en": "Creation Relic",
+    "fr": ""
+  },
+  {
+    "id": "Constancy Relic",
+    "en": "Constancy Relic",
+    "fr": ""
+  },
+  {
+    "id": "Growth Relic",
+    "en": "Growth Relic",
+    "fr": ""
+  },
+  {
+    "id": "Change Relic",
+    "en": "Change Relic",
+    "fr": ""
+  },
+  {
+    "id": "Elegant Mother",
+    "en": "Elegant Mother",
+    "fr": ""
+  },
+  {
+    "id": "Regal Mother",
+    "en": "Regal Mother",
+    "fr": ""
+  },
+  {
+    "id": "Pistil Mother",
+    "en": "Pistil Mother",
+    "fr": ""
+  },
+  {
+    "id": "Divine Mother",
+    "en": "Divine Mother",
+    "fr": ""
+  },
+  {
+    "id": "Secret Bambino",
+    "en": "Secret Bambino",
+    "fr": ""
+  },
+  {
+    "id": "Blooming Bambino",
+    "en": "Blooming Bambino",
+    "fr": ""
+  },
+  {
+    "id": "Avarice Bambino",
+    "en": "Avarice Bambino",
+    "fr": ""
+  },
+  {
+    "id": "Free Bambino",
+    "en": "Free Bambino",
+    "fr": ""
+  },
+  {
+    "id": "Haughty Maya",
+    "en": "Haughty Maya",
+    "fr": ""
+  },
+  {
+    "id": "Large Basalt",
+    "en": "Large Basalt",
+    "fr": ""
+  },
+  {
+    "id": "Rainy Brother 3",
+    "en": "Rainy Brother 3",
+    "fr": ""
+  },
+  {
+    "id": "Grave Beetle",
+    "en": "Grave Beetle",
+    "fr": ""
+  },
+  {
+    "id": "Adamant Beetle",
+    "en": "Adamant Beetle",
+    "fr": ""
+  },
+  {
+    "id": "Strength Beetle",
+    "en": "Strength Beetle",
+    "fr": ""
+  },
+  {
+    "id": "Emperor Beetle",
+    "en": "Emperor Beetle",
+    "fr": ""
+  },
+  {
+    "id": "Avenger Knight",
+    "en": "Avenger Knight",
+    "fr": ""
+  },
+  {
+    "id": "Champion Knight",
+    "en": "Champion Knight",
+    "fr": ""
+  },
+  {
+    "id": "Hell Knight",
+    "en": "Hell Knight",
+    "fr": ""
+  },
+  {
+    "id": "Intrepid Knight",
+    "en": "Intrepid Knight",
+    "fr": ""
+  },
+  {
+    "id": "Rainy Castle",
+    "en": "Rainy Castle",
+    "fr": ""
+  },
+  {
+    "id": "Power Castle",
+    "en": "Power Castle",
+    "fr": ""
+  },
+  {
+    "id": "Raindrop Castle",
+    "en": "Raindrop Castle",
+    "fr": ""
+  },
+  {
+    "id": "King Castle",
+    "en": "King Castle",
+    "fr": ""
+  },
+  {
+    "id": "Positive King",
+    "en": "Positive King",
+    "fr": ""
+  },
+  {
+    "id": "Egotistical King",
+    "en": "Egotistical King",
+    "fr": ""
+  },
+  {
+    "id": "Great King",
+    "en": "Great King",
+    "fr": ""
+  },
+  {
+    "id": "Brilliant King",
+    "en": "Brilliant King",
+    "fr": ""
+  },
+  {
+    "id": "Indolent Maya",
+    "en": "Indolent Maya",
+    "fr": ""
+  },
+  {
+    "id": "Dependent Basalt",
+    "en": "Dependent Basalt",
+    "fr": ""
+  },
+  {
+    "id": "Rainy Sister 2",
+    "en": "Rainy Sister 2",
+    "fr": ""
+  },
+  {
+    "id": "Trance Twins",
+    "en": "Trance Twins",
+    "fr": ""
+  },
+  {
+    "id": "Killer Twins",
+    "en": "Killer Twins",
+    "fr": ""
+  },
+  {
+    "id": "Rainbow Twins",
+    "en": "Rainbow Twins",
+    "fr": ""
+  },
+  {
+    "id": "Crazy Twins",
+    "en": "Crazy Twins",
+    "fr": ""
+  },
+  {
+    "id": "Cultic Tower",
+    "en": "Cultic Tower",
+    "fr": ""
+  },
+  {
+    "id": "Dogmatic Tower",
+    "en": "Dogmatic Tower",
+    "fr": ""
+  },
+  {
+    "id": "Apostate Tower",
+    "en": "Apostate Tower",
+    "fr": ""
+  },
+  {
+    "id": "Fanatic Tower",
+    "en": "Fanatic Tower",
+    "fr": ""
+  },
+  {
+    "id": "Grudge Tower",
+    "en": "Grudge Tower",
+    "fr": ""
+  },
+  {
+    "id": "Blue Sigil",
+    "en": "Blue Sigil",
+    "fr": ""
+  },
+  {
+    "id": "Red Sigil",
+    "en": "Red Sigil",
+    "fr": ""
+  },
+  {
+    "id": "Green Sigil",
+    "en": "Green Sigil",
+    "fr": ""
+  },
+  {
+    "id": "Purple Sigil",
+    "en": "Purple Sigil",
+    "fr": ""
+  },
+  {
+    "id": "Bribed Fuzz",
+    "en": "Bribed Fuzz",
+    "fr": ""
+  },
+  {
+    "id": "Persistent Fuzz",
+    "en": "Persistent Fuzz",
+    "fr": ""
+  },
+  {
+    "id": "Monomaniac Fuzz",
+    "en": "Monomaniac Fuzz",
+    "fr": ""
+  },
+  {
+    "id": "Chaos Fuzz",
+    "en": "Chaos Fuzz",
+    "fr": ""
+  },
+  {
+    "id": "Insidious Maya",
+    "en": "Insidious Maya",
+    "fr": ""
+  },
+  {
+    "id": "Anguish Basalt",
+    "en": "Anguish Basalt",
+    "fr": ""
+  },
+  {
+    "id": "Rainy Brother 2",
+    "en": "Rainy Brother 2",
+    "fr": ""
+  },
+  {
+    "id": "Possessive Cupid",
+    "en": "Possessive Cupid",
+    "fr": ""
+  },
+  {
+    "id": "Blind Cupid",
+    "en": "Blind Cupid",
+    "fr": ""
+  },
+  {
+    "id": "Devoted Cupid",
+    "en": "Devoted Cupid",
+    "fr": ""
+  },
+  {
+    "id": "Gracious Cupid",
+    "en": "Gracious Cupid",
+    "fr": ""
+  },
+  {
+    "id": "Soul Dancer",
+    "en": "Soul Dancer",
+    "fr": ""
+  },
+  {
+    "id": "Ardent Dancer",
+    "en": "Ardent Dancer",
+    "fr": ""
+  },
+  {
+    "id": "Royal Dancer",
+    "en": "Royal Dancer",
+    "fr": ""
+  },
+  {
+    "id": "Natural Dancer",
+    "en": "Natural Dancer",
+    "fr": ""
+  },
+  {
+    "id": "Harem Dancer",
+    "en": "Harem Dancer",
+    "fr": ""
+  },
+  {
+    "id": "Lustful Snake",
+    "en": "Lustful Snake",
+    "fr": ""
+  },
+  {
+    "id": "Immoral Snake",
+    "en": "Immoral Snake",
+    "fr": ""
+  },
+  {
+    "id": "Carnal Snake",
+    "en": "Carnal Snake",
+    "fr": ""
+  },
+  {
+    "id": "Amorous Snake",
+    "en": "Amorous Snake",
+    "fr": ""
+  },
+  {
+    "id": "Stoic Snake",
+    "en": "Stoic Snake",
+    "fr": ""
+  },
+  {
+    "id": "Whimsical Papillon",
+    "en": "Whimsical Papillon",
+    "fr": ""
+  },
+  {
+    "id": "Finicky Papillon",
+    "en": "Finicky Papillon",
+    "fr": ""
+  },
+  {
+    "id": "Fickle Papillon",
+    "en": "Fickle Papillon",
+    "fr": ""
+  },
+  {
+    "id": "Pure Papillon",
+    "en": "Pure Papillon",
+    "fr": ""
+  },
+  {
+    "id": "Ill-Fated Maya",
+    "en": "Ill-Fated Maya",
+    "fr": ""
+  },
+  {
+    "id": "Insolent Basalt",
+    "en": "Insolent Basalt",
+    "fr": ""
+  },
+  {
+    "id": "Rainy Sister 1",
+    "en": "Rainy Sister 1",
+    "fr": ""
+  },
+  {
+    "id": "Rain Wheel",
+    "en": "Rain Wheel",
+    "fr": ""
+  },
+  {
+    "id": "Mach Wheel",
+    "en": "Mach Wheel",
+    "fr": ""
+  },
+  {
+    "id": "Brave Wheel",
+    "en": "Brave Wheel",
+    "fr": ""
+  },
+  {
+    "id": "Battle Wheel",
+    "en": "Battle Wheel",
+    "fr": ""
+  },
+  {
+    "id": "Wild Drive",
+    "en": "Wild Drive",
+    "fr": ""
+  },
+  {
+    "id": "Killer Drive",
+    "en": "Killer Drive",
+    "fr": ""
+  },
+  {
+    "id": "Slaughter Drive",
+    "en": "Slaughter Drive",
+    "fr": ""
+  },
+  {
+    "id": "Rampage Drive",
+    "en": "Rampage Drive",
+    "fr": ""
+  },
+  {
+    "id": "Arcane Turret",
+    "en": "Arcane Turret",
+    "fr": ""
+  },
+  {
+    "id": "Scarlet Turret",
+    "en": "Scarlet Turret",
+    "fr": ""
+  },
+  {
+    "id": "Wicked Turret",
+    "en": "Wicked Turret",
+    "fr": ""
+  },
+  {
+    "id": "Hallowed Turret",
+    "en": "Hallowed Turret",
+    "fr": ""
+  },
+  {
+    "id": "Roaring Turret",
+    "en": "Roaring Turret",
+    "fr": ""
+  },
+  {
+    "id": "Berserk Turret",
+    "en": "Berserk Turret",
+    "fr": ""
+  },
+  {
+    "id": "Dismayed Panzer",
+    "en": "Dismayed Panzer",
+    "fr": ""
+  },
+  {
+    "id": "Rash Panzer",
+    "en": "Rash Panzer",
+    "fr": ""
+  },
+  {
+    "id": "Conceited Panzer",
+    "en": "Conceited Panzer",
+    "fr": ""
+  },
+  {
+    "id": "Ptarmigan Panzer",
+    "en": "Ptarmigan Panzer",
+    "fr": ""
+  },
+  {
+    "id": "Visceral Maya",
+    "en": "Visceral Maya",
+    "fr": ""
+  },
+  {
+    "id": "Source Basalt",
+    "en": "Source Basalt",
+    "fr": ""
+  },
+  {
+    "id": "Rainy Brother 1",
+    "en": "Rainy Brother 1",
+    "fr": ""
+  },
+  {
+    "id": "Rain Leg Musha",
+    "en": "Rain Leg Musha",
+    "fr": ""
+  },
+  {
+    "id": "Rain End Musha",
+    "en": "Rain End Musha",
+    "fr": ""
+  },
+  {
+    "id": "Raindrop Musha",
+    "en": "Raindrop Musha",
+    "fr": ""
+  },
+  {
+    "id": "Rain Wind Musha",
+    "en": "Rain Wind Musha",
+    "fr": ""
+  },
+  {
+    "id": "Daring Gigas",
+    "en": "Daring Gigas",
+    "fr": ""
+  },
+  {
+    "id": "Beastly Gigas",
+    "en": "Beastly Gigas",
+    "fr": ""
+  },
+  {
+    "id": "Furious Gigas",
+    "en": "Furious Gigas",
+    "fr": ""
+  },
+  {
+    "id": "Mythical Gigas",
+    "en": "Mythical Gigas",
+    "fr": ""
+  },
+  {
+    "id": "Immortal Gigas",
+    "en": "Immortal Gigas",
+    "fr": ""
+  },
+  {
+    "id": "Nizam Beast",
+    "en": "Nizam Beast",
+    "fr": ""
+  },
+  {
+    "id": "Enslaved Beast",
+    "en": "Enslaved Beast",
+    "fr": ""
+  },
+  {
+    "id": "Mighty Beast",
+    "en": "Mighty Beast",
+    "fr": ""
+  },
+  {
+    "id": "Nemean Beast",
+    "en": "Nemean Beast",
+    "fr": ""
+  },
+  {
+    "id": "El Dorado Beast",
+    "en": "El Dorado Beast",
+    "fr": ""
+  },
+  {
+    "id": "Inviting Nyogo",
+    "en": "Inviting Nyogo",
+    "fr": ""
+  },
+  {
+    "id": "Blossom Nyogo",
+    "en": "Blossom Nyogo",
+    "fr": ""
+  },
+  {
+    "id": "Valuing Nyogo",
+    "en": "Valuing Nyogo",
+    "fr": ""
+  },
+  {
+    "id": "Silent Nyogo",
+    "en": "Silent Nyogo",
+    "fr": ""
+  },
+  {
+    "id": "Desirous Maya",
+    "en": "Desirous Maya",
+    "fr": ""
+  },
+  {
+    "id": "Submissive Basalt",
+    "en": "Submissive Basalt",
+    "fr": ""
+  },
+  {
+    "id": "Black Raven",
+    "en": "Black Raven",
+    "fr": ""
+  },
+  {
+    "id": "Vicious Raven",
+    "en": "Vicious Raven",
+    "fr": ""
+  },
+  {
+    "id": "Sonic Raven",
+    "en": "Sonic Raven",
+    "fr": ""
+  },
+  {
+    "id": "Amenti Raven",
+    "en": "Amenti Raven",
+    "fr": ""
+  },
+  {
+    "id": "Phantom Mage",
+    "en": "Phantom Mage",
+    "fr": ""
+  },
+  {
+    "id": "Phantom Master",
+    "en": "Phantom Master",
+    "fr": ""
+  },
+  {
+    "id": "Phantom Lord",
+    "en": "Phantom Lord",
+    "fr": ""
+  },
+  {
+    "id": "Phantom King",
+    "en": "Phantom King",
+    "fr": ""
+  },
+  {
+    "id": "Phantom Hero",
+    "en": "Phantom Hero",
+    "fr": ""
+  },
+  {
+    "id": "Death Seeker",
+    "en": "Death Seeker",
+    "fr": ""
+  },
+  {
+    "id": "Fate Seeker",
+    "en": "Fate Seeker",
+    "fr": ""
+  },
+  {
+    "id": "Noble Seeker",
+    "en": "Noble Seeker",
+    "fr": ""
+  },
+  {
+    "id": "Acheron Seeker",
+    "en": "Acheron Seeker",
+    "fr": ""
+  },
+  {
+    "id": "Shallow Okina",
+    "en": "Shallow Okina",
+    "fr": ""
+  },
+  {
+    "id": "Reckless Okina",
+    "en": "Reckless Okina",
+    "fr": ""
+  },
+  {
+    "id": "Reformed Okina",
+    "en": "Reformed Okina",
+    "fr": ""
+  },
+  {
+    "id": "Moon Okina",
+    "en": "Moon Okina",
+    "fr": ""
+  },
+  {
+    "id": "Imprudent Maya",
+    "en": "Imprudent Maya",
+    "fr": ""
+  },
+  {
+    "id": "Accidental Basalt",
+    "en": "Accidental Basalt",
+    "fr": ""
+  },
+  {
+    "id": "Bronze Dice",
+    "en": "Bronze Dice",
+    "fr": ""
+  },
+  {
+    "id": "Iron Dice",
+    "en": "Iron Dice",
+    "fr": ""
+  },
+  {
+    "id": "Silver Dice",
+    "en": "Silver Dice",
+    "fr": ""
+  },
+  {
+    "id": "Platinum Dice",
+    "en": "Platinum Dice",
+    "fr": ""
+  },
+  {
+    "id": "Mind Dice",
+    "en": "Mind Dice",
+    "fr": ""
+  },
+  {
+    "id": "Curse Dice",
+    "en": "Curse Dice",
+    "fr": ""
+  },
+  {
+    "id": "Death Dice",
+    "en": "Death Dice",
+    "fr": ""
+  },
+  {
+    "id": "Reckoning Dice",
+    "en": "Reckoning Dice",
+    "fr": ""
+  },
+  {
+    "id": "Flowing Sand",
+    "en": "Flowing Sand",
+    "fr": ""
+  },
+  {
+    "id": "Perpetual Sand",
+    "en": "Perpetual Sand",
+    "fr": ""
+  },
+  {
+    "id": "Infinite Sand",
+    "en": "Infinite Sand",
+    "fr": ""
+  },
+  {
+    "id": "Eternal Sand",
+    "en": "Eternal Sand",
+    "fr": ""
+  },
+  {
+    "id": "Miss Gene",
+    "en": "Miss Gene",
+    "fr": ""
+  },
+  {
+    "id": "Fail Gene",
+    "en": "Fail Gene",
+    "fr": ""
+  },
+  {
+    "id": "Happy Gene",
+    "en": "Happy Gene",
+    "fr": ""
+  },
+  {
+    "id": "Next Gene",
+    "en": "Next Gene",
+    "fr": ""
+  },
+  {
+    "id": "Bigoted Maya",
+    "en": "Bigoted Maya",
+    "fr": ""
+  },
+  {
+    "id": "Convicted Basalt",
+    "en": "Convicted Basalt",
+    "fr": ""
+  },
+  {
+    "id": "Justice Sword",
+    "en": "Justice Sword",
+    "fr": ""
+  },
+  {
+    "id": "Conviction Sword",
+    "en": "Conviction Sword",
+    "fr": ""
+  },
+  {
+    "id": "Judgment Sword",
+    "en": "Judgment Sword",
+    "fr": ""
+  },
+  {
+    "id": "Doom Sword",
+    "en": "Doom Sword",
+    "fr": ""
+  },
+  {
+    "id": "Heat Balance",
+    "en": "Heat Balance",
+    "fr": ""
+  },
+  {
+    "id": "Sky Balance",
+    "en": "Sky Balance",
+    "fr": ""
+  },
+  {
+    "id": "World Balance",
+    "en": "World Balance",
+    "fr": ""
+  },
+  {
+    "id": "Light Balance",
+    "en": "Light Balance",
+    "fr": ""
+  },
+  {
+    "id": "Order Giant",
+    "en": "Order Giant",
+    "fr": ""
+  },
+  {
+    "id": "Stasis Giant",
+    "en": "Stasis Giant",
+    "fr": ""
+  },
+  {
+    "id": "Harmony Giant",
+    "en": "Harmony Giant",
+    "fr": ""
+  },
+  {
+    "id": "Void Giant",
+    "en": "Void Giant",
+    "fr": ""
+  },
+  {
+    "id": "Steel Machine",
+    "en": "Steel Machine",
+    "fr": ""
+  },
+  {
+    "id": "Dominating Machine",
+    "en": "Dominating Machine",
+    "fr": ""
+  },
+  {
+    "id": "Solemn Machine",
+    "en": "Solemn Machine",
+    "fr": ""
+  },
+  {
+    "id": "Heartless Machine",
+    "en": "Heartless Machine",
+    "fr": ""
+  },
+  {
+    "id": "Devious Maya",
+    "en": "Devious Maya",
+    "fr": ""
+  },
+  {
+    "id": "Oppressive Basalt",
+    "en": "Oppressive Basalt",
+    "fr": ""
+  },
+  {
+    "id": "Minotaur IV",
+    "en": "Minotaur IV",
+    "fr": ""
+  },
+  {
+    "id": "Minotaur III",
+    "en": "Minotaur III",
+    "fr": ""
+  },
+  {
+    "id": "Minotaur II",
+    "en": "Minotaur II",
+    "fr": ""
+  },
+  {
+    "id": "Minotaur I",
+    "en": "Minotaur I",
+    "fr": ""
+  },
+  {
+    "id": "Neo Minotaur",
+    "en": "Neo Minotaur",
+    "fr": ""
+  },
+  {
+    "id": "Jotun of Power",
+    "en": "Jotun of Power",
+    "fr": ""
+  },
+  {
+    "id": "Jotun of Blood",
+    "en": "Jotun of Blood",
+    "fr": ""
+  },
+  {
+    "id": "Jotun of Evil",
+    "en": "Jotun of Evil",
+    "fr": ""
+  },
+  {
+    "id": "Jotun of Grief",
+    "en": "Jotun of Grief",
+    "fr": ""
+  },
+  {
+    "id": "Mighty Cyclops",
+    "en": "Mighty Cyclops",
+    "fr": ""
+  },
+  {
+    "id": "Mad Cyclops",
+    "en": "Mad Cyclops",
+    "fr": ""
+  },
+  {
+    "id": "Fierce Cyclops",
+    "en": "Fierce Cyclops",
+    "fr": ""
+  },
+  {
+    "id": "Chaos Cyclops",
+    "en": "Chaos Cyclops",
+    "fr": ""
+  },
+  {
+    "id": "Brilliant Cyclops",
+    "en": "Brilliant Cyclops",
+    "fr": ""
+  },
+  {
+    "id": "Rebellious Cyclops",
+    "en": "Rebellious Cyclops",
+    "fr": ""
+  },
+  {
+    "id": "Protective Lexy",
+    "en": "Protective Lexy",
+    "fr": ""
+  },
+  {
+    "id": "Dry Dexy",
+    "en": "Dry Dexy",
+    "fr": ""
+  },
+  {
+    "id": "Earnest Calocy",
+    "en": "Earnest Calocy",
+    "fr": ""
+  },
+  {
+    "id": "Successful Junecy",
+    "en": "Successful Junecy",
+    "fr": ""
+  },
+  {
+    "id": "Test Rare",
+    "en": "Test Rare",
+    "fr": ""
+  },
+  {
+    "id": "Shadow Yosuke",
+    "en": "Shadow Yosuke",
+    "fr": ""
+  },
+  {
+    "id": "Kamoshidaman",
+    "en": "Kamoshidaman",
+    "fr": ""
+  },
+  {
+    "id": "Super Kamoshidaman",
+    "en": "Super Kamoshidaman",
+    "fr": ""
+  },
+  {
+    "id": "Right Carrot",
+    "en": "Right Carrot",
+    "fr": ""
+  },
+  {
+    "id": "Left Carrot",
+    "en": "Left Carrot",
+    "fr": ""
+  },
+  {
+    "id": "Yosukesaurus",
+    "en": "Yosukesaurus",
+    "fr": ""
+  },
+  {
+    "id": "Herbivorous Dino",
+    "en": "Herbivorous Dino",
+    "fr": ""
+  },
+  {
+    "id": "Mother Computer",
+    "en": "Mother Computer",
+    "fr": ""
+  },
+  {
+    "id": "Overseer",
+    "en": "Overseer",
+    "fr": ""
+  },
+  {
+    "id": "Doe's Right Arm",
+    "en": "Doe's Right Arm",
+    "fr": ""
+  },
+  {
+    "id": "Doe's Left Arm",
+    "en": "Doe's Left Arm",
+    "fr": ""
+  },
+  {
+    "id": "Doe's Head",
+    "en": "Doe's Head",
+    "fr": ""
+  },
+  {
+    "id": "Doe",
+    "en": "Doe",
+    "fr": ""
+  },
+  {
+    "id": "Doe's Eye",
+    "en": "Doe's Eye",
+    "fr": ""
+  },
+  {
+    "id": "Margaret",
+    "en": "Margaret",
+    "fr": ""
+  },
+  {
+    "id": "Elizabeth",
+    "en": "Elizabeth",
+    "fr": ""
+  },
+  {
+    "id": "Golden Beetle",
+    "en": "Golden Beetle",
+    "fr": ""
+  },
+  {
+    "id": "Engage King",
+    "en": "Engage King",
+    "fr": ""
+  },
+  {
+    "id": "Soul Seeker",
+    "en": "Soul Seeker",
+    "fr": ""
+  },
+  {
+    "id": "Guardian Machine",
+    "en": "Guardian Machine",
+    "fr": ""
+  },
+  {
+    "id": "Justine",
+    "en": "Justine",
+    "fr": ""
+  },
+  {
+    "id": "Theodore",
+    "en": "Theodore",
+    "fr": ""
+  },
+  {
+    "id": "Caroline",
+    "en": "Caroline",
+    "fr": ""
+  },
+  {
+    "id": "Buster Girl",
+    "en": "Buster Girl",
+    "fr": ""
+  },
+  {
+    "id": "Chicken Kid",
+    "en": "Chicken Kid",
+    "fr": ""
+  },
+  {
+    "id": "Tyranniqueen",
+    "en": "Tyranniqueen",
+    "fr": ""
+  },
+  {
+    "id": "Seidoptera",
+    "en": "Seidoptera",
+    "fr": ""
+  },
+  {
+    "id": "KNS-1000",
+    "en": "KNS-1000",
+    "fr": ""
+  },
+  {
+    "id": "SCM-8801",
+    "en": "SCM-8801",
+    "fr": ""
+  },
+  {
+    "id": "SCM-9821",
+    "en": "SCM-9821",
+    "fr": ""
+  },
+  {
+    "id": "Mr. Bear",
+    "en": "Mr. Bear",
+    "fr": ""
+  },
+  {
+    "id": "Dwarven Family",
+    "en": "Dwarven Family",
+    "fr": ""
+  },
+  {
+    "id": "Mr. Lumberjack",
+    "en": "Mr. Lumberjack",
+    "fr": ""
+  },
+  {
+    "id": "Phunbaba",
+    "en": "Phunbaba",
+    "fr": ""
+  },
+  {
+    "id": "Namtaru",
+    "en": "Namtaru",
+    "fr": ""
+  },
+  {
+    "id": "The Reaper",
+    "en": "The Reaper",
+    "fr": ""
+  },
+  {
+    "id": "UIY-XXXX",
+    "en": "UIY-XXXX",
+    "fr": ""
+  },
+  {
+    "id": "Enlil",
+    "en": "Enlil",
+    "fr": ""
+  },
+  {
+    "id": "Golden Hablerie",
+    "en": "Golden Hablerie",
+    "fr": ""
+  },
+  {
+    "id": "Golden Lexy",
+    "en": "Golden Lexy",
+    "fr": ""
+  },
+  {
+    "id": "Wealth Hand",
+    "en": "Wealth Hand",
+    "fr": ""
+  },
+  {
+    "id": "Treasure Hand",
+    "en": "Treasure Hand",
+    "fr": ""
+  },
+  {
+    "id": "Supreme Hand",
+    "en": "Supreme Hand",
+    "fr": ""
+  },
+  {
+    "id": "Opulent Hand",
+    "en": "Opulent Hand",
+    "fr": ""
+  },
+  {
+    "id": "Luxury Hand",
+    "en": "Luxury Hand",
+    "fr": ""
+  },
+  {
+    "id": "Glorious Hand",
+    "en": "Glorious Hand",
+    "fr": ""
+  },
+  {
+    "id": "Burning Beetle",
+    "en": "Burning Beetle",
+    "fr": ""
+  },
+  {
+    "id": "Gorgeous King",
+    "en": "Gorgeous King",
+    "fr": ""
+  },
+  {
+    "id": "Baleful King",
+    "en": "Baleful King",
+    "fr": ""
+  },
+  {
+    "id": "Horror L Shadow",
+    "en": "Horror L Shadow",
+    "fr": ""
+  },
+  {
+    "id": "Indignant Machine",
+    "en": "Indignant Machine",
+    "fr": ""
+  },
+  {
+    "id": "Order Gigant",
+    "en": "Order Gigant",
+    "fr": ""
+  },
+  {
+    "id": "Gauntlet Hand",
+    "en": "Gauntlet Hand",
+    "fr": ""
+  },
+  {
+    "id": "Sword Soldier",
+    "en": "Sword Soldier",
+    "fr": ""
+  },
+  {
+    "id": "Spear Soldier",
+    "en": "Spear Soldier",
+    "fr": ""
+  },
+  {
+    "id": "Staff Soldier",
+    "en": "Staff Soldier",
+    "fr": ""
+  },
+  {
+    "id": "Wand Soldier",
+    "en": "Wand Soldier",
+    "fr": ""
+  },
+  {
+    "id": "Emaciated Garcy",
+    "en": "Emaciated Garcy",
+    "fr": ""
+  },
+  {
+    "id": "Execution Sword",
+    "en": "Execution Sword",
+    "fr": ""
+  },
+  {
+    "id": "Cursed Woman's Pot",
+    "en": "Cursed Woman's Pot",
+    "fr": ""
+  },
+  {
+    "id": "Stupendous Relic",
+    "en": "Stupendous Relic",
+    "fr": ""
+  },
+  {
+    "id": "Spectral Raven",
+    "en": "Spectral Raven",
+    "fr": ""
+  },
+  {
+    "id": "Praying Nyogo",
+    "en": "Praying Nyogo",
+    "fr": ""
+  },
+  {
+    "id": "Superstitious Okina",
+    "en": "Superstitious Okina",
+    "fr": ""
+  },
+  {
+    "id": "Lawless Fuzz",
+    "en": "Lawless Fuzz",
+    "fr": ""
+  },
+  {
+    "id": "Stone Panzer",
+    "en": "Stone Panzer",
+    "fr": ""
+  },
+  {
+    "id": "Harmonious Giant",
+    "en": "Harmonious Giant",
+    "fr": ""
+  },
+  {
+    "id": "Snowfall Musha",
+    "en": "Snowfall Musha",
+    "fr": ""
+  },
+  {
+    "id": "Calm Machine",
+    "en": "Calm Machine",
+    "fr": ""
+  },
+  {
+    "id": "Clear Sky Musha",
+    "en": "Clear Sky Musha",
+    "fr": ""
+  },
+  {
+    "id": "Heaven's Giant",
+    "en": "Heaven's Giant",
+    "fr": ""
+  },
+  {
+    "id": "Test S Size",
+    "en": "Test S Size",
+    "fr": ""
+  },
+  {
+    "id": "Test M Size",
+    "en": "Test M Size",
+    "fr": ""
+  },
+  {
+    "id": "Test L Size",
+    "en": "Test L Size",
+    "fr": ""
+  },
+  {
+    "id": "Golden Wheel",
+    "en": "Golden Wheel",
+    "fr": ""
+  },
+  {
+    "id": "Golden Balance",
+    "en": "Golden Balance",
+    "fr": ""
+  },
+  {
+    "id": "Golden Table",
+    "en": "Golden Table",
+    "fr": ""
+  },
+  {
+    "id": "Golden Book",
+    "en": "Golden Book",
+    "fr": ""
+  },
+  {
+    "id": "Golden Bambino",
+    "en": "Golden Bambino",
+    "fr": ""
+  },
+  {
+    "id": "Golden Dice",
+    "en": "Golden Dice",
+    "fr": ""
+  },
+  {
+    "id": "Golden Sword",
+    "en": "Golden Sword",
+    "fr": ""
+  },
+  {
+    "id": "Golden Goliath",
+    "en": "Golden Goliath",
+    "fr": ""
+  },
+  {
+    "id": "Golden Snake",
+    "en": "Golden Snake",
+    "fr": ""
+  },
+  {
+    "id": "Golden Beast",
+    "en": "Golden Beast",
+    "fr": ""
+  },
+  {
+    "id": "Golden Samurai",
+    "en": "Golden Samurai",
+    "fr": ""
+  },
+  {
+    "id": "Ravenous Beast",
+    "en": "Ravenous Beast",
+    "fr": ""
+  },
+  {
+    "id": "Proud Authority",
+    "en": "Proud Authority",
+    "fr": ""
+  },
+  {
+    "id": "Lonely Manipulator",
+    "en": "Lonely Manipulator",
+    "fr": ""
+  },
+  {
+    "id": "Generic Conformist",
+    "en": "Generic Conformist",
+    "fr": ""
+  },
+  {
+    "id": "Smothering Parent",
+    "en": "Smothering Parent",
+    "fr": ""
+  },
+  {
+    "id": "Blessbane Lexy",
+    "en": "Blessbane Lexy",
+    "fr": ""
+  },
+  {
+    "id": "Elecbane Lexy",
+    "en": "Elecbane Lexy",
+    "fr": ""
+  },
+  {
+    "id": "Windbane Lexy",
+    "en": "Windbane Lexy",
+    "fr": ""
+  },
+  {
+    "id": "Icebane Lexy",
+    "en": "Icebane Lexy",
+    "fr": ""
+  },
+  {
+    "id": "Nukebane Lexy",
+    "en": "Nukebane Lexy",
+    "fr": ""
+  },
+  {
+    "id": "Psybane Lexy",
+    "en": "Psybane Lexy",
+    "fr": ""
+  },
+  {
+    "id": "Icevolt Bane Wheel",
+    "en": "Icevolt Bane Wheel",
+    "fr": ""
+  },
+  {
+    "id": "Windfire Bane Wheel",
+    "en": "Windfire Bane Wheel",
+    "fr": ""
+  },
+  {
+    "id": "Strikebane Hablerie",
+    "en": "Strikebane Hablerie",
+    "fr": ""
+  },
+  {
+    "id": "Firebane Balance",
+    "en": "Firebane Balance",
+    "fr": ""
+  },
+  {
+    "id": "Icebane Balance",
+    "en": "Icebane Balance",
+    "fr": ""
+  },
+  {
+    "id": "Elecbane Balance",
+    "en": "Elecbane Balance",
+    "fr": ""
+  },
+  {
+    "id": "Windbane Balance",
+    "en": "Windbane Balance",
+    "fr": ""
+  },
+  {
+    "id": "Psybane Balance",
+    "en": "Psybane Balance",
+    "fr": ""
+  },
+  {
+    "id": "Nukebane Balance",
+    "en": "Nukebane Balance",
+    "fr": ""
+  },
+  {
+    "id": "Blessbane Book",
+    "en": "Blessbane Book",
+    "fr": ""
+  },
+  {
+    "id": "Cursebane Book",
+    "en": "Cursebane Book",
+    "fr": ""
+  },
+  {
+    "id": "Strikebane Table",
+    "en": "Strikebane Table",
+    "fr": ""
+  },
+  {
+    "id": "Icefire Bane Sword",
+    "en": "Icefire Bane Sword",
+    "fr": ""
+  },
+  {
+    "id": "Windvolt Bane Dice",
+    "en": "Windvolt Bane Dice",
+    "fr": ""
+  },
+  {
+    "id": "Nukebane Bambino",
+    "en": "Nukebane Bambino",
+    "fr": ""
+  },
+  {
+    "id": "Aetherbane Snake",
+    "en": "Aetherbane Snake",
+    "fr": ""
+  },
+  {
+    "id": "Egobane Beast",
+    "en": "Egobane Beast",
+    "fr": ""
+  },
+  {
+    "id": "Omnibane Doll",
+    "en": "Omnibane Doll",
+    "fr": ""
+  },
+  {
+    "id": "Bane Samurai",
+    "en": "Bane Samurai",
+    "fr": ""
+  },
+  {
+    "id": "Bane Sentinel",
+    "en": "Bane Sentinel",
+    "fr": ""
+  },
+  {
+    "id": "Bane Reaver",
+    "en": "Bane Reaver",
+    "fr": ""
+  },
+  {
+    "id": "Bane Warrior",
+    "en": "Bane Warrior",
+    "fr": ""
+  }
+]

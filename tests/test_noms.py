@@ -1,14 +1,16 @@
-"""Noms des objets et équipements (init/itemtbl.bin, cases de 22 octets)."""
+"""Tables de noms à cases fixes : objets (init/itemtbl.bin), lieux (camp/dictionary.tbl)."""
 
 import pytest
 
 import noms
 
+T = noms.OBJETS
+
 
 def _table(*liste):
-    zone = b"".join(n.encode("ascii").ljust(noms.CASE, b"\0") for n in liste)
-    avant = b"\xaa" * noms.ZONE_DEBUT
-    return avant + zone.ljust(noms.ZONE_FIN - noms.ZONE_DEBUT, b"\0")
+    zone = b"".join(n.encode("ascii").ljust(T.case, b"\0") for n in liste)
+    avant = b"\xaa" * T.debut
+    return avant + zone.ljust(T.fin - T.debut, b"\0")
 
 
 def test_lire_les_noms():
@@ -28,7 +30,7 @@ def test_ecrire_un_nom_dans_toutes_ses_cases():
     nouveau = noms.ecrire_noms(brut, {"Medicine": "Médicament"})
     assert noms.lire_noms(nouveau)[:3] == ["Médicament", "Rebel Knife", "Médicament"]
     assert len(nouveau) == len(brut)
-    assert nouveau[:noms.ZONE_DEBUT] == brut[:noms.ZONE_DEBUT]       # rien d'autre ne bouge
+    assert nouveau[:T.debut] == brut[:T.debut]                       # rien d'autre ne bouge
 
 
 def test_nom_trop_long():
@@ -39,3 +41,23 @@ def test_nom_trop_long():
 
 def test_accent_compte_double():
     assert noms.longueur("Ébène") == 7          # É et è font deux octets chacun
+
+
+def _fiches(*liste):
+    """camp/dictionary.tbl : 152 fiches de 60 octets, nom à +8, drapeaux à +30."""
+    fiches = []
+    for k in range(noms.LIEUX.nombre):
+        nom = liste[k % len(liste)].encode("ascii")
+        fiches.append(b"\0\0\0\0\x01\x00\x04\x01" + nom.ljust(22, b"\0") + b"\x01\0" + bytes(28))
+    return b"".join(fiches)
+
+
+def test_lieux():
+    brut = _fiches("1st Ave.~", "Kamoshida Square", "1st Ave.~")
+    assert len(brut) == noms.LIEUX.fin
+    assert noms.noms_a_traduire(brut, noms.LIEUX) == ["1st Ave.~", "Kamoshida Square"]
+    nouveau = noms.ecrire_noms(brut, {"Kamoshida Square": "Place Kamoshida"}, noms.LIEUX)
+    assert noms.lire_noms(nouveau, noms.LIEUX)[:3] == ["1st Ave.~", "Place Kamoshida", "1st Ave.~"]
+    assert nouveau[60 + 30] == 1                                    # les drapeaux restent
+    with pytest.raises(noms.ErreurNom, match="19"):
+        noms.ecrire_noms(brut, {"Kamoshida Square": "Grand-place de Kamoshida"}, noms.LIEUX)

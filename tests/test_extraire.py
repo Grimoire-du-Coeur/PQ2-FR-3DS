@@ -127,9 +127,18 @@ def test_ecrire_puis_verifier(tmp_path):
 
 
 def test_noms_d_objets(tmp_path):
-    anciennes = {(noms.TRAD, "Medicine"): {"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"}}
+    objets = noms.OBJETS.trad
+    anciennes = {(objets, "Medicine"): {"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"}}
     fichiers, orphelins, _ = extraire.construire(_scripts(tmp_path), anciennes,
-                                                 objets=["Rebel Knife", "Medicine"])
-    assert fichiers[noms.TRAD] == [{"id": "Rebel Knife", "en": "Rebel Knife", "max": 21, "fr": ""},
-                                   {"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"}]
+                                                 listes={objets: ["Rebel Knife", "Medicine"]})
+    assert fichiers[objets] == [{"id": "Rebel Knife", "en": "Rebel Knife", "max": 21, "fr": ""},
+                                {"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"}]
     assert orphelins == []
+
+
+def test_noms_des_tables_de_combat(tmp_path):
+    anciennes = {("noms/personas.json", "Pixie"): {"id": "Pixie", "en": "Pixie", "fr": "Pixie"}}
+    fichiers, _, _ = extraire.construire(_scripts(tmp_path), anciennes,
+                                         listes={"noms/personas.json": ["Pixie", "Jack Frost"]})
+    assert fichiers["noms/personas.json"] == [{"id": "Pixie", "en": "Pixie", "fr": "Pixie"},
+                                              {"id": "Jack Frost", "en": "Jack Frost", "fr": ""}]

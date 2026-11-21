@@ -4,7 +4,8 @@ import struct
 
 import aller_retour
 import noms
-from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1, fabriquer_pak
+from fabrique import (fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_itemtbl, fabriquer_msg1,
+                      fabriquer_pak, fabriquer_table_noms)
 
 MSG = fabriquer_msg1()
 
@@ -56,9 +57,18 @@ def test_archive_a_scripts_inconnue(tmp_path):
 
 
 def test_table_des_noms_d_objets(tmp_path):
-    zone = b"".join(n.ljust(noms.CASE, b"\0") for n in (b"NULL", b"Medicine", b"Medicine"))
-    table = bytes(noms.ZONE_DEBUT) + zone.ljust(noms.ZONE_FIN - noms.ZONE_DEBUT, b"\0")
-    bilan = aller_retour.verifier(_image(tmp_path, {noms.CHEMIN: table}))
+    table = fabriquer_itemtbl("NULL", "Medicine", "Medicine")
+    bilan = aller_retour.verifier(_image(tmp_path, {noms.OBJETS.chemin: table}))
     assert bilan.noms == 1 and bilan.echecs == []
-    bilan = aller_retour.verifier(_image(tmp_path, {noms.CHEMIN: table[:-1]}))
-    assert [chemin for chemin, _ in bilan.echecs] == [noms.CHEMIN]
+    bilan = aller_retour.verifier(_image(tmp_path, {noms.OBJETS.chemin: table[:-1]}))
+    assert [chemin for chemin, _ in bilan.echecs] == [noms.OBJETS.chemin]
+
+
+def test_tables_de_noms_du_combat(tmp_path):
+    bilan = aller_retour.verifier(_image(tmp_path, {
+        "battle/table/skillnametable.tbl": fabriquer_table_noms(["Blank", "Agi", "Brand☆New☆Bam"]),
+        "battle/table/personanametable.tbl": fabriquer_table_noms(["BLANK", "Pixie"], debuts=False)}))
+    assert bilan.noms == 3 and bilan.echecs == []
+    bilan = aller_retour.verifier(_image(tmp_path, {
+        "battle/table/personanametable.tbl": fabriquer_table_noms(["BLANK", "Pixie"])[:-1]}))
+    assert [chemin for chemin, _ in bilan.echecs] == ["battle/table/personanametable.tbl"]

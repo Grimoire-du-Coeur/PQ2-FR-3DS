@@ -82,7 +82,11 @@ scripts absente de la liste.
 
 Les `.pac` ne contiennent pas de texte (portraits, modèles 3D).
 
-## Les noms d'objets
+## Les noms à cases fixes : objets et lieux
+
+`outils/noms.py`, une description `TableFixe` par fichier.
+
+### Objets
 
 `init/itemtbl.bin` (494 624 octets) finit par une table de 3 584 cases de
 22 octets, de 0x065820 à la fin du fichier : une par numéro d'objet
@@ -99,12 +103,43 @@ vérifiés par `valider.py` (champ `max`) et à l'injection.
 Les menus et les boutiques lisent cette table ; les dialogues qui citent un
 objet passent sans doute par un code d'insertion (`{f 2 4 …}`), à confirmer
 en jeu. 98 de ces noms existent aussi dans
-`battle/table/skillnametable.tbl` (noms des actions en combat), dont la
-disposition reste à décoder.
+`battle/table/skillnametable.tbl` : ces compétences reprennent la
+traduction de l'objet (voir plus bas).
 
 Police : la police des menus n'est pas encore identifiée. Si c'est
 `seurapro_13_13`, il lui manque é, É, œ… : à vérifier en jeu avec un
 premier nom accentué.
+
+### Lieux
+
+`camp/dictionary.tbl` (9 120 octets) : 152 fiches de 60 octets, une par
+apparition d'un ennemi. +4 : u16, numéro de l'ennemi ; +8 : nom du lieu
+(« 1st Ave.~ », « Kamoshida Square ») ; +30 et +32 : drapeaux ; +36 : six
+flottants. Le nom garde 20 octets, zéro final compris : les octets +28 et
++29 valent zéro dans toutes les fiches, la place réelle est peut-être de
+22. 33 lieux distincts, dans `noms/lieux.json` (`max` 19).
+
+## Les tables de noms du combat
+
+`outils/tables.py`. Format commun : un u16, le nombre de noms ; autant de
+positions u16 ; puis les noms à la suite, terminés par un zéro.
+`skillnametable.tbl` donne la position du **début** de chaque nom, les
+autres celle de sa **fin**. Les positions comptent depuis le premier nom :
+la zone tient 65 535 octets, et un nom peut s'allonger sans rien déplacer
+d'autre (la table est réécrite en entier).
+
+| Table | Noms | Extraits | Fichier |
+|---|---|---|---|
+| `battle/table/skillnametable.tbl` | 1 501 | 778 | `noms/competences.json` |
+| `battle/table/personanametable.tbl` | 401 | 310 | `noms/personas.json` |
+| `battle/table/enemynametable.tbl` | 501 | 356 | `noms/ennemis.json` |
+
+Ne sont pas extraits : les cases vides (`BLANK`, `blank`, `RESERVE SKILL`),
+les restes japonais, les doublons, et les 98 compétences au nom d'objet,
+qui prennent la traduction de `noms/objets.json` au build. Le même format
+sert à une dizaine d'autres tables (`Item/*nametable.tbl`,
+`quest/table/questnametable.tbl`, `battle/message/*.tbl`…), toutes en
+japonais : le jeu européen ne les affiche pas.
 
 ## Le texte d'une page
 
@@ -142,5 +177,7 @@ décompressé) ne commande pas le rendu du texte.
 
 ## Ce qui n'est pas encore extrait
 
-Voir la [feuille de route](FEUILLE_DE_ROUTE.md) : messages de combat `.mbm`
-(MSG2), autres tables de noms `.tbl`, textures `.ctpk`.
+Voir la [feuille de route](FEUILLE_DE_ROUTE.md) : textes de l'exécutable,
+saisie du nom et difficultés (`.bin`), noms des étages, textures `.ctpk`.
+Les `.mbm` (MSG2) sont tous en japonais : la version européenne ne les
+affiche pas.

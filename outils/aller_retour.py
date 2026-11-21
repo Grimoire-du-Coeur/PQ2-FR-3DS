@@ -13,8 +13,8 @@ compare au fichier d'origine :
 - échec : tout le reste. Il faut alors corriger msg1.py ou flw0.py avant
   d'injecter la moindre traduction.
 
-La table des noms d'objets (noms.py) est relue puis réécrite avec ses
-propres noms : elle doit redonner les mêmes octets.
+Les tables de noms (objets et lieux, noms.py ; combat, tables.py) sont relues puis réécrites avec leurs propres noms : elles
+doivent redonner les mêmes octets.
 
 Chaque page est aussi passée par le texte lisible de trad/ (texte.py) :
 découpée, décodée, réencodée, recollée. Elle doit redonner les mêmes octets.
@@ -35,6 +35,7 @@ import flw0
 import msg1
 import noms
 import pak
+import tables
 import texte
 from catalogue import est_archive_a_scripts
 from cpk import Cpk
@@ -48,7 +49,7 @@ class Bilan:
     sans_messages: int = 0
     messages: int = 0
     pages: int = 0
-    noms: int = 0                                   # noms d'objets à traduire
+    noms: int = 0                                   # noms des tables (objets, lieux, combat)
     equivalents: list[str] = field(default_factory=list)
     echecs: list[tuple[str, str]] = field(default_factory=list)
 
@@ -143,19 +144,33 @@ def verifier(image: Path) -> Bilan:
                     _controler(f"{chemin}/{nom}", brut, bilan)
                 except Exception as e:  # noqa: BLE001
                     bilan.echecs.append((f"{chemin}/{nom}", f"illisible : {type(e).__name__}: {e}"))
-        if noms.CHEMIN in archive.entrees:
-            _controler_noms(archive.lire(noms.CHEMIN), bilan)
+        for t in noms.TABLES_FIXES:
+            if t.chemin in archive.entrees:
+                _controler_noms(t, archive.lire(t.chemin), bilan)
+        for chemin in tables.TABLES:
+            if chemin in archive.entrees:
+                _controler_table(chemin, archive.lire(chemin), bilan)
     return bilan
 
 
-def _controler_noms(brut: bytes, bilan: Bilan) -> None:
+def _controler_table(chemin: str, brut: bytes, bilan: Bilan) -> None:
     try:
-        a_traduire = noms.noms_a_traduire(brut)
-        if noms.ecrire_noms(brut, {n: n for n in a_traduire}) != brut:
-            bilan.echecs.append((noms.CHEMIN, "la table ne se réécrit pas à l'identique"))
-        bilan.noms = len(a_traduire)
+        a_traduire = tables.noms_a_traduire(brut)
+        if tables.traduire(brut, {n: n for n in a_traduire}) != brut:
+            bilan.echecs.append((chemin, "la table ne se réécrit pas à l'identique"))
+        bilan.noms += len(a_traduire)
+    except (tables.ErreurTable, texte.ErreurTexte) as e:
+        bilan.echecs.append((chemin, str(e)))
+
+
+def _controler_noms(table: noms.TableFixe, brut: bytes, bilan: Bilan) -> None:
+    try:
+        a_traduire = noms.noms_a_traduire(brut, table)
+        if noms.ecrire_noms(brut, {n: n for n in a_traduire}, table) != brut:
+            bilan.echecs.append((table.chemin, "la table ne se réécrit pas à l'identique"))
+        bilan.noms += len(a_traduire)
     except (noms.ErreurNom, texte.ErreurTexte) as e:
-        bilan.echecs.append((noms.CHEMIN, str(e)))
+        bilan.echecs.append((table.chemin, str(e)))
 
 
 def main() -> int:
@@ -168,7 +183,7 @@ def main() -> int:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
     print(f"{bilan.fichiers} scripts (.bmd + .bf), {bilan.messages} messages, {bilan.pages} pages")
-    print(f"noms d'objets : {bilan.noms} (table relue et réécrite)")
+    print(f"{bilan.noms} noms dans les tables (relues et réécrites)")
     print(f"  identiques   : {bilan.identiques}")
     print(f"  sans messages: {bilan.sans_messages}")
     print(f"  équivalents  : {len(bilan.equivalents)}")

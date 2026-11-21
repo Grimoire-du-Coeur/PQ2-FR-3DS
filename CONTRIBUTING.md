@@ -39,7 +39,7 @@ liste d'entrées, une par message :
 | `locuteur` | qui parle (sa traduction est dans `trad/noms/locuteurs.json`) | **non** |
 | `choix` | `true` si le message est un choix proposé au joueur | **non** |
 | `en` | le texte anglais du jeu, ta référence | **non** |
-| `max` | place du nom dans le jeu, en octets (noms d'objets seulement) | **non** |
+| `max` | place du nom dans le jeu, en octets (noms d'objets et de lieux) | **non** |
 | `fr` | ta traduction ; vide = l'anglais reste en jeu | **oui** |
 | `a_revoir` | l'anglais a changé depuis ta traduction : relis, puis supprime ce champ | oui (le supprimer) |
 | `commentaire` | une note libre pour les relecteurs | oui |
@@ -117,6 +117,19 @@ anglaise du message**, et des `{SAUT}` pour couper.
   (« Médicament » = 11). Le validateur refuse un nom trop long. Garder les
   séries cohérentes (« Red Ring / Red Bangle » → même couleur, même ordre),
   et les termes du [Dictionnaire](docs/Dictionnaire.md).
+- **Compétences, Personas, ennemis** : dans
+  [`trad/noms/competences.json`](trad/noms/competences.json),
+  [`personas.json`](trad/noms/personas.json) et
+  [`ennemis.json`](trad/noms/ennemis.json). Pas de limite d'octets, mais la
+  place à l'écran n'est pas encore mesurée : rester proche de la longueur
+  anglaise. Les sorts (Agi, Bufu, Zio…) et les Personas gardent leur nom,
+  comme le dit le [Dictionnaire](docs/Dictionnaire.md) ; un fichier peut
+  donc contenir beaucoup de `"fr"` identiques à l'anglais, c'est normal.
+  Les compétences qui portent le nom d'un objet (« Rudra Ring ») n'y sont
+  pas : elles reprennent la traduction de `objets.json`.
+- **Lieux** (où l'on croise chaque ennemi : « 1st Ave.~ », « Kamoshida
+  Square ») : [`trad/noms/lieux.json`](trad/noms/lieux.json), **19 octets**
+  au plus. Garder le `~` final quand l'anglais en a un.
 
 ## 7. Envoyer sa traduction
 

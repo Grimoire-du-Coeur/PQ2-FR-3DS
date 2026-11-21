@@ -11,8 +11,9 @@ Les choix portent ``"choix": true`` et séparent leurs options par
 ``{OPTION}``. Les messages sans aucun mot latin (restes japonais du
 développement, fiches d'aide factices) ne sont pas extraits : le jeu les
 garde tels quels. Les noms de locuteurs se traduisent une seule fois, dans
-trad/noms/locuteurs.json, et ceux des objets dans trad/noms/objets.json
-(voir noms.py).
+trad/noms/locuteurs.json ; ceux des objets, lieux, compétences, Personas
+et ennemis dans trad/noms/ (noms.py, tables.py). Un nom de compétence qui est
+aussi un nom d'objet (« Rudra Ring ») suit la traduction de l'objet.
 
 Aucune traduction n'est jamais perdue :
 
@@ -32,8 +33,9 @@ from pathlib import Path
 import commun
 import msg1
 import noms
+import tables
 import texte
-from catalogue import Script, identifiants, lire_scripts
+from catalogue import Script, identifiants, lire_fichiers, lire_scripts
 from msg1 import AUCUN_LOCUTEUR
 from rom3ds import ErreurImage
 
@@ -89,11 +91,11 @@ def _fusionner(rel: str, e: dict, anciennes: dict, revoir: list[str]) -> dict:
     return e
 
 
-def construire(scripts: list[Script], anciennes: dict, objets: list[str] | None = None
+def construire(scripts: list[Script], anciennes: dict, listes: dict[str, list[str]] | None = None
                ) -> tuple[dict[str, list[dict]], list[dict], list[str]]:
     """(fichiers de trad/, orphelins, entrées à revoir).
 
-    ``objets`` : les noms d'objets à traduire (noms.noms_a_traduire).
+    ``listes`` : fichier de trad/noms/ → noms à traduire (noms.py, tables.py).
     """
     fichiers: dict[str, list[dict]] = {}
     origine: dict[str, str] = {}
@@ -117,9 +119,11 @@ def construire(scripts: list[Script], anciennes: dict, objets: list[str] | None 
             fichiers[rel] = entrees
     fichiers[LOCUTEURS] = [_fusionner(LOCUTEURS, {"id": n, "en": n, "fr": ""}, anciennes, revoir)
                            for n in sorted(locuteurs, key=lambda n: (n.casefold(), n))]
-    if objets is not None:
-        fichiers[noms.TRAD] = [_fusionner(noms.TRAD, {"id": n, "en": n, "max": noms.CASE - 1, "fr": ""},
-                                          anciennes, revoir) for n in objets]
+    maxima = {t.trad: t.max for t in noms.TABLES_FIXES}
+    for rel, liste in (listes or {}).items():
+        place = {"max": maxima[rel]} if rel in maxima else {}
+        fichiers[rel] = [_fusionner(rel, {"id": n, "en": n, **place, "fr": ""}, anciennes, revoir)
+                         for n in liste]
 
     presents = {(rel, e["id"]) for rel, entrees in fichiers.items() for e in entrees}
     orphelins = [{"fichier": rel, **e} for (rel, ident), e in sorted(anciennes.items())
@@ -175,13 +179,22 @@ def main() -> int:
     args = parser.parse_args()
     try:
         scripts = lire_scripts(args.image)
-        objets = noms.noms_a_traduire(noms.lire_table(args.image))
-    except (ErreurImage, noms.ErreurNom) as e:
+        chemins = [t.chemin for t in noms.TABLES_FIXES] + list(tables.TABLES)
+        bruts = lire_fichiers(args.image, chemins)
+        manquants = [c for c in chemins if c not in bruts]
+        if manquants:
+            raise ErreurImage(f"fichiers absents du jeu : {', '.join(manquants)}")
+        listes = {t.trad: noms.noms_a_traduire(bruts[t.chemin], t) for t in noms.TABLES_FIXES}
+        objets = set(listes[noms.OBJETS.trad])
+        listes |= {rel: tables.noms_a_traduire(bruts[chemin],
+                                               exclus=objets if chemin == tables.COMPETENCES else set())
+                   for chemin, rel in tables.TABLES.items()}
+    except (ErreurImage, noms.ErreurNom, tables.ErreurTable) as e:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
 
     anciennes = commun.charger_traductions(args.trad)
-    fichiers, orphelins, revoir = construire(scripts, anciennes, objets)
+    fichiers, orphelins, revoir = construire(scripts, anciennes, listes)
     fichier_orphelins = args.trad / ORPHELINS
     if fichier_orphelins.exists():
         deja = commun.lire_json(fichier_orphelins)
@@ -199,8 +212,10 @@ def main() -> int:
     entrees = [e for rel, es in fichiers.items() if not rel.startswith("noms/") for e in es]
     mots = sum(len(re.findall(r"[A-Za-z][A-Za-z'’-]*", re.sub(r"\{[^}]*\}", " ", e["en"])))
                for e in entrees)
-    print(f"{len(fichiers) - 2} fichiers, {len(entrees)} messages ({mots} mots anglais), "
-          f"{len(fichiers[LOCUTEURS])} locuteurs, {len(fichiers[noms.TRAD])} noms d'objets.")
+    dans_noms = [rel for rel in fichiers if rel.startswith("noms/")]
+    print(f"{len(fichiers) - len(dans_noms)} fichiers, {len(entrees)} messages ({mots} mots anglais).")
+    print("Noms : " + ", ".join(f"{rel.removeprefix('noms/').removesuffix('.json')} {len(fichiers[rel])}"
+                                for rel in sorted(dans_noms)) + ".")
     print(f"À revoir : {len(revoir)}. Orphelins : {len(orphelins)}.")
     return 0
 

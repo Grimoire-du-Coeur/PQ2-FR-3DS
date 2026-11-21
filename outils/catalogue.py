@@ -96,6 +96,14 @@ def messages_de(nom: str, brut: bytes) -> bytes | None:
     return brut if brut[8:12] == b"MSG1" else None
 
 
+def lire_fichiers(image: Path, chemins) -> dict[str, bytes]:
+    """Les fichiers demandés qui existent dans le CPK de l'image (tables de noms…)."""
+    position, _ = localiser_data_cpk(image)
+    with open(image, "rb") as f:
+        archive = Cpk(f, base=position)
+        return {c: archive.lire(c) for c in chemins if c in archive.entrees}
+
+
 def lire_scripts(image: Path) -> list[Script]:
     """Tous les .bmd et .bf qui portent des messages, isolés puis empaquetés."""
     position, _ = localiser_data_cpk(image)

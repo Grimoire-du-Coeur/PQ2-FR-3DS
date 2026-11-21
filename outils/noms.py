@@ -1,14 +1,21 @@
-"""Noms des objets et des équipements : init/itemtbl.bin.
+"""Tables de noms à cases fixes : objets, lieux.
 
-La fin de ce fichier est une table de 3 584 cases de 22 octets, une par
-numéro d'objet (0x000 à 0xDFF) : le nom en ASCII, terminé par un zéro et
-complété de zéros. Les menus, les boutiques et les dialogues (« Tu as
-obtenu… ») y lisent le nom d'un objet.
+    init/itemtbl.bin     → trad/noms/objets.json
+    camp/dictionary.tbl  → trad/noms/lieux.json
 
-Un même nom revient parfois dans plusieurs cases (« Medicine », « Shining
-Film »…) : il se traduit une seule fois, dans trad/noms/objets.json, et
-part dans toutes ses cases. Chaque case tient 21 octets ; une lettre
-accentuée en prend deux (voir police/caracteres.json).
+Chaque nom occupe une case de taille fixe, terminé par un zéro et complété
+de zéros. Un même nom revient souvent dans plusieurs cases (« Medicine »,
+« 1st Ave.~ ») : il se traduit une seule fois et part dans toutes ses
+cases. Le fichier ne change pas de taille : chaque nom a une place limitée,
+rappelée par le champ « max » du JSON, où une lettre accentuée compte pour
+deux octets (voir police/caracteres.json).
+
+- itemtbl.bin finit par 3 584 cases de 22 octets, une par numéro d'objet
+  (0x000 à 0xDFF). Les menus, les boutiques et les dialogues y lisent le
+  nom d'un objet.
+- dictionary.tbl : 152 fiches de 60 octets, les lieux où l'on croise
+  chaque ennemi. Le nom est à +8 ; des drapeaux suivent à +30 et +32, le
+  nom garde donc 20 octets, zéro final compris.
 
 Relevé sur la version européenne le 21/11/2026.
 """
@@ -16,22 +23,37 @@ Relevé sur la version européenne le 21/11/2026.
 from __future__ import annotations
 
 import re
-from pathlib import Path
+from dataclasses import dataclass
 
 import texte
-from cpk import Cpk
-from rom3ds import localiser_data_cpk
 
-CHEMIN = "init/itemtbl.bin"
-TRAD = "noms/objets.json"
-CASE = 22
-NOMBRE = 0xE00
-ZONE_DEBUT = 0x065820
-ZONE_FIN = ZONE_DEBUT + NOMBRE * CASE      # la table finit le fichier
+
+@dataclass(frozen=True)
+class TableFixe:
+    chemin: str         # dans le CPK
+    trad: str           # dans trad/
+    debut: int          # position de la première case
+    nombre: int         # nombre de cases
+    case: int           # taille d'une case
+    decalage: int       # position du nom dans la case
+    place: int          # octets réservés au nom, zéro final compris
+
+    @property
+    def fin(self) -> int:
+        return self.debut + self.nombre * self.case
+
+    @property
+    def max(self) -> int:
+        return self.place - 1
+
+
+OBJETS = TableFixe("init/itemtbl.bin", "noms/objets.json", 0x065820, 0xE00, 22, 0, 22)
+LIEUX = TableFixe("camp/dictionary.tbl", "noms/lieux.json", 0, 152, 60, 8, 20)
+TABLES_FIXES = (OBJETS, LIEUX)
 
 # Cases sans vrai nom, jamais affichées : « NULL », « Reserved », numéros
 # génériques (« Weapon 0x1F4 », « 0x623 »), noms provisoires, et les
-# marqueurs qui ouvrent chaque catégorie (« Armor Start »…).
+# marqueurs qui ouvrent chaque catégorie d'objets (« Armor Start »…).
 _FACTICE = re.compile(r"^(NULL|Reserved|Not Used.*|(.+ )?0x[0-9A-F]+|\(prov\).*|.+ (start|from here))$",
                       re.IGNORECASE)
 
@@ -40,22 +62,21 @@ class ErreurNom(ValueError):
     pass
 
 
-def _verifier(brut: bytes) -> None:
-    if len(brut) != ZONE_FIN:
-        raise ErreurNom(f"{CHEMIN} : {len(brut)} octets au lieu de {ZONE_FIN} "
+def _positions(brut: bytes, table: TableFixe) -> range:
+    if len(brut) != table.fin:          # les deux tables finissent leur fichier
+        raise ErreurNom(f"{table.chemin} : {len(brut)} octets au lieu de {table.fin} "
                         "(une autre version du jeu ?)")
+    return range(table.debut + table.decalage, table.fin, table.case)
 
 
-def lire_noms(brut: bytes) -> list[str]:
-    """Le nom de chaque case, dans l'ordre des numéros d'objet."""
-    _verifier(brut)
-    return [texte.decoder_texte(brut[p:p + CASE].split(b"\0")[0])
-            for p in range(ZONE_DEBUT, ZONE_FIN, CASE)]
+def lire_noms(brut: bytes, table: TableFixe = OBJETS) -> list[str]:
+    """Le nom de chaque case, dans l'ordre de la table."""
+    return [texte.decoder_texte(brut[p:p + table.place].split(b"\0")[0]) for p in _positions(brut, table)]
 
 
-def noms_a_traduire(brut: bytes) -> list[str]:
+def noms_a_traduire(brut: bytes, table: TableFixe = OBJETS) -> list[str]:
     """Les noms à traduire, sans doublon, dans l'ordre de la table (armes, armures…)."""
-    return list(dict.fromkeys(n for n in lire_noms(brut)
+    return list(dict.fromkeys(n for n in lire_noms(brut, table)
                               if texte.est_a_traduire(n) and not _FACTICE.match(n)))
 
 
@@ -64,22 +85,15 @@ def longueur(fr: str) -> int:
     return len(texte.encoder_texte(texte.adapter(fr)))
 
 
-def ecrire_noms(brut: bytes, traductions: dict[str, str]) -> bytes:
+def ecrire_noms(brut: bytes, traductions: dict[str, str], table: TableFixe = OBJETS) -> bytes:
     """La table avec chaque nom anglais de ``traductions`` remplacé dans toutes ses cases."""
     nouveau = bytearray(brut)
-    for k, nom in enumerate(lire_noms(brut)):
+    for p, nom in zip(_positions(brut, table), lire_noms(brut, table)):
         fr = traductions.get(nom)
         if not fr:
             continue
         code = texte.encoder_texte(texte.adapter(fr))
-        if len(code) > CASE - 1:
-            raise ErreurNom(f"{TRAD} « {fr} » : {len(code)} octets, la case en tient {CASE - 1}")
-        p = ZONE_DEBUT + k * CASE
-        nouveau[p:p + CASE] = code.ljust(CASE, b"\0")
+        if len(code) > table.max:
+            raise ErreurNom(f"{table.trad} « {fr} » : {len(code)} octets, la case en tient {table.max}")
+        nouveau[p:p + table.place] = code.ljust(table.place, b"\0")
     return bytes(nouveau)
-
-
-def lire_table(image: Path) -> bytes:
-    position, _ = localiser_data_cpk(image)
-    with open(image, "rb") as f:
-        return Cpk(f, base=position).lire(CHEMIN)

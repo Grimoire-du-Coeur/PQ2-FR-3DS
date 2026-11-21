@@ -7,8 +7,10 @@ import commun
 import injecter
 import msg1
 import noms
+import tables
 from cpk import Cpk
-from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1, fabriquer_pak
+from fabrique import (fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_itemtbl, fabriquer_msg1,
+                      fabriquer_pak, fabriquer_table_noms)
 
 MSG = fabriquer_msg1()
 
@@ -147,33 +149,59 @@ def test_copie_empaquetee_traduite_aussi(tmp_path):
     assert contenu["icone.ctpk"] == b"image"
 
 
-def _itemtbl(*liste):
-    zone = b"".join(n.encode("ascii").ljust(noms.CASE, b"\0") for n in liste)
-    return bytes(noms.ZONE_DEBUT) + zone.ljust(noms.ZONE_FIN - noms.ZONE_DEBUT, b"\0")
+_itemtbl = fabriquer_itemtbl
 
 
 def test_noms_d_objets(tmp_path):
     brut = _itemtbl("NULL", "Medicine", "Rebel Knife", "Medicine")
-    trad = _trad(tmp_path, {noms.TRAD: [
+    trad = _trad(tmp_path, {noms.OBJETS.trad: [
         {"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"},
         {"id": "Rebel Knife", "en": "Rebel Knife", "max": 21, "fr": ""}]})
-    assert noms.lire_noms(injecter.table_objets(brut, trad))[:4] == ["NULL", "Remède", "Rebel Knife", "Remède"]
-    assert injecter.table_objets(brut, _trad(tmp_path / "vide", {})) is None
+    assert noms.lire_noms(injecter.table_fixe(brut, trad))[:4] == ["NULL", "Remède", "Rebel Knife", "Remède"]
+    assert injecter.table_fixe(brut, _trad(tmp_path / "vide", {})) is None
 
 
 def test_nom_d_objet_trop_long(tmp_path):
-    trad = _trad(tmp_path, {noms.TRAD: [{"id": "Medicine", "en": "Medicine", "max": 21,
+    trad = _trad(tmp_path, {noms.OBJETS.trad: [{"id": "Medicine", "en": "Medicine", "max": 21,
                                          "fr": "Médicament très fort"}]})
     with pytest.raises(injecter.ErreurInjection, match="22 octets"):
-        injecter.table_objets(_itemtbl("Medicine"), trad)
+        injecter.table_fixe(_itemtbl("Medicine"), trad)
 
 
 def test_build_avec_les_noms_d_objets(tmp_path):
     image = tmp_path / "jeu.3ds"
     image.write_bytes(fabriquer_3ds(fabriquer_cpk(
-        {"init/aide.bmd": MSG, noms.CHEMIN: _itemtbl("NULL", "Medicine")}, compresses={noms.CHEMIN})))
-    trad = _trad(tmp_path, {noms.TRAD: [{"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"}]})
+        {"init/aide.bmd": MSG, noms.OBJETS.chemin: _itemtbl("NULL", "Medicine")}, compresses={noms.OBJETS.chemin})))
+    trad = _trad(tmp_path, {noms.OBJETS.trad: [{"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"}]})
     sortie = tmp_path / "data.cpk"
     assert injecter.construire(image, trad, sortie) == (1, 0)
     with open(sortie, "rb") as f:
-        assert noms.lire_noms(Cpk(f).lire(noms.CHEMIN))[1] == "Remède"
+        assert noms.lire_noms(Cpk(f).lire(noms.OBJETS.chemin))[1] == "Remède"
+
+
+def test_tables_de_noms_du_combat(tmp_path):
+    competences = fabriquer_table_noms(["Blank", "Agi", "Rudra Ring", "Luck Knack"])
+    personas = fabriquer_table_noms(["BLANK", "Sleipnir"], debuts=False)
+    trad = _trad(tmp_path, {
+        noms.OBJETS.trad: [{"id": "Rudra Ring", "en": "Rudra Ring", "max": 21, "fr": "Anneau de Rudra"},
+                    {"id": "Sleipnir", "en": "Sleipnir", "max": 21, "fr": "Bottes de Sleipnir"}],
+        "noms/competences.json": [{"id": "Agi", "en": "Agi", "fr": ""},
+                                  {"id": "Luck Knack", "en": "Luck Knack", "fr": "Don de chance"}]})
+    sortie = injecter.tables_de_noms({"battle/table/skillnametable.tbl": competences,
+                                      "battle/table/personanametable.tbl": personas}, trad)
+    assert set(sortie) == {"battle/table/skillnametable.tbl"}   # la Persona ne prend pas le nom des bottes
+    assert tables.lire_table(sortie["battle/table/skillnametable.tbl"]).noms == [
+        "Blank", "Agi", "Anneau de Rudra", "Don de chance"]
+
+
+def test_build_avec_une_table_de_noms(tmp_path):
+    image = tmp_path / "jeu.3ds"
+    image.write_bytes(fabriquer_3ds(fabriquer_cpk(
+        {"init/aide.bmd": MSG,
+         "battle/table/enemynametable.tbl": fabriquer_table_noms(["blank", "Cowardly Maya"], False)})))
+    trad = _trad(tmp_path, {"noms/ennemis.json": [{"id": "Cowardly Maya", "en": "Cowardly Maya",
+                                                   "fr": "Maya lâche"}]})
+    sortie = tmp_path / "data.cpk"
+    assert injecter.construire(image, trad, sortie) == (1, 0)
+    with open(sortie, "rb") as f:
+        assert tables.lire_table(Cpk(f).lire("battle/table/enemynametable.tbl")).noms == ["blank", "Maya lâche"]

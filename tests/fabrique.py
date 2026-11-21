@@ -290,3 +290,19 @@ def fabriquer_pak(fichiers: list[tuple[str, bytes]]) -> bytes:
     for nom, donnees in fichiers:
         sortie += nom.encode("ascii").ljust(32, b"\0") + struct.pack("<I", len(donnees)) + donnees
     return sortie
+
+
+def fabriquer_table_noms(noms: list[str], debuts: bool = True) -> bytes:
+    """Table de noms du combat (tables.py) : u16 nombre, u16 positions, noms."""
+    codes = [n.encode("cp932") + b"\0" for n in noms]
+    positions, p = [], 0
+    for c in codes:
+        positions.append(p if debuts else p + len(c))
+        p += len(c)
+    return struct.pack(f"<{len(noms) + 1}H", len(noms), *positions) + b"".join(codes)
+
+
+def fabriquer_itemtbl(*noms: str) -> bytes:
+    """init/itemtbl.bin : 0x065820 octets, puis 3 584 cases de 22 octets (noms.py)."""
+    zone = b"".join(n.encode("ascii").ljust(22, b"\0") for n in noms)
+    return bytes(0x065820) + zone.ljust(0xE00 * 22, b"\0")

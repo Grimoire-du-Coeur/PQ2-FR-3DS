@@ -34,8 +34,9 @@ import memoire
 import msg1
 import noms
 import pak
+import tables
 import texte
-from catalogue import Script, identifiants, lire_scripts
+from catalogue import Script, identifiants, lire_fichiers, lire_scripts
 from cpk import Cpk, patcher_cpk
 from extraire import LOCUTEURS
 from rom3ds import TITLE_ID_EU, ErreurImage, localiser_data_cpk
@@ -128,16 +129,39 @@ def _injecter(scripts: list[Script], trad: Path) -> tuple[dict[str, bytes], int]
     return sortie, traduits
 
 
-def table_objets(brut: bytes, trad: Path) -> bytes | None:
-    """init/itemtbl.bin avec les noms de trad/noms/objets.json ; None s'il n'y en a aucun."""
-    p = trad / noms.TRAD
-    traductions = {e["en"]: e["fr"] for e in commun.lire_json(p) if e.get("fr")} if p.exists() else {}
+def _traductions(trad: Path, rel: str) -> dict[str, str]:
+    p = trad / rel
+    return {e["en"]: e["fr"] for e in commun.lire_json(p) if e.get("fr")} if p.exists() else {}
+
+
+def table_fixe(brut: bytes, trad: Path, table: noms.TableFixe = noms.OBJETS) -> bytes | None:
+    """La table avec les noms de son JSON (trad/noms/objets.json…) ; None s'il n'y en a aucun."""
+    traductions = _traductions(trad, table.trad)
     if not traductions:
         return None
     try:
-        return noms.ecrire_noms(brut, traductions)
+        return noms.ecrire_noms(brut, traductions, table)
     except (noms.ErreurNom, texte.ErreurTexte) as e:
         raise ErreurInjection(str(e)) from None
+
+
+def tables_de_noms(bruts: dict[str, bytes], trad: Path) -> dict[str, bytes]:
+    """Les tables de tables.TABLES qui changent. Une compétence au nom d'objet
+    prend sa traduction dans trad/noms/objets.json (« Rudra Ring »)."""
+    objets = _traductions(trad, noms.OBJETS.trad)
+    sortie = {}
+    for chemin, brut in bruts.items():
+        traductions = {**(objets if chemin == tables.COMPETENCES else {}),
+                       **_traductions(trad, tables.TABLES[chemin])}
+        if not traductions:
+            continue
+        try:
+            nouveau = tables.traduire(brut, traductions)
+        except (tables.ErreurTable, texte.ErreurTexte) as e:
+            raise ErreurInjection(f"{tables.TABLES[chemin]} : {e}") from None
+        if nouveau != brut:
+            sortie[chemin] = nouveau
+    return sortie
 
 
 def remplacements(scripts: list[Script], trad: Path) -> dict[str, bytes]:
@@ -173,10 +197,13 @@ def construire(image: Path, trad: Path, sortie: Path) -> tuple[int, int]:
     """Écrit le data.cpk français ; rend (fichiers modifiés, messages traduits)."""
     scripts = lire_scripts(image)
     nouveaux, traduits = _injecter(scripts, trad)
-    if (trad / noms.TRAD).exists():
-        table = table_objets(noms.lire_table(image), trad)
-        if table is not None:
-            nouveaux[noms.CHEMIN] = table
+    if any((trad / rel).exists() for rel in [*(t.trad for t in noms.TABLES_FIXES), *tables.TABLES.values()]):
+        bruts = lire_fichiers(image, [*(t.chemin for t in noms.TABLES_FIXES), *tables.TABLES])
+        for t in noms.TABLES_FIXES:
+            nouveau = table_fixe(bruts.pop(t.chemin), trad, t) if t.chemin in bruts else None
+            if nouveau is not None:
+                nouveaux[t.chemin] = nouveau
+        nouveaux.update(tables_de_noms(bruts, trad))
     position, taille = localiser_data_cpk(image)
     if not _copie_valide(image, position, taille, sortie):
         _copier_cpk(image, position, taille, sortie)
@@ -196,7 +223,7 @@ def main() -> int:
     sortie = dossier_azahar() / "data.cpk" if args.azahar else args.sortie
     try:
         fichiers, messages = construire(args.image, args.trad, sortie)
-    except (ErreurImage, ErreurInjection, noms.ErreurNom) as e:
+    except (ErreurImage, ErreurInjection, noms.ErreurNom, tables.ErreurTable) as e:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
     print(f"{messages} message(s) traduit(s) dans {fichiers} fichier(s).")
