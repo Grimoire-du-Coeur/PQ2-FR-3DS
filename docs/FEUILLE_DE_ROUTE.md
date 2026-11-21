@@ -23,7 +23,7 @@ Repérés pendant les premiers tests en jeu, ils ne sont pas dans les fichiers
 
 | Où | Contenu | À faire |
 |---|---|---|
-| archives `.arc` et `.pac` | menus, boîtes « Information », saisie du nom, description des difficultés | lire ces archives et en extraire les scripts qu'elles contiennent |
+| ~~archives `.arc`~~ | ✅ fait : 40 archives, 7 scripts propres ajoutés à `trad/` | — |
 | `battle/message/*.mbm` | messages de combat (format MSG2) | écrire un lecteur MSG2 |
 | `*.tbl` | noms des Personas, compétences, ennemis, objets, étages | tables de chaînes à taille fixe : prévoir des noms courts |
 | textures `.ctpk` | menu titre (NEW GAME…), difficulté, OK / YES / NO, boutons Log / FFWD | redessiner les images (l'aide a été proposée à Tyron26) |

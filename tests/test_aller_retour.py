@@ -3,7 +3,7 @@
 import struct
 
 import aller_retour
-from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1
+from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1, fabriquer_pak
 
 MSG = fabriquer_msg1()
 
@@ -40,3 +40,15 @@ def test_script_illisible_est_un_echec(tmp_path):
     casse = MSG[:0x20] + b"\xff" * 8 + MSG[0x28:]
     bilan = aller_retour.verifier(_image(tmp_path, {"init/casse.bmd": casse}))
     assert [chemin for chemin, _ in bilan.echecs] == ["init/casse.bmd"]
+
+
+def test_archive_connue(tmp_path):
+    bilan = aller_retour.verifier(_image(tmp_path, {
+        "facility/pack/shop.arc": fabriquer_pak([("shop.bmd", MSG), ("icone.ctpk", b"image")])}))
+    assert bilan.fichiers == 1 and bilan.identiques == 1 and bilan.echecs == []
+
+
+def test_archive_a_scripts_inconnue(tmp_path):
+    bilan = aller_retour.verifier(_image(tmp_path, {
+        "init/nouvelle.arc": fabriquer_pak([("aide.bmd", MSG)])}))
+    assert ("init/nouvelle.arc", "archive à scripts absente de catalogue.ARCHIVES") in bilan.echecs

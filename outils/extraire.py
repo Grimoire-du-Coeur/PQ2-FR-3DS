@@ -29,8 +29,9 @@ import sys
 from pathlib import Path
 
 import commun
+import msg1
 import texte
-from catalogue import Script, chemin_trad, identifiants, lire_scripts
+from catalogue import Script, identifiants, lire_scripts
 from msg1 import AUCUN_LOCUTEUR
 from rom3ds import ErreurImage
 
@@ -92,11 +93,18 @@ def construire(scripts: list[Script], anciennes: dict) -> tuple[dict[str, list[d
     origine: dict[str, str] = {}
     revoir: list[str] = []
     locuteurs: set[str] = set()
+    partages: dict[str, bytes] = {}
     for s in scripts:
-        rel = chemin_trad(s.chemin)
+        rel = s.trad
+        contenu = msg1.ecrire_msg1(s.messages)
         if rel in origine:
+            # Une copie identique (fichier isolé et son double dans une archive)
+            # partage le JSON ; deux scripts différents, jamais.
+            if partages[rel] == contenu:
+                continue
             raise ValueError(f"{rel} : deux fichiers du jeu y mènent ({origine[rel]}, {s.chemin})")
         origine[rel] = s.chemin
+        partages[rel] = contenu
         locuteurs.update(texte.decoder_texte(n) for n in s.messages.locuteurs)
         entrees = [_fusionner(rel, e, anciennes, revoir) for e in _entrees_script(s)]
         if entrees:

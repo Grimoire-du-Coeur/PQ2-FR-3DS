@@ -280,3 +280,13 @@ def fabriquer_3ds(cpk: bytes, title_id: int = 0x00040000001D7600, chiffre: bool 
     struct.pack_into("<IQ", ncsd, 0x104, (debut + len(partition)) // MU, title_id)
     struct.pack_into("<II", ncsd, 0x120, debut // MU, len(partition) // MU)
     return bytes(ncsd) + partition
+
+
+# ---------------------------------------------------------------- PAK (.arc)
+
+def fabriquer_pak(fichiers: list[tuple[str, bytes]]) -> bytes:
+    """Archive Atlus PAK : nombre u32, puis (nom sur 32 octets, taille u32, données)."""
+    sortie = struct.pack("<I", len(fichiers))
+    for nom, donnees in fichiers:
+        sortie += nom.encode("ascii").ljust(32, b"\0") + struct.pack("<I", len(donnees)) + donnees
+    return sortie

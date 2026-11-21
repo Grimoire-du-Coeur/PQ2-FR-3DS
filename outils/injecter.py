@@ -32,8 +32,9 @@ import commun
 import flw0
 import memoire
 import msg1
+import pak
 import texte
-from catalogue import Script, chemin_trad, identifiants, lire_scripts
+from catalogue import Script, identifiants, lire_scripts
 from cpk import Cpk, patcher_cpk
 from extraire import LOCUTEURS
 from rom3ds import TITLE_ID_EU, ErreurImage, localiser_data_cpk
@@ -83,9 +84,10 @@ def _injecter(scripts: list[Script], trad: Path) -> tuple[dict[str, bytes], int]
     locuteurs = _locuteurs(trad)
     reprises = memoire.construire(trad)
     sortie: dict[str, bytes] = {}
+    archives: dict[str, tuple[bytes, dict[str, bytes]]] = {}   # .arc -> (original, entrées refaites)
     traduits = 0
     for s in scripts:
-        rel = chemin_trad(s.chemin)
+        rel = s.trad
         p = trad / rel
         entrees = {}
         for e in commun.lire_json(p) if p.exists() else []:
@@ -114,8 +116,14 @@ def _injecter(scripts: list[Script], trad: Path) -> tuple[dict[str, bytes], int]
         nouveau = msg1.ecrire_msg1(script)
         if s.chemin.endswith(".bf"):
             nouveau = flw0.remplacer_messages(s.brut, nouveau)
-        if nouveau != s.brut:
+        if nouveau == s.brut:
+            continue
+        if s.conteneur:
+            archives.setdefault(s.conteneur, (s.conteneur_brut, {}))[1][s.interne] = nouveau
+        else:
             sortie[s.chemin] = nouveau
+    for chemin, (original, refaits) in archives.items():
+        sortie[chemin] = pak.remplacer(original, refaits)
     return sortie, traduits
 
 

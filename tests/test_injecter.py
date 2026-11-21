@@ -7,7 +7,7 @@ import commun
 import injecter
 import msg1
 from cpk import Cpk
-from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1
+from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1, fabriquer_pak
 
 MSG = fabriquer_msg1()
 
@@ -126,3 +126,21 @@ def test_une_traduction_propre_garde_la_main(tmp_path):
     })
     nouveaux = injecter.remplacements(scripts, trad)
     assert msg1.lire_msg1(nouveaux["init/aide.bmd"]).messages[0].pages[1] == b"\xf2\x05\xff\xffAu revoir.\x00"
+
+
+def test_copie_empaquetee_traduite_aussi(tmp_path):
+    # La boutique existe en fichier isolé et dans facility/pack/shop.arc : une seule
+    # traduction, écrite aux deux endroits.
+    image = tmp_path / "jeu.3ds"
+    image.write_bytes(fabriquer_3ds(fabriquer_cpk({
+        "facility/shop.bmd": MSG,
+        "facility/pack/shop.arc": fabriquer_pak([("shop.bmd", MSG), ("icone.ctpk", b"image")]),
+    })))
+    scripts = catalogue.lire_scripts(image)
+    trad = _trad(tmp_path, {"systeme/facility/shop.json": [_dlg("Salut !{PAGE}Ciao.")]})
+    nouveaux = injecter.remplacements(scripts, trad)
+    assert set(nouveaux) == {"facility/shop.bmd", "facility/pack/shop.arc"}
+    import pak
+    contenu = dict(pak.lire_pak(nouveaux["facility/pack/shop.arc"]))
+    assert contenu["shop.bmd"] == nouveaux["facility/shop.bmd"]
+    assert contenu["icone.ctpk"] == b"image"

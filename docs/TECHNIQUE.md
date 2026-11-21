@@ -67,6 +67,21 @@ Dans un `.bf` (FLW0), cinq sections contiguës : procédures, étiquettes,
 code, messages, chaînes. Le code désigne les messages par leur numéro : on
 peut changer la taille de la section 3 en décalant la 4 et le champ +0x04.
 
+## Les archives .arc
+
+Des scripts vivent aussi dans des archives Atlus « PAK » (`outils/pak.py` :
+nombre d'entrées, puis nom sur 32 octets, taille et données, contigus).
+40 archives sur 323 en portent (`catalogue.ARCHIVES`, 8,6 Mo) : boutique,
+fusion, camp, donjons, ennemis. 40 de leurs 47 scripts sont des copies
+identiques de fichiers isolés : ils partagent le même JSON, et la
+réinjection écrit la traduction aux deux endroits, quelle que soit la copie
+que le jeu lit. Les 7 autres ont leur propre JSON
+(`facility/pack/shop.arc/x.bmd` → `systeme/facility/pack/shop/x.json`).
+`aller_retour.py` balaie toutes les archives et signale une archive à
+scripts absente de la liste.
+
+Les `.pac` ne contiennent pas de texte (portraits, modèles 3D).
+
 ## Le texte d'une page
 
 Codes de fonction : `0xF0 + (arguments + 1)`, puis `table << 5 | numéro`,
@@ -103,6 +118,5 @@ décompressé) ne commande pas le rendu du texte.
 
 ## Ce qui n'est pas encore extrait
 
-Voir la [feuille de route](FEUILLE_DE_ROUTE.md) : scripts contenus dans les
-archives `.arc`/`.pac`, messages de combat `.mbm` (MSG2), tables de noms
-`.tbl`, textures `.ctpk`.
+Voir la [feuille de route](FEUILLE_DE_ROUTE.md) : messages de combat `.mbm`
+(MSG2), tables de noms `.tbl`, textures `.ctpk`.

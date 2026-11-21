@@ -6,7 +6,7 @@ import catalogue
 import commun
 import extraire
 import msg1
-from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1
+from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1, fabriquer_pak
 
 JAPONAIS = msg1.Message("jp_c", False, 0xFFFF, ["テスト".encode("cp932") + b"\0"])
 
@@ -95,9 +95,24 @@ def test_orphelin(tmp_path):
 
 def test_collision(tmp_path):
     msg = fabriquer_msg1()
-    scripts = _scripts(tmp_path, {"event/a/x.bmd": msg, "event/a/x.bf": fabriquer_bf(msg)})
+    autre = msg1.lire_msg1(msg)
+    autre.messages[0].pages[0] = bytes.fromhex("f141") + b"Something else!\n"
+    scripts = _scripts(tmp_path, {"event/a/x.bmd": msg,
+                                  "event/a/x.bf": fabriquer_bf(msg1.ecrire_msg1(autre))})
     with pytest.raises(ValueError, match="histoire/a/x.json"):
         extraire.construire(scripts, {})
+
+
+def test_copie_empaquetee_partage_son_json(tmp_path):
+    msg = fabriquer_msg1()
+    scripts = _scripts(tmp_path, {
+        "facility/shop.bmd": msg,
+        "facility/pack/shop.arc": fabriquer_pak([("shop.bmd", msg), ("propre.bmd", msg)]),
+    })
+    assert sorted(s.trad for s in scripts) == ["systeme/facility/pack/shop/propre.json",
+                                               "systeme/facility/shop.json", "systeme/facility/shop.json"]
+    fichiers, _, _ = extraire.construire(scripts, {})
+    assert {"systeme/facility/shop.json", "systeme/facility/pack/shop/propre.json"} <= set(fichiers)
 
 
 def test_ecrire_puis_verifier(tmp_path):

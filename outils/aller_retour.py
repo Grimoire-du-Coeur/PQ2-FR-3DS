@@ -2,8 +2,9 @@
 
     python outils/aller_retour.py "chemin/vers/Persona Q2 (Europe).3ds"
 
-Pour chaque .bmd et chaque .bf du CPK, lit le script de messages, le
-réécrit sans rien traduire et compare au fichier d'origine :
+Pour chaque .bmd et chaque .bf du CPK, et pour ceux que portent les
+archives .arc, lit le script de messages, le réécrit sans rien traduire et
+compare au fichier d'origine :
 
 - identique : les octets sont les mêmes ;
 - équivalent : le fichier d'origine n'était pas « canonique » (deux lignes
@@ -29,7 +30,9 @@ from pathlib import Path
 import commun  # noqa: F401  (console en UTF-8)
 import flw0
 import msg1
+import pak
 import texte
+from catalogue import est_archive_a_scripts
 from cpk import Cpk
 from rom3ds import ErreurImage, localiser_data_cpk
 
@@ -117,6 +120,24 @@ def verifier(image: Path) -> Bilan:
                 _controler(chemin, archive.lire(chemin), bilan)
             except Exception as e:      # noqa: BLE001 — un fichier cassé ne doit pas arrêter le contrôle
                 bilan.echecs.append((chemin, f"illisible : {type(e).__name__}: {e}"))
+        # Les archives .arc : toutes, pour repérer une archive à scripts que
+        # catalogue.ARCHIVES ne connaîtrait pas (elle resterait en anglais).
+        for chemin in sorted(c for c in archive.entrees if c.endswith(".arc")):
+            brut_arc = archive.lire(chemin)
+            if not pak.est_pak(brut_arc):
+                continue
+            fichiers = pak.lire_pak(brut_arc)
+            if pak.ecrire_pak(fichiers) != brut_arc:
+                bilan.echecs.append((chemin, "l'archive ne se réécrit pas à l'identique"))
+            scripts = [(nom, brut) for nom, brut in fichiers if nom.endswith((".bmd", ".bf"))]
+            if scripts and not est_archive_a_scripts(chemin):
+                bilan.echecs.append((chemin, "archive à scripts absente de catalogue.ARCHIVES"))
+            for nom, brut in scripts:
+                bilan.fichiers += 1
+                try:
+                    _controler(f"{chemin}/{nom}", brut, bilan)
+                except Exception as e:  # noqa: BLE001
+                    bilan.echecs.append((f"{chemin}/{nom}", f"illisible : {type(e).__name__}: {e}"))
     return bilan
 
 
