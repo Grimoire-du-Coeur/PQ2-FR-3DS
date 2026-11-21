@@ -37,7 +37,7 @@ import noms
 import pak
 import tables
 import texte
-from catalogue import est_archive_a_scripts
+from catalogue import CONTENEURS, est_archive_a_scripts, messages_de
 from cpk import Cpk
 from rom3ds import ErreurImage, localiser_data_cpk
 
@@ -113,6 +113,18 @@ def _controler(chemin: str, donnees: bytes, bilan: Bilan) -> None:
         bilan.echecs.append((chemin, _premier_ecart(donnees, sortie)))
 
 
+def _a_traduire(nom: str, brut: bytes) -> bool:
+    """Vrai si le script porte au moins une page de texte latin (pas seulement du japonais)."""
+    try:
+        donnees = messages_de(nom, brut)
+        if donnees is None:
+            return False
+        return any(texte.est_a_traduire(texte.decouper_page(p)[1])
+                   for m in msg1.lire_msg1(donnees).messages for p in m.pages)
+    except Exception:       # noqa: BLE001 — un script illisible doit être signalé
+        return True
+
+
 def verifier(image: Path) -> Bilan:
     position, _ = localiser_data_cpk(image)
     bilan = Bilan()
@@ -126,9 +138,10 @@ def verifier(image: Path) -> Bilan:
                 _controler(chemin, archive.lire(chemin), bilan)
             except Exception as e:      # noqa: BLE001 — un fichier cassé ne doit pas arrêter le contrôle
                 bilan.echecs.append((chemin, f"illisible : {type(e).__name__}: {e}"))
-        # Les archives .arc : toutes, pour repérer une archive à scripts que
-        # catalogue.ARCHIVES ne connaîtrait pas (elle resterait en anglais).
-        for chemin in sorted(c for c in archive.entrees if c.endswith(".arc")):
+        # Les archives PAK (.arc, .gsd, .bin…) : toutes, pour repérer une
+        # archive à scripts que catalogue.ARCHIVES ne connaîtrait pas (elle
+        # resterait en anglais).
+        for chemin in sorted(c for c in archive.entrees if c.endswith(CONTENEURS)):
             brut_arc = archive.lire(chemin)
             if not pak.est_pak(brut_arc):
                 continue
@@ -136,8 +149,10 @@ def verifier(image: Path) -> Bilan:
             if pak.ecrire_pak(fichiers) != brut_arc:
                 bilan.echecs.append((chemin, "l'archive ne se réécrit pas à l'identique"))
             scripts = [(nom, brut) for nom, brut in fichiers if nom.endswith((".bmd", ".bf"))]
-            if scripts and not est_archive_a_scripts(chemin):
-                bilan.echecs.append((chemin, "archive à scripts absente de catalogue.ARCHIVES"))
+            if not est_archive_a_scripts(chemin):
+                if any(_a_traduire(nom, brut) for nom, brut in scripts):
+                    bilan.echecs.append((chemin, "archive à scripts absente de catalogue.ARCHIVES"))
+                continue
             for nom, brut in scripts:
                 bilan.fichiers += 1
                 try:

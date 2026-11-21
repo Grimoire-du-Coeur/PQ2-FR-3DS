@@ -1,0 +1,13 @@
+[
+  {
+    "id": "MSG_CANCEL",
+    "locuteur": "Elizabeth",
+    "en": "{f 0 1 2}{f 2 4 0}{f 0 1 0}is hereby cancelled, then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_UNISON",
+    "en": "With {f 4 4 3 0 1563}, {f 0 1 2}Haru{f 0 1 0} and {f 0 1 2}Yukiko{f 0 1 0}{SAUT}can now use the Unison Skill{SAUT}{f 0 1 1}Severed Fate{f 0 1 0}.",
+    "fr": ""
+  }
+]

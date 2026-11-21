@@ -23,9 +23,9 @@ Repérés pendant les premiers tests en jeu, ils ne sont pas dans les fichiers
 
 | Où | Contenu | À faire |
 |---|---|---|
-| ~~archives `.arc`~~ | ✅ fait : 40 archives, 7 scripts propres ajoutés à `trad/` | — |
+| ~~archives PAK (`.arc`, `.gsd`, `.bin`)~~ | ✅ fait : 40 `.arc`, 93 `.gsd`, 3 `.bin` ; 100 scripts propres ajoutés à `trad/` (saisie du nom, menus du camp, étages, missions, quêtes) | — |
 | exécutable (`code.bin`) | boîtes « Information » (carte SD, « Is this name acceptable? »…) | patch de l'exécutable (`code.ips`, accepté par Azahar et Luma3DS) |
-| tables `.bin` (`title/nameentry.bin`, `init/cmptable.bin`…) | saisie du nom, description des difficultés | décoder ces tables |
+| tables `.ctd` (dans `init/cmptable.bin`) | aides des menus du camp (« Which skill will you use? »…), description des difficultés | décoder ces tables (cases de 64 octets) |
 | ~~`battle/message/*.mbm`~~ | vérifié : tout en japonais (format MSG2), la version européenne ne les affiche pas | — |
 | ~~`init/itemtbl.bin`~~ | ✅ fait : 1 733 noms d'objets dans `trad/noms/objets.json` | — |
 | ~~`battle/table/*nametable.tbl`~~ | ✅ fait : 778 compétences, 310 Personas, 356 ennemis dans `trad/noms/` | — |

@@ -3,6 +3,7 @@
 import struct
 
 import aller_retour
+import msg1
 import noms
 from fabrique import (fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_itemtbl, fabriquer_msg1,
                       fabriquer_pak, fabriquer_table_noms)
@@ -72,3 +73,22 @@ def test_tables_de_noms_du_combat(tmp_path):
     bilan = aller_retour.verifier(_image(tmp_path, {
         "battle/table/personanametable.tbl": fabriquer_table_noms(["BLANK", "Pixie"])[:-1]}))
     assert [chemin for chemin, _ in bilan.echecs] == ["battle/table/personanametable.tbl"]
+
+
+def test_conteneur_gsd_inconnu(tmp_path):
+    bilan = aller_retour.verifier(_image(tmp_path, {
+        "quest/quest_99.gsd": fabriquer_pak([("quest_99.tbl", b"table"), ("quest_99.bf", fabriquer_bf(MSG))])}))
+    assert ("quest/quest_99.gsd", "archive à scripts absente de catalogue.ARCHIVES") not in bilan.echecs
+    bilan = aller_retour.verifier(_image(tmp_path, {
+        "misc/inconnu.gsd": fabriquer_pak([("x.bf", fabriquer_bf(MSG))])}))
+    assert ("misc/inconnu.gsd", "archive à scripts absente de catalogue.ARCHIVES") in bilan.echecs
+
+
+def test_archive_en_japonais_ignoree(tmp_path):
+    script = msg1.lire_msg1(MSG)
+    for m in script.messages:
+        m.pages = [p if k else "テスト".encode("cp932") + b"\0" for k, p in enumerate(m.pages[:1])]
+    japonais = msg1.ecrire_msg1(script)
+    bilan = aller_retour.verifier(_image(tmp_path, {
+        "battle/result/persona_get.bin": fabriquer_pak([("persona_get.bmd", japonais)])}))
+    assert bilan.echecs == []

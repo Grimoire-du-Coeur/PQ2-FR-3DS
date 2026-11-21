@@ -67,20 +67,34 @@ Dans un `.bf` (FLW0), cinq sections contiguës : procédures, étiquettes,
 code, messages, chaînes. Le code désigne les messages par leur numéro : on
 peut changer la taille de la section 3 en décalant la 4 et le champ +0x04.
 
-## Les archives .arc
+## Les archives PAK
 
 Des scripts vivent aussi dans des archives Atlus « PAK » (`outils/pak.py` :
 nombre d'entrées, puis nom sur 32 octets, taille et données, contigus).
-40 archives sur 323 en portent (`catalogue.ARCHIVES`, 8,6 Mo) : boutique,
-fusion, camp, donjons, ennemis. 40 de leurs 47 scripts sont des copies
-identiques de fichiers isolés : ils partagent le même JSON, et la
-réinjection écrit la traduction aux deux endroits, quelle que soit la copie
-que le jeu lit. Les 7 autres ont leur propre JSON
-(`facility/pack/shop.arc/x.bmd` → `systeme/facility/pack/shop/x.json`).
-`aller_retour.py` balaie toutes les archives et signale une archive à
-scripts absente de la liste.
+L'extension ne dit rien : le jeu en a 1 021, en `.arc`, `.gsd`, `.bin`,
+`.pac` et `.tpc` (`catalogue.CONTENEURS`). Celles qui portent des scripts à
+traduire sont dans `catalogue.ARCHIVES` :
 
-Les `.pac` ne contiennent pas de texte (portraits, modèles 3D).
+| Archives | Scripts | Contenu |
+|---|---|---|
+| 40 `.arc` sur 323 | 47, dont 40 copies de fichiers isolés | boutique, fusion, camp, donjons, ennemis |
+| 93 `.gsd` sur 100 (`dungeon/script/`, `init/`, `quest/`) | un `.bf` chacun | remarques d'étage, missions, quêtes |
+| `init/cmptable.bin` | 3 `.bmd` (89 messages) | menus du camp : Personas, statut, présentation |
+| `title/nameentry.bin` | `nameentry.bmd` (12 messages) | saisie du nom |
+| `init/gsobserver.bin` | une copie d'un fichier isolé | — |
+
+Une copie identique d'un fichier isolé partage son JSON, et la réinjection
+écrit la traduction aux deux endroits, quelle que soit la copie que le jeu
+lit. Les autres ont leur propre JSON, sous le nom de l'archive
+(`dungeon/script/dungeon01f.gsd/dungeon01f.bf` →
+`donjons/script/dungeon01f/dungeon01f.json`). `aller_retour.py` balaie
+toutes les archives et signale celle dont un script porte du texte latin
+sans être dans la liste. Les scripts restés en japonais
+(`battle/result/persona_get.bin`, `attraction/sch_walk.gsd`) n'y sont pas,
+pas plus que les `.pac` et `.tpc` (portraits, modèles 3D, scènes).
+
+`init/cmptable.bin` porte aussi 37 tables `.ctd` (aides des menus du camp,
+en cases de 64 octets) : pas encore extraites.
 
 ## Les noms à cases fixes : objets et lieux
 
