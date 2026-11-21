@@ -38,6 +38,21 @@ LOCUTEURS = "noms/locuteurs.json"
 ORPHELINS = "_orphelins.json"
 _CONSERVES = ("a_revoir", "commentaire")
 
+# Marqueurs laissés par les développeurs à la place d'un vrai texte (cases
+# vides, aides jamais écrites, écrans de test) : relevés sur le jeu le
+# 21/11/2026, ~690 entrées. Personne ne doit les traduire. « None » et
+# « Reserve » n'y sont pas : ils peuvent s'afficher dans un menu, comme
+# « Learned all skills dummy MSG. », que Tyron26 a vu et traduit.
+_FACTICES = {"dummy", "not used", "unused", "reserved", "reserve myth", "blank"}
+_FACTICE = re.compile(r"^(test( \d+| [A-Z]+)|.+ skill help text not used\.)$", re.I)
+
+
+def est_factice(lisible: str) -> bool:
+    """Vrai si toutes les pages du message ne sont que des marqueurs de développement."""
+    pages = re.split(r"\{PAGE\}|\{OPTION\}", lisible)
+    nues = [" ".join(re.sub(r"\{[^{}]*\}", " ", p).split()) for p in pages]
+    return all(n.lower() in _FACTICES or _FACTICE.match(n) for n in nues if n) and any(nues)
+
 
 def _entrees_script(script: Script) -> list[dict]:
     noms = [texte.decoder_texte(n) for n in script.messages.locuteurs]
@@ -45,6 +60,8 @@ def _entrees_script(script: Script) -> list[dict]:
     for ident, m in zip(identifiants(script.messages.messages), script.messages.messages):
         lisibles = [texte.decouper_page(p)[1] for p in m.pages]
         if not any(texte.est_a_traduire(t) for t in lisibles):
+            continue
+        if est_factice(texte.PAGE.join(lisibles)):
             continue
         e: dict = {"id": ident}
         if not m.choix and m.locuteur != AUCUN_LOCUTEUR and m.locuteur < len(noms):

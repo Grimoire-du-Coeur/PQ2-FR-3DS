@@ -39,6 +39,30 @@ def test_message_japonais_ecarte(tmp_path):
     assert "jp_c" not in [e["id"] for e in fichiers["systeme/init/aide.json"]]
 
 
+@pytest.mark.parametrize("lisible, attendu", [
+    ("Dummy", True), ("DUMMY", True), ("Not used", True), ("NOT USED", True), ("Unused", True),
+    ("Reserved", True), ("RESERVE Myth", True), ("Blank", True), ("BLANK", True),
+    ("Counter Skill help text not used.", True), ("TEST NEWGAME", True), ("Test 1", True),
+    ("{f 0 1 2}Dummy{f 0 1 0}{PAGE}Not used", True),
+    # de vraies répliques ou des libellés qui peuvent s'afficher en jeu
+    ("None", False), ("Reserve", False), ("I AM A DUMMY!", False),
+    ("Learned all skills dummy MSG.", False),       # s'affiche : traduit par Tyron26
+    ("No, dummy. Obviously it means, like, \"awesome\" here!", False),
+    ("Test out your strength on the FOE.", False),
+])
+def test_texte_factice(lisible, attendu):
+    assert extraire.est_factice(lisible) is attendu
+
+
+def test_message_factice_ecarte(tmp_path):
+    script = msg1.lire_msg1(fabriquer_msg1())
+    script.messages.append(msg1.Message("dummy_d", False, 0xFFFF, [b"\xf1\x41Dummy\x00"]))
+    image = tmp_path / "jeu.3ds"
+    image.write_bytes(fabriquer_3ds(fabriquer_cpk({"init/aide.bmd": msg1.ecrire_msg1(script)})))
+    fichiers, _, _ = extraire.construire(catalogue.lire_scripts(image), {})
+    assert "dummy_d" not in [e["id"] for e in fichiers["systeme/init/aide.json"]]
+
+
 def test_fr_conserve(tmp_path):
     scripts = _scripts(tmp_path)
     anciennes = {("systeme/init/aide.json", "dlg_a"):
