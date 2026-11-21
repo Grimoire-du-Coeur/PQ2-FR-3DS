@@ -66,3 +66,22 @@ def test_carte_svg(tmp_path):
     for nom in ("Histoire", "Donjons", "Combat", "Système", "Noms"):
         assert nom in svg
     assert "prefers-reduced-motion" in svg
+
+
+def test_propagation_comptee(tmp_path):
+    trad = tmp_path / "trad"
+    commun.ecrire_json(trad / "histoire/e100/a.json", [{"id": "1", "en": "Arf!", "fr": "Ouaf !"}])
+    commun.ecrire_json(trad / "donjons/b.json", [{"id": "2", "en": "Arf!", "fr": ""},
+                                                 {"id": "3", "en": "Huh?", "fr": ""}])
+    c = stats.compter(trad)
+    assert c.categories["donjons"] == [1, 2]       # « Arf! » est couvert par propagation
+    assert c.propages == 1
+    assert "dont 1 par propagation" in stats.bloc(c)
+
+
+def test_divergences_dans_le_suivi(tmp_path):
+    trad = tmp_path / "trad"
+    commun.ecrire_json(trad / "histoire/a.json", [{"id": "1", "en": "Huh?", "fr": "Hein ?"},
+                                                  {"id": "2", "en": "Huh?", "fr": "Quoi ?"}])
+    suivi = stats.suivi(stats.compter(trad))
+    assert "## À harmoniser" in suivi and "Hein ?" in suivi and "Quoi ?" in suivi

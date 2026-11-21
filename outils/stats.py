@@ -22,6 +22,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 import commun
+import memoire
 
 DEPOT = "https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS"
 CATEGORIES = [("histoire", "Histoire"), ("donjons", "Donjons"), ("combat", "Combat"),
@@ -37,6 +38,8 @@ class Compte:
     dossiers: dict[str, list[int]] = field(default_factory=dict)
     mots: list[int] = field(default_factory=lambda: [0, 0])          # mots anglais, hors noms
     revoir: list[tuple[str, str]] = field(default_factory=list)
+    propages: int = 0                       # entrées couvertes par la mémoire (memoire.py)
+    divergences: list = field(default_factory=list)
 
     def total(self) -> tuple[int, int]:
         return (sum(v[0] for v in self.categories.values()),
@@ -45,13 +48,17 @@ class Compte:
 
 def compter(trad: Path = commun.TRAD) -> Compte:
     c = Compte(categories={cle: [0, 0] for cle, _ in CATEGORIES})
+    reprises = memoire.construire(trad)
+    c.divergences = reprises.divergences()
     for p in commun.fichiers_trad(trad):
         rel = p.relative_to(trad).as_posix()
         parties = rel.split("/")
         categorie = parties[0]
         dossier = "/".join(parties[:2]) if len(parties) > 2 else categorie
         for e in commun.lire_json(p):
-            fait = bool(e.get("fr"))
+            propage = categorie != "noms" and reprises.couvre(e)
+            fait = bool(e.get("fr")) or propage
+            c.propages += propage
             for compteur in (c.categories.setdefault(categorie, [0, 0]),
                              c.dossiers.setdefault(dossier, [0, 0])):
                 compteur[0] += fait
@@ -99,6 +106,8 @@ def bloc(c: Compte) -> str:
     lignes.append("")
     lignes.append(f"{'Total':<14} {barre(f, t)} {pourcentage(f, t):>6}   {_nombre(f):>7} / {_nombre(t)} textes")
     lignes.append(f"{'':<14} {_nombre(c.mots[0])} mots traduits sur {_nombre(c.mots[1])}")
+    if c.propages:
+        lignes.append(f"{'':<14} dont {_nombre(c.propages)} par propagation (répliques identiques)")
     return "```text\n" + "\n".join(lignes) + "\n```"
 
 
@@ -140,6 +149,14 @@ def suivi(c: Compte) -> str:
     for dossier, (f, t) in sorted(c.dossiers.items()):
         morceaux.append(f"| [`{dossier}`]({DEPOT}/blob/main/trad/{dossier}) | "
                         f"{_nombre(f)} / {_nombre(t)} | {pourcentage(f, t)} |")
+    if c.divergences:
+        morceaux += ["", "## À harmoniser", "",
+                     "Ces répliques ont le même anglais mais plusieurs traductions. Au build, la plus "
+                     "fréquente est reprise pour les entrées vides : choisir la bonne, puis aligner les autres.",
+                     ""]
+        for en, variantes in c.divergences[:50]:
+            choix = " · ".join(f"« {fr} » ×{n}" for fr, n in variantes.items())
+            morceaux.append(f"- `{en}` → {choix}")
     if c.revoir:
         morceaux += ["", "## À relire", "",
                      "L'anglais de ces entrées a changé depuis leur traduction : relire, puis "

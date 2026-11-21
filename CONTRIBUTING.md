@@ -46,6 +46,13 @@ liste d'entrées, une par message :
 Un fichier **peut être traduit à moitié** : une entrée vide garde son
 anglais en jeu. Envoie ton travail par petits morceaux plutôt qu'en une fois.
 
+**Une réplique ne se traduit qu'une fois.** Le jeu répète beaucoup (« Arf! »
+138 fois, les choix « Yes / No »…) : au build, une entrée vide reprend la
+traduction d'un anglais **identique** déjà traduit ailleurs. Si une scène
+demande un autre français pour la même réplique, remplis simplement son
+`"fr"` : il garde la main. Les répliques traduites de plusieurs façons sont
+listées dans le suivi, section « À harmoniser ».
+
 ## 3. Les balises
 
 Le texte contient quelques balises entre accolades. **Ce ne sont pas des

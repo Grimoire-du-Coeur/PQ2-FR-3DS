@@ -39,6 +39,9 @@ qui s'affiche en jeu, et ce qui fait une bonne traduction de *Persona Q2*.
   sur Discord *avant* de l'utiliser partout.
 - **Regarde comment les scènes voisines ont été traduites** : le ton d'un
   personnage doit rester le même d'un fichier à l'autre.
+- **Une réplique déjà traduite ailleurs n'est pas à refaire** : le build reprend
+  la traduction d'un anglais identique. Ne la retraduis que si la scène demande
+  vraiment autre chose.
 
 ## 3. Ce qu'on cherche
 

@@ -103,3 +103,26 @@ def test_build_complet_puis_relance(tmp_path):
     assert relu.messages[0].pages[1] == b"\xf2\x05\xff\xffCiao.\x00"
     assert injecter.construire(image, trad, sortie) == (1, 1)
     assert sortie.stat().st_size == taille
+
+
+def test_propagation_d_une_replique_identique(tmp_path):
+    # « dlg_a » existe dans les deux scripts avec le même anglais : traduit une
+    # seule fois (dans e101), il doit sortir en français dans les deux.
+    scripts = catalogue.lire_scripts(_image(tmp_path))
+    trad = _trad(tmp_path, {
+        "histoire/e100/e101.json": [_dlg("Salut !{PAGE}Ciao.")],
+        "systeme/init/aide.json": [_dlg("")],
+    })
+    nouveaux = injecter.remplacements(scripts, trad)
+    assert set(nouveaux) == {"init/aide.bmd", "event/e100/e101.bf"}
+    assert msg1.lire_msg1(nouveaux["init/aide.bmd"]).messages[0].pages[1] == b"\xf2\x05\xff\xffCiao.\x00"
+
+
+def test_une_traduction_propre_garde_la_main(tmp_path):
+    scripts = catalogue.lire_scripts(_image(tmp_path))
+    trad = _trad(tmp_path, {
+        "histoire/e100/e101.json": [_dlg("Salut !{PAGE}Ciao.")],
+        "systeme/init/aide.json": [_dlg("Bonjour !{PAGE}Au revoir.")],
+    })
+    nouveaux = injecter.remplacements(scripts, trad)
+    assert msg1.lire_msg1(nouveaux["init/aide.bmd"]).messages[0].pages[1] == b"\xf2\x05\xff\xffAu revoir.\x00"

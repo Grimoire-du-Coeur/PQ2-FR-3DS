@@ -7,8 +7,9 @@
 Pour chaque script du jeu qui a au moins un champ "fr" rempli (ou un
 locuteur traduit), les pages françaises remplacent les pages anglaises.
 Le début et la fin cachés de chaque page (codes d'affichage, portrait,
-attente) sont repris de la page d'origine. Une entrée sans français garde
-son anglais : le jeu reste jouable de bout en bout à chaque étape.
+attente) sont repris de la page d'origine. Une entrée sans français reprend
+la traduction d'un anglais identique déjà traduit ailleurs (memoire.py), et
+sinon garde son anglais : le jeu reste jouable de bout en bout à chaque étape.
 
 Le CPK d'origine est copié une seule fois depuis l'image ; les builds
 suivants ne réécrivent que la fin du fichier (quelques secondes).
@@ -29,6 +30,7 @@ from pathlib import Path
 
 import commun
 import flw0
+import memoire
 import msg1
 import texte
 from catalogue import Script, chemin_trad, identifiants, lire_scripts
@@ -79,12 +81,19 @@ def _pages(rel: str, ident: str, m: msg1.Message, fr: str) -> list[bytes]:
 
 def _injecter(scripts: list[Script], trad: Path) -> tuple[dict[str, bytes], int]:
     locuteurs = _locuteurs(trad)
+    reprises = memoire.construire(trad)
     sortie: dict[str, bytes] = {}
     traduits = 0
     for s in scripts:
         rel = chemin_trad(s.chemin)
         p = trad / rel
-        entrees = {e["id"]: e for e in commun.lire_json(p) if e.get("fr")} if p.exists() else {}
+        entrees = {}
+        for e in commun.lire_json(p) if p.exists() else []:
+            # Une entrée sans français reprend celui d'un anglais identique déjà
+            # traduit ailleurs (memoire.py) ; son propre « fr » garde la main.
+            fr = e.get("fr") or reprises.proposer(e["en"])
+            if fr:
+                entrees[e["id"]] = {**e, "fr": fr}
         script = copy.deepcopy(s.messages)
         touche = False
         for i, nom in enumerate(script.locuteurs):
