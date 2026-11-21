@@ -31,6 +31,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 import commun  # noqa: F401  (console en UTF-8)
+import ctd
 import flw0
 import msg1
 import noms
@@ -50,6 +51,7 @@ class Bilan:
     messages: int = 0
     pages: int = 0
     noms: int = 0                                   # noms des tables (objets, lieux, combat)
+    textes_ctd: int = 0                             # textes des tables .ctd (menus du camp)
     equivalents: list[str] = field(default_factory=list)
     echecs: list[tuple[str, str]] = field(default_factory=list)
 
@@ -148,6 +150,8 @@ def verifier(image: Path) -> Bilan:
             fichiers = pak.lire_pak(brut_arc)
             if pak.ecrire_pak(fichiers) != brut_arc:
                 bilan.echecs.append((chemin, "l'archive ne se réécrit pas à l'identique"))
+            if chemin == ctd.CONTENEUR:
+                _controler_ctd(brut_arc, bilan)
             scripts = [(nom, brut) for nom, brut in fichiers if nom.endswith((".bmd", ".bf"))]
             if not est_archive_a_scripts(chemin):
                 if any(_a_traduire(nom, brut) for nom, brut in scripts):
@@ -166,6 +170,17 @@ def verifier(image: Path) -> Bilan:
             if chemin in archive.entrees:
                 _controler_table(chemin, archive.lire(chemin), bilan)
     return bilan
+
+
+def _controler_ctd(conteneur: bytes, bilan: Bilan) -> None:
+    for nom, brut in ctd.tables(conteneur).items():
+        textes = ctd.a_traduire(brut)
+        bilan.textes_ctd += len(textes)
+        try:
+            if ctd.ecrire(brut, dict(textes)) != brut:
+                bilan.echecs.append((f"{ctd.CONTENEUR}/{nom}", "la table ne se réécrit pas à l'identique"))
+        except (ctd.ErreurCtd, texte.ErreurTexte) as e:
+            bilan.echecs.append((f"{ctd.CONTENEUR}/{nom}", str(e)))
 
 
 def _controler_table(chemin: str, brut: bytes, bilan: Bilan) -> None:
@@ -198,7 +213,7 @@ def main() -> int:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
     print(f"{bilan.fichiers} scripts (.bmd + .bf), {bilan.messages} messages, {bilan.pages} pages")
-    print(f"{bilan.noms} noms dans les tables (relues et réécrites)")
+    print(f"{bilan.noms} noms dans les tables, {bilan.textes_ctd} textes de menus .ctd (relus et réécrits)")
     print(f"  identiques   : {bilan.identiques}")
     print(f"  sans messages: {bilan.sans_messages}")
     print(f"  équivalents  : {len(bilan.equivalents)}")

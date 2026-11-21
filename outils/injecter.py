@@ -29,6 +29,7 @@ import sys
 from pathlib import Path
 
 import commun
+import ctd
 import flw0
 import memoire
 import msg1
@@ -36,7 +37,7 @@ import noms
 import pak
 import tables
 import texte
-from catalogue import Script, identifiants, lire_fichiers, lire_scripts
+from catalogue import Script, chemin_trad, identifiants, lire_fichiers, lire_scripts
 from cpk import Cpk, patcher_cpk
 from extraire import LOCUTEURS
 from rom3ds import TITLE_ID_EU, ErreurImage, localiser_data_cpk
@@ -164,6 +165,28 @@ def tables_de_noms(bruts: dict[str, bytes], trad: Path) -> dict[str, bytes]:
     return sortie
 
 
+def tables_ctd(conteneur: bytes, trad: Path) -> bytes | None:
+    """cmptable.bin avec les textes de ses tables .ctd traduits ; None si rien ne change.
+
+    ``conteneur`` est l'archive telle qu'elle sort de la réinjection des
+    scripts du camp : les deux traductions s'ajoutent.
+    """
+    refaites = {}
+    for nom, brut in ctd.tables(conteneur).items():
+        rel = chemin_trad(f"{ctd.CONTENEUR}/{nom}")
+        p = trad / rel
+        if not p.exists():
+            continue
+        traductions = {int(e["id"]): e["fr"] for e in commun.lire_json(p) if e.get("fr")}
+        if not traductions:
+            continue
+        try:
+            refaites[nom] = ctd.ecrire(brut, traductions)
+        except (ctd.ErreurCtd, texte.ErreurTexte) as e:
+            raise ErreurInjection(f"{rel} : {e}") from None
+    return pak.remplacer(conteneur, refaites) if refaites else None
+
+
 def remplacements(scripts: list[Script], trad: Path) -> dict[str, bytes]:
     """Chemin dans le CPK → fichier reconstruit, pour les seuls scripts qui changent."""
     return _injecter(scripts, trad)[0]
@@ -197,13 +220,18 @@ def construire(image: Path, trad: Path, sortie: Path) -> tuple[int, int]:
     """Écrit le data.cpk français ; rend (fichiers modifiés, messages traduits)."""
     scripts = lire_scripts(image)
     nouveaux, traduits = _injecter(scripts, trad)
-    if any((trad / rel).exists() for rel in [*(t.trad for t in noms.TABLES_FIXES), *tables.TABLES.values()]):
-        bruts = lire_fichiers(image, [*(t.chemin for t in noms.TABLES_FIXES), *tables.TABLES])
-        for t in noms.TABLES_FIXES:
-            nouveau = table_fixe(bruts.pop(t.chemin), trad, t) if t.chemin in bruts else None
-            if nouveau is not None:
-                nouveaux[t.chemin] = nouveau
-        nouveaux.update(tables_de_noms(bruts, trad))
+    bruts = lire_fichiers(image, [*(t.chemin for t in noms.TABLES_FIXES), *tables.TABLES, ctd.CONTENEUR])
+    for t in noms.TABLES_FIXES:
+        nouveau = table_fixe(bruts.pop(t.chemin), trad, t) if t.chemin in bruts else None
+        if nouveau is not None:
+            nouveaux[t.chemin] = nouveau
+    cmptable = nouveaux.get(ctd.CONTENEUR) or bruts.pop(ctd.CONTENEUR, None)
+    bruts.pop(ctd.CONTENEUR, None)
+    nouveaux.update(tables_de_noms(bruts, trad))
+    if cmptable is not None:
+        nouveau = tables_ctd(cmptable, trad)
+        if nouveau is not None:
+            nouveaux[ctd.CONTENEUR] = nouveau
     position, taille = localiser_data_cpk(image)
     if not _copie_valide(image, position, taille, sortie):
         _copier_cpk(image, position, taille, sortie)
@@ -223,7 +251,7 @@ def main() -> int:
     sortie = dossier_azahar() / "data.cpk" if args.azahar else args.sortie
     try:
         fichiers, messages = construire(args.image, args.trad, sortie)
-    except (ErreurImage, ErreurInjection, noms.ErreurNom, tables.ErreurTable) as e:
+    except (ErreurImage, ErreurInjection, noms.ErreurNom, tables.ErreurTable, ctd.ErreurCtd) as e:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
     print(f"{messages} message(s) traduit(s) dans {fichiers} fichier(s).")

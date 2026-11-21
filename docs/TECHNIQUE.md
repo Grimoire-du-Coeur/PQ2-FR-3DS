@@ -93,8 +93,23 @@ sans être dans la liste. Les scripts restés en japonais
 (`battle/result/persona_get.bin`, `attraction/sch_walk.gsd`) n'y sont pas,
 pas plus que les `.pac` et `.tpc` (portraits, modèles 3D, scènes).
 
-`init/cmptable.bin` porte aussi 37 tables `.ctd` (aides des menus du camp,
-en cases de 64 octets) : pas encore extraites.
+## Les tables .ctd des menus du camp
+
+`init/cmptable.bin` porte aussi 37 tables `.ctd` (`outils/ctd.py`). En-tête
+de 16 octets (u32 taille des données, u32 nombre de cases, 8 zéros), les
+cases, puis une copie de l'en-tête, parfois tronquée. 18 tables sont du
+texte en cases de 64 octets (un texte terminé par un zéro, complété de
+zéros) ; les autres sont des nombres. Seules les cases de texte sont
+réécrites, à leur place : la table garde sa taille, un texte tient 63
+octets. Trois tables figurent deux fois à l'identique (`cmpSkillHelp`…) :
+les deux copies sont réécrites.
+
+16 tables, 94 textes, dans `systeme/init/cmptable/<table>.json` (id = numéro
+de case) : options, aides et libellés des menus du camp, catégories
+d'objets, difficultés. Ne sont pas extraits : les restes japonais
+(`cmpDifficultHelp`, « SAFTYのヘルプ ») et « Not used. (If this appears, it
+is a bug. ». La description des difficultés affichée en début de partie
+vient donc d'ailleurs : à localiser.
 
 ## Les noms à cases fixes : objets et lieux
 

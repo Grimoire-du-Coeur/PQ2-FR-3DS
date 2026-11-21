@@ -306,3 +306,19 @@ def fabriquer_itemtbl(*noms: str) -> bytes:
     """init/itemtbl.bin : 0x065820 octets, puis 3 584 cases de 22 octets (noms.py)."""
     zone = b"".join(n.encode("ascii").ljust(22, b"\0") for n in noms)
     return bytes(0x065820) + zone.ljust(0xE00 * 22, b"\0")
+
+
+def fabriquer_ctd(textes: list[str] | None = None, nombres: bytes | None = None) -> bytes:
+    """Table .ctd : en-tête (taille, nombre, 8 zéros), cases, copie de l'en-tête.
+
+    ``textes`` : une case de 64 octets par texte ; ``nombres`` : une table
+    de données (cases de 8 octets).
+    """
+    if textes is not None:
+        cases = b"".join(t.encode("cp932").ljust(64, b"\0") for t in textes)
+        nombre = len(textes)
+    else:
+        cases = nombres or bytes(8)
+        nombre = len(cases) // 8
+    entete = struct.pack("<II", len(cases), nombre) + bytes(8)
+    return entete + cases + entete

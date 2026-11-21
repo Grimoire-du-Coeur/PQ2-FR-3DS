@@ -39,7 +39,7 @@ liste d'entrées, une par message :
 | `locuteur` | qui parle (sa traduction est dans `trad/noms/locuteurs.json`) | **non** |
 | `choix` | `true` si le message est un choix proposé au joueur | **non** |
 | `en` | le texte anglais du jeu, ta référence | **non** |
-| `max` | place du nom dans le jeu, en octets (noms d'objets et de lieux) | **non** |
+| `max` | place du texte dans le jeu, en octets (noms d'objets et de lieux, menus du camp) | **non** |
 | `fr` | ta traduction ; vide = l'anglais reste en jeu | **oui** |
 | `a_revoir` | l'anglais a changé depuis ta traduction : relis, puis supprime ce champ | oui (le supprimer) |
 | `commentaire` | une note libre pour les relecteurs | oui |

@@ -5,7 +5,7 @@ import struct
 import aller_retour
 import msg1
 import noms
-from fabrique import (fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_itemtbl, fabriquer_msg1,
+from fabrique import (fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_ctd, fabriquer_itemtbl, fabriquer_msg1,
                       fabriquer_pak, fabriquer_table_noms)
 
 MSG = fabriquer_msg1()
@@ -92,3 +92,10 @@ def test_archive_en_japonais_ignoree(tmp_path):
     bilan = aller_retour.verifier(_image(tmp_path, {
         "battle/result/persona_get.bin": fabriquer_pak([("persona_get.bmd", japonais)])}))
     assert bilan.echecs == []
+
+
+def test_tables_ctd(tmp_path):
+    cmptable = fabriquer_pak([("camp_msg.bmd", MSG), ("cmpConfigItem.ctd", fabriquer_ctd(["Confirm", "BGM Volume"])),
+                              ("cmpTypeID_ITEM.ctd", fabriquer_ctd(nombres=bytes(16)))])
+    bilan = aller_retour.verifier(_image(tmp_path, {"init/cmptable.bin": cmptable}))
+    assert bilan.textes_ctd == 2 and bilan.echecs == []
