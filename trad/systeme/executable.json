@@ -1,0 +1,567 @@
+[
+  {
+    "id": "000",
+    "en": "Save endgame data?",
+    "fr": ""
+  },
+  {
+    "id": "001",
+    "en": "You can load your endgame data when you start{SAUT}a new game. If you do this, you will carry{SAUT}over certain bonuses from the previous game.{SAUT}You can also load this data and continue{SAUT}from a point before the final boss in the same{SAUT}state as when you completed the game.",
+    "fr": ""
+  },
+  {
+    "id": "002",
+    "en": "Return to the title screen without saving{SAUT}your endgame data?",
+    "fr": ""
+  },
+  {
+    "id": "003",
+    "en": "Overwrite the previously saved data? ",
+    "fr": ""
+  },
+  {
+    "id": "004",
+    "en": "Saving...",
+    "fr": ""
+  },
+  {
+    "id": "005",
+    "en": "Save complete.",
+    "fr": ""
+  },
+  {
+    "id": "006",
+    "en": "Save complete.{SAUT}Map data failed to save.",
+    "fr": ""
+  },
+  {
+    "id": "007",
+    "en": "Save complete, but the data has been{SAUT}initialized. Try saving again. ",
+    "fr": ""
+  },
+  {
+    "id": "008",
+    "en": "Save complete. Map data failed to save.{SAUT}Saved data has been initialized.{SAUT}Try saving again.",
+    "fr": ""
+  },
+  {
+    "id": "009",
+    "en": "Save failed.",
+    "fr": ""
+  },
+  {
+    "id": "010",
+    "en": "Load this file?",
+    "fr": ""
+  },
+  {
+    "id": "011",
+    "en": "Loading...",
+    "fr": ""
+  },
+  {
+    "id": "012",
+    "en": "Load complete.",
+    "fr": ""
+  },
+  {
+    "id": "013",
+    "en": "Load completed, but the map data on the{SAUT}SD card was unable to be read.",
+    "fr": ""
+  },
+  {
+    "id": "014",
+    "en": "Load complete, but unable to find map data.{SAUT}Failed to load map data.",
+    "fr": ""
+  },
+  {
+    "id": "015",
+    "en": "Load complete, but the data has been{SAUT}formatted. Try saving again. ",
+    "fr": ""
+  },
+  {
+    "id": "016",
+    "en": "Load completed, but the map data on the{SAUT}SD card was unable to be read.{SAUT}Saved data has been initialized.{SAUT}Try saving again.",
+    "fr": ""
+  },
+  {
+    "id": "017",
+    "en": "Load complete, but unable to find map data.{SAUT}Failed to load map data.{SAUT}Saved data has been initialized.{SAUT}Try saving again.",
+    "fr": ""
+  },
+  {
+    "id": "018",
+    "en": "Load failed.",
+    "fr": ""
+  },
+  {
+    "id": "019",
+    "en": "Delete saved data?{SAUT}{f 0 1 2}Extra data on the SD card{SAUT}will not be deleted.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "020",
+    "en": "Delete all extra data saved on the SD card?",
+    "fr": ""
+  },
+  {
+    "id": "021",
+    "en": "Are you sure?",
+    "fr": ""
+  },
+  {
+    "id": "022",
+    "en": "Deleting...",
+    "fr": ""
+  },
+  {
+    "id": "023",
+    "en": "Delete completed.",
+    "fr": ""
+  },
+  {
+    "id": "024",
+    "en": "Delete failed.",
+    "fr": ""
+  },
+  {
+    "id": "025",
+    "en": "Would you like to use the endgame data?",
+    "fr": ""
+  },
+  {
+    "id": "026",
+    "en": "Do you wish to begin the game without{SAUT}using the bonuses from the endgame data?",
+    "fr": ""
+  },
+  {
+    "id": "027",
+    "en": "Select the data to carry over.{SAUT}You may use any endgame data,{SAUT}even one that has begun a new game already.",
+    "fr": ""
+  },
+  {
+    "id": "028",
+    "en": "Selected data is not endgame data.",
+    "fr": ""
+  },
+  {
+    "id": "029",
+    "en": "Carry over Persona Films, party stats,{SAUT}money and items from the endgame data?",
+    "fr": ""
+  },
+  {
+    "id": "030",
+    "en": "Carry over map data from the endgame data?",
+    "fr": ""
+  },
+  {
+    "id": "031",
+    "en": "The suspend data will be deleted.{SAUT}Continue?",
+    "fr": ""
+  },
+  {
+    "id": "032",
+    "en": "Create suspend data?",
+    "fr": ""
+  },
+  {
+    "id": "033",
+    "en": "Creating suspend data...",
+    "fr": ""
+  },
+  {
+    "id": "034",
+    "en": "Suspend save complete.{SAUT}Returning to the title screen.",
+    "fr": ""
+  },
+  {
+    "id": "035",
+    "en": "Suspend save complete, but failed to save{SAUT}map data. Return to the title screen?",
+    "fr": ""
+  },
+  {
+    "id": "036",
+    "en": "Suspend save failed.",
+    "fr": ""
+  },
+  {
+    "id": "037",
+    "en": "Suspend data will be deleted once you{SAUT}resume the suspend save.",
+    "fr": ""
+  },
+  {
+    "id": "038",
+    "en": "Loading suspend data...",
+    "fr": ""
+  },
+  {
+    "id": "039",
+    "en": "{f 0 1 3}{f 2 4 0}{f 0 1 0}　{SAUT}Resume the game from here?",
+    "fr": ""
+  },
+  {
+    "id": "040",
+    "en": "Suspend data loaded.",
+    "fr": ""
+  },
+  {
+    "id": "041",
+    "en": "Suspend data loaded, but the SD card could not{SAUT}be recognized. Failed to load map data.{SAUT}Would you like to continue?",
+    "fr": ""
+  },
+  {
+    "id": "042",
+    "en": "Suspend data loaded, but unable to{SAUT}find map data. Failed to load full save data.{SAUT}Would you like to continue?",
+    "fr": ""
+  },
+  {
+    "id": "043",
+    "en": "Suspend data loaded.{SAUT}Saved data has been initialized.{SAUT}Try saving again.",
+    "fr": ""
+  },
+  {
+    "id": "044",
+    "en": "Suspend data loaded, but the SD card could not{SAUT}be recognized. Failed to load map data.{SAUT}Saved data has been initialized.{SAUT}Try saving again.",
+    "fr": ""
+  },
+  {
+    "id": "045",
+    "en": "Suspend data loaded, but unable to{SAUT}find map data. Failed to load map data.{SAUT}Saved data has been formatted.{SAUT}Try saving again.",
+    "fr": ""
+  },
+  {
+    "id": "046",
+    "en": "Failed to load suspend data.",
+    "fr": ""
+  },
+  {
+    "id": "047",
+    "en": "The data is corrupted.",
+    "fr": ""
+  },
+  {
+    "id": "048",
+    "en": "Activating StreetPass will allow you{SAUT}to exchange P-Books with people.{SAUT}Activate Persona Q2's StreetPass feature{SAUT}on this Nintendo 3DS system?",
+    "fr": ""
+  },
+  {
+    "id": "049",
+    "en": "Persona Q2's StreetPass feature has been{SAUT}activated on this Nintendo 3DS system.",
+    "fr": ""
+  },
+  {
+    "id": "050",
+    "en": "StreetPass exchanges will happen{SAUT}automatically, even when this game is closed.{SAUT}To deactivate StreetPass, select{SAUT}System Settings from the HOME Menu, then{SAUT}Data Management > StreetPass Management.",
+    "fr": ""
+  },
+  {
+    "id": "051",
+    "en": "Persona Q2's StreetPass is already activated.{SAUT}To deactivate StreetPass, select{SAUT}System Settings from the HOME Menu, then{SAUT}Data Management > StreetPass Management.",
+    "fr": ""
+  },
+  {
+    "id": "052",
+    "en": "Your Nintendo 3DS system already{SAUT}reached the maximum number of{SAUT}StreetPass registrations.{SAUT}To register this title for use with StreetPass,{SAUT}go to StreetPass Management in the System{SAUT}Settings and deactivate another title.",
+    "fr": ""
+  },
+  {
+    "id": "053",
+    "en": "To use StreetPass, you must first agree to{SAUT}the End User License Agreement.{SAUT}Select Internet Settings > Other Information{SAUT}> User Agreement, then agree to the newest{SAUT}User Agreement.",
+    "fr": ""
+  },
+  {
+    "id": "054",
+    "en": "The StreetPass feature in this game{SAUT}cannot be used, since StreetPass is{SAUT}restricted in Parental Controls.",
+    "fr": ""
+  },
+  {
+    "id": "055",
+    "en": "Your P-Book QR Code will be{SAUT}saved to the SD card.{SAUT}Output the QR Code?",
+    "fr": ""
+  },
+  {
+    "id": "056",
+    "en": "Saving to the SD card...",
+    "fr": ""
+  },
+  {
+    "id": "057",
+    "en": "No SD card is inserted.",
+    "fr": ""
+  },
+  {
+    "id": "058",
+    "en": "Insufficient space on the SD card.",
+    "fr": ""
+  },
+  {
+    "id": "059",
+    "en": "Too many pictures on the SD card.{SAUT}Unable to save.",
+    "fr": ""
+  },
+  {
+    "id": "060",
+    "en": "The SD card could not be recognized.",
+    "fr": ""
+  },
+  {
+    "id": "061",
+    "en": "The QR Code data has been outputted.{SAUT}{f 2 4 0}",
+    "fr": ""
+  },
+  {
+    "id": "062",
+    "en": "Checking StreetPass data...",
+    "fr": ""
+  },
+  {
+    "id": "063",
+    "en": "Your P-Book has been changed.{SAUT}Update your StreetPass information?",
+    "fr": ""
+  },
+  {
+    "id": "064",
+    "en": "Are you sure you wish to discard{SAUT}any changes made?",
+    "fr": ""
+  },
+  {
+    "id": "065",
+    "en": "Use {f 2 4 0} Play Coins?{SAUT}{f 0 1 2}Any Play Coins used will not be returned,{SAUT}even if you close the game without saving.{f 0 1 0}",
+    "fr": ""
+  },
+  {
+    "id": "066",
+    "en": "You do not have enough Play Coins.",
+    "fr": ""
+  },
+  {
+    "id": "067",
+    "en": "The protagonist's name may be seen{SAUT}by others through data exchange.{SAUT}Please refrain from using offensive names{SAUT}or including personal information.",
+    "fr": ""
+  },
+  {
+    "id": "068",
+    "en": "His name may be seen by others through{SAUT}data exchange.{SAUT}Please refrain from using offensive names{SAUT}or including personal information.",
+    "fr": ""
+  },
+  {
+    "id": "069",
+    "en": "Her name may be seen by others through{SAUT}data exchange.{SAUT}Please refrain from using offensive names{SAUT}or including personal information.",
+    "fr": ""
+  },
+  {
+    "id": "070",
+    "en": "Is this name acceptable?",
+    "fr": ""
+  },
+  {
+    "id": "071",
+    "en": "Overwrite map data?",
+    "fr": ""
+  },
+  {
+    "id": "072",
+    "en": "Is this okay?",
+    "fr": ""
+  },
+  {
+    "id": "073",
+    "en": "Save this squad?",
+    "fr": ""
+  },
+  {
+    "id": "074",
+    "en": "This text contains offensive language{SAUT}and cannot be used.{SAUT}Enter new text.",
+    "fr": ""
+  },
+  {
+    "id": "075",
+    "en": "You may only input up to five numbers.{SAUT}Enter new text.",
+    "fr": ""
+  },
+  {
+    "id": "076",
+    "en": "Note:{SAUT}Saved data in these slots will be stored{SAUT}on the SD card.",
+    "fr": ""
+  },
+  {
+    "id": "077",
+    "en": "Game saves made to the SD card can{SAUT}be loaded here.",
+    "fr": ""
+  },
+  {
+    "id": "078",
+    "en": "Please do not input offensive material,{SAUT}violate copyrights, or reveal personal{SAUT}information in your messages.",
+    "fr": ""
+  },
+  {
+    "id": "079",
+    "en": "Your message may be seen by others through{SAUT}data exchange.{SAUT}Please refrain from using offensive names{SAUT}or including personal information.",
+    "fr": ""
+  },
+  {
+    "id": "080",
+    "en": "Your P-Book name may be seen by others{SAUT}through data exchange.{SAUT}Please refrain from using offensive names{SAUT}or including personal information.",
+    "fr": ""
+  },
+  {
+    "id": "081",
+    "en": "Check for and receive update data?",
+    "fr": ""
+  },
+  {
+    "id": "082",
+    "en": "Update complete.{SAUT}The game will now be restarted.",
+    "fr": ""
+  },
+  {
+    "id": "083",
+    "en": "You have the latest update data.",
+    "fr": ""
+  },
+  {
+    "id": "084",
+    "en": "Map data for Persona Q2 is saved{SAUT}on the SD card.{SAUT}If no SD card is inserted,{SAUT}map data will not be saved.",
+    "fr": ""
+  },
+  {
+    "id": "085",
+    "en": "Initializing save data...",
+    "fr": ""
+  },
+  {
+    "id": "086",
+    "en": "File corruption detected.{SAUT}Saved data has been initialized.",
+    "fr": ""
+  },
+  {
+    "id": "087",
+    "en": "File corruption detected.{SAUT}initializing saved data.",
+    "fr": ""
+  },
+  {
+    "id": "088",
+    "en": "File corruption detected.{SAUT}Extra data has been initialized.",
+    "fr": ""
+  },
+  {
+    "id": "089",
+    "en": "File corruption detected.{SAUT}Rebuilding the corresponding extra data.",
+    "fr": ""
+  },
+  {
+    "id": "090",
+    "en": "Failed to restore file.{SAUT}The extra data saved{SAUT}on the SD card is corrupt.{SAUT}Initialize the extra data by selecting{SAUT}Delete Data from Config.",
+    "fr": ""
+  },
+  {
+    "id": "091",
+    "en": "File corruption detected.{SAUT}The corresponding extra data has been deleted.",
+    "fr": ""
+  },
+  {
+    "id": "092",
+    "en": "The SD card could not be recognized.",
+    "fr": ""
+  },
+  {
+    "id": "093",
+    "en": "The SD card is write-protected.",
+    "fr": ""
+  },
+  {
+    "id": "094",
+    "en": "Insufficient space on the SD card.",
+    "fr": ""
+  },
+  {
+    "id": "095",
+    "en": "Creating new extra data...",
+    "fr": ""
+  },
+  {
+    "id": "096",
+    "en": "New extra data has been created.",
+    "fr": ""
+  },
+  {
+    "id": "097",
+    "en": "The SD card could not be recognized.{SAUT}Please turn the system off{SAUT}and try reinserting it.",
+    "fr": ""
+  },
+  {
+    "id": "098",
+    "en": "Checking downloadable content...",
+    "fr": ""
+  },
+  {
+    "id": "099",
+    "en": "Retrieving downloadable content information...",
+    "fr": ""
+  },
+  {
+    "id": "100",
+    "en": "There is no downloadable content avaiable.",
+    "fr": ""
+  },
+  {
+    "id": "101",
+    "en": "Delete the downloadable content?",
+    "fr": ""
+  },
+  {
+    "id": "102",
+    "en": "Deleted.",
+    "fr": ""
+  },
+  {
+    "id": "103",
+    "en": "The DLC Sub-Persona {f 0 1 2}{f 2 4 0}{f 0 1 0}{SAUT}has been added to the Persona Films.",
+    "fr": ""
+  },
+  {
+    "id": "104",
+    "en": "The voice {f 0 1 2}{f 2 4 0}{f 0 1 0}{SAUT}has been added under Support.",
+    "fr": ""
+  },
+  {
+    "id": "105",
+    "en": "You can now set Navi voices.{SAUT}Press the X Button to choose the voice.",
+    "fr": ""
+  },
+  {
+    "id": "106",
+    "en": "You can purchase new Nav voices from{SAUT}{f 0 1 2}DLC{f 0 1 0} on the title screen.",
+    "fr": ""
+  },
+  {
+    "id": "107",
+    "en": "You can now summon DLC Sub-Personas{SAUT}from the Persona Films.{SAUT}The first time is free.",
+    "fr": ""
+  },
+  {
+    "id": "108",
+    "en": "The DLC battle BGM{SAUT}{f 0 1 2}{f 2 4 0}{f 0 1 0} has been added.",
+    "fr": ""
+  },
+  {
+    "id": "109",
+    "en": "The DLC item set{SAUT}{f 0 1 2}{f 2 4 0}{f 0 1 0} has been added.",
+    "fr": ""
+  },
+  {
+    "id": "110",
+    "en": "Yes{SAUT}No",
+    "fr": ""
+  },
+  {
+    "id": "111",
+    "en": "Proceed{SAUT}Cancel",
+    "fr": ""
+  },
+  {
+    "id": "112",
+    "en": "Overwrite{SAUT}Cancel",
+    "fr": ""
+  }
+]

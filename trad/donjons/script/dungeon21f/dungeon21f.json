@@ -1,0 +1,47 @@
+[
+  {
+    "id": "MSG_AB_GATE_SETUMEI_1",
+    "en": "＞AB扉について説明する（1）{PAGE}「前の扉が開くと同時に{SAUT}通ってきた扉が閉じている事に驚く。」{SAUT}イベント。",
+    "fr": ""
+  },
+  {
+    "id": "MSG_AB_GATE_SETUMEI_2",
+    "en": "＞AB扉について説明する（2）{PAGE}「（1）と同じ現象により{SAUT}ギミック挙動に憶測をつけて説明する。」{SAUT}イベント",
+    "fr": ""
+  },
+  {
+    "id": "MSG_KANSI_SHOBATU_FOE_SE",
+    "en": "＞監視＆処罰FOEαについて説明する(1){PAGE}「監視FOEに見つかってしまったぞ！」",
+    "fr": ""
+  },
+  {
+    "id": "MSG_KANSI_SHOBATU_FOE_SE#2",
+    "en": "「処罰FOEが起動したぞ！{SAUT}アイツ、こっちを追ってくる！」{SAUT}といったイベント。",
+    "fr": ""
+  },
+  {
+    "id": "MSG_KANSI_SHOBATU_FOE_SE#3",
+    "en": "＞監視＆処罰FOEαについて説明する(2){PAGE}「監視＆処罰FOEの関係性を憶測。{SAUT}監視FOEを倒せば、処罰FOEの起動を{SAUT}阻止できるのかも！」といったイベント",
+    "fr": ""
+  },
+  {
+    "id": "MSG_FOE_AB_GATE_SETUMEI_",
+    "en": "＞処罰FOE＆ABゲートの関係性ついて説明する(1){PAGE}「扉が閉まっていて進めない！」{SAUT}といったイベント。",
+    "fr": ""
+  },
+  {
+    "id": "MSG_FOE_AB_GATE_SETUMEI_#2",
+    "en": "＞処罰FOE＆ABゲートの関係性ついて説明する(2){PAGE}「FOEが通ったら、扉が開いたぞ！{SAUT}あの扉はFOEにも反応して動くのか！」{SAUT}といったイベント。",
+    "fr": ""
+  },
+  {
+    "id": "MSG_GET_TRESURE_ITEM",
+    "en": "It looks like something's buried here...",
+    "fr": ""
+  },
+  {
+    "id": "BAG_FULL",
+    "en": "It looks like something's buried here,{SAUT}but my bag is full...{PAGE}I'll return when I have more space...",
+    "fr": ""
+  }
+]

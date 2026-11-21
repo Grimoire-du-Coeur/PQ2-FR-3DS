@@ -1,0 +1,57 @@
+[
+  {
+    "id": "BR_RISE_GETSKILL_TRDEYE",
+    "en": "When selecting a target, you can{SAUT}check to see whether the attack will{SAUT}be effective or not.",
+    "fr": ""
+  },
+  {
+    "id": "BR_RISE_GETSKILL_ENMY_S",
+    "en": "You will be able to see enemies on{SAUT}the map, even where you haven't{SAUT}explored yet.",
+    "fr": ""
+  },
+  {
+    "id": "BR_RISE_GETSKILL_TRSR_S",
+    "en": "Treasure chests will be visible on{SAUT}the map, even where you haven't{SAUT}explored yet.",
+    "fr": ""
+  },
+  {
+    "id": "BR_RISE_GETSKILL_W_SACH",
+    "en": "You will be told the enemy weaknesses{SAUT}at the beginning of battle.",
+    "fr": ""
+  },
+  {
+    "id": "BR_RISE_GETSKILL_IYA_HP",
+    "en": "A small amount of HP will be recovered{SAUT}at the end of battle.",
+    "fr": ""
+  },
+  {
+    "id": "BR_RISE_GETSKILL_Z_ESCP",
+    "en": "You will be able to successfully{SAUT}escape from almost all battles.",
+    "fr": ""
+  },
+  {
+    "id": "BR_RISE_GETSKILL_IYA_SP",
+    "en": "A small amount of SP will be recovered{SAUT}at the end of battle.",
+    "fr": ""
+  },
+  {
+    "id": "BR_RISE_GETSKILL_HPSONG",
+    "en": "The HP recovery effect at the end{SAUT}of battle has become stronger.",
+    "fr": ""
+  },
+  {
+    "id": "BR_RISE_GETSKILL_SPSONG",
+    "en": "The SP recovery effect at the end{SAUT}of battle has become stronger.",
+    "fr": ""
+  },
+  {
+    "id": "BR_RISE_GETSKILL_H_ANYZ",
+    "en": "Along with the affinities you've{SAUT}attacked in the past, you can now learn{SAUT}what skills the enemy possesses as well.",
+    "fr": ""
+  },
+  {
+    "id": "BR_RISE_GETSKILL_F_ANYZ",
+    "en": "Along with the skills the enemy has,{SAUT}you can now find out about the affinities{SAUT}you haven't attacked in the past as well.",
+    "fr": ""
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "00",
+    "en": "Change whose equipment?",
+    "max": 63,
+    "fr": ""
+  },
+  {
+    "id": "01",
+    "en": "Change which slot?",
+    "max": 63,
+    "fr": ""
+  },
+  {
+    "id": "02",
+    "en": "What will you equip?",
+    "max": 63,
+    "fr": ""
+  }
+]

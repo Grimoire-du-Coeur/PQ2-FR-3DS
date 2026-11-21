@@ -91,7 +91,7 @@ trad/          ← le texte à traduire, en JSON (c'est le seul dossier à modif
   donjons/       remarques du groupe dans les labyrinthes, quêtes
   combat/        dialogues de combat, messages de résultats
   systeme/       aides des objets et compétences, boutiques, camp, tutoriel
-  noms/          noms des personnages qui parlent (une seule traduction pour tout le jeu)
+  noms/          personnages, objets, lieux, compétences, Personas, ennemis
 outils/        ← extraire, valider, injecter, importer, suivi
 police/        ← accents de la police du jeu, largeur des caractères
 docs/          ← dictionnaire, feuille de route, notes techniques, guide pour jouer

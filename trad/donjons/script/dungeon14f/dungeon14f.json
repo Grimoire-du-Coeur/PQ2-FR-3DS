@@ -1,0 +1,39 @@
+[
+  {
+    "id": "MSG_SWITCH_LOCK_1",
+    "en": "The switch isn't doing anything...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SWITCH_LOCK_1_2",
+    "en": "The FOE hasn't entered yet.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SWITCH_LOCK_2",
+    "en": "There's no need to control this anymore.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_GET_TRESURE_ITEM",
+    "en": "It looks like something's buried here...",
+    "fr": ""
+  },
+  {
+    "id": "BAG_FULL",
+    "en": "It looks like something's buried here,{SAUT}but my bag is full...{PAGE}I'll return when I have more space...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SHORTCUT_NAOTO",
+    "locuteur": "Naoto",
+    "en": "Looks like a shortcut. {SAUT}Should we open it? ",
+    "fr": ""
+  },
+  {
+    "id": "SHORTCUT_SEL",
+    "choix": true,
+    "en": "Use {OPTION}Don't Use ",
+    "fr": ""
+  }
+]

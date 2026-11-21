@@ -26,11 +26,13 @@ from dataclasses import dataclass
 from pathlib import Path
 
 import commun
+import noms
 import texte
 from mesurer import largeur_ligne
 
-CHAMPS = {"id", "locuteur", "choix", "en", "fr", "a_revoir", "commentaire"}
-FIGES = ("id", "locuteur", "choix", "en")
+# « max » : place en octets d'un nom dans sa table (noms/objets.json).
+CHAMPS = {"id", "locuteur", "choix", "en", "max", "fr", "a_revoir", "commentaire"}
+FIGES = ("id", "locuteur", "choix", "en", "max")
 LIGNES_PAR_BULLE = 3
 _CODE = re.compile(r"\{f [^{}]*\}")
 _BALISE = re.compile(r"\{[^{}]*\}")
@@ -116,6 +118,10 @@ def _verifier_texte(e: dict, partie: str, largeurs: dict, dico) -> list[tuple[st
             texte.encoder_texte(texte.adapter(p_fr))
         except texte.ErreurTexte as err:
             remarques.append(("ERREUR", f"{ou + ' : ' if ou else ''}{err}"))
+        else:
+            if "max" in e and noms.longueur(p_fr) > e["max"]:
+                remarques.append(("ERREUR", f"{noms.longueur(p_fr)} octets, la case en tient "
+                                            f"{e['max']} (une lettre accentuée compte double)"))
         codes_en, codes_fr = _CODE.findall(p_en), _CODE.findall(p_fr)
         if Counter(codes_en) != Counter(codes_fr):
             manque = list((Counter(codes_en) - Counter(codes_fr)).elements())
@@ -159,7 +165,14 @@ def _verifier_texte(e: dict, partie: str, largeurs: dict, dico) -> list[tuple[st
 
 
 def verifier_fichier(chemin: Path, trad: Path = commun.TRAD, base: list | None = None,
-                     largeurs: dict | None = None, dico=None) -> list[Remarque]:
+                     largeurs: dict | None = None, dico=None, extraction: bool = False) -> list[Remarque]:
+    """Remarques sur un fichier de trad/.
+
+    ``extraction`` : la Pull Request modifie l'outillage, donc ce que sort
+    l'extraction. Les entrées ajoutées, retirées ou dont l'anglais change
+    sont alors permises ; une traduction effacée reste refusée (l'extraction
+    range les anciennes dans _orphelins.json, elle n'en perd jamais).
+    """
     largeurs = _charger_largeurs() if largeurs is None else largeurs
     dico = lire_dictionnaire(DICTIONNAIRE) if dico is None else dico
     rel = "trad/" + chemin.relative_to(trad).as_posix()
@@ -191,6 +204,13 @@ def verifier_fichier(chemin: Path, trad: Path = commun.TRAD, base: list | None =
     if base is not None:
         anciennes = {e.get("id"): e for e in base if isinstance(e, dict)}
         nouvelles = {e["id"]: e for e in entrees}
+        for ident in sorted(anciennes.keys() & nouvelles.keys()):
+            if anciennes[ident].get("fr") and not nouvelles[ident].get("fr"):
+                remarques.append(Remarque("ERREUR", rel, ident, "traduction effacée : la copie de "
+                                          "ce fichier est peut-être périmée (mettre son fork à jour)",
+                                          _ligne_du_champ(lignes, ident)))
+        if extraction:
+            return remarques
         for ident in sorted(anciennes.keys() - nouvelles.keys()):
             remarques.append(Remarque("ERREUR", rel, ident, "entrée supprimée"))
         for ident in sorted(nouvelles.keys() - anciennes.keys()):
@@ -203,10 +223,6 @@ def verifier_fichier(chemin: Path, trad: Path = commun.TRAD, base: list | None =
                 if a.get(champ) != n.get(champ):
                     remarques.append(Remarque("ERREUR", rel, ident, f"le champ « {champ} » ne se "
                                               "modifie pas", _ligne_du_champ(lignes, ident, champ)))
-            if a.get("fr") and not n.get("fr"):
-                remarques.append(Remarque("ERREUR", rel, ident, "traduction effacée : la copie de "
-                                          "ce fichier est peut-être périmée (mettre son fork à jour)",
-                                          _ligne_du_champ(lignes, ident)))
     return remarques
 
 
@@ -235,6 +251,9 @@ def main() -> int:
     parser.add_argument("--github", action="store_true", help="annotations pour les Pull Requests")
     parser.add_argument("--base", help="commit de la branche cible, pour comparer")
     parser.add_argument("--erreurs", action="store_true", help="n'afficher que les erreurs")
+    parser.add_argument("--extraction", action="store_true",
+                        help="avec --base : la PR modifie l'outillage, l'extraction peut ajouter, "
+                             "retirer ou mettre à jour des entrées")
     args = parser.parse_args()
     fichiers = [f.resolve() for f in args.fichiers] or commun.fichiers_trad()
     largeurs, dico = _charger_largeurs(), lire_dictionnaire(DICTIONNAIRE)
@@ -243,7 +262,8 @@ def main() -> int:
         if f.name.startswith("_") or f.suffix != ".json":
             continue
         base = _version_de_base(args.base, f) if args.base else None
-        remarques += verifier_fichier(f, base=base, largeurs=largeurs, dico=dico)
+        remarques += verifier_fichier(f, base=base, largeurs=largeurs, dico=dico,
+                                      extraction=args.extraction)
     erreurs = [r for r in remarques if r.niveau == "ERREUR"]
     for r in (erreurs if args.erreurs else remarques):
         print(annotation(r) if args.github else f"{r.niveau:9} {r.fichier}:{r.ligne}  {r.id}  {r.texte}")

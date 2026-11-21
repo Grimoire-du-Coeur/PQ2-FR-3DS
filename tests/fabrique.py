@@ -260,19 +260,36 @@ def _romfs(nom: str, contenu: bytes) -> bytes:
     return ivfc + bytes(debut3 - len(ivfc)) + niveau3
 
 
-def fabriquer_3ds(cpk: bytes, title_id: int = 0x00040000001D7600, chiffre: bool = False) -> bytes:
-    """Image NCSD décryptée (ou marquée chiffrée) dont le RomFS contient ``data.cpk``."""
+def _exefs(code: bytes) -> bytes:
+    """ExeFS minimal : en-tête de 0x200 octets, puis le seul fichier « .code »."""
+    tete = bytearray(0x200)
+    tete[0:8] = b".code".ljust(8, b"\0")
+    struct.pack_into("<II", tete, 8, 0, len(code))
+    exefs = bytes(tete) + code
+    return exefs + bytes(-len(exefs) % MU)
+
+
+def fabriquer_3ds(cpk: bytes, title_id: int = 0x00040000001D7600, chiffre: bool = False,
+                  code: bytes | None = None, code_compresse: bool = False) -> bytes:
+    """Image NCSD décryptée (ou marquée chiffrée) dont le RomFS contient ``data.cpk``.
+
+    ``code`` : contenu de l'ExeFS « .code » (déjà compressé si ``code_compresse``).
+    """
     romfs = _romfs("data.cpk", cpk)
     romfs += bytes(-len(romfs) % MU)
-    ncch = bytearray(0x400)
+    ncch = bytearray(0x600)                     # en-tête NCCH, puis exheader (0x400)
     ncch[0x100:0x104] = b"NCCH"
     struct.pack_into("<Q", ncch, 0x118, title_id)
     ncch[0x150:0x15A] = b"CTR-P-AQ2P"
     ncch[0x18F] = 0 if chiffre else 0x04        # bit NoCrypto
-    struct.pack_into("<II", ncch, 0x1B0, len(ncch) // MU, len(romfs) // MU)
-    partition = bytes(ncch) + romfs
+    ncch[0x200 + 0xD] = 1 if code_compresse else 0
+    exefs = _exefs(code) if code is not None else b""
+    if exefs:
+        struct.pack_into("<II", ncch, 0x1A0, len(ncch) // MU, len(exefs) // MU)
+    struct.pack_into("<II", ncch, 0x1B0, (len(ncch) + len(exefs)) // MU, len(romfs) // MU)
+    partition = bytes(ncch) + exefs + romfs
     struct.pack_into("<I", ncch, 0x104, len(partition) // MU)
-    partition = bytes(ncch) + romfs
+    partition = bytes(ncch) + exefs + romfs
 
     debut = 0x4000
     ncsd = bytearray(debut)
@@ -280,3 +297,118 @@ def fabriquer_3ds(cpk: bytes, title_id: int = 0x00040000001D7600, chiffre: bool 
     struct.pack_into("<IQ", ncsd, 0x104, (debut + len(partition)) // MU, title_id)
     struct.pack_into("<II", ncsd, 0x120, debut // MU, len(partition) // MU)
     return bytes(ncsd) + partition
+
+
+# ---------------------------------------------------------------- PAK (.arc)
+
+def fabriquer_pak(fichiers: list[tuple[str, bytes]]) -> bytes:
+    """Archive Atlus PAK : nombre u32, puis (nom sur 32 octets, taille u32, données)."""
+    sortie = struct.pack("<I", len(fichiers))
+    for nom, donnees in fichiers:
+        sortie += nom.encode("ascii").ljust(32, b"\0") + struct.pack("<I", len(donnees)) + donnees
+    return sortie
+
+
+def fabriquer_table_noms(noms: list[str], debuts: bool = True) -> bytes:
+    """Table de noms du combat (tables.py) : u16 nombre, u16 positions, noms."""
+    codes = [n.encode("cp932") + b"\0" for n in noms]
+    positions, p = [], 0
+    for c in codes:
+        positions.append(p if debuts else p + len(c))
+        p += len(c)
+    return struct.pack(f"<{len(noms) + 1}H", len(noms), *positions) + b"".join(codes)
+
+
+def fabriquer_itemtbl(*noms: str) -> bytes:
+    """init/itemtbl.bin : 0x065820 octets, puis 3 584 cases de 22 octets (noms.py)."""
+    zone = b"".join(n.encode("ascii").ljust(22, b"\0") for n in noms)
+    return bytes(0x065820) + zone.ljust(0xE00 * 22, b"\0")
+
+
+def fabriquer_ctd(textes: list[str] | None = None, nombres: bytes | None = None) -> bytes:
+    """Table .ctd : en-tête (taille, nombre, 8 zéros), cases, copie de l'en-tête.
+
+    ``textes`` : une case de 64 octets par texte ; ``nombres`` : une table
+    de données (cases de 8 octets).
+    """
+    if textes is not None:
+        cases = b"".join(t.encode("cp932").ljust(64, b"\0") for t in textes)
+        nombre = len(textes)
+    else:
+        cases = nombres or bytes(8)
+        nombre = len(cases) // 8
+    entete = struct.pack("<II", len(cases), nombre) + bytes(8)
+    return entete + cases + entete
+
+
+def fabriquer_blz(clair: bytes, non_compresse: int = 0) -> bytes:
+    """Compresse en BLZ (blz.py), à rebours, avec des références gloutonnes.
+
+    Les ``non_compresse`` premiers octets restent tels quels, comme dans le
+    code d'un vrai jeu.
+    """
+    lecture = []                                # éléments dans l'ordre où le décodeur les lit
+    pos = len(clair)
+    groupe, controle, elements = 0, 0, []
+
+    def vider():
+        lecture.append(controle)
+        for e in elements:
+            lecture.extend(e)
+
+    while pos > non_compresse:
+        meilleur = (0, 0)
+        for dist in range(3, min(0x1002, len(clair) - pos + 19)):
+            n = 0
+            while (n < 18 and pos - 1 - n >= non_compresse and pos - 1 - n + dist < len(clair)
+                   and clair[pos - 1 - n] == clair[pos - 1 - n + dist]):
+                n += 1
+            if n > meilleur[0]:
+                meilleur = (n, dist)
+        n, dist = meilleur
+        if n >= 3:
+            valeur = (n - 3) << 12 | (dist - 3)
+            elements.append((valeur >> 8, valeur & 0xFF))
+            controle |= 0x80 >> groupe
+            pos -= n
+        else:
+            elements.append((clair[pos - 1],))
+            pos -= 1
+        groupe += 1
+        if groupe == 8:
+            vider()
+            groupe, controle, elements = 0, 0, []
+    if groupe:
+        vider()
+    flux = bytes(reversed(lecture))
+    compresse = clair[:non_compresse] + flux
+    pied = 8
+    haut_bas = (pied << 24) | (len(flux) + pied)
+    en_plus = len(clair) - (len(compresse) + pied)
+    if en_plus < 0:
+        raise ValueError("données trop peu répétitives pour être compressées")
+    return compresse + struct.pack("<II", haut_bas, en_plus)
+
+
+def fabriquer_code(messages: list[bytes], marge: int = 0x60):
+    """Code synthétique : bloc de messages collés, table de pointeurs, une marge libre.
+
+    Rend (code, disposition) pour executable.py.
+    """
+    import executable
+
+    debut = 0x100
+    bloc = b"".join(m + b"\0" for m in messages)
+    table = (debut + len(bloc) + 3) // 4 * 4
+    zone_marge = table + 8 * len(messages) + 0x20
+    taille = zone_marge + marge + 0x20
+    code = bytearray(b"\x11" * taille)
+    code[debut:debut + len(bloc)] = bloc
+    p = debut
+    for k, m in enumerate(messages):
+        struct.pack_into("<IHH", code, table + 8 * k, executable.BASE + p, 1, 0)
+        p += len(m) + 1
+    code[zone_marge:zone_marge + marge] = bytes(marge)
+    d = executable.Disposition(bloc=(debut, debut + len(bloc)), table=table, nombre=len(messages),
+                               marges=((zone_marge, zone_marge + marge),), taille=taille)
+    return bytes(code), d

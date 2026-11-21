@@ -11,7 +11,9 @@ Les choix portent ``"choix": true`` et séparent leurs options par
 ``{OPTION}``. Les messages sans aucun mot latin (restes japonais du
 développement, fiches d'aide factices) ne sont pas extraits : le jeu les
 garde tels quels. Les noms de locuteurs se traduisent une seule fois, dans
-trad/noms/locuteurs.json.
+trad/noms/locuteurs.json ; ceux des objets, lieux, compétences, Personas
+et ennemis dans trad/noms/ (noms.py, tables.py). Un nom de compétence qui est
+aussi un nom d'objet (« Rudra Ring ») suit la traduction de l'objet.
 
 Aucune traduction n'est jamais perdue :
 
@@ -29,10 +31,15 @@ import sys
 from pathlib import Path
 
 import commun
+import ctd
+import executable
+import msg1
+import noms
+import tables
 import texte
-from catalogue import Script, chemin_trad, identifiants, lire_scripts
+from catalogue import Script, identifiants, lire_fichiers, lire_scripts
 from msg1 import AUCUN_LOCUTEUR
-from rom3ds import ErreurImage
+from rom3ds import ErreurImage, PasDeCode, lire_code
 
 LOCUTEURS = "noms/locuteurs.json"
 ORPHELINS = "_orphelins.json"
@@ -86,23 +93,44 @@ def _fusionner(rel: str, e: dict, anciennes: dict, revoir: list[str]) -> dict:
     return e
 
 
-def construire(scripts: list[Script], anciennes: dict) -> tuple[dict[str, list[dict]], list[dict], list[str]]:
-    """(fichiers de trad/, orphelins, entrées à revoir)."""
+def construire(scripts: list[Script], anciennes: dict, listes: dict[str, list[str]] | None = None,
+               tableaux: dict[str, list[dict]] | None = None
+               ) -> tuple[dict[str, list[dict]], list[dict], list[str]]:
+    """(fichiers de trad/, orphelins, entrées à revoir).
+
+    ``listes`` : fichier de trad/noms/ → noms à traduire (noms.py, tables.py) ;
+    ``tableaux`` : fichier de trad/ → entrées toutes faites (id, en, max) des
+    tables .ctd (ctd.py).
+    """
     fichiers: dict[str, list[dict]] = {}
     origine: dict[str, str] = {}
     revoir: list[str] = []
     locuteurs: set[str] = set()
+    partages: dict[str, bytes] = {}
     for s in scripts:
-        rel = chemin_trad(s.chemin)
+        rel = s.trad
+        contenu = msg1.ecrire_msg1(s.messages)
         if rel in origine:
+            # Une copie identique (fichier isolé et son double dans une archive)
+            # partage le JSON ; deux scripts différents, jamais.
+            if partages[rel] == contenu:
+                continue
             raise ValueError(f"{rel} : deux fichiers du jeu y mènent ({origine[rel]}, {s.chemin})")
         origine[rel] = s.chemin
+        partages[rel] = contenu
         locuteurs.update(texte.decoder_texte(n) for n in s.messages.locuteurs)
         entrees = [_fusionner(rel, e, anciennes, revoir) for e in _entrees_script(s)]
         if entrees:
             fichiers[rel] = entrees
     fichiers[LOCUTEURS] = [_fusionner(LOCUTEURS, {"id": n, "en": n, "fr": ""}, anciennes, revoir)
                            for n in sorted(locuteurs, key=lambda n: (n.casefold(), n))]
+    maxima = {t.trad: t.max for t in noms.TABLES_FIXES}
+    for rel, liste in (listes or {}).items():
+        place = {"max": maxima[rel]} if rel in maxima else {}
+        fichiers[rel] = [_fusionner(rel, {"id": n, "en": n, **place, "fr": ""}, anciennes, revoir)
+                         for n in liste]
+    for rel, entrees in (tableaux or {}).items():
+        fichiers[rel] = [_fusionner(rel, {**e, "fr": ""}, anciennes, revoir) for e in entrees]
 
     presents = {(rel, e["id"]) for rel, entrees in fichiers.items() for e in entrees}
     orphelins = [{"fichier": rel, **e} for (rel, ident), e in sorted(anciennes.items())
@@ -158,12 +186,32 @@ def main() -> int:
     args = parser.parse_args()
     try:
         scripts = lire_scripts(args.image)
-    except ErreurImage as e:
+        chemins = [t.chemin for t in noms.TABLES_FIXES] + list(tables.TABLES) + [ctd.CONTENEUR]
+        bruts = lire_fichiers(args.image, chemins)
+        manquants = [c for c in chemins if c not in bruts]
+        if manquants:
+            raise ErreurImage(f"fichiers absents du jeu : {', '.join(manquants)}")
+        listes = {t.trad: noms.noms_a_traduire(bruts[t.chemin], t) for t in noms.TABLES_FIXES}
+        objets = set(listes[noms.OBJETS.trad])
+        listes |= {rel: tables.noms_a_traduire(bruts[chemin],
+                                               exclus=objets if chemin == tables.COMPETENCES else set())
+                   for chemin, rel in tables.TABLES.items()}
+        tableaux = ctd.entrees(bruts[ctd.CONTENEUR])
+        try:
+            tableaux[executable.TRAD] = executable.entrees(lire_code(args.image))
+        except PasDeCode:
+            # data.cpk seul : le code n'y est pas ; on garde les entrées connues.
+            p = args.trad / executable.TRAD
+            if p.exists():
+                tableaux[executable.TRAD] = [{"id": e["id"], "en": e["en"]} for e in commun.lire_json(p)]
+            print("Note : sans l'image complète, les textes de l'exécutable ne sont pas relus.",
+                  file=sys.stderr)
+    except (ErreurImage, noms.ErreurNom, tables.ErreurTable, executable.ErreurExecutable) as e:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
 
     anciennes = commun.charger_traductions(args.trad)
-    fichiers, orphelins, revoir = construire(scripts, anciennes)
+    fichiers, orphelins, revoir = construire(scripts, anciennes, listes, tableaux)
     fichier_orphelins = args.trad / ORPHELINS
     if fichier_orphelins.exists():
         deja = commun.lire_json(fichier_orphelins)
@@ -178,11 +226,13 @@ def main() -> int:
         return 1 if ecarts else 0
 
     ecrire(fichiers, orphelins, args.trad)
-    entrees = [e for rel, es in fichiers.items() if rel != LOCUTEURS for e in es]
+    entrees = [e for rel, es in fichiers.items() if not rel.startswith("noms/") for e in es]
     mots = sum(len(re.findall(r"[A-Za-z][A-Za-z'’-]*", re.sub(r"\{[^}]*\}", " ", e["en"])))
                for e in entrees)
-    print(f"{len(fichiers) - 1} fichiers, {len(entrees)} messages ({mots} mots anglais), "
-          f"{len(fichiers[LOCUTEURS])} locuteurs.")
+    dans_noms = [rel for rel in fichiers if rel.startswith("noms/")]
+    print(f"{len(fichiers) - len(dans_noms)} fichiers, {len(entrees)} messages ({mots} mots anglais).")
+    print("Noms : " + ", ".join(f"{rel.removeprefix('noms/').removesuffix('.json')} {len(fichiers[rel])}"
+                                for rel in sorted(dans_noms)) + ".")
     print(f"À revoir : {len(revoir)}. Orphelins : {len(orphelins)}.")
     return 0
 
