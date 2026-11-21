@@ -31,15 +31,17 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 import commun  # noqa: F401  (console en UTF-8)
+import ctd
+import executable
 import flw0
 import msg1
 import noms
 import pak
 import tables
 import texte
-from catalogue import est_archive_a_scripts
+from catalogue import CONTENEURS, est_archive_a_scripts, messages_de
 from cpk import Cpk
-from rom3ds import ErreurImage, localiser_data_cpk
+from rom3ds import ErreurImage, PasDeCode, lire_code, localiser_data_cpk
 
 
 @dataclass
@@ -50,6 +52,8 @@ class Bilan:
     messages: int = 0
     pages: int = 0
     noms: int = 0                                   # noms des tables (objets, lieux, combat)
+    textes_ctd: int = 0                             # textes des tables .ctd (menus du camp)
+    textes_code: int = 0                            # messages de l'exécutable
     equivalents: list[str] = field(default_factory=list)
     echecs: list[tuple[str, str]] = field(default_factory=list)
 
@@ -113,6 +117,18 @@ def _controler(chemin: str, donnees: bytes, bilan: Bilan) -> None:
         bilan.echecs.append((chemin, _premier_ecart(donnees, sortie)))
 
 
+def _a_traduire(nom: str, brut: bytes) -> bool:
+    """Vrai si le script porte au moins une page de texte latin (pas seulement du japonais)."""
+    try:
+        donnees = messages_de(nom, brut)
+        if donnees is None:
+            return False
+        return any(texte.est_a_traduire(texte.decouper_page(p)[1])
+                   for m in msg1.lire_msg1(donnees).messages for p in m.pages)
+    except Exception:       # noqa: BLE001 — un script illisible doit être signalé
+        return True
+
+
 def verifier(image: Path) -> Bilan:
     position, _ = localiser_data_cpk(image)
     bilan = Bilan()
@@ -126,18 +142,23 @@ def verifier(image: Path) -> Bilan:
                 _controler(chemin, archive.lire(chemin), bilan)
             except Exception as e:      # noqa: BLE001 — un fichier cassé ne doit pas arrêter le contrôle
                 bilan.echecs.append((chemin, f"illisible : {type(e).__name__}: {e}"))
-        # Les archives .arc : toutes, pour repérer une archive à scripts que
-        # catalogue.ARCHIVES ne connaîtrait pas (elle resterait en anglais).
-        for chemin in sorted(c for c in archive.entrees if c.endswith(".arc")):
+        # Les archives PAK (.arc, .gsd, .bin…) : toutes, pour repérer une
+        # archive à scripts que catalogue.ARCHIVES ne connaîtrait pas (elle
+        # resterait en anglais).
+        for chemin in sorted(c for c in archive.entrees if c.endswith(CONTENEURS)):
             brut_arc = archive.lire(chemin)
             if not pak.est_pak(brut_arc):
                 continue
             fichiers = pak.lire_pak(brut_arc)
             if pak.ecrire_pak(fichiers) != brut_arc:
                 bilan.echecs.append((chemin, "l'archive ne se réécrit pas à l'identique"))
+            if chemin == ctd.CONTENEUR:
+                _controler_ctd(brut_arc, bilan)
             scripts = [(nom, brut) for nom, brut in fichiers if nom.endswith((".bmd", ".bf"))]
-            if scripts and not est_archive_a_scripts(chemin):
-                bilan.echecs.append((chemin, "archive à scripts absente de catalogue.ARCHIVES"))
+            if not est_archive_a_scripts(chemin):
+                if any(_a_traduire(nom, brut) for nom, brut in scripts):
+                    bilan.echecs.append((chemin, "archive à scripts absente de catalogue.ARCHIVES"))
+                continue
             for nom, brut in scripts:
                 bilan.fichiers += 1
                 try:
@@ -150,7 +171,34 @@ def verifier(image: Path) -> Bilan:
         for chemin in tables.TABLES:
             if chemin in archive.entrees:
                 _controler_table(chemin, archive.lire(chemin), bilan)
+    _controler_code(image, bilan)
     return bilan
+
+
+def _controler_code(image: Path, bilan: Bilan) -> None:
+    """Les messages de l'exécutable se relisent et se réécrivent à l'identique."""
+    try:
+        code = lire_code(image)
+    except PasDeCode:
+        return
+    try:
+        lus = executable.entrees(code)
+        if executable.traduire(code, {e["id"]: e["en"] for e in lus}) != code:
+            bilan.echecs.append(("exefs/.code", "les messages ne se réécrivent pas à l'identique"))
+        bilan.textes_code = len(lus)
+    except (executable.ErreurExecutable, texte.ErreurTexte) as e:
+        bilan.echecs.append(("exefs/.code", str(e)))
+
+
+def _controler_ctd(conteneur: bytes, bilan: Bilan) -> None:
+    for nom, brut in ctd.tables(conteneur).items():
+        textes = ctd.a_traduire(brut)
+        bilan.textes_ctd += len(textes)
+        try:
+            if ctd.ecrire(brut, dict(textes)) != brut:
+                bilan.echecs.append((f"{ctd.CONTENEUR}/{nom}", "la table ne se réécrit pas à l'identique"))
+        except (ctd.ErreurCtd, texte.ErreurTexte) as e:
+            bilan.echecs.append((f"{ctd.CONTENEUR}/{nom}", str(e)))
 
 
 def _controler_table(chemin: str, brut: bytes, bilan: Bilan) -> None:
@@ -183,7 +231,8 @@ def main() -> int:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
     print(f"{bilan.fichiers} scripts (.bmd + .bf), {bilan.messages} messages, {bilan.pages} pages")
-    print(f"{bilan.noms} noms dans les tables (relues et réécrites)")
+    print(f"{bilan.noms} noms dans les tables, {bilan.textes_ctd} textes de menus .ctd, "
+          f"{bilan.textes_code} messages de l'exécutable (relus et réécrits)")
     print(f"  identiques   : {bilan.identiques}")
     print(f"  sans messages: {bilan.sans_messages}")
     print(f"  équivalents  : {len(bilan.equivalents)}")

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "MSG_DENKISAKU_SWITCH_SET",
+    "en": "＞電気柵のスイッチについて説明する{PAGE}「スイッチONで対象の電気柵を解除できること。{SAUT} 解除後、１０歩以上歩くと閉じてしまうこと。」{SAUT}をユーザーに説明。",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TIRANO_SETUMEI_01",
+    "en": "＞ティラノFOEについて説明する（1）{PAGE}「ティラノFOEはプレイヤーを発見すると{SAUT} 見失うまで、追尾しつづけてくること。」{SAUT}をユーザーに説明。",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TIRANO_SETUMEI_02",
+    "en": "＞ティラノFOEについて説明する（2）{PAGE}「ティラノFOEと電気柵の関係性について」{SAUT}　ユーザーに説明。",
+    "fr": ""
+  },
+  {
+    "id": "MSG_GET_TRESURE_ITEM",
+    "en": "It looks like something's buried here...",
+    "fr": ""
+  },
+  {
+    "id": "BAG_FULL",
+    "en": "It looks like something's buried here,{SAUT}but my bag is full...{PAGE}I'll return when I have more space...",
+    "fr": ""
+  }
+]

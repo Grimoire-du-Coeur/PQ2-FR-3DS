@@ -14,6 +14,9 @@ from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1
     ("foe/script/foe_001.bf", "combat/foe/script/foe_001.json"),
     ("init/datitemhelp.bmd", "systeme/init/datitemhelp.json"),
     ("msg_racine.bmd", "systeme/msg_racine.json"),
+    ("facility/pack/shop.arc/shop2.bmd", "systeme/facility/pack/shop/shop2.json"),
+    ("dungeon/script/dungeon01f.gsd/dungeon01f.bf", "donjons/script/dungeon01f/dungeon01f.json"),
+    ("init/cmptable.bin/camp_msg.bmd", "systeme/init/cmptable/camp_msg.json"),
 ])
 def test_chemin_trad(jeu, trad):
     assert catalogue.chemin_trad(jeu) == trad

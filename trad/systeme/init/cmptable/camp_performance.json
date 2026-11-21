@@ -1,0 +1,147 @@
+[
+  {
+    "id": "cmp_performance_DAMMY",
+    "en": "If this comes up, it's a bug.{SAUT}Let someone know you spotted it!",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_P4HERO",
+    "en": "Second-year at Yasogami High.{SAUT}Quiet and reserved, but a passionate{SAUT}leader. His friends trust him implicitly.{SAUT}The head of the Investigation Team.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_P3HERO",
+    "en": "Second-year at Gekkoukan High.{SAUT}He acts as the leader of SEES.{SAUT}Calm, cool, and collected by nature.{SAUT}Rarely seen without his headphones.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_YOSUKE",
+    "en": "Second-year at Yasogami High.{SAUT}Son of the manager of Junes, a local dept.{SAUT}store. Can be excessive, but he's the{SAUT}straight man of the Investigation Team.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_CHIE",
+    "en": "Second-year at Yasogami High.{SAUT}A proud member of the Investigation Team{SAUT}who loves kung fu, meat, and justice.{SAUT}Best friends with Yukiko since childhood.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_YUKIKO",
+    "en": "Second-year at Yasogami High. Heiress of{SAUT}the historic Amagi Inn, and its next manager.{SAUT}Polite and graceful, but prone to giggle fits.{SAUT}Best friends with Chie since childhood.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_RISE",
+    "en": "First-year at Yasogami High. A popular idol,{SAUT}her stage name is \"Risette.\" Currently on{SAUT}hiatus from her showbiz career, she helps{SAUT}at her grandma's tofu shop in Inaba.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_KANZI",
+    "en": "First-year at Yasogami High. Looks tough,{SAUT}and has a reputation as a vicious thug,{SAUT}but he's earnest and dutiful on the inside.{SAUT}Notably dextrous, and loves cuteness.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_NAOTO",
+    "en": "First-year at Yasogami High. 5th generation{SAUT}of a family of detectives, she's dubbed the{SAUT}\"Detective Prince,\" and has solved many{SAUT}cases despite her relatively young age.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_KUMA",
+    "en": "Cheerful, playful, and a bit lonely, the{SAUT}Investigation Team met this bear(?) in{SAUT}the TV world. He works part-time at Junes{SAUT}and lives with the Hanamuras.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_YUKARI",
+    "en": "Second-year at Gekkoukan High.{SAUT}Cheerful, frank, and popular, but tends to{SAUT}instinctively keep others at arms' length.{SAUT}Part of both SEES and the Archery Club.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_JUNPEI",
+    "en": "Second-year at Gekkoukan High. Often gets{SAUT}carried away, but his jokes lighten the mood{SAUT}in SEES... though Yukari is often quick{SAUT}to shut him down with a curt retort.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_SANADA",
+    "en": "Third-year at Gekkoukan High.{SAUT}A SEES member and captain of the boxing club.{SAUT}Constantly training himself. Has a near-{SAUT}unhealthy obsession with being stronger.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_MITSURU",
+    "en": "Third-year at Gekkoukan High.{SAUT}Heiress of the Kirijo Group megacorp.{SAUT}Student council president, and SEES leader.{SAUT}Demands much of herself and others.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_FUKA",
+    "en": "Second-year at Gekkoukan High.{SAUT}Shy and reserved, but has a strong will.{SAUT}She joined SEES wanting to feel useful.{SAUT}A natural with technology and tinkering.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_AEGIS",
+    "en": "An android developed by the Kirijo Group{SAUT}as an anti-Shadow weapon. She can feel{SAUT}emotion and use her own Persona. A little{SAUT}robotic. Understands animal speech.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_AMADA",
+    "en": "5th grade at Gekkoukan Elementary.{SAUT}The youngest Persona-user in SEES.{SAUT}Comes off as mature, but more boyish{SAUT}tendencies occasionally shine through.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_KOROMARU",
+    "en": "An albino Shiba Inu from Naganaki Shrine in{SAUT}Iwatodai. He joined SEES to repay their{SAUT}kindness after they saved his life. He now{SAUT}lives happily at the dorm with them.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_ARAGAKI",
+    "en": "Third-year at Gekkoukan High.{SAUT}While he's not currently attending school,{SAUT}he is a member of SEES. Though gruff, he's{SAUT}gentler than he looks, and a great chef.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_P3HERO2",
+    "en": "Second-year at Gekkoukan High.{SAUT}She acts as the leader of her SEES team.{SAUT}Cheerful, positive, and loves her friends.{SAUT}Rarely seen without her headphones.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_P5HERO",
+    "en": "Second-year at Shujin Academy.{SAUT}Has a criminal record, but he's on probation.{SAUT}The leader of the Phantom Thieves.{SAUT}His Phantom Thief codename is Joker.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_RYUJI",
+    "en": "Second-year at Shujin Academy.{SAUT}Former top runner for the track team.{SAUT}Reckless, brash, and crude, but kindhearted.{SAUT}His Phantom Thief codename is Skull.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_ANN",
+    "en": "Second-year at Shujin Academy.{SAUT}A quarter American, and a part-time model.{SAUT}Warm and friendly, but often feels isolated.{SAUT}Her Phantom Thief codename is Panther.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_MONA",
+    "en": "A mysterious black cat after the Treasure{SAUT}of the Metaverse. (Hates being called a cat.){SAUT}Condescending, but cares for his friends.{SAUT}His Phantom Thief codename is Mona.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_YUSUKE",
+    "en": "Second-year at Kosei High, majoring in art.{SAUT}He's a prodigal painter, but a painful past{SAUT}has left him with no family to support him.{SAUT}His Phantom Thief codename is Fox.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_MAKOTO",
+    "en": "Third-year at Shujin Academy.{SAUT}Shujin's astute student council president.{SAUT}Calm and forthright, but sometimes naive.{SAUT}Her Phantom Thief codename is Queen.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_FUTABA",
+    "en": "Foster daughter of the Boss at Leblanc.{SAUT}Would be a first-year in high school, but{SAUT}isn't attending. Also a gifted hacker.{SAUT}Her Phantom Thief codename is Oracle.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_HARU",
+    "en": "Third-year at Shujin Academy.{SAUT}Heiress to a massive fast-food conglomerate.{SAUT}She can come off as a bit sheltered.{SAUT}Her Phantom Thief codename is Noir.",
+    "fr": ""
+  },
+  {
+    "id": "cmp_performance_AKECHI",
+    "en": "Third-year at a prep school in the city.{SAUT}Though still a teenager, he's famed as the{SAUT}\"second coming of the Detective Prince.\"{SAUT}His Phantom Thief codename is Crow.",
+    "fr": ""
+  }
+]

@@ -35,7 +35,12 @@ fichiers qui ont du français sont réécrits, à la fin de l'archive.
 
 ```text
 %APPDATA%\Azahar\load\mods\00040000001D7600\romfs\data.cpk
+%APPDATA%\Azahar\load\mods\00040000001D7600\code.ips
 ```
+
+`code.ips` porte les boîtes système traduites (sauvegarde, carte SD,
+« Is this name acceptable? »…). Il n'est écrit que si l'une d'elles a du
+français, et il faut pour cela l'image complète (`.3ds`), pas `data.cpk` seul.
 
 Lance ensuite le jeu normalement. Pour revenir à l'anglais, supprime ce dossier.
 
@@ -45,8 +50,9 @@ Lance ensuite le jeu normalement. Pour revenir à l'anglais, supprime ce dossier
 python outils/injecter.py "…\Persona Q2 (Europe).3ds" --sortie "E:\luma\titles\00040000001D7600\romfs\data.cpk"
 ```
 
-(`E:` étant la carte SD.) Puis, dans la configuration de Luma3DS (maintenir
-SELECT au démarrage), active **« Enable game patching »**.
+(`E:` étant la carte SD.) Le `code.ips` des boîtes système est écrit à côté,
+dans `E:\luma\titles\00040000001D7600\code.ips`. Puis, dans la configuration
+de Luma3DS (maintenir SELECT au démarrage), active **« Enable game patching »**.
 
 ## En cas de souci
 

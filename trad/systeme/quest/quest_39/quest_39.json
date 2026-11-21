@@ -1,0 +1,13 @@
+[
+  {
+    "id": "MSG_CANCEL",
+    "locuteur": "Elizabeth",
+    "en": "{f 0 1 2}{f 2 4 0}{f 0 1 0}is hereby cancelled, then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_UNISON",
+    "en": "With {f 4 4 3 0 1563}, {f 0 1 2}Ryuji{f 0 1 0}, {f 0 1 2}Yosuke{f 0 1 0},{SAUT}and {f 0 1 2}Junpei{f 0 1 0} can now use the{SAUT}Unison Skill {f 0 1 1}Partner Power{f 0 1 0}.",
+    "fr": ""
+  }
+]

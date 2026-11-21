@@ -13,10 +13,12 @@ un fichier dans Kuriimu ou PersonaEditor le retrouve sans chercher.
 L'injection fait le chemin dans l'autre sens en partant des scripts du jeu :
 il n'y a pas d'index à tenir à jour.
 
-Des scripts vivent aussi dans des archives .arc (pak.py). Une copie
-identique d'un fichier isolé partage son JSON : la traduction est écrite aux
-deux endroits, quelle que soit la copie que le jeu lit. Un script propre à
-une archive a son propre JSON (« shop.arc/x.bmd » → « …/shop/x.json »).
+Des scripts vivent aussi dans des archives PAK (pak.py), quelle que soit
+leur extension : .arc, .gsd (scripts d'étage, missions, quêtes), .bin
+(camp, saisie du nom). Une copie identique d'un fichier isolé partage son
+JSON : la traduction est écrite aux deux endroits, quelle que soit la copie
+que le jeu lit. Un script propre à une archive a son propre JSON
+(« shop.arc/x.bmd » → « …/shop/x.json »).
 """
 
 from __future__ import annotations
@@ -38,14 +40,18 @@ PARTIES = {
     "foe": "combat/foe",
 }
 EXTENSIONS = (".bmd", ".bf")
-# Les archives qui portent des scripts, relevées sur la version européenne le
-# 21/11/2026 (40 sur 323, 8,6 Mo). Ne décompresser qu'elles garde les builds
-# rapides ; outils/aller_retour.py balaie toutes les archives et signale une
-# archive à scripts qui manquerait ici.
+# Extensions des archives PAK du jeu (1 021 fichiers).
+CONTENEURS = (".arc", ".gsd", ".bin", ".pac", ".tpc")
+# Les archives qui portent des scripts à traduire, relevées sur la version
+# européenne le 21/11/2026 : 40 .arc sur 323, 93 .gsd sur 100 et trois .bin.
+# Ne décompresser qu'elles garde les builds rapides ; outils/aller_retour.py
+# balaie toutes les archives et signale celle qui manquerait ici.
 ARCHIVES = (
     "battle/pack/btl_com.arc", "camp/skladd*.arc", "dungeon/pack/dng_com.arc",
     "facility/pack/cmbroot.arc", "facility/pack/shop.arc", "facility/pack/top.arc",
     "foe/pack/foe_*f.arc",
+    "dungeon/script/*.gsd", "init/*.gsd", "quest/*.gsd",
+    "init/cmptable.bin", "init/gsobserver.bin", "title/nameentry.bin",
 )
 
 
@@ -56,7 +62,7 @@ def est_archive_a_scripts(chemin: str) -> bool:
 def chemin_trad(chemin_jeu: str) -> str:
     """Chemin du JSON dans trad/ pour un fichier du jeu (ou « archive.arc/fichier »)."""
     p = PurePosixPath(chemin_jeu)
-    dossiers = tuple(d[:-4] if d.endswith(".arc") else d for d in p.parent.parts)
+    dossiers = tuple(PurePosixPath(d).stem if d.endswith(CONTENEURS) else d for d in p.parent.parts)
     if dossiers and dossiers[0] in PARTIES:
         parties = (PARTIES[dossiers[0]], *dossiers[1:])
     else:

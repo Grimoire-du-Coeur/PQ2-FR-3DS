@@ -1,0 +1,13 @@
+[
+  {
+    "id": "MSG_CANCEL",
+    "locuteur": "Elizabeth",
+    "en": "{f 0 1 2}{f 2 4 0}{f 0 1 0}is hereby cancelled, then.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_UNISON",
+    "en": "With {f 4 4 3 0 1563}, {f 0 1 2}{f 6 1 30 0 0 0}{f 0 1 0}{SAUT}and {f 0 1 2}{f 6 1 13 0 0 0}{f 0 1 0} can now use the{SAUT}Unison Skill {f 0 1 1}Lightning Duo{f 0 1 0}.",
+    "fr": ""
+  }
+]
