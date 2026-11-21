@@ -24,6 +24,8 @@ Repérés pendant les premiers tests en jeu, ils ne sont pas dans les fichiers
 | Où | Contenu | À faire |
 |---|---|---|
 | ~~archives `.arc`~~ | ✅ fait : 40 archives, 7 scripts propres ajoutés à `trad/` | — |
+| exécutable (`code.bin`) | boîtes « Information » (carte SD, « Is this name acceptable? »…) | patch de l'exécutable (`code.ips`, accepté par Azahar et Luma3DS) |
+| tables `.bin` (`title/nameentry.bin`, `init/cmptable.bin`…) | saisie du nom, description des difficultés | décoder ces tables |
 | `battle/message/*.mbm` | messages de combat (format MSG2) | écrire un lecteur MSG2 |
 | `*.tbl` | noms des Personas, compétences, ennemis, objets, étages | tables de chaînes à taille fixe : prévoir des noms courts |
 | textures `.ctpk` | menu titre (NEW GAME…), difficulté, OK / YES / NO, boutons Log / FFWD | redessiner les images (l'aide a été proposée à Tyron26) |
