@@ -1,0 +1,53 @@
+[
+  {
+    "id": "msg_ps_skill_sel",
+    "choix": true,
+    "en": "Yes{OPTION}No",
+    "fr": ""
+  },
+  {
+    "id": "msg_ps_skill_get",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} learned{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "msg_ps_skill_rmskill",
+    "en": "All skill slots are currently full.{SAUT}Please select a skill to erase.",
+    "fr": ""
+  },
+  {
+    "id": "msg_ps_skill_rmskill_q",
+    "en": "Erase {f 0 1 1}{f 2 4 0}{f 0 1 0}?",
+    "fr": ""
+  },
+  {
+    "id": "msg_ps_skill_rmskill0",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} forgot{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "msg_ps_skill_rmskill1",
+    "en": "{f 0 1 1}{f 2 4 1}{f 0 1 0} has replaced{SAUT}{f 0 1 1}{f 2 4 0}{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "msg_ps_skill_rmskill2",
+    "en": "{f 0 1 1}{f 2 4 0}{f 0 1 0} has been upgraded to{SAUT}{f 0 1 1}{f 2 4 1}{f 0 1 0}!",
+    "fr": ""
+  },
+  {
+    "id": "msg_ps_skill_chgend",
+    "en": "Do you want to stop replacing skills?",
+    "fr": ""
+  },
+  {
+    "id": "msg_ps_skill_check_money",
+    "en": "That will cost {f 2 4 0} yen.{SAUT}Proceed?",
+    "fr": ""
+  },
+  {
+    "id": "msg_ps_skill_check_money#2",
+    "en": "You don't have enough money.",
+    "fr": ""
+  }
+]

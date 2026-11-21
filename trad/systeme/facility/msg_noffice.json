@@ -24,51 +24,15 @@
     "fr": ""
   },
   {
-    "id": "cure_check_E",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "cure_check_M",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "cure_not_E",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "cure_not_M",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "cure_ng_E",
     "locuteur": "Elizabeth",
     "en": "Excuse me, but it seems you{SAUT}lack the funds.",
     "fr": ""
   },
   {
-    "id": "cure_ng_M",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "not_accept_E",
     "locuteur": "Elizabeth",
     "en": "Currently, there are no tickets to issue.",
-    "fr": ""
-  },
-  {
-    "id": "full_accept_E",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
     "fr": ""
   },
   {
@@ -114,24 +78,6 @@
     "fr": ""
   },
   {
-    "id": "NHELP001_CURE_E",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "NHELP001_CURE_M",
-    "locuteur": "Margaret",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
-    "id": "NHELP001_CURE_E_BLUE",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "NHELP001_QUEST_E",
     "locuteur": "Elizabeth",
     "en": "\"Special screenings\" are manifestations of{SAUT}curious events you discover in movies.{PAGE}Special screenings tend to diverge greatly{SAUT}from the movie they're based on.{PAGE}You may discover new twists that{SAUT}would not appear in a normal delve.{PAGE}Give them a try if you get tired of the{SAUT}usual, or find yourself otherwise stuck.{PAGE}Should you complete a special screening,{SAUT}you will also earn fine rewards.{PAGE}I assure you, they are well worth{SAUT}the effort.",
@@ -144,20 +90,9 @@
     "fr": ""
   },
   {
-    "id": "NHELP004_QUEST_TIMELIMIT",
-    "locuteur": "Elizabeth",
-    "en": "Not used",
-    "fr": ""
-  },
-  {
     "id": "NHELP005_QUEST_CANCEL_E",
     "locuteur": "Elizabeth",
     "en": "Even after accepting a ticket, it is{SAUT}still possible to discard it.{PAGE}If you're struggling, or want a different{SAUT}special screening, just discard your ticket.{PAGE}You can also freely reaccept tickets{SAUT}that you have previously discarded.{PAGE}Until the special screening is complete,{SAUT}you can accept its ticket all you want.{PAGE}But wait, there's more! Accepting and{SAUT}discarding tickets is totally free!{PAGE}Please make use of these offerings,{SAUT}should you feel inclined.",
-    "fr": ""
-  },
-  {
-    "id": "accept_jump_dg",
-    "en": "Not used",
     "fr": ""
   },
   {

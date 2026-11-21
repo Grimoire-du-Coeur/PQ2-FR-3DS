@@ -1,0 +1,20 @@
+[
+  {
+    "id": "01",
+    "en": "Check which Unison Skill?",
+    "max": 63,
+    "fr": ""
+  },
+  {
+    "id": "04",
+    "en": "View which tutorial?",
+    "max": 63,
+    "fr": ""
+  },
+  {
+    "id": "05",
+    "en": "Which BGM would you like to use?",
+    "max": 63,
+    "fr": ""
+  }
+]

@@ -1,0 +1,10400 @@
+[
+  {
+    "id": "Rebel Knife",
+    "en": "Rebel Knife",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Light Knife",
+    "en": "Light Knife",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sleet Dagger",
+    "en": "Sleet Dagger",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crimson Knife",
+    "en": "Crimson Knife",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kukri",
+    "en": "Kukri",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Igniter",
+    "en": "Igniter",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Silver Dagger",
+    "en": "Silver Dagger",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Obsidian Knife",
+    "en": "Obsidian Knife",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Skinning Knife",
+    "en": "Skinning Knife",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Quality Kopis",
+    "en": "Quality Kopis",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Killing Scalpel",
+    "en": "Killing Scalpel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Superconductor",
+    "en": "Superconductor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dirk",
+    "en": "Dirk",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Headhunter",
+    "en": "Headhunter",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Parrying Dagger",
+    "en": "Parrying Dagger",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Azoth Dagger",
+    "en": "Azoth Dagger",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Arsene's Cane",
+    "en": "Arsene's Cane",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nihil",
+    "en": "Nihil",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Misericorde",
+    "en": "Misericorde",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Paradise Lost",
+    "en": "Paradise Lost",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Jailbreaker",
+    "en": "Jailbreaker",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Survivor's Knife",
+    "en": "Survivor's Knife",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Metal Pipe",
+    "en": "Metal Pipe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Spiked Bat",
+    "en": "Spiked Bat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lightweight Rod",
+    "en": "Lightweight Rod",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hell Slugger",
+    "en": "Hell Slugger",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Heavy Steel Pipe",
+    "en": "Heavy Steel Pipe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Heavy Mace",
+    "en": "Heavy Mace",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Femur Club",
+    "en": "Femur Club",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Demon Pipe",
+    "en": "Demon Pipe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sleep Stick",
+    "en": "Sleep Stick",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Spike Rod",
+    "en": "Spike Rod",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Iron Pipe",
+    "en": "Iron Pipe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wolf Fang Pole",
+    "en": "Wolf Fang Pole",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dagda's Club",
+    "en": "Dagda's Club",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gaea Rod",
+    "en": "Gaea Rod",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hercules' Club",
+    "en": "Hercules' Club",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dragon God Pole",
+    "en": "Dragon God Pole",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Demon Staff",
+    "en": "Demon Staff",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Megaton Rod",
+    "en": "Megaton Rod",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ruyi Jingu Bang",
+    "en": "Ruyi Jingu Bang",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Giant Penlight",
+    "en": "Giant Penlight",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sequoia Mace",
+    "en": "Sequoia Mace",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Leather Whip",
+    "en": "Leather Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Training Whip",
+    "en": "Training Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fundo-Kusari",
+    "en": "Fundo-Kusari",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fierce Whip",
+    "en": "Fierce Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Manacle Whip",
+    "en": "Manacle Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fern Whip",
+    "en": "Fern Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Skin Ripper",
+    "en": "Skin Ripper",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Electromag Whip",
+    "en": "Electromag Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Chain Whip",
+    "en": "Chain Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Burn Whip",
+    "en": "Burn Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hero Whip",
+    "en": "Hero Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Agony Whip",
+    "en": "Agony Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "White Rose Whip",
+    "en": "White Rose Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fengshen Whip",
+    "en": "Fengshen Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nine Tails",
+    "en": "Nine Tails",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Blue Rose Whip",
+    "en": "Blue Rose Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Queen's Whip",
+    "en": "Queen's Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Whip",
+    "en": "Golden Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rosebell Whip",
+    "en": "Rosebell Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Explorer's Whip",
+    "en": "Explorer's Whip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Imitation Katana",
+    "en": "Imitation Katana",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unmarked Katana",
+    "en": "Unmarked Katana",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Zanbato",
+    "en": "Zanbato",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Meteorite Katana",
+    "en": "Meteorite Katana",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kikuichimonji",
+    "en": "Kikuichimonji",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Type-98 Gunto",
+    "en": "Type-98 Gunto",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Jagato",
+    "en": "Jagato",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bizen Osafune",
+    "en": "Bizen Osafune",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Imperial Sword",
+    "en": "Imperial Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shikomi Kiseru",
+    "en": "Shikomi Kiseru",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Toragozen",
+    "en": "Toragozen",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nagamitsu",
+    "en": "Nagamitsu",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Monohoshizao",
+    "en": "Monohoshizao",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kijintou",
+    "en": "Kijintou",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Iai Katana",
+    "en": "Iai Katana",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fudo Masamune",
+    "en": "Fudo Masamune",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Samonji",
+    "en": "Samonji",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Red Demon Blade",
+    "en": "Red Demon Blade",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "777 Katana",
+    "en": "777 Katana",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sakabatou",
+    "en": "Sakabatou",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ribcage Katana",
+    "en": "Ribcage Katana",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beam Saber",
+    "en": "Beam Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lumina Saber",
+    "en": "Lumina Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Toxoid Saber",
+    "en": "Toxoid Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Violet Saber",
+    "en": "Violet Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eclat Saber",
+    "en": "Eclat Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Particle Saber",
+    "en": "Particle Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Stellar Saber",
+    "en": "Stellar Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Alpha Saber",
+    "en": "Alpha Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Erg Saber",
+    "en": "Erg Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Laplace Saber",
+    "en": "Laplace Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ion Saber",
+    "en": "Ion Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beta Saber",
+    "en": "Beta Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Anode Saber",
+    "en": "Anode Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cathode Saber",
+    "en": "Cathode Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Neutron Saber",
+    "en": "Neutron Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gamma Saber",
+    "en": "Gamma Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Force Saber",
+    "en": "Force Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Omega Saber",
+    "en": "Omega Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tsar Saber",
+    "en": "Tsar Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Riryoku Saber",
+    "en": "Riryoku Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Arabian Saber",
+    "en": "Arabian Saber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Slingbow",
+    "en": "Slingbow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mount Liang",
+    "en": "Mount Liang",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Large Slingshot",
+    "en": "Large Slingshot",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Paralytic Sling",
+    "en": "Paralytic Sling",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shooting Star",
+    "en": "Shooting Star",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rubble Launcher",
+    "en": "Rubble Launcher",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Catnap",
+    "en": "Catnap",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Northern Light",
+    "en": "Northern Light",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Strongarm",
+    "en": "Strongarm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Interceptor",
+    "en": "Interceptor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Comet 3",
+    "en": "Comet 3",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Overthrower",
+    "en": "Overthrower",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "David",
+    "en": "David",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Grand Fireworks",
+    "en": "Grand Fireworks",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Star Slayer",
+    "en": "Star Slayer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tom Sawyer",
+    "en": "Tom Sawyer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Chromatic Orb",
+    "en": "Chromatic Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Utopia",
+    "en": "Utopia",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Catapult",
+    "en": "Catapult",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sleep Sling",
+    "en": "Sleep Sling",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bomber Slingshot",
+    "en": "Bomber Slingshot",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fake Naginata",
+    "en": "Fake Naginata",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ardor Naginata",
+    "en": "Ardor Naginata",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tsukushi",
+    "en": "Tsukushi",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Emerald Stick",
+    "en": "Emerald Stick",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dai Naginata",
+    "en": "Dai Naginata",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Primal Naginata",
+    "en": "Primal Naginata",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Youth Stick",
+    "en": "Youth Stick",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Muso Naginata",
+    "en": "Muso Naginata",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kobayashi",
+    "en": "Kobayashi",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beam Naginata",
+    "en": "Beam Naginata",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Victory Stick",
+    "en": "Victory Stick",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Future Naginata",
+    "en": "Future Naginata",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nikko Naginata",
+    "en": "Nikko Naginata",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Origin Naginata",
+    "en": "Origin Naginata",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sonobe Naginata",
+    "en": "Sonobe Naginata",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Khakkhara",
+    "en": "Khakkhara",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shizuka",
+    "en": "Shizuka",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kanemitsu",
+    "en": "Kanemitsu",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lacrosse Stick",
+    "en": "Lacrosse Stick",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hardwood Stick",
+    "en": "Hardwood Stick",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Long Stick",
+    "en": "Long Stick",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Axe",
+    "en": "Axe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shield Axe",
+    "en": "Shield Axe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Headbanger",
+    "en": "Headbanger",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bardiche",
+    "en": "Bardiche",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Basalt Axe",
+    "en": "Basalt Axe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mega Axe",
+    "en": "Mega Axe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Warborn",
+    "en": "Warborn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bastion Axe",
+    "en": "Bastion Axe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Morph Axe",
+    "en": "Morph Axe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Death Contract",
+    "en": "Death Contract",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Erik's Bloodaxe",
+    "en": "Erik's Bloodaxe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crescent Axe",
+    "en": "Crescent Axe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lethe Axe",
+    "en": "Lethe Axe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Celtis",
+    "en": "Celtis",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gilgamesh Axe",
+    "en": "Gilgamesh Axe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Amazon Axe",
+    "en": "Amazon Axe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fleurs du Mal",
+    "en": "Fleurs du Mal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Marble Axe",
+    "en": "Marble Axe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Brass Knuckles",
+    "en": "Brass Knuckles",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Heavy Grip",
+    "en": "Heavy Grip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Coin Knuckles",
+    "en": "Coin Knuckles",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Delta Knuckles",
+    "en": "Delta Knuckles",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hard Rocker",
+    "en": "Hard Rocker",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hell Knuckles",
+    "en": "Hell Knuckles",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sonic Fist",
+    "en": "Sonic Fist",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Titanic Knuckles",
+    "en": "Titanic Knuckles",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Metal Duster",
+    "en": "Metal Duster",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pugilist's Fists",
+    "en": "Pugilist's Fists",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Gloves",
+    "en": "Golden Gloves",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Omega Knuckle",
+    "en": "Omega Knuckle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dragon Fangs",
+    "en": "Dragon Fangs",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ominous Fists",
+    "en": "Ominous Fists",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sabazios",
+    "en": "Sabazios",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Double Ziggurat",
+    "en": "Double Ziggurat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pegasus Fist",
+    "en": "Pegasus Fist",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ultimate Fist",
+    "en": "Ultimate Fist",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Champion Gloves",
+    "en": "Champion Gloves",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Iron Fist",
+    "en": "Iron Fist",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Long Sword",
+    "en": "Long Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Titanium Club",
+    "en": "Titanium Club",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mythic Sword",
+    "en": "Mythic Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Great Sword",
+    "en": "Great Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Paralysis Blade",
+    "en": "Paralysis Blade",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Horsechopper",
+    "en": "Horsechopper",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bastard Sword",
+    "en": "Bastard Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tsubaki-maru",
+    "en": "Tsubaki-maru",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Venom Sword",
+    "en": "Venom Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Caladbolg",
+    "en": "Caladbolg",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tobi-botaru",
+    "en": "Tobi-botaru",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Galatine",
+    "en": "Galatine",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Labyrinth Sword",
+    "en": "Labyrinth Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mithril Club",
+    "en": "Mithril Club",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Usumidori",
+    "en": "Usumidori",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Masakado Sword",
+    "en": "Masakado Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kishido Blade",
+    "en": "Kishido Blade",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bone Sword",
+    "en": "Bone Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Leather Shoes",
+    "en": "Leather Shoes",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Safety Shoes",
+    "en": "Safety Shoes",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Platform Sneaks",
+    "en": "Platform Sneaks",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dinosaur Legs",
+    "en": "Dinosaur Legs",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nanman Gusoku",
+    "en": "Nanman Gusoku",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cobra Boots",
+    "en": "Cobra Boots",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bucking Broncos",
+    "en": "Bucking Broncos",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bishamonten",
+    "en": "Bishamonten",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Confusion Boots",
+    "en": "Confusion Boots",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Steel Slippers",
+    "en": "Steel Slippers",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nice Shoes",
+    "en": "Nice Shoes",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Vidar's Boots",
+    "en": "Vidar's Boots",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sleipnir",
+    "en": "Sleipnir",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Moses Sandals",
+    "en": "Moses Sandals",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Stellar Greaves",
+    "en": "Stellar Greaves",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Reigan Greaves",
+    "en": "Reigan Greaves",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Verdure Greaves",
+    "en": "Verdure Greaves",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Furinkazan",
+    "en": "Furinkazan",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Noh Fan",
+    "en": "Noh Fan",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kyo Sensu",
+    "en": "Kyo Sensu",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hanachirusato",
+    "en": "Hanachirusato",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Downpour Fan",
+    "en": "Downpour Fan",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fortified Tessen",
+    "en": "Fortified Tessen",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Inversion Fan",
+    "en": "Inversion Fan",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Suzumushi",
+    "en": "Suzumushi",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Masquerade",
+    "en": "Masquerade",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Suzaku Fan",
+    "en": "Suzaku Fan",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Juli-sen",
+    "en": "Juli-sen",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mogari-Bue",
+    "en": "Mogari-Bue",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fickle Madam",
+    "en": "Fickle Madam",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Treasure Fan",
+    "en": "Treasure Fan",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pieta",
+    "en": "Pieta",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Yume-no-Hashi",
+    "en": "Yume-no-Hashi",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Primordial Sea",
+    "en": "Primordial Sea",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Great Bird Fan",
+    "en": "Great Bird Fan",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Spiky Claw",
+    "en": "Spiky Claw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kittycat Claw",
+    "en": "Kittycat Claw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bear Claw",
+    "en": "Bear Claw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tyranno Claw",
+    "en": "Tyranno Claw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kazegiri",
+    "en": "Kazegiri",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Breaker",
+    "en": "Breaker",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Thunder Claw",
+    "en": "Thunder Claw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hyper Drill",
+    "en": "Hyper Drill",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sonic Claw",
+    "en": "Sonic Claw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Poison Claw",
+    "en": "Poison Claw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fuuma Bundou",
+    "en": "Fuuma Bundou",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dangerous Claw",
+    "en": "Dangerous Claw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Platinum Claw",
+    "en": "Platinum Claw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "The Ripper",
+    "en": "The Ripper",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "7-Star Claw",
+    "en": "7-Star Claw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Claw of Revenge",
+    "en": "Claw of Revenge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Drunkard Claw",
+    "en": "Drunkard Claw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Folding Chair",
+    "en": "Folding Chair",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Iron Plate",
+    "en": "Iron Plate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Steel Plate",
+    "en": "Steel Plate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Power Plate",
+    "en": "Power Plate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hard Board",
+    "en": "Hard Board",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Plate",
+    "en": "Golden Plate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Round Shield",
+    "en": "Round Shield",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Drowsy Shield",
+    "en": "Drowsy Shield",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Alloy Plate",
+    "en": "Alloy Plate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Jet Shield",
+    "en": "Jet Shield",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Oni-Gawara",
+    "en": "Oni-Gawara",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Galahad's Shield",
+    "en": "Galahad's Shield",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Asturias",
+    "en": "Asturias",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wisdom Shield",
+    "en": "Wisdom Shield",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Christ Mirror",
+    "en": "Christ Mirror",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Destiny Tablet",
+    "en": "Destiny Tablet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Origin Stone",
+    "en": "Origin Stone",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nambu 2",
+    "en": "Nambu 2",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Smith Gun",
+    "en": "Smith Gun",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Peacemaker",
+    "en": "Peacemaker",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Raging Bull",
+    "en": "Raging Bull",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crimson Dirge",
+    "en": "Crimson Dirge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Algernon",
+    "en": "Algernon",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "44 Anaconda",
+    "en": "44 Anaconda",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shield Gun",
+    "en": "Shield Gun",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sci-fi Raygun",
+    "en": "Sci-fi Raygun",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Camel Red",
+    "en": "Camel Red",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Chrome Heart",
+    "en": "Chrome Heart",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Magical Gun",
+    "en": "Magical Gun",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unlimited",
+    "en": "Unlimited",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Judge of Hell",
+    "en": "Judge of Hell",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Black Hole",
+    "en": "Black Hole",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Megido Gun",
+    "en": "Megido Gun",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Baby Arquebus",
+    "en": "Baby Arquebus",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Monkey Wrench",
+    "en": "Monkey Wrench",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Poison Kunai",
+    "en": "Poison Kunai",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Machete",
+    "en": "Machete",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Blitz Kunai",
+    "en": "Blitz Kunai",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Karasu-maru",
+    "en": "Karasu-maru",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "En-Giri",
+    "en": "En-Giri",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Raven Claw",
+    "en": "Raven Claw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fearful Kunai",
+    "en": "Fearful Kunai",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Basho",
+    "en": "Basho",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kitchen Knife",
+    "en": "Kitchen Knife",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shadowrend",
+    "en": "Shadowrend",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rappa",
+    "en": "Rappa",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kashin Koji",
+    "en": "Kashin Koji",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nandaka",
+    "en": "Nandaka",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Vajra",
+    "en": "Vajra",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sylph Blade",
+    "en": "Sylph Blade",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kunai",
+    "en": "Kunai",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Skill Spanner",
+    "en": "Skill Spanner",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shortsword",
+    "en": "Shortsword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tizona",
+    "en": "Tizona",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nagawakizashi",
+    "en": "Nagawakizashi",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shishioh",
+    "en": "Shishioh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Arondight",
+    "en": "Arondight",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kogarasumaru",
+    "en": "Kogarasumaru",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Luna Edge",
+    "en": "Luna Edge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Amakuni",
+    "en": "Amakuni",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Excalibur",
+    "en": "Excalibur",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Deus Xiphos",
+    "en": "Deus Xiphos",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Falcata",
+    "en": "Falcata",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unmarked Sword",
+    "en": "Unmarked Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Short Bow",
+    "en": "Short Bow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Spiral Bow",
+    "en": "Spiral Bow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shigetou-yumi",
+    "en": "Shigetou-yumi",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Silence Bow",
+    "en": "Silence Bow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Higo-yumi",
+    "en": "Higo-yumi",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fuuma Longbow",
+    "en": "Fuuma Longbow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Artemis Bow",
+    "en": "Artemis Bow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hydravenom Bow",
+    "en": "Hydravenom Bow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pleiades",
+    "en": "Pleiades",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hades Bow",
+    "en": "Hades Bow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tomoe's Bow",
+    "en": "Tomoe's Bow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Origin Bow",
+    "en": "Origin Bow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Quintet Bow",
+    "en": "Quintet Bow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rapier",
+    "en": "Rapier",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Silver Rapier",
+    "en": "Silver Rapier",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fleuret",
+    "en": "Fleuret",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Espada Ropera",
+    "en": "Espada Ropera",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shadow Dancer",
+    "en": "Shadow Dancer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eternal Blade",
+    "en": "Eternal Blade",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Stiletto",
+    "en": "Stiletto",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bloody Estoc",
+    "en": "Bloody Estoc",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Final Estoc",
+    "en": "Final Estoc",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Illuminati",
+    "en": "Illuminati",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Damascus Rapier",
+    "en": "Damascus Rapier",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kokuseki Senjin",
+    "en": "Kokuseki Senjin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Flamberge",
+    "en": "Flamberge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cross Spear",
+    "en": "Cross Spear",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sexy Lance",
+    "en": "Sexy Lance",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Framea",
+    "en": "Framea",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scorpion",
+    "en": "Scorpion",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ouka Jumonji",
+    "en": "Ouka Jumonji",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Oomiyari",
+    "en": "Oomiyari",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ote-gine",
+    "en": "Ote-gine",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Trident",
+    "en": "Trident",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Romulus's Spear",
+    "en": "Romulus's Spear",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tonbokiri",
+    "en": "Tonbokiri",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pinaka",
+    "en": "Pinaka",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gae Bolg",
+    "en": "Gae Bolg",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Javelin",
+    "en": "Javelin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sledgehammer",
+    "en": "Sledgehammer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nirili",
+    "en": "Nirili",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Megaton Hammer",
+    "en": "Megaton Hammer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Night Stalker",
+    "en": "Night Stalker",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rocket Hammer",
+    "en": "Rocket Hammer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "The Pulverizer",
+    "en": "The Pulverizer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bus Stop Sign",
+    "en": "Bus Stop Sign",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ukonvasara",
+    "en": "Ukonvasara",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eliminator",
+    "en": "Eliminator",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mjolnir",
+    "en": "Mjolnir",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Warlord Hammer",
+    "en": "Warlord Hammer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Caduceus",
+    "en": "Caduceus",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ogre Hammer",
+    "en": "Ogre Hammer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Albireo",
+    "en": "Albireo",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Carbon Railgun",
+    "en": "Carbon Railgun",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Medusa",
+    "en": "Medusa",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Maxima Sniper",
+    "en": "Maxima Sniper",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Axion IG",
+    "en": "Axion IG",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lime Howitzer",
+    "en": "Lime Howitzer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kiss of Athena",
+    "en": "Kiss of Athena",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pandemonium",
+    "en": "Pandemonium",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Antimatter Gun",
+    "en": "Antimatter Gun",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Metatronius",
+    "en": "Metatronius",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Grenade 80",
+    "en": "Grenade 80",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Six-Shot",
+    "en": "Six-Shot",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Laptop",
+    "en": "Laptop",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mic",
+    "en": "Mic",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Armband",
+    "en": "Armband",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Mic",
+    "en": "Old Mic",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Armband",
+    "en": "Old Armband",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Mallet",
+    "en": "Old Mallet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Knuckles",
+    "en": "Old Knuckles",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Cross Spear",
+    "en": "Old Cross Spear",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Rapier",
+    "en": "Old Rapier",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Practice Bow",
+    "en": "Old Practice Bow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Shortsword",
+    "en": "Old Shortsword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Chalk",
+    "en": "Old Chalk",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Albireo",
+    "en": "Old Albireo",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Spikefist",
+    "en": "Old Spikefist",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Nambu 2",
+    "en": "Old Nambu 2",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Folding Chair",
+    "en": "Old Folding Chair",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Kyo Sensu",
+    "en": "Old Kyo Sensu",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Shoes",
+    "en": "Old Shoes",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Sylph Blade",
+    "en": "Old Sylph Blade",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Wrench",
+    "en": "Old Wrench",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Faux Katana",
+    "en": "Old Faux Katana",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Golf Club",
+    "en": "Old Golf Club",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Novelty Hoodie",
+    "en": "Novelty Hoodie",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Staff Sweater",
+    "en": "Staff Sweater",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Puffy Down Coat",
+    "en": "Puffy Down Coat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fitted Chainmail",
+    "en": "Fitted Chainmail",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Aramid Vest",
+    "en": "Aramid Vest",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Survival Guard",
+    "en": "Survival Guard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Camo Poncho",
+    "en": "Camo Poncho",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Enhanced Armor",
+    "en": "Enhanced Armor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hard Armor",
+    "en": "Hard Armor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hope Shirt",
+    "en": "Hope Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Soul Vest",
+    "en": "Soul Vest",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Opera Coat",
+    "en": "Opera Coat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Egoist Coat",
+    "en": "Egoist Coat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Vogue Vest",
+    "en": "Vogue Vest",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Akashic Shirt",
+    "en": "Akashic Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kaiser Armor",
+    "en": "Kaiser Armor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Papal Robe",
+    "en": "Papal Robe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Resistance Armor",
+    "en": "Resistance Armor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unity Shirt",
+    "en": "Unity Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Growth Shirt",
+    "en": "Growth Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Trendy Shirt",
+    "en": "Trendy Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shoulder Vest",
+    "en": "Shoulder Vest",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wire Jacket",
+    "en": "Wire Jacket",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hero Tights",
+    "en": "Hero Tights",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Manly Jinbei",
+    "en": "Manly Jinbei",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tigerhide Belt",
+    "en": "Tigerhide Belt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lion Happi",
+    "en": "Lion Happi",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Doumaru",
+    "en": "Doumaru",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gigas Vest",
+    "en": "Gigas Vest",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Passion Sweats",
+    "en": "Passion Sweats",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crusader Plate",
+    "en": "Crusader Plate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hero's Knickers",
+    "en": "Hero's Knickers",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Desperate Plate",
+    "en": "Desperate Plate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Full Jin-Baori",
+    "en": "Full Jin-Baori",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hallowed Plate",
+    "en": "Hallowed Plate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Purple Suit",
+    "en": "Purple Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Superstar Attire",
+    "en": "Superstar Attire",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Master Thief",
+    "en": "Master Thief",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gold Sneak Suit",
+    "en": "Gold Sneak Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shajinbaori",
+    "en": "Shajinbaori",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "White Regalia",
+    "en": "White Regalia",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "King Collar",
+    "en": "King Collar",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fuuma Outfit",
+    "en": "Fuuma Outfit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gold Tokkoufuku",
+    "en": "Gold Tokkoufuku",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Magnet Bearsuit",
+    "en": "Magnet Bearsuit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Monarch Jacket",
+    "en": "Monarch Jacket",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Brave Scale",
+    "en": "Brave Scale",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sirius Suit",
+    "en": "Sirius Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hero Hoodie",
+    "en": "Hero Hoodie",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Moon Haori",
+    "en": "Moon Haori",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Primary Cat Suit",
+    "en": "Primary Cat Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Enchanted Cami",
+    "en": "Enchanted Cami",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Steel Bunny Suit",
+    "en": "Steel Bunny Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Utility Apron",
+    "en": "Utility Apron",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Primal Bikini",
+    "en": "Primal Bikini",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Witchy Dress",
+    "en": "Witchy Dress",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Futuristic Tights",
+    "en": "Futuristic Tights",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Capital Robe",
+    "en": "Capital Robe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Breeze Tutu",
+    "en": "Breeze Tutu",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Spiked Bra",
+    "en": "Spiked Bra",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rune Dress",
+    "en": "Rune Dress",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Invincible Mini",
+    "en": "Invincible Mini",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Haten Robe",
+    "en": "Haten Robe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eternity Dress",
+    "en": "Eternity Dress",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "7-Fold Yukata",
+    "en": "7-Fold Yukata",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "New Year Kimono",
+    "en": "New Year Kimono",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crimson Leotard",
+    "en": "Crimson Leotard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lord's Dress",
+    "en": "Lord's Dress",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beauty Thief",
+    "en": "Beauty Thief",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wasteland Robe",
+    "en": "Wasteland Robe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Solar Robe",
+    "en": "Solar Robe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ruby Kimono",
+    "en": "Ruby Kimono",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Black Dress",
+    "en": "Black Dress",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sakura Robe",
+    "en": "Sakura Robe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Empress Fur",
+    "en": "Empress Fur",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cat Sweater",
+    "en": "Cat Sweater",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Breeze Scarf",
+    "en": "Breeze Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Steel Scarf",
+    "en": "Steel Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Red Scarf",
+    "en": "Red Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Grassland Scarf",
+    "en": "Grassland Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "E-Collar",
+    "en": "E-Collar",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beast's Scarf",
+    "en": "Beast's Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Flowing Scarf",
+    "en": "Flowing Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Artistic Scarf",
+    "en": "Artistic Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Magical Scarf",
+    "en": "Magical Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Solar Wind Scarf",
+    "en": "Solar Wind Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Id Collar",
+    "en": "Id Collar",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Memorial Collar",
+    "en": "Memorial Collar",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Master's Scarf",
+    "en": "Master's Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Killer Collar",
+    "en": "Killer Collar",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sublime Collar",
+    "en": "Sublime Collar",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gorgeous Collar",
+    "en": "Gorgeous Collar",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nekomata Coat+",
+    "en": "Nekomata Coat+",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Guard Scarf",
+    "en": "Guard Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Trendy Scarf",
+    "en": "Trendy Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fluffy Scarf",
+    "en": "Fluffy Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Archangel Scarf",
+    "en": "Archangel Scarf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dotted Dog Suit",
+    "en": "Dotted Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cross Dog Suit",
+    "en": "Cross Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Guard Dog Suit",
+    "en": "Guard Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tech Dog Suit",
+    "en": "Tech Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Metal Dog Suit",
+    "en": "Metal Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sky Dog Suit",
+    "en": "Sky Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Marine Dog Suit",
+    "en": "Marine Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Star Dog Suit",
+    "en": "Star Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Luna Dog Suit",
+    "en": "Luna Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Solar Dog Suit",
+    "en": "Solar Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cosmos Dog Suit",
+    "en": "Cosmos Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Light Dog Suit",
+    "en": "Light Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Soft Mane",
+    "en": "Soft Mane",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ebony Dog Suit",
+    "en": "Ebony Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "TD Full Shell",
+    "en": "TD Full Shell",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Aigis Armor v1",
+    "en": "Aigis Armor v1",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Aigis Armor v2",
+    "en": "Aigis Armor v2",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "TD W Plate",
+    "en": "TD W Plate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Anti-Seal Armor",
+    "en": "Anti-Seal Armor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "TD Full Body",
+    "en": "TD Full Body",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Aigis Armor v3",
+    "en": "Aigis Armor v3",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Element Body",
+    "en": "Element Body",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Aigis Armor v0",
+    "en": "Aigis Armor v0",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "D3 Aigis EX",
+    "en": "D3 Aigis EX",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Frilled Armor",
+    "en": "Frilled Armor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Aigis Armor v100",
+    "en": "Aigis Armor v100",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Default Armor",
+    "en": "Default Armor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dark Undershirt",
+    "en": "Dark Undershirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Printed T-Shirt",
+    "en": "Printed T-Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "4-Leaf Hoodie",
+    "en": "4-Leaf Hoodie",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "White Shirt",
+    "en": "White Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Formal Shirt",
+    "en": "Formal Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Neckerchief",
+    "en": "Neckerchief",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Noble Blouse",
+    "en": "Noble Blouse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pink Top",
+    "en": "Pink Top",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Turtleneck",
+    "en": "Turtleneck",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "T-Shirt",
+    "en": "T-Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Green Sweats",
+    "en": "Green Sweats",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lace Blouse",
+    "en": "Lace Blouse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pretty Suit",
+    "en": "Pretty Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Skull T-Shirt",
+    "en": "Skull T-Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gothic Shirt",
+    "en": "Gothic Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Long T-Shirt",
+    "en": "Long T-Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Plain Shirt",
+    "en": "Plain Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Long Bolero",
+    "en": "Long Bolero",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dress Shirt",
+    "en": "Dress Shirt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ruffled Blouse",
+    "en": "Ruffled Blouse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fleece Vest",
+    "en": "Fleece Vest",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Silk Dog Suit",
+    "en": "Silk Dog Suit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Zip Hoodie",
+    "en": "Zip Hoodie",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Long Pea Coat",
+    "en": "Long Pea Coat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Aigis Armor",
+    "en": "Aigis Armor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mods Coat",
+    "en": "Mods Coat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rise Armor",
+    "en": "Rise Armor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fuuka Armor",
+    "en": "Fuuka Armor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Twin Tweeds",
+    "en": "Twin Tweeds",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Monocle",
+    "en": "Monocle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Anti-Fire Charm",
+    "en": "Anti-Fire Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Anti-Ice Charm",
+    "en": "Anti-Ice Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Anti-Elec Charm",
+    "en": "Anti-Elec Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Anti-Wind Charm",
+    "en": "Anti-Wind Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Red Ring",
+    "en": "Red Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Red Bangle",
+    "en": "Red Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Black Ring",
+    "en": "Black Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Black Bangle",
+    "en": "Black Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "White Ring",
+    "en": "White Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "White Bangle",
+    "en": "White Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Blue Ring",
+    "en": "Blue Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Blue Bangle",
+    "en": "Blue Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gold Ring",
+    "en": "Gold Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gold Bangle",
+    "en": "Gold Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scarlet Ring",
+    "en": "Scarlet Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scarlet Bangle",
+    "en": "Scarlet Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ebon Ring",
+    "en": "Ebon Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ebon Bangle",
+    "en": "Ebon Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ivory Ring",
+    "en": "Ivory Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ivory Bangle",
+    "en": "Ivory Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Azure Ring",
+    "en": "Azure Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Azure Bangle",
+    "en": "Azure Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Ring",
+    "en": "Golden Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Bangle",
+    "en": "Golden Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Fire Ring",
+    "en": "X Fire Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Fire Bangle",
+    "en": "X Fire Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Ice Ring",
+    "en": "X Ice Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Ice Bangle",
+    "en": "X Ice Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Wind Ring",
+    "en": "X Wind Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Wind Bangle",
+    "en": "X Wind Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Elec Ring",
+    "en": "X Elec Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Elec Bangle",
+    "en": "X Elec Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Red Circlet",
+    "en": "Red Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Red Pin",
+    "en": "Red Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Black Circlet",
+    "en": "Black Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Black Pin",
+    "en": "Black Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "White Circlet",
+    "en": "White Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "White Pin",
+    "en": "White Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Blue Circlet",
+    "en": "Blue Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Blue Pin",
+    "en": "Blue Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gold Circlet",
+    "en": "Gold Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gold Pin",
+    "en": "Gold Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crimson Circlet",
+    "en": "Crimson Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crimson Pin",
+    "en": "Crimson Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ebon Circlet",
+    "en": "Ebon Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ebon Pin",
+    "en": "Ebon Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ivory Circlet",
+    "en": "Ivory Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ivory Pin",
+    "en": "Ivory Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Azure Circlet",
+    "en": "Azure Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Azure Pin",
+    "en": "Azure Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Circlet",
+    "en": "Golden Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Pin",
+    "en": "Golden Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Fire Circlet",
+    "en": "X Fire Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Fire Pin",
+    "en": "X Fire Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Ice Circlet",
+    "en": "X Ice Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Ice Pin",
+    "en": "X Ice Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Wind Circlet",
+    "en": "X Wind Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Wind Pin",
+    "en": "X Wind Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Elec Circlet",
+    "en": "X Elec Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Elec Pin",
+    "en": "X Elec Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crimson Sash",
+    "en": "Crimson Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crimson Charm",
+    "en": "Crimson Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ebon Sash",
+    "en": "Ebon Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ebon Charm",
+    "en": "Ebon Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ivory Sash",
+    "en": "Ivory Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ivory Charm",
+    "en": "Ivory Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Azure Sash",
+    "en": "Azure Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Azure Charm",
+    "en": "Azure Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Sash",
+    "en": "Golden Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Charm",
+    "en": "Golden Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Power Sash",
+    "en": "Power Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Power Charm",
+    "en": "Power Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mystic Sash",
+    "en": "Mystic Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mystic Charm",
+    "en": "Mystic Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Barrier Sash",
+    "en": "Barrier Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Barrier Charm",
+    "en": "Barrier Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Haste Sash",
+    "en": "Haste Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Haste Charm",
+    "en": "Haste Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lucky Sash",
+    "en": "Lucky Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lucky Charm",
+    "en": "Lucky Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crimson Patch",
+    "en": "Crimson Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crimson Ankh",
+    "en": "Crimson Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ebon Patch",
+    "en": "Ebon Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ebon Ankh",
+    "en": "Ebon Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ivory Patch",
+    "en": "Ivory Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ivory Ankh",
+    "en": "Ivory Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Azure Patch",
+    "en": "Azure Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Azure Ankh",
+    "en": "Azure Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Patch",
+    "en": "Golden Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Ankh",
+    "en": "Golden Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Power Patch",
+    "en": "Power Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Power Ankh",
+    "en": "Power Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mystic Patch",
+    "en": "Mystic Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mystic Ankh",
+    "en": "Mystic Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Barrier Patch",
+    "en": "Barrier Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Barrier Ankh",
+    "en": "Barrier Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Haste Patch",
+    "en": "Haste Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Haste Ankh",
+    "en": "Haste Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lucky Patch",
+    "en": "Lucky Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lucky Ankh",
+    "en": "Lucky Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crimson Bead",
+    "en": "Crimson Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crimson Orb",
+    "en": "Crimson Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ebon Bead",
+    "en": "Ebon Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ebon Orb",
+    "en": "Ebon Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ivory Bead",
+    "en": "Ivory Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ivory Orb",
+    "en": "Ivory Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Azure Bead",
+    "en": "Azure Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Azure Orb",
+    "en": "Azure Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Bead",
+    "en": "Golden Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Golden Orb",
+    "en": "Golden Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Power Bead",
+    "en": "Power Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Power Orb",
+    "en": "Power Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mystic Bead",
+    "en": "Mystic Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mystic Orb",
+    "en": "Mystic Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Barrier Bead",
+    "en": "Barrier Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Barrier Orb",
+    "en": "Barrier Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Haste Bead",
+    "en": "Haste Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Haste Orb",
+    "en": "Haste Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lucky Bead",
+    "en": "Lucky Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lucky Orb",
+    "en": "Lucky Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Nuke Ring",
+    "en": "X Nuke Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Psy Ring",
+    "en": "X Psy Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Nuke Bangle",
+    "en": "X Nuke Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Psy Bangle",
+    "en": "X Psy Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Nuke Circlet",
+    "en": "X Nuke Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Psy Circlet",
+    "en": "X Psy Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Nuke Pin",
+    "en": "X Nuke Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Psy Pin",
+    "en": "X Psy Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Festival Drum",
+    "en": "Festival Drum",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Witch Charm",
+    "en": "Witch Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Guard Rosary",
+    "en": "Guard Rosary",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pegasus Strap",
+    "en": "Pegasus Strap",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wooden Ebisu",
+    "en": "Wooden Ebisu",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Courage Fob",
+    "en": "Courage Fob",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Soul Potpourri",
+    "en": "Soul Potpourri",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ambition Fob",
+    "en": "Ambition Fob",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Boon Potpourri",
+    "en": "Boon Potpourri",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Delta Drive",
+    "en": "Delta Drive",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Universal Badge",
+    "en": "Universal Badge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Almighty Badge",
+    "en": "Almighty Badge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Yosuga Bead",
+    "en": "Yosuga Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shijima Bead",
+    "en": "Shijima Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Growth 1",
+    "en": "Growth 1",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Growth 2",
+    "en": "Growth 2",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Growth 3",
+    "en": "Growth 3",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Speed Gloves",
+    "en": "Speed Gloves",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lucre Gloves",
+    "en": "Lucre Gloves",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Omnipotent Orb",
+    "en": "Omnipotent Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hip Glasses",
+    "en": "Hip Glasses",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Suspenders",
+    "en": "Suspenders",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hairpin",
+    "en": "Hairpin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Silver Keyring",
+    "en": "Silver Keyring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Black Necktie",
+    "en": "Black Necktie",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fanny Pack",
+    "en": "Fanny Pack",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Music Player",
+    "en": "Music Player",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dotted Tights",
+    "en": "Dotted Tights",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Black Tights",
+    "en": "Black Tights",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wristwatch",
+    "en": "Wristwatch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Aluminum Pin",
+    "en": "Aluminum Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hair Band",
+    "en": "Hair Band",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bear Ears",
+    "en": "Bear Ears",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Silver Locket",
+    "en": "Silver Locket",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Spiral Earrings",
+    "en": "Spiral Earrings",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Plain Ring",
+    "en": "Plain Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Heart Choker",
+    "en": "Heart Choker",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fancy Nails",
+    "en": "Fancy Nails",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wristband",
+    "en": "Wristband",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beanie",
+    "en": "Beanie",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Red Ribbon",
+    "en": "Red Ribbon",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Leather Gloves",
+    "en": "Leather Gloves",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Silver Necklace",
+    "en": "Silver Necklace",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Koromaru Wings",
+    "en": "Koromaru Wings",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Headphones",
+    "en": "Headphones",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pearl Earrings",
+    "en": "Pearl Earrings",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bead Necklace",
+    "en": "Bead Necklace",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Acc Fusion 2",
+    "en": "Acc Fusion 2",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Acc Fusion 1",
+    "en": "Acc Fusion 1",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Healing Armlet",
+    "en": "Healing Armlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Flame Vow",
+    "en": "Flame Vow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Psy Vow",
+    "en": "Psy Vow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lucky Cat",
+    "en": "Lucky Cat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ice-Fire Ankh",
+    "en": "Ice-Fire Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wind-Elec Ankh",
+    "en": "Wind-Elec Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Super Lucky Cat",
+    "en": "Super Lucky Cat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Barrier Tech",
+    "en": "Barrier Tech",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "SP Adhesive 3",
+    "en": "SP Adhesive 3",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rudra Ring",
+    "en": "Rudra Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Chakra Ring",
+    "en": "Chakra Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "St-Ma Reverse",
+    "en": "St-Ma Reverse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "St-En Reverse",
+    "en": "St-En Reverse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "St-Ag Reverse",
+    "en": "St-Ag Reverse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "St-Lu Reverse",
+    "en": "St-Lu Reverse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ma-En Reverse",
+    "en": "Ma-En Reverse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ma-Ag Reverse",
+    "en": "Ma-Ag Reverse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ma-Lu Reverse",
+    "en": "Ma-Lu Reverse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "En-Ag Reverse",
+    "en": "En-Ag Reverse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "En-Lu Reverse",
+    "en": "En-Lu Reverse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ag-Lu Reverse",
+    "en": "Ag-Lu Reverse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Willow Wing",
+    "en": "Willow Wing",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Snowy Wing",
+    "en": "Snowy Wing",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Enduring Wing",
+    "en": "Enduring Wing",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Blazing Flame",
+    "en": "Blazing Flame",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Frozen Stone",
+    "en": "Frozen Stone",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Storm Ring",
+    "en": "Storm Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lightning Gloves",
+    "en": "Lightning Gloves",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Radiant Halo",
+    "en": "Radiant Halo",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ring of Darkness",
+    "en": "Ring of Darkness",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bladed Plume",
+    "en": "Bladed Plume",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Iron Pendant",
+    "en": "Iron Pendant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Helmet",
+    "en": "Helmet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Germanium Ring",
+    "en": "Germanium Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Body-Soul Ring",
+    "en": "Body-Soul Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Handmade Collar",
+    "en": "Handmade Collar",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Heavy Wristband",
+    "en": "Heavy Wristband",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pink Choker",
+    "en": "Pink Choker",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Red Hairpin",
+    "en": "Red Hairpin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Purple Circlet",
+    "en": "Purple Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Promise Bracer",
+    "en": "Promise Bracer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Focus Bracer",
+    "en": "Focus Bracer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Energy Bracer",
+    "en": "Energy Bracer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dragon Bracer",
+    "en": "Dragon Bracer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sleep x10",
+    "en": "Sleep x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Curse x10",
+    "en": "Curse x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Stone x10",
+    "en": "Stone x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Blind x10",
+    "en": "Blind x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "St x10",
+    "en": "St x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ma x10",
+    "en": "Ma x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "En x10",
+    "en": "En x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ag x10",
+    "en": "Ag x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lu x10",
+    "en": "Lu x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Life x10",
+    "en": "Life x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ku x10",
+    "en": "Ku x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wind x10",
+    "en": "Wind x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Light x10",
+    "en": "Light x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dark x10",
+    "en": "Dark x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cut x10",
+    "en": "Cut x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bash x10",
+    "en": "Bash x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Stab x10",
+    "en": "Stab x10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Medicine",
+    "en": "Medicine",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bead",
+    "en": "Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Soul Drop",
+    "en": "Soul Drop",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Snuff Soul",
+    "en": "Snuff Soul",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Chewing Soul",
+    "en": "Chewing Soul",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Soma Droplet",
+    "en": "Soma Droplet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Soma Tear",
+    "en": "Soma Tear",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Revival Bead",
+    "en": "Revival Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Balm of Life",
+    "en": "Balm of Life",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bind-Aid",
+    "en": "Bind-Aid",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Purifying Water",
+    "en": "Purifying Water",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Purifying Salt",
+    "en": "Purifying Salt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rasetsu Ofuda",
+    "en": "Rasetsu Ofuda",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kongou Ofuda",
+    "en": "Kongou Ofuda",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Idaten Ofuda",
+    "en": "Idaten Ofuda",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Amrita Soda",
+    "en": "Amrita Soda",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fire Mist",
+    "en": "Fire Mist",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ice Mist",
+    "en": "Ice Mist",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Elec Mist",
+    "en": "Elec Mist",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wind Mist",
+    "en": "Wind Mist",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nuclear Mist",
+    "en": "Nuclear Mist",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Psy Mist",
+    "en": "Psy Mist",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "San-zun Tama",
+    "en": "San-zun Tama",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scorching Bullet",
+    "en": "Scorching Bullet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dry Ice",
+    "en": "Dry Ice",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cryo Bullet",
+    "en": "Cryo Bullet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tesla Coil",
+    "en": "Tesla Coil",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bolt Bullet",
+    "en": "Bolt Bullet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Yashichi",
+    "en": "Yashichi",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tornado Bullet",
+    "en": "Tornado Bullet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Segaki Rice",
+    "en": "Segaki Rice",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Curse Paper",
+    "en": "Curse Paper",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Psycho Bomb",
+    "en": "Psycho Bomb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fission Bullet",
+    "en": "Fission Bullet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Atom Match",
+    "en": "Atom Match",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mental Bullet",
+    "en": "Mental Bullet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Analysis Scope",
+    "en": "Analysis Scope",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Homunculus",
+    "en": "Homunculus",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Repulse Pipe",
+    "en": "Repulse Pipe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Attract Pipe",
+    "en": "Attract Pipe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Goho-M",
+    "en": "Goho-M",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Goba-K",
+    "en": "Goba-K",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sight Beacon",
+    "en": "Sight Beacon",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Soma",
+    "en": "Soma",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bead Chain",
+    "en": "Bead Chain",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Goho-M More",
+    "en": "Goho-M More",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Goba-K More",
+    "en": "Goba-K More",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Attract Horn",
+    "en": "Attract Horn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Repulse Horn",
+    "en": "Repulse Horn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Treasure Renew",
+    "en": "Treasure Renew",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Heal Stone",
+    "en": "Heal Stone",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Vanish Ball",
+    "en": "Vanish Ball",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Undying Fowl",
+    "en": "Undying Fowl",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Popcorn",
+    "en": "Popcorn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gutsy Fries",
+    "en": "Gutsy Fries",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Free Ticket",
+    "en": "Free Ticket",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Revival Stone",
+    "en": "Revival Stone",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Line Heal Stone",
+    "en": "Line Heal Stone",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Honey Popcorn",
+    "en": "Honey Popcorn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Large Hot Dog",
+    "en": "Large Hot Dog",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Clean Soda",
+    "en": "Clean Soda",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tropic Popcorn",
+    "en": "Tropic Popcorn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Meaty Popcorn",
+    "en": "Meaty Popcorn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Prism Popcorn",
+    "en": "Prism Popcorn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Blank Card",
+    "en": "Blank Card",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wild Card",
+    "en": "Wild Card",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hagakure Bowl",
+    "en": "Hagakure Bowl",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mega Beef Bowl",
+    "en": "Mega Beef Bowl",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Leblanc Curry",
+    "en": "Leblanc Curry",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Growth Incense",
+    "en": "Growth Incense",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Large Dual Dog",
+    "en": "Large Dual Dog",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Giganto Dog",
+    "en": "Giganto Dog",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Clarity Bottle",
+    "en": "Clarity Bottle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Clarity Shower",
+    "en": "Clarity Shower",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bind Cure",
+    "en": "Bind Cure",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bind Free",
+    "en": "Bind Free",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Huge Churros",
+    "en": "Huge Churros",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hagakure Bowl x3",
+    "en": "Hagakure Bowl x3",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mega Beef Bowl x3",
+    "en": "Mega Beef Bowl x3",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Leblanc Curry x3",
+    "en": "Leblanc Curry x3",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pamphlet",
+    "en": "Pamphlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Top-Secret Note",
+    "en": "Top-Secret Note",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Girl Power Scroll",
+    "en": "Girl Power Scroll",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shell Drawing",
+    "en": "Shell Drawing",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ancient Fish",
+    "en": "Ancient Fish",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Inspire Popcorn",
+    "en": "Inspire Popcorn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shining Stone",
+    "en": "Shining Stone",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Biker Gloves",
+    "en": "Biker Gloves",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beautiful Ring",
+    "en": "Beautiful Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fitness Lunch",
+    "en": "Fitness Lunch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Calling Card",
+    "en": "Calling Card",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Memory Medal",
+    "en": "Memory Medal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gold Beetle",
+    "en": "Gold Beetle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Victory Trophy",
+    "en": "Victory Trophy",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Broken Screw",
+    "en": "Broken Screw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "VIP Certificate",
+    "en": "VIP Certificate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glamour Shot",
+    "en": "Glamour Shot",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Comm Amp",
+    "en": "Comm Amp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Special Menu",
+    "en": "Special Menu",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Velvet Ticket",
+    "en": "Velvet Ticket",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Velvet Card",
+    "en": "Velvet Card",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Velvet Pass",
+    "en": "Velvet Pass",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Velvet License",
+    "en": "Velvet License",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Toy Clapboard",
+    "en": "Toy Clapboard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Promised Script",
+    "en": "Promised Script",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ancient Bait",
+    "en": "Ancient Bait",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Power of Bonds",
+    "en": "Power of Bonds",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Keycard",
+    "en": "Keycard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sooty Film",
+    "en": "Sooty Film",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Damp Kernels",
+    "en": "Damp Kernels",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ace of Cups",
+    "en": "Ace of Cups",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ace of Wands",
+    "en": "Ace of Wands",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ace of Swords",
+    "en": "Ace of Swords",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ace of Coins",
+    "en": "Ace of Coins",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shining Film",
+    "en": "Shining Film",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Projector",
+    "en": "Old Projector",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Duchess Crown",
+    "en": "Duchess Crown",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sinner's Canope",
+    "en": "Sinner's Canope",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Plentiful Wheat",
+    "en": "Plentiful Wheat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Harvest Agave",
+    "en": "Harvest Agave",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Spirit Water",
+    "en": "Spirit Water",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Volcanic Queen",
+    "en": "Volcanic Queen",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gleipnir",
+    "en": "Gleipnir",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Solar Disk",
+    "en": "Solar Disk",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Stigmata Spear",
+    "en": "Stigmata Spear",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dame's Cross",
+    "en": "Dame's Cross",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wyvern Fang",
+    "en": "Wyvern Fang",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scourge's Cape",
+    "en": "Scourge's Cape",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Champ's Cape",
+    "en": "Champ's Cape",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Seraph's Wing",
+    "en": "Seraph's Wing",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ineffable Miter",
+    "en": "Ineffable Miter",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tyrant's Bead",
+    "en": "Tyrant's Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bunny Doll",
+    "en": "Bunny Doll",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Book of Enoch",
+    "en": "Book of Enoch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rune of Destiny",
+    "en": "Rune of Destiny",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "4 Knight Crest",
+    "en": "4 Knight Crest",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Destroyer's Disk",
+    "en": "Destroyer's Disk",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glutton's Mark",
+    "en": "Glutton's Mark",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Infernal Key",
+    "en": "Infernal Key",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fusion Unlock 24",
+    "en": "Fusion Unlock 24",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fusion Unlock 25",
+    "en": "Fusion Unlock 25",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Compendium Discount 1",
+    "en": "Compendium Discount 1",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Compendium Discount 2",
+    "en": "Compendium Discount 2",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Compendium Discount 3",
+    "en": "Compendium Discount 3",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Compendium Discount 4",
+    "en": "Compendium Discount 4",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Promo Card",
+    "en": "Promo Card",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Discount Card",
+    "en": "Discount Card",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Client Card",
+    "en": "Client Card",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "City Treasure Map",
+    "en": "City Treasure Map",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dino Treasure Map",
+    "en": "Dino Treasure Map",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lab Treasure Map",
+    "en": "Lab Treasure Map",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Play Treasure Map",
+    "en": "Play Treasure Map",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Film Treasure Map",
+    "en": "Film Treasure Map",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dino's Stash",
+    "en": "Dino's Stash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cinnamon Fern",
+    "en": "Cinnamon Fern",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cognitive Device",
+    "en": "Cognitive Device",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unknown Device",
+    "en": "Unknown Device",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fruitlike Object",
+    "en": "Fruitlike Object",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Vine Herb",
+    "en": "Vine Herb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pathos Recorder",
+    "en": "Pathos Recorder",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sell all materials",
+    "en": "Sell all materials",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Broken Phone",
+    "en": "Broken Phone",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beautiful Bulb",
+    "en": "Beautiful Bulb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Broken Watch",
+    "en": "Broken Watch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Justice Figure",
+    "en": "Justice Figure",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Maya Powder",
+    "en": "Maya Powder",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Maya Jewel",
+    "en": "Maya Jewel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Basalt Rock",
+    "en": "Basalt Rock",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Basalt Jewel",
+    "en": "Basalt Jewel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Table Wood",
+    "en": "Table Wood",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Table Jewel",
+    "en": "Table Jewel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hablerie Shell",
+    "en": "Hablerie Shell",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hablerie Jewel",
+    "en": "Hablerie Jewel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Balance Chain",
+    "en": "Balance Chain",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Balance Stone",
+    "en": "Balance Stone",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scripture Page",
+    "en": "Scripture Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scripture Jewel",
+    "en": "Scripture Jewel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fuzz Cuffs",
+    "en": "Fuzz Cuffs",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fuzz Jewel",
+    "en": "Fuzz Jewel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "King Mustache",
+    "en": "King Mustache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "King Jewel",
+    "en": "King Jewel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Statue Hinges",
+    "en": "Statue Hinges",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Statue Jewel",
+    "en": "Statue Jewel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tower Ornament",
+    "en": "Tower Ornament",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tower Jewel",
+    "en": "Tower Jewel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gigas Tights",
+    "en": "Gigas Tights",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gigas Jewel",
+    "en": "Gigas Jewel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gorgeous Crown",
+    "en": "Gorgeous Crown",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scarlet Metal",
+    "en": "Scarlet Metal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "K Symbol",
+    "en": "K Symbol",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Magic Cloth Rcp",
+    "en": "Magic Cloth Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Origin Cloth Rcp",
+    "en": "Origin Cloth Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Word Cloth Rcp",
+    "en": "Word Cloth Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mech Armor Rcp",
+    "en": "Mech Armor Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hero Copper",
+    "en": "Hero Copper",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hero Silver",
+    "en": "Hero Silver",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hero Gold",
+    "en": "Hero Gold",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shadow Jewel",
+    "en": "Shadow Jewel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Coral Stone",
+    "en": "Coral Stone",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Jade Stone",
+    "en": "Jade Stone",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Amethyst Stone",
+    "en": "Amethyst Stone",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beast Fur",
+    "en": "Beast Fur",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beast Crystal",
+    "en": "Beast Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lady Branch",
+    "en": "Lady Branch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lady Crystal",
+    "en": "Lady Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Maya Goop",
+    "en": "Maya Goop",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Maya Crystal",
+    "en": "Maya Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cupid Arrow",
+    "en": "Cupid Arrow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cupid Crystal",
+    "en": "Cupid Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Basalt Ore",
+    "en": "Basalt Ore",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Basalt Crystal",
+    "en": "Basalt Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eagle Feather",
+    "en": "Eagle Feather",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eagle Crystal",
+    "en": "Eagle Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Snake Scale",
+    "en": "Snake Scale",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Snake Crystal",
+    "en": "Snake Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Papillon Scales",
+    "en": "Papillon Scales",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Papillon Crystal",
+    "en": "Papillon Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fossil Shard",
+    "en": "Fossil Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Amber Chunk",
+    "en": "Amber Chunk",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fine Fossil",
+    "en": "Fine Fossil",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Insect in Amber",
+    "en": "Insect in Amber",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beautiful Screw",
+    "en": "Beautiful Screw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Small Generator",
+    "en": "Small Generator",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Detailed Circuit",
+    "en": "Detailed Circuit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tiny AI Chip",
+    "en": "Tiny AI Chip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rainbow Flavor",
+    "en": "Rainbow Flavor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Honey Flavor",
+    "en": "Honey Flavor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tropical Flavor",
+    "en": "Tropical Flavor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Meat Flavor",
+    "en": "Meat Flavor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Light Meal Rcp",
+    "en": "Light Meal Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Light Meal Rcp X",
+    "en": "Light Meal Rcp X",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Light Meal Rcp Z",
+    "en": "Light Meal Rcp Z",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Soft Drink Rcp",
+    "en": "Soft Drink Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pesce Scale",
+    "en": "Pesce Scale",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pesce Crystal",
+    "en": "Pesce Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bambino Leaf",
+    "en": "Bambino Leaf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bambino Crystal",
+    "en": "Bambino Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rainy Drop",
+    "en": "Rainy Drop",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rainy Crystal",
+    "en": "Rainy Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Balance Plate",
+    "en": "Balance Plate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Balance Crystal",
+    "en": "Balance Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Raven Feather",
+    "en": "Raven Feather",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Raven Crystal",
+    "en": "Raven Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gene Fibers",
+    "en": "Gene Fibers",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gene Crystal",
+    "en": "Gene Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bull Horn",
+    "en": "Bull Horn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bull Crystal",
+    "en": "Bull Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beetle Sap",
+    "en": "Beetle Sap",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Beetle Crystal",
+    "en": "Beetle Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fine Horn",
+    "en": "Fine Horn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Maya Grease",
+    "en": "Maya Grease",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Maya Core",
+    "en": "Maya Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wheel Gear",
+    "en": "Wheel Gear",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wheel Core",
+    "en": "Wheel Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Drive Screw",
+    "en": "Drive Screw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Drive Core",
+    "en": "Drive Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Phantom Cloth",
+    "en": "Phantom Cloth",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Phantom Core",
+    "en": "Phantom Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sand Glass",
+    "en": "Sand Glass",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sand Core",
+    "en": "Sand Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tower Crown",
+    "en": "Tower Crown",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tower Core",
+    "en": "Tower Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Turret Plate",
+    "en": "Turret Plate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Turret Core",
+    "en": "Turret Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dice Shard",
+    "en": "Dice Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Black Dice Core",
+    "en": "Black Dice Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Statue Needle",
+    "en": "Statue Needle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Statue Core",
+    "en": "Statue Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Castle Leg",
+    "en": "Castle Leg",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Castle Core",
+    "en": "Castle Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sigil Mask",
+    "en": "Sigil Mask",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sigil Core",
+    "en": "Sigil Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gene Spireme",
+    "en": "Gene Spireme",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gene Core",
+    "en": "Gene Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sword Pommel",
+    "en": "Sword Pommel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sword Core",
+    "en": "Sword Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cyclops Eye",
+    "en": "Cyclops Eye",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cyclops Core",
+    "en": "Cyclops Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Panzer Turret",
+    "en": "Panzer Turret",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Panzer Core",
+    "en": "Panzer Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gigas Mask",
+    "en": "Gigas Mask",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gigas Core",
+    "en": "Gigas Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dice Plate",
+    "en": "Dice Plate",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "White Dice Core",
+    "en": "White Dice Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Machine Metal",
+    "en": "Machine Metal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Machine Core",
+    "en": "Machine Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Grandiose Armor",
+    "en": "Grandiose Armor",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Table Steel",
+    "en": "Table Steel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Table Gem",
+    "en": "Table Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cursed Pot Bit",
+    "en": "Cursed Pot Bit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cursed Pot Gem",
+    "en": "Cursed Pot Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Twins Rod",
+    "en": "Twins Rod",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Twins Gem",
+    "en": "Twins Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Okina Cup",
+    "en": "Okina Cup",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Okina Gem",
+    "en": "Okina Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Balance Rod",
+    "en": "Balance Rod",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Balance Gem",
+    "en": "Balance Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Maya Honey",
+    "en": "Maya Honey",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Maya Gem",
+    "en": "Maya Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hablerie Uvula",
+    "en": "Hablerie Uvula",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hablerie Gem",
+    "en": "Hablerie Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Book Cover",
+    "en": "Book Cover",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Book Gem",
+    "en": "Book Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Idol Crystal Ball",
+    "en": "Idol Crystal Ball",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Idol Gem",
+    "en": "Idol Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eagle Gizzard",
+    "en": "Eagle Gizzard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eagle Gem",
+    "en": "Eagle Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Snake Pit Organ",
+    "en": "Snake Pit Organ",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Snake Gem",
+    "en": "Snake Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Papillon Feeler",
+    "en": "Papillon Feeler",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Papillon Gem",
+    "en": "Papillon Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bull Cloth",
+    "en": "Bull Cloth",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bull Gem",
+    "en": "Bull Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lexy Button",
+    "en": "Lexy Button",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lexy Gem",
+    "en": "Lexy Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Magus Chalice",
+    "en": "Magus Chalice",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Magus Gem",
+    "en": "Magus Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mother Perfume",
+    "en": "Mother Perfume",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mother Gem",
+    "en": "Mother Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Knight Reins",
+    "en": "Knight Reins",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Knight Gem",
+    "en": "Knight Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dancer Balloon",
+    "en": "Dancer Balloon",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dancer Gem",
+    "en": "Dancer Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rainy Rivulet",
+    "en": "Rainy Rivulet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rainy Gem",
+    "en": "Rainy Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Seeker Eye",
+    "en": "Seeker Eye",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Seeker Gem",
+    "en": "Seeker Gem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fiery Eye",
+    "en": "Fiery Eye",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pesce Air Sac",
+    "en": "Pesce Air Sac",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pesce Cache",
+    "en": "Pesce Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Statue Gold Foil",
+    "en": "Statue Gold Foil",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Statue Cache",
+    "en": "Statue Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fuzz Pocketbook",
+    "en": "Fuzz Pocketbook",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fuzz Cache",
+    "en": "Fuzz Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Maya Mercury",
+    "en": "Maya Mercury",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Maya Cache",
+    "en": "Maya Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Raven Balefire",
+    "en": "Raven Balefire",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Raven Cache",
+    "en": "Raven Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wheel Axle",
+    "en": "Wheel Axle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wheel Cache",
+    "en": "Wheel Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Basalt Diamond",
+    "en": "Basalt Diamond",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Basalt Cache",
+    "en": "Basalt Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tower Pillar",
+    "en": "Tower Pillar",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tower Cache",
+    "en": "Tower Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lady Pipe",
+    "en": "Lady Pipe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lady Cache",
+    "en": "Lady Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Balance Halo",
+    "en": "Balance Halo",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Balance Cache",
+    "en": "Balance Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cyclops Tear",
+    "en": "Cyclops Tear",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cyclops Cache",
+    "en": "Cyclops Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Idol Veil",
+    "en": "Idol Veil",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Idol Cache",
+    "en": "Idol Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bambino Flower",
+    "en": "Bambino Flower",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bambino Cache",
+    "en": "Bambino Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cupid Wing",
+    "en": "Cupid Wing",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cupid Cache",
+    "en": "Cupid Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Phantom Script",
+    "en": "Phantom Script",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Phantom Cache",
+    "en": "Phantom Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dice Repdigit",
+    "en": "Dice Repdigit",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dice Cache",
+    "en": "Dice Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gene DNA",
+    "en": "Gene DNA",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gene Cache",
+    "en": "Gene Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mother Quilting",
+    "en": "Mother Quilting",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mother Cache",
+    "en": "Mother Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Castle Bell",
+    "en": "Castle Bell",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Castle Cache",
+    "en": "Castle Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sword Rune",
+    "en": "Sword Rune",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sword Cache",
+    "en": "Sword Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Giant Right Arm",
+    "en": "Giant Right Arm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Giant Cache",
+    "en": "Giant Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Jotun Rocker",
+    "en": "Jotun Rocker",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Jotun Cache",
+    "en": "Jotun Cache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "King Whisker",
+    "en": "King Whisker",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Camo Scale",
+    "en": "Camo Scale",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Paradise Plan",
+    "en": "Paradise Plan",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cracked Mask",
+    "en": "Cracked Mask",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "King Treasure",
+    "en": "King Treasure",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Yellow Brick",
+    "en": "Yellow Brick",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Straw Husk",
+    "en": "Straw Husk",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tin Heart",
+    "en": "Tin Heart",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Courage Hair",
+    "en": "Courage Hair",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ivory Script",
+    "en": "Ivory Script",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "3D Storyboard",
+    "en": "3D Storyboard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Flat Timetable",
+    "en": "Flat Timetable",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Blackened Script",
+    "en": "Blackened Script",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "1MB Blipcoin",
+    "en": "1MB Blipcoin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "1GB Blipcoin",
+    "en": "1GB Blipcoin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "1TB Blipcoin",
+    "en": "1TB Blipcoin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mysterious Plan",
+    "en": "Mysterious Plan",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Escape Book",
+    "en": "Escape Book",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Large Drink Rcp",
+    "en": "Large Drink Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Blessed Mix Rcp",
+    "en": "Blessed Mix Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Miracle Mix Rcp",
+    "en": "Miracle Mix Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Release Mix Rcp",
+    "en": "Release Mix Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Savior Mix Rcp",
+    "en": "Savior Mix Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fried Legend Rcp",
+    "en": "Fried Legend Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Revive Scripture",
+    "en": "Revive Scripture",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Spirit Scripture",
+    "en": "Spirit Scripture",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Heat End. Rcp",
+    "en": "Heat End. Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nature End. Rcp",
+    "en": "Nature End. Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mystic End. Rcp",
+    "en": "Mystic End. Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Purifying Recipe",
+    "en": "Purifying Recipe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Infiltration Log",
+    "en": "Infiltration Log",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Yin-yang Memo",
+    "en": "Yin-yang Memo",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Charm Scripture",
+    "en": "Charm Scripture",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Escape Memo",
+    "en": "Escape Memo",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nano Blueprint",
+    "en": "Nano Blueprint",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Witch's Score",
+    "en": "Witch's Score",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Witch's Concert",
+    "en": "Witch's Concert",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Recycle Book",
+    "en": "Recycle Book",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Soul Drop Rcp",
+    "en": "Soul Drop Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Soul Snack Rcp",
+    "en": "Soul Snack Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Divine Mix Rcp",
+    "en": "Divine Mix Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Arcane Blueprint",
+    "en": "Arcane Blueprint",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "New Snack Rcp",
+    "en": "New Snack Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dangerous Book",
+    "en": "Dangerous Book",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Stage Garb Rcp",
+    "en": "Stage Garb Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dancer Garb Rcp",
+    "en": "Dancer Garb Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cute Garb Rcp",
+    "en": "Cute Garb Rcp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Akashic Record",
+    "en": "Akashic Record",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Small Note",
+    "en": "Small Note",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rainbow Note",
+    "en": "Rainbow Note",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Emerald Note",
+    "en": "Emerald Note",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Copper Statue",
+    "en": "Copper Statue",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gold Statue",
+    "en": "Gold Statue",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Platinum Statue",
+    "en": "Platinum Statue",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fine Comb",
+    "en": "Fine Comb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "High-tech Pack",
+    "en": "High-tech Pack",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Colorful Nail",
+    "en": "Colorful Nail",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Luxury Lashes",
+    "en": "Luxury Lashes",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "5-Inch Disk",
+    "en": "5-Inch Disk",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "8-Inch Disk",
+    "en": "8-Inch Disk",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Book of Greats",
+    "en": "Book of Greats",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Book of Friends",
+    "en": "Book of Friends",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Book of All",
+    "en": "Book of All",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Black Tangle",
+    "en": "Black Tangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "White Tangle",
+    "en": "White Tangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Holy Shard",
+    "en": "Holy Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Teddy Bear",
+    "en": "Teddy Bear",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kaleidoscope",
+    "en": "Kaleidoscope",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Clay Figurine",
+    "en": "Clay Figurine",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lion Piece",
+    "en": "Lion Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lion Iron Ball",
+    "en": "Lion Iron Ball",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Lion",
+    "en": "Temp Lion",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fish Piece",
+    "en": "Fish Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fish Filet",
+    "en": "Fish Filet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fish Eye",
+    "en": "Fish Eye",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Landsknecht Legend",
+    "en": "Landsknecht Legend",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Protector Tales",
+    "en": "Protector Tales",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dancer Specialty",
+    "en": "Dancer Specialty",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gunner Memoir",
+    "en": "Gunner Memoir",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sovereign Story",
+    "en": "Sovereign Story",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Medic Miracle",
+    "en": "Medic Miracle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Accessory Recipe G",
+    "en": "Accessory Recipe G",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Accessory Recipe H",
+    "en": "Accessory Recipe H",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Accessory Recipe I",
+    "en": "Accessory Recipe I",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Accessory Recipe J",
+    "en": "Accessory Recipe J",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Craggy Boulder",
+    "en": "Craggy Boulder",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Doze Petal",
+    "en": "Doze Petal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tasty Chocomint",
+    "en": "Tasty Chocomint",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Saurian Herb",
+    "en": "Saurian Herb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shattered Ore",
+    "en": "Shattered Ore",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Futuristic Gizmo",
+    "en": "Futuristic Gizmo",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Piano Note",
+    "en": "Piano Note",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Trumpet Note",
+    "en": "Trumpet Note",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Flute Note",
+    "en": "Flute Note",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wood Harp Note",
+    "en": "Wood Harp Note",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Violin Note",
+    "en": "Violin Note",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Timpani Note",
+    "en": "Timpani Note",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Metal Harp Note",
+    "en": "Metal Harp Note",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Desk Piece",
+    "en": "Desk Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Desk Leg",
+    "en": "Desk Leg",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Desk",
+    "en": "Temp Desk",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Table Piece",
+    "en": "Table Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Table Leg",
+    "en": "Table Leg",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Burnt Table Leg",
+    "en": "Burnt Table Leg",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scale Piece",
+    "en": "Scale Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scale Dish",
+    "en": "Scale Dish",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Scale",
+    "en": "Temp Scale",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eagle Piece",
+    "en": "Eagle Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eagle Wings",
+    "en": "Eagle Wings",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Frozen Talons",
+    "en": "Frozen Talons",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Adhesive Piece",
+    "en": "Adhesive Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Adhesive Hand",
+    "en": "Adhesive Hand",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Adhesive",
+    "en": "Temp Adhesive",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tongue Piece",
+    "en": "Tongue Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tongue Skin",
+    "en": "Tongue Skin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Tongue",
+    "en": "Temp Tongue",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Clapper Piece",
+    "en": "Clapper Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Clapper Skin",
+    "en": "Clapper Skin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Clapper",
+    "en": "Temp Clapper",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sword Piece",
+    "en": "Sword Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sword Hilt",
+    "en": "Sword Hilt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Sword",
+    "en": "Temp Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bug Piece",
+    "en": "Bug Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bug Horn",
+    "en": "Bug Horn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Broken Carapace",
+    "en": "Broken Carapace",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wealth Piece",
+    "en": "Wealth Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Game Data",
+    "en": "Old Game Data",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dancer Piece",
+    "en": "Dancer Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dancer Shoes",
+    "en": "Dancer Shoes",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Dancer",
+    "en": "Temp Dancer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hoofer Piece",
+    "en": "Hoofer Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hoofer Shoes",
+    "en": "Hoofer Shoes",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Hoofer",
+    "en": "Temp Hoofer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Butterfly Piece",
+    "en": "Butterfly Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Butterfly Wing",
+    "en": "Butterfly Wing",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Butterfly",
+    "en": "Temp Butterfly",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shaman Piece",
+    "en": "Shaman Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shaman Robe",
+    "en": "Shaman Robe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Conditional Shaman",
+    "en": "Conditional Shaman",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Idol Piece",
+    "en": "Idol Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Idol",
+    "en": "Temp Idol",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Madonna Piece",
+    "en": "Madonna Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Madonna Veil",
+    "en": "Madonna Veil",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Conditional Madonna",
+    "en": "Conditional Madonna",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Madam Piece",
+    "en": "Madam Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Madam Hat",
+    "en": "Madam Hat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Madam",
+    "en": "Temp Madam",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Snake Piece",
+    "en": "Snake Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Snake Ring",
+    "en": "Snake Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eyeless Snakeskin",
+    "en": "Eyeless Snakeskin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Serpent Piece",
+    "en": "Serpent Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Serpent Ring",
+    "en": "Serpent Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Conditional Serpent",
+    "en": "Conditional Serpent",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Angel Piece",
+    "en": "Angel Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Angel Arrow",
+    "en": "Angel Arrow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Angel",
+    "en": "Temp Angel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eros Piece",
+    "en": "Eros Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eros Arrow",
+    "en": "Eros Arrow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Eros Wings",
+    "en": "Eros Wings",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scripture Piece",
+    "en": "Scripture Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scripture Latch",
+    "en": "Scripture Latch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Scripture",
+    "en": "Temp Scripture",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rock Piece",
+    "en": "Rock Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rock Hand",
+    "en": "Rock Hand",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Conditional Rock",
+    "en": "Conditional Rock",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Boulder Piece",
+    "en": "Boulder Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Boulder Hand",
+    "en": "Boulder Hand",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Boulder",
+    "en": "Temp Boulder",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Royal Piece",
+    "en": "Royal Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Royal Stache",
+    "en": "Royal Stache",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Charred Scepter",
+    "en": "Charred Scepter",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gold Leaf",
+    "en": "Gold Leaf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lexy Piece",
+    "en": "Lexy Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lexy Ribbon",
+    "en": "Lexy Ribbon",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lexy Cotton",
+    "en": "Lexy Cotton",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Calocy Piece",
+    "en": "Calocy Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Calocy Glasses",
+    "en": "Calocy Glasses",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Calocy",
+    "en": "Temp Calocy",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Urn Piece",
+    "en": "Urn Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Urn Hair",
+    "en": "Urn Hair",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cracked Urn",
+    "en": "Cracked Urn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Twins' Piece",
+    "en": "Twins' Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Twins' Handcuffs",
+    "en": "Twins' Handcuffs",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Twins",
+    "en": "Temp Twins",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cop Piece",
+    "en": "Cop Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cop Badge",
+    "en": "Cop Badge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Cop",
+    "en": "Temp Cop",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ghost Piece",
+    "en": "Ghost Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ghost Lamp",
+    "en": "Ghost Lamp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Ghost",
+    "en": "Temp Ghost",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Phantom Piece",
+    "en": "Phantom Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Phantom Lamp",
+    "en": "Phantom Lamp",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Phantom",
+    "en": "Temp Phantom",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Statue Piece",
+    "en": "Statue Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Statue Blade",
+    "en": "Statue Blade",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crow Piece",
+    "en": "Crow Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Crow Feather",
+    "en": "Crow Feather",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Crow",
+    "en": "Temp Crow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Raven Piece",
+    "en": "Raven Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Raven Beak",
+    "en": "Raven Beak",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rainy Piece",
+    "en": "Rainy Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rainy Breath",
+    "en": "Rainy Breath",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rainy Core",
+    "en": "Rainy Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Elder Piece",
+    "en": "Elder Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Elder Mist",
+    "en": "Elder Mist",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Elder Core",
+    "en": "Elder Core",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sticky Piece",
+    "en": "Sticky Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sticky Hand",
+    "en": "Sticky Hand",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sticky Jelly",
+    "en": "Sticky Jelly",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mushy Piece",
+    "en": "Mushy Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mushy Hand",
+    "en": "Mushy Hand",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Mushy",
+    "en": "Temp Mushy",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Monitor Piece",
+    "en": "Monitor Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Monitor Brow",
+    "en": "Monitor Brow",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Monitor Eye",
+    "en": "Monitor Eye",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Supreme Piece",
+    "en": "Supreme Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Musha Piece",
+    "en": "Musha Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Musha Helm",
+    "en": "Musha Helm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Musha",
+    "en": "Temp Musha",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Biceps Piece",
+    "en": "Biceps Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Biceps Mask",
+    "en": "Biceps Mask",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Biceps",
+    "en": "Temp Biceps",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Triceps Piece",
+    "en": "Triceps Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Triceps Mask",
+    "en": "Triceps Mask",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Triceps",
+    "en": "Temp Triceps",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nyogo Piece",
+    "en": "Nyogo Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nyogo Kimono",
+    "en": "Nyogo Kimono",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Nyogo",
+    "en": "Temp Nyogo",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Leaf Piece",
+    "en": "Leaf Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Leaf Kimono",
+    "en": "Leaf Kimono",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Leaf",
+    "en": "Temp Leaf",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Spiral Piece",
+    "en": "Spiral Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Spiral Spring",
+    "en": "Spiral Spring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Spiral",
+    "en": "Temp Spiral",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tower Piece",
+    "en": "Tower Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tower Eye",
+    "en": "Tower Eye",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Okina Piece",
+    "en": "Okina Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Okina Coat",
+    "en": "Okina Coat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Conditional Okina",
+    "en": "Conditional Okina",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sage Piece",
+    "en": "Sage Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sage Coat",
+    "en": "Sage Coat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Sage",
+    "en": "Temp Sage",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hanged Piece",
+    "en": "Hanged Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hanged Cuffs",
+    "en": "Hanged Cuffs",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hanged Thorn",
+    "en": "Hanged Thorn",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dice Piece",
+    "en": "Dice Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dice Pip",
+    "en": "Dice Pip",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Dice",
+    "en": "Temp Dice",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Craps Piece",
+    "en": "Craps Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Craps Lump",
+    "en": "Craps Lump",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Craps Eye",
+    "en": "Craps Eye",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wheel Piece",
+    "en": "Wheel Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wheel Tail",
+    "en": "Wheel Tail",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tire Piece",
+    "en": "Tire Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tire Axle",
+    "en": "Tire Axle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tire Mane",
+    "en": "Tire Mane",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Machine Piece",
+    "en": "Machine Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Machine Mallet",
+    "en": "Machine Mallet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shock Club",
+    "en": "Shock Club",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Opulent Piece",
+    "en": "Opulent Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Loincloth",
+    "en": "Loincloth",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bull Piece",
+    "en": "Bull Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bull Chain",
+    "en": "Bull Chain",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Talisman Piece",
+    "en": "Talisman Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Talisman Cape",
+    "en": "Talisman Cape",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Talisman Staff",
+    "en": "Talisman Staff",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Castle Piece",
+    "en": "Castle Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Castle Rubble",
+    "en": "Castle Rubble",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Castle Cannon",
+    "en": "Castle Cannon",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Knight Piece",
+    "en": "Knight Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Knight Lance",
+    "en": "Knight Lance",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Drive Piece",
+    "en": "Drive Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Drive Wheel",
+    "en": "Drive Wheel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Drive Sword",
+    "en": "Drive Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "H Drive Piece",
+    "en": "H Drive Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "H Drive Wheel",
+    "en": "H Drive Wheel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "H Drive Gear",
+    "en": "H Drive Gear",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Turret Piece",
+    "en": "Turret Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Turret Cannon",
+    "en": "Turret Cannon",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Turret Belt",
+    "en": "Turret Belt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "B Horse Piece",
+    "en": "B Horse Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "B Horse Cuffs",
+    "en": "B Horse Cuffs",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "B Horse Chain",
+    "en": "B Horse Chain",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "W Horse Piece",
+    "en": "W Horse Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "W Horse Cuffs",
+    "en": "W Horse Cuffs",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp W Horse",
+    "en": "Temp W Horse",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ring Piece",
+    "en": "Ring Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ring Lump",
+    "en": "Ring Lump",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fire Ring Lump",
+    "en": "Fire Ring Lump",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Red Ring Piece",
+    "en": "Red Ring Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Red Ring Lump",
+    "en": "Red Ring Lump",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Red Ring",
+    "en": "Temp Red Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "R Turret Piece",
+    "en": "R Turret Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "R Cannon",
+    "en": "R Cannon",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Temp Red Turret",
+    "en": "Temp Red Turret",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Giant Piece",
+    "en": "Giant Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Giant Hilt",
+    "en": "Giant Hilt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Giant Sword",
+    "en": "Giant Sword",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Luxury Piece",
+    "en": "Luxury Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ripped Card",
+    "en": "Ripped Card",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Painted Card",
+    "en": "Painted Card",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Love Shard",
+    "en": "Love Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lust Shard",
+    "en": "Lust Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Passion Shard",
+    "en": "Passion Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Romance Shard",
+    "en": "Romance Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Old Pacifier",
+    "en": "Old Pacifier",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Red Clothes",
+    "en": "Red Clothes",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Blue Clothes",
+    "en": "Blue Clothes",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kanroshu",
+    "en": "Kanroshu",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Daiginjo",
+    "en": "Daiginjo",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sweat Droplets",
+    "en": "Sweat Droplets",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hyottoko Mask",
+    "en": "Hyottoko Mask",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Speed Mask",
+    "en": "Speed Mask",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Compound Eye",
+    "en": "Compound Eye",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tangled Thread",
+    "en": "Tangled Thread",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Death's Order",
+    "en": "Death's Order",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Children's Book",
+    "en": "Children's Book",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gospel Page",
+    "en": "Gospel Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Broken Gauge",
+    "en": "Broken Gauge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hand-Sewn Vest",
+    "en": "Hand-Sewn Vest",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bug Gold",
+    "en": "Bug Gold",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Royal Gold",
+    "en": "Royal Gold",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Monitor Gold",
+    "en": "Monitor Gold",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Machine Gold",
+    "en": "Machine Gold",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Orochi Remnant",
+    "en": "Orochi Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Pixie Remnant",
+    "en": "Pixie Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Genbu Remnant",
+    "en": "Genbu Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Suzaku Remnant",
+    "en": "Suzaku Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lantern Remnant",
+    "en": "Lantern Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Jinn Remnant",
+    "en": "Jinn Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Byakko Remnant",
+    "en": "Byakko Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Frost Remnant",
+    "en": "Frost Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Succubus Remnant",
+    "en": "Succubus Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nue Remnant",
+    "en": "Nue Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Skadi Remnant",
+    "en": "Skadi Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Matador Remnant",
+    "en": "Matador Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Seiryu Remnant",
+    "en": "Seiryu Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cybele Remnant",
+    "en": "Cybele Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Oni Remnant",
+    "en": "Oni Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Zeus Remnant",
+    "en": "Zeus Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Claw Shard",
+    "en": "Claw Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Yoshitsune Shard",
+    "en": "Yoshitsune Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Masakado Shard",
+    "en": "Masakado Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Asura Bone",
+    "en": "Asura Bone",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Vishnu Shard",
+    "en": "Vishnu Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Huaguo's Rock",
+    "en": "Huaguo's Rock",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Skanda's Wing",
+    "en": "Skanda's Wing",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Broken Tablet",
+    "en": "Broken Tablet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Opposer's Wing",
+    "en": "Opposer's Wing",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Arioch Remnant",
+    "en": "Arioch Remnant",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Seraph Wing",
+    "en": "Seraph Wing",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Destroyer's Rage",
+    "en": "Destroyer's Rage",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Michael Shard",
+    "en": "Michael Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Chi You Shard",
+    "en": "Chi You Shard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Goddess Obsidian",
+    "en": "Goddess Obsidian",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Spear Fragment",
+    "en": "Spear Fragment",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Trickster Karma",
+    "en": "Trickster Karma",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Skystaff Piece",
+    "en": "Skystaff Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Shadow Piece",
+    "en": "Shadow Piece",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cake Page",
+    "en": "Cake Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Mushroom Page",
+    "en": "Mushroom Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Tart Page",
+    "en": "Tart Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Turtle Page",
+    "en": "Turtle Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gryphon Page",
+    "en": "Gryphon Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dormouse Page",
+    "en": "Dormouse Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Hatter Page",
+    "en": "Hatter Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cook Page",
+    "en": "Cook Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Duchess Page",
+    "en": "Duchess Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Alice Gem 10",
+    "en": "Alice Gem 10",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Alice Gem 11",
+    "en": "Alice Gem 11",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Alice Gem 12",
+    "en": "Alice Gem 12",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dried Rose",
+    "en": "Dried Rose",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dried Orchid",
+    "en": "Dried Orchid",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dried Amaryllis",
+    "en": "Dried Amaryllis",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Chipped Candle",
+    "en": "Chipped Candle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Chipped Choker",
+    "en": "Chipped Choker",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Chipped Necklace",
+    "en": "Chipped Necklace",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cracked Tiara",
+    "en": "Cracked Tiara",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cracked Earring",
+    "en": "Cracked Earring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cracked Heels",
+    "en": "Cracked Heels",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ripped Veil",
+    "en": "Ripped Veil",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ripped Shawl",
+    "en": "Ripped Shawl",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ripped Dress",
+    "en": "Ripped Dress",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Date Treasure 13",
+    "en": "Date Treasure 13",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Date Treasure 14",
+    "en": "Date Treasure 14",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Date Treasure 15",
+    "en": "Date Treasure 15",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Date Treasure 16",
+    "en": "Date Treasure 16",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Note Page",
+    "en": "Note Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Textbook Page",
+    "en": "Textbook Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Document Page",
+    "en": "Document Page",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ripped Schedule",
+    "en": "Ripped Schedule",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ripped Nametag",
+    "en": "Ripped Nametag",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ripped Emblem",
+    "en": "Ripped Emblem",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rusted Syringe",
+    "en": "Rusted Syringe",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rusted Scalpel",
+    "en": "Rusted Scalpel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rusted Tweezers",
+    "en": "Rusted Tweezers",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bloody Bandage",
+    "en": "Bloody Bandage",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bloody Gauze",
+    "en": "Bloody Gauze",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bloody Chart",
+    "en": "Bloody Chart",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Horror Treasure 13",
+    "en": "Horror Treasure 13",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Horror Treasure 14",
+    "en": "Horror Treasure 14",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Horror Treasure 15",
+    "en": "Horror Treasure 15",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Horror Treasure 16",
+    "en": "Horror Treasure 16",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Agarwood",
+    "en": "Agarwood",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sandalwood",
+    "en": "Sandalwood",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Kyarako",
+    "en": "Kyarako",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Music Sheet 260",
+    "en": "Music Sheet 260",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Music Sheet 657",
+    "en": "Music Sheet 657",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Music Sheet 581",
+    "en": "Music Sheet 581",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lily",
+    "en": "Lily",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Carnation",
+    "en": "Carnation",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Chrysanthemum",
+    "en": "Chrysanthemum",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "White Belt",
+    "en": "White Belt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "White Candle",
+    "en": "White Candle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "White Pot",
+    "en": "White Pot",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Festival Treasure 13",
+    "en": "Festival Treasure 13",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Festival Treasure 14",
+    "en": "Festival Treasure 14",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Festival Treasure 15",
+    "en": "Festival Treasure 15",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Festival Treasure 16",
+    "en": "Festival Treasure 16",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cloudy Crystal",
+    "en": "Cloudy Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Dirty Crystal",
+    "en": "Dirty Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Cracked Crystal",
+    "en": "Cracked Crystal",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Grey Clockwork",
+    "en": "Grey Clockwork",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Silver Clockwork",
+    "en": "Silver Clockwork",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gold Clockwork",
+    "en": "Gold Clockwork",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Still Pendulum",
+    "en": "Still Pendulum",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Non-Tuning Fork",
+    "en": "Non-Tuning Fork",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Stripped Screw",
+    "en": "Stripped Screw",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Broken 3rd Gear",
+    "en": "Broken 3rd Gear",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Broken 2nd Gear",
+    "en": "Broken 2nd Gear",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Split Gearshaft",
+    "en": "Split Gearshaft",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Manila Rope",
+    "en": "Manila Rope",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gas-Wash Bottle",
+    "en": "Gas-Wash Bottle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Familiar Statue",
+    "en": "Familiar Statue",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Superficial Statue",
+    "en": "Superficial Statue",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Spiritual Statue",
+    "en": "Spiritual Statue",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Scratched Lens",
+    "en": "Scratched Lens",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Summon Bamboo",
+    "en": "Summon Bamboo",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Repulse Alloy",
+    "en": "Repulse Alloy",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Yin-Yang Charm",
+    "en": "Yin-Yang Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Abyss Mirror",
+    "en": "Abyss Mirror",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Adamas Steel",
+    "en": "Adamas Steel",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Labyrinth Parts",
+    "en": "Labyrinth Parts",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Power Anklet",
+    "en": "Power Anklet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Magic Ankh",
+    "en": "Magic Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Endurance Belt",
+    "en": "Endurance Belt",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Army Socks",
+    "en": "Army Socks",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Vigor Fob",
+    "en": "Vigor Fob",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Plum Potpourri",
+    "en": "Plum Potpourri",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Alarm Clock",
+    "en": "Alarm Clock",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Confusion Hat",
+    "en": "Confusion Hat",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nature Pin",
+    "en": "Nature Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Aim Goggles",
+    "en": "Aim Goggles",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Safety Helmet",
+    "en": "Safety Helmet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Elbow Pad",
+    "en": "Elbow Pad",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Leg Warmer",
+    "en": "Leg Warmer",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gas Mask",
+    "en": "Gas Mask",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Yoga Sash",
+    "en": "Yoga Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Polarized Specs",
+    "en": "Polarized Specs",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Survival Book",
+    "en": "Survival Book",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Protector Pin",
+    "en": "Protector Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Landsknecht Pin",
+    "en": "Landsknecht Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Medic Pin",
+    "en": "Medic Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Troubadour Pin",
+    "en": "Troubadour Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Ronin Pin",
+    "en": "Ronin Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Arcanist Pin",
+    "en": "Arcanist Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Resonance Coil",
+    "en": "Resonance Coil",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Soulmate Coil",
+    "en": "Soulmate Coil",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bracer of Might",
+    "en": "Bracer of Might",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Logos Mirror",
+    "en": "Logos Mirror",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Roman Mirror",
+    "en": "Roman Mirror",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sense Mirror",
+    "en": "Sense Mirror",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Maverick Mirror",
+    "en": "Maverick Mirror",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gunner Pin",
+    "en": "Gunner Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sovereign Pin",
+    "en": "Sovereign Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Fire Sash",
+    "en": "X Fire Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Ice Sash",
+    "en": "X Ice Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Wind Sash",
+    "en": "X Wind Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Elec Sash",
+    "en": "X Elec Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Nuke Sash",
+    "en": "X Nuke Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Psy Sash",
+    "en": "X Psy Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Fire Charm",
+    "en": "X Fire Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Ice Charm",
+    "en": "X Ice Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Wind Charm",
+    "en": "X Wind Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Elec Charm",
+    "en": "X Elec Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Nuke Charm",
+    "en": "X Nuke Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Psy Charm",
+    "en": "X Psy Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Fire Patch",
+    "en": "X Fire Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Ice Patch",
+    "en": "X Ice Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Wind Patch",
+    "en": "X Wind Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Elec Patch",
+    "en": "X Elec Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Nuke Patch",
+    "en": "X Nuke Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Psy Patch",
+    "en": "X Psy Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Fire Ankh",
+    "en": "X Fire Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Ice Ankh",
+    "en": "X Ice Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Wind Ankh",
+    "en": "X Wind Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Elec Ankh",
+    "en": "X Elec Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Nuke Ankh",
+    "en": "X Nuke Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Psy Ankh",
+    "en": "X Psy Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Fire Bead",
+    "en": "X Fire Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Ice Bead",
+    "en": "X Ice Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Wind Bead",
+    "en": "X Wind Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Elec Bead",
+    "en": "X Elec Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Nuke Bead",
+    "en": "X Nuke Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Psy Bead",
+    "en": "X Psy Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Fire Orb",
+    "en": "X Fire Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Ice Orb",
+    "en": "X Ice Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Wind Orb",
+    "en": "X Wind Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Elec Orb",
+    "en": "X Elec Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Nuke Orb",
+    "en": "X Nuke Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "X Psy Orb",
+    "en": "X Psy Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gold Badge",
+    "en": "Gold Badge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Rich Badge",
+    "en": "Rich Badge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Wealth Badge",
+    "en": "Wealth Badge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Lavish Badge",
+    "en": "Lavish Badge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Smart Specs",
+    "en": "Smart Specs",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Genius Specs",
+    "en": "Genius Specs",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Prodigy Specs",
+    "en": "Prodigy Specs",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sage Specs",
+    "en": "Sage Specs",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Exorcism Idol",
+    "en": "Exorcism Idol",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Antidote Idol",
+    "en": "Antidote Idol",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Awaken Idol",
+    "en": "Awaken Idol",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Calm Idol",
+    "en": "Calm Idol",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Freedom Idol",
+    "en": "Freedom Idol",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Head Guard",
+    "en": "Head Guard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Arm Guard",
+    "en": "Arm Guard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Leg Guard",
+    "en": "Leg Guard",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Fireseal Pot",
+    "en": "Fireseal Pot",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Iceseal Pot",
+    "en": "Iceseal Pot",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Windseal Pot",
+    "en": "Windseal Pot",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Elecseal Pot",
+    "en": "Elecseal Pot",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Nukeseal Pot",
+    "en": "Nukeseal Pot",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Psyseal Pot",
+    "en": "Psyseal Pot",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Power Tasuki",
+    "en": "Power Tasuki",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Bat Charm",
+    "en": "Bat Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Defense Ankh",
+    "en": "Defense Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Flight Strap",
+    "en": "Flight Strap",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Silver Spoon",
+    "en": "Silver Spoon",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Surehit Scope",
+    "en": "Surehit Scope",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Free Ornament",
+    "en": "Free Ornament",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "World Badge",
+    "en": "World Badge",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unknown Ring",
+    "en": "Unknown Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unknown Bangle",
+    "en": "Unknown Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glowing Ring",
+    "en": "Glowing Ring",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glowing Bangle",
+    "en": "Glowing Bangle",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unknown Circlet",
+    "en": "Unknown Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unknown Pin",
+    "en": "Unknown Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glowing Circlet",
+    "en": "Glowing Circlet",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glowing Pin",
+    "en": "Glowing Pin",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glowing Trinket",
+    "en": "Glowing Trinket",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unknown Sash",
+    "en": "Unknown Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unknown Charm",
+    "en": "Unknown Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glowing Sash",
+    "en": "Glowing Sash",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glowing Charm",
+    "en": "Glowing Charm",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unknown Patch",
+    "en": "Unknown Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unknown Ankh",
+    "en": "Unknown Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glowing Patch",
+    "en": "Glowing Patch",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glowing Ankh",
+    "en": "Glowing Ankh",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Gleaming Trinket",
+    "en": "Gleaming Trinket",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unknown Bead",
+    "en": "Unknown Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Unknown Orb",
+    "en": "Unknown Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glowing Bead",
+    "en": "Glowing Bead",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Glowing Orb",
+    "en": "Glowing Orb",
+    "max": 21,
+    "fr": ""
+  },
+  {
+    "id": "Sacred Trinket",
+    "en": "Sacred Trinket",
+    "max": 21,
+    "fr": ""
+  }
+]

@@ -1,10 +1,5 @@
 [
   {
-    "id": "MSG_BTL_TUTORIAL_843_ENC",
-    "en": "Reserved",
-    "fr": ""
-  },
-  {
     "id": "MSG_BTL_TUTORIAL_843_101",
     "en": "\"Team Convert\"{SAUT}You have gained the ability to change your{SAUT}team in the middle of combat. Press the Y{SAUT}Button on the CONVERT screen to perform{SAUT}this action, known as a {f 0 1 2}Team Convert{f 0 1 0}.",
     "fr": ""
@@ -27,21 +22,6 @@
   {
     "id": "MSG_BTL_TUTORIAL_843_105",
     "en": "Go for All-out Attacks by swapping in{SAUT}teams that would be ideal for fighting the{SAUT}particular Shadows you're up against.",
-    "fr": ""
-  },
-  {
-    "id": "MSG_BTL_TUTORIAL_843_HP_",
-    "en": "Reserved",
-    "fr": ""
-  },
-  {
-    "id": "MSG_BTL_TUTORIAL_843_HP_#2",
-    "en": "Reserved",
-    "fr": ""
-  },
-  {
-    "id": "MSG_BTL_TUTORIAL_843_HP_#3",
-    "en": "Reserved",
     "fr": ""
   },
   {

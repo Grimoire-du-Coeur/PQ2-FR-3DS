@@ -1,14 +1,17 @@
-# Recalcule l'avancement après chaque fusion qui touche aux traductions, et
-# le publie sur la branche « suivi » : SUIVI.md, les badges et la carte
-# d'avancement que le README affiche.
+# Recalcule l'avancement et le publie sur la branche « suivi » : SUIVI.md,
+# les badges et la carte d'avancement que le README affiche.
 #
 # La branche main est protégée (Pull Request, relecture et vérifications
 # obligatoires) : aucun robot n'y écrit. La branche « suivi » est refaite de
 # zéro à chaque fois, en un seul commit, pour rester légère.
 #
-# Personne ne met ces fichiers à jour à la main : c'est la seule façon
-# qu'ils soient justes, et un chiffre faux sur la page d'accueil décourage
-# plus qu'il ne recrute.
+# Il tourne aussi quand une Pull Request s'ouvre, bouge ou se ferme : une
+# proposition ouverte doit apparaître en « en cours » TOUT DE SUITE, sinon
+# deux personnes prennent le même dossier dans la journée. Il utilise
+# `pull_request_target` (et non `pull_request`) parce qu'une proposition
+# venue d'un fork n'aurait qu'un jeton en lecture seule ; en contrepartie, ce
+# déclencheur s'exécute avec les droits du dépôt : on ne récupère donc JAMAIS
+# le code de la proposition — checkout explicite de main, et rien d'autre.
 name: Suivi
 
 on:
@@ -17,11 +20,17 @@ on:
     paths:
       - 'trad/**'
       - 'outils/stats.py'
+      - 'outils/memoire.py'
       - '.github/workflows/suivi.yml'
+  pull_request_target:
+    types: [opened, reopened, closed, synchronize, ready_for_review]
+  schedule:
+    - cron: '23 5 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+  pull-requests: read
 
 concurrency:
   group: suivi
@@ -32,10 +41,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: main   # jamais le code de la proposition, voir plus haut
+
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-      - run: python outils/stats.py --sortie build/suivi
+
+      - name: Relever les propositions
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh pr list --state open --json number,author,files,isDraft > /tmp/ouvertes.json || echo '[]' > /tmp/ouvertes.json
+          gh pr list --state merged --limit 500 --json number,author,files > /tmp/fusionnees.json || echo '[]' > /tmp/fusionnees.json
+
+      - run: python outils/stats.py --sortie build/suivi --ouvertes /tmp/ouvertes.json --fusionnees /tmp/fusionnees.json
+
       - name: Publier sur la branche suivi
         env:
           JETON: ${{ github.token }}

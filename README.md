@@ -35,6 +35,28 @@ communauté du **[Grimoire du Cœur](https://github.com/Grimoire-du-Coeur)**.
 
 <img src="assets/separateur.svg" width="100%" alt="">
 
+## Aperçu en jeu
+
+<table>
+  <tr>
+    <th width="50%">Version d'origine</th>
+    <th width="50%">Traduction française</th>
+  </tr>
+  <tr>
+    <td><img src="assets/captures/morgana-en.webp" alt="Morgana : « Geez, you're finally awake. Class has been over for a while now... »"></td>
+    <td><img src="assets/captures/morgana-fr.webp" alt="Morgana : « Pfiou, tu es enfin réveillé. Les cours sont finis depuis un moment... »"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/captures/choix-en.webp" alt="Choix : « I'm not in a theater anymore? » / « That butterfly... »"></td>
+    <td><img src="assets/captures/choix-fr.webp" alt="Choix : « Je ne suis plus dans un cinéma ? » / « Ce papillon... »"></td>
+  </tr>
+</table>
+
+<p align="center"><sub>La première scène du jeu, traduite par Tyron26 et capturée dans
+Azahar : accents, retours à la ligne et choix s'affichent dans la police d'origine.</sub></p>
+
+<img src="assets/separateur.svg" width="100%" alt="">
+
 ## Avancement
 
 <p align="center">
@@ -91,7 +113,7 @@ trad/          ← le texte à traduire, en JSON (c'est le seul dossier à modif
   donjons/       remarques du groupe dans les labyrinthes, quêtes
   combat/        dialogues de combat, messages de résultats
   systeme/       aides des objets et compétences, boutiques, camp, tutoriel
-  noms/          noms des personnages qui parlent (une seule traduction pour tout le jeu)
+  noms/          personnages, objets, lieux, compétences, Personas, ennemis
 outils/        ← extraire, valider, injecter, importer, suivi
 police/        ← accents de la police du jeu, largeur des caractères
 docs/          ← dictionnaire, feuille de route, notes techniques, guide pour jouer

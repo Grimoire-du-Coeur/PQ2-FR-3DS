@@ -1,10 +1,5 @@
 [
   {
-    "id": "item_500",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "item_504",
     "en": "A mysterious bead that emits a healing{SAUT}light. {f 0 1 4}Restore all HP{f 0 1 0}. (1 Ally)",
     "fr": ""

@@ -1,10 +1,5 @@
 [
   {
-    "id": "BTL_MES_002_000",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_002_001",
     "en": "Can't afford to lose here.",
     "fr": ""
@@ -52,11 +47,6 @@
   {
     "id": "BTL_MES_002_022",
     "en": "This... isn't good.",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_002_025",
-    "en": "Dummy",
     "fr": ""
   },
   {

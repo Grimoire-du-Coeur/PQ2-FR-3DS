@@ -1,0 +1,22 @@
+[
+  {
+    "id": "MSG_KANSI_FOE",
+    "en": "＞監視ロボFOEを発見するイベント{SAUT}　通行の邪魔なのでどかす方法を模索する。",
+    "fr": ""
+  },
+  {
+    "id": "MSG_GET_TRESURE_ITEM",
+    "en": "It looks like something's buried here...",
+    "fr": ""
+  },
+  {
+    "id": "BAG_FULL",
+    "en": "It looks like something's buried here,{SAUT}but my bag is full...{PAGE}I'll return when I have more space...",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SYS_SWITCH_ON",
+    "en": "I pressed the switch.",
+    "fr": ""
+  }
+]

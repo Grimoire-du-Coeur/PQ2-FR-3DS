@@ -1,10 +1,5 @@
 [
   {
-    "id": "NETWORK_DAMMY",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "NETWORK_TUTORIAL_TO_STAR",
     "en": "You are now ready to use StreetPass.{SAUT}Select {f 0 1 2}StreetPass Setting{f 0 1 0}.",
     "fr": ""

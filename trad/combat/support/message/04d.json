@@ -1,10 +1,5 @@
 [
   {
-    "id": "BTL_MES_026_000",
-    "en": "Dummy",
-    "fr": ""
-  },
-  {
     "id": "BTL_MES_026_001",
     "en": "This enemy looks rather formidable...",
     "fr": ""
@@ -482,11 +477,6 @@
   {
     "id": "BTL_MES_026_099",
     "en": "...Do you mean to say it's a perfect{SAUT}match for you, Yukiko?",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_100",
-    "en": "Dummy",
     "fr": ""
   },
   {
@@ -1057,11 +1047,6 @@
   {
     "id": "BTL_MES_026_221",
     "en": "Queen looks really hurt...",
-    "fr": ""
-  },
-  {
-    "id": "BTL_MES_026_222",
-    "en": "Dummy",
     "fr": ""
   },
   {

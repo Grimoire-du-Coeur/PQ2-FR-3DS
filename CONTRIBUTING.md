@@ -39,12 +39,20 @@ liste d'entrées, une par message :
 | `locuteur` | qui parle (sa traduction est dans `trad/noms/locuteurs.json`) | **non** |
 | `choix` | `true` si le message est un choix proposé au joueur | **non** |
 | `en` | le texte anglais du jeu, ta référence | **non** |
+| `max` | place du texte dans le jeu, en octets (noms d'objets et de lieux, menus du camp) | **non** |
 | `fr` | ta traduction ; vide = l'anglais reste en jeu | **oui** |
 | `a_revoir` | l'anglais a changé depuis ta traduction : relis, puis supprime ce champ | oui (le supprimer) |
 | `commentaire` | une note libre pour les relecteurs | oui |
 
 Un fichier **peut être traduit à moitié** : une entrée vide garde son
 anglais en jeu. Envoie ton travail par petits morceaux plutôt qu'en une fois.
+
+**Une réplique ne se traduit qu'une fois.** Le jeu répète beaucoup (« Arf! »
+138 fois, les choix « Yes / No »…) : au build, une entrée vide reprend la
+traduction d'un anglais **identique** déjà traduit ailleurs. Si une scène
+demande un autre français pour la même réplique, remplis simplement son
+`"fr"` : il garde la main. Les répliques traduites de plusieurs façons sont
+listées dans le suivi, section « À harmoniser ».
 
 ## 3. Les balises
 
@@ -101,6 +109,32 @@ anglaise du message**, et des `{SAUT}` pour couper.
   personnage arrive) : elles sont dans
   [`trad/histoire/txt/evt_introduction.json`](trad/histoire/txt/evt_introduction.json),
   pas dans la scène. Même texte que la scène, mais sur une seule page.
+- **Noms des objets et équipements** : une seule fois chacun, dans
+  [`trad/noms/objets.json`](trad/noms/objets.json), dans l'ordre du jeu
+  (armes, armures, accessoires, consommables, objets clés, matériaux…).
+  Le nom part dans les menus, les boutiques et les dialogues. Il doit tenir
+  dans sa case : **21 octets**, où une lettre accentuée compte pour deux
+  (« Médicament » = 11). Le validateur refuse un nom trop long. Garder les
+  séries cohérentes (« Red Ring / Red Bangle » → même couleur, même ordre),
+  et les termes du [Dictionnaire](docs/Dictionnaire.md).
+- **Compétences, Personas, ennemis** : dans
+  [`trad/noms/competences.json`](trad/noms/competences.json),
+  [`personas.json`](trad/noms/personas.json) et
+  [`ennemis.json`](trad/noms/ennemis.json). Pas de limite d'octets, mais la
+  place à l'écran n'est pas encore mesurée : rester proche de la longueur
+  anglaise. Les sorts (Agi, Bufu, Zio…) et les Personas gardent leur nom,
+  comme le dit le [Dictionnaire](docs/Dictionnaire.md) ; un fichier peut
+  donc contenir beaucoup de `"fr"` identiques à l'anglais, c'est normal.
+  Les compétences qui portent le nom d'un objet (« Rudra Ring ») n'y sont
+  pas : elles reprennent la traduction de `objets.json`.
+- **Boîtes système** (sauvegarde, carte SD, StreetPass, « Is this name
+  acceptable? », Oui/Non) : [`trad/systeme/executable.json`](trad/systeme/executable.json).
+  Elles vivent dans le code du jeu ; le français peut être plus long que
+  l'anglais, dans une limite d'ensemble (environ 30 % de plus pour toutes
+  les boîtes réunies) que le build vérifie.
+- **Lieux** (où l'on croise chaque ennemi : « 1st Ave.~ », « Kamoshida
+  Square ») : [`trad/noms/lieux.json`](trad/noms/lieux.json), **19 octets**
+  au plus. Garder le `~` final quand l'anglais en a un.
 
 ## 7. Envoyer sa traduction
 

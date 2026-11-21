@@ -1,0 +1,47 @@
+[
+  {
+    "id": "MSG_TUTORIAL_NUKEMICHI_1",
+    "en": "\"Shortcuts\"{SAUT}Learn {f 0 1 2}what shortcuts are{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_NUKEMICHI_2",
+    "en": "\"Shortcuts\"{SAUT}Learn how to {f 0 1 2}use shortcuts{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SC_TUTORIAL_0",
+    "en": "If you touch an icon and slide it{SAUT}{f 0 1 2}while the pencil tool is selected{f 0 1 0}...{PAGE}You can {f 0 1 2}place that icon on the map{f 0 1 0}.{PAGE}For example, shortcuts should be{SAUT}marked with their designated {f 0 1 2}icon{f 0 1 0}.{PAGE}The icon will {f 0 1 2}automatically display{f 0 1 0}{SAUT}the travel direction of the shortcut.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SC_TUTORIAL_1",
+    "en": "Any icons placed by mistake can be{SAUT}deleted by {f 0 1 2}dragging them to the trash can{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SC_TUTORIAL_2",
+    "en": "A mistake in drawing walls or floors{SAUT}is removed with the {f 0 1 2}UNDO button{f 0 1 0}.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_SC_TUTORIAL_3",
+    "en": "Your map has many other functions{SAUT}as well. Details can be found under {f 0 1 2}Help{f 0 1 0}{SAUT}at the map's bottom right.{SAUT}Don't forget to fill it in as you{SAUT}explore; you'll thank yourself later!",
+    "fr": ""
+  },
+  {
+    "id": "MSG_TUTORIAL_BASE_RECOVE",
+    "en": "\"Recovery Upon Returning\"{SAUT}Whenever you return to the theater,{SAUT}you'll {f 0 1 2}fully recover your HP and SP{f 0 1 0}.{SAUT}When your HP and SP get too low,{SAUT}play it safe and return to the theater.",
+    "fr": ""
+  },
+  {
+    "id": "MSG_GET_TRESURE_ITEM",
+    "en": "It looks like something's buried here...",
+    "fr": ""
+  },
+  {
+    "id": "BAG_FULL",
+    "en": "It looks like something's buried here,{SAUT}but my bag is full...{PAGE}I'll return when I have more space...",
+    "fr": ""
+  }
+]

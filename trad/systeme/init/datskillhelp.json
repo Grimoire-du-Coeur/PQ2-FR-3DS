@@ -1,10 +1,5 @@
 [
   {
-    "id": "skill_000",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_001",
     "en": "Phys attack with equipped weapon.",
     "fr": ""
@@ -310,11 +305,6 @@
     "fr": ""
   },
   {
-    "id": "skill_080",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_081",
     "en": "Light Phys attack. {f 0 1 2}Lower{SAUT}attack{f 0 1 0} for 3 turns. (1 Enemy)",
     "fr": ""
@@ -525,11 +515,6 @@
     "fr": ""
   },
   {
-    "id": "skill_0AD",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
     "id": "skill_0AE",
     "en": "Medium Phys attack. {f 0 1 4}If unhurt during{SAUT}turn, extra attack activates{f 0 1 0}. (1 Enemy)",
     "fr": ""
@@ -582,21 +567,6 @@
   {
     "id": "skill_0B8",
     "en": "Medium Phys attack, with {f 0 1 2}slight chance{SAUT}of Instant Kill{f 0 1 0}. (1 Enemy)",
-    "fr": ""
-  },
-  {
-    "id": "skill_0B9",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_0BA",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_0BB",
-    "en": "Unused",
     "fr": ""
   },
   {
@@ -687,11 +657,6 @@
   {
     "id": "skill_0CD",
     "en": "Heavy Phys attack, with {f 0 1 2}medium chance{SAUT}of Hex{f 0 1 0}. (1 Enemy)",
-    "fr": ""
-  },
-  {
-    "id": "skill_0D0",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -787,11 +752,6 @@
   {
     "id": "skill_0E3",
     "en": "{f 0 1 4}Full HP restore. Remove all{SAUT}ailments and Binds{f 0 1 0}. (1 Ally)",
-    "fr": ""
-  },
-  {
-    "id": "skill_0E5",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -905,51 +865,6 @@
     "fr": ""
   },
   {
-    "id": "skill_0FC",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
-    "id": "skill_0FD",
-    "en": "BLANK",
-    "fr": ""
-  },
-  {
-    "id": "skill_0FE",
-    "en": "BLANK",
-    "fr": ""
-  },
-  {
-    "id": "skill_0FF",
-    "en": "BLANK",
-    "fr": ""
-  },
-  {
-    "id": "skill_100",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
-    "id": "skill_101",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_102",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_103",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_104",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
     "id": "skill_105",
     "en": "{f 0 1 2}Lower attack{f 0 1 0} for 3 turns.{SAUT}(All Enemies)",
     "fr": ""
@@ -962,11 +877,6 @@
   {
     "id": "skill_107",
     "en": "{f 0 1 2}Lower accuracy and evasion{f 0 1 0} for 3 turns.{SAUT}(All Enemies)",
-    "fr": ""
-  },
-  {
-    "id": "skill_108",
-    "en": "Unused",
     "fr": ""
   },
   {
@@ -987,11 +897,6 @@
   {
     "id": "skill_10D",
     "en": "High chance of {f 0 1 2}Magic/Strength/{SAUT}Agility Bind{f 0 1 0}. (1 Enemy)",
-    "fr": ""
-  },
-  {
-    "id": "skill_110",
-    "en": "NOT USED",
     "fr": ""
   },
   {
@@ -1195,23 +1100,8 @@
     "fr": ""
   },
   {
-    "id": "skill_141",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_142",
     "en": "[Navi: Battle] Flee from battle and{SAUT}teleport to floor entrance. (Party)",
-    "fr": ""
-  },
-  {
-    "id": "skill_143",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
-    "id": "skill_144",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -1245,11 +1135,6 @@
     "fr": ""
   },
   {
-    "id": "skill_14E",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_14F",
     "en": "[Navi: Battle] {f 0 1 4}Slightly restore HP{f 0 1 0}.{SAUT}(Party)",
     "fr": ""
@@ -1272,11 +1157,6 @@
   {
     "id": "skill_153",
     "en": "[Navi: Battle] {f 0 1 4}Revive and restore half HP{f 0 1 0}.{SAUT}(1 Ally)",
-    "fr": ""
-  },
-  {
-    "id": "skill_154",
-    "en": "Unused",
     "fr": ""
   },
   {
@@ -1485,18 +1365,8 @@
     "fr": ""
   },
   {
-    "id": "skill_180",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_181",
     "en": "Medium chance of {f 0 1 2}Paralysis{f 0 1 0} each turn{SAUT}for 3 turns. (All Enemies)",
-    "fr": ""
-  },
-  {
-    "id": "skill_182",
-    "en": "Lasting Paralysis{SAUT}Skill help text not used.",
     "fr": ""
   },
   {
@@ -1505,18 +1375,8 @@
     "fr": ""
   },
   {
-    "id": "skill_184",
-    "en": "Lasting Sleep{SAUT}Skill help text not used.",
-    "fr": ""
-  },
-  {
     "id": "skill_185",
     "en": "Medium chance of {f 0 1 2}Poison{f 0 1 0} each turn{SAUT}for 3 turns. (All Enemies)",
-    "fr": ""
-  },
-  {
-    "id": "skill_186",
-    "en": "Lasting Poison{SAUT}Skill help text not used.",
     "fr": ""
   },
   {
@@ -1525,18 +1385,8 @@
     "fr": ""
   },
   {
-    "id": "skill_188",
-    "en": "Lasting Confusion{SAUT}Skill help text not used.",
-    "fr": ""
-  },
-  {
     "id": "skill_189",
     "en": "Medium chance of {f 0 1 2}Magic Bind{f 0 1 0} each{SAUT}turn for 3 turns. (All Enemies)",
-    "fr": ""
-  },
-  {
-    "id": "skill_18A",
-    "en": "Lasting Magic Bind{SAUT}Skill help text not used.",
     "fr": ""
   },
   {
@@ -1545,18 +1395,8 @@
     "fr": ""
   },
   {
-    "id": "skill_18C",
-    "en": "Lasting Strength Bind{SAUT}Skill help text not used.",
-    "fr": ""
-  },
-  {
     "id": "skill_18D",
     "en": "Medium chance of {f 0 1 2}Agility Bind{f 0 1 0} each{SAUT}turn for 3 turns. (All Enemies)",
-    "fr": ""
-  },
-  {
-    "id": "skill_18E",
-    "en": "Lasting Agility Bind{SAUT}Skill help text not used.",
     "fr": ""
   },
   {
@@ -1600,18 +1440,8 @@
     "fr": ""
   },
   {
-    "id": "skill_197",
-    "en": "Recovery Prayer{SAUT}Skill help text not used.",
-    "fr": ""
-  },
-  {
     "id": "skill_198",
     "en": "{f 0 1 4}Remove Binds{f 0 1 0} at the end of the{SAUT}turn for 3 turns. (User's Row)",
-    "fr": ""
-  },
-  {
-    "id": "skill_199",
-    "en": "Freedom Prayer{SAUT}Skill help text not used.",
     "fr": ""
   },
   {
@@ -1620,33 +1450,13 @@
     "fr": ""
   },
   {
-    "id": "skill_19B",
-    "en": "Cure Prayer{SAUT}Skill help text not used.",
-    "fr": ""
-  },
-  {
-    "id": "skill_19C",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_19D",
     "en": "{f 0 1 2}Counter{f 0 1 0} whenever user's row is{SAUT}attacked for 3 turns. (Self)",
     "fr": ""
   },
   {
-    "id": "skill_19E",
-    "en": "Counter{SAUT}Skill help text not used.",
-    "fr": ""
-  },
-  {
     "id": "skill_19F",
     "en": "May {f 0 1 2}follow-up{f 0 1 0} user's row's{SAUT}attacks for 3 turns. (Self)",
-    "fr": ""
-  },
-  {
-    "id": "skill_1A0",
-    "en": "Follow Up{SAUT}Skill help text not used.",
     "fr": ""
   },
   {
@@ -1660,23 +1470,8 @@
     "fr": ""
   },
   {
-    "id": "skill_1A3",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
-    "id": "skill_1A4",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_1A5",
     "en": "HP restore. (Party){SAUT}[Only usable during Blessings]",
-    "fr": ""
-  },
-  {
-    "id": "skill_1A6",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -1685,18 +1480,8 @@
     "fr": ""
   },
   {
-    "id": "skill_1A8",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_1A9",
     "en": "Light Fire attack. {f 0 1 2}Further allied attacks{SAUT}gain Link damage{f 0 1 0}. (1 Enemy)",
-    "fr": ""
-  },
-  {
-    "id": "skill_1AA",
-    "en": "Link Flame{SAUT}Skill help text not used.",
     "fr": ""
   },
   {
@@ -1705,28 +1490,13 @@
     "fr": ""
   },
   {
-    "id": "skill_1AC",
-    "en": "Link Freeze{SAUT}Skill help text not used.",
-    "fr": ""
-  },
-  {
     "id": "skill_1AD",
     "en": "Light Elec attack. {f 0 1 2}Further allied attacks{SAUT}gain Link damage{f 0 1 0}. (1 Enemy)",
     "fr": ""
   },
   {
-    "id": "skill_1AE",
-    "en": "Link Thunder{SAUT}Skill help text not used.",
-    "fr": ""
-  },
-  {
     "id": "skill_1AF",
     "en": "Light Wind attack. {f 0 1 2}Further allied attacks{SAUT}gain Link damage{f 0 1 0}. (1 Enemy)",
-    "fr": ""
-  },
-  {
-    "id": "skill_1B0",
-    "en": "Link Wind{SAUT}Skill help text not used.",
     "fr": ""
   },
   {
@@ -1747,11 +1517,6 @@
   {
     "id": "skill_1B6",
     "en": "Light Nuke attack. {f 0 1 2}Further allied{SAUT}attacks gain Link damage{f 0 1 0}. (1 Enemy)",
-    "fr": ""
-  },
-  {
-    "id": "skill_1D0",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -1987,16 +1752,6 @@
   {
     "id": "skill_1FF",
     "en": "{f 0 1 4}Slightly raise restorative power{f 0 1 0}{SAUT}of HP healing skills. (Auto)",
-    "fr": ""
-  },
-  {
-    "id": "skill_200",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_201",
-    "en": "Unused",
     "fr": ""
   },
   {
@@ -2465,11 +2220,6 @@
     "fr": ""
   },
   {
-    "id": "skill_260",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_261",
     "en": "An Almighty attack. (1 Row)",
     "fr": ""
@@ -2567,11 +2317,6 @@
   {
     "id": "skill_274",
     "en": "An Almighty attack. (All Enemies)",
-    "fr": ""
-  },
-  {
-    "id": "skill_280",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -2680,31 +2425,6 @@
     "fr": ""
   },
   {
-    "id": "skill_2C5",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
-    "id": "skill_2C6",
-    "en": "BLANK",
-    "fr": ""
-  },
-  {
-    "id": "skill_2C7",
-    "en": "BLANK",
-    "fr": ""
-  },
-  {
-    "id": "skill_2C8",
-    "en": "BLANK",
-    "fr": ""
-  },
-  {
-    "id": "skill_2C9",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_2CA",
     "en": "Slightly raise chance of inflicting{SAUT}ailments and Binds.",
     "fr": ""
@@ -2737,11 +2457,6 @@
   {
     "id": "skill_2D0",
     "en": "Perform a heavy Phys attack whenever{SAUT}a Bind is inflicted on an enemy.",
-    "fr": ""
-  },
-  {
-    "id": "skill_2D1",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -2850,11 +2565,6 @@
     "fr": ""
   },
   {
-    "id": "skill_2F0",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_2F1",
     "en": "Attack skills targeting enemies{SAUT}activate twice for 3 turns. (Self)",
     "fr": ""
@@ -2897,11 +2607,6 @@
   {
     "id": "skill_2FC",
     "en": "High chance of decreasing Phys{SAUT}damage to the user's row. (Auto)",
-    "fr": ""
-  },
-  {
-    "id": "skill_300",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -3360,11 +3065,6 @@
     "fr": ""
   },
   {
-    "id": "skill_380",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_381",
     "en": "Light Phys attack. {f 0 1 2}Lower{SAUT}attack{f 0 1 0} for 3 turns. (1 Enemy)",
     "fr": ""
@@ -3555,16 +3255,6 @@
     "fr": ""
   },
   {
-    "id": "skill_3A7",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_3A8",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
     "id": "skill_3A9",
     "en": "Medium Phys attack, with {f 0 1 2}medium chance{SAUT}of Poison{f 0 1 0}. (1 Enemy)",
     "fr": ""
@@ -3725,11 +3415,6 @@
     "fr": ""
   },
   {
-    "id": "skill_3D0",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_3D1",
     "en": "{f 0 1 4}Slight HP restore{f 0 1 0}. (1 Ally)",
     "fr": ""
@@ -3817,16 +3502,6 @@
   {
     "id": "skill_3E2",
     "en": "{f 0 1 4}Remove Binds{f 0 1 0}. (Party)",
-    "fr": ""
-  },
-  {
-    "id": "skill_3E3",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
-    "id": "skill_3E4",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -4285,11 +3960,6 @@
     "fr": ""
   },
   {
-    "id": "skill_4A0",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_4A1",
     "en": "Summon Card Soldiers and step back.",
     "fr": ""
@@ -4345,71 +4015,6 @@
     "fr": ""
   },
   {
-    "id": "skill_4AD",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
-    "id": "skill_4AE",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
-    "id": "skill_4AF",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_4B0",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_4B1",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_4B2",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_4B4",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_4B5",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_4B6",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_4B7",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_4B8",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_4BA",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
-    "id": "skill_4BC",
-    "en": "Unused",
-    "fr": ""
-  },
-  {
     "id": "skill_4BE",
     "en": "Magic/Strength/Agility Bind all targets.",
     "fr": ""
@@ -4427,11 +4032,6 @@
   {
     "id": "skill_4C4",
     "en": "2 medium Phys attacks to{SAUT}random targets. (All Enemies)",
-    "fr": ""
-  },
-  {
-    "id": "skill_4C5",
-    "en": "Unused",
     "fr": ""
   },
   {
@@ -4552,16 +4152,6 @@
   {
     "id": "skill_4F2",
     "en": "Light Wind attack. {f 0 1 2}Further allied attacks{SAUT}gain Link damage{f 0 1 0}. (1 Enemy)",
-    "fr": ""
-  },
-  {
-    "id": "skill_4F3",
-    "en": "NOT USED",
-    "fr": ""
-  },
-  {
-    "id": "skill_500",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -4725,26 +4315,6 @@
     "fr": ""
   },
   {
-    "id": "skill_570",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
-    "id": "skill_571",
-    "en": "BLANK",
-    "fr": ""
-  },
-  {
-    "id": "skill_572",
-    "en": "BLANK",
-    "fr": ""
-  },
-  {
-    "id": "skill_573",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_574",
     "en": "Light Nuke attack. (1 Enemy)",
     "fr": ""
@@ -4775,11 +4345,6 @@
     "fr": ""
   },
   {
-    "id": "skill_57A",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_57B",
     "en": "Severe Nuke attack. (1 Enemy)",
     "fr": ""
@@ -4787,11 +4352,6 @@
   {
     "id": "skill_57C",
     "en": "Severe Nuke attack. (All Enemies)",
-    "fr": ""
-  },
-  {
-    "id": "skill_57D",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -4825,11 +4385,6 @@
     "fr": ""
   },
   {
-    "id": "skill_584",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_585",
     "en": "Severe Psy attack. (1 Enemy)",
     "fr": ""
@@ -4852,11 +4407,6 @@
   {
     "id": "skill_589",
     "en": "Heavy Phys attacks. (All Enemies){SAUT}{f 0 1 3}Stronger in Boost{f 0 1 0}",
-    "fr": ""
-  },
-  {
-    "id": "skill_58A",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -4885,28 +4435,8 @@
     "fr": ""
   },
   {
-    "id": "skill_590",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_591",
     "en": "Heavy Phys attacks to random targets,{SAUT}{f 0 1 4}stronger for each hit taken{f 0 1 0}. (All Enemies)",
-    "fr": ""
-  },
-  {
-    "id": "skill_592",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
-    "id": "skill_593",
-    "en": "BLANK",
-    "fr": ""
-  },
-  {
-    "id": "skill_594",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -4935,18 +4465,8 @@
     "fr": ""
   },
   {
-    "id": "skill_59A",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_59B",
     "en": "May {f 0 1 2}follow-up{f 0 1 0} user's row's{SAUT}attacks for 3 turns. (Self)",
-    "fr": ""
-  },
-  {
-    "id": "skill_59C",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -4960,11 +4480,6 @@
     "fr": ""
   },
   {
-    "id": "skill_59F",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_5A0",
     "en": "Medium chance of {f 0 1 2}Magic/Strength/{SAUT}Agility Bind{f 0 1 0}. (1 Enemy)",
     "fr": ""
@@ -4972,11 +4487,6 @@
   {
     "id": "skill_5A1",
     "en": "{f 0 1 2}Counter{f 0 1 0} whenever user's row is{SAUT}attacked for 3 turns. (Self)",
-    "fr": ""
-  },
-  {
-    "id": "skill_5A2",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -4990,18 +4500,8 @@
     "fr": ""
   },
   {
-    "id": "skill_5A5",
-    "en": "Blank",
-    "fr": ""
-  },
-  {
     "id": "skill_5A6",
     "en": "{f 0 1 2}Powerful counter{f 0 1 0} whenever user's{SAUT}row is attacked for 3 turns. (Self)",
-    "fr": ""
-  },
-  {
-    "id": "skill_5A7",
-    "en": "Blank",
     "fr": ""
   },
   {
@@ -5032,11 +4532,6 @@
   {
     "id": "skill_5AD",
     "en": "Medium Phys damage. {f 0 1 2}Low accuracy,{SAUT}but high critical rate{f 0 1 0}. (1 Enemy)",
-    "fr": ""
-  },
-  {
-    "id": "skill_5AE",
-    "en": "Blank",
     "fr": ""
   },
   {

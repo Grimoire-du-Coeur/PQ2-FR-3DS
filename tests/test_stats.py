@@ -66,3 +66,38 @@ def test_carte_svg(tmp_path):
     for nom in ("Histoire", "Donjons", "Combat", "Système", "Noms"):
         assert nom in svg
     assert "prefers-reduced-motion" in svg
+
+
+def test_propagation_comptee(tmp_path):
+    trad = tmp_path / "trad"
+    commun.ecrire_json(trad / "histoire/e100/a.json", [{"id": "1", "en": "Arf!", "fr": "Ouaf !"}])
+    commun.ecrire_json(trad / "donjons/b.json", [{"id": "2", "en": "Arf!", "fr": ""},
+                                                 {"id": "3", "en": "Huh?", "fr": ""}])
+    c = stats.compter(trad)
+    assert c.categories["donjons"] == [1, 2]       # « Arf! » est couvert par propagation
+    assert c.propages == 1
+    assert "dont 1 par propagation" in stats.bloc(c)
+
+
+def test_divergences_dans_le_suivi(tmp_path):
+    trad = tmp_path / "trad"
+    commun.ecrire_json(trad / "histoire/a.json", [{"id": "1", "en": "Huh?", "fr": "Hein ?"},
+                                                  {"id": "2", "en": "Huh?", "fr": "Quoi ?"}])
+    suivi = stats.suivi(stats.compter(trad))
+    assert "## À harmoniser" in suivi and "Hein ?" in suivi and "Quoi ?" in suivi
+
+
+def test_qui_fait_quoi(tmp_path):
+    c = stats.compter(_trad(tmp_path))
+    ouvertes = [{"number": 7, "author": {"login": "chenetulipe"}, "isDraft": False,
+                 "files": [{"path": "trad/histoire/e000/a.json"}, {"path": "README.md"}]}]
+    fusionnees = [{"number": 3, "author": {"login": "tyron2611"},
+                   "files": [{"path": "trad/histoire/e000/a.json"}]},
+                  {"number": 4, "author": {"login": "CodeByHaamza"},
+                   "files": [{"path": "outils/stats.py"}]}]
+    stats.ajouter_activite(c, ouvertes, fusionnees)
+    assert c.en_cours["histoire/e000"] == [("chenetulipe", 7)]
+    assert c.contributeurs["histoire/e000"] == ["tyron2611"]
+    suivi = stats.suivi(c)
+    assert "@chenetulipe ([#7](" in suivi and "@tyron2611" in suivi
+    assert "CodeByHaamza" not in suivi            # une PR d'outillage ne crédite pas un dossier
