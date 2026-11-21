@@ -31,13 +31,15 @@ import sys
 from pathlib import Path
 
 import commun
+import ctd
+import executable
 import msg1
 import noms
 import tables
 import texte
 from catalogue import Script, identifiants, lire_fichiers, lire_scripts
 from msg1 import AUCUN_LOCUTEUR
-from rom3ds import ErreurImage
+from rom3ds import ErreurImage, PasDeCode, lire_code
 
 LOCUTEURS = "noms/locuteurs.json"
 ORPHELINS = "_orphelins.json"
@@ -91,11 +93,14 @@ def _fusionner(rel: str, e: dict, anciennes: dict, revoir: list[str]) -> dict:
     return e
 
 
-def construire(scripts: list[Script], anciennes: dict, listes: dict[str, list[str]] | None = None
+def construire(scripts: list[Script], anciennes: dict, listes: dict[str, list[str]] | None = None,
+               tableaux: dict[str, list[dict]] | None = None
                ) -> tuple[dict[str, list[dict]], list[dict], list[str]]:
     """(fichiers de trad/, orphelins, entrées à revoir).
 
-    ``listes`` : fichier de trad/noms/ → noms à traduire (noms.py, tables.py).
+    ``listes`` : fichier de trad/noms/ → noms à traduire (noms.py, tables.py) ;
+    ``tableaux`` : fichier de trad/ → entrées toutes faites (id, en, max) des
+    tables .ctd (ctd.py).
     """
     fichiers: dict[str, list[dict]] = {}
     origine: dict[str, str] = {}
@@ -124,6 +129,8 @@ def construire(scripts: list[Script], anciennes: dict, listes: dict[str, list[st
         place = {"max": maxima[rel]} if rel in maxima else {}
         fichiers[rel] = [_fusionner(rel, {"id": n, "en": n, **place, "fr": ""}, anciennes, revoir)
                          for n in liste]
+    for rel, entrees in (tableaux or {}).items():
+        fichiers[rel] = [_fusionner(rel, {**e, "fr": ""}, anciennes, revoir) for e in entrees]
 
     presents = {(rel, e["id"]) for rel, entrees in fichiers.items() for e in entrees}
     orphelins = [{"fichier": rel, **e} for (rel, ident), e in sorted(anciennes.items())
@@ -179,7 +186,7 @@ def main() -> int:
     args = parser.parse_args()
     try:
         scripts = lire_scripts(args.image)
-        chemins = [t.chemin for t in noms.TABLES_FIXES] + list(tables.TABLES)
+        chemins = [t.chemin for t in noms.TABLES_FIXES] + list(tables.TABLES) + [ctd.CONTENEUR]
         bruts = lire_fichiers(args.image, chemins)
         manquants = [c for c in chemins if c not in bruts]
         if manquants:
@@ -189,12 +196,22 @@ def main() -> int:
         listes |= {rel: tables.noms_a_traduire(bruts[chemin],
                                                exclus=objets if chemin == tables.COMPETENCES else set())
                    for chemin, rel in tables.TABLES.items()}
-    except (ErreurImage, noms.ErreurNom, tables.ErreurTable) as e:
+        tableaux = ctd.entrees(bruts[ctd.CONTENEUR])
+        try:
+            tableaux[executable.TRAD] = executable.entrees(lire_code(args.image))
+        except PasDeCode:
+            # data.cpk seul : le code n'y est pas ; on garde les entrées connues.
+            p = args.trad / executable.TRAD
+            if p.exists():
+                tableaux[executable.TRAD] = [{"id": e["id"], "en": e["en"]} for e in commun.lire_json(p)]
+            print("Note : sans l'image complète, les textes de l'exécutable ne sont pas relus.",
+                  file=sys.stderr)
+    except (ErreurImage, noms.ErreurNom, tables.ErreurTable, executable.ErreurExecutable) as e:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
 
     anciennes = commun.charger_traductions(args.trad)
-    fichiers, orphelins, revoir = construire(scripts, anciennes, listes)
+    fichiers, orphelins, revoir = construire(scripts, anciennes, listes, tableaux)
     fichier_orphelins = args.trad / ORPHELINS
     if fichier_orphelins.exists():
         deja = commun.lire_json(fichier_orphelins)

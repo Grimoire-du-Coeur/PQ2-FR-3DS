@@ -93,8 +93,24 @@ sans être dans la liste. Les scripts restés en japonais
 (`battle/result/persona_get.bin`, `attraction/sch_walk.gsd`) n'y sont pas,
 pas plus que les `.pac` et `.tpc` (portraits, modèles 3D, scènes).
 
-`init/cmptable.bin` porte aussi 37 tables `.ctd` (aides des menus du camp,
-en cases de 64 octets) : pas encore extraites.
+## Les tables .ctd des menus du camp
+
+`init/cmptable.bin` porte aussi 37 tables `.ctd` (`outils/ctd.py`). En-tête
+de 16 octets (u32 taille des données, u32 nombre de cases, 8 zéros), les
+cases, puis une copie de l'en-tête, parfois tronquée. 18 tables sont du
+texte en cases de 64 octets (un texte terminé par un zéro, complété de
+zéros) ; les autres sont des nombres. Seules les cases de texte sont
+réécrites, à leur place : la table garde sa taille, un texte tient 63
+octets. Trois tables figurent deux fois à l'identique (`cmpSkillHelp`…) :
+les deux copies sont réécrites.
+
+16 tables, 94 textes, dans `systeme/init/cmptable/<table>.json` (id = numéro
+de case) : options, aides et libellés des menus du camp, catégories
+d'objets, difficultés. Ne sont pas extraits : les restes japonais
+(`cmpDifficultHelp`, « SAFTYのヘルプ ») et « Not used. (If this appears, it
+is a bug. ». La description de chaque difficulté (« "SAFETY" is for players
+who just want to enjoy the story… ») est un message du script voisin :
+`systeme/init/cmptable/camp_msg.json`, entrées `system_camp_difficult_*`.
 
 ## Les noms à cases fixes : objets et lieux
 
@@ -189,9 +205,33 @@ Pistes écartées : les octets simples `A1`–`DF` s'affichent tous « û », et
 table Shift-JIS → Unicode de l'exécutable (à `0x4934A0` du `code.bin`
 décompressé) ne commande pas le rendu du texte.
 
+## L'exécutable
+
+Le code du jeu est le fichier « .code » de l'ExeFS, compressé en BLZ (un LZ
+qui se lit à rebours, `outils/blz.py`) ; `rom3ds.lire_code` le sort de
+l'image et le décompresse (5 091 328 octets, chargés à `0x100000`).
+
+Les boîtes système vues par le joueur (sauvegarde et chargement, carte SD,
+StreetPass, saisie du nom, Oui/Non) sont 113 messages du segment `.data`,
+collés les uns aux autres de `0x48BE14` à `0x48DCB5`, sans un octet libre.
+Juste après, à `0x48DCB8`, une table de 113 entrées de 8 octets les désigne :
+pointeur absolu, puis deux u16 (type de boîte, choix par défaut). Chaque
+message a la forme d'une page de script (`f2 05 ff ff f1 41`, texte, `0a`).
+Tous les autres textes anglais du code sont des messages d'erreur des
+bibliothèques CRI, jamais affichés.
+
+`outils/executable.py` sort ces messages dans `systeme/executable.json` (id =
+numéro dans la table). Pour la traduction, tout le bloc est réécrit à la
+suite et la table pointe sur les nouvelles places ; si le français déborde,
+la suite part dans les marges libres des segments `rodata` (520 octets) puis
+`text` (1 920 octets), des fins de page jamais utilisées. La place totale est
+de 10 281 octets pour 7 841 en anglais. Le build en tire un patch IPS du code
+décompressé, `code.ips`, écrit à la racine du dossier du titre : Azahar le
+lit dans `load/mods/<title ID>/code.ips`, Luma3DS dans
+`/luma/titles/<title ID>/code.ips`.
+
 ## Ce qui n'est pas encore extrait
 
-Voir la [feuille de route](FEUILLE_DE_ROUTE.md) : textes de l'exécutable,
-saisie du nom et difficultés (`.bin`), noms des étages, textures `.ctpk`.
-Les `.mbm` (MSG2) sont tous en japonais : la version européenne ne les
-affiche pas.
+Voir la [feuille de route](FEUILLE_DE_ROUTE.md) : noms des étages sur la
+carte, textures `.ctpk`. Les `.mbm` (MSG2) sont tous en japonais : la version
+européenne ne les affiche pas.

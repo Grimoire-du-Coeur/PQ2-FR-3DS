@@ -3,9 +3,10 @@
 import struct
 
 import aller_retour
+import executable
 import msg1
 import noms
-from fabrique import (fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_itemtbl, fabriquer_msg1,
+from fabrique import (fabriquer_3ds, fabriquer_bf, fabriquer_code, fabriquer_cpk, fabriquer_ctd, fabriquer_itemtbl, fabriquer_msg1,
                       fabriquer_pak, fabriquer_table_noms)
 
 MSG = fabriquer_msg1()
@@ -92,3 +93,21 @@ def test_archive_en_japonais_ignoree(tmp_path):
     bilan = aller_retour.verifier(_image(tmp_path, {
         "battle/result/persona_get.bin": fabriquer_pak([("persona_get.bmd", japonais)])}))
     assert bilan.echecs == []
+
+
+def test_tables_ctd(tmp_path):
+    cmptable = fabriquer_pak([("camp_msg.bmd", MSG), ("cmpConfigItem.ctd", fabriquer_ctd(["Confirm", "BGM Volume"])),
+                              ("cmpTypeID_ITEM.ctd", fabriquer_ctd(nombres=bytes(16)))])
+    bilan = aller_retour.verifier(_image(tmp_path, {"init/cmptable.bin": cmptable}))
+    assert bilan.textes_ctd == 2 and bilan.echecs == []
+
+
+def test_messages_de_l_executable(tmp_path, monkeypatch):
+    code, d = fabriquer_code([b"\xf2\x05\xff\xff\xf1ASave data?\n", b"\xf2\x05\xff\xff\xf1AYes\nNo\n"])
+    monkeypatch.setattr(executable, "EU", d)
+    image = tmp_path / "jeu.3ds"
+    image.write_bytes(fabriquer_3ds(fabriquer_cpk({"init/aide.bmd": MSG}), code=code))
+    bilan = aller_retour.verifier(image)
+    assert bilan.textes_code == 2 and bilan.echecs == []
+    image.write_bytes(fabriquer_3ds(fabriquer_cpk({"init/aide.bmd": MSG}), code=code + b"\0"))
+    assert [c for c, _ in aller_retour.verifier(image).echecs] == ["exefs/.code"]

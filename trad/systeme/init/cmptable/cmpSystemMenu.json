@@ -1,0 +1,44 @@
+[
+  {
+    "id": "00",
+    "en": "Enepedia",
+    "max": 63,
+    "fr": ""
+  },
+  {
+    "id": "01",
+    "en": "Unison Skills",
+    "max": 63,
+    "fr": ""
+  },
+  {
+    "id": "02",
+    "en": "Config",
+    "max": 63,
+    "fr": ""
+  },
+  {
+    "id": "03",
+    "en": "Load Data",
+    "max": 63,
+    "fr": ""
+  },
+  {
+    "id": "04",
+    "en": "Tutorial",
+    "max": 63,
+    "fr": ""
+  },
+  {
+    "id": "05",
+    "en": "Battle BGM",
+    "max": 63,
+    "fr": ""
+  },
+  {
+    "id": "06",
+    "en": "Return to Title",
+    "max": 63,
+    "fr": ""
+  }
+]

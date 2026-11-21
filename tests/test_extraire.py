@@ -142,3 +142,12 @@ def test_noms_des_tables_de_combat(tmp_path):
                                          listes={"noms/personas.json": ["Pixie", "Jack Frost"]})
     assert fichiers["noms/personas.json"] == [{"id": "Pixie", "en": "Pixie", "fr": "Pixie"},
                                               {"id": "Jack Frost", "en": "Jack Frost", "fr": ""}]
+
+
+def test_tables_ctd(tmp_path):
+    rel = "systeme/init/cmptable/cmpConfigItem.json"
+    anciennes = {(rel, "00"): {"id": "00", "en": "Confirm", "max": 63, "fr": "Valider"}}
+    fichiers, _, _ = extraire.construire(_scripts(tmp_path), anciennes, tableaux={rel: [
+        {"id": "00", "en": "Confirm", "max": 63}, {"id": "01", "en": "BGM Volume", "max": 63}]})
+    assert fichiers[rel] == [{"id": "00", "en": "Confirm", "max": 63, "fr": "Valider"},
+                             {"id": "01", "en": "BGM Volume", "max": 63, "fr": ""}]
