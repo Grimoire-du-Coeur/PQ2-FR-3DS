@@ -2,51 +2,51 @@
   {
     "id": "MSG_000",
     "en": "M-Mph...",
-    "fr": ""
+    "fr": "M-Mph..."
   },
   {
     "id": "MSG_001",
     "en": "Oww...",
-    "fr": ""
+    "fr": "Aïe..."
   },
   {
     "id": "MSG_002",
     "en": "Is everyone all right?",
-    "fr": ""
+    "fr": "Tout le monde va bien ?"
   },
   {
     "id": "MSG_003",
     "en": "I thought we were gonna die...{SAUT}Joker, you alive too?",
-    "fr": ""
+    "fr": "Je croyais qu'on allait mourir...{SAUT}Joker, t'es en vie toi aussi ?"
   },
   {
     "id": "MSG_004",
     "en": "Wait, what is this place!?",
-    "fr": ""
+    "fr": "Attendez, c'est quoi cet endroit !?"
   },
   {
     "id": "MSG_005",
     "en": "Huh? A city?",
-    "fr": ""
+    "fr": "Hein ? Une ville ?"
   },
   {
     "id": "MSG_006",
     "en": "Was there ever a place like this{SAUT}within Mementos?",
-    "fr": ""
+    "fr": "Un tel lieu a-t-il jamais existé{SAUT}au sein du Mementos ?"
   },
   {
     "id": "MSG_007",
     "en": "Maybe we rammed straight through{SAUT}the wall in Mementos?",
-    "fr": ""
+    "fr": "Vous pensez qu'on a foncé{SAUT}à travers un mur du Mementos ?"
   },
   {
     "id": "MSG_008",
     "en": "We're still in phantom thief attire,{SAUT}so we know it's not the real world...",
-    "fr": ""
+    "fr": "Nous avons encore nos tenues de Voleurs Fantômes,{SAUT}nous ne sommes donc pas dans le monde réel..."
   },
   {
     "id": "MSG_009",
     "en": "Then, are we in another world?{SAUT}It seems... kind of foreign.",
-    "fr": ""
+    "fr": "Alors, on est dans un autre monde ?{SAUT}Ça a l'air...un peu étrange."
   }
 ]
