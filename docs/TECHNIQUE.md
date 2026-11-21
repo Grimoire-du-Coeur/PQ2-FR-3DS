@@ -108,8 +108,9 @@ les deux copies sont réécrites.
 de case) : options, aides et libellés des menus du camp, catégories
 d'objets, difficultés. Ne sont pas extraits : les restes japonais
 (`cmpDifficultHelp`, « SAFTYのヘルプ ») et « Not used. (If this appears, it
-is a bug. ». La description des difficultés affichée en début de partie
-vient donc d'ailleurs : à localiser.
+is a bug. ». La description de chaque difficulté (« "SAFETY" is for players
+who just want to enjoy the story… ») est un message du script voisin :
+`systeme/init/cmptable/camp_msg.json`, entrées `system_camp_difficult_*`.
 
 ## Les noms à cases fixes : objets et lieux
 
