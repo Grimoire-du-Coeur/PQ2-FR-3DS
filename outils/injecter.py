@@ -32,6 +32,7 @@ import commun
 import flw0
 import memoire
 import msg1
+import noms
 import pak
 import texte
 from catalogue import Script, identifiants, lire_scripts
@@ -127,6 +128,18 @@ def _injecter(scripts: list[Script], trad: Path) -> tuple[dict[str, bytes], int]
     return sortie, traduits
 
 
+def table_objets(brut: bytes, trad: Path) -> bytes | None:
+    """init/itemtbl.bin avec les noms de trad/noms/objets.json ; None s'il n'y en a aucun."""
+    p = trad / noms.TRAD
+    traductions = {e["en"]: e["fr"] for e in commun.lire_json(p) if e.get("fr")} if p.exists() else {}
+    if not traductions:
+        return None
+    try:
+        return noms.ecrire_noms(brut, traductions)
+    except (noms.ErreurNom, texte.ErreurTexte) as e:
+        raise ErreurInjection(str(e)) from None
+
+
 def remplacements(scripts: list[Script], trad: Path) -> dict[str, bytes]:
     """Chemin dans le CPK → fichier reconstruit, pour les seuls scripts qui changent."""
     return _injecter(scripts, trad)[0]
@@ -160,6 +173,10 @@ def construire(image: Path, trad: Path, sortie: Path) -> tuple[int, int]:
     """Écrit le data.cpk français ; rend (fichiers modifiés, messages traduits)."""
     scripts = lire_scripts(image)
     nouveaux, traduits = _injecter(scripts, trad)
+    if (trad / noms.TRAD).exists():
+        table = table_objets(noms.lire_table(image), trad)
+        if table is not None:
+            nouveaux[noms.CHEMIN] = table
     position, taille = localiser_data_cpk(image)
     if not _copie_valide(image, position, taille, sortie):
         _copier_cpk(image, position, taille, sortie)
@@ -179,7 +196,7 @@ def main() -> int:
     sortie = dossier_azahar() / "data.cpk" if args.azahar else args.sortie
     try:
         fichiers, messages = construire(args.image, args.trad, sortie)
-    except (ErreurImage, ErreurInjection) as e:
+    except (ErreurImage, ErreurInjection, noms.ErreurNom) as e:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
     print(f"{messages} message(s) traduit(s) dans {fichiers} fichier(s).")

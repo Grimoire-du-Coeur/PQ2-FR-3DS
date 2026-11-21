@@ -13,6 +13,9 @@ compare au fichier d'origine :
 - échec : tout le reste. Il faut alors corriger msg1.py ou flw0.py avant
   d'injecter la moindre traduction.
 
+La table des noms d'objets (noms.py) est relue puis réécrite avec ses
+propres noms : elle doit redonner les mêmes octets.
+
 Chaque page est aussi passée par le texte lisible de trad/ (texte.py) :
 découpée, décodée, réencodée, recollée. Elle doit redonner les mêmes octets.
 
@@ -30,6 +33,7 @@ from pathlib import Path
 import commun  # noqa: F401  (console en UTF-8)
 import flw0
 import msg1
+import noms
 import pak
 import texte
 from catalogue import est_archive_a_scripts
@@ -44,6 +48,7 @@ class Bilan:
     sans_messages: int = 0
     messages: int = 0
     pages: int = 0
+    noms: int = 0                                   # noms d'objets à traduire
     equivalents: list[str] = field(default_factory=list)
     echecs: list[tuple[str, str]] = field(default_factory=list)
 
@@ -138,7 +143,19 @@ def verifier(image: Path) -> Bilan:
                     _controler(f"{chemin}/{nom}", brut, bilan)
                 except Exception as e:  # noqa: BLE001
                     bilan.echecs.append((f"{chemin}/{nom}", f"illisible : {type(e).__name__}: {e}"))
+        if noms.CHEMIN in archive.entrees:
+            _controler_noms(archive.lire(noms.CHEMIN), bilan)
     return bilan
+
+
+def _controler_noms(brut: bytes, bilan: Bilan) -> None:
+    try:
+        a_traduire = noms.noms_a_traduire(brut)
+        if noms.ecrire_noms(brut, {n: n for n in a_traduire}) != brut:
+            bilan.echecs.append((noms.CHEMIN, "la table ne se réécrit pas à l'identique"))
+        bilan.noms = len(a_traduire)
+    except (noms.ErreurNom, texte.ErreurTexte) as e:
+        bilan.echecs.append((noms.CHEMIN, str(e)))
 
 
 def main() -> int:
@@ -151,6 +168,7 @@ def main() -> int:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
     print(f"{bilan.fichiers} scripts (.bmd + .bf), {bilan.messages} messages, {bilan.pages} pages")
+    print(f"noms d'objets : {bilan.noms} (table relue et réécrite)")
     print(f"  identiques   : {bilan.identiques}")
     print(f"  sans messages: {bilan.sans_messages}")
     print(f"  équivalents  : {len(bilan.equivalents)}")

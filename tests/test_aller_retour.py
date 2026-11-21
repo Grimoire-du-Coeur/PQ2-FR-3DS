@@ -3,6 +3,7 @@
 import struct
 
 import aller_retour
+import noms
 from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1, fabriquer_pak
 
 MSG = fabriquer_msg1()
@@ -52,3 +53,12 @@ def test_archive_a_scripts_inconnue(tmp_path):
     bilan = aller_retour.verifier(_image(tmp_path, {
         "init/nouvelle.arc": fabriquer_pak([("aide.bmd", MSG)])}))
     assert ("init/nouvelle.arc", "archive à scripts absente de catalogue.ARCHIVES") in bilan.echecs
+
+
+def test_table_des_noms_d_objets(tmp_path):
+    zone = b"".join(n.ljust(noms.CASE, b"\0") for n in (b"NULL", b"Medicine", b"Medicine"))
+    table = bytes(noms.ZONE_DEBUT) + zone.ljust(noms.ZONE_FIN - noms.ZONE_DEBUT, b"\0")
+    bilan = aller_retour.verifier(_image(tmp_path, {noms.CHEMIN: table}))
+    assert bilan.noms == 1 and bilan.echecs == []
+    bilan = aller_retour.verifier(_image(tmp_path, {noms.CHEMIN: table[:-1]}))
+    assert [chemin for chemin, _ in bilan.echecs] == [noms.CHEMIN]

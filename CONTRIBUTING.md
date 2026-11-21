@@ -39,6 +39,7 @@ liste d'entrées, une par message :
 | `locuteur` | qui parle (sa traduction est dans `trad/noms/locuteurs.json`) | **non** |
 | `choix` | `true` si le message est un choix proposé au joueur | **non** |
 | `en` | le texte anglais du jeu, ta référence | **non** |
+| `max` | place du nom dans le jeu, en octets (noms d'objets seulement) | **non** |
 | `fr` | ta traduction ; vide = l'anglais reste en jeu | **oui** |
 | `a_revoir` | l'anglais a changé depuis ta traduction : relis, puis supprime ce champ | oui (le supprimer) |
 | `commentaire` | une note libre pour les relecteurs | oui |
@@ -108,6 +109,14 @@ anglaise du message**, et des `{SAUT}` pour couper.
   personnage arrive) : elles sont dans
   [`trad/histoire/txt/evt_introduction.json`](trad/histoire/txt/evt_introduction.json),
   pas dans la scène. Même texte que la scène, mais sur une seule page.
+- **Noms des objets et équipements** : une seule fois chacun, dans
+  [`trad/noms/objets.json`](trad/noms/objets.json), dans l'ordre du jeu
+  (armes, armures, accessoires, consommables, objets clés, matériaux…).
+  Le nom part dans les menus, les boutiques et les dialogues. Il doit tenir
+  dans sa case : **21 octets**, où une lettre accentuée compte pour deux
+  (« Médicament » = 11). Le validateur refuse un nom trop long. Garder les
+  séries cohérentes (« Red Ring / Red Bangle » → même couleur, même ordre),
+  et les termes du [Dictionnaire](docs/Dictionnaire.md).
 
 ## 7. Envoyer sa traduction
 

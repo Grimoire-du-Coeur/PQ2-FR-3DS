@@ -6,6 +6,7 @@ import catalogue
 import commun
 import extraire
 import msg1
+import noms
 from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1, fabriquer_pak
 
 JAPONAIS = msg1.Message("jp_c", False, 0xFFFF, ["テスト".encode("cp932") + b"\0"])
@@ -123,3 +124,12 @@ def test_ecrire_puis_verifier(tmp_path):
     assert extraire.differences(fichiers, orphelins, racine) == []
     (racine / "systeme/init/aide.json").write_text("[]\n", encoding="utf-8")
     assert extraire.differences(fichiers, orphelins, racine) == ["systeme/init/aide.json"]
+
+
+def test_noms_d_objets(tmp_path):
+    anciennes = {(noms.TRAD, "Medicine"): {"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"}}
+    fichiers, orphelins, _ = extraire.construire(_scripts(tmp_path), anciennes,
+                                                 objets=["Rebel Knife", "Medicine"])
+    assert fichiers[noms.TRAD] == [{"id": "Rebel Knife", "en": "Rebel Knife", "max": 21, "fr": ""},
+                                   {"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"}]
+    assert orphelins == []

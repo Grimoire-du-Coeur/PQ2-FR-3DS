@@ -11,7 +11,8 @@ Les choix portent ``"choix": true`` et séparent leurs options par
 ``{OPTION}``. Les messages sans aucun mot latin (restes japonais du
 développement, fiches d'aide factices) ne sont pas extraits : le jeu les
 garde tels quels. Les noms de locuteurs se traduisent une seule fois, dans
-trad/noms/locuteurs.json.
+trad/noms/locuteurs.json, et ceux des objets dans trad/noms/objets.json
+(voir noms.py).
 
 Aucune traduction n'est jamais perdue :
 
@@ -30,6 +31,7 @@ from pathlib import Path
 
 import commun
 import msg1
+import noms
 import texte
 from catalogue import Script, identifiants, lire_scripts
 from msg1 import AUCUN_LOCUTEUR
@@ -87,8 +89,12 @@ def _fusionner(rel: str, e: dict, anciennes: dict, revoir: list[str]) -> dict:
     return e
 
 
-def construire(scripts: list[Script], anciennes: dict) -> tuple[dict[str, list[dict]], list[dict], list[str]]:
-    """(fichiers de trad/, orphelins, entrées à revoir)."""
+def construire(scripts: list[Script], anciennes: dict, objets: list[str] | None = None
+               ) -> tuple[dict[str, list[dict]], list[dict], list[str]]:
+    """(fichiers de trad/, orphelins, entrées à revoir).
+
+    ``objets`` : les noms d'objets à traduire (noms.noms_a_traduire).
+    """
     fichiers: dict[str, list[dict]] = {}
     origine: dict[str, str] = {}
     revoir: list[str] = []
@@ -111,6 +117,9 @@ def construire(scripts: list[Script], anciennes: dict) -> tuple[dict[str, list[d
             fichiers[rel] = entrees
     fichiers[LOCUTEURS] = [_fusionner(LOCUTEURS, {"id": n, "en": n, "fr": ""}, anciennes, revoir)
                            for n in sorted(locuteurs, key=lambda n: (n.casefold(), n))]
+    if objets is not None:
+        fichiers[noms.TRAD] = [_fusionner(noms.TRAD, {"id": n, "en": n, "max": noms.CASE - 1, "fr": ""},
+                                          anciennes, revoir) for n in objets]
 
     presents = {(rel, e["id"]) for rel, entrees in fichiers.items() for e in entrees}
     orphelins = [{"fichier": rel, **e} for (rel, ident), e in sorted(anciennes.items())
@@ -166,12 +175,13 @@ def main() -> int:
     args = parser.parse_args()
     try:
         scripts = lire_scripts(args.image)
-    except ErreurImage as e:
+        objets = noms.noms_a_traduire(noms.lire_table(args.image))
+    except (ErreurImage, noms.ErreurNom) as e:
         print(f"Erreur : {e}", file=sys.stderr)
         return 2
 
     anciennes = commun.charger_traductions(args.trad)
-    fichiers, orphelins, revoir = construire(scripts, anciennes)
+    fichiers, orphelins, revoir = construire(scripts, anciennes, objets)
     fichier_orphelins = args.trad / ORPHELINS
     if fichier_orphelins.exists():
         deja = commun.lire_json(fichier_orphelins)
@@ -186,11 +196,11 @@ def main() -> int:
         return 1 if ecarts else 0
 
     ecrire(fichiers, orphelins, args.trad)
-    entrees = [e for rel, es in fichiers.items() if rel != LOCUTEURS for e in es]
+    entrees = [e for rel, es in fichiers.items() if not rel.startswith("noms/") for e in es]
     mots = sum(len(re.findall(r"[A-Za-z][A-Za-z'’-]*", re.sub(r"\{[^}]*\}", " ", e["en"])))
                for e in entrees)
-    print(f"{len(fichiers) - 1} fichiers, {len(entrees)} messages ({mots} mots anglais), "
-          f"{len(fichiers[LOCUTEURS])} locuteurs.")
+    print(f"{len(fichiers) - 2} fichiers, {len(entrees)} messages ({mots} mots anglais), "
+          f"{len(fichiers[LOCUTEURS])} locuteurs, {len(fichiers[noms.TRAD])} noms d'objets.")
     print(f"À revoir : {len(revoir)}. Orphelins : {len(orphelins)}.")
     return 0
 

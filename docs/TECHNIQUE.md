@@ -82,6 +82,30 @@ scripts absente de la liste.
 
 Les `.pac` ne contiennent pas de texte (portraits, modèles 3D).
 
+## Les noms d'objets
+
+`init/itemtbl.bin` (494 624 octets) finit par une table de 3 584 cases de
+22 octets, de 0x065820 à la fin du fichier : une par numéro d'objet
+(0x000-0xDFF), nom ASCII terminé par un zéro et complété de zéros
+(`outils/noms.py`). Plages : armes (0x000), armures (0x300), accessoires
+(0x400), consommables (0x500), objets clés (0x600), matériaux (0x700),
+accessoires bis (0xA00), objets à expertiser (0xD00). Plus de la moitié des
+cases sont des numéros génériques (« Weapon 0x1F4 »), des « Reserved »,
+« (prov) … » ou des marqueurs (« Armor Start ») : ils ne sont pas extraits.
+Restent 1 733 noms distincts ; un nom présent dans plusieurs cases est écrit
+dans toutes. La table ne change pas de taille : 21 octets au plus par nom,
+vérifiés par `valider.py` (champ `max`) et à l'injection.
+
+Les menus et les boutiques lisent cette table ; les dialogues qui citent un
+objet passent sans doute par un code d'insertion (`{f 2 4 …}`), à confirmer
+en jeu. 98 de ces noms existent aussi dans
+`battle/table/skillnametable.tbl` (noms des actions en combat), dont la
+disposition reste à décoder.
+
+Police : la police des menus n'est pas encore identifiée. Si c'est
+`seurapro_13_13`, il lui manque é, É, œ… : à vérifier en jeu avec un
+premier nom accentué.
+
 ## Le texte d'une page
 
 Codes de fonction : `0xF0 + (arguments + 1)`, puis `table << 5 | numéro`,
@@ -119,4 +143,4 @@ décompressé) ne commande pas le rendu du texte.
 ## Ce qui n'est pas encore extrait
 
 Voir la [feuille de route](FEUILLE_DE_ROUTE.md) : messages de combat `.mbm`
-(MSG2), tables de noms `.tbl`, textures `.ctpk`.
+(MSG2), autres tables de noms `.tbl`, textures `.ctpk`.

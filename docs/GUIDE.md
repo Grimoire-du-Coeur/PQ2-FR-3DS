@@ -87,6 +87,9 @@ scène, puis à garder. Les résidents de la Velvet Room vouvoient le héros.
 - **Les choix sont courts** : une option tient sur une ligne, comme en anglais.
 - **Les fiches de présentation** (à côté du grand nom d'un personnage) font
   cinq lignes au plus.
+- **Les noms d'objets** tiennent en 21 octets (une lettre accentuée en
+  prend deux) : préférer « Bracelet rouge » à une périphrase. Le validateur
+  compte pour toi.
 
 ## 5. La typographie
 

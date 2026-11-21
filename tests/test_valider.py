@@ -123,3 +123,19 @@ def test_lire_dictionnaire(tmp_path):
                   "| Navigator | Navigatrice | 💬 |\n", encoding="utf-8")
     assert valider.lire_dictionnaire(md) == [(["Shadow", "Shadows"], ["Ombre", "Ombres"]),
                                             (["Velvet Room"], ["Chambre de Velours"])]
+
+
+def test_nom_trop_long_pour_sa_case(tmp_path):
+    court = {"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Médicament"}
+    long_ = {**court, "fr": "Médicament très fort"}             # 20 lettres, 22 octets
+    assert _verifier(tmp_path, [court], rel="noms/objets.json") == []
+    remarques = _verifier(tmp_path, [long_], rel="noms/objets.json")
+    assert _niveaux(remarques) == [("ERREUR", "Medicine")]
+    assert "22 octets" in remarques[0].texte
+
+
+def test_le_maximum_ne_se_modifie_pas(tmp_path):
+    base = [{"id": "Medicine", "en": "Medicine", "max": 21, "fr": ""}]
+    nouveau = [{"id": "Medicine", "en": "Medicine", "max": 40, "fr": "Remède"}]
+    remarques = _verifier(tmp_path, nouveau, base=base, rel="noms/objets.json")
+    assert ("ERREUR", "Medicine") in _niveaux(remarques)

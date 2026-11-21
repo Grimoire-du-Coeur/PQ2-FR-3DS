@@ -26,11 +26,13 @@ from dataclasses import dataclass
 from pathlib import Path
 
 import commun
+import noms
 import texte
 from mesurer import largeur_ligne
 
-CHAMPS = {"id", "locuteur", "choix", "en", "fr", "a_revoir", "commentaire"}
-FIGES = ("id", "locuteur", "choix", "en")
+# « max » : place en octets d'un nom dans sa table (noms/objets.json).
+CHAMPS = {"id", "locuteur", "choix", "en", "max", "fr", "a_revoir", "commentaire"}
+FIGES = ("id", "locuteur", "choix", "en", "max")
 LIGNES_PAR_BULLE = 3
 _CODE = re.compile(r"\{f [^{}]*\}")
 _BALISE = re.compile(r"\{[^{}]*\}")
@@ -116,6 +118,10 @@ def _verifier_texte(e: dict, partie: str, largeurs: dict, dico) -> list[tuple[st
             texte.encoder_texte(texte.adapter(p_fr))
         except texte.ErreurTexte as err:
             remarques.append(("ERREUR", f"{ou + ' : ' if ou else ''}{err}"))
+        else:
+            if "max" in e and noms.longueur(p_fr) > e["max"]:
+                remarques.append(("ERREUR", f"{noms.longueur(p_fr)} octets, la case en tient "
+                                            f"{e['max']} (une lettre accentuée compte double)"))
         codes_en, codes_fr = _CODE.findall(p_en), _CODE.findall(p_fr)
         if Counter(codes_en) != Counter(codes_fr):
             manque = list((Counter(codes_en) - Counter(codes_fr)).elements())

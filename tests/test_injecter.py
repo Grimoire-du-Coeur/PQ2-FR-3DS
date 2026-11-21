@@ -6,6 +6,7 @@ import catalogue
 import commun
 import injecter
 import msg1
+import noms
 from cpk import Cpk
 from fabrique import fabriquer_3ds, fabriquer_bf, fabriquer_cpk, fabriquer_msg1, fabriquer_pak
 
@@ -144,3 +145,35 @@ def test_copie_empaquetee_traduite_aussi(tmp_path):
     contenu = dict(pak.lire_pak(nouveaux["facility/pack/shop.arc"]))
     assert contenu["shop.bmd"] == nouveaux["facility/shop.bmd"]
     assert contenu["icone.ctpk"] == b"image"
+
+
+def _itemtbl(*liste):
+    zone = b"".join(n.encode("ascii").ljust(noms.CASE, b"\0") for n in liste)
+    return bytes(noms.ZONE_DEBUT) + zone.ljust(noms.ZONE_FIN - noms.ZONE_DEBUT, b"\0")
+
+
+def test_noms_d_objets(tmp_path):
+    brut = _itemtbl("NULL", "Medicine", "Rebel Knife", "Medicine")
+    trad = _trad(tmp_path, {noms.TRAD: [
+        {"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"},
+        {"id": "Rebel Knife", "en": "Rebel Knife", "max": 21, "fr": ""}]})
+    assert noms.lire_noms(injecter.table_objets(brut, trad))[:4] == ["NULL", "Remède", "Rebel Knife", "Remède"]
+    assert injecter.table_objets(brut, _trad(tmp_path / "vide", {})) is None
+
+
+def test_nom_d_objet_trop_long(tmp_path):
+    trad = _trad(tmp_path, {noms.TRAD: [{"id": "Medicine", "en": "Medicine", "max": 21,
+                                         "fr": "Médicament très fort"}]})
+    with pytest.raises(injecter.ErreurInjection, match="22 octets"):
+        injecter.table_objets(_itemtbl("Medicine"), trad)
+
+
+def test_build_avec_les_noms_d_objets(tmp_path):
+    image = tmp_path / "jeu.3ds"
+    image.write_bytes(fabriquer_3ds(fabriquer_cpk(
+        {"init/aide.bmd": MSG, noms.CHEMIN: _itemtbl("NULL", "Medicine")}, compresses={noms.CHEMIN})))
+    trad = _trad(tmp_path, {noms.TRAD: [{"id": "Medicine", "en": "Medicine", "max": 21, "fr": "Remède"}]})
+    sortie = tmp_path / "data.cpk"
+    assert injecter.construire(image, trad, sortie) == (1, 0)
+    with open(sortie, "rb") as f:
+        assert noms.lire_noms(Cpk(f).lire(noms.CHEMIN))[1] == "Remède"
