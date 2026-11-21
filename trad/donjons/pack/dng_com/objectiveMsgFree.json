@@ -1,0 +1,357 @@
+[
+  {
+    "id": "D01_OBJECTIVE_MSG_LARGE_",
+    "en": "Run from the cops",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_LARGE_#2",
+    "en": "Save Makoto and Haru",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_",
+    "en": "Find a path forward",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#2",
+    "en": "Aim for the stairs",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#3",
+    "en": "Dodge the FOE to move on",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#4",
+    "en": "Aim for the stairs",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#5",
+    "en": "Proceed beyond the stairs",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#6",
+    "en": "Find a path forward",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#7",
+    "en": "Check the shining spot",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#8",
+    "en": "Find a path forward",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#9",
+    "en": "Proceed while dodging lights",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#10",
+    "en": "Find a path forward",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#11",
+    "en": "Proceed beyond the stairs",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#12",
+    "en": "Find another path forward",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#13",
+    "en": "Find the light's controls",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#14",
+    "en": "Find a path forward",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#15",
+    "en": "Proceed beyond the stairs",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_LARGE_#3",
+    "en": "Learn how to turn off the lights",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#16",
+    "en": "Traverse the high-security area",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_LARGE_#4",
+    "en": "Defeat Kamoshidaman",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#17",
+    "en": "(TEMP) Go onward",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_LARGE_",
+    "en": "Find the trailer's dinosaurs",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_",
+    "en": "Proceed onward",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_LARGE_#2",
+    "en": "Find the mysterious readings",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#2",
+    "en": "Watch for FOEs while advancing ",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_LARGE_#3",
+    "en": "Find Yosuke",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#3",
+    "en": "Find a switch and bypass the gates",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#4",
+    "en": "Go after Yosukesaurus",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#5",
+    "en": "Watch for FOEs while advancing",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#6",
+    "en": "Go after the swiped herbivore",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_LARGE_#4",
+    "en": "Rescue Yosuke",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#7",
+    "en": "Trap the carnivore with gates",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#8",
+    "en": "Go to Yosuke",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_LARGE_#5",
+    "en": "Go after the herd",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#9",
+    "en": "Proceed onward",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#10",
+    "en": "Learn what the odd sound is",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#11",
+    "en": "Find a path bypassing the trees",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#12",
+    "en": "Proceed onward",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#13",
+    "en": "Make carnivore bait",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#14",
+    "en": "Lure the carnivore into position",
+    "fr": ""
+  },
+  {
+    "id": "D02_OBJECTIVE_MSG_SMALL_#15",
+    "en": "Proceed onward",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_LARGE_",
+    "en": "Find the robot with a ribbon",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_SMALL_",
+    "en": "Proceed onward",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_LARGE_#2",
+    "en": "Find the Evoker's owner",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_LARGE_#3",
+    "en": "Find Aigis and their Leader",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_SMALL_#2",
+    "en": "Watch for FOEs while advancing",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_SMALL_#3",
+    "en": "Open the door",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_SMALL_#4",
+    "en": "Proceed onward",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_SMALL_#5",
+    "en": "Go through the door",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_LARGE_#4",
+    "en": "Change the movie's ending",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_SMALL_#6",
+    "en": "Proceed onward",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_SMALL_#7",
+    "en": "Use the warps to proceed",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_LARGE_#5",
+    "en": "Defeat the Mother Computer",
+    "fr": ""
+  },
+  {
+    "id": "D03_OBJECTIVE_MSG_SMALL_#8",
+    "en": "Proceed onward",
+    "fr": ""
+  },
+  {
+    "id": "D04_OBJECTIVE_MSG_LARGE_",
+    "en": "Find Hikari",
+    "fr": ""
+  },
+  {
+    "id": "D04_OBJECTIVE_MSG_SMALL_",
+    "en": "Proceed onward",
+    "fr": ""
+  },
+  {
+    "id": "D04_OBJECTIVE_MSG_SMALL_#2",
+    "en": "Control the lifts to proceed",
+    "fr": ""
+  },
+  {
+    "id": "D05_OBJECTIVE_MSG_LARGE_",
+    "en": "Head to Enlil's location",
+    "fr": ""
+  },
+  {
+    "id": "D05_OBJECTIVE_MSG_SMALL_",
+    "en": "Proceed onward",
+    "fr": ""
+  },
+  {
+    "id": "D05_OBJECTIVE_MSG_SMALL_#2",
+    "en": "Find a solution to the debris",
+    "fr": ""
+  },
+  {
+    "id": "D05_OBJECTIVE_MSG_SMALL_#3",
+    "en": "Lure the FOE to the debris",
+    "fr": ""
+  },
+  {
+    "id": "D05_OBJECTIVE_MSG_SMALL_#4",
+    "en": "Proceed onward",
+    "fr": ""
+  },
+  {
+    "id": "D05_OBJECTIVE_MSG_SMALL_#5",
+    "en": "Proceed with care for the wind",
+    "fr": ""
+  },
+  {
+    "id": "D05_OBJECTIVE_MSG_SMALL_#6",
+    "en": "Watch for FOEs while advancing",
+    "fr": ""
+  },
+  {
+    "id": "D01_00_OBJECTIVE_MSG_SMA",
+    "en": "Follow Oracle's instructions",
+    "fr": ""
+  },
+  {
+    "id": "D01_OBJECTIVE_MSG_SMALL_#18",
+    "en": "Go to the Memorial Square",
+    "fr": ""
+  },
+  {
+    "id": "D05_OBJECTIVE_MSG_LARGE_#2",
+    "en": "Carry out the plan",
+    "fr": ""
+  },
+  {
+    "id": "D05_OBJECTIVE_MSG_SMALL_#7",
+    "en": "Swap out all the film",
+    "fr": ""
+  },
+  {
+    "id": "D05_OBJECTIVE_MSG_LARGE_#3",
+    "en": "Put an end to this awful scheme",
+    "fr": ""
+  },
+  {
+    "id": "D05_OBJECTIVE_MSG_SMALL_#8",
+    "en": "Head to Enlil's location",
+    "fr": ""
+  },
+  {
+    "id": "D04_OBJECTIVE_MSG_LARGE_#2",
+    "en": "Head to the depths",
+    "fr": ""
+  }
+]

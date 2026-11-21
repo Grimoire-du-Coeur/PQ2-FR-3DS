@@ -1,0 +1,28 @@
+[
+  {
+    "id": "DG_MSG_QUEST_FIND",
+    "en": "You've found a quest!",
+    "fr": ""
+  },
+  {
+    "id": "DG_MSG_QUEST_FIND_QUESTI",
+    "en": "You couldn't find a quest...{SAUT}because you're already on a quest!",
+    "fr": ""
+  },
+  {
+    "id": "DG_MSG_LOCK_DOOR_NO_OPEN",
+    "en": "It's locked.",
+    "fr": ""
+  },
+  {
+    "id": "DG_MSG_SEL_QUEST_CLEAR",
+    "choix": true,
+    "en": "Return to base{OPTION}Explore freely",
+    "fr": ""
+  },
+  {
+    "id": "DG_MSG_QST_PROGRESS_ENEM",
+    "en": "Defeated {f 2 4 0} x{f 2 4 1}.",
+    "fr": ""
+  }
+]
