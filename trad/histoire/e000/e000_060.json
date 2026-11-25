@@ -39,7 +39,7 @@
     "id": "MSG_006",
     "locuteur": "Makoto",
     "en": "Huh―what was that!?",
-    "fr": "Hein, qu'est-ce que c'etait !?"
+    "fr": "Hein, qu'est-ce que c'était !?"
   },
   {
     "id": "MSG_007",
@@ -57,7 +57,7 @@
     "id": "MSG_009",
     "locuteur": "Makoto",
     "en": "It's not me―the wheel's moving by itself!{SAUT}What's happening?",
-    "fr": "Ce n'est pas moi, le volant bouge tout seul !{SAUT}Que ce passe t-il ?"
+    "fr": "Ce n'est pas moi, le volant bouge{SAUT}tout seul ! Que se passe-t-il ?"
   },
   {
     "id": "MSG_010",
