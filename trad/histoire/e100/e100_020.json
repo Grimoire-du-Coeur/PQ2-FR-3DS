@@ -3,49 +3,49 @@
     "id": "MSG_000",
     "locuteur": "Ryuji",
     "en": "Wh-Where the hell are we!? It was a{SAUT}whole, entire city just a second ago!",
-    "fr": "Où-On est où bordel?! "
+    "fr": "O-On est où, bordel !? Y avait une{SAUT}ville entière il y a une seconde !"
   },
   {
     "id": "MSG_001",
     "locuteur": "Yusuke",
     "en": "Look, there's some kind of screen.",
-    "fr": "Regardez, on dirait une sorte d'écrans."
+    "fr": "Regardez, on dirait une sorte d'écran."
   },
   {
     "id": "MSG_002",
     "locuteur": "Futaba",
     "en": "Is this... a movie theater?",
-    "fr": "C'est... une salle de ciné?"
+    "fr": "C'est... une salle de ciné ?"
   },
   {
     "id": "MSG_003",
     "locuteur": "Ann",
     "en": "Why are we the only ones here?{SAUT}It's kind of creepy...",
-    "fr": "Pourquoi on est les seuls ici?{SAUT}C'est flippant..."
+    "fr": "Pourquoi on est les seuls ici ?{SAUT}C'est flippant..."
   },
   {
     "id": "MSG_004",
     "locuteur": "Morgana",
     "en": "Hmm... I genuinely have no clue{SAUT}what's going on.{PAGE}First we were in Mementos, then we{SAUT}ended up in some city... Now, a movie{SAUT}theater?",
-    "fr": "Hmm... J'ignore ce qui nous arrive.{PAGE}Au départ nous étions dans Mémentos, puis{SAUT}dans une sorte de ville... Maintenant dans un cinéma?"
+    "fr": "Hmm... J'ignore ce qui nous arrive.{PAGE}Au départ, nous étions dans Mementos,{SAUT}puis dans une sorte de ville...{SAUT}Et maintenant, dans un cinéma ?"
   },
   {
     "id": "MSG_005",
     "locuteur": "Ryuji",
     "en": "Hey, our clothes! They're back{SAUT}to normal!?",
-    "fr": "Hé, nos vêtements! Ils sont{SAUT}revenus à la normale!?"
+    "fr": "Hé, nos vêtements ! Ils sont{SAUT}revenus à la normale !?"
   },
   {
     "id": "MSG_006",
     "locuteur": "Ann",
     "en": "Oh, you're right!",
-    "fr": "Oh, c'est vrai!"
+    "fr": "Oh, c'est vrai !"
   },
   {
     "id": "MSG_007",
     "locuteur": "Morgana",
     "en": "Hm―Why only me!? What's going on{SAUT}here?",
-    "fr": "Heum-Pourquoi pas moi!? C'est quoi{SAUT}ce délire?"
+    "fr": "Hm... Pourquoi juste moi !? C'est quoi{SAUT}ce délire ?"
   },
   {
     "id": "MSG_007_5",
@@ -57,78 +57,78 @@
     "id": "MSG_008",
     "locuteur": "Akechi",
     "en": "Although, it seems we can't use{SAUT}the Meta-Nav in here, either...{PAGE}We seem to be somewhere different{SAUT}from that city―but still in a bizarre{SAUT}situation...",
-    "fr": "Il semblerait que le Meta-Nav soit inutilisable ici...{PAGE}Nous avons certes quittés cette ville mais notre situation est toujours aussi bizarre..."
+    "fr": "Cela dit, il semblerait que le Meta-Nav{SAUT}soit inutilisable ici aussi...{PAGE}Nous avons certes quitté cette ville,{SAUT}mais notre situation est toujours{SAUT}aussi bizarre..."
   },
   {
     "id": "MSG_009",
     "locuteur": "Ann",
     "en": "Hey, wait a sec! Where are Makoto{SAUT}and Haru!?",
-    "fr": "Hé, attendez! Où sont Makoto{SAUT}et Haru!?"
+    "fr": "Hé, attendez ! Où sont Makoto{SAUT}et Haru !?"
   },
   {
     "id": "MSG_010",
     "locuteur": "Ryuji",
     "en": "Huh? They're right he―",
-    "fr": "Hein? Elles sont juste-"
+    "fr": "Hein ? Elles sont juste l―"
   },
   {
     "id": "MSG_011",
     "locuteur": "Ryuji",
     "en": "―Wait, they're not here!",
-    "fr": "―Minute, elles sont pas là!"
+    "fr": "―Minute, elles sont pas là !"
   },
   {
     "id": "MSG_012",
     "locuteur": "Yusuke",
     "en": "Could it be that we were separated?",
-    "fr": "Il se pourrait que nous ayons été séparés?"
+    "fr": "Se pourrait-il que nous ayons été{SAUT}séparés ?"
   },
   {
     "id": "MSG_013",
     "locuteur": "Ryuji",
     "en": "Holy shit, for real!?",
-    "fr": "Putain, pour de vrai!?"
+    "fr": "Putain, pour de vrai !?"
   },
   {
     "id": "MSG_014",
     "locuteur": "Ann",
     "en": "We have to go find them! They might{SAUT}still be in that place where we just were!",
-    "fr": "Il faut qu'on les retrouve! Elles sont peut-être{SAUT}encore coincées là où nous étions juste avant!"
+    "fr": "Il faut qu'on les retrouve ! Elles sont{SAUT}peut-être encore coincées là où on{SAUT}était juste avant !"
   },
   {
     "id": "MSG_015",
     "locuteur": "Yusuke",
     "en": "But, how do we get back? We don't{SAUT}even know how we arrived here{SAUT}in the first place...",
-    "fr": "Mais comment faire pour y retourner? Nous ne savons même pas{SAUT}comment nous sommes arivés ici à la base..."
+    "fr": "Mais comment y retourner ? Nous ne{SAUT}savons même pas comment nous{SAUT}sommes arrivés ici au départ..."
   },
   {
     "id": "MSG_016",
     "locuteur": "Akechi",
     "en": "Hold on, let's all calm down. They may{SAUT}be somewhere within this building.{PAGE}There's a door right over there. Why{SAUT}don't we try exploring beyond this{SAUT}room first?",
-    "fr": "Gardons notre calme. Elles pourraient être quelque part dans ce batîment.{PAGE}Il y a une porte juste là. Pourquoi{SAUT}ne pas essayer d'explorer les environs{SAUT}avant d'aller plus loin?"
+    "fr": "Attendez, gardons notre calme. Elles{SAUT}sont peut-être quelque part dans ce{SAUT}bâtiment.{PAGE}Il y a une porte juste là. Pourquoi{SAUT}ne pas commencer par explorer{SAUT}au-delà de cette salle ?"
   },
   {
     "id": "MSG_017",
     "locuteur": "Ryuji",
     "en": "Y-Yeah... Sorry, all of this has got me{SAUT}worked up.",
-    "fr": "O-Ouai... Désolé, tout ça m'a vraiment mis{SAUT}dans tous mes états."
+    "fr": "O-Ouais... Désolé, tout ça m'a mis{SAUT}dans tous mes états."
   },
   {
     "id": "MSG_018",
     "locuteur": "Futaba",
     "en": "I have plenty of comments on all of this―{SAUT}but finding Haru and Makoto comes{SAUT}first!",
-    "fr": "J'ai plein de questions sur tout ça- mais retrouver Haru et Makoto passe avant tout!"
+    "fr": "J'aurais plein de choses à dire sur{SAUT}tout ça... mais retrouver Haru et{SAUT}Makoto passe avant tout !"
   },
   {
     "id": "SEL_019",
     "choix": true,
     "en": "That's right.{OPTION}Let's be careful about this.",
-    "fr": "C'es vrai.{OPTION}Restons prudents."
+    "fr": "C'est vrai.{OPTION}Restons prudents."
   },
   {
     "id": "MSG_020",
     "locuteur": "Morgana",
     "en": "In that case, let's get going! Stay on your{SAUT}toes, everyone.",
-    "fr": "Dans ce cas, allons-y! Soyez sur votre garde, tout le monde."
+    "fr": "Dans ce cas, allons-y ! Restez sur vos{SAUT}gardes, tout le monde."
   }
 ]
