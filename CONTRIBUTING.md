@@ -5,7 +5,8 @@ guide explique le format des fichiers ; la [méthode de travail](docs/GUIDE.md)
 explique comment on traduit, relit et teste. Ce guide tient en trois idées :
 
 1. **On s'organise sur Discord** avant de traduire.
-2. **On ne touche qu'aux champs `"fr"`** des fichiers de `trad/`.
+2. **On ne touche qu'aux champs `"fr"`** des fichiers de `trad/` (et à
+   `"locuteur_fr"` pour traduire le nom de celui qui parle).
 3. **Un terme se traduit toujours pareil** : le [Dictionnaire](docs/Dictionnaire.md) fait foi.
 
 ---
@@ -36,7 +37,8 @@ liste d'entrées, une par message :
 | Champ | Rôle | Tu peux le modifier ? |
 |---|---|---|
 | `id` | repère du message dans le jeu | **non** |
-| `locuteur` | qui parle (sa traduction est dans `trad/noms/locuteurs.json`) | **non** |
+| `locuteur` | qui parle, en anglais : c'est le nom du jeu | **non** |
+| `locuteur_fr` | le nom français de celui qui parle, à ajouter juste sous `locuteur` (voir § 6) | **oui** |
 | `choix` | `true` si le message est un choix proposé au joueur | **non** |
 | `en` | le texte anglais du jeu, ta référence | **non** |
 | `max` | place du texte dans le jeu, en octets (noms d'objets et de lieux, menus du camp) | **non** |
@@ -101,10 +103,30 @@ anglaise du message**, et des `{SAUT}` pour couper.
 
 ## 6. Les noms et les fiches
 
-- **Noms des personnages qui parlent** : une seule fois, dans
-  [`trad/noms/locuteurs.json`](trad/noms/locuteurs.json). Les prénoms restent
-  tels quels ; seuls les noms communs se traduisent (« Despondent woman's
-  voice » → « Voix d'une femme abattue »).
+- **Noms des personnages qui parlent** : les prénoms restent tels quels ;
+  seuls les noms communs se traduisent (« Despondent woman's voice » →
+  « Voix d'une femme abattue »). Le plus simple : dans la scène que tu
+  traduis, ajoute `"locuteur_fr"` juste sous le `"locuteur"` anglais, **sur
+  une seule réplique** :
+
+  ```json
+  {
+    "id": "MSG_018",
+    "locuteur": "Serious policeman",
+    "locuteur_fr": "Policier sérieux",
+    "en": "Hmm―whoa there, what's with{SAUT}the getup?",
+    "fr": "Hmm, dis donc... c'est quoi{SAUT}cet accoutrement ?"
+  },
+  ```
+
+  Le nom vaut alors pour toutes les répliques de ce personnage dans la
+  scène, et pour les autres scènes où personne ne l'a encore traduit. Ne
+  modifie pas `"locuteur"` lui-même : c'est par lui que le build retrouve le
+  nom dans le jeu. Un nom ne peut avoir qu'une traduction dans une scène.
+  Pour fixer un nom pour tout le jeu, c'est dans
+  [`trad/noms/locuteurs.json`](trad/noms/locuteurs.json) : il passe avant
+  ceux des autres scènes, mais une scène qui donne son propre
+  `"locuteur_fr"` garde le sien.
 - **Fiches de présentation** (le texte affiché à côté du grand nom quand un
   personnage arrive) : elles sont dans
   [`trad/histoire/txt/evt_introduction.json`](trad/histoire/txt/evt_introduction.json),
@@ -154,7 +176,9 @@ Chaque Pull Request est vérifiée automatiquement. Les **erreurs** (balise
 oubliée, caractère absent de la police, page en trop) bloquent la fusion ;
 les **remarques** (ligne longue, terme du dictionnaire, espace avant `!`)
 sont à regarder mais ne bloquent pas. Elles s'affichent directement sur les
-lignes concernées.
+lignes concernées. GitHub n'en montre que 10 de chaque sorte sur les lignes :
+s'il y en a plus, la dixième liste toutes les autres, et la liste complète
+est dans le résumé de la vérification (onglet *Checks* → *Valider*).
 
 ## 8. Tester en jeu
 

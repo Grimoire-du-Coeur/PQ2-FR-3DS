@@ -56,11 +56,15 @@ def dossier_azahar() -> Path:
     return appdata / "Azahar" / "load" / "mods" / f"{TITLE_ID_EU:016X}" / "romfs"
 
 
-def _locuteurs(trad: Path) -> dict[str, str]:
-    p = trad / LOCUTEURS
-    if not p.exists():
-        return {}
-    return {e["en"]: e["fr"] for e in commun.lire_json(p) if e.get("fr")}
+def _noms_de_scene(rel: str, lues: list[dict]) -> dict[str, str]:
+    """Les « locuteur_fr » d'un fichier ; deux noms pour un même locuteur, c'est une erreur."""
+    noms_scene = memoire.noms_de_scene(lues)
+    for e in lues:
+        en, fr = e.get("locuteur"), e.get("locuteur_fr")
+        if en and fr and fr != noms_scene[en]:
+            raise ErreurInjection(f"{rel} {e['id']} : « {en} » est traduit « {noms_scene[en]} » "
+                                  f"et « {fr} » dans la même scène")
+    return noms_scene
 
 
 def _pages(rel: str, ident: str, m: msg1.Message, fr: str) -> list[bytes]:
@@ -85,7 +89,7 @@ def _pages(rel: str, ident: str, m: msg1.Message, fr: str) -> list[bytes]:
 
 
 def _injecter(scripts: list[Script], trad: Path) -> tuple[dict[str, bytes], int]:
-    locuteurs = _locuteurs(trad)
+    locuteurs = memoire.construire_locuteurs(trad)
     reprises = memoire.construire(trad)
     sortie: dict[str, bytes] = {}
     archives: dict[str, tuple[bytes, dict[str, bytes]]] = {}   # .arc -> (original, entrées refaites)
@@ -93,22 +97,29 @@ def _injecter(scripts: list[Script], trad: Path) -> tuple[dict[str, bytes], int]
     for s in scripts:
         rel = s.trad
         p = trad / rel
+        lues = commun.lire_json(p) if p.exists() else []
         entrees = {}
-        for e in commun.lire_json(p) if p.exists() else []:
+        for e in lues:
             # Une entrée sans français reprend celui d'un anglais identique déjà
             # traduit ailleurs (memoire.py) ; son propre « fr » garde la main.
             fr = e.get("fr") or reprises.proposer(e["en"])
             if fr:
                 entrees[e["id"]] = {**e, "fr": fr}
+        # Le nom d'un locuteur : celui de la scène (« locuteur_fr »), sinon
+        # trad/noms/locuteurs.json, sinon celui qu'une autre scène lui a donné.
+        noms_scene = _noms_de_scene(rel, lues)
         script = copy.deepcopy(s.messages)
         touche = False
         for i, nom in enumerate(script.locuteurs):
-            fr = locuteurs.get(texte.decoder_texte(nom))
+            en = texte.decoder_texte(nom)
+            fr = locuteurs.nom(en, noms_scene)
             if fr:
                 try:
                     script.locuteurs[i] = texte.encoder_texte(adapter(fr))
                 except texte.ErreurTexte as e:
-                    raise ErreurInjection(f"{LOCUTEURS} {fr} : {e}") from None
+                    ou = (rel if en in noms_scene else
+                          LOCUTEURS if en in locuteurs.references else "locuteur_fr d'une autre scène")
+                    raise ErreurInjection(f"{ou} « {en} » → « {fr} » : {e}") from None
                 touche = True
         for ident, m in zip(identifiants(script.messages), script.messages):
             if ident in entrees:

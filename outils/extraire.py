@@ -11,7 +11,8 @@ Les choix portent ``"choix": true`` et séparent leurs options par
 ``{OPTION}``. Les messages sans aucun mot latin (restes japonais du
 développement, fiches d'aide factices) ne sont pas extraits : le jeu les
 garde tels quels. Les noms de locuteurs se traduisent une seule fois, dans
-trad/noms/locuteurs.json ; ceux des objets, lieux, compétences, Personas
+trad/noms/locuteurs.json ou dans la scène (``"locuteur_fr"``, voir
+memoire.py) ; ceux des objets, lieux, compétences, Personas
 et ennemis dans trad/noms/ (noms.py, tables.py). Un nom de compétence qui est
 aussi un nom d'objet (« Rudra Ring ») suit la traduction de l'objet.
 
@@ -38,10 +39,10 @@ import noms
 import tables
 import texte
 from catalogue import Script, identifiants, lire_fichiers, lire_scripts
+from memoire import LOCUTEURS
 from msg1 import AUCUN_LOCUTEUR
 from rom3ds import ErreurImage, PasDeCode, lire_code
 
-LOCUTEURS = "noms/locuteurs.json"
 ORPHELINS = "_orphelins.json"
 _CONSERVES = ("a_revoir", "commentaire")
 
@@ -90,6 +91,14 @@ def _fusionner(rel: str, e: dict, anciennes: dict, revoir: list[str]) -> dict:
     for champ in _CONSERVES:
         if champ in old and champ not in e:
             e[champ] = old[champ]
+    if "locuteur_fr" in old and "locuteur" in e:
+        # Rangé juste sous le nom anglais, là où le traducteur l'écrit.
+        rangee = {}
+        for champ, valeur in e.items():
+            rangee[champ] = valeur
+            if champ == "locuteur":
+                rangee["locuteur_fr"] = old["locuteur_fr"]
+        e = rangee
     return e
 
 

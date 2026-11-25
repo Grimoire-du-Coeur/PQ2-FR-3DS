@@ -89,8 +89,9 @@ Toute aide est la bienvenue : traduction, relecture, tests en jeu.
    décrivent chacun une scène ou un fichier, qui parle et ce qu'il faut savoir.
    Les choix de vocabulaire en cours se [votent ici](https://github.com/Grimoire-du-Coeur/PQ2-FR-3DS/issues?q=is%3Aissue+is%3Aopen+label%3Aterminologie).
 4. **Ouvre un fichier de [`trad/`](trad/)** et remplis les champs `"fr"`.
-   Rien d'autre à toucher, et rien à installer : ça marche aussi depuis le
-   navigateur de GitHub.
+   Rien d'autre à toucher (un nom de personnage se traduit avec
+   `"locuteur_fr"`, voir le [guide](CONTRIBUTING.md#6-les-noms-et-les-fiches)),
+   et rien à installer : ça marche aussi depuis le navigateur de GitHub.
 
 ```json
 {

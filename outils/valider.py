@@ -11,6 +11,9 @@ Avec ``--base``, chaque fichier est aussi comparé à sa version sur la branche
 cible : on refuse une proposition qui modifie l'anglais ou un identifiant, ou
 qui efface une traduction (c'est ce que fait la copie périmée d'un fork).
 
+Avec ``--github``, les remarques deviennent des annotations sur les lignes de
+la Pull Request, et la liste complète va dans le résumé de la vérification.
+
 Ne lit aucune donnée du jeu : la CI le lance sur chaque Pull Request.
 """
 
@@ -18,6 +21,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import subprocess
 import sys
@@ -26,13 +30,19 @@ from dataclasses import dataclass
 from pathlib import Path
 
 import commun
+import memoire
 import noms
 import texte
 from mesurer import largeur_ligne
 
 # « max » : place en octets d'un nom dans sa table (noms/objets.json).
-CHAMPS = {"id", "locuteur", "choix", "en", "max", "fr", "a_revoir", "commentaire"}
+# « locuteur_fr » : le nom français du locuteur, donné dans la scène.
+CHAMPS = {"id", "locuteur", "locuteur_fr", "choix", "en", "max", "fr", "a_revoir", "commentaire"}
 FIGES = ("id", "locuteur", "choix", "en", "max")
+# GitHub n'affiche que 10 annotations d'erreur et 10 d'avertissement par
+# étape ; au-delà, elles disparaissent sans prévenir.
+ANNOTATIONS_MAX = 10
+LIGNES_DU_RESUME = 500
 LIGNES_PAR_BULLE = 3
 _CODE = re.compile(r"\{f [^{}]*\}")
 _BALISE = re.compile(r"\{[^{}]*\}")
@@ -164,6 +174,36 @@ def _verifier_texte(e: dict, partie: str, largeurs: dict, dico) -> list[tuple[st
     return remarques
 
 
+def _verifier_locuteur(e: dict, largeurs: dict) -> list[tuple[str, str]]:
+    """Le nom français du locuteur, écrit dans la scène (« locuteur_fr »)."""
+    if "locuteur_fr" not in e:
+        return []
+    fr = e["locuteur_fr"]
+    if not isinstance(fr, str):
+        return [("ERREUR", "« locuteur_fr » s'écrit entre guillemets")]
+    if not e.get("locuteur"):
+        return [("ERREUR", "« locuteur_fr » sans « locuteur » : ce message n'affiche aucun nom")]
+    if not fr:
+        return []
+    if _BALISE.search(fr):
+        return [("ERREUR", "pas de balise dans un nom de locuteur")]
+    try:
+        texte.encoder_texte(texte.adapter(fr))
+    except texte.ErreurTexte as err:
+        return [("ERREUR", f"nom du locuteur : {err}")]
+    remarques = []
+    if fr != fr.strip():
+        remarques.append(("ATTENTION", "nom du locuteur : espace au début ou à la fin"))
+    table, limite = largeurs.get("largeurs", {}), largeurs.get("limites", {}).get("noms")
+    if table and limite:
+        plafond = max(limite, largeur_ligne(e["locuteur"], table))
+        w = largeur_ligne(texte.adapter(fr), table)
+        if w > plafond:
+            remarques.append(("ATTENTION", f"nom du locuteur : {w} px, plus large que les noms "
+                                           f"anglais du jeu ({plafond} px) : vérifier en jeu"))
+    return remarques
+
+
 def verifier_fichier(chemin: Path, trad: Path = commun.TRAD, base: list | None = None,
                      largeurs: dict | None = None, dico=None, extraction: bool = False) -> list[Remarque]:
     """Remarques sur un fichier de trad/.
@@ -188,6 +228,7 @@ def verifier_fichier(chemin: Path, trad: Path = commun.TRAD, base: list | None =
 
     remarques: list[Remarque] = []
     vus: set[str] = set()
+    noms_scene: dict[str, tuple[str, str]] = {}      # nom anglais -> (nom français, id)
     for e in entrees:
         ident = e["id"]
         ligne = _ligne_du_champ(lignes, ident)
@@ -200,15 +241,36 @@ def verifier_fichier(chemin: Path, trad: Path = commun.TRAD, base: list | None =
                                       ligne))
         for niveau, message in _verifier_texte(e, partie, largeurs, dico):
             remarques.append(Remarque(niveau, rel, ident, message, ligne))
+        ligne_nom = _ligne_du_champ(lignes, ident, "locuteur_fr")
+        for niveau, message in _verifier_locuteur(e, largeurs):
+            remarques.append(Remarque(niveau, rel, ident, message, ligne_nom))
+        en, fr = e.get("locuteur"), e.get("locuteur_fr")
+        if isinstance(en, str) and isinstance(fr, str) and en and fr:
+            # Le jeu range chaque nom une fois par script : une seule traduction possible.
+            if en in noms_scene and noms_scene[en][0] != fr:
+                deja, ou = noms_scene[en]
+                remarques.append(Remarque("ERREUR", rel, ident, f"« {en} » est déjà traduit "
+                                          f"« {deja} » plus haut ({ou}) : un nom n'a qu'une "
+                                          "traduction dans une scène", ligne_nom))
+            noms_scene.setdefault(en, (fr, ident))
 
     if base is not None:
-        anciennes = {e.get("id"): e for e in base if isinstance(e, dict)}
+        base = [e for e in base if isinstance(e, dict)]
+        anciennes = {e.get("id"): e for e in base}
         nouvelles = {e["id"]: e for e in entrees}
         for ident in sorted(anciennes.keys() & nouvelles.keys()):
             if anciennes[ident].get("fr") and not nouvelles[ident].get("fr"):
                 remarques.append(Remarque("ERREUR", rel, ident, "traduction effacée : la copie de "
                                           "ce fichier est peut-être périmée (mettre son fork à jour)",
                                           _ligne_du_champ(lignes, ident)))
+        apres = memoire.noms_de_scene(entrees)
+        for en, fr in sorted(memoire.noms_de_scene(base).items()):
+            if en not in apres:
+                ident = next((e["id"] for e in entrees if e.get("locuteur") == en), "-")
+                remarques.append(Remarque("ERREUR", rel, ident, f"nom traduit effacé (« {en} » → "
+                                          f"« {fr} ») : la copie de ce fichier est peut-être "
+                                          "périmée (mettre son fork à jour)",
+                                          _ligne_du_champ(lignes, ident, "locuteur")))
         if extraction:
             return remarques
         for ident in sorted(anciennes.keys() - nouvelles.keys()):
@@ -220,17 +282,70 @@ def verifier_fichier(chemin: Path, trad: Path = commun.TRAD, base: list | None =
         for ident in sorted(anciennes.keys() & nouvelles.keys()):
             a, n = anciennes[ident], nouvelles[ident]
             for champ in FIGES:
-                if a.get(champ) != n.get(champ):
-                    remarques.append(Remarque("ERREUR", rel, ident, f"le champ « {champ} » ne se "
-                                              "modifie pas", _ligne_du_champ(lignes, ident, champ)))
+                if a.get(champ) == n.get(champ):
+                    continue
+                message = f"le champ « {champ} » ne se modifie pas"
+                if champ == "locuteur" and a.get(champ) and n.get(champ):
+                    # Le geste naturel : traduire le nom là où on le voit.
+                    message = (f"« locuteur » garde le nom anglais du jeu : remettre « {a[champ]} », "
+                               "puis écrire le nom français juste en dessous, sur une seule réplique "
+                               "de la scène : \"locuteur_fr\": "
+                               f"{json.dumps(n[champ], ensure_ascii=False)},")
+                remarques.append(Remarque("ERREUR", rel, ident, message,
+                                          _ligne_du_champ(lignes, ident, champ)))
     return remarques
 
 
-def annotation(r: Remarque) -> str:
+def annotation(r: Remarque, titre: str | None = None) -> str:
     """Annotation GitHub, posée directement sur la ligne du diff."""
     genre = "error" if r.niveau == "ERREUR" else "warning"
-    message = f"{r.id} : {r.texte}".replace("%", "%25").replace("\n", "%0A")
-    return f"::{genre} file={r.fichier},line={r.ligne},title={r.niveau}::{message}"
+    message = f"{r.id} : {r.texte}".replace("%", "%25").replace("\r", "").replace("\n", "%0A")
+    titre = (titre or r.niveau).replace("%", "%25").replace(",", "%2C").replace(":", "%3A")
+    return f"::{genre} file={r.fichier},line={r.ligne},title={titre}::{message}"
+
+
+def annotations(remarques: list[Remarque]) -> list[str]:
+    """Les annotations de la Pull Request, sans en perdre aucune.
+
+    GitHub n'en affiche que ANNOTATIONS_MAX de chaque niveau : quand il y en
+    a plus, la dernière place regroupe toutes celles qui restent.
+    """
+    sortie = []
+    for niveau in ("ERREUR", "ATTENTION"):
+        liste = [r for r in remarques if r.niveau == niveau]
+        if len(liste) <= ANNOTATIONS_MAX:
+            sortie += [annotation(r) for r in liste]
+            continue
+        sortie += [annotation(r) for r in liste[:ANNOTATIONS_MAX - 1]]
+        reste = liste[ANNOTATIONS_MAX - 1:]
+        autres = "\n".join(f"- {r.fichier} ligne {r.ligne}, {r.id} : {r.texte}" for r in reste[1:])
+        groupe = Remarque(niveau, reste[0].fichier, reste[0].id,
+                          f"{reste[0].texte}\n\nEt {len(reste) - 1} de plus, que GitHub "
+                          f"n'afficherait pas une par une :\n{autres}", reste[0].ligne)
+        sortie.append(annotation(groupe, f"{niveau} (+{len(reste) - 1})"))
+    return sortie
+
+
+def resume(remarques: list[Remarque], n_fichiers: int) -> str:
+    """Le résumé de la vérification (page de la CI), en Markdown : toutes les remarques."""
+    erreurs = sum(r.niveau == "ERREUR" for r in remarques)
+    lignes = ["## Vérification des traductions", "",
+              f"{n_fichiers} fichier(s) vérifié(s) : **{erreurs} erreur(s)**, "
+              f"{len(remarques) - erreurs} remarque(s).", ""]
+    if remarques:
+        lignes += ["| | Fichier | Ligne | Entrée | Remarque |", "|---|---|---:|---|---|"]
+        tries = sorted(remarques, key=lambda r: r.niveau != "ERREUR")
+        for r in tries[:LIGNES_DU_RESUME]:
+            icone = "❌" if r.niveau == "ERREUR" else "⚠️"
+            cellule = r.texte.replace("|", "\\|").replace("\n", " ")
+            lignes.append(f"| {icone} | `{r.fichier}` | {r.ligne} | `{r.id}` | {cellule} |")
+        if len(tries) > LIGNES_DU_RESUME:
+            lignes += ["", f"… et {len(tries) - LIGNES_DU_RESUME} de plus : voir le journal de l'étape."]
+    return "\n".join(lignes) + "\n"
+
+
+def _texte(r: Remarque) -> str:
+    return f"{r.niveau:9} {r.fichier}:{r.ligne}  {r.id}  {r.texte}"
 
 
 def _version_de_base(base: str, chemin: Path) -> list | None:
@@ -265,8 +380,20 @@ def main() -> int:
         remarques += verifier_fichier(f, base=base, largeurs=largeurs, dico=dico,
                                       extraction=args.extraction)
     erreurs = [r for r in remarques if r.niveau == "ERREUR"]
-    for r in (erreurs if args.erreurs else remarques):
-        print(annotation(r) if args.github else f"{r.niveau:9} {r.fichier}:{r.ligne}  {r.id}  {r.texte}")
+    montrees = erreurs if args.erreurs else remarques
+    if args.github:
+        for ligne in annotations(montrees):
+            print(ligne)
+        print("::group::Toutes les remarques")
+        for r in montrees:
+            print(_texte(r))
+        print("::endgroup::")
+        if os.environ.get("GITHUB_STEP_SUMMARY"):
+            with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as f:
+                f.write(resume(montrees, len(fichiers)))
+    else:
+        for r in montrees:
+            print(_texte(r))
     print(f"{len(fichiers)} fichier(s) vérifié(s) : {len(erreurs)} erreur(s), "
           f"{len(remarques) - len(erreurs)} remarque(s).")
     return 1 if erreurs else 0
