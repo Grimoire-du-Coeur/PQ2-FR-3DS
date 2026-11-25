@@ -7,7 +7,7 @@
   {
     "id": "MSG_000_1",
     "en": "An absolute hero appears!",
-    "fr": "Un héros absolu apparait!"
+    "fr": "Un héros absolu apparaît !"
   },
   {
     "id": "MSG_001",
@@ -17,46 +17,46 @@
   {
     "id": "MSG_002",
     "en": "Astoundingly powerful{SAUT}and wholly invincible!",
-    "fr": "Incroyablement puissant{SAUT}et totalement indestructible!"
+    "fr": "Incroyablement puissant{SAUT}et totalement invincible !"
   },
   {
     "id": "MSG_003",
     "en": "Kamoshidaman is justice incarnate,{SAUT}and justice itself is Kamoshidaman!",
-    "fr": "Kamoshidaman est la justice,{SAUT}et la justice est Kamoshidaman!"
+    "fr": "Kamoshidaman est la justice incarnée,{SAUT}et la justice, c'est Kamoshidaman !"
   },
   {
     "id": "MSG_004",
     "en": "This is a perfect society: justice{SAUT}rules, and must be obeyed by all...",
-    "fr": "C'est une société parfaite: où la jusice règne, et doit être obéis par tous..."
+    "fr": "Voici une société parfaite : la justice{SAUT}y règne, et tous doivent lui obéir..."
   },
   {
     "id": "MSG_005",
     "en": "However, a wicked miscreant voices{SAUT}discontent for our shining salvation!",
-    "fr": "Cependant, un méchant scélérat exprime{SAUT}son mécontentement face à notre salut radieux!"
+    "fr": "Cependant, un ignoble scélérat ose{SAUT}contester notre radieux salut !"
   },
   {
     "id": "MSG_006",
     "en": "What an ingrate!",
-    "fr": "Quel ingrat!"
+    "fr": "Quel ingrat !"
   },
   {
     "id": "MSG_006_1",
     "en": "Defying the hero of justice{SAUT}is unforgivable!",
-    "fr": "Défier le héros de la justice{SAUT}est impardonable!"
+    "fr": "Défier le héros de la justice{SAUT}est impardonnable !"
   },
   {
     "id": "MSG_007",
     "en": "Can Kamoshidaman defeat the evil{SAUT}that opposes righteousness?",
-    "fr": "Kamoshidaman peut-il battre le mal{SAUT}qui s'oppose au droit chemin?"
+    "fr": "Kamoshidaman peut-il battre le mal{SAUT}qui s'oppose au droit chemin ?"
   },
   {
     "id": "MSG_008",
     "en": "The absolute hero: Kamoshidaman!",
-    "fr": "Le héros absolu: Kamoshidaman"
+    "fr": "Le héros absolu : Kamoshidaman !"
   },
   {
     "id": "MSG_009",
     "en": "Now playing!",
-    "fr": "Actuellement au cinéma!"
+    "fr": "Actuellement au cinéma !"
   }
 ]
