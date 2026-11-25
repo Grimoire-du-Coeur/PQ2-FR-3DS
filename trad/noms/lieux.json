@@ -3,19 +3,19 @@
     "id": "1st Ave.~",
     "en": "1st Ave.~",
     "max": 19,
-    "fr": "1re Ave.~"
+    "fr": "1re Avenue~"
   },
   {
     "id": "2nd Ave.~",
     "en": "2nd Ave.~",
     "max": 19,
-    "fr": "2nd Ave.~"
+    "fr": "2e Avenue~"
   },
   {
     "id": "3rd Ave.",
     "en": "3rd Ave.",
     "max": 19,
-    "fr": "3ème Ave."
+    "fr": "3e Avenue"
   },
   {
     "id": "Area 1~",
@@ -57,19 +57,19 @@
     "id": "Lab Floor 1",
     "en": "Lab Floor 1",
     "max": 19,
-    "fr": "Labo Étage 1"
+    "fr": "Labo, étage 1"
   },
   {
     "id": "Lab Floor 1~",
     "en": "Lab Floor 1~",
     "max": 19,
-    "fr": "Labo Étage 1~"
+    "fr": "Labo, étage 1~"
   },
   {
     "id": "Lab Floor 2",
     "en": "Lab Floor 2",
     "max": 19,
-    "fr": "Labo Étage 2"
+    "fr": "Labo, étage 2"
   },
   {
     "id": "Act 1~",
@@ -135,7 +135,7 @@
     "id": "3rd Ave.~",
     "en": "3rd Ave.~",
     "max": 19,
-    "fr": "3ème Ave.~"
+    "fr": "3e Avenue~"
   },
   {
     "id": "Kamoshida Square",
@@ -159,7 +159,7 @@
     "id": "Central Server",
     "en": "Central Server",
     "max": 19,
-    "fr": "Serveur Central"
+    "fr": "Serveur central"
   },
   {
     "id": "Act 2",
@@ -189,7 +189,7 @@
     "id": "Endless Interlude",
     "en": "Endless Interlude",
     "max": 19,
-    "fr": "Interlude Sans Fin"
+    "fr": "Interlude sans fin"
   },
   {
     "id": "Depths",
