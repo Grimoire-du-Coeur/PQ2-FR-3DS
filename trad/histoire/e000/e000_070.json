@@ -2,7 +2,7 @@
   {
     "id": "MSG_000",
     "en": "The brakes aren't working!{SAUT}Mona, what's going on!?",
-    "fr": "Les freins ne fonctionnent pas !{SAUT}Mona, qu'est ce qui se passe !?"
+    "fr": "Les freins ne fonctionnent pas !{SAUT}Mona, qu'est-ce qui se passe !?"
   },
   {
     "id": "MSG_001",
@@ -17,6 +17,6 @@
   {
     "id": "MSG_003",
     "en": "W-W-We're gonna crash! I'm{SAUT}gonna puke! We're gonna die!",
-    "fr": "O-O-On va s'écraser ! je{SAUT}vais vomir ! On va mourir !"
+    "fr": "O-O-On va s'écraser ! Je{SAUT}vais vomir ! On va mourir !"
   }
 ]
