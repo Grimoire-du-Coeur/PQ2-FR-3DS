@@ -42,11 +42,11 @@
   {
     "id": "MSG_008",
     "en": "We're still in phantom thief attire,{SAUT}so we know it's not the real world...",
-    "fr": "Nous avons encore nos tenues de Voleurs Fantômes,{SAUT}nous ne sommes donc pas dans le monde réel..."
+    "fr": "Nous avons encore nos tenues de{SAUT}Voleurs Fantômes, nous ne sommes{SAUT}donc pas dans le monde réel..."
   },
   {
     "id": "MSG_009",
     "en": "Then, are we in another world?{SAUT}It seems... kind of foreign.",
-    "fr": "Alors, on est dans un autre monde ?{SAUT}Ça a l'air...un peu étrange."
+    "fr": "Alors, on est dans un autre monde ?{SAUT}Ça a l'air... un peu étranger."
   }
 ]
