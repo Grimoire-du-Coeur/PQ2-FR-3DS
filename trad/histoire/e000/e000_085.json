@@ -3,300 +3,300 @@
     "id": "MSG_000",
     "locuteur": "Makoto",
     "en": "Hey everyone, look at the Meta-Nav.{SAUT}It's not working... Something's wrong{SAUT}here.",
-    "fr": ""
+    "fr": "Tout le monde, regardez le Meta-Nav.{SAUT}Il ne fonctionne pas... Quelque chose{SAUT}cloche ici."
   },
   {
     "id": "MSG_001",
     "locuteur": "Morgana",
     "en": "Everyone's got the same error screen...{SAUT}So, everyone's app is bugged out at the{SAUT}same time?",
-    "fr": ""
+    "fr": "Ils ont tous le même message d'erreur...{SAUT}Donc, l'application bugue pour tout{SAUT}le monde en même temps ?"
   },
   {
     "id": "MSG_002",
     "locuteur": "Akechi",
     "en": "No, that seems highly unlikely. We need{SAUT}to gather more information.",
-    "fr": ""
+    "fr": "Non, cela semble très peu probable.{SAUT}Nous devons recueillir davantage{SAUT}d'informations."
   },
   {
     "id": "MSG_003",
     "locuteur": "Haru",
     "en": "Maybe we can find a clue to this if we{SAUT}look around the area...",
-    "fr": ""
+    "fr": "On peut peut-être trouver un indice en{SAUT}examinant les environs..."
   },
   {
     "id": "MSG_004",
     "locuteur": "Ryuji",
     "en": "Crap―a cop!",
-    "fr": ""
+    "fr": "Merde, un flic !"
   },
   {
     "id": "MSG_005",
     "locuteur": "Ann",
     "en": "Wait a sec, look at his uniform! That's{SAUT}not for Japan's police.",
-    "fr": ""
+    "fr": "Attendez, regardez son uniforme !{SAUT}C'est pas celui de la police japonaise."
   },
   {
     "id": "MSG_006",
     "locuteur": "Futaba",
     "en": "Looks like some foreign cop's uniform―{SAUT}it reminds me of the ones I've seen{SAUT}in FPSes.{PAGE}Hmm... seems like he's not a Shadow,{SAUT}either.",
-    "fr": ""
+    "fr": "On dirait une tenue de policier étranger,{SAUT}ça me rappelle ceux que j'ai vus{SAUT}dans les FPS.{PAGE}Hmm... il a pas l'air d'être une Ombre{SAUT}non plus."
   },
   {
     "id": "MSG_007",
     "locuteur": "Makoto",
     "en": "Then, maybe we should... try to ask him{SAUT}where we are?",
-    "fr": ""
+    "fr": "Alors, peut-être devrions-nous... tenter{SAUT}de lui demander où nous sommes ?"
   },
   {
     "id": "MSG_008",
     "locuteur": "Ryuji",
     "en": "Wha―Talk to a cop!? In these clothes?",
-    "fr": ""
+    "fr": "Quoi... parler à un flic !?{SAUT}Dans ces fringues ?"
   },
   {
     "id": "SEL_009",
     "choix": true,
     "en": "Good luck, Queen.{OPTION}We'll manage somehow.",
-    "fr": ""
+    "fr": "Bonne chance, Queen.{OPTION}On finira par se débrouiller."
   },
   {
     "id": "MSG_010",
     "locuteur": "Makoto",
     "en": "Huh? Me!?",
-    "fr": ""
+    "fr": "Hein ? Moi !?"
   },
   {
     "id": "MSG_011",
     "locuteur": "Futaba",
     "en": "If you end up aggroing him, just{SAUT}threaten him with your spikes,{SAUT}Queen!",
-    "fr": ""
+    "fr": "Si tu finis par l'énerver, menace-le{SAUT}juste avec tes poings, Queen !"
   },
   {
     "id": "MSG_012",
     "locuteur": "Makoto",
     "en": "*sigh* Fine―I suppose it was my idea{SAUT}in the first place...",
-    "fr": ""
+    "fr": "*soupir* Bon, je suppose que c'était{SAUT}mon idée au départ..."
   },
   {
     "id": "MSG_013",
     "locuteur": "Ann",
     "en": "Yeah, I suppose standing around and{SAUT}just talking about it isn't getting us{SAUT}anywhere...{PAGE}Well, we're counting on you, Queen!",
-    "fr": ""
+    "fr": "Ouais, j'imagine que rester là à{SAUT}en parler, ça ne nous mènera nulle part...{PAGE}Bref, on compte sur toi, Queen !"
   },
   {
     "id": "MSG_014",
     "locuteur": "Makoto",
     "en": "Huh? Me!?",
-    "fr": ""
+    "fr": "Hein ? Moi !?"
   },
   {
     "id": "MSG_015",
     "locuteur": "Futaba",
     "en": "Mweheheh―if you plot to do it,{SAUT}you got to do it!",
-    "fr": ""
+    "fr": "Mweheheh, si t'as monté un plan,{SAUT}t'es obligée d'y aller !"
   },
   {
     "id": "MSG_016",
     "locuteur": "Makoto",
     "en": "All right, I'll give it a try. But if{SAUT}something goes wrong, I need you all{SAUT}to back me up...",
-    "fr": ""
+    "fr": "Très bien, je vais essayer. Mais si{SAUT}quelque chose tourne mal, j'ai besoin{SAUT}que vous me couvriez..."
   },
   {
     "id": "MSG_017",
     "locuteur": "Makoto",
     "en": "Um, excuse me...",
-    "fr": ""
+    "fr": "Euh, excusez-moi..."
   },
   {
     "id": "MSG_018",
     "locuteur": "Serious policeman",
     "en": "Hmm―whoa there, what's with{SAUT}the getup?",
-    "fr": ""
+    "fr": "Hmm, dis donc... c'est quoi{SAUT}cet accoutrement ?"
   },
   {
     "id": "MSG_019",
     "locuteur": "Ryuji",
     "en": "I toldja so...{PAGE}Especially with Queen doing it. She{SAUT}looks like she just stepped out of{SAUT}Wild Max.",
-    "fr": ""
+    "fr": "J'te l'avais bien dit...{PAGE}Surtout avec Queen qui s'y met.{SAUT}On dirait qu'elle sort tout{SAUT}droit de Wild Max."
   },
   {
     "id": "MSG_020",
     "locuteur": "Makoto",
     "en": "Ah... We're headed to a costume party,{SAUT}but we've gotten ourselves lost.",
-    "fr": ""
+    "fr": "Ah... On se rendait à une fête{SAUT}costumée, mais on s'est perdus."
   },
   {
     "id": "MSG_021",
     "locuteur": "Morgana",
     "en": "Ugh, such a cliché answer!",
-    "fr": ""
+    "fr": "Woah, quelle réponse cliché !"
   },
   {
     "id": "MSG_022",
     "locuteur": "Futaba",
     "en": "That's what makes it perfect!",
-    "fr": ""
+    "fr": "C'est ce qui la rend parfaite !"
   },
   {
     "id": "MSG_023",
     "locuteur": "Serious policeman",
     "en": "A party, eh? Those are some pretty{SAUT}elaborate costumes...",
-    "fr": ""
+    "fr": "Une fête, hein ? Ce sont des costumes{SAUT}assez élaborés..."
   },
   {
     "id": "MSG_024",
     "locuteur": "Futaba",
     "en": "Ooh, he actually bought it! That was{SAUT}easier than we expected.",
-    "fr": ""
+    "fr": "Oh, il l'a vraiment gobé ! C'était{SAUT}plus facile que prévu."
   },
   {
     "id": "MSG_025",
     "locuteur": "Yusuke",
     "en": "Perhaps our ostentatious styles{SAUT}helped to bolster our credibility.",
-    "fr": ""
+    "fr": "Peut-être nos styles ostentatoires{SAUT}ont-ils contribué à asseoir notre{SAUT}crédibilité."
   },
   {
     "id": "MSG_026",
     "locuteur": "Serious policeman",
     "en": "So, what's the problem?",
-    "fr": ""
+    "fr": "Alors, quel est le problème ?"
   },
   {
     "id": "MSG_027",
     "locuteur": "Makoto",
     "en": "If it's not too much trouble, could you{SAUT}tell us where we are right now?",
-    "fr": ""
+    "fr": "Si cela ne vous dérange pas trop,{SAUT}pourriez-vous nous dire où nous nous{SAUT}trouvons en ce moment ?"
   },
   {
     "id": "MSG_028",
     "locuteur": "Serious policeman",
     "en": "This is the 1st Ward of Kamo City―{SAUT}don't you know anything about{SAUT}the megalopolis?",
-    "fr": ""
+    "fr": "C'est le 1er arrondissement de{SAUT}Kamo City, tu ne sais donc rien{SAUT}de la mégalopole ?"
   },
   {
     "id": "MSG_029",
     "locuteur": "Ryuji",
     "en": "Ugh, what a crappy name. Ever heard{SAUT}of it, Joker?",
-    "fr": ""
+    "fr": "Pfff, quel nom pourri. T'en as déjà{SAUT}entendu parler, Joker ?"
   },
   {
     "id": "SEL_030",
     "choix": true,
     "en": "Yeah, I've heard of it.{OPTION}I haven't got a clue.",
-    "fr": ""
+    "fr": "Ouais, ça me dit quelque chose.{OPTION}J'en ai aucune idée."
   },
   {
     "id": "MSG_031",
     "locuteur": "Ryuji",
     "en": "Huh? For real!?",
-    "fr": ""
+    "fr": "Hein ? Sérieux !?"
   },
   {
     "id": "MSG_032",
     "locuteur": "Haru",
     "en": "Well, it doesn't ring a bell for me...{SAUT}Maybe it's a new theme park or{SAUT}something?",
-    "fr": ""
+    "fr": "Moi, ça ne me dit rien du tout...{SAUT}Peut-être qu'il s'agit d'un nouveau{SAUT}parc d'attractions ou autre chose ?"
   },
   {
     "id": "MSG_033",
     "locuteur": "Ryuji",
     "en": "Yeah, me neither. I'd never forget{SAUT}a name like that if I heard it before.",
-    "fr": ""
+    "fr": "Ouais, moi non plus. Je n'oublierais{SAUT}jamais un nom pareil si je l'avais{SAUT}déjà entendu."
   },
   {
     "id": "MSG_034",
     "locuteur": "Haru",
     "en": "Hmm... Maybe it's a new theme park{SAUT}or something?",
-    "fr": ""
+    "fr": "Hmm... Peut-être que c'est un nouveau{SAUT}parc d'attractions ou autre chose ?"
   },
   {
     "id": "MSG_035",
     "locuteur": "Serious policeman",
     "en": "You're all acting awfully suspicious―{SAUT}where did you say you came from?",
-    "fr": ""
+    "fr": "Vous avez tous l'air extrêmement suspects.{SAUT}D'où venez-vous exactement ?"
   },
   {
     "id": "SEL_036",
     "choix": true,
     "en": "Oh, from thataway.{OPTION}We got here through Mementos.{OPTION}Um, we can't remember.",
-    "fr": ""
+    "fr": "Ah, de ce côté-là.{OPTION}On est passé par le Mementos.{OPTION}Euh, on s'en souvient plus."
   },
   {
     "id": "MSG_037",
     "locuteur": "Serious policeman",
     "en": "And which way is that!?",
-    "fr": ""
+    "fr": "Et de quel côté est-ce !?"
   },
   {
     "id": "MSG_038",
     "locuteur": "Serious policeman",
     "en": "Memen―What?",
-    "fr": ""
+    "fr": "Memen... quoi ?"
   },
   {
     "id": "MSG_039",
     "locuteur": "Serious policeman",
     "en": "Wha―But you can remember that{SAUT}you're headed to a costume party!?",
-    "fr": ""
+    "fr": "Quoi ! Mais tu peux te souvenir{SAUT}que tu te rends à une fête{SAUT}costumée !?"
   },
   {
     "id": "MSG_040",
     "locuteur": "Ann",
     "en": "He's not buying it!",
-    "fr": ""
+    "fr": "Il n'y croit pas !"
   },
   {
     "id": "MSG_041",
     "locuteur": "Akechi",
     "en": "Hmm. This is not going well...",
-    "fr": ""
+    "fr": "Hmm. Ça ne se passe pas très bien..."
   },
   {
     "id": "MSG_042",
     "locuteur": "Serious policeman",
     "en": "You're all pretty shady―let's hear what{SAUT}you've been up to around here, and{SAUT}don't feed me any more lines!",
-    "fr": ""
+    "fr": "Vous êtes tous plutôt louches, dites-moi{SAUT}ce que vous avez manigancé par ici,{SAUT}et épargnez-moi vos bobards !"
   },
   {
     "id": "MSG_043",
     "locuteur": "Makoto",
     "en": "Ah, wait, please! We really are―",
-    "fr": ""
+    "fr": "Ah, attendez, s'il vous plaît !{SAUT}Nous sommes vraiment..."
   },
   {
     "id": "MSG_044",
     "locuteur": "Morgana",
     "en": "Oh no―backup!? And tons of it!",
-    "fr": ""
+    "fr": "Oh non, du renfort ! Et pas{SAUT}qu'un peu !"
   },
   {
     "id": "MSG_045",
     "locuteur": "Serious policeman",
     "en": "Those masked individuals are behaving{SAUT}suspiciously. Arrest them immediately!",
-    "fr": ""
+    "fr": "Ces individus masqués se comportent de{SAUT}manière suspecte. Arrêtez-les{SAUT}immédiatement !"
   },
   {
     "id": "MSG_046",
     "locuteur": "Fat policeman",
     "en": "Roger that―we'll take the charge!",
-    "fr": ""
+    "fr": "Bien reçu, on prend les choses{SAUT}en main !"
   },
   {
     "id": "MSG_047",
     "locuteur": "Ryuji",
     "en": "Oh, shit! Kick the bricks!",
-    "fr": ""
+    "fr": "Oh, merde ! On se tire !"
   },
   {
     "id": "MSG_048",
     "locuteur": "Makoto",
     "en": "S-Sorry!",
-    "fr": ""
+    "fr": "D-Désolée !"
   },
   {
     "id": "MSG_049",
     "locuteur": "Serious policeman",
     "en": "Go! Don't let 'em get away!",
-    "fr": ""
+    "fr": "Allez ! Ne les laissez pas{SAUT}s'échapper !"
   }
 ]
