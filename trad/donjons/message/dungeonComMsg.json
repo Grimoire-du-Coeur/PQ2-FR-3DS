@@ -2,12 +2,12 @@
   {
     "id": "DG_MSG_QUEST_FIND",
     "en": "You've found a quest!",
-    "fr": "Tu as trouvé une quête!"
+    "fr": "Vous avez trouvé une quête !"
   },
   {
     "id": "DG_MSG_QUEST_FIND_QUESTI",
     "en": "You couldn't find a quest...{SAUT}because you're already on a quest!",
-    "fr": "Tu n’as pas trouvé de quête...{SAUT}car tu en as déjà accepté une!"
+    "fr": "Vous n'avez pas trouvé de quête...{SAUT}car vous en avez déjà une en cours !"
   },
   {
     "id": "DG_MSG_LOCK_DOOR_NO_OPEN",
