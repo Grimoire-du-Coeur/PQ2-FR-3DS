@@ -15,7 +15,7 @@
     "id": "MSG_002",
     "locuteur": "Akechi",
     "en": "No, that seems highly unlikely. We need{SAUT}to gather more information.",
-    "fr": "Non, cela semble très peu probable.{SAUT}Nous devons recueillir d'avantage{SAUT}d'informations."
+    "fr": "Non, cela semble très peu probable.{SAUT}Nous devons recueillir davantage{SAUT}d'informations."
   },
   {
     "id": "MSG_003",
@@ -33,13 +33,13 @@
     "id": "MSG_005",
     "locuteur": "Ann",
     "en": "Wait a sec, look at his uniform! That's{SAUT}not for Japan's police.",
-    "fr": "attendez un peu, regardez son uniforme !{SAUT}C'est pas pour la police japonaise."
+    "fr": "Attendez, regardez son uniforme !{SAUT}C'est pas celui de la police japonaise."
   },
   {
     "id": "MSG_006",
     "locuteur": "Futaba",
     "en": "Looks like some foreign cop's uniform―{SAUT}it reminds me of the ones I've seen{SAUT}in FPSes.{PAGE}Hmm... seems like he's not a Shadow,{SAUT}either.",
-    "fr": "On dirait une tenue de policier étranger,{SAUT}ça me rappelle ceux que j'ai vu{SAUT}dans les FPS.{PAGE}Hmm... il a pas l'air d'être une Ombre{SAUT}non plus."
+    "fr": "On dirait une tenue de policier étranger,{SAUT}ça me rappelle ceux que j'ai vus{SAUT}dans les FPS.{PAGE}Hmm... il a pas l'air d'être une Ombre{SAUT}non plus."
   },
   {
     "id": "MSG_007",
@@ -52,7 +52,6 @@
     "locuteur": "Ryuji",
     "en": "Wha―Talk to a cop!? In these clothes?",
     "fr": "Quoi... parler à un flic !?{SAUT}Dans ces fringues ?"
-
   },
   {
     "id": "SEL_009",
@@ -70,19 +69,19 @@
     "id": "MSG_011",
     "locuteur": "Futaba",
     "en": "If you end up aggroing him, just{SAUT}threaten him with your spikes,{SAUT}Queen!",
-    "fr": "Si tu fini par l'énerver, menace-le{SAUT}juste avec tes poings, Queen !"
+    "fr": "Si tu finis par l'énerver, menace-le{SAUT}juste avec tes poings, Queen !"
   },
   {
     "id": "MSG_012",
     "locuteur": "Makoto",
     "en": "*sigh* Fine―I suppose it was my idea{SAUT}in the first place...",
-    "fr": "*soupir* Bon, Je suppose que c'était{SAUT}mon idée au départ..."
+    "fr": "*soupir* Bon, je suppose que c'était{SAUT}mon idée au départ..."
   },
   {
     "id": "MSG_013",
     "locuteur": "Ann",
     "en": "Yeah, I suppose standing around and{SAUT}just talking about it isn't getting us{SAUT}anywhere...{PAGE}Well, we're counting on you, Queen!",
-    "fr": "Ouais, j'imagine que rester là à en{SAUT}en parler, ça ne nous mènera nulle part...{PAGE}Bref, on compte sur toi, Queen !"
+    "fr": "Ouais, j'imagine que rester là à{SAUT}en parler, ça ne nous mènera nulle part...{PAGE}Bref, on compte sur toi, Queen !"
   },
   {
     "id": "MSG_014",
@@ -94,7 +93,7 @@
     "id": "MSG_015",
     "locuteur": "Futaba",
     "en": "Mweheheh―if you plot to do it,{SAUT}you got to do it!",
-    "fr": "Mweheheh, si t'as monté un plan,{SAUT}t'es obliger d'y aller !"
+    "fr": "Mweheheh, si t'as monté un plan,{SAUT}t'es obligée d'y aller !"
   },
   {
     "id": "MSG_016",
@@ -110,9 +109,9 @@
   },
   {
     "id": "MSG_018",
-    "locuteur": "Policier sérieux",
+    "locuteur": "Serious policeman",
     "en": "Hmm―whoa there, what's with{SAUT}the getup?",
-    "fr": "Hmm, dis donc... c'est quoi{SAUT}cette accoutrement ?"
+    "fr": "Hmm, dis donc... c'est quoi{SAUT}cet accoutrement ?"
   },
   {
     "id": "MSG_019",
@@ -140,7 +139,7 @@
   },
   {
     "id": "MSG_023",
-    "locuteur": "Policer sérieux",
+    "locuteur": "Serious policeman",
     "en": "A party, eh? Those are some pretty{SAUT}elaborate costumes...",
     "fr": "Une fête, hein ? Ce sont des costumes{SAUT}assez élaborés..."
   },
@@ -148,7 +147,7 @@
     "id": "MSG_024",
     "locuteur": "Futaba",
     "en": "Ooh, he actually bought it! That was{SAUT}easier than we expected.",
-    "fr": "Oh, il l'a vraiment gobé ! C'était{SAUT}plus facile qu'on l'espérait."
+    "fr": "Oh, il l'a vraiment gobé ! C'était{SAUT}plus facile que prévu."
   },
   {
     "id": "MSG_025",
@@ -158,7 +157,7 @@
   },
   {
     "id": "MSG_026",
-    "locuteur": "Policer sérieux",
+    "locuteur": "Serious policeman",
     "en": "So, what's the problem?",
     "fr": "Alors, quel est le problème ?"
   },
@@ -170,7 +169,7 @@
   },
   {
     "id": "MSG_028",
-    "locuteur": "Policier sérieux",
+    "locuteur": "Serious policeman",
     "en": "This is the 1st Ward of Kamo City―{SAUT}don't you know anything about{SAUT}the megalopolis?",
     "fr": "C'est le 1er arrondissement de{SAUT}Kamo City, tu ne sais donc rien{SAUT}de la mégalopole ?"
   },
@@ -202,7 +201,7 @@
     "id": "MSG_033",
     "locuteur": "Ryuji",
     "en": "Yeah, me neither. I'd never forget{SAUT}a name like that if I heard it before.",
-    "fr": "Ouais, moi non plus. Je n'oublirais{SAUT}jamais un nom pareil si je l'avais{SAUT}déjà entendu."
+    "fr": "Ouais, moi non plus. Je n'oublierais{SAUT}jamais un nom pareil si je l'avais{SAUT}déjà entendu."
   },
   {
     "id": "MSG_034",
@@ -212,7 +211,7 @@
   },
   {
     "id": "MSG_035",
-    "locuteur": "Policier sérieux",
+    "locuteur": "Serious policeman",
     "en": "You're all acting awfully suspicious―{SAUT}where did you say you came from?",
     "fr": "Vous avez tous l'air extrêmement suspects.{SAUT}D'où venez-vous exactement ?"
   },
@@ -224,21 +223,21 @@
   },
   {
     "id": "MSG_037",
-    "locuteur": "Policier sérieux",
+    "locuteur": "Serious policeman",
     "en": "And which way is that!?",
     "fr": "Et de quel côté est-ce !?"
   },
   {
     "id": "MSG_038",
-    "locuteur": "Policier sérieux",
+    "locuteur": "Serious policeman",
     "en": "Memen―What?",
-    "fr": "Memen-Quoi ?"
+    "fr": "Memen... quoi ?"
   },
   {
     "id": "MSG_039",
-    "locuteur": "SPolicier sérieux",
+    "locuteur": "Serious policeman",
     "en": "Wha―But you can remember that{SAUT}you're headed to a costume party!?",
-    "fr": "Quoi ! Mais tu peux te souvenir{SAUT}que tu te rend à une fête{SAUT}costumée !?"
+    "fr": "Quoi ! Mais tu peux te souvenir{SAUT}que tu te rends à une fête{SAUT}costumée !?"
   },
   {
     "id": "MSG_040",
@@ -254,9 +253,9 @@
   },
   {
     "id": "MSG_042",
-    "locuteur": "Policier sérieux",
+    "locuteur": "Serious policeman",
     "en": "You're all pretty shady―let's hear what{SAUT}you've been up to around here, and{SAUT}don't feed me any more lines!",
-    "fr": "Vous êtes tout plutôt louches, dites-moi{SAUT}ce que vous avez manigancé par ici,{SAUT}et épargnez-moi vos bobards !"
+    "fr": "Vous êtes tous plutôt louches, dites-moi{SAUT}ce que vous avez manigancé par ici,{SAUT}et épargnez-moi vos bobards !"
   },
   {
     "id": "MSG_043",
@@ -272,13 +271,13 @@
   },
   {
     "id": "MSG_045",
-    "locuteur": "Policier sérieux",
+    "locuteur": "Serious policeman",
     "en": "Those masked individuals are behaving{SAUT}suspiciously. Arrest them immediately!",
-    "fr": "Ces individus masqués se comporte de{SAUT}manière suspecte. Arrêtez-les{SAUT}immédiatement !"
+    "fr": "Ces individus masqués se comportent de{SAUT}manière suspecte. Arrêtez-les{SAUT}immédiatement !"
   },
   {
     "id": "MSG_046",
-    "locuteur": "Policier corpulent",
+    "locuteur": "Fat policeman",
     "en": "Roger that―we'll take the charge!",
     "fr": "Bien reçu, on prend les choses{SAUT}en main !"
   },
@@ -286,17 +285,17 @@
     "id": "MSG_047",
     "locuteur": "Ryuji",
     "en": "Oh, shit! Kick the bricks!",
-    "fr": "Oh, merde ! Foutez le camp !"
+    "fr": "Oh, merde ! On se tire !"
   },
   {
     "id": "MSG_048",
     "locuteur": "Makoto",
     "en": "S-Sorry!",
-    "fr": "D-Désolé !"
+    "fr": "D-Désolée !"
   },
   {
     "id": "MSG_049",
-    "locuteur": "Policier sérieux",
+    "locuteur": "Serious policeman",
     "en": "Go! Don't let 'em get away!",
     "fr": "Allez ! Ne les laissez pas{SAUT}s'échapper !"
   }
