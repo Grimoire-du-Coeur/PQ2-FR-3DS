@@ -3,127 +3,127 @@
     "id": "1st Ave.~",
     "en": "1st Ave.~",
     "max": 19,
-    "fr": ""
+    "fr": "1re Avenue~"
   },
   {
     "id": "2nd Ave.~",
     "en": "2nd Ave.~",
     "max": 19,
-    "fr": ""
+    "fr": "2e Avenue~"
   },
   {
     "id": "3rd Ave.",
     "en": "3rd Ave.",
     "max": 19,
-    "fr": ""
+    "fr": "3e Avenue"
   },
   {
     "id": "Area 1~",
     "en": "Area 1~",
     "max": 19,
-    "fr": ""
+    "fr": "Secteur 1~"
   },
   {
     "id": "Area 2~",
     "en": "Area 2~",
     "max": 19,
-    "fr": ""
+    "fr": "Secteur 2~"
   },
   {
     "id": "Area 3~",
     "en": "Area 3~",
     "max": 19,
-    "fr": ""
+    "fr": "Secteur 3~"
   },
   {
     "id": "Area 4~",
     "en": "Area 4~",
     "max": 19,
-    "fr": ""
+    "fr": "Secteur 4~"
   },
   {
     "id": "Zone 1~",
     "en": "Zone 1~",
     "max": 19,
-    "fr": ""
+    "fr": "Zone 1~"
   },
   {
     "id": "Zone 2~",
     "en": "Zone 2~",
     "max": 19,
-    "fr": ""
+    "fr": "Zone 2~"
   },
   {
     "id": "Lab Floor 1",
     "en": "Lab Floor 1",
     "max": 19,
-    "fr": ""
+    "fr": "Labo, étage 1"
   },
   {
     "id": "Lab Floor 1~",
     "en": "Lab Floor 1~",
     "max": 19,
-    "fr": ""
+    "fr": "Labo, étage 1~"
   },
   {
     "id": "Lab Floor 2",
     "en": "Lab Floor 2",
     "max": 19,
-    "fr": ""
+    "fr": "Labo, étage 2"
   },
   {
     "id": "Act 1~",
     "en": "Act 1~",
     "max": 19,
-    "fr": ""
+    "fr": "Acte 1~"
   },
   {
     "id": "Act 3~",
     "en": "Act 3~",
     "max": 19,
-    "fr": ""
+    "fr": "Acte 3~"
   },
   {
     "id": "Act 5~",
     "en": "Act 5~",
     "max": 19,
-    "fr": ""
+    "fr": "Acte 5~"
   },
   {
     "id": "Block 1~",
     "en": "Block 1~",
     "max": 19,
-    "fr": ""
+    "fr": "Bloc 1~"
   },
   {
     "id": "Block 1",
     "en": "Block 1",
     "max": 19,
-    "fr": ""
+    "fr": "Bloc 1"
   },
   {
     "id": "Block 2",
     "en": "Block 2",
     "max": 19,
-    "fr": ""
+    "fr": "Bloc 2"
   },
   {
     "id": "Block 2~",
     "en": "Block 2~",
     "max": 19,
-    "fr": ""
+    "fr": "Bloc 2~"
   },
   {
     "id": "Block 3",
     "en": "Block 3",
     "max": 19,
-    "fr": ""
+    "fr": "Bloc 3"
   },
   {
     "id": "Block 3~",
     "en": "Block 3~",
     "max": 19,
-    "fr": ""
+    "fr": "Bloc 3~"
   },
   {
     "id": "Block 4",
@@ -135,66 +135,66 @@
     "id": "3rd Ave.~",
     "en": "3rd Ave.~",
     "max": 19,
-    "fr": ""
+    "fr": "3e Avenue~"
   },
   {
     "id": "Kamoshida Square",
     "en": "Kamoshida Square",
     "max": 19,
-    "fr": ""
+    "fr": "Place Kamoshida"
   },
   {
     "id": "Isle's End",
     "en": "Isle's End",
     "max": 19,
-    "fr": ""
+    "fr": "Bout de l'Île"
   },
   {
     "id": "Zone 1",
     "en": "Zone 1",
     "max": 19,
-    "fr": ""
+    "fr": "Zone 1"
   },
   {
     "id": "Central Server",
     "en": "Central Server",
     "max": 19,
-    "fr": ""
+    "fr": "Serveur central"
   },
   {
     "id": "Act 2",
     "en": "Act 2",
     "max": 19,
-    "fr": ""
+    "fr": "Acte 2"
   },
   {
     "id": "Act 4",
     "en": "Act 4",
     "max": 19,
-    "fr": ""
+    "fr": "Acte 4"
   },
   {
     "id": "Act 6",
     "en": "Act 6",
     "max": 19,
-    "fr": ""
+    "fr": "Acte 6"
   },
   {
     "id": "Act 7",
     "en": "Act 7",
     "max": 19,
-    "fr": ""
+    "fr": "Acte 7"
   },
   {
     "id": "Endless Interlude",
     "en": "Endless Interlude",
     "max": 19,
-    "fr": ""
+    "fr": "Interlude sans fin"
   },
   {
     "id": "Depths",
     "en": "Depths",
     "max": 19,
-    "fr": ""
+    "fr": "Abîmes"
   }
 ]
