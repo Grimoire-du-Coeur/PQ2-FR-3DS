@@ -2,12 +2,12 @@
   {
     "id": "MSG_000",
     "en": "Save the story up to this point?",
-    "fr": ""
+    "fr": "Sauvegarder votre progression actuelle ?"
   },
   {
     "id": "SEL_001",
     "choix": true,
     "en": "Yes{OPTION}No",
-    "fr": ""
+    "fr": "Oui{OPTION}Non"
   }
 ]
