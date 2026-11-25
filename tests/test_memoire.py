@@ -49,3 +49,34 @@ def test_couverture(tmp_path):
     assert m.couvre({"id": "2", "en": "Arf!", "fr": ""}) is True
     assert m.couvre({"id": "3", "en": "Woof!", "fr": ""}) is False
     assert m.couvre({"id": "1", "en": "Arf!", "fr": "Ouaf !"}) is False   # déjà traduit lui-même
+
+
+def test_noms_de_scene():
+    entrees = [{"id": "1", "locuteur": "Serious policeman", "en": "Hm.", "fr": ""},
+               {"id": "2", "locuteur": "Serious policeman", "locuteur_fr": "Policier sérieux",
+                "en": "Go!", "fr": ""},
+               {"id": "3", "locuteur": "Ryuji", "locuteur_fr": "", "en": "Crap!", "fr": ""}]
+    assert memoire.noms_de_scene(entrees) == {"Serious policeman": "Policier sérieux"}
+
+
+def test_un_nom_traduit_dans_une_scene_vaut_partout(tmp_path):
+    trad = _trad(tmp_path, {
+        "histoire/e000/a.json": [{"id": "1", "locuteur": "Fat policeman",
+                                  "locuteur_fr": "Policier corpulent", "en": "Roger!", "fr": ""}],
+        "histoire/e000/b.json": [{"id": "1", "locuteur": "Fat policeman", "en": "Stop!", "fr": ""}],
+    })
+    loc = memoire.construire_locuteurs(trad)
+    assert loc.nom("Fat policeman") == "Policier corpulent"
+    assert loc.nom("Ryuji") is None
+
+
+def test_priorite_des_noms(tmp_path):
+    trad = _trad(tmp_path, {
+        "noms/locuteurs.json": [{"id": "Voice", "en": "Voice", "fr": "Voix"}],
+        "a.json": [{"id": "1", "locuteur": "Voice", "locuteur_fr": "Une voix", "en": "Hi", "fr": ""}],
+        "b.json": [{"id": "1", "locuteur": "Voice", "locuteur_fr": "La voix", "en": "Hi", "fr": ""}],
+    })
+    loc = memoire.construire_locuteurs(trad)
+    assert loc.nom("Voice", {"Voice": "Une voix"}) == "Une voix"     # la scène garde la main
+    assert loc.nom("Voice", {}) == "Voix"                            # puis locuteurs.json
+    assert loc.divergences() == [("Voice", {"Une voix": 1, "La voix": 1})]

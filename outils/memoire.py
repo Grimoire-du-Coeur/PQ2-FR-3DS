@@ -11,6 +11,10 @@ elle (un même anglais peut demander un autre français selon la scène).
 
 Quand un même anglais a été traduit de plusieurs façons, la plus fréquente
 gagne, et la divergence est listée dans le suivi pour être harmonisée.
+
+Les noms des personnages qui parlent suivent la même idée (``Locuteurs``) :
+un nom se traduit dans trad/noms/locuteurs.json, ou directement dans la
+scène avec le champ ``"locuteur_fr"``, et ce nom traduit vaut partout.
 """
 
 from __future__ import annotations
@@ -21,6 +25,8 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 import commun
+
+LOCUTEURS = "noms/locuteurs.json"
 
 
 @dataclass
@@ -53,6 +59,59 @@ def construire(trad: Path = commun.TRAD) -> Memoire:
                 # premier fichier dans l'ordre alphabétique l'emporte.
                 m.variantes.setdefault(e["en"], Counter())[e["fr"]] += 1
     return m
+
+
+def noms_de_scene(entrees: list[dict]) -> dict[str, str]:
+    """{nom anglais: nom français} des champs « locuteur_fr » d'un fichier de trad/.
+
+    Un nom n'a qu'une place dans la table d'un script : il suffit de le
+    traduire sur une seule réplique de la scène. Si deux répliques le
+    traduisent différemment, la première l'emporte (valider.py le refuse).
+    """
+    sortie: dict[str, str] = {}
+    for e in entrees:
+        if e.get("locuteur") and e.get("locuteur_fr"):
+            sortie.setdefault(e["locuteur"], e["locuteur_fr"])
+    return sortie
+
+
+@dataclass
+class Locuteurs:
+    """Le français de chaque nom de locuteur, à trois niveaux.
+
+    1. la scène elle-même (« locuteur_fr ») : elle garde la main ;
+    2. trad/noms/locuteurs.json, qui fait foi pour tout le jeu ;
+    3. le nom donné par les autres scènes, le plus fréquent (à égalité, le
+       premier fichier dans l'ordre alphabétique).
+    """
+    references: dict[str, str] = field(default_factory=dict)      # locuteurs.json
+    variantes: dict[str, Counter] = field(default_factory=dict)   # anglais -> {français: scènes}
+
+    def nom(self, en: str, scene: dict[str, str] | None = None) -> str | None:
+        """Le nom français à afficher pour ``en``, ou None s'il reste anglais."""
+        if scene and scene.get(en):
+            return scene[en]
+        if self.references.get(en):
+            return self.references[en]
+        v = self.variantes.get(en)
+        return v.most_common(1)[0][0] if v else None
+
+    def divergences(self) -> list[tuple[str, dict[str, int]]]:
+        """Noms traduits de plusieurs façons d'une scène à l'autre."""
+        sortie = [(en, dict(v.most_common())) for en, v in self.variantes.items() if len(v) > 1]
+        return sorted(sortie, key=lambda x: (-sum(x[1].values()), x[0]))
+
+
+def construire_locuteurs(trad: Path = commun.TRAD) -> Locuteurs:
+    loc = Locuteurs()
+    for p in commun.fichiers_trad(trad):
+        rel = p.relative_to(trad).as_posix()
+        if rel == LOCUTEURS:
+            loc.references = {e["en"]: e["fr"] for e in commun.lire_json(p) if e.get("fr")}
+        elif not rel.startswith("noms/"):
+            for en, fr in noms_de_scene(commun.lire_json(p)).items():
+                loc.variantes.setdefault(en, Counter())[fr] += 1
+    return loc
 
 
 def main() -> int:

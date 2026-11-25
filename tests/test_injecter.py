@@ -16,6 +16,7 @@ from fabrique import (fabriquer_3ds, fabriquer_bf, fabriquer_code, fabriquer_cpk
                       fabriquer_pak, fabriquer_table_noms)
 
 MSG = fabriquer_msg1()
+MSG1_PAGES = msg1.lire_msg1(MSG).messages[0].pages
 
 
 def _image(tmp_path):
@@ -80,6 +81,40 @@ def test_locuteur_traduit(tmp_path):
     nouveaux = injecter.remplacements(scripts, trad)
     assert set(nouveaux) == {"init/aide.bmd", "event/e100/e101.bf"}
     assert msg1.lire_msg1(nouveaux["init/aide.bmd"]).locuteurs == [b"Y" + bytes.fromhex("81a1") + b"suke-kun"]
+
+
+def test_locuteur_traduit_dans_la_scene(tmp_path):
+    # Traduit sur une réplique de e101, le nom vaut pour toute la scène, et
+    # pour les autres scènes qui n'en donnent pas (aide.bmd).
+    scripts = catalogue.lire_scripts(_image(tmp_path))
+    trad = _trad(tmp_path, {"histoire/e100/e101.json": [{**_dlg(""), "locuteur_fr": "Yôsuke"}]})
+    nouveaux = injecter.remplacements(scripts, trad)
+    attendu = [b"Y" + bytes.fromhex("81a1") + b"suke"]
+    assert set(nouveaux) == {"init/aide.bmd", "event/e100/e101.bf"}
+    assert msg1.lire_msg1(nouveaux["init/aide.bmd"]).locuteurs == attendu
+    assert msg1.lire_msg1(nouveaux["init/aide.bmd"]).messages[0].pages == MSG1_PAGES
+
+
+def test_le_nom_de_la_scene_garde_la_main(tmp_path):
+    scripts = catalogue.lire_scripts(_image(tmp_path))
+    trad = _trad(tmp_path, {
+        "noms/locuteurs.json": [{"id": "Yosuke", "en": "Yosuke", "fr": "Yosuke-senpai"}],
+        "systeme/init/aide.json": [{**_dlg(""), "locuteur_fr": "Le prince"}],
+    })
+    nouveaux = injecter.remplacements(scripts, trad)
+    assert msg1.lire_msg1(nouveaux["init/aide.bmd"]).locuteurs == [b"Le prince"]
+    import flw0
+    autre = msg1.lire_msg1(flw0.extraire_messages(nouveaux["event/e100/e101.bf"]))
+    assert autre.locuteurs == [b"Yosuke-senpai"]                # locuteurs.json, pas l'autre scène
+
+
+def test_deux_noms_pour_un_locuteur_refuses(tmp_path):
+    scripts = catalogue.lire_scripts(_image(tmp_path))
+    trad = _trad(tmp_path, {"systeme/init/aide.json": [
+        {**_dlg(""), "locuteur_fr": "Yosuke"},
+        {**_dlg(""), "id": "dlg_z", "locuteur_fr": "Yôsuke"}]})
+    with pytest.raises(injecter.ErreurInjection, match=r"aide\.json dlg_z.*Yosuke"):
+        injecter.remplacements(scripts, trad)
 
 
 def test_rien_a_traduire(tmp_path):

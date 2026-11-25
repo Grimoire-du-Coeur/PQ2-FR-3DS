@@ -29,6 +29,18 @@ def test_compter(tmp_path):
     assert c.revoir == [("combat/b.json", "3")]
 
 
+def test_nom_traduit_dans_une_scene(tmp_path):
+    trad = _trad(tmp_path)
+    commun.ecrire_json(trad / "noms/locuteurs.json", [
+        {"id": "Ann", "en": "Ann", "fr": "Ann"},
+        {"id": "Fat policeman", "en": "Fat policeman", "fr": ""}])
+    commun.ecrire_json(trad / "histoire/e000/c.json", [
+        {"id": "4", "locuteur": "Fat policeman", "locuteur_fr": "Policier corpulent",
+         "en": "Roger", "fr": ""}])
+    c = stats.compter(trad)
+    assert c.categories["noms"] == [2, 2]
+
+
 def test_barre():
     assert stats.barre(0, 10) == "░" * 24
     assert stats.barre(10, 10) == "█" * 24

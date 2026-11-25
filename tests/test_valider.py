@@ -2,6 +2,7 @@
 
 import json
 
+import commun
 import valider
 
 LARGEURS = {"largeurs": {ch: 6 for ch in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'.,!?é "},
@@ -154,3 +155,83 @@ def test_extraction_n_efface_jamais_une_traduction(tmp_path):
     base = [_e("Salut.{PAGE}Ciao.")]
     r = _verifier(tmp_path, [_e("")], base=base, extraction=True)
     assert r[0].niveau == "ERREUR" and "effac" in r[0].texte
+
+
+def _policier(ident, **autres):
+    return {"id": ident, "locuteur": "Serious policeman", "en": "Go.", "fr": "", **autres}
+
+
+def test_nom_traduit_dans_la_scene(tmp_path):
+    assert _verifier(tmp_path, [_policier("MSG_001", locuteur_fr="Policier sérieux"),
+                                _policier("MSG_002")]) == []
+
+
+def test_deux_noms_pour_un_meme_locuteur(tmp_path):
+    r = _verifier(tmp_path, [_policier("MSG_001", locuteur_fr="Policier sérieux"),
+                             _policier("MSG_002", locuteur_fr="Policer sérieux")])
+    assert _niveaux(r) == [("ERREUR", "MSG_002")]
+    assert "Policier sérieux" in r[0].texte and "MSG_001" in r[0].texte
+
+
+def test_nom_sans_locuteur(tmp_path):
+    r = _verifier(tmp_path, [_e("", locuteur_fr="Policier")])
+    assert _niveaux(r) == [("ERREUR", "MSG_001")]
+
+
+def test_nom_avec_un_caractere_absent(tmp_path):
+    r = _verifier(tmp_path, [_policier("MSG_001", locuteur_fr="Señor")])
+    assert r[0].niveau == "ERREUR" and "ñ" in r[0].texte
+
+
+def test_nom_trop_large(tmp_path):
+    largeurs = {"largeurs": LARGEURS["largeurs"], "limites": {"histoire": 100, "noms": 60}}
+    trad = tmp_path / "trad"
+    p = trad / "histoire/x.json"
+    commun.ecrire_json(p, [_policier("MSG_001", locuteur_fr="Policier vraiment très sérieux")])
+    r = valider.verifier_fichier(p, trad=trad, largeurs=largeurs, dico=DICO)
+    assert _niveaux(r) == [("ATTENTION", "MSG_001")] and "px" in r[0].texte
+
+
+def test_locuteur_modifie_indique_quoi_faire(tmp_path):
+    base = [_policier("MSG_001")]
+    r = _verifier(tmp_path, [{**_policier("MSG_001"), "locuteur": "Policier sérieux"}], base=base)
+    assert _niveaux(r) == [("ERREUR", "MSG_001")]
+    assert '"locuteur_fr": "Policier sérieux"' in r[0].texte and "Serious policeman" in r[0].texte
+
+
+def test_nom_traduit_efface(tmp_path):
+    base = [_policier("MSG_001", locuteur_fr="Policier sérieux")]
+    r = _verifier(tmp_path, [_policier("MSG_001")], base=base)
+    assert _niveaux(r) == [("ERREUR", "MSG_001")] and "effac" in r[0].texte
+    # déplacé sur une autre réplique de la scène : rien n'est perdu
+    base = [_policier("MSG_001", locuteur_fr="Policier sérieux"), _policier("MSG_002")]
+    nouveau = [_policier("MSG_001"), _policier("MSG_002", locuteur_fr="Policier sérieux")]
+    assert _verifier(tmp_path, nouveau, base=base) == []
+
+
+def _remarques(n, niveau="ERREUR"):
+    return [valider.Remarque(niveau, "trad/x.json", f"MSG_{k:03}", "le champ ne se modifie pas", 10 + k)
+            for k in range(n)]
+
+
+def test_annotations_sans_depasser_la_limite_de_github():
+    # Le cas de la PR #24 : 12 erreurs, GitHub n'en affiche que 10.
+    lignes = valider.annotations(_remarques(12) + _remarques(3, "ATTENTION"))
+    erreurs = [l for l in lignes if l.startswith("::error")]
+    assert len(erreurs) == valider.ANNOTATIONS_MAX
+    assert len([l for l in lignes if l.startswith("::warning")]) == 3
+    dernier = erreurs[-1]
+    assert "line=19," in dernier and "MSG_009" in dernier
+    assert "MSG_010" in dernier and "MSG_011" in dernier and "Et 2 de plus" in dernier
+    assert "%0A" in dernier and "\n" not in dernier             # une seule ligne de commande
+
+
+def test_annotations_sous_la_limite_inchangees():
+    r = _remarques(10)
+    assert valider.annotations(r) == [valider.annotation(x) for x in r]
+
+
+def test_resume_complet():
+    md = valider.resume(_remarques(12) + _remarques(1, "ATTENTION"), 1)
+    assert "**12 erreur(s)**, 1 remarque(s)" in md
+    assert md.count("| ❌ |") == 12 and md.count("| ⚠️ |") == 1

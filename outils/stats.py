@@ -40,6 +40,7 @@ class Compte:
     revoir: list[tuple[str, str]] = field(default_factory=list)
     propages: int = 0                       # entrées couvertes par la mémoire (memoire.py)
     divergences: list = field(default_factory=list)
+    divergences_noms: list = field(default_factory=list)              # « locuteur_fr » des scènes
     en_cours: dict[str, list[tuple[str, int]]] = field(default_factory=dict)   # dossier -> (auteur, PR)
     contributeurs: dict[str, list[str]] = field(default_factory=dict)          # dossier -> auteurs
 
@@ -52,13 +53,19 @@ def compter(trad: Path = commun.TRAD) -> Compte:
     c = Compte(categories={cle: [0, 0] for cle, _ in CATEGORIES})
     reprises = memoire.construire(trad)
     c.divergences = reprises.divergences()
+    locuteurs = memoire.construire_locuteurs(trad)
+    c.divergences_noms = locuteurs.divergences()
     for p in commun.fichiers_trad(trad):
         rel = p.relative_to(trad).as_posix()
         parties = rel.split("/")
         categorie = parties[0]
         dossier = "/".join(parties[:2]) if len(parties) > 2 else categorie
         for e in commun.lire_json(p):
-            propage = categorie != "noms" and reprises.couvre(e)
+            if rel == memoire.LOCUTEURS:
+                # Un nom traduit dans une scène (« locuteur_fr ») compte aussi.
+                propage = not e.get("fr") and e.get("en") in locuteurs.variantes
+            else:
+                propage = categorie != "noms" and reprises.couvre(e)
             fait = bool(e.get("fr")) or propage
             c.propages += propage
             for compteur in (c.categories.setdefault(categorie, [0, 0]),
@@ -202,6 +209,14 @@ def suivi(c: Compte) -> str:
                      "fréquente est reprise pour les entrées vides : choisir la bonne, puis aligner les autres.",
                      ""]
         for en, variantes in c.divergences[:50]:
+            choix = " · ".join(f"« {fr} » ×{n}" for fr, n in variantes.items())
+            morceaux.append(f"- `{en}` → {choix}")
+    if c.divergences_noms:
+        morceaux += ["", "## Noms à harmoniser", "",
+                     "Ces locuteurs ont reçu plusieurs noms français d'une scène à l'autre (champ "
+                     "`locuteur_fr`). Chaque scène garde le sien ; les autres prennent celui de "
+                     "`trad/noms/locuteurs.json`, sinon le plus fréquent : le fixer là-bas.", ""]
+        for en, variantes in c.divergences_noms[:50]:
             choix = " · ".join(f"« {fr} » ×{n}" for fr, n in variantes.items())
             morceaux.append(f"- `{en}` → {choix}")
     if c.revoir:

@@ -77,6 +77,16 @@ def test_fr_conserve(tmp_path):
     assert revoir == []
 
 
+def test_nom_traduit_dans_la_scene_conserve(tmp_path):
+    anciennes = {("systeme/init/aide.json", "dlg_a"):
+                 {"id": "dlg_a", "locuteur": "Yosuke", "en": "Hello there!{PAGE}Bye.",
+                  "fr": "", "locuteur_fr": "Yôsuke"}}
+    fichiers, _, _ = extraire.construire(_scripts(tmp_path), anciennes)
+    dlg = fichiers["systeme/init/aide.json"][0]
+    assert list(dlg) == ["id", "locuteur", "locuteur_fr", "en", "fr"]      # sous le nom anglais
+    assert dlg["locuteur_fr"] == "Yôsuke"
+
+
 def test_anglais_change(tmp_path):
     anciennes = {("systeme/init/aide.json", "dlg_a"):
                  {"id": "dlg_a", "en": "Hi!{PAGE}Bye.", "fr": "Salut !{PAGE}Ciao."}}
