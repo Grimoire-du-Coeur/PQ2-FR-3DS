@@ -2,23 +2,23 @@
   {
     "id": "DG_MSG_QUEST_FIND",
     "en": "You've found a quest!",
-    "fr": ""
+    "fr": "Vous avez trouvé une quête !"
   },
   {
     "id": "DG_MSG_QUEST_FIND_QUESTI",
     "en": "You couldn't find a quest...{SAUT}because you're already on a quest!",
-    "fr": ""
+    "fr": "Vous n'avez pas trouvé de quête...{SAUT}car vous en avez déjà une en cours !"
   },
   {
     "id": "DG_MSG_LOCK_DOOR_NO_OPEN",
     "en": "It's locked.",
-    "fr": ""
+    "fr": "C'est fermé."
   },
   {
     "id": "DG_MSG_SEL_QUEST_CLEAR",
     "choix": true,
     "en": "Return to base{OPTION}Explore freely",
-    "fr": ""
+    "fr": "Retourner à la base{OPTION}Explorer librement"
   },
   {
     "id": "DG_MSG_QST_PROGRESS_ENEM",
