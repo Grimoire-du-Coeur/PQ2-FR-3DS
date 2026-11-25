@@ -3,37 +3,37 @@
     "id": "MSG_000",
     "locuteur": "Ann",
     "en": "We really CAN use our Personas here!",
-    "fr": ""
+    "fr": "On PEUT vraiment utiliser nos Personae{SAUT}ici !"
   },
   {
     "id": "MSG_001",
     "locuteur": "Haru",
     "en": "Since we're still in phantom thief attire,{SAUT}does that mean this place is still inside{SAUT}Mementos?",
-    "fr": ""
+    "fr": "Puisque nous portons encore nos tenues{SAUT}de Voleurs Fantômes, cet endroit est-il{SAUT}toujours dans le Mementos ?"
   },
   {
     "id": "MSG_002",
     "locuteur": "Yusuke",
     "en": "Except, we couldn't use our guns.",
-    "fr": ""
+    "fr": "Sauf que nous n'avons pas pu{SAUT}utiliser nos armes."
   },
   {
     "id": "MSG_003",
     "locuteur": "Akechi",
     "en": "Right, they turned into ordinary{SAUT}model guns.",
-    "fr": ""
+    "fr": "Exact, elles sont redevenues{SAUT}de banales armes factices."
   },
   {
     "id": "MSG_004",
     "locuteur": "Ryuji",
     "en": "For real? Maybe it's just yours―",
-    "fr": ""
+    "fr": "Sérieux !? C'est p't-être juste{SAUT}le tien..."
   },
   {
     "id": "MSG_005",
     "locuteur": "Ryuji",
     "en": "Wait, what―mine too!?{PAGE}So we can use our Personas, but not our{SAUT}guns? What the hell's up with this place?",
-    "fr": ""
+    "fr": "Hein, quoi ! Le mien aussi !?{PAGE}On peut se servir de nos Personae, mais{SAUT}pas de nos flingues ? Il se passe{SAUT}quoi ici ?"
   },
   {
     "id": "SEL_006",
