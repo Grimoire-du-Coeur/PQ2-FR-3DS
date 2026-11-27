@@ -2,23 +2,23 @@
   {
     "id": "MSG_000",
     "en": "The sign on the door says, \"Authorized{SAUT}personnel only...\"",
-    "fr": ""
+    "fr": "Le panneau sur la porte dit :{SAUT}\"Personnel autorisé uniquement...\""
   },
   {
     "id": "MSG_000_5",
     "en": "The door won't budge...",
-    "fr": ""
+    "fr": "La porte ne bouge pas..."
   },
   {
     "id": "MSG_001",
     "locuteur": "Akechi",
     "en": "\"Authorized personnel only,\" eh? I guess{SAUT}it's only natural that the door's locked,{SAUT}then.",
-    "fr": ""
+    "fr": "\"Personnel autorisé uniquement\", hein ?{SAUT}Je suppose alors qu'il est{SAUT}tout à fait logique que la porte soit verrouillée."
   },
   {
-    "id": "MSG_002",
+   "id": "MSG_002",
     "locuteur": "Morgana",
     "en": "I could flex my lockpicking skills here...{PAGE}But, finding Makoto and Haru is more{SAUT}important right now. Let's get back to{SAUT}the search.",
-    "fr": ""
+    "fr": "Je pourrais mettre mes compétences de crochetage à profit...{PAGE}Mais trouver Makoto et Haru{SAUT}est plus important. Retournons enquêter."
   }
 ]
