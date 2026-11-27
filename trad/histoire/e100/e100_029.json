@@ -2,31 +2,31 @@
   {
     "id": "MSG_000",
     "en": "The projection room...",
-    "fr": ""
+    "fr": "La salle salle de projection..."
   },
   {
     "id": "MSG_001",
     "locuteur": "Ryuji",
     "en": "Whoa, I've never been in a projection{SAUT}room before. Is this huge thing{SAUT}the projector?",
-    "fr": ""
+    "fr": "Whoa, j'ai jamais été dans une cabine de projection{SAUT}au par avant. C'est ce gros truc{SAUT}le projecteur ?"
   },
   {
     "id": "MSG_002",
     "locuteur": "Futaba",
     "en": "Hey, don't go messing with that!{SAUT}Complex devices like projectors{SAUT}are delicate.",
-    "fr": ""
+    "fr": "Hé, pas touche !{SAUT}Les appareils compliqués comme les projecteurs{SAUT}sont délicas."
   },
   {
     "id": "MSG_004",
     "locuteur": "Futaba",
     "en": "Wha―Whoooaaah! What's that!?",
-    "fr": ""
+    "fr": "Wha-Whoooaah ! C'est quoi ça !?"
   },
   {
     "id": "MSG_005",
     "locuteur": "Akechi",
     "en": "Is it a Shadow!?",
-    "fr": ""
+    "fr": "Est-ce que c'est une Ombre !?"
   },
   {
     "id": "MSG_007",
