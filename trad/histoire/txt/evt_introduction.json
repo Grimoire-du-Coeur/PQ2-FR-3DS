@@ -12,47 +12,47 @@
   {
     "id": "evt_intro_P3HERO",
     "en": "A second-year at Gekkoukan High.{SAUT}Leader of the Shadow-fighting SEES.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Élève de 2e année au lycée Gekkoukan.{SAUT}Chef de la SEES, qui combat les Ombres.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_YOSUKE",
     "en": "A second-year at Yasogami High.{SAUT}Son of the Junes store manager.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Élève de 2e année au lycée Yasogami.{SAUT}Fils du gérant du supermarché Junes.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_CHIE",
     "en": "A second-year at Yasogami High.{SAUT}A girl who loves kung fu and meat.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Élève de 2e année au lycée Yasogami.{SAUT}Une fille qui adore le kung-fu et la viande.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_YUKIKO",
     "en": "A second-year at Yasogami High.{SAUT}Prim, but with an odd sense of humor.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Élève de 2e année au lycée Yasogami.{SAUT}Soignée en apparence, avec un sens{SAUT}de l'humour singulier.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_RISE",
     "en": "A first-year at Yasogami High.{SAUT}A teen idol on sabbatical from showbiz.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Élève de 1re année au lycée Yasogami.{SAUT}Une idole en congé sabbatique du monde du showbiz.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_KANZI",
     "en": "A first-year at Yasogami High.{SAUT}An impulsive but faithful young man.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Élève en 1er année au lycée Yasogami.{SAUT}Un jeune homme impulsif mais fidèle.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_NAOTO",
     "en": "A first-year at Yasogami High.{SAUT}The \"Detective Prince\" who helps police.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Élève de 1re année au lycée Yasogami.{SAUT}Le \"Prince détective\" qui aide la police.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_KUMA",
     "en": "A mysterious creature from the TV{SAUT}world, now living in Yosuke's closet.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Une mystérieuse créature en provenance du{SAUT}monde de la télé, qui vit désormais dans le placard de Yosuke.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_YUKARI",
     "en": "A second-year at Gekkoukan High, who{SAUT}has a strong will and archery skills.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Élève de 2e année au lycée Gekkoukan,{SAUT}au fort caractère avec des talents d'archère.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_JUNPEI",
@@ -62,12 +62,12 @@
   {
     "id": "evt_intro_SANADA",
     "en": "A third-year at Gekkoukan High.{SAUT}The popular captain of the boxing team.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Élève de 3e année au lycée Gekkoukan.{SAUT}Le capitaine populaire de l'équipe de boxe.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_MITSURU",
     "en": "A third-year at Gekkoukan High. Student{SAUT}Council President and head of SEES.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Élève de 3e année au lycée Gekkoukan.{SAUT}Présidente du conseil des élèves et cheffe de la SEES.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_FUKA",
@@ -77,7 +77,7 @@
   {
     "id": "evt_intro_AEGIS",
     "en": "A robotic weapon with Persona abilities{SAUT}and also a second-year at Gekkoukan.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Une arme robotique possédant une Persona.{SAUT}Elle étudie elle aussi à Gekkoukan en 2e année.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_AMADA",
@@ -87,17 +87,17 @@
   {
     "id": "evt_intro_KOROMARU",
     "en": "A Shiba Inu with Persona abilities.{SAUT}His owner died in an accident.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Un Shiba Inu possédant une Persona.{SAUT}Son propriétaire est mort dans un accident.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_ARAGAKI",
     "en": "A third-year at Gekkoukan High who is{SAUT}taking time off. Friends with Akihiko.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Élève en 3e année au lycée Gekkoukan{SAUT}en pause dans sa scolarité. Ami avec Akihiko.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_P3HERO2",
     "en": "A second-year at Gekkoukan High.{SAUT}Leader of the Shadow-fighting SEES.{SAUT}　{SAUT}É紹介演出用メッセージÉ",
-    "fr": ""
+    "fr": "Élève de 2e année au lycée Gekkoukan.{SAUT}Chef de la SEES, qui combat les Ombres.{SAUT}　{SAUT}É紹介演出用メッセージÉ"
   },
   {
     "id": "evt_intro_P5HERO",
@@ -112,7 +112,7 @@
   {
     "id": "evt_intro_ANN",
     "en": "Codename: Panther.{SAUT}Second-year classmate,{SAUT}one-quarter American, and{SAUT}part-time magazine model.{SAUT}Bright and cheerful; cares{SAUT}deeply for her friends.",
-    "fr": ""
+    "fr": "Nom de code : Panther. Une camarade de classe en 2e année,{SAUT}un quart américaine{SAUT}et mannequin à temps partiel.{SAUT}Solaire et joyeuse; elle tient profondément{SAUT}à ses amis."
   },
   {
     "id": "evt_intro_MONA",
@@ -139,9 +139,9 @@
     "en": "Codename: Noir.{SAUT}Third-year at Shujin High and{SAUT}senpai to the rest of the gang.{SAUT}The only daughter of the Okumura{SAUT}Foods corporation president.",
     "fr": ""
   },
-  {
+{
     "id": "evt_intro_AKECHI",
     "en": "Codename: Crow.{SAUT}A third-year high school student{SAUT}who is often referred to as the{SAUT}\"Next Detective Prince\" due to his{SAUT}sharp deductions and fastidious{SAUT}appearance.",
-    "fr": ""
+    "fr": "Nom de code : Crow.{SAUT}Un lycéen de 3e année{SAUT}souvent surnommé le{SAUT}\"Nouveau Prince détective\" grâce à ses{SAUT}déductions affûtées et son apparence{SAUT}irréprochable."
   }
 ]
