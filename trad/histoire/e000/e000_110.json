@@ -39,48 +39,48 @@
     "id": "SEL_006",
     "choix": true,
     "en": "There's no cognitive effect here?{OPTION}We're still in Mementos.{OPTION}I'm not sure...",
-    "fr": ""
+    "fr": "Il n'y a plus d'effet cognitif ?{OPTION}On est encore dans le Mementos.{OPTION}Je ne suis pas sûr..."
   },
   {
     "id": "MSG_007",
     "locuteur": "Makoto",
     "en": "That appears to be the case―but if so,{SAUT}where exactly have we gone?",
-    "fr": ""
+    "fr": "C'est bien ce qu'il me semble mais, si{SAUT}tel est le cas, où sommes allés{SAUT}exactement ?"
   },
   {
     "id": "MSG_008",
     "locuteur": "Makoto",
     "en": "But, since our guns don't work, doesn't{SAUT}that mean we're not somewhere{SAUT}in Mementos?{PAGE}Could this place possibly be unaffected{SAUT}by cognition?",
-    "fr": ""
+    "fr": "Mais, puisque nos armes ne fonctionnent{SAUT}pas, cela veut-il dire que nous{SAUT}ne sommes pas dans le Mementos ?{PAGE}Est-ce que cet endroit pourrait ne pas{SAUT}être affecté par la cognition ?"
   },
   {
     "id": "MSG_009",
     "locuteur": "Futaba",
     "en": "Hey―I'm sensing another Shadow!{SAUT}It's headed this way!",
-    "fr": ""
+    "fr": "Hé, je sens la présence d'une autre{SAUT}Ombre ! Elle se dirige par ici !"
   },
   {
     "id": "MSG_010",
     "locuteur": "Ryuji",
     "en": "There are more here!?",
-    "fr": ""
+    "fr": "Y'en a d'autres ici !?"
   },
   {
     "id": "MSG_011",
     "locuteur": "Futaba",
     "en": "That's not all―this one's a lot different{SAUT}from those scrubs... It seems way more{SAUT}dangerous.",
-    "fr": ""
+    "fr": "Et c'est pas tout : celui-ci est bien{SAUT}différent de ces noobs... il a l'air{SAUT}carrément plus dangereux..."
   },
   {
     "id": "MSG_012",
     "locuteur": "Ann",
     "en": "What the―What's going on here!?",
-    "fr": ""
+    "fr": "Mais qu'est-ce que...{SAUT}que se passe-t-il ici !?"
   },
   {
     "id": "MSG_013",
     "locuteur": "Futaba",
     "en": "I dunno, but we should avoid contact{SAUT}with it.{PAGE}I'll navigate―here, head in the direction{SAUT}where there aren't any Shadows!",
-    "fr": ""
+    "fr": "J'en sais rien, mais on devrait éviter{SAUT}tout contact avec elle.{PAGE}Je m'occupe de la naviguation... par là,{SAUT}dirige-toi vers l'endroit où il{SAUT}n'y a pas d'Ombres !"
   }
 ]
